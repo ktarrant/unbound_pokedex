@@ -1,0 +1,5086 @@
+{
+    "NONE": {
+        "size": "0x88",
+        "y_offset": "0x0"
+    },
+    "BULBASAUR": {
+        "size": "0x55",
+        "y_offset": "0xe"
+    },
+    "IVYSAUR": {
+        "size": "0x66",
+        "y_offset": "0x8"
+    },
+    "VENUSAUR": {
+        "size": "0x87",
+        "y_offset": "0x3"
+    },
+    "CHARMANDER": {
+        "size": "0x55",
+        "y_offset": "0xb"
+    },
+    "CHARMELEON": {
+        "size": "0x76",
+        "y_offset": "0x6"
+    },
+    "CHARIZARD": {
+        "size": "0x88",
+        "y_offset": "0x0"
+    },
+    "SQUIRTLE": {
+        "size": "0x65",
+        "y_offset": "0xc"
+    },
+    "WARTORTLE": {
+        "size": "0x76",
+        "y_offset": "0x7"
+    },
+    "BLASTOISE": {
+        "size": "0x87",
+        "y_offset": "0x4"
+    },
+    "CATERPIE": {
+        "size": "0x54",
+        "y_offset": "0xc"
+    },
+    "METAPOD": {
+        "size": "0x54",
+        "y_offset": "0xe"
+    },
+    "BUTTERFREE": {
+        "size": "0x76",
+        "y_offset": "0xa"
+    },
+    "WEEDLE": {
+        "size": "0x54",
+        "y_offset": "0xd"
+    },
+    "KAKUNA": {
+        "size": "0x45",
+        "y_offset": "0xb"
+    },
+    "BEEDRILL": {
+        "size": "0x86",
+        "y_offset": "0x5"
+    },
+    "PIDGEY": {
+        "size": "0x55",
+        "y_offset": "0xc"
+    },
+    "PIDGEOTTO": {
+        "size": "0x67",
+        "y_offset": "0x6"
+    },
+    "PIDGEOT": {
+        "size": "0x88",
+        "y_offset": "0x2"
+    },
+    "RATTATA": {
+        "size": "0x65",
+        "y_offset": "0xd"
+    },
+    "RATICATE": {
+        "size": "0x76",
+        "y_offset": "0x6"
+    },
+    "SPEAROW": {
+        "size": "0x55",
+        "y_offset": "0xc"
+    },
+    "FEAROW": {
+        "size": "0x88",
+        "y_offset": "0x0"
+    },
+    "EKANS": {
+        "size": "0x65",
+        "y_offset": "0xc"
+    },
+    "ARBOK": {
+        "size": "0x78",
+        "y_offset": "0x2"
+    },
+    "PIKACHU": {
+        "size": "0x67",
+        "y_offset": "0x8"
+    },
+    "RAICHU": {
+        "size": "0x88",
+        "y_offset": "0x2"
+    },
+    "SANDSHREW": {
+        "size": "0x56",
+        "y_offset": "0xa"
+    },
+    "SANDSLASH": {
+        "size": "0x77",
+        "y_offset": "0x6"
+    },
+    "NIDORAN_F": {
+        "size": "0x54",
+        "y_offset": "0xd"
+    },
+    "NIDORINA": {
+        "size": "0x66",
+        "y_offset": "0x8"
+    },
+    "NIDOQUEEN": {
+        "size": "0x78",
+        "y_offset": "0x2"
+    },
+    "NIDORAN_M": {
+        "size": "0x55",
+        "y_offset": "0xc"
+    },
+    "NIDORINO": {
+        "size": "0x66",
+        "y_offset": "0x8"
+    },
+    "NIDOKING": {
+        "size": "0x88",
+        "y_offset": "0x0"
+    },
+    "CLEFAIRY": {
+        "size": "0x55",
+        "y_offset": "0xe"
+    },
+    "CLEFABLE": {
+        "size": "0x67",
+        "y_offset": "0x6"
+    },
+    "VULPIX": {
+        "size": "0x65",
+        "y_offset": "0xb"
+    },
+    "NINETALES": {
+        "size": "0x88",
+        "y_offset": "0x3"
+    },
+    "JIGGLYPUFF": {
+        "size": "0x55",
+        "y_offset": "0xe"
+    },
+    "WIGGLYTUFF": {
+        "size": "0x67",
+        "y_offset": "0x4"
+    },
+    "ZUBAT": {
+        "size": "0x66",
+        "y_offset": "0xa"
+    },
+    "GOLBAT": {
+        "size": "0x88",
+        "y_offset": "0x7"
+    },
+    "ODDISH": {
+        "size": "0x45",
+        "y_offset": "0xe"
+    },
+    "GLOOM": {
+        "size": "0x66",
+        "y_offset": "0xc"
+    },
+    "VILEPLUME": {
+        "size": "0x76",
+        "y_offset": "0x8"
+    },
+    "PARAS": {
+        "size": "0x64",
+        "y_offset": "0xc"
+    },
+    "PARASECT": {
+        "size": "0x86",
+        "y_offset": "0x7"
+    },
+    "VENONAT": {
+        "size": "0x57",
+        "y_offset": "0x8"
+    },
+    "VENOMOTH": {
+        "size": "0x87",
+        "y_offset": "0x9"
+    },
+    "DIGLETT": {
+        "size": "0x54",
+        "y_offset": "0x11"
+    },
+    "DUGTRIO": {
+        "size": "0x75",
+        "y_offset": "0xb"
+    },
+    "MEOWTH": {
+        "size": "0x55",
+        "y_offset": "0xa"
+    },
+    "PERSIAN": {
+        "size": "0x76",
+        "y_offset": "0x4"
+    },
+    "PSYDUCK": {
+        "size": "0x56",
+        "y_offset": "0xb"
+    },
+    "GOLDUCK": {
+        "size": "0x77",
+        "y_offset": "0x3"
+    },
+    "MANKEY": {
+        "size": "0x66",
+        "y_offset": "0xb"
+    },
+    "PRIMEAPE": {
+        "size": "0x77",
+        "y_offset": "0x6"
+    },
+    "GROWLITHE": {
+        "size": "0x65",
+        "y_offset": "0xb"
+    },
+    "ARCANINE": {
+        "size": "0x88",
+        "y_offset": "0x2"
+    },
+    "POLIWAG": {
+        "size": "0x74",
+        "y_offset": "0xe"
+    },
+    "POLIWHIRL": {
+        "size": "0x76",
+        "y_offset": "0x9"
+    },
+    "POLIWRATH": {
+        "size": "0x77",
+        "y_offset": "0x6"
+    },
+    "ABRA": {
+        "size": "0x66",
+        "y_offset": "0xa"
+    },
+    "KADABRA": {
+        "size": "0x87",
+        "y_offset": "0x5"
+    },
+    "ALAKAZAM": {
+        "size": "0x88",
+        "y_offset": "0x2"
+    },
+    "MACHOP": {
+        "size": "0x46",
+        "y_offset": "0x5"
+    },
+    "MACHOKE": {
+        "size": "0x77",
+        "y_offset": "0x4"
+    },
+    "MACHAMP": {
+        "size": "0x88",
+        "y_offset": "0x0"
+    },
+    "BELLSPROUT": {
+        "size": "0x66",
+        "y_offset": "0xc"
+    },
+    "WEEPINBELL": {
+        "size": "0x66",
+        "y_offset": "0xb"
+    },
+    "VICTREEBEL": {
+        "size": "0x77",
+        "y_offset": "0x6"
+    },
+    "TENTACOOL": {
+        "size": "0x66",
+        "y_offset": "0x7"
+    },
+    "TENTACRUEL": {
+        "size": "0x78",
+        "y_offset": "0x4"
+    },
+    "GEODUDE": {
+        "size": "0x74",
+        "y_offset": "0x13"
+    },
+    "GRAVELER": {
+        "size": "0x86",
+        "y_offset": "0x8"
+    },
+    "GOLEM": {
+        "size": "0x87",
+        "y_offset": "0x6"
+    },
+    "PONYTA": {
+        "size": "0x67",
+        "y_offset": "0x6"
+    },
+    "RAPIDASH": {
+        "size": "0x88",
+        "y_offset": "0x0"
+    },
+    "SLOWPOKE": {
+        "size": "0x65",
+        "y_offset": "0x10"
+    },
+    "SLOWBRO": {
+        "size": "0x88",
+        "y_offset": "0x0"
+    },
+    "MAGNEMITE": {
+        "size": "0x53",
+        "y_offset": "0x14"
+    },
+    "MAGNETON": {
+        "size": "0x75",
+        "y_offset": "0x7"
+    },
+    "FARFETCHD": {
+        "size": "0x76",
+        "y_offset": "0x7"
+    },
+    "DODUO": {
+        "size": "0x67",
+        "y_offset": "0x7"
+    },
+    "DODRIO": {
+        "size": "0x88",
+        "y_offset": "0x0"
+    },
+    "SEEL": {
+        "size": "0x76",
+        "y_offset": "0x8"
+    },
+    "DEWGONG": {
+        "size": "0x87",
+        "y_offset": "0x2"
+    },
+    "GRIMER": {
+        "size": "0x66",
+        "y_offset": "0xb"
+    },
+    "MUK": {
+        "size": "0x86",
+        "y_offset": "0x6"
+    },
+    "SHELLDER": {
+        "size": "0x55",
+        "y_offset": "0xe"
+    },
+    "CLOYSTER": {
+        "size": "0x87",
+        "y_offset": "0x3"
+    },
+    "GASTLY": {
+        "size": "0x77",
+        "y_offset": "0xd"
+    },
+    "HAUNTER": {
+        "size": "0x87",
+        "y_offset": "0xd"
+    },
+    "GENGAR": {
+        "size": "0x76",
+        "y_offset": "0x7"
+    },
+    "ONIX": {
+        "size": "0x78",
+        "y_offset": "0x3"
+    },
+    "DROWZEE": {
+        "size": "0x66",
+        "y_offset": "0x7"
+    },
+    "HYPNO": {
+        "size": "0x87",
+        "y_offset": "0x3"
+    },
+    "KRABBY": {
+        "size": "0x75",
+        "y_offset": "0xe"
+    },
+    "KINGLER": {
+        "size": "0x87",
+        "y_offset": "0x9"
+    },
+    "VOLTORB": {
+        "size": "0x44",
+        "y_offset": "0x11"
+    },
+    "ELECTRODE": {
+        "size": "0x55",
+        "y_offset": "0xb"
+    },
+    "EXEGGCUTE": {
+        "size": "0x76",
+        "y_offset": "0xc"
+    },
+    "EXEGGUTOR": {
+        "size": "0x88",
+        "y_offset": "0x0"
+    },
+    "CUBONE": {
+        "size": "0x65",
+        "y_offset": "0xd"
+    },
+    "MAROWAK": {
+        "size": "0x87",
+        "y_offset": "0x8"
+    },
+    "HITMONLEE": {
+        "size": "0x77",
+        "y_offset": "0x3"
+    },
+    "HITMONCHAN": {
+        "size": "0x67",
+        "y_offset": "0x3"
+    },
+    "LICKITUNG": {
+        "size": "0x86",
+        "y_offset": "0x7"
+    },
+    "KOFFING": {
+        "size": "0x66",
+        "y_offset": "0xa"
+    },
+    "WEEZING": {
+        "size": "0x88",
+        "y_offset": "0x0"
+    },
+    "RHYHORN": {
+        "size": "0x76",
+        "y_offset": "0xc"
+    },
+    "RHYDON": {
+        "size": "0x88",
+        "y_offset": "0x0"
+    },
+    "CHANSEY": {
+        "size": "0x76",
+        "y_offset": "0x9"
+    },
+    "TANGELA": {
+        "size": "0x66",
+        "y_offset": "0xc"
+    },
+    "KANGASKHAN": {
+        "size": "0x88",
+        "y_offset": "0x1"
+    },
+    "HORSEA": {
+        "size": "0x45",
+        "y_offset": "0xe"
+    },
+    "SEADRA": {
+        "size": "0x77",
+        "y_offset": "0x6"
+    },
+    "GOLDEEN": {
+        "size": "0x66",
+        "y_offset": "0xd"
+    },
+    "SEAKING": {
+        "size": "0x77",
+        "y_offset": "0x5"
+    },
+    "STARYU": {
+        "size": "0x66",
+        "y_offset": "0xb"
+    },
+    "STARMIE": {
+        "size": "0x67",
+        "y_offset": "0x6"
+    },
+    "MR_MIME": {
+        "size": "0x76",
+        "y_offset": "0x7"
+    },
+    "SCYTHER": {
+        "size": "0x78",
+        "y_offset": "0x2"
+    },
+    "JYNX": {
+        "size": "0x66",
+        "y_offset": "0x9"
+    },
+    "ELECTABUZZ": {
+        "size": "0x88",
+        "y_offset": "0x4"
+    },
+    "MAGMAR": {
+        "size": "0x87",
+        "y_offset": "0x4"
+    },
+    "PINSIR": {
+        "size": "0x77",
+        "y_offset": "0x5"
+    },
+    "TAUROS": {
+        "size": "0x88",
+        "y_offset": "0x5"
+    },
+    "MAGIKARP": {
+        "size": "0x77",
+        "y_offset": "0x6"
+    },
+    "GYARADOS": {
+        "size": "0x88",
+        "y_offset": "0x1"
+    },
+    "LAPRAS": {
+        "size": "0x87",
+        "y_offset": "0x2"
+    },
+    "DITTO": {
+        "size": "0x54",
+        "y_offset": "0x10"
+    },
+    "EEVEE": {
+        "size": "0x56",
+        "y_offset": "0xb"
+    },
+    "VAPOREON": {
+        "size": "0x67",
+        "y_offset": "0x9"
+    },
+    "JOLTEON": {
+        "size": "0x66",
+        "y_offset": "0x9"
+    },
+    "FLAREON": {
+        "size": "0x76",
+        "y_offset": "0xb"
+    },
+    "PORYGON": {
+        "size": "0x56",
+        "y_offset": "0xf"
+    },
+    "OMANYTE": {
+        "size": "0x45",
+        "y_offset": "0xe"
+    },
+    "OMASTAR": {
+        "size": "0x67",
+        "y_offset": "0x9"
+    },
+    "KABUTO": {
+        "size": "0x54",
+        "y_offset": "0x12"
+    },
+    "KABUTOPS": {
+        "size": "0x88",
+        "y_offset": "0x2"
+    },
+    "AERODACTYL": {
+        "size": "0x88",
+        "y_offset": "0x4"
+    },
+    "SNORLAX": {
+        "size": "0x87",
+        "y_offset": "0x2"
+    },
+    "ARTICUNO": {
+        "size": "0x88",
+        "y_offset": "0x0"
+    },
+    "ZAPDOS": {
+        "size": "0x88",
+        "y_offset": "0x4"
+    },
+    "MOLTRES": {
+        "size": "0x88",
+        "y_offset": "0x1"
+    },
+    "DRATINI": {
+        "size": "0x75",
+        "y_offset": "0xb"
+    },
+    "DRAGONAIR": {
+        "size": "0x87",
+        "y_offset": "0x1"
+    },
+    "DRAGONITE": {
+        "size": "0x88",
+        "y_offset": "0x0"
+    },
+    "MEWTWO": {
+        "size": "0x88",
+        "y_offset": "0x0"
+    },
+    "MEW": {
+        "size": "0x77",
+        "y_offset": "0x9"
+    },
+    "CHIKORITA": {
+        "size": "0x75",
+        "y_offset": "0xa"
+    },
+    "BAYLEEF": {
+        "size": "0x77",
+        "y_offset": "0x3"
+    },
+    "MEGANIUM": {
+        "size": "0x88",
+        "y_offset": "0x0"
+    },
+    "CYNDAQUIL": {
+        "size": "0x55",
+        "y_offset": "0xe"
+    },
+    "QUILAVA": {
+        "size": "0x76",
+        "y_offset": "0x9"
+    },
+    "TYPHLOSION": {
+        "size": "0x78",
+        "y_offset": "0x0"
+    },
+    "TOTODILE": {
+        "size": "0x55",
+        "y_offset": "0xe"
+    },
+    "CROCONAW": {
+        "size": "0x67",
+        "y_offset": "0x5"
+    },
+    "FERALIGATR": {
+        "size": "0x88",
+        "y_offset": "0x1"
+    },
+    "SENTRET": {
+        "size": "0x47",
+        "y_offset": "0x2"
+    },
+    "FURRET": {
+        "size": "0x67",
+        "y_offset": "0x4"
+    },
+    "HOOTHOOT": {
+        "size": "0x55",
+        "y_offset": "0xc"
+    },
+    "NOCTOWL": {
+        "size": "0x58",
+        "y_offset": "0x2"
+    },
+    "LEDYBA": {
+        "size": "0x56",
+        "y_offset": "0x9"
+    },
+    "LEDIAN": {
+        "size": "0x67",
+        "y_offset": "0x6"
+    },
+    "SPINARAK": {
+        "size": "0x54",
+        "y_offset": "0x12"
+    },
+    "ARIADOS": {
+        "size": "0x87",
+        "y_offset": "0x8"
+    },
+    "CROBAT": {
+        "size": "0x88",
+        "y_offset": "0x6"
+    },
+    "CHINCHOU": {
+        "size": "0x75",
+        "y_offset": "0xc"
+    },
+    "LANTURN": {
+        "size": "0x87",
+        "y_offset": "0xb"
+    },
+    "PICHU": {
+        "size": "0x45",
+        "y_offset": "0xe"
+    },
+    "CLEFFA": {
+        "size": "0x44",
+        "y_offset": "0x13"
+    },
+    "IGGLYBUFF": {
+        "size": "0x44",
+        "y_offset": "0x11"
+    },
+    "TOGEPI": {
+        "size": "0x34",
+        "y_offset": "0x11"
+    },
+    "TOGETIC": {
+        "size": "0x46",
+        "y_offset": "0x8"
+    },
+    "NATU": {
+        "size": "0x44",
+        "y_offset": "0xe"
+    },
+    "XATU": {
+        "size": "0x47",
+        "y_offset": "0x0"
+    },
+    "MAREEP": {
+        "size": "0x55",
+        "y_offset": "0xc"
+    },
+    "FLAAFFY": {
+        "size": "0x56",
+        "y_offset": "0xa"
+    },
+    "AMPHAROS": {
+        "size": "0x77",
+        "y_offset": "0x2"
+    },
+    "BELLOSSOM": {
+        "size": "0x45",
+        "y_offset": "0xd"
+    },
+    "MARILL": {
+        "size": "0x65",
+        "y_offset": "0xe"
+    },
+    "AZUMARILL": {
+        "size": "0x76",
+        "y_offset": "0x6"
+    },
+    "SUDOWOODO": {
+        "size": "0x67",
+        "y_offset": "0x7"
+    },
+    "POLITOED": {
+        "size": "0x67",
+        "y_offset": "0x5"
+    },
+    "HOPPIP": {
+        "size": "0x66",
+        "y_offset": "0xe"
+    },
+    "SKIPLOOM": {
+        "size": "0x55",
+        "y_offset": "0x11"
+    },
+    "JUMPLUFF": {
+        "size": "0x77",
+        "y_offset": "0x9"
+    },
+    "AIPOM": {
+        "size": "0x58",
+        "y_offset": "0x1"
+    },
+    "SUNKERN": {
+        "size": "0x44",
+        "y_offset": "0x11"
+    },
+    "SUNFLORA": {
+        "size": "0x56",
+        "y_offset": "0x8"
+    },
+    "YANMA": {
+        "size": "0x86",
+        "y_offset": "0xe"
+    },
+    "WOOPER": {
+        "size": "0x54",
+        "y_offset": "0x11"
+    },
+    "QUAGSIRE": {
+        "size": "0x77",
+        "y_offset": "0x5"
+    },
+    "ESPEON": {
+        "size": "0x66",
+        "y_offset": "0x8"
+    },
+    "UMBREON": {
+        "size": "0x67",
+        "y_offset": "0x9"
+    },
+    "MURKROW": {
+        "size": "0x66",
+        "y_offset": "0x10"
+    },
+    "SLOWKING": {
+        "size": "0x58",
+        "y_offset": "0x0"
+    },
+    "MISDREAVUS": {
+        "size": "0x55",
+        "y_offset": "0xd"
+    },
+    "UNOWN": {
+        "size": "0x35",
+        "y_offset": "0xf"
+    },
+    "WOBBUFFET": {
+        "size": "0x77",
+        "y_offset": "0x5"
+    },
+    "GIRAFARIG": {
+        "size": "0x88",
+        "y_offset": "0x0"
+    },
+    "PINECO": {
+        "size": "0x56",
+        "y_offset": "0xc"
+    },
+    "FORRETRESS": {
+        "size": "0x76",
+        "y_offset": "0x8"
+    },
+    "DUNSPARCE": {
+        "size": "0x74",
+        "y_offset": "0x9"
+    },
+    "GLIGAR": {
+        "size": "0x78",
+        "y_offset": "0x4"
+    },
+    "STEELIX": {
+        "size": "0x88",
+        "y_offset": "0x0"
+    },
+    "SNUBBULL": {
+        "size": "0x55",
+        "y_offset": "0xc"
+    },
+    "GRANBULL": {
+        "size": "0x57",
+        "y_offset": "0x4"
+    },
+    "QWILFISH": {
+        "size": "0x56",
+        "y_offset": "0x8"
+    },
+    "SCIZOR": {
+        "size": "0x88",
+        "y_offset": "0x2"
+    },
+    "SHUCKLE": {
+        "size": "0x66",
+        "y_offset": "0x8"
+    },
+    "HERACROSS": {
+        "size": "0x88",
+        "y_offset": "0x1"
+    },
+    "SNEASEL": {
+        "size": "0x67",
+        "y_offset": "0x8"
+    },
+    "TEDDIURSA": {
+        "size": "0x46",
+        "y_offset": "0xc"
+    },
+    "URSARING": {
+        "size": "0x78",
+        "y_offset": "0x0"
+    },
+    "SLUGMA": {
+        "size": "0x45",
+        "y_offset": "0xc"
+    },
+    "MAGCARGO": {
+        "size": "0x57",
+        "y_offset": "0x6"
+    },
+    "SWINUB": {
+        "size": "0x43",
+        "y_offset": "0x14"
+    },
+    "PILOSWINE": {
+        "size": "0x66",
+        "y_offset": "0x8"
+    },
+    "CORSOLA": {
+        "size": "0x65",
+        "y_offset": "0xc"
+    },
+    "REMORAID": {
+        "size": "0x55",
+        "y_offset": "0xb"
+    },
+    "OCTILLERY": {
+        "size": "0x66",
+        "y_offset": "0x7"
+    },
+    "DELIBIRD": {
+        "size": "0x56",
+        "y_offset": "0x7"
+    },
+    "MANTINE": {
+        "size": "0x88",
+        "y_offset": "0xa"
+    },
+    "SKARMORY": {
+        "size": "0x88",
+        "y_offset": "0x1"
+    },
+    "HOUNDOUR": {
+        "size": "0x56",
+        "y_offset": "0x9"
+    },
+    "HOUNDOOM": {
+        "size": "0x77",
+        "y_offset": "0x0"
+    },
+    "KINGDRA": {
+        "size": "0x78",
+        "y_offset": "0x1"
+    },
+    "PHANPY": {
+        "size": "0x54",
+        "y_offset": "0x10"
+    },
+    "DONPHAN": {
+        "size": "0x86",
+        "y_offset": "0x9"
+    },
+    "PORYGON2": {
+        "size": "0x55",
+        "y_offset": "0xe"
+    },
+    "STANTLER": {
+        "size": "0x88",
+        "y_offset": "0x0"
+    },
+    "SMEARGLE": {
+        "size": "0x77",
+        "y_offset": "0x6"
+    },
+    "TYROGUE": {
+        "size": "0x46",
+        "y_offset": "0x9"
+    },
+    "HITMONTOP": {
+        "size": "0x67",
+        "y_offset": "0x7"
+    },
+    "SMOOCHUM": {
+        "size": "0x35",
+        "y_offset": "0xe"
+    },
+    "ELEKID": {
+        "size": "0x76",
+        "y_offset": "0xc"
+    },
+    "MAGBY": {
+        "size": "0x45",
+        "y_offset": "0xc"
+    },
+    "MILTANK": {
+        "size": "0x77",
+        "y_offset": "0x8"
+    },
+    "BLISSEY": {
+        "size": "0x77",
+        "y_offset": "0x3"
+    },
+    "RAIKOU": {
+        "size": "0x88",
+        "y_offset": "0x5"
+    },
+    "ENTEI": {
+        "size": "0x88",
+        "y_offset": "0x3"
+    },
+    "SUICUNE": {
+        "size": "0x88",
+        "y_offset": "0x3"
+    },
+    "LARVITAR": {
+        "size": "0x46",
+        "y_offset": "0xa"
+    },
+    "PUPITAR": {
+        "size": "0x56",
+        "y_offset": "0xa"
+    },
+    "TYRANITAR": {
+        "size": "0x88",
+        "y_offset": "0x0"
+    },
+    "LUGIA": {
+        "size": "0x88",
+        "y_offset": "0x0"
+    },
+    "HO_OH": {
+        "size": "0x88",
+        "y_offset": "0x0"
+    },
+    "CELEBI": {
+        "size": "0x55",
+        "y_offset": "0xc"
+    },
+    "MANAPHY_EGG": {
+        "size": "0x88",
+        "y_offset": "0x10"
+    },
+    "MISSINGNO": {
+        "size": "0x88",
+        "y_offset": "0x6"
+    },
+    "TREECKO": {
+        "size": "0x66",
+        "y_offset": "0x9"
+    },
+    "GROVYLE": {
+        "size": "0x87",
+        "y_offset": "0x4"
+    },
+    "SCEPTILE": {
+        "size": "0x88",
+        "y_offset": "0x0"
+    },
+    "TORCHIC": {
+        "size": "0x56",
+        "y_offset": "0xb"
+    },
+    "COMBUSKEN": {
+        "size": "0x88",
+        "y_offset": "0x2"
+    },
+    "BLAZIKEN": {
+        "size": "0x88",
+        "y_offset": "0x0"
+    },
+    "MUDKIP": {
+        "size": "0x56",
+        "y_offset": "0xb"
+    },
+    "MARSHTOMP": {
+        "size": "0x67",
+        "y_offset": "0x5"
+    },
+    "SWAMPERT": {
+        "size": "0x88",
+        "y_offset": "0x6"
+    },
+    "POOCHYENA": {
+        "size": "0x55",
+        "y_offset": "0xb"
+    },
+    "MIGHTYENA": {
+        "size": "0x87",
+        "y_offset": "0x3"
+    },
+    "ZIGZAGOON": {
+        "size": "0x85",
+        "y_offset": "0xd"
+    },
+    "LINOONE": {
+        "size": "0x78",
+        "y_offset": "0x3"
+    },
+    "WURMPLE": {
+        "size": "0x45",
+        "y_offset": "0xc"
+    },
+    "SILCOON": {
+        "size": "0x75",
+        "y_offset": "0xb"
+    },
+    "BEAUTIFLY": {
+        "size": "0x86",
+        "y_offset": "0x9"
+    },
+    "CASCOON": {
+        "size": "0x74",
+        "y_offset": "0xb"
+    },
+    "DUSTOX": {
+        "size": "0x86",
+        "y_offset": "0xb"
+    },
+    "LOTAD": {
+        "size": "0x65",
+        "y_offset": "0xf"
+    },
+    "LOMBRE": {
+        "size": "0x66",
+        "y_offset": "0xa"
+    },
+    "LUDICOLO": {
+        "size": "0x88",
+        "y_offset": "0x0"
+    },
+    "SEEDOT": {
+        "size": "0x46",
+        "y_offset": "0xd"
+    },
+    "NUZLEAF": {
+        "size": "0x56",
+        "y_offset": "0x6"
+    },
+    "SHIFTRY": {
+        "size": "0x88",
+        "y_offset": "0x7"
+    },
+    "NINCADA": {
+        "size": "0x74",
+        "y_offset": "0x12"
+    },
+    "NINJASK": {
+        "size": "0x86",
+        "y_offset": "0x9"
+    },
+    "SHEDINJA": {
+        "size": "0x66",
+        "y_offset": "0xa"
+    },
+    "TAILLOW": {
+        "size": "0x64",
+        "y_offset": "0xc"
+    },
+    "SWELLOW": {
+        "size": "0x87",
+        "y_offset": "0x0"
+    },
+    "SHROOMISH": {
+        "size": "0x54",
+        "y_offset": "0xf"
+    },
+    "BRELOOM": {
+        "size": "0x77",
+        "y_offset": "0x1"
+    },
+    "SPINDA": {
+        "size": "0x67",
+        "y_offset": "0x7"
+    },
+    "WINGULL": {
+        "size": "0x84",
+        "y_offset": "0xb"
+    },
+    "PELIPPER": {
+        "size": "0x77",
+        "y_offset": "0x2"
+    },
+    "SURSKIT": {
+        "size": "0x65",
+        "y_offset": "0x8"
+    },
+    "MASQUERAIN": {
+        "size": "0x88",
+        "y_offset": "0x4"
+    },
+    "WAILMER": {
+        "size": "0x75",
+        "y_offset": "0xb"
+    },
+    "WAILORD": {
+        "size": "0x87",
+        "y_offset": "0x4"
+    },
+    "SKITTY": {
+        "size": "0x66",
+        "y_offset": "0xc"
+    },
+    "DELCATTY": {
+        "size": "0x66",
+        "y_offset": "0x4"
+    },
+    "KECLEON": {
+        "size": "0x67",
+        "y_offset": "0x5"
+    },
+    "BALTOY": {
+        "size": "0x55",
+        "y_offset": "0xd"
+    },
+    "CLAYDOL": {
+        "size": "0x78",
+        "y_offset": "0x3"
+    },
+    "NOSEPASS": {
+        "size": "0x56",
+        "y_offset": "0xa"
+    },
+    "TORKOAL": {
+        "size": "0x88",
+        "y_offset": "0x3"
+    },
+    "SABLEYE": {
+        "size": "0x66",
+        "y_offset": "0xa"
+    },
+    "BARBOACH": {
+        "size": "0x46",
+        "y_offset": "0x12"
+    },
+    "WHISCASH": {
+        "size": "0x76",
+        "y_offset": "0x9"
+    },
+    "LUVDISC": {
+        "size": "0x46",
+        "y_offset": "0x10"
+    },
+    "CORPHISH": {
+        "size": "0x66",
+        "y_offset": "0x8"
+    },
+    "CRAWDAUNT": {
+        "size": "0x88",
+        "y_offset": "0x4"
+    },
+    "FEEBAS": {
+        "size": "0x46",
+        "y_offset": "0xa"
+    },
+    "MILOTIC": {
+        "size": "0x88",
+        "y_offset": "0x2"
+    },
+    "CARVANHA": {
+        "size": "0x67",
+        "y_offset": "0x6"
+    },
+    "SHARPEDO": {
+        "size": "0x78",
+        "y_offset": "0x0"
+    },
+    "TRAPINCH": {
+        "size": "0x54",
+        "y_offset": "0xd"
+    },
+    "VIBRAVA": {
+        "size": "0x86",
+        "y_offset": "0xa"
+    },
+    "FLYGON": {
+        "size": "0x88",
+        "y_offset": "0x1"
+    },
+    "MAKUHITA": {
+        "size": "0x65",
+        "y_offset": "0x8"
+    },
+    "HARIYAMA": {
+        "size": "0x88",
+        "y_offset": "0x0"
+    },
+    "ELECTRIKE": {
+        "size": "0x64",
+        "y_offset": "0xe"
+    },
+    "MANECTRIC": {
+        "size": "0x67",
+        "y_offset": "0x2"
+    },
+    "NUMEL": {
+        "size": "0x65",
+        "y_offset": "0xb"
+    },
+    "CAMERUPT": {
+        "size": "0x87",
+        "y_offset": "0x6"
+    },
+    "SPHEAL": {
+        "size": "0x65",
+        "y_offset": "0xe"
+    },
+    "SEALEO": {
+        "size": "0x86",
+        "y_offset": "0xa"
+    },
+    "WALREIN": {
+        "size": "0x88",
+        "y_offset": "0x1"
+    },
+    "CACNEA": {
+        "size": "0x74",
+        "y_offset": "0xf"
+    },
+    "CACTURNE": {
+        "size": "0x88",
+        "y_offset": "0x0"
+    },
+    "SNORUNT": {
+        "size": "0x56",
+        "y_offset": "0xd"
+    },
+    "GLALIE": {
+        "size": "0x76",
+        "y_offset": "0x8"
+    },
+    "LUNATONE": {
+        "size": "0x66",
+        "y_offset": "0x9"
+    },
+    "SOLROCK": {
+        "size": "0x88",
+        "y_offset": "0x0"
+    },
+    "AZURILL": {
+        "size": "0x55",
+        "y_offset": "0xd"
+    },
+    "SPOINK": {
+        "size": "0x46",
+        "y_offset": "0x9"
+    },
+    "GRUMPIG": {
+        "size": "0x77",
+        "y_offset": "0x2"
+    },
+    "PLUSLE": {
+        "size": "0x56",
+        "y_offset": "0xb"
+    },
+    "MINUN": {
+        "size": "0x66",
+        "y_offset": "0xb"
+    },
+    "MAWILE": {
+        "size": "0x76",
+        "y_offset": "0x8"
+    },
+    "MEDITITE": {
+        "size": "0x65",
+        "y_offset": "0xb"
+    },
+    "MEDICHAM": {
+        "size": "0x68",
+        "y_offset": "0x0"
+    },
+    "SWABLU": {
+        "size": "0x76",
+        "y_offset": "0x10"
+    },
+    "ALTARIA": {
+        "size": "0x88",
+        "y_offset": "0x1"
+    },
+    "WYNAUT": {
+        "size": "0x55",
+        "y_offset": "0xc"
+    },
+    "DUSKULL": {
+        "size": "0x66",
+        "y_offset": "0xc"
+    },
+    "DUSCLOPS": {
+        "size": "0x77",
+        "y_offset": "0x3"
+    },
+    "ROSELIA": {
+        "size": "0x76",
+        "y_offset": "0xa"
+    },
+    "SLAKOTH": {
+        "size": "0x74",
+        "y_offset": "0x11"
+    },
+    "VIGOROTH": {
+        "size": "0x78",
+        "y_offset": "0x7"
+    },
+    "SLAKING": {
+        "size": "0x86",
+        "y_offset": "0x7"
+    },
+    "GULPIN": {
+        "size": "0x55",
+        "y_offset": "0xf"
+    },
+    "SWALOT": {
+        "size": "0x66",
+        "y_offset": "0x5"
+    },
+    "TROPIUS": {
+        "size": "0x88",
+        "y_offset": "0x0"
+    },
+    "WHISMUR": {
+        "size": "0x55",
+        "y_offset": "0xe"
+    },
+    "LOUDRED": {
+        "size": "0x78",
+        "y_offset": "0x3"
+    },
+    "EXPLOUD": {
+        "size": "0x88",
+        "y_offset": "0x0"
+    },
+    "CLAMPERL": {
+        "size": "0x55",
+        "y_offset": "0xc"
+    },
+    "HUNTAIL": {
+        "size": "0x78",
+        "y_offset": "0x2"
+    },
+    "GOREBYSS": {
+        "size": "0x86",
+        "y_offset": "0x3"
+    },
+    "ABSOL": {
+        "size": "0x68",
+        "y_offset": "0x2"
+    },
+    "SHUPPET": {
+        "size": "0x56",
+        "y_offset": "0xe"
+    },
+    "BANETTE": {
+        "size": "0x55",
+        "y_offset": "0x7"
+    },
+    "SEVIPER": {
+        "size": "0x77",
+        "y_offset": "0x7"
+    },
+    "ZANGOOSE": {
+        "size": "0x87",
+        "y_offset": "0x4"
+    },
+    "RELICANTH": {
+        "size": "0x77",
+        "y_offset": "0x9"
+    },
+    "ARON": {
+        "size": "0x43",
+        "y_offset": "0xf"
+    },
+    "LAIRON": {
+        "size": "0x75",
+        "y_offset": "0x8"
+    },
+    "AGGRON": {
+        "size": "0x88",
+        "y_offset": "0x0"
+    },
+    "CASTFORM": {
+        "size": "0x34",
+        "y_offset": "0x11"
+    },
+    "VOLBEAT": {
+        "size": "0x66",
+        "y_offset": "0x8"
+    },
+    "ILLUMISE": {
+        "size": "0x56",
+        "y_offset": "0xa"
+    },
+    "LILEEP": {
+        "size": "0x67",
+        "y_offset": "0x7"
+    },
+    "CRADILY": {
+        "size": "0x78",
+        "y_offset": "0x0"
+    },
+    "ANORITH": {
+        "size": "0x66",
+        "y_offset": "0x7"
+    },
+    "ARMALDO": {
+        "size": "0x88",
+        "y_offset": "0x2"
+    },
+    "RALTS": {
+        "size": "0x35",
+        "y_offset": "0xc"
+    },
+    "KIRLIA": {
+        "size": "0x47",
+        "y_offset": "0x6"
+    },
+    "GARDEVOIR": {
+        "size": "0x78",
+        "y_offset": "0x0"
+    },
+    "BAGON": {
+        "size": "0x56",
+        "y_offset": "0x9"
+    },
+    "SHELGON": {
+        "size": "0x66",
+        "y_offset": "0x9"
+    },
+    "SALAMENCE": {
+        "size": "0x87",
+        "y_offset": "0x3"
+    },
+    "BELDUM": {
+        "size": "0x55",
+        "y_offset": "0xc"
+    },
+    "METANG": {
+        "size": "0x87",
+        "y_offset": "0x8"
+    },
+    "METAGROSS": {
+        "size": "0x87",
+        "y_offset": "0xa"
+    },
+    "REGIROCK": {
+        "size": "0x78",
+        "y_offset": "0x3"
+    },
+    "REGICE": {
+        "size": "0x88",
+        "y_offset": "0x2"
+    },
+    "REGISTEEL": {
+        "size": "0x88",
+        "y_offset": "0x5"
+    },
+    "KYOGRE": {
+        "size": "0x87",
+        "y_offset": "0x0"
+    },
+    "GROUDON": {
+        "size": "0x88",
+        "y_offset": "0x0"
+    },
+    "RAYQUAZA": {
+        "size": "0x88",
+        "y_offset": "0x0"
+    },
+    "LATIAS": {
+        "size": "0x88",
+        "y_offset": "0x8"
+    },
+    "LATIOS": {
+        "size": "0x88",
+        "y_offset": "0x0"
+    },
+    "JIRACHI": {
+        "size": "0x66",
+        "y_offset": "0xd"
+    },
+    "DEOXYS": {
+        "size": "0x88",
+        "y_offset": "0x0"
+    },
+    "CHIMECHO": {
+        "size": "0x37",
+        "y_offset": "0xb"
+    },
+    "EGG": {
+        "size": "0x33",
+        "y_offset": "0x11"
+    },
+    "UNOWN_B": {
+        "size": "0x34",
+        "y_offset": "0x10"
+    },
+    "UNOWN_C": {
+        "size": "0x44",
+        "y_offset": "0x10"
+    },
+    "UNOWN_D": {
+        "size": "0x44",
+        "y_offset": "0x10"
+    },
+    "UNOWN_E": {
+        "size": "0x44",
+        "y_offset": "0x11"
+    },
+    "UNOWN_F": {
+        "size": "0x44",
+        "y_offset": "0x11"
+    },
+    "UNOWN_G": {
+        "size": "0x35",
+        "y_offset": "0xe"
+    },
+    "UNOWN_H": {
+        "size": "0x44",
+        "y_offset": "0x10"
+    },
+    "UNOWN_I": {
+        "size": "0x34",
+        "y_offset": "0x10"
+    },
+    "UNOWN_J": {
+        "size": "0x34",
+        "y_offset": "0x11"
+    },
+    "UNOWN_K": {
+        "size": "0x44",
+        "y_offset": "0x11"
+    },
+    "UNOWN_L": {
+        "size": "0x34",
+        "y_offset": "0x13"
+    },
+    "UNOWN_M": {
+        "size": "0x44",
+        "y_offset": "0x13"
+    },
+    "UNOWN_N": {
+        "size": "0x43",
+        "y_offset": "0x14"
+    },
+    "UNOWN_O": {
+        "size": "0x44",
+        "y_offset": "0x10"
+    },
+    "UNOWN_P": {
+        "size": "0x34",
+        "y_offset": "0x13"
+    },
+    "UNOWN_Q": {
+        "size": "0x43",
+        "y_offset": "0x15"
+    },
+    "UNOWN_R": {
+        "size": "0x34",
+        "y_offset": "0x13"
+    },
+    "UNOWN_S": {
+        "size": "0x45",
+        "y_offset": "0xc"
+    },
+    "UNOWN_T": {
+        "size": "0x34",
+        "y_offset": "0x12"
+    },
+    "UNOWN_U": {
+        "size": "0x44",
+        "y_offset": "0x12"
+    },
+    "UNOWN_V": {
+        "size": "0x44",
+        "y_offset": "0x12"
+    },
+    "UNOWN_W": {
+        "size": "0x44",
+        "y_offset": "0x13"
+    },
+    "UNOWN_X": {
+        "size": "0x33",
+        "y_offset": "0x15"
+    },
+    "UNOWN_Y": {
+        "size": "0x34",
+        "y_offset": "0x11"
+    },
+    "UNOWN_Z": {
+        "size": "0x34",
+        "y_offset": "0x10"
+    },
+    "UNOWN_EXCLAMATION": {
+        "size": "0x35",
+        "y_offset": "0xf"
+    },
+    "UNOWN_QUESTION": {
+        "size": "0x35",
+        "y_offset": "0xd"
+    },
+    "TURTWIG": {
+        "size": "0x0",
+        "y_offset": "0xc"
+    },
+    "GROTLE": {
+        "size": "0x0",
+        "y_offset": "0x7"
+    },
+    "TORTERRA": {
+        "size": "0x0",
+        "y_offset": "0x0"
+    },
+    "CHIMCHAR": {
+        "size": "0x0",
+        "y_offset": "0xc"
+    },
+    "MONFERNO": {
+        "size": "0x0",
+        "y_offset": "0x8"
+    },
+    "INFERNAPE": {
+        "size": "0x0",
+        "y_offset": "0x1"
+    },
+    "PIPLUP": {
+        "size": "0x0",
+        "y_offset": "0xf"
+    },
+    "PRINPLUP": {
+        "size": "0x0",
+        "y_offset": "0x7"
+    },
+    "EMPOLEON": {
+        "size": "0x0",
+        "y_offset": "0x0"
+    },
+    "STARLY": {
+        "size": "0x0",
+        "y_offset": "0xc"
+    },
+    "STARAVIA": {
+        "size": "0x0",
+        "y_offset": "0x8"
+    },
+    "STARAPTOR": {
+        "size": "0x0",
+        "y_offset": "0x3"
+    },
+    "BIDOOF": {
+        "size": "0x0",
+        "y_offset": "0xc"
+    },
+    "BIBAREL": {
+        "size": "0x0",
+        "y_offset": "0x8"
+    },
+    "KRICKETOT": {
+        "size": "0x0",
+        "y_offset": "0xd"
+    },
+    "KRICKETUNE": {
+        "size": "0x0",
+        "y_offset": "0x6"
+    },
+    "SHINX": {
+        "size": "0x0",
+        "y_offset": "0xe"
+    },
+    "LUXIO": {
+        "size": "0x0",
+        "y_offset": "0x8"
+    },
+    "LUXRAY": {
+        "size": "0x0",
+        "y_offset": "0x4"
+    },
+    "BUDEW": {
+        "size": "0x0",
+        "y_offset": "0xd"
+    },
+    "ROSERADE": {
+        "size": "0x0",
+        "y_offset": "0x7"
+    },
+    "CRANIDOS": {
+        "size": "0x0",
+        "y_offset": "0xb"
+    },
+    "RAMPARDOS": {
+        "size": "0x0",
+        "y_offset": "0x4"
+    },
+    "SHIELDON": {
+        "size": "0x0",
+        "y_offset": "0xf"
+    },
+    "BASTIODON": {
+        "size": "0x0",
+        "y_offset": "0x6"
+    },
+    "BURMY": {
+        "size": "0x0",
+        "y_offset": "0xc"
+    },
+    "WORMADAM": {
+        "size": "0x0",
+        "y_offset": "0x8"
+    },
+    "MOTHIM": {
+        "size": "0x0",
+        "y_offset": "0xa"
+    },
+    "COMBEE": {
+        "size": "0x0",
+        "y_offset": "0x10"
+    },
+    "VESPIQUEN": {
+        "size": "0x0",
+        "y_offset": "0x4"
+    },
+    "PACHIRISU": {
+        "size": "0x0",
+        "y_offset": "0x9"
+    },
+    "BUIZEL": {
+        "size": "0x0",
+        "y_offset": "0xb"
+    },
+    "FLOATZEL": {
+        "size": "0x0",
+        "y_offset": "0x2"
+    },
+    "CHERUBI": {
+        "size": "0x0",
+        "y_offset": "0x10"
+    },
+    "CHERRIM": {
+        "size": "0x0",
+        "y_offset": "0x8"
+    },
+    "SHELLOS": {
+        "size": "0x0",
+        "y_offset": "0xe"
+    },
+    "GASTRODON": {
+        "size": "0x0",
+        "y_offset": "0x8"
+    },
+    "AMBIPOM": {
+        "size": "0x0",
+        "y_offset": "0x1"
+    },
+    "DRIFLOON": {
+        "size": "0x0",
+        "y_offset": "0x8"
+    },
+    "DRIFBLIM": {
+        "size": "0x0",
+        "y_offset": "0x6"
+    },
+    "BUNEARY": {
+        "size": "0x0",
+        "y_offset": "0x3"
+    },
+    "LOPUNNY": {
+        "size": "0x0",
+        "y_offset": "0x5"
+    },
+    "MISMAGIUS": {
+        "size": "0x0",
+        "y_offset": "0x3"
+    },
+    "HONCHKROW": {
+        "size": "0x0",
+        "y_offset": "0x7"
+    },
+    "GLAMEOW": {
+        "size": "0x0",
+        "y_offset": "0x7"
+    },
+    "PURUGLY": {
+        "size": "0x0",
+        "y_offset": "0x3"
+    },
+    "CHINGLING": {
+        "size": "0x0",
+        "y_offset": "0xc"
+    },
+    "STUNKY": {
+        "size": "0x0",
+        "y_offset": "0x7"
+    },
+    "SKUNTANK": {
+        "size": "0x0",
+        "y_offset": "0x5"
+    },
+    "BRONZOR": {
+        "size": "0x0",
+        "y_offset": "0xe"
+    },
+    "BRONZONG": {
+        "size": "0x0",
+        "y_offset": "0x5"
+    },
+    "BONSLY": {
+        "size": "0x0",
+        "y_offset": "0x9"
+    },
+    "MIME_JR": {
+        "size": "0x0",
+        "y_offset": "0x9"
+    },
+    "HAPPINY": {
+        "size": "0x0",
+        "y_offset": "0xc"
+    },
+    "CHATOT": {
+        "size": "0x0",
+        "y_offset": "0xb"
+    },
+    "SPIRITOMB": {
+        "size": "0x0",
+        "y_offset": "0x6"
+    },
+    "GIBLE": {
+        "size": "0x0",
+        "y_offset": "0xb"
+    },
+    "GABITE": {
+        "size": "0x0",
+        "y_offset": "0x2"
+    },
+    "GARCHOMP": {
+        "size": "0x0",
+        "y_offset": "0x0"
+    },
+    "MUNCHLAX": {
+        "size": "0x0",
+        "y_offset": "0xb"
+    },
+    "RIOLU": {
+        "size": "0x0",
+        "y_offset": "0xb"
+    },
+    "LUCARIO": {
+        "size": "0x0",
+        "y_offset": "0x8"
+    },
+    "HIPPOPOTAS": {
+        "size": "0x0",
+        "y_offset": "0xc"
+    },
+    "HIPPOWDON": {
+        "size": "0x0",
+        "y_offset": "0x6"
+    },
+    "SKORUPI": {
+        "size": "0x0",
+        "y_offset": "0xb"
+    },
+    "DRAPION": {
+        "size": "0x0",
+        "y_offset": "0x8"
+    },
+    "CROAGUNK": {
+        "size": "0x0",
+        "y_offset": "0xa"
+    },
+    "TOXICROAK": {
+        "size": "0x0",
+        "y_offset": "0x5"
+    },
+    "CARNIVINE": {
+        "size": "0x0",
+        "y_offset": "0xa"
+    },
+    "FINNEON": {
+        "size": "0x0",
+        "y_offset": "0xe"
+    },
+    "LUMINEON": {
+        "size": "0x0",
+        "y_offset": "0x6"
+    },
+    "MANTYKE": {
+        "size": "0x0",
+        "y_offset": "0xe"
+    },
+    "SNOVER": {
+        "size": "0x0",
+        "y_offset": "0xa"
+    },
+    "ABOMASNOW": {
+        "size": "0x0",
+        "y_offset": "0x2"
+    },
+    "WEAVILE": {
+        "size": "0x0",
+        "y_offset": "0x4"
+    },
+    "MAGNEZONE": {
+        "size": "0x0",
+        "y_offset": "0x4"
+    },
+    "LICKILICKY": {
+        "size": "0x0",
+        "y_offset": "0x2"
+    },
+    "RHYPERIOR": {
+        "size": "0x0",
+        "y_offset": "0x2"
+    },
+    "TANGROWTH": {
+        "size": "0x0",
+        "y_offset": "0x2"
+    },
+    "ELECTIVIRE": {
+        "size": "0x0",
+        "y_offset": "0x0"
+    },
+    "MAGMORTAR": {
+        "size": "0x0",
+        "y_offset": "0x0"
+    },
+    "TOGEKISS": {
+        "size": "0x0",
+        "y_offset": "0x9"
+    },
+    "YANMEGA": {
+        "size": "0x0",
+        "y_offset": "0x5"
+    },
+    "LEAFEON": {
+        "size": "0x0",
+        "y_offset": "0x9"
+    },
+    "GLACEON": {
+        "size": "0x0",
+        "y_offset": "0x9"
+    },
+    "GLISCOR": {
+        "size": "0x0",
+        "y_offset": "0x6"
+    },
+    "MAMOSWINE": {
+        "size": "0x0",
+        "y_offset": "0x4"
+    },
+    "PORYGON_Z": {
+        "size": "0x0",
+        "y_offset": "0x6"
+    },
+    "GALLADE": {
+        "size": "0x0",
+        "y_offset": "0x1"
+    },
+    "PROBOPASS": {
+        "size": "0x0",
+        "y_offset": "0x1"
+    },
+    "DUSKNOIR": {
+        "size": "0x0",
+        "y_offset": "0x4"
+    },
+    "FROSLASS": {
+        "size": "0x0",
+        "y_offset": "0x8"
+    },
+    "ROTOM": {
+        "size": "0x0",
+        "y_offset": "0xb"
+    },
+    "UXIE": {
+        "size": "0x0",
+        "y_offset": "0x3"
+    },
+    "MESPRIT": {
+        "size": "0x0",
+        "y_offset": "0x0"
+    },
+    "AZELF": {
+        "size": "0x0",
+        "y_offset": "0x0"
+    },
+    "DIALGA": {
+        "size": "0x0",
+        "y_offset": "0x0"
+    },
+    "PALKIA": {
+        "size": "0x0",
+        "y_offset": "0x0"
+    },
+    "HEATRAN": {
+        "size": "0x0",
+        "y_offset": "0x8"
+    },
+    "REGIGIGAS": {
+        "size": "0x0",
+        "y_offset": "0x1"
+    },
+    "GIRATINA": {
+        "size": "0x0",
+        "y_offset": "0x0"
+    },
+    "CRESSELIA": {
+        "size": "0x0",
+        "y_offset": "0x7"
+    },
+    "PHIONE": {
+        "size": "0x0",
+        "y_offset": "0xe"
+    },
+    "MANAPHY": {
+        "size": "0x0",
+        "y_offset": "0xd"
+    },
+    "DARKRAI": {
+        "size": "0x0",
+        "y_offset": "0x3"
+    },
+    "SHAYMIN": {
+        "size": "0x0",
+        "y_offset": "0x11"
+    },
+    "ARCEUS": {
+        "size": "0x0",
+        "y_offset": "0x0"
+    },
+    "VICTINI": {
+        "size": "0x0",
+        "y_offset": "0x9"
+    },
+    "SNIVY": {
+        "size": "0x0",
+        "y_offset": "0xd"
+    },
+    "SERVINE": {
+        "size": "0x0",
+        "y_offset": "0x7"
+    },
+    "SERPERIOR": {
+        "size": "0x0",
+        "y_offset": "0x4"
+    },
+    "TEPIG": {
+        "size": "0x0",
+        "y_offset": "0xf"
+    },
+    "PIGNITE": {
+        "size": "0x0",
+        "y_offset": "0x8"
+    },
+    "EMBOAR": {
+        "size": "0x0",
+        "y_offset": "0x1"
+    },
+    "OSHAWOTT": {
+        "size": "0x0",
+        "y_offset": "0xe"
+    },
+    "DEWOTT": {
+        "size": "0x0",
+        "y_offset": "0x7"
+    },
+    "SAMUROTT": {
+        "size": "0x0",
+        "y_offset": "0x0"
+    },
+    "PATRAT": {
+        "size": "0x0",
+        "y_offset": "0xc"
+    },
+    "WATCHOG": {
+        "size": "0x0",
+        "y_offset": "0x2"
+    },
+    "LILLIPUP": {
+        "size": "0x0",
+        "y_offset": "0xc"
+    },
+    "HERDIER": {
+        "size": "0x0",
+        "y_offset": "0x8"
+    },
+    "STOUTLAND": {
+        "size": "0x0",
+        "y_offset": "0x1"
+    },
+    "PURRLOIN": {
+        "size": "0x0",
+        "y_offset": "0xa"
+    },
+    "LIEPARD": {
+        "size": "0x0",
+        "y_offset": "0x4"
+    },
+    "PANSAGE": {
+        "size": "0x0",
+        "y_offset": "0xc"
+    },
+    "SIMISAGE": {
+        "size": "0x0",
+        "y_offset": "0x1"
+    },
+    "PANSEAR": {
+        "size": "0x0",
+        "y_offset": "0xc"
+    },
+    "SIMISEAR": {
+        "size": "0x0",
+        "y_offset": "0x6"
+    },
+    "PANPOUR": {
+        "size": "0x0",
+        "y_offset": "0xb"
+    },
+    "SIMIPOUR": {
+        "size": "0x0",
+        "y_offset": "0x6"
+    },
+    "MUNNA": {
+        "size": "0x0",
+        "y_offset": "0x10"
+    },
+    "MUSHARNA": {
+        "size": "0x0",
+        "y_offset": "0x6"
+    },
+    "PIDOVE": {
+        "size": "0x0",
+        "y_offset": "0xc"
+    },
+    "TRANQUILL": {
+        "size": "0x0",
+        "y_offset": "0x7"
+    },
+    "UNFEZANT": {
+        "size": "0x0",
+        "y_offset": "0x0"
+    },
+    "BLITZLE": {
+        "size": "0x0",
+        "y_offset": "0x5"
+    },
+    "ZEBSTRIKA": {
+        "size": "0x0",
+        "y_offset": "0x0"
+    },
+    "ROGGENROLA": {
+        "size": "0x0",
+        "y_offset": "0xe"
+    },
+    "BOLDORE": {
+        "size": "0x0",
+        "y_offset": "0xa"
+    },
+    "GIGALITH": {
+        "size": "0x0",
+        "y_offset": "0x1"
+    },
+    "WOOBAT": {
+        "size": "0x0",
+        "y_offset": "0x11"
+    },
+    "SWOOBAT": {
+        "size": "0x0",
+        "y_offset": "0x2"
+    },
+    "DRILBUR": {
+        "size": "0x0",
+        "y_offset": "0xa"
+    },
+    "EXCADRILL": {
+        "size": "0x0",
+        "y_offset": "0x5"
+    },
+    "AUDINO": {
+        "size": "0x0",
+        "y_offset": "0x8"
+    },
+    "TIMBURR": {
+        "size": "0x0",
+        "y_offset": "0xd"
+    },
+    "GURDURR": {
+        "size": "0x0",
+        "y_offset": "0x0"
+    },
+    "CONKELDURR": {
+        "size": "0x0",
+        "y_offset": "0x6"
+    },
+    "TYMPOLE": {
+        "size": "0x0",
+        "y_offset": "0xe"
+    },
+    "PALPITOAD": {
+        "size": "0x0",
+        "y_offset": "0xb"
+    },
+    "SEISMITOAD": {
+        "size": "0x0",
+        "y_offset": "0x2"
+    },
+    "THROH": {
+        "size": "0x0",
+        "y_offset": "0xa"
+    },
+    "SAWK": {
+        "size": "0x0",
+        "y_offset": "0x7"
+    },
+    "SEWADDLE": {
+        "size": "0x0",
+        "y_offset": "0xe"
+    },
+    "SWADLOON": {
+        "size": "0x0",
+        "y_offset": "0xc"
+    },
+    "LEAVANNY": {
+        "size": "0x0",
+        "y_offset": "0x0"
+    },
+    "VENIPEDE": {
+        "size": "0x0",
+        "y_offset": "0x11"
+    },
+    "WHIRLIPEDE": {
+        "size": "0x0",
+        "y_offset": "0xc"
+    },
+    "SCOLIPEDE": {
+        "size": "0x0",
+        "y_offset": "0x0"
+    },
+    "COTTONEE": {
+        "size": "0x0",
+        "y_offset": "0x12"
+    },
+    "WHIMSICOTT": {
+        "size": "0x0",
+        "y_offset": "0x6"
+    },
+    "PETILIL": {
+        "size": "0x0",
+        "y_offset": "0xb"
+    },
+    "LILLIGANT": {
+        "size": "0x0",
+        "y_offset": "0x0"
+    },
+    "BASCULIN_RED": {
+        "size": "0x0",
+        "y_offset": "0xd"
+    },
+    "SANDILE": {
+        "size": "0x0",
+        "y_offset": "0x12"
+    },
+    "KROKOROK": {
+        "size": "0x0",
+        "y_offset": "0x4"
+    },
+    "KROOKODILE": {
+        "size": "0x0",
+        "y_offset": "0x0"
+    },
+    "DARUMAKA": {
+        "size": "0x0",
+        "y_offset": "0xd"
+    },
+    "DARMANITAN": {
+        "size": "0x0",
+        "y_offset": "0x2"
+    },
+    "MARACTUS": {
+        "size": "0x0",
+        "y_offset": "0x0"
+    },
+    "DWEBBLE": {
+        "size": "0x0",
+        "y_offset": "0xe"
+    },
+    "CRUSTLE": {
+        "size": "0x0",
+        "y_offset": "0x2"
+    },
+    "SCRAGGY": {
+        "size": "0x0",
+        "y_offset": "0xd"
+    },
+    "SCRAFTY": {
+        "size": "0x0",
+        "y_offset": "0x4"
+    },
+    "SIGILYPH": {
+        "size": "0x0",
+        "y_offset": "0x0"
+    },
+    "YAMASK": {
+        "size": "0x0",
+        "y_offset": "0xf"
+    },
+    "COFAGRIGUS": {
+        "size": "0x0",
+        "y_offset": "0x0"
+    },
+    "TIRTOUGA": {
+        "size": "0x0",
+        "y_offset": "0x10"
+    },
+    "CARRACOSTA": {
+        "size": "0x0",
+        "y_offset": "0x4"
+    },
+    "ARCHEN": {
+        "size": "0x0",
+        "y_offset": "0xe"
+    },
+    "ARCHEOPS": {
+        "size": "0x0",
+        "y_offset": "0x4"
+    },
+    "TRUBBISH": {
+        "size": "0x0",
+        "y_offset": "0xf"
+    },
+    "GARBODOR": {
+        "size": "0x0",
+        "y_offset": "0x4"
+    },
+    "ZORUA": {
+        "size": "0x0",
+        "y_offset": "0xb"
+    },
+    "ZOROARK": {
+        "size": "0x0",
+        "y_offset": "0x2"
+    },
+    "MINCCINO": {
+        "size": "0x0",
+        "y_offset": "0xb"
+    },
+    "CINCCINO": {
+        "size": "0x0",
+        "y_offset": "0x7"
+    },
+    "GOTHITA": {
+        "size": "0x0",
+        "y_offset": "0xc"
+    },
+    "GOTHORITA": {
+        "size": "0x0",
+        "y_offset": "0x7"
+    },
+    "GOTHITELLE": {
+        "size": "0x0",
+        "y_offset": "0x0"
+    },
+    "SOLOSIS": {
+        "size": "0x0",
+        "y_offset": "0x12"
+    },
+    "DUOSION": {
+        "size": "0x0",
+        "y_offset": "0xc"
+    },
+    "REUNICLUS": {
+        "size": "0x0",
+        "y_offset": "0xb"
+    },
+    "DUCKLETT": {
+        "size": "0x0",
+        "y_offset": "0xc"
+    },
+    "SWANNA": {
+        "size": "0x0",
+        "y_offset": "0x2"
+    },
+    "VANILLITE": {
+        "size": "0x0",
+        "y_offset": "0xe"
+    },
+    "VANILLISH": {
+        "size": "0x0",
+        "y_offset": "0x5"
+    },
+    "VANILLUXE": {
+        "size": "0x0",
+        "y_offset": "0x4"
+    },
+    "DEERLING": {
+        "size": "0x0",
+        "y_offset": "0xb"
+    },
+    "SAWSBUCK": {
+        "size": "0x0",
+        "y_offset": "0x0"
+    },
+    "EMOLGA": {
+        "size": "0x0",
+        "y_offset": "0x11"
+    },
+    "KARRABLAST": {
+        "size": "0x0",
+        "y_offset": "0xd"
+    },
+    "ESCAVALIER": {
+        "size": "0x0",
+        "y_offset": "0x0"
+    },
+    "FOONGUS": {
+        "size": "0x0",
+        "y_offset": "0x10"
+    },
+    "AMOONGUSS": {
+        "size": "0x0",
+        "y_offset": "0x8"
+    },
+    "FRILLISH": {
+        "size": "0x0",
+        "y_offset": "0x5"
+    },
+    "JELLICENT": {
+        "size": "0x0",
+        "y_offset": "0x4"
+    },
+    "ALOMOMOLA": {
+        "size": "0x0",
+        "y_offset": "0x0"
+    },
+    "JOLTIK": {
+        "size": "0x0",
+        "y_offset": "0x12"
+    },
+    "GALVANTULA": {
+        "size": "0x0",
+        "y_offset": "0xa"
+    },
+    "FERROSEED": {
+        "size": "0x0",
+        "y_offset": "0xe"
+    },
+    "FERROTHORN": {
+        "size": "0x0",
+        "y_offset": "0x4"
+    },
+    "KLINK": {
+        "size": "0x0",
+        "y_offset": "0xc"
+    },
+    "KLANG": {
+        "size": "0x0",
+        "y_offset": "0x7"
+    },
+    "KLINKLANG": {
+        "size": "0x0",
+        "y_offset": "0x2"
+    },
+    "TYNAMO": {
+        "size": "0x0",
+        "y_offset": "0x18"
+    },
+    "EELEKTRIK": {
+        "size": "0x0",
+        "y_offset": "0x6"
+    },
+    "EELEKTROSS": {
+        "size": "0x0",
+        "y_offset": "0x6"
+    },
+    "ELGYEM": {
+        "size": "0x0",
+        "y_offset": "0xb"
+    },
+    "BEHEEYEM": {
+        "size": "0x0",
+        "y_offset": "0x4"
+    },
+    "LITWICK": {
+        "size": "0x0",
+        "y_offset": "0xe"
+    },
+    "LAMPENT": {
+        "size": "0x0",
+        "y_offset": "0x8"
+    },
+    "CHANDELURE": {
+        "size": "0x0",
+        "y_offset": "0x0"
+    },
+    "AXEW": {
+        "size": "0x0",
+        "y_offset": "0xc"
+    },
+    "FRAXURE": {
+        "size": "0x0",
+        "y_offset": "0x5"
+    },
+    "HAXORUS": {
+        "size": "0x0",
+        "y_offset": "0x0"
+    },
+    "CUBCHOO": {
+        "size": "0x0",
+        "y_offset": "0xd"
+    },
+    "BEARTIC": {
+        "size": "0x0",
+        "y_offset": "0x1"
+    },
+    "CRYOGONAL": {
+        "size": "0x0",
+        "y_offset": "0x0"
+    },
+    "SHELMET": {
+        "size": "0x0",
+        "y_offset": "0xe"
+    },
+    "ACCELGOR": {
+        "size": "0x0",
+        "y_offset": "0x7"
+    },
+    "STUNFISK": {
+        "size": "0x0",
+        "y_offset": "0xe"
+    },
+    "MIENFOO": {
+        "size": "0x0",
+        "y_offset": "0xb"
+    },
+    "MIENSHAO": {
+        "size": "0x0",
+        "y_offset": "0x4"
+    },
+    "DRUDDIGON": {
+        "size": "0x0",
+        "y_offset": "0x4"
+    },
+    "GOLETT": {
+        "size": "0x0",
+        "y_offset": "0x7"
+    },
+    "GOLURK": {
+        "size": "0x0",
+        "y_offset": "0x0"
+    },
+    "PAWNIARD": {
+        "size": "0x0",
+        "y_offset": "0xa"
+    },
+    "BISHARP": {
+        "size": "0x0",
+        "y_offset": "0x0"
+    },
+    "BOUFFALANT": {
+        "size": "0x0",
+        "y_offset": "0x4"
+    },
+    "RUFFLET": {
+        "size": "0x0",
+        "y_offset": "0xa"
+    },
+    "BRAVIARY": {
+        "size": "0x0",
+        "y_offset": "0x1"
+    },
+    "VULLABY": {
+        "size": "0x0",
+        "y_offset": "0x5"
+    },
+    "MANDIBUZZ": {
+        "size": "0x0",
+        "y_offset": "0x1"
+    },
+    "HEATMOR": {
+        "size": "0x0",
+        "y_offset": "0x5"
+    },
+    "DURANT": {
+        "size": "0x0",
+        "y_offset": "0x10"
+    },
+    "DEINO": {
+        "size": "0x0",
+        "y_offset": "0xa"
+    },
+    "ZWEILOUS": {
+        "size": "0x0",
+        "y_offset": "0x5"
+    },
+    "HYDREIGON": {
+        "size": "0x0",
+        "y_offset": "0x0"
+    },
+    "LARVESTA": {
+        "size": "0x0",
+        "y_offset": "0xd"
+    },
+    "VOLCARONA": {
+        "size": "0x0",
+        "y_offset": "0x4"
+    },
+    "COBALION": {
+        "size": "0x0",
+        "y_offset": "0x0"
+    },
+    "TERRAKION": {
+        "size": "0x0",
+        "y_offset": "0x6"
+    },
+    "VIRIZION": {
+        "size": "0x0",
+        "y_offset": "0x2"
+    },
+    "TORNADUS": {
+        "size": "0x0",
+        "y_offset": "0x1"
+    },
+    "THUNDURUS": {
+        "size": "0x0",
+        "y_offset": "0x1"
+    },
+    "RESHIRAM": {
+        "size": "0x0",
+        "y_offset": "0x1"
+    },
+    "ZEKROM": {
+        "size": "0x0",
+        "y_offset": "0x0"
+    },
+    "LANDORUS": {
+        "size": "0x0",
+        "y_offset": "0x1"
+    },
+    "KYUREM": {
+        "size": "0x0",
+        "y_offset": "0x0"
+    },
+    "KELDEO": {
+        "size": "0x0",
+        "y_offset": "0x5"
+    },
+    "MELOETTA": {
+        "size": "0x0",
+        "y_offset": "0x9"
+    },
+    "GENESECT": {
+        "size": "0x0",
+        "y_offset": "0x0"
+    },
+    "UNFEZANT_F": {
+        "size": "0x0",
+        "y_offset": "0x0"
+    },
+    "FRILLISH_F": {
+        "size": "0x0",
+        "y_offset": "0x5"
+    },
+    "JELLICENT_F": {
+        "size": "0x0",
+        "y_offset": "0x1"
+    },
+    "SHADOW_WARRIOR": {
+        "size": "0x0",
+        "y_offset": "0x3"
+    },
+    "BURMY_SANDY": {
+        "size": "0x0",
+        "y_offset": "0xd"
+    },
+    "BURMY_TRASH": {
+        "size": "0x0",
+        "y_offset": "0x9"
+    },
+    "WORMADAM_SANDY": {
+        "size": "0x0",
+        "y_offset": "0x8"
+    },
+    "WORMADAM_TRASH": {
+        "size": "0x0",
+        "y_offset": "0x8"
+    },
+    "SHELLOS_EAST": {
+        "size": "0x0",
+        "y_offset": "0x10"
+    },
+    "GASTRODON_EAST": {
+        "size": "0x0",
+        "y_offset": "0x8"
+    },
+    "ROTOM_HEAT": {
+        "size": "0x0",
+        "y_offset": "0x9"
+    },
+    "ROTOM_WASH": {
+        "size": "0x0",
+        "y_offset": "0x7"
+    },
+    "ROTOM_FROST": {
+        "size": "0x0",
+        "y_offset": "0x4"
+    },
+    "ROTOM_FAN": {
+        "size": "0x0",
+        "y_offset": "0x8"
+    },
+    "ROTOM_MOW": {
+        "size": "0x0",
+        "y_offset": "0x4"
+    },
+    "GIRATINA_ORIGIN": {
+        "size": "0x0",
+        "y_offset": "0x0"
+    },
+    "SHAYMIN_SKY": {
+        "size": "0x0",
+        "y_offset": "0x8"
+    },
+    "ARCEUS_FIGHT": {
+        "size": "0x0",
+        "y_offset": "0x0"
+    },
+    "ARCEUS_FLYING": {
+        "size": "0x0",
+        "y_offset": "0x0"
+    },
+    "ARCEUS_POISON": {
+        "size": "0x0",
+        "y_offset": "0x0"
+    },
+    "ARCEUS_GROUND": {
+        "size": "0x0",
+        "y_offset": "0x0"
+    },
+    "ARCEUS_ROCK": {
+        "size": "0x0",
+        "y_offset": "0x0"
+    },
+    "ARCEUS_BUG": {
+        "size": "0x0",
+        "y_offset": "0x0"
+    },
+    "ARCEUS_GHOST": {
+        "size": "0x0",
+        "y_offset": "0x0"
+    },
+    "ARCEUS_STEEL": {
+        "size": "0x0",
+        "y_offset": "0x0"
+    },
+    "ARCEUS_FIRE": {
+        "size": "0x0",
+        "y_offset": "0x0"
+    },
+    "ARCEUS_WATER": {
+        "size": "0x0",
+        "y_offset": "0x0"
+    },
+    "ARCEUS_GRASS": {
+        "size": "0x0",
+        "y_offset": "0x0"
+    },
+    "ARCEUS_ELECTRIC": {
+        "size": "0x0",
+        "y_offset": "0x0"
+    },
+    "ARCEUS_PSYCHIC": {
+        "size": "0x0",
+        "y_offset": "0x0"
+    },
+    "ARCEUS_ICE": {
+        "size": "0x0",
+        "y_offset": "0x0"
+    },
+    "ARCEUS_DRAGON": {
+        "size": "0x0",
+        "y_offset": "0x0"
+    },
+    "ARCEUS_DARK": {
+        "size": "0x0",
+        "y_offset": "0x0"
+    },
+    "BASCULIN_BLUE": {
+        "size": "0x0",
+        "y_offset": "0x10"
+    },
+    "DARMANITANZEN": {
+        "size": "0x0",
+        "y_offset": "0xe"
+    },
+    "DEERLING_SUMMER": {
+        "size": "0x0",
+        "y_offset": "0xb"
+    },
+    "DEERLING_AUTUMN": {
+        "size": "0x0",
+        "y_offset": "0xb"
+    },
+    "DEERLING_WINTER": {
+        "size": "0x0",
+        "y_offset": "0xb"
+    },
+    "SAWSBUCK_SUMMER": {
+        "size": "0x0",
+        "y_offset": "0x0"
+    },
+    "SAWSBUCK_AUTUMN": {
+        "size": "0x0",
+        "y_offset": "0x0"
+    },
+    "SAWSBUCK_WINTER": {
+        "size": "0x0",
+        "y_offset": "0x0"
+    },
+    "HIPPOPOTAS_F": {
+        "size": "0x0",
+        "y_offset": "0xc"
+    },
+    "HIPPOWDON_F": {
+        "size": "0x0",
+        "y_offset": "0x6"
+    },
+    "MELOETTA_PIROUETTE": {
+        "size": "0x0",
+        "y_offset": "0x2"
+    },
+    "GENESECT_SHOCK": {
+        "size": "0x0",
+        "y_offset": "0x0"
+    },
+    "GENESECT_BURN": {
+        "size": "0x0",
+        "y_offset": "0x0"
+    },
+    "GENESECT_CHILL": {
+        "size": "0x0",
+        "y_offset": "0x0"
+    },
+    "GENESECT_DOUSE": {
+        "size": "0x0",
+        "y_offset": "0x0"
+    },
+    "CHERRIM_SUN": {
+        "size": "0x0",
+        "y_offset": "0xd"
+    },
+    "KYUREM_BLACK": {
+        "size": "0x0",
+        "y_offset": "0x0"
+    },
+    "KYUREM_WHITE": {
+        "size": "0x0",
+        "y_offset": "0x0"
+    },
+    "TORNADUS_THERIAN": {
+        "size": "0x0",
+        "y_offset": "0x0"
+    },
+    "THUNDURUS_THERIAN": {
+        "size": "0x0",
+        "y_offset": "0x2"
+    },
+    "LANDORUS_THERIAN": {
+        "size": "0x0",
+        "y_offset": "0x0"
+    },
+    "KELDEO_RESOLUTE": {
+        "size": "0x0",
+        "y_offset": "0x2"
+    },
+    "CHESPIN": {
+        "size": "0x0",
+        "y_offset": "0xa"
+    },
+    "QUILLADIN": {
+        "size": "0x0",
+        "y_offset": "0xa"
+    },
+    "CHESNAUGHT": {
+        "size": "0x0",
+        "y_offset": "0x4"
+    },
+    "FENNEKIN": {
+        "size": "0x0",
+        "y_offset": "0xa"
+    },
+    "BRAIXEN": {
+        "size": "0x0",
+        "y_offset": "0x4"
+    },
+    "DELPHOX": {
+        "size": "0x0",
+        "y_offset": "0x0"
+    },
+    "FROAKIE": {
+        "size": "0x0",
+        "y_offset": "0xc"
+    },
+    "FROGADIER": {
+        "size": "0x0",
+        "y_offset": "0x8"
+    },
+    "GRENINJA": {
+        "size": "0x0",
+        "y_offset": "0x5"
+    },
+    "BUNNELBY": {
+        "size": "0x0",
+        "y_offset": "0x5"
+    },
+    "DIGGERSBY": {
+        "size": "0x0",
+        "y_offset": "0x4"
+    },
+    "FLETCHLING": {
+        "size": "0x0",
+        "y_offset": "0xc"
+    },
+    "FLETCHINDER": {
+        "size": "0x0",
+        "y_offset": "0x8"
+    },
+    "TALONFLAME": {
+        "size": "0x0",
+        "y_offset": "0x1"
+    },
+    "SCATTERBUG": {
+        "size": "0x0",
+        "y_offset": "0xd"
+    },
+    "SPEWPA": {
+        "size": "0x0",
+        "y_offset": "0xb"
+    },
+    "VIVILLON": {
+        "size": "0x0",
+        "y_offset": "0x0"
+    },
+    "LITLEO": {
+        "size": "0x0",
+        "y_offset": "0xa"
+    },
+    "PYROAR": {
+        "size": "0x0",
+        "y_offset": "0x0"
+    },
+    "FLABEBE": {
+        "size": "0x0",
+        "y_offset": "0x6"
+    },
+    "FLOETTE": {
+        "size": "0x0",
+        "y_offset": "0x3"
+    },
+    "FLORGES": {
+        "size": "0x0",
+        "y_offset": "0x0"
+    },
+    "SKIDDO": {
+        "size": "0x0",
+        "y_offset": "0x7"
+    },
+    "GOGOAT": {
+        "size": "0x0",
+        "y_offset": "0x2"
+    },
+    "PANCHAM": {
+        "size": "0x0",
+        "y_offset": "0xc"
+    },
+    "PANGORO": {
+        "size": "0x0",
+        "y_offset": "0x0"
+    },
+    "FURFROU": {
+        "size": "0x0",
+        "y_offset": "0x3"
+    },
+    "ESPURR": {
+        "size": "0x0",
+        "y_offset": "0xa"
+    },
+    "MEOWSTIC": {
+        "size": "0x0",
+        "y_offset": "0x6"
+    },
+    "HONEDGE": {
+        "size": "0x0",
+        "y_offset": "0x4"
+    },
+    "DOUBLADE": {
+        "size": "0x0",
+        "y_offset": "0x5"
+    },
+    "AEGISLASH": {
+        "size": "0x0",
+        "y_offset": "0x0"
+    },
+    "SPRITZEE": {
+        "size": "0x0",
+        "y_offset": "0xc"
+    },
+    "AROMATISSE": {
+        "size": "0x0",
+        "y_offset": "0x4"
+    },
+    "SWIRLIX": {
+        "size": "0x0",
+        "y_offset": "0xe"
+    },
+    "SLURPUFF": {
+        "size": "0x0",
+        "y_offset": "0x7"
+    },
+    "INKAY": {
+        "size": "0x0",
+        "y_offset": "0xe"
+    },
+    "MALAMAR": {
+        "size": "0x0",
+        "y_offset": "0x0"
+    },
+    "BINACLE": {
+        "size": "0x0",
+        "y_offset": "0x9"
+    },
+    "BARBARACLE": {
+        "size": "0x0",
+        "y_offset": "0x0"
+    },
+    "SKRELP": {
+        "size": "0x0",
+        "y_offset": "0x8"
+    },
+    "DRAGALGE": {
+        "size": "0x0",
+        "y_offset": "0x0"
+    },
+    "CLAUNCHER": {
+        "size": "0x0",
+        "y_offset": "0xe"
+    },
+    "CLAWITZER": {
+        "size": "0x0",
+        "y_offset": "0xa"
+    },
+    "HELIOPTILE": {
+        "size": "0x0",
+        "y_offset": "0xd"
+    },
+    "HELIOLISK": {
+        "size": "0x0",
+        "y_offset": "0x4"
+    },
+    "TYRUNT": {
+        "size": "0x0",
+        "y_offset": "0xc"
+    },
+    "TYRANTRUM": {
+        "size": "0x0",
+        "y_offset": "0x0"
+    },
+    "AMAURA": {
+        "size": "0x0",
+        "y_offset": "0x8"
+    },
+    "AURORUS": {
+        "size": "0x0",
+        "y_offset": "0x0"
+    },
+    "SYLVEON": {
+        "size": "0x0",
+        "y_offset": "0x5"
+    },
+    "HAWLUCHA": {
+        "size": "0x0",
+        "y_offset": "0x8"
+    },
+    "DEDENNE": {
+        "size": "0x0",
+        "y_offset": "0xd"
+    },
+    "CARBINK": {
+        "size": "0x0",
+        "y_offset": "0xa"
+    },
+    "GOOMY": {
+        "size": "0x0",
+        "y_offset": "0xd"
+    },
+    "SLIGGOO": {
+        "size": "0x0",
+        "y_offset": "0x6"
+    },
+    "GOODRA": {
+        "size": "0x0",
+        "y_offset": "0x0"
+    },
+    "KLEFKI": {
+        "size": "0x0",
+        "y_offset": "0x4"
+    },
+    "PHANTUMP": {
+        "size": "0x0",
+        "y_offset": "0xa"
+    },
+    "TREVENANT": {
+        "size": "0x0",
+        "y_offset": "0x1"
+    },
+    "PUMPKABOO": {
+        "size": "0x0",
+        "y_offset": "0xf"
+    },
+    "GOURGEIST": {
+        "size": "0x0",
+        "y_offset": "0x5"
+    },
+    "BERGMITE": {
+        "size": "0x0",
+        "y_offset": "0xe"
+    },
+    "AVALUGG": {
+        "size": "0x0",
+        "y_offset": "0x6"
+    },
+    "NOIBAT": {
+        "size": "0x0",
+        "y_offset": "0x9"
+    },
+    "NOIVERN": {
+        "size": "0x0",
+        "y_offset": "0x3"
+    },
+    "XERNEAS": {
+        "size": "0x0",
+        "y_offset": "0x0"
+    },
+    "YVELTAL": {
+        "size": "0x0",
+        "y_offset": "0x0"
+    },
+    "ZYGARDE": {
+        "size": "0x0",
+        "y_offset": "0x0"
+    },
+    "DIANCIE": {
+        "size": "0x0",
+        "y_offset": "0x1"
+    },
+    "HOOPA": {
+        "size": "0x0",
+        "y_offset": "0xd"
+    },
+    "HOOPA_UNBOUND": {
+        "size": "0x0",
+        "y_offset": "0x0"
+    },
+    "VOLCANION": {
+        "size": "0x0",
+        "y_offset": "0x0"
+    },
+    "PYROAR_FEMALE": {
+        "size": "0x0",
+        "y_offset": "0x1"
+    },
+    "MEOWSTIC_FEMALE": {
+        "size": "0x0",
+        "y_offset": "0x5"
+    },
+    "AEGISLASH_BLADE": {
+        "size": "0x0",
+        "y_offset": "0x0"
+    },
+    "ARCEUS_FAIRY": {
+        "size": "0x0",
+        "y_offset": "0x0"
+    },
+    "ZYGARDE_CELL": {
+        "size": "0x0",
+        "y_offset": "0xf"
+    },
+    "ZYGARDE_CORE": {
+        "size": "0x0",
+        "y_offset": "0xe"
+    },
+    "ZYGARDE_10": {
+        "size": "0x0",
+        "y_offset": "0x3"
+    },
+    "ZYGARDE_COMPLETE": {
+        "size": "0x0",
+        "y_offset": "0x0"
+    },
+    "ASHGRENINJA": {
+        "size": "0x0",
+        "y_offset": "0x0"
+    },
+    "FLABEBE_BLUE": {
+        "size": "0x0",
+        "y_offset": "0x6"
+    },
+    "FLABEBE_ORANGE": {
+        "size": "0x0",
+        "y_offset": "0x6"
+    },
+    "FLABEBE_YELLOW": {
+        "size": "0x0",
+        "y_offset": "0x6"
+    },
+    "FLABEBE_WHITE": {
+        "size": "0x0",
+        "y_offset": "0x6"
+    },
+    "FLOETTE_BLUE": {
+        "size": "0x0",
+        "y_offset": "0x3"
+    },
+    "FLOETTE_ORANGE": {
+        "size": "0x0",
+        "y_offset": "0x3"
+    },
+    "FLOETTE_YELLOW": {
+        "size": "0x0",
+        "y_offset": "0x3"
+    },
+    "FLOETTE_WHITE": {
+        "size": "0x0",
+        "y_offset": "0x3"
+    },
+    "FLOETTE_ETERNAL": {
+        "size": "0x0",
+        "y_offset": "0x3"
+    },
+    "FLORGES_BLUE": {
+        "size": "0x0",
+        "y_offset": "0x0"
+    },
+    "FLORGES_ORANGE": {
+        "size": "0x0",
+        "y_offset": "0x0"
+    },
+    "FLORGES_YELLOW": {
+        "size": "0x0",
+        "y_offset": "0x0"
+    },
+    "FLORGES_WHITE": {
+        "size": "0x0",
+        "y_offset": "0x0"
+    },
+    "PUMPKABOO_XL": {
+        "size": "0x0",
+        "y_offset": "0xa"
+    },
+    "PUMPKABOO_L": {
+        "size": "0x0",
+        "y_offset": "0xc"
+    },
+    "PUMPKABOO_M": {
+        "size": "0x0",
+        "y_offset": "0xd"
+    },
+    "GOURGEIST_XL": {
+        "size": "0x0",
+        "y_offset": "0x0"
+    },
+    "GOURGEIST_L": {
+        "size": "0x0",
+        "y_offset": "0x2"
+    },
+    "GOURGEIST_M": {
+        "size": "0x0",
+        "y_offset": "0x4"
+    },
+    "FURFROU_HEART": {
+        "size": "0x0",
+        "y_offset": "0x1"
+    },
+    "FURFROU_DIAMOND": {
+        "size": "0x0",
+        "y_offset": "0x1"
+    },
+    "FURFROU_STAR": {
+        "size": "0x0",
+        "y_offset": "0x1"
+    },
+    "FURFROU_PHAROAH": {
+        "size": "0x0",
+        "y_offset": "0x3"
+    },
+    "FURFROU_KABUKI": {
+        "size": "0x0",
+        "y_offset": "0x3"
+    },
+    "FURFROU_LA_REINE": {
+        "size": "0x0",
+        "y_offset": "0x3"
+    },
+    "FURFROU_MATRON": {
+        "size": "0x0",
+        "y_offset": "0x3"
+    },
+    "FURFROU_DANDY": {
+        "size": "0x0",
+        "y_offset": "0x3"
+    },
+    "FURFROU_DEBUTANTE": {
+        "size": "0x0",
+        "y_offset": "0x3"
+    },
+    "VIVILLON_FANCY": {
+        "size": "0x0",
+        "y_offset": "0x0"
+    },
+    "VENUSAUR_MEGA": {
+        "size": "0x0",
+        "y_offset": "0x3"
+    },
+    "CHARIZARD_MEGA_X": {
+        "size": "0x0",
+        "y_offset": "0x0"
+    },
+    "CHARIZARD_MEGA_Y": {
+        "size": "0x0",
+        "y_offset": "0x0"
+    },
+    "BLASTOISE_MEGA": {
+        "size": "0x0",
+        "y_offset": "0x0"
+    },
+    "BEEDRILL_MEGA": {
+        "size": "0x0",
+        "y_offset": "0x2"
+    },
+    "PIDGEOT_MEGA": {
+        "size": "0x0",
+        "y_offset": "0x4"
+    },
+    "ALAKAZAM_MEGA": {
+        "size": "0x0",
+        "y_offset": "0x0"
+    },
+    "SLOWBRO_MEGA": {
+        "size": "0x0",
+        "y_offset": "0x0"
+    },
+    "GENGAR_MEGA": {
+        "size": "0x0",
+        "y_offset": "0x7"
+    },
+    "KANGASKHAN_MEGA": {
+        "size": "0x0",
+        "y_offset": "0x0"
+    },
+    "PINSIR_MEGA": {
+        "size": "0x0",
+        "y_offset": "0x3"
+    },
+    "GYARADOS_MEGA": {
+        "size": "0x0",
+        "y_offset": "0x0"
+    },
+    "AERODACTYL_MEGA": {
+        "size": "0x0",
+        "y_offset": "0x2"
+    },
+    "MEWTWO_MEGA_X": {
+        "size": "0x0",
+        "y_offset": "0x0"
+    },
+    "MEWTWO_MEGA_Y": {
+        "size": "0x0",
+        "y_offset": "0x1"
+    },
+    "AMPHAROS_MEGA": {
+        "size": "0x0",
+        "y_offset": "0x0"
+    },
+    "STEELIX_MEGA": {
+        "size": "0x0",
+        "y_offset": "0x0"
+    },
+    "SCIZOR_MEGA": {
+        "size": "0x0",
+        "y_offset": "0x0"
+    },
+    "HERACROSS_MEGA": {
+        "size": "0x0",
+        "y_offset": "0x0"
+    },
+    "HOUNDOOM_MEGA": {
+        "size": "0x0",
+        "y_offset": "0x0"
+    },
+    "TYRANITAR_MEGA": {
+        "size": "0x0",
+        "y_offset": "0x0"
+    },
+    "SCEPTILE_MEGA": {
+        "size": "0x0",
+        "y_offset": "0x0"
+    },
+    "BLAZIKEN_MEGA": {
+        "size": "0x0",
+        "y_offset": "0x0"
+    },
+    "SWAMPERT_MEGA": {
+        "size": "0x0",
+        "y_offset": "0x6"
+    },
+    "GARDEVOIR_MEGA": {
+        "size": "0x0",
+        "y_offset": "0x0"
+    },
+    "SABLEYE_MEGA": {
+        "size": "0x0",
+        "y_offset": "0x5"
+    },
+    "MAWILE_MEGA": {
+        "size": "0x0",
+        "y_offset": "0x5"
+    },
+    "AGGRON_MEGA": {
+        "size": "0x0",
+        "y_offset": "0x0"
+    },
+    "MEDICHAM_MEGA": {
+        "size": "0x0",
+        "y_offset": "0x0"
+    },
+    "MANECTRIC_MEGA": {
+        "size": "0x0",
+        "y_offset": "0x2"
+    },
+    "SHARPEDO_MEGA": {
+        "size": "0x0",
+        "y_offset": "0x0"
+    },
+    "CAMERUPT_MEGA": {
+        "size": "0x0",
+        "y_offset": "0x5"
+    },
+    "ALTARIA_MEGA": {
+        "size": "0x0",
+        "y_offset": "0x0"
+    },
+    "BANETTE_MEGA": {
+        "size": "0x0",
+        "y_offset": "0x1"
+    },
+    "ABSOL_MEGA": {
+        "size": "0x0",
+        "y_offset": "0x0"
+    },
+    "GLALIE_MEGA": {
+        "size": "0x0",
+        "y_offset": "0x0"
+    },
+    "SALAMENCE_MEGA": {
+        "size": "0x0",
+        "y_offset": "0x3"
+    },
+    "METAGROSS_MEGA": {
+        "size": "0x0",
+        "y_offset": "0x0"
+    },
+    "LATIAS_MEGA": {
+        "size": "0x0",
+        "y_offset": "0x4"
+    },
+    "LATIOS_MEGA": {
+        "size": "0x0",
+        "y_offset": "0x0"
+    },
+    "GROUDON_PRIMAL": {
+        "size": "0x0",
+        "y_offset": "0x0"
+    },
+    "KYOGRE_PRIMAL": {
+        "size": "0x0",
+        "y_offset": "0x0"
+    },
+    "RAYQUAZA_MEGA": {
+        "size": "0x0",
+        "y_offset": "0x0"
+    },
+    "LOPUNNY_MEGA": {
+        "size": "0x0",
+        "y_offset": "0x1"
+    },
+    "GARCHOMP_MEGA": {
+        "size": "0x0",
+        "y_offset": "0x0"
+    },
+    "LUCARIO_MEGA": {
+        "size": "0x0",
+        "y_offset": "0x0"
+    },
+    "ABOMASNOW_MEGA": {
+        "size": "0x0",
+        "y_offset": "0x1"
+    },
+    "GALLADE_MEGA": {
+        "size": "0x0",
+        "y_offset": "0x1"
+    },
+    "AUDINO_MEGA": {
+        "size": "0x0",
+        "y_offset": "0x6"
+    },
+    "DIANCIE_MEGA": {
+        "size": "0x0",
+        "y_offset": "0x1"
+    },
+    "DIALGA_ORIGIN": {
+        "size": "0x0",
+        "y_offset": "0x0"
+    },
+    "PALKIA_ORIGIN": {
+        "size": "0x0",
+        "y_offset": "0x0"
+    },
+    "VIVILLON_ARCHIPELAGO": {
+        "size": "0x0",
+        "y_offset": "0x0"
+    },
+    "VIVILLON_CONTINENTAL": {
+        "size": "0x0",
+        "y_offset": "0x0"
+    },
+    "VIVILLON_ELEGANT": {
+        "size": "0x0",
+        "y_offset": "0x0"
+    },
+    "VIVILLON_GARDEN": {
+        "size": "0x0",
+        "y_offset": "0x0"
+    },
+    "VIVILLON_HIGH_PLAINS": {
+        "size": "0x0",
+        "y_offset": "0x0"
+    },
+    "VIVILLON_ICY_SNOW": {
+        "size": "0x0",
+        "y_offset": "0x0"
+    },
+    "VIVILLON_JUNGLE": {
+        "size": "0x0",
+        "y_offset": "0x0"
+    },
+    "VIVILLON_MARINE": {
+        "size": "0x0",
+        "y_offset": "0x0"
+    },
+    "VIVILLON_MODERN": {
+        "size": "0x0",
+        "y_offset": "0x0"
+    },
+    "VIVILLON_MONSOON": {
+        "size": "0x0",
+        "y_offset": "0x0"
+    },
+    "VIVILLON_OCEAN": {
+        "size": "0x0",
+        "y_offset": "0x0"
+    },
+    "VIVILLON_POKEBALL": {
+        "size": "0x0",
+        "y_offset": "0x0"
+    },
+    "VIVILLON_POLAR": {
+        "size": "0x0",
+        "y_offset": "0x0"
+    },
+    "VIVILLON_RIVER": {
+        "size": "0x0",
+        "y_offset": "0x0"
+    },
+    "VIVILLON_SANDSTORM": {
+        "size": "0x0",
+        "y_offset": "0x0"
+    },
+    "VIVILLON_SAVANNA": {
+        "size": "0x0",
+        "y_offset": "0x0"
+    },
+    "VIVILLON_SUN": {
+        "size": "0x0",
+        "y_offset": "0x0"
+    },
+    "VIVILLON_TUNDRA": {
+        "size": "0x0",
+        "y_offset": "0x0"
+    },
+    "ROWLET": {
+        "size": "0x0",
+        "y_offset": "0xc"
+    },
+    "DARTRIX": {
+        "size": "0x0",
+        "y_offset": "0x8"
+    },
+    "DECIDUEYE": {
+        "size": "0x0",
+        "y_offset": "0x0"
+    },
+    "LITTEN": {
+        "size": "0x0",
+        "y_offset": "0xc"
+    },
+    "TORRACAT": {
+        "size": "0x0",
+        "y_offset": "0x1"
+    },
+    "INCINEROAR": {
+        "size": "0x0",
+        "y_offset": "0x0"
+    },
+    "POPPLIO": {
+        "size": "0x0",
+        "y_offset": "0xc"
+    },
+    "BRIONNE": {
+        "size": "0x0",
+        "y_offset": "0x7"
+    },
+    "PRIMARINA": {
+        "size": "0x0",
+        "y_offset": "0x0"
+    },
+    "PIKIPEK": {
+        "size": "0x0",
+        "y_offset": "0xe"
+    },
+    "TRUMBEAK": {
+        "size": "0x0",
+        "y_offset": "0x6"
+    },
+    "TOUCANNON": {
+        "size": "0x0",
+        "y_offset": "0x0"
+    },
+    "YUNGOOS": {
+        "size": "0x0",
+        "y_offset": "0xc"
+    },
+    "GUMSHOOS": {
+        "size": "0x0",
+        "y_offset": "0x5"
+    },
+    "GRUBBIN": {
+        "size": "0x0",
+        "y_offset": "0x11"
+    },
+    "CHARJABUG": {
+        "size": "0x0",
+        "y_offset": "0x10"
+    },
+    "VIKAVOLT": {
+        "size": "0x0",
+        "y_offset": "0x3"
+    },
+    "CRABRAWLER": {
+        "size": "0x0",
+        "y_offset": "0x2"
+    },
+    "CRABOMINABLE": {
+        "size": "0x0",
+        "y_offset": "0x0"
+    },
+    "ORICORIO": {
+        "size": "0x0",
+        "y_offset": "0x2"
+    },
+    "CUTIEFLY": {
+        "size": "0x0",
+        "y_offset": "0x10"
+    },
+    "RIBOMBEE": {
+        "size": "0x0",
+        "y_offset": "0x5"
+    },
+    "ROCKRUFF": {
+        "size": "0x0",
+        "y_offset": "0xb"
+    },
+    "LYCANROC": {
+        "size": "0x0",
+        "y_offset": "0x1"
+    },
+    "WISHIWASHI": {
+        "size": "0x0",
+        "y_offset": "0x15"
+    },
+    "MAREANIE": {
+        "size": "0x0",
+        "y_offset": "0xe"
+    },
+    "TOXAPEX": {
+        "size": "0x0",
+        "y_offset": "0x2"
+    },
+    "MUDBRAY": {
+        "size": "0x0",
+        "y_offset": "0x7"
+    },
+    "MUDSDALE": {
+        "size": "0x0",
+        "y_offset": "0x0"
+    },
+    "DEWPIDER": {
+        "size": "0x0",
+        "y_offset": "0xd"
+    },
+    "ARAQUANID": {
+        "size": "0x0",
+        "y_offset": "0x2"
+    },
+    "FOMANTIS": {
+        "size": "0x0",
+        "y_offset": "0xb"
+    },
+    "LURANTIS": {
+        "size": "0x0",
+        "y_offset": "0x2"
+    },
+    "MORELULL": {
+        "size": "0x0",
+        "y_offset": "0x8"
+    },
+    "SHIINOTIC": {
+        "size": "0x0",
+        "y_offset": "0x3"
+    },
+    "SALANDIT": {
+        "size": "0x0",
+        "y_offset": "0x5"
+    },
+    "SALAZZLE": {
+        "size": "0x0",
+        "y_offset": "0x1"
+    },
+    "STUFFUL": {
+        "size": "0x0",
+        "y_offset": "0xa"
+    },
+    "BEWEAR": {
+        "size": "0x0",
+        "y_offset": "0x1"
+    },
+    "BOUNSWEET": {
+        "size": "0x0",
+        "y_offset": "0x10"
+    },
+    "STEENEE": {
+        "size": "0x0",
+        "y_offset": "0x7"
+    },
+    "TSAREENA": {
+        "size": "0x0",
+        "y_offset": "0x1"
+    },
+    "COMFEY": {
+        "size": "0x0",
+        "y_offset": "0x9"
+    },
+    "ORANGURU": {
+        "size": "0x0",
+        "y_offset": "0x5"
+    },
+    "PASSIMIAN": {
+        "size": "0x0",
+        "y_offset": "0x2"
+    },
+    "WIMPOD": {
+        "size": "0x0",
+        "y_offset": "0xe"
+    },
+    "GOLISOPOD": {
+        "size": "0x0",
+        "y_offset": "0x0"
+    },
+    "SANDYGAST": {
+        "size": "0x0",
+        "y_offset": "0xb"
+    },
+    "PALOSSAND": {
+        "size": "0x0",
+        "y_offset": "0x1"
+    },
+    "PYUKUMUKU": {
+        "size": "0x0",
+        "y_offset": "0xf"
+    },
+    "TYPE_NULL": {
+        "size": "0x0",
+        "y_offset": "0x2"
+    },
+    "SILVALLY": {
+        "size": "0x0",
+        "y_offset": "0x0"
+    },
+    "MINIOR_SHIELD": {
+        "size": "0x0",
+        "y_offset": "0xe"
+    },
+    "KOMALA": {
+        "size": "0x0",
+        "y_offset": "0xc"
+    },
+    "TURTONATOR": {
+        "size": "0x0",
+        "y_offset": "0x0"
+    },
+    "TOGEDEMARU": {
+        "size": "0x0",
+        "y_offset": "0xc"
+    },
+    "MIMIKYU": {
+        "size": "0x0",
+        "y_offset": "0xc"
+    },
+    "BRUXISH": {
+        "size": "0x0",
+        "y_offset": "0xa"
+    },
+    "DRAMPA": {
+        "size": "0x0",
+        "y_offset": "0x0"
+    },
+    "DHELMISE": {
+        "size": "0x0",
+        "y_offset": "0x0"
+    },
+    "JANGMO_O": {
+        "size": "0x0",
+        "y_offset": "0x8"
+    },
+    "HAKAMO_O": {
+        "size": "0x0",
+        "y_offset": "0x0"
+    },
+    "KOMMO_O": {
+        "size": "0x0",
+        "y_offset": "0x0"
+    },
+    "TAPU_KOKO": {
+        "size": "0x0",
+        "y_offset": "0x1"
+    },
+    "TAPU_LELE": {
+        "size": "0x0",
+        "y_offset": "0x6"
+    },
+    "TAPU_BULU": {
+        "size": "0x0",
+        "y_offset": "0x0"
+    },
+    "TAPU_FINI": {
+        "size": "0x0",
+        "y_offset": "0x2"
+    },
+    "COSMOG": {
+        "size": "0x0",
+        "y_offset": "0x7"
+    },
+    "COSMOEM": {
+        "size": "0x0",
+        "y_offset": "0x9"
+    },
+    "SOLGALEO": {
+        "size": "0x0",
+        "y_offset": "0x0"
+    },
+    "LUNALA": {
+        "size": "0x0",
+        "y_offset": "0x0"
+    },
+    "NIHILEGO": {
+        "size": "0x0",
+        "y_offset": "0x3"
+    },
+    "BUZZWOLE": {
+        "size": "0x0",
+        "y_offset": "0x0"
+    },
+    "PHEROMOSA": {
+        "size": "0x0",
+        "y_offset": "0x0"
+    },
+    "XURKITREE": {
+        "size": "0x0",
+        "y_offset": "0x0"
+    },
+    "CELESTEELA": {
+        "size": "0x0",
+        "y_offset": "0x0"
+    },
+    "KARTANA": {
+        "size": "0x0",
+        "y_offset": "0xb"
+    },
+    "GUZZLORD": {
+        "size": "0x0",
+        "y_offset": "0x3"
+    },
+    "NECROZMA": {
+        "size": "0x0",
+        "y_offset": "0x2"
+    },
+    "MAGEARNA": {
+        "size": "0x0",
+        "y_offset": "0x0"
+    },
+    "MARSHADOW": {
+        "size": "0x0",
+        "y_offset": "0x9"
+    },
+    "RATTATA_A": {
+        "size": "0x0",
+        "y_offset": "0x9"
+    },
+    "RATICATE_A": {
+        "size": "0x0",
+        "y_offset": "0x8"
+    },
+    "RAICHU_A": {
+        "size": "0x0",
+        "y_offset": "0x1"
+    },
+    "SANDSHREW_A": {
+        "size": "0x0",
+        "y_offset": "0xd"
+    },
+    "SANDSLASH_A": {
+        "size": "0x0",
+        "y_offset": "0x1"
+    },
+    "VULPIX_A": {
+        "size": "0x0",
+        "y_offset": "0xa"
+    },
+    "NINETALES_A": {
+        "size": "0x0",
+        "y_offset": "0x1"
+    },
+    "DIGLETT_A": {
+        "size": "0x0",
+        "y_offset": "0x11"
+    },
+    "DUGTRIO_A": {
+        "size": "0x0",
+        "y_offset": "0xb"
+    },
+    "MEOWTH_A": {
+        "size": "0x0",
+        "y_offset": "0x9"
+    },
+    "PERSIAN_A": {
+        "size": "0x0",
+        "y_offset": "0x0"
+    },
+    "GEODUDE_A": {
+        "size": "0x0",
+        "y_offset": "0x11"
+    },
+    "GRAVELER_A": {
+        "size": "0x0",
+        "y_offset": "0x8"
+    },
+    "GOLEM_A": {
+        "size": "0x0",
+        "y_offset": "0x1"
+    },
+    "GRIMER_A": {
+        "size": "0x0",
+        "y_offset": "0xb"
+    },
+    "MUK_A": {
+        "size": "0x0",
+        "y_offset": "0x3"
+    },
+    "EXEGGCUTE_A": {
+        "size": "0x0",
+        "y_offset": "0xc"
+    },
+    "EXEGGUTOR_A": {
+        "size": "0x0",
+        "y_offset": "0x1"
+    },
+    "CUBONE_A": {
+        "size": "0x0",
+        "y_offset": "0xd"
+    },
+    "MAROWAK_A": {
+        "size": "0x0",
+        "y_offset": "0x1"
+    },
+    "DEOXYS_ATTACK": {
+        "size": "0x0",
+        "y_offset": "0x0"
+    },
+    "DEOXYS_DEFENSE": {
+        "size": "0x0",
+        "y_offset": "0x0"
+    },
+    "DEOXYS_SPEED": {
+        "size": "0x0",
+        "y_offset": "0x0"
+    },
+    "ORICORIO_Y": {
+        "size": "0x0",
+        "y_offset": "0x5"
+    },
+    "ORICORIO_P": {
+        "size": "0x0",
+        "y_offset": "0x3"
+    },
+    "ORICORIO_S": {
+        "size": "0x0",
+        "y_offset": "0x4"
+    },
+    "LYCANROC_N": {
+        "size": "0x0",
+        "y_offset": "0x2"
+    },
+    "WISHIWASHI_S": {
+        "size": "0x0",
+        "y_offset": "0x4"
+    },
+    "SILVALLY_FIGHT": {
+        "size": "0x0",
+        "y_offset": "0x0"
+    },
+    "SILVALLY_FLYING": {
+        "size": "0x0",
+        "y_offset": "0x0"
+    },
+    "SILVALLY_POISON": {
+        "size": "0x0",
+        "y_offset": "0x0"
+    },
+    "SILVALLY_GROUND": {
+        "size": "0x0",
+        "y_offset": "0x0"
+    },
+    "SILVALLY_ROCK": {
+        "size": "0x0",
+        "y_offset": "0x0"
+    },
+    "SILVALLY_BUG": {
+        "size": "0x0",
+        "y_offset": "0x0"
+    },
+    "SILVALLY_GHOST": {
+        "size": "0x0",
+        "y_offset": "0x0"
+    },
+    "SILVALLY_STEEL": {
+        "size": "0x0",
+        "y_offset": "0x0"
+    },
+    "SILVALLY_FIRE": {
+        "size": "0x0",
+        "y_offset": "0x0"
+    },
+    "SILVALLY_WATER": {
+        "size": "0x0",
+        "y_offset": "0x0"
+    },
+    "SILVALLY_GRASS": {
+        "size": "0x0",
+        "y_offset": "0x0"
+    },
+    "SILVALLY_ELECTRIC": {
+        "size": "0x0",
+        "y_offset": "0x0"
+    },
+    "SILVALLY_PSYCHIC": {
+        "size": "0x0",
+        "y_offset": "0x0"
+    },
+    "SILVALLY_ICE": {
+        "size": "0x0",
+        "y_offset": "0x0"
+    },
+    "SILVALLY_DRAGON": {
+        "size": "0x0",
+        "y_offset": "0x0"
+    },
+    "SILVALLY_DARK": {
+        "size": "0x0",
+        "y_offset": "0x0"
+    },
+    "SILVALLY_FAIRY": {
+        "size": "0x0",
+        "y_offset": "0x0"
+    },
+    "MINIOR_RED": {
+        "size": "0x0",
+        "y_offset": "0xf"
+    },
+    "MINIOR_BLUE": {
+        "size": "0x0",
+        "y_offset": "0xf"
+    },
+    "MINIOR_ORANGE": {
+        "size": "0x0",
+        "y_offset": "0xf"
+    },
+    "MINIOR_YELLOW": {
+        "size": "0x0",
+        "y_offset": "0xf"
+    },
+    "MINIOR_INDIGO": {
+        "size": "0x0",
+        "y_offset": "0xf"
+    },
+    "MINIOR_GREEN": {
+        "size": "0x0",
+        "y_offset": "0xf"
+    },
+    "MINIOR_VIOLET": {
+        "size": "0x0",
+        "y_offset": "0xf"
+    },
+    "MIMIKYU_BUSTED": {
+        "size": "0x0",
+        "y_offset": "0xc"
+    },
+    "MAGEARNA_P": {
+        "size": "0x0",
+        "y_offset": "0x0"
+    },
+    "POIPOLE": {
+        "size": "0x0",
+        "y_offset": "0x8"
+    },
+    "NAGANADEL": {
+        "size": "0x0",
+        "y_offset": "0x1"
+    },
+    "STAKATAKA": {
+        "size": "0x0",
+        "y_offset": "0x0"
+    },
+    "BLACEPHALON": {
+        "size": "0x0",
+        "y_offset": "0x0"
+    },
+    "ZERAORA": {
+        "size": "0x0",
+        "y_offset": "0x0"
+    },
+    "NECROZMA_DUSK_MANE": {
+        "size": "0x0",
+        "y_offset": "0x0"
+    },
+    "NECROZMA_DAWN_WINGS": {
+        "size": "0x0",
+        "y_offset": "0x0"
+    },
+    "NECROZMA_ULTRA": {
+        "size": "0x0",
+        "y_offset": "0x0"
+    },
+    "LYCANROC_DUSK": {
+        "size": "0x0",
+        "y_offset": "0x0"
+    },
+    "MELTAN": {
+        "size": "0x0",
+        "y_offset": "0x8"
+    },
+    "MELMETAL": {
+        "size": "0x0",
+        "y_offset": "0x4"
+    },
+    "PIKACHU_SURFING": {
+        "size": "0x0",
+        "y_offset": "0x6"
+    },
+    "PIKACHU_FLYING": {
+        "size": "0x0",
+        "y_offset": "0x0"
+    },
+    "PIKACHU_COSPLAY": {
+        "size": "0x0",
+        "y_offset": "0x9"
+    },
+    "PIKACHU_LIBRE": {
+        "size": "0x0",
+        "y_offset": "0x9"
+    },
+    "PIKACHU_POP_STAR": {
+        "size": "0x0",
+        "y_offset": "0x9"
+    },
+    "PIKACHU_ROCK_STAR": {
+        "size": "0x0",
+        "y_offset": "0x9"
+    },
+    "PIKACHU_BELLE": {
+        "size": "0x0",
+        "y_offset": "0x9"
+    },
+    "PIKACHU_PHD": {
+        "size": "0x0",
+        "y_offset": "0x9"
+    },
+    "PIKACHU_CAP_ORIGINAL": {
+        "size": "0x0",
+        "y_offset": "0x9"
+    },
+    "PIKACHU_CAP_HOENN": {
+        "size": "0x0",
+        "y_offset": "0x9"
+    },
+    "PIKACHU_CAP_SINNOH": {
+        "size": "0x0",
+        "y_offset": "0x9"
+    },
+    "PIKACHU_CAP_UNOVA": {
+        "size": "0x0",
+        "y_offset": "0x9"
+    },
+    "PIKACHU_CAP_KALOS": {
+        "size": "0x0",
+        "y_offset": "0x9"
+    },
+    "PIKACHU_CAP_ALOLA": {
+        "size": "0x0",
+        "y_offset": "0x9"
+    },
+    "PIKACHU_CAP_PARTNER": {
+        "size": "0x0",
+        "y_offset": "0x9"
+    },
+    "PICHU_SPIKY": {
+        "size": "0x0",
+        "y_offset": "0xe"
+    },
+    "XERNEAS_NATURAL": {
+        "size": "0x0",
+        "y_offset": "0x0"
+    },
+    "GROOKEY": {
+        "size": "0x0",
+        "y_offset": "0xc"
+    },
+    "THWACKEY": {
+        "size": "0x0",
+        "y_offset": "0x7"
+    },
+    "RILLABOOM": {
+        "size": "0x0",
+        "y_offset": "0x3"
+    },
+    "SCORBUNNY": {
+        "size": "0x0",
+        "y_offset": "0x8"
+    },
+    "RABOOT": {
+        "size": "0x0",
+        "y_offset": "0x3"
+    },
+    "CINDERACE": {
+        "size": "0x0",
+        "y_offset": "0x0"
+    },
+    "SOBBLE": {
+        "size": "0x0",
+        "y_offset": "0xb"
+    },
+    "DRIZZILE": {
+        "size": "0x0",
+        "y_offset": "0x9"
+    },
+    "INTELEON": {
+        "size": "0x0",
+        "y_offset": "0x1"
+    },
+    "SKWOVET": {
+        "size": "0x0",
+        "y_offset": "0x9"
+    },
+    "GREEDENT": {
+        "size": "0x0",
+        "y_offset": "0x4"
+    },
+    "ROOKIDEE": {
+        "size": "0x0",
+        "y_offset": "0x10"
+    },
+    "CORVISQUIRE": {
+        "size": "0x0",
+        "y_offset": "0x5"
+    },
+    "CORVIKNIGHT": {
+        "size": "0x0",
+        "y_offset": "0x2"
+    },
+    "BLIPBUG": {
+        "size": "0x0",
+        "y_offset": "0xc"
+    },
+    "DOTTLER": {
+        "size": "0x0",
+        "y_offset": "0xd"
+    },
+    "ORBEETLE": {
+        "size": "0x0",
+        "y_offset": "0x4"
+    },
+    "NICKIT": {
+        "size": "0x0",
+        "y_offset": "0x9"
+    },
+    "THIEVUL": {
+        "size": "0x0",
+        "y_offset": "0x7"
+    },
+    "GOSSIFLEUR": {
+        "size": "0x0",
+        "y_offset": "0xb"
+    },
+    "ELDEGOSS": {
+        "size": "0x0",
+        "y_offset": "0x4"
+    },
+    "WOOLOO": {
+        "size": "0x0",
+        "y_offset": "0xc"
+    },
+    "DUBWOOL": {
+        "size": "0x0",
+        "y_offset": "0x5"
+    },
+    "CHEWTLE": {
+        "size": "0x0",
+        "y_offset": "0xd"
+    },
+    "DREDNAW": {
+        "size": "0x0",
+        "y_offset": "0x7"
+    },
+    "YAMPER": {
+        "size": "0x0",
+        "y_offset": "0xa"
+    },
+    "BOLTUND": {
+        "size": "0x0",
+        "y_offset": "0x5"
+    },
+    "ROLYCOLY": {
+        "size": "0x0",
+        "y_offset": "0x10"
+    },
+    "CARKOL": {
+        "size": "0x0",
+        "y_offset": "0x8"
+    },
+    "COALOSSAL": {
+        "size": "0x0",
+        "y_offset": "0x0"
+    },
+    "APPLIN": {
+        "size": "0x0",
+        "y_offset": "0x10"
+    },
+    "FLAPPLE": {
+        "size": "0x0",
+        "y_offset": "0x9"
+    },
+    "APPLETUN": {
+        "size": "0x0",
+        "y_offset": "0x5"
+    },
+    "SILICOBRA": {
+        "size": "0x0",
+        "y_offset": "0xc"
+    },
+    "SANDACONDA": {
+        "size": "0x0",
+        "y_offset": "0xc"
+    },
+    "CRAMORANT": {
+        "size": "0x0",
+        "y_offset": "0x0"
+    },
+    "ARROKUDA": {
+        "size": "0x0",
+        "y_offset": "0x11"
+    },
+    "BARRASKEWDA": {
+        "size": "0x0",
+        "y_offset": "0x8"
+    },
+    "TOXEL": {
+        "size": "0x0",
+        "y_offset": "0xb"
+    },
+    "TOXTRICITY": {
+        "size": "0x0",
+        "y_offset": "0x1"
+    },
+    "SIZZLIPEDE": {
+        "size": "0x0",
+        "y_offset": "0x11"
+    },
+    "CENTISKORCH": {
+        "size": "0x0",
+        "y_offset": "0x7"
+    },
+    "CLOBBOPUS": {
+        "size": "0x0",
+        "y_offset": "0xf"
+    },
+    "GRAPPLOCT": {
+        "size": "0x0",
+        "y_offset": "0x5"
+    },
+    "SINISTEA": {
+        "size": "0x0",
+        "y_offset": "0x11"
+    },
+    "POLTEAGEIST": {
+        "size": "0x0",
+        "y_offset": "0xb"
+    },
+    "HATENNA": {
+        "size": "0x0",
+        "y_offset": "0x14"
+    },
+    "HATTREM": {
+        "size": "0x0",
+        "y_offset": "0x4"
+    },
+    "HATTERENE": {
+        "size": "0x0",
+        "y_offset": "0x2"
+    },
+    "IMPIDIMP": {
+        "size": "0x0",
+        "y_offset": "0x7"
+    },
+    "MORGREM": {
+        "size": "0x0",
+        "y_offset": "0x6"
+    },
+    "GRIMMSNARL": {
+        "size": "0x0",
+        "y_offset": "0x2"
+    },
+    "OBSTAGOON": {
+        "size": "0x0",
+        "y_offset": "0x0"
+    },
+    "PERRSERKER": {
+        "size": "0x0",
+        "y_offset": "0x2"
+    },
+    "CURSOLA": {
+        "size": "0x0",
+        "y_offset": "0x0"
+    },
+    "SIRFETCHD": {
+        "size": "0x0",
+        "y_offset": "0x0"
+    },
+    "MR_RIME": {
+        "size": "0x0",
+        "y_offset": "0x4"
+    },
+    "RUNERIGUS": {
+        "size": "0x0",
+        "y_offset": "0x2"
+    },
+    "MILCERY": {
+        "size": "0x0",
+        "y_offset": "0xf"
+    },
+    "ALCREMIE_STRAWBERRY": {
+        "size": "0x0",
+        "y_offset": "0x7"
+    },
+    "FALINKS": {
+        "size": "0x0",
+        "y_offset": "0x8"
+    },
+    "PINCURCHIN": {
+        "size": "0x0",
+        "y_offset": "0xf"
+    },
+    "SNOM": {
+        "size": "0x0",
+        "y_offset": "0x14"
+    },
+    "FROSMOTH": {
+        "size": "0x0",
+        "y_offset": "0x5"
+    },
+    "STONJOURNER": {
+        "size": "0x0",
+        "y_offset": "0x2"
+    },
+    "EISCUE": {
+        "size": "0x0",
+        "y_offset": "0x0"
+    },
+    "INDEEDEE": {
+        "size": "0x0",
+        "y_offset": "0x9"
+    },
+    "MORPEKO": {
+        "size": "0x0",
+        "y_offset": "0xe"
+    },
+    "CUFANT": {
+        "size": "0x0",
+        "y_offset": "0xb"
+    },
+    "COPPERAJAH": {
+        "size": "0x0",
+        "y_offset": "0x5"
+    },
+    "DRACOZOLT": {
+        "size": "0x0",
+        "y_offset": "0x2"
+    },
+    "ARCTOZOLT": {
+        "size": "0x0",
+        "y_offset": "0x1"
+    },
+    "DRACOVISH": {
+        "size": "0x0",
+        "y_offset": "0x0"
+    },
+    "ARCTOVISH": {
+        "size": "0x0",
+        "y_offset": "0x3"
+    },
+    "DURALUDON": {
+        "size": "0x0",
+        "y_offset": "0x0"
+    },
+    "DREEPY": {
+        "size": "0x0",
+        "y_offset": "0xe"
+    },
+    "DRAKLOAK": {
+        "size": "0x0",
+        "y_offset": "0x7"
+    },
+    "DRAGAPULT": {
+        "size": "0x0",
+        "y_offset": "0x2"
+    },
+    "ZACIAN": {
+        "size": "0x0",
+        "y_offset": "0x3"
+    },
+    "ZAMAZENTA": {
+        "size": "0x0",
+        "y_offset": "0x0"
+    },
+    "ETERNATUS": {
+        "size": "0x0",
+        "y_offset": "0x1"
+    },
+    "KUBFU": {
+        "size": "0x0",
+        "y_offset": "0x8"
+    },
+    "URSHIFU_SINGLE": {
+        "size": "0x0",
+        "y_offset": "0x0"
+    },
+    "ZARUDE": {
+        "size": "0x0",
+        "y_offset": "0x2"
+    },
+    "REGIELEKI": {
+        "size": "0x0",
+        "y_offset": "0x8"
+    },
+    "REGIDRAGO": {
+        "size": "0x0",
+        "y_offset": "0x1"
+    },
+    "GLASTRIER": {
+        "size": "0x0",
+        "y_offset": "0x0"
+    },
+    "SPECTRIER": {
+        "size": "0x0",
+        "y_offset": "0x0"
+    },
+    "CALYREX": {
+        "size": "0x0",
+        "y_offset": "0x2"
+    },
+    "CRAMORANT_GULPING": {
+        "size": "0x0",
+        "y_offset": "0x0"
+    },
+    "CRAMORANT_GORGING": {
+        "size": "0x0",
+        "y_offset": "0x0"
+    },
+    "TOXTRICITY_LOW_KEY": {
+        "size": "0x0",
+        "y_offset": "0x2"
+    },
+    "SINISTEA_CHIPPED": {
+        "size": "0x0",
+        "y_offset": "0x11"
+    },
+    "POLTEAGEIST_CHIPPED": {
+        "size": "0x0",
+        "y_offset": "0xb"
+    },
+    "ALCREMIE_BERRY": {
+        "size": "0x0",
+        "y_offset": "0x7"
+    },
+    "ALCREMIE_CLOVER": {
+        "size": "0x0",
+        "y_offset": "0x7"
+    },
+    "ALCREMIE_FLOWER": {
+        "size": "0x0",
+        "y_offset": "0x7"
+    },
+    "ALCREMIE_LOVE": {
+        "size": "0x0",
+        "y_offset": "0x7"
+    },
+    "ALCREMIE_RIBBON": {
+        "size": "0x0",
+        "y_offset": "0x7"
+    },
+    "ALCREMIE_STAR": {
+        "size": "0x0",
+        "y_offset": "0x7"
+    },
+    "EISCUE_NOICE": {
+        "size": "0x0",
+        "y_offset": "0x0"
+    },
+    "INDEEDEE_FEMALE": {
+        "size": "0x0",
+        "y_offset": "0x9"
+    },
+    "MORPEKO_HANGRY": {
+        "size": "0x0",
+        "y_offset": "0xe"
+    },
+    "ZACIAN_CROWNED": {
+        "size": "0x0",
+        "y_offset": "0x0"
+    },
+    "ZAMAZENTA_CROWNED": {
+        "size": "0x0",
+        "y_offset": "0x0"
+    },
+    "ETERNATUS_ETERNAMAX": {
+        "size": "0x0",
+        "y_offset": "0x3"
+    },
+    "URSHIFU_RAPID": {
+        "size": "0x0",
+        "y_offset": "0x0"
+    },
+    "ZARUDE_DADA": {
+        "size": "0x0",
+        "y_offset": "0x2"
+    },
+    "CALYREX_ICE_RIDER": {
+        "size": "0x0",
+        "y_offset": "0x0"
+    },
+    "CALYREX_SHADOW_RIDER": {
+        "size": "0x0",
+        "y_offset": "0x0"
+    },
+    "MEOWTH_G": {
+        "size": "0x0",
+        "y_offset": "0x9"
+    },
+    "PONYTA_G": {
+        "size": "0x0",
+        "y_offset": "0x8"
+    },
+    "RAPIDASH_G": {
+        "size": "0x0",
+        "y_offset": "0x0"
+    },
+    "SLOWPOKE_G": {
+        "size": "0x0",
+        "y_offset": "0x10"
+    },
+    "SLOWBRO_G": {
+        "size": "0x0",
+        "y_offset": "0x4"
+    },
+    "FARFETCHD_G": {
+        "size": "0x0",
+        "y_offset": "0x9"
+    },
+    "KOFFING_G": {
+        "size": "0x0",
+        "y_offset": "0xa"
+    },
+    "WEEZING_G": {
+        "size": "0x0",
+        "y_offset": "0x0"
+    },
+    "MR_MIME_G": {
+        "size": "0x0",
+        "y_offset": "0x7"
+    },
+    "ARTICUNO_G": {
+        "size": "0x0",
+        "y_offset": "0x7"
+    },
+    "ZAPDOS_G": {
+        "size": "0x0",
+        "y_offset": "0x0"
+    },
+    "MOLTRES_G": {
+        "size": "0x0",
+        "y_offset": "0x0"
+    },
+    "SLOWKING_G": {
+        "size": "0x0",
+        "y_offset": "0x0"
+    },
+    "CORSOLA_G": {
+        "size": "0x0",
+        "y_offset": "0xb"
+    },
+    "ZIGZAGOON_G": {
+        "size": "0x0",
+        "y_offset": "0xd"
+    },
+    "LINOONE_G": {
+        "size": "0x0",
+        "y_offset": "0xd"
+    },
+    "MIME_JR_G": {
+        "size": "0x0",
+        "y_offset": "0x9"
+    },
+    "DARUMAKA_G": {
+        "size": "0x0",
+        "y_offset": "0xf"
+    },
+    "DARMANITAN_G": {
+        "size": "0x0",
+        "y_offset": "0x0"
+    },
+    "DARMANITAN_G_ZEN": {
+        "size": "0x0",
+        "y_offset": "0x2"
+    },
+    "YAMASK_G": {
+        "size": "0x0",
+        "y_offset": "0xd"
+    },
+    "STUNFISK_G": {
+        "size": "0x0",
+        "y_offset": "0xe"
+    },
+    "GROWLITHE_H": {
+        "size": "0x0",
+        "y_offset": "0xb"
+    },
+    "ARCANINE_H": {
+        "size": "0x0",
+        "y_offset": "0x0"
+    },
+    "VOLTORB_H": {
+        "size": "0x0",
+        "y_offset": "0x11"
+    },
+    "ELECTRODE_H": {
+        "size": "0x0",
+        "y_offset": "0x9"
+    },
+    "TYPHLOSION_H": {
+        "size": "0x0",
+        "y_offset": "0x0"
+    },
+    "QWILFISH_H": {
+        "size": "0x0",
+        "y_offset": "0x10"
+    },
+    "SNEASEL_H": {
+        "size": "0x0",
+        "y_offset": "0x7"
+    },
+    "SAMUROTT_H": {
+        "size": "0x0",
+        "y_offset": "0x3"
+    },
+    "LILLIGANT_H": {
+        "size": "0x0",
+        "y_offset": "0x0"
+    },
+    "BASCULIN_H": {
+        "size": "0x0",
+        "y_offset": "0x10"
+    },
+    "ZORUA_H": {
+        "size": "0x0",
+        "y_offset": "0xb"
+    },
+    "ZOROARK_H": {
+        "size": "0x0",
+        "y_offset": "0x0"
+    },
+    "BRAVIARY_H": {
+        "size": "0x0",
+        "y_offset": "0x1"
+    },
+    "SLIGGOO_H": {
+        "size": "0x0",
+        "y_offset": "0x7"
+    },
+    "GOODRA_H": {
+        "size": "0x0",
+        "y_offset": "0x2"
+    },
+    "AVALUGG_H": {
+        "size": "0x0",
+        "y_offset": "0x6"
+    },
+    "DECIDUEYE_H": {
+        "size": "0x0",
+        "y_offset": "0x0"
+    },
+    "WYRDEER": {
+        "size": "0x0",
+        "y_offset": "0x0"
+    },
+    "KLEAVOR": {
+        "size": "0x0",
+        "y_offset": "0x0"
+    },
+    "URSALUNA": {
+        "size": "0x0",
+        "y_offset": "0x3"
+    },
+    "BASCULEGION_M": {
+        "size": "0x0",
+        "y_offset": "0x6"
+    },
+    "BASCULEGION_F": {
+        "size": "0x0",
+        "y_offset": "0x9"
+    },
+    "SNEASLER": {
+        "size": "0x0",
+        "y_offset": "0x0"
+    },
+    "OVERQWIL": {
+        "size": "0x0",
+        "y_offset": "0x0"
+    },
+    "ENAMORUS": {
+        "size": "0x0",
+        "y_offset": "0x1"
+    },
+    "ENAMORUS_THERIAN": {
+        "size": "0x0",
+        "y_offset": "0x3"
+    },
+    "VENUSAUR_GIGA": {
+        "size": "0x0",
+        "y_offset": "0x3"
+    },
+    "CHARIZARD_GIGA": {
+        "size": "0x0",
+        "y_offset": "0x0"
+    },
+    "BLASTOISE_GIGA": {
+        "size": "0x0",
+        "y_offset": "0x5"
+    },
+    "BUTTERFREE_GIGA": {
+        "size": "0x0",
+        "y_offset": "0x0"
+    },
+    "PIKACHU_GIGA": {
+        "size": "0x0",
+        "y_offset": "0x2"
+    },
+    "MEOWTH_GIGA": {
+        "size": "0x0",
+        "y_offset": "0x3"
+    },
+    "MACHAMP_GIGA": {
+        "size": "0x0",
+        "y_offset": "0x0"
+    },
+    "GENGAR_GIGA": {
+        "size": "0x0",
+        "y_offset": "0x7"
+    },
+    "KINGLER_GIGA": {
+        "size": "0x0",
+        "y_offset": "0x0"
+    },
+    "LAPRAS_GIGA": {
+        "size": "0x0",
+        "y_offset": "0x0"
+    },
+    "EEVEE_GIGA": {
+        "size": "0x0",
+        "y_offset": "0x8"
+    },
+    "SNORLAX_GIGA": {
+        "size": "0x0",
+        "y_offset": "0x0"
+    },
+    "GARBODOR_GIGA": {
+        "size": "0x0",
+        "y_offset": "0x2"
+    },
+    "MELMETAL_GIGA": {
+        "size": "0x0",
+        "y_offset": "0x1"
+    },
+    "RILLABOOM_GIGA": {
+        "size": "0x0",
+        "y_offset": "0x0"
+    },
+    "CINDERACE_GIGA": {
+        "size": "0x0",
+        "y_offset": "0x0"
+    },
+    "INTELEON_GIGA": {
+        "size": "0x0",
+        "y_offset": "0x0"
+    },
+    "CORVIKNIGHT_GIGA": {
+        "size": "0x0",
+        "y_offset": "0x2"
+    },
+    "ORBEETLE_GIGA": {
+        "size": "0x0",
+        "y_offset": "0x2"
+    },
+    "DREDNAW_GIGA": {
+        "size": "0x0",
+        "y_offset": "0x0"
+    },
+    "COALOSSAL_GIGA": {
+        "size": "0x0",
+        "y_offset": "0x0"
+    },
+    "FLAPPLE_GIGA": {
+        "size": "0x0",
+        "y_offset": "0x3"
+    },
+    "APPLETUN_GIGA": {
+        "size": "0x0",
+        "y_offset": "0x3"
+    },
+    "SANDACONDA_GIGA": {
+        "size": "0x0",
+        "y_offset": "0x0"
+    },
+    "TOXTRICITY_GIGA": {
+        "size": "0x0",
+        "y_offset": "0x0"
+    },
+    "TOXTRICITY_LOW_KEY_GIGA": {
+        "size": "0x0",
+        "y_offset": "0x0"
+    },
+    "CENTISKORCH_GIGA": {
+        "size": "0x0",
+        "y_offset": "0x5"
+    },
+    "HATTERENE_GIGA": {
+        "size": "0x0",
+        "y_offset": "0x0"
+    },
+    "GRIMMSNARL_GIGA": {
+        "size": "0x0",
+        "y_offset": "0x0"
+    },
+    "ALCREMIE_GIGA": {
+        "size": "0x0",
+        "y_offset": "0x2"
+    },
+    "COPPERAJAH_GIGA": {
+        "size": "0x0",
+        "y_offset": "0x2"
+    },
+    "DURALUDON_GIGA": {
+        "size": "0x0",
+        "y_offset": "0x0"
+    },
+    "URSHIFU_SINGLE_GIGA": {
+        "size": "0x0",
+        "y_offset": "0x0"
+    },
+    "URSHIFU_RAPID_GIGA": {
+        "size": "0x0",
+        "y_offset": "0x0"
+    }
+}
