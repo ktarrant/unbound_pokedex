@@ -2,7 +2,7 @@ import re
 import json
 
 
-def convert_string_file(file_path, output_json):
+def convert_string_file(file_path):
     # Regex patterns to match dex and name entries
     dex_entry_pattern = re.compile(r"#org @DEX_ENTRY_(\w+)")
     name_entry_pattern = re.compile(r"#org @NAME_(\w+)")
@@ -50,6 +50,4 @@ def convert_string_file(file_path, output_json):
         if current_entry:
             data[current_entry] = " ".join(current_text).replace("\\n", " ").replace("Pok\\emon", "Pokémon")
 
-    # Write the JSON output
-    with open(output_json, 'w') as json_file:
-        json.dump(data, json_file, indent=4)
+    return data
