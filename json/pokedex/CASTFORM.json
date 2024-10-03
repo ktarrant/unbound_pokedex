@@ -1,0 +1,98 @@
+{
+    "baseHP": 70,
+    "baseAttack": 70,
+    "baseDefense": 70,
+    "baseSpAttack": 70,
+    "baseSpDefense": 70,
+    "baseSpeed": 70,
+    "type1": "TYPE_NORMAL",
+    "type2": "TYPE_NORMAL",
+    "catchRate": 45,
+    "expYield": 145,
+    "evYield_HP": 1,
+    "evYield_Attack": 0,
+    "evYield_Defense": 0,
+    "evYield_SpAttack": 0,
+    "evYield_SpDefense": 0,
+    "evYield_Speed": 0,
+    "item1": "ITEM_MYSTIC_WATER",
+    "item2": "ITEM_MYSTIC_WATER",
+    "genderRatio": 50.0,
+    "eggCycles": 25,
+    "friendship": 50,
+    "growthRate": "GROWTH_MEDIUM_FAST",
+    "eggGroup1": "EGG_GROUP_FAIRY",
+    "eggGroup2": "EGG_GROUP_AMORPHOUS",
+    "ability1": "ABILITY_FORECAST",
+    "ability2": "ABILITY_NONE",
+    "safariZoneFleeRate": 0,
+    "hiddenAbility": "ABILITY_NONE",
+    "noFlip": true,
+    "egg_moves": [
+        "MOVE_FUTURESIGHT",
+        "MOVE_LUCKYCHANT",
+        "MOVE_DISABLE",
+        "MOVE_AMNESIA",
+        "MOVE_OMINOUSWIND",
+        "MOVE_HEX",
+        "MOVE_CLEARSMOG",
+        "MOVE_REFLECTTYPE",
+        "MOVE_GUARDSWAP",
+        "MOVE_COSMICPOWER"
+    ],
+    "name": "Castform",
+    "learnset": [
+        {
+            "level": 1,
+            "move": "MOVE_TACKLE"
+        },
+        {
+            "level": 10,
+            "move": "MOVE_WATERGUN"
+        },
+        {
+            "level": 10,
+            "move": "MOVE_EMBER"
+        },
+        {
+            "level": 10,
+            "move": "MOVE_POWDERSNOW"
+        },
+        {
+            "level": 15,
+            "move": "MOVE_HEADBUTT"
+        },
+        {
+            "level": 20,
+            "move": "MOVE_RAINDANCE"
+        },
+        {
+            "level": 20,
+            "move": "MOVE_SUNNYDAY"
+        },
+        {
+            "level": 20,
+            "move": "MOVE_HAIL"
+        },
+        {
+            "level": 25,
+            "move": "MOVE_WEATHERBALL"
+        },
+        {
+            "level": 35,
+            "move": "MOVE_HYDROPUMP"
+        },
+        {
+            "level": 35,
+            "move": "MOVE_FIREBLAST"
+        },
+        {
+            "level": 35,
+            "move": "MOVE_BLIZZARD"
+        },
+        {
+            "level": 45,
+            "move": "MOVE_HURRICANE"
+        }
+    ]
+}

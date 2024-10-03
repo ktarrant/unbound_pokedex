@@ -1,0 +1,87 @@
+{
+    "baseHP": 80,
+    "baseAttack": 60,
+    "baseDefense": 90,
+    "baseSpAttack": 60,
+    "baseSpDefense": 70,
+    "baseSpeed": 50,
+    "type1": "TYPE_ROCK",
+    "type2": "TYPE_FIRE",
+    "catchRate": 120,
+    "expYield": 144,
+    "evYield_HP": 0,
+    "evYield_Attack": 0,
+    "evYield_Defense": 2,
+    "evYield_SpAttack": 0,
+    "evYield_SpDefense": 0,
+    "evYield_Speed": 0,
+    "item1": "ITEM_NONE",
+    "item2": "ITEM_NONE",
+    "genderRatio": 50.0,
+    "eggCycles": 15,
+    "friendship": 50,
+    "growthRate": "GROWTH_MEDIUM_SLOW",
+    "eggGroup1": "EGG_GROUP_MINERAL",
+    "eggGroup2": "EGG_GROUP_MINERAL",
+    "ability1": "ABILITY_STEAMENGINE",
+    "ability2": "ABILITY_FLAMEBODY",
+    "safariZoneFleeRate": 0,
+    "hiddenAbility": "ABILITY_FLASHFIRE",
+    "noFlip": true,
+    "blurb": "By rapidly rolling its legs, it can easily travel at over 18 mph. It forms coal inside its body.",
+    "name": "Carkol",
+    "learnset": [
+        {
+            "level": 0,
+            "move": "MOVE_FLAMECHARGE"
+        },
+        {
+            "level": 1,
+            "move": "MOVE_SMOKESCREEN"
+        },
+        {
+            "level": 1,
+            "move": "MOVE_TACKLE"
+        },
+        {
+            "level": 1,
+            "move": "MOVE_RAPIDSPIN"
+        },
+        {
+            "level": 1,
+            "move": "MOVE_SMACKDOWN"
+        },
+        {
+            "level": 15,
+            "move": "MOVE_ROCKPOLISH"
+        },
+        {
+            "level": 17,
+            "move": "MOVE_FLAMECHARGE"
+        },
+        {
+            "level": 21,
+            "move": "MOVE_ANCIENTPOWER"
+        },
+        {
+            "level": 27,
+            "move": "MOVE_INCINERATE"
+        },
+        {
+            "level": 35,
+            "move": "MOVE_STEALTHROCK"
+        },
+        {
+            "level": 41,
+            "move": "MOVE_HEATCRASH"
+        },
+        {
+            "level": 48,
+            "move": "MOVE_ROCKBLAST"
+        },
+        {
+            "level": 55,
+            "move": "MOVE_BURNUP"
+        }
+    ]
+}

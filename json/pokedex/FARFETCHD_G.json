@@ -1,0 +1,108 @@
+{
+    "baseHP": 52,
+    "baseAttack": 95,
+    "baseDefense": 55,
+    "baseSpAttack": 58,
+    "baseSpDefense": 62,
+    "baseSpeed": 55,
+    "type1": "TYPE_FIGHTING",
+    "type2": "TYPE_FIGHTING",
+    "catchRate": 45,
+    "expYield": 132,
+    "evYield_HP": 0,
+    "evYield_Attack": 1,
+    "evYield_Defense": 0,
+    "evYield_SpAttack": 0,
+    "evYield_SpDefense": 0,
+    "evYield_Speed": 0,
+    "item1": "ITEM_NONE",
+    "item2": "ITEM_NONE",
+    "genderRatio": 50.0,
+    "eggCycles": 20,
+    "friendship": 50,
+    "growthRate": "GROWTH_MEDIUM_FAST",
+    "eggGroup1": "EGG_GROUP_FLYING",
+    "eggGroup2": "EGG_GROUP_FIELD",
+    "ability1": "ABILITY_STEADFAST",
+    "ability2": "ABILITY_NONE",
+    "safariZoneFleeRate": 0,
+    "hiddenAbility": "ABILITY_SCRAPPY",
+    "noFlip": true,
+    "egg_moves": [
+        "MOVE_COUNTER",
+        "MOVE_QUICKATTACK",
+        "MOVE_FLAIL",
+        "MOVE_QUICKGUARD",
+        "MOVE_CURSE",
+        "MOVE_COVET",
+        "MOVE_NIGHTSLASH",
+        "MOVE_SIMPLEBEAM",
+        "MOVE_DOUBLEEDGE",
+        "MOVE_FEINT",
+        "MOVE_SKYATTACK"
+    ],
+    "blurb": "It uses the stalks of leeks that are larger and thicker than usual, which made them to adapt to a unique form.",
+    "name": "Farfetch'd",
+    "learnset": [
+        {
+            "level": 1,
+            "move": "MOVE_PECK"
+        },
+        {
+            "level": 1,
+            "move": "MOVE_SANDATTACK"
+        },
+        {
+            "level": 5,
+            "move": "MOVE_LEER"
+        },
+        {
+            "level": 10,
+            "move": "MOVE_FURYCUTTER"
+        },
+        {
+            "level": 15,
+            "move": "MOVE_ROCKSMASH"
+        },
+        {
+            "level": 20,
+            "move": "MOVE_BRUTALSWING"
+        },
+        {
+            "level": 25,
+            "move": "MOVE_DETECT"
+        },
+        {
+            "level": 30,
+            "move": "MOVE_KNOCKOFF"
+        },
+        {
+            "level": 35,
+            "move": "MOVE_DEFOG"
+        },
+        {
+            "level": 40,
+            "move": "MOVE_BRICKBREAK"
+        },
+        {
+            "level": 45,
+            "move": "MOVE_SWORDSDANCE"
+        },
+        {
+            "level": 50,
+            "move": "MOVE_SLAM"
+        },
+        {
+            "level": 55,
+            "move": "MOVE_LEAFBLADE"
+        },
+        {
+            "level": 60,
+            "move": "MOVE_FINALGAMBIT"
+        },
+        {
+            "level": 65,
+            "move": "MOVE_BRAVEBIRD"
+        }
+    ]
+}

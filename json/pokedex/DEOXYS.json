@@ -1,0 +1,95 @@
+{
+    "baseHP": 50,
+    "baseAttack": 150,
+    "baseDefense": 50,
+    "baseSpAttack": 150,
+    "baseSpDefense": 50,
+    "baseSpeed": 150,
+    "type1": "TYPE_PSYCHIC",
+    "type2": "TYPE_PSYCHIC",
+    "catchRate": 3,
+    "expYield": 215,
+    "evYield_HP": 0,
+    "evYield_Attack": 1,
+    "evYield_Defense": 0,
+    "evYield_SpAttack": 1,
+    "evYield_SpDefense": 0,
+    "evYield_Speed": 1,
+    "item1": "ITEM_NONE",
+    "item2": "ITEM_NONE",
+    "genderRatio": "MON_GENDERLESS",
+    "eggCycles": 120,
+    "friendship": 0,
+    "growthRate": "GROWTH_SLOW",
+    "eggGroup1": "EGG_GROUP_UNDISCOVERED",
+    "eggGroup2": "EGG_GROUP_UNDISCOVERED",
+    "ability1": "ABILITY_PRESSURE",
+    "ability2": "ABILITY_NONE",
+    "safariZoneFleeRate": 0,
+    "hiddenAbility": "ABILITY_LIMBER",
+    "noFlip": true,
+    "blurb": "An alien virus that fell to earth on a meteorite underwent a DNA mutation to become this Pok\u00e9mon.",
+    "name": "Deoxys",
+    "learnset": [
+        {
+            "level": 1,
+            "move": "MOVE_LEER"
+        },
+        {
+            "level": 1,
+            "move": "MOVE_WRAP"
+        },
+        {
+            "level": 7,
+            "move": "MOVE_NIGHTSHADE"
+        },
+        {
+            "level": 13,
+            "move": "MOVE_TELEPORT"
+        },
+        {
+            "level": 19,
+            "move": "MOVE_KNOCKOFF"
+        },
+        {
+            "level": 25,
+            "move": "MOVE_PURSUIT"
+        },
+        {
+            "level": 31,
+            "move": "MOVE_PSYCHIC"
+        },
+        {
+            "level": 37,
+            "move": "MOVE_SNATCH"
+        },
+        {
+            "level": 43,
+            "move": "MOVE_PSYCHOSHIFT"
+        },
+        {
+            "level": 49,
+            "move": "MOVE_ZENHEADBUTT"
+        },
+        {
+            "level": 55,
+            "move": "MOVE_COSMICPOWER"
+        },
+        {
+            "level": 61,
+            "move": "MOVE_RECOVER"
+        },
+        {
+            "level": 67,
+            "move": "MOVE_PSYCHOBOOST"
+        },
+        {
+            "level": 73,
+            "move": "MOVE_HYPERBEAM"
+        },
+        {
+            "level": 79,
+            "move": "MOVE_METEORMASH"
+        }
+    ]
+}

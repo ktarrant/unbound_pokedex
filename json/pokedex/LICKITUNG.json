@@ -1,0 +1,117 @@
+{
+    "baseHP": 90,
+    "baseAttack": 55,
+    "baseDefense": 75,
+    "baseSpAttack": 60,
+    "baseSpDefense": 75,
+    "baseSpeed": 30,
+    "type1": "TYPE_NORMAL",
+    "type2": "TYPE_NORMAL",
+    "catchRate": 45,
+    "expYield": 127,
+    "evYield_HP": 2,
+    "evYield_Attack": 0,
+    "evYield_Defense": 0,
+    "evYield_SpAttack": 0,
+    "evYield_SpDefense": 0,
+    "evYield_Speed": 0,
+    "item1": "ITEM_NONE",
+    "item2": "ITEM_LAGGING_TAIL",
+    "genderRatio": 50.0,
+    "eggCycles": 20,
+    "friendship": 50,
+    "growthRate": "GROWTH_MEDIUM_FAST",
+    "eggGroup1": "EGG_GROUP_MONSTER",
+    "eggGroup2": "EGG_GROUP_MONSTER",
+    "ability1": "ABILITY_THICKFAT",
+    "ability2": "ABILITY_OBLIVIOUS",
+    "safariZoneFleeRate": 0,
+    "hiddenAbility": "ABILITY_CLOUDNINE",
+    "noFlip": true,
+    "egg_moves": [
+        "MOVE_MAGNITUDE",
+        "MOVE_SLAM",
+        "MOVE_CURSE",
+        "MOVE_SMELLINGSALTS",
+        "MOVE_SLEEPTALK",
+        "MOVE_SNORE",
+        "MOVE_AMNESIA",
+        "MOVE_HAMMERARM",
+        "MOVE_MUDDYWATER",
+        "MOVE_ZENHEADBUTT",
+        "MOVE_BELCH",
+        "MOVE_THRASH",
+        "MOVE_HEALBELL",
+        "MOVE_WISH",
+        "MOVE_CHIPAWAY",
+        "MOVE_MEFIRST",
+        "MOVE_ICEBALL"
+    ],
+    "name": "Lickitung",
+    "learnset": [
+        {
+            "level": 1,
+            "move": "MOVE_LICK"
+        },
+        {
+            "level": 1,
+            "move": "MOVE_DEFENSECURL"
+        },
+        {
+            "level": 6,
+            "move": "MOVE_WRAP"
+        },
+        {
+            "level": 12,
+            "move": "MOVE_SUPERSONIC"
+        },
+        {
+            "level": 15,
+            "move": "MOVE_STOMP"
+        },
+        {
+            "level": 19,
+            "move": "MOVE_DISABLE"
+        },
+        {
+            "level": 22,
+            "move": "MOVE_SUBMISSION"
+        },
+        {
+            "level": 26,
+            "move": "MOVE_SCREECH"
+        },
+        {
+            "level": 29,
+            "move": "MOVE_ROLLOUT"
+        },
+        {
+            "level": 33,
+            "move": "MOVE_KNOCKOFF"
+        },
+        {
+            "level": 37,
+            "move": "MOVE_BODYSLAM"
+        },
+        {
+            "level": 40,
+            "move": "MOVE_REFRESH"
+        },
+        {
+            "level": 44,
+            "move": "MOVE_BODYPRESS"
+        },
+        {
+            "level": 48,
+            "move": "MOVE_POWERWHIP"
+        },
+        {
+            "level": 52,
+            "move": "MOVE_WRINGOUT"
+        },
+        {
+            "level": 55,
+            "move": "MOVE_BELLYDRUM"
+        }
+    ]
+}

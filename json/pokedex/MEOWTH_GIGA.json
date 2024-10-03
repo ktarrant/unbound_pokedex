@@ -1,0 +1,90 @@
+{
+    "baseHP": 40,
+    "baseAttack": 45,
+    "baseDefense": 35,
+    "baseSpAttack": 40,
+    "baseSpDefense": 40,
+    "baseSpeed": 90,
+    "type1": "TYPE_NORMAL",
+    "type2": "TYPE_NORMAL",
+    "catchRate": 255,
+    "expYield": 69,
+    "evYield_HP": 0,
+    "evYield_Attack": 0,
+    "evYield_Defense": 0,
+    "evYield_SpAttack": 0,
+    "evYield_SpDefense": 0,
+    "evYield_Speed": 1,
+    "item1": "ITEM_NONE",
+    "item2": "ITEM_QUICK_CLAW",
+    "genderRatio": 50.0,
+    "eggCycles": 20,
+    "friendship": 50,
+    "growthRate": "GROWTH_MEDIUM_FAST",
+    "eggGroup1": "EGG_GROUP_FIELD",
+    "eggGroup2": "EGG_GROUP_FIELD",
+    "ability1": "ABILITY_PICKUP",
+    "ability2": "ABILITY_TECHNICIAN",
+    "safariZoneFleeRate": 0,
+    "hiddenAbility": "ABILITY_UNNERVE",
+    "noFlip": true,
+    "name": "Meowth",
+    "learnset": [
+        {
+            "level": 1,
+            "move": "MOVE_FAKEOUT"
+        },
+        {
+            "level": 1,
+            "move": "MOVE_GROWL"
+        },
+        {
+            "level": 4,
+            "move": "MOVE_FEINT"
+        },
+        {
+            "level": 8,
+            "move": "MOVE_SCRATCH"
+        },
+        {
+            "level": 12,
+            "move": "MOVE_PAYDAY"
+        },
+        {
+            "level": 16,
+            "move": "MOVE_BITE"
+        },
+        {
+            "level": 20,
+            "move": "MOVE_FURYSWIPES"
+        },
+        {
+            "level": 24,
+            "move": "MOVE_TAUNT"
+        },
+        {
+            "level": 29,
+            "move": "MOVE_FEINTATTACK"
+        },
+        {
+            "level": 32,
+            "move": "MOVE_SLASH"
+        },
+        {
+            "level": 36,
+            "move": "MOVE_SCREECH"
+        },
+        {
+            "level": 40,
+            "move": "MOVE_NIGHTSLASH"
+        },
+        {
+            "level": 44,
+            "move": "MOVE_NASTYPLOT"
+        },
+        {
+            "level": 48,
+            "move": "MOVE_PLAYROUGH"
+        }
+    ]
+}

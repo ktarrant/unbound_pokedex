@@ -1,0 +1,117 @@
+{
+    "baseHP": 90,
+    "baseAttack": 50,
+    "baseDefense": 34,
+    "baseSpAttack": 60,
+    "baseSpDefense": 44,
+    "baseSpeed": 70,
+    "type1": "TYPE_GHOST",
+    "type2": "TYPE_FLYING",
+    "catchRate": 125,
+    "expYield": 127,
+    "evYield_HP": 1,
+    "evYield_Attack": 0,
+    "evYield_Defense": 0,
+    "evYield_SpAttack": 0,
+    "evYield_SpDefense": 0,
+    "evYield_Speed": 0,
+    "item1": "ITEM_NONE",
+    "item2": "ITEM_NONE",
+    "genderRatio": 50.0,
+    "eggCycles": 30,
+    "friendship": 50,
+    "growthRate": "GROWTH_FLUCTUATING",
+    "eggGroup1": "EGG_GROUP_AMORPHOUS",
+    "eggGroup2": "EGG_GROUP_AMORPHOUS",
+    "ability1": "ABILITY_AFTERMATH",
+    "ability2": "ABILITY_UNBURDEN",
+    "safariZoneFleeRate": 0,
+    "hiddenAbility": "ABILITY_FLAREBOOST",
+    "noFlip": true,
+    "egg_moves": [
+        "MOVE_MEMENTO",
+        "MOVE_BODYSLAM",
+        "MOVE_DISABLE",
+        "MOVE_HAZE",
+        "MOVE_HYPNOSIS",
+        "MOVE_WEATHERBALL",
+        "MOVE_CLEARSMOG",
+        "MOVE_DEFOG"
+    ],
+    "blurb": "Stories go that it grabs the hands of small children and drags them away to the afterlife.",
+    "name": "Drifloon",
+    "learnset": [
+        {
+            "level": 1,
+            "move": "MOVE_CONSTRICT"
+        },
+        {
+            "level": 1,
+            "move": "MOVE_MINIMIZE"
+        },
+        {
+            "level": 1,
+            "move": "MOVE_ASTONISH"
+        },
+        {
+            "level": 4,
+            "move": "MOVE_GUST"
+        },
+        {
+            "level": 8,
+            "move": "MOVE_FOCUSENERGY"
+        },
+        {
+            "level": 12,
+            "move": "MOVE_PAYBACK"
+        },
+        {
+            "level": 16,
+            "move": "MOVE_HEX"
+        },
+        {
+            "level": 20,
+            "move": "MOVE_OMINOUSWIND"
+        },
+        {
+            "level": 24,
+            "move": "MOVE_STOCKPILE"
+        },
+        {
+            "level": 24,
+            "move": "MOVE_SWALLOW"
+        },
+        {
+            "level": 24,
+            "move": "MOVE_SPITUP"
+        },
+        {
+            "level": 28,
+            "move": "MOVE_SELFDESTRUCT"
+        },
+        {
+            "level": 32,
+            "move": "MOVE_TAILWIND"
+        },
+        {
+            "level": 35,
+            "move": "MOVE_DESTINYBOND"
+        },
+        {
+            "level": 38,
+            "move": "MOVE_SHADOWBALL"
+        },
+        {
+            "level": 42,
+            "move": "MOVE_BATONPASS"
+        },
+        {
+            "level": 45,
+            "move": "MOVE_AMNESIA"
+        },
+        {
+            "level": 48,
+            "move": "MOVE_EXPLOSION"
+        }
+    ]
+}

@@ -1,0 +1,46 @@
+{
+    "baseHP": 45,
+    "baseAttack": 30,
+    "baseDefense": 35,
+    "baseSpAttack": 20,
+    "baseSpDefense": 20,
+    "baseSpeed": 45,
+    "type1": "TYPE_BUG",
+    "type2": "TYPE_BUG",
+    "catchRate": 255,
+    "expYield": 53,
+    "evYield_HP": 1,
+    "evYield_Attack": 0,
+    "evYield_Defense": 0,
+    "evYield_SpAttack": 0,
+    "evYield_SpDefense": 0,
+    "evYield_Speed": 0,
+    "item1": "ITEM_NONE",
+    "item2": "ITEM_NONE",
+    "genderRatio": 50.0,
+    "eggCycles": 15,
+    "friendship": 50,
+    "growthRate": "GROWTH_MEDIUM_FAST",
+    "eggGroup1": "EGG_GROUP_BUG",
+    "eggGroup2": "EGG_GROUP_BUG",
+    "ability1": "ABILITY_SHIELDDUST",
+    "ability2": "ABILITY_NONE",
+    "safariZoneFleeRate": 0,
+    "hiddenAbility": "ABILITY_TECHNICIAN",
+    "noFlip": true,
+    "name": "Caterpie",
+    "learnset": [
+        {
+            "level": 1,
+            "move": "MOVE_TACKLE"
+        },
+        {
+            "level": 1,
+            "move": "MOVE_STRINGSHOT"
+        },
+        {
+            "level": 9,
+            "move": "MOVE_BUGBITE"
+        }
+    ]
+}

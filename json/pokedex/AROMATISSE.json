@@ -1,0 +1,115 @@
+{
+    "baseHP": 101,
+    "baseAttack": 72,
+    "baseDefense": 72,
+    "baseSpAttack": 99,
+    "baseSpDefense": 89,
+    "baseSpeed": 29,
+    "type1": "TYPE_FAIRY",
+    "type2": "TYPE_FAIRY",
+    "catchRate": 140,
+    "expYield": 162,
+    "evYield_HP": 2,
+    "evYield_Attack": 0,
+    "evYield_Defense": 0,
+    "evYield_SpAttack": 0,
+    "evYield_SpDefense": 0,
+    "evYield_Speed": 0,
+    "item1": "ITEM_NONE",
+    "item2": "ITEM_NONE",
+    "genderRatio": 50.0,
+    "eggCycles": 20,
+    "friendship": 50,
+    "growthRate": "GROWTH_MEDIUM_FAST",
+    "eggGroup1": "EGG_GROUP_FAIRY",
+    "eggGroup2": "EGG_GROUP_FAIRY",
+    "ability1": "ABILITY_HEALER",
+    "ability2": "ABILITY_AROMAVEIL",
+    "safariZoneFleeRate": 0,
+    "hiddenAbility": "ABILITY_REGENERATOR",
+    "noFlip": true,
+    "blurb": "It devises various scents and emits scents that its enemies dislike in order to gain an edge in battle.",
+    "name": "Aromatisse",
+    "learnset": [
+        {
+            "level": 1,
+            "move": "MOVE_AROMATICMIST"
+        },
+        {
+            "level": 1,
+            "move": "MOVE_DECORATE"
+        },
+        {
+            "level": 1,
+            "move": "MOVE_HEALPULSE"
+        },
+        {
+            "level": 1,
+            "move": "MOVE_FAIRYWIND"
+        },
+        {
+            "level": 1,
+            "move": "MOVE_SWEETSCENT"
+        },
+        {
+            "level": 1,
+            "move": "MOVE_SWEETKISS"
+        },
+        {
+            "level": 1,
+            "move": "MOVE_ECHOEDVOICE"
+        },
+        {
+            "level": 8,
+            "move": "MOVE_ODORSLEUTH"
+        },
+        {
+            "level": 9,
+            "move": "MOVE_DISARMINGVOICE"
+        },
+        {
+            "level": 12,
+            "move": "MOVE_AROMATHERAPY"
+        },
+        {
+            "level": 15,
+            "move": "MOVE_DRAININGKISS"
+        },
+        {
+            "level": 18,
+            "move": "MOVE_ATTRACT"
+        },
+        {
+            "level": 21,
+            "move": "MOVE_FLAIL"
+        },
+        {
+            "level": 24,
+            "move": "MOVE_MISTYTERRAIN"
+        },
+        {
+            "level": 27,
+            "move": "MOVE_PSYCHIC"
+        },
+        {
+            "level": 30,
+            "move": "MOVE_CHARM"
+        },
+        {
+            "level": 33,
+            "move": "MOVE_CALMMIND"
+        },
+        {
+            "level": 36,
+            "move": "MOVE_MOONBLAST"
+        },
+        {
+            "level": 39,
+            "move": "MOVE_SKILLSWAP"
+        },
+        {
+            "level": 42,
+            "move": "MOVE_PSYCHUP"
+        }
+    ]
+}

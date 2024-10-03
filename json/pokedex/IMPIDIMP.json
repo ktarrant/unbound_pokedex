@@ -1,0 +1,87 @@
+{
+    "baseHP": 45,
+    "baseAttack": 45,
+    "baseDefense": 30,
+    "baseSpAttack": 55,
+    "baseSpDefense": 40,
+    "baseSpeed": 50,
+    "type1": "TYPE_DARK",
+    "type2": "TYPE_FAIRY",
+    "catchRate": 255,
+    "expYield": 53,
+    "evYield_HP": 0,
+    "evYield_Attack": 0,
+    "evYield_Defense": 0,
+    "evYield_SpAttack": 1,
+    "evYield_SpDefense": 0,
+    "evYield_Speed": 0,
+    "item1": "ITEM_NONE",
+    "item2": "ITEM_NONE",
+    "genderRatio": 0.0,
+    "eggCycles": 20,
+    "friendship": 50,
+    "growthRate": "GROWTH_MEDIUM_FAST",
+    "eggGroup1": "EGG_GROUP_FAIRY",
+    "eggGroup2": "EGG_GROUP_HUMAN_LIKE",
+    "ability1": "ABILITY_PRANKSTER",
+    "ability2": "ABILITY_FRISK",
+    "safariZoneFleeRate": 0,
+    "hiddenAbility": "ABILITY_PICKPOCKET",
+    "noFlip": true,
+    "blurb": "It sneaks into people's homes, taking and feasting on the negative energy of the frustrated occupants.",
+    "name": "Impidimp",
+    "learnset": [
+        {
+            "level": 1,
+            "move": "MOVE_CONFIDE"
+        },
+        {
+            "level": 1,
+            "move": "MOVE_FAKEOUT"
+        },
+        {
+            "level": 4,
+            "move": "MOVE_BITE"
+        },
+        {
+            "level": 8,
+            "move": "MOVE_FLATTER"
+        },
+        {
+            "level": 12,
+            "move": "MOVE_FAKETEARS"
+        },
+        {
+            "level": 16,
+            "move": "MOVE_ASSURANCE"
+        },
+        {
+            "level": 20,
+            "move": "MOVE_SWAGGER"
+        },
+        {
+            "level": 24,
+            "move": "MOVE_SUCKERPUNCH"
+        },
+        {
+            "level": 28,
+            "move": "MOVE_TORMENT"
+        },
+        {
+            "level": 33,
+            "move": "MOVE_DARKPULSE"
+        },
+        {
+            "level": 36,
+            "move": "MOVE_NASTYPLOT"
+        },
+        {
+            "level": 40,
+            "move": "MOVE_PLAYROUGH"
+        },
+        {
+            "level": 44,
+            "move": "MOVE_FOULPLAY"
+        }
+    ]
+}

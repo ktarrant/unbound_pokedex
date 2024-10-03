@@ -1,0 +1,84 @@
+{
+    "baseHP": 42,
+    "baseAttack": 30,
+    "baseDefense": 38,
+    "baseSpAttack": 30,
+    "baseSpDefense": 38,
+    "baseSpeed": 32,
+    "type1": "TYPE_GRASS",
+    "type2": "TYPE_GRASS",
+    "catchRate": 235,
+    "expYield": 52,
+    "evYield_HP": 1,
+    "evYield_Attack": 0,
+    "evYield_Defense": 0,
+    "evYield_SpAttack": 0,
+    "evYield_SpDefense": 0,
+    "evYield_Speed": 0,
+    "item1": "ITEM_NONE",
+    "item2": "ITEM_GRASSY_SEED",
+    "genderRatio": 100.0,
+    "eggCycles": 20,
+    "friendship": 50,
+    "growthRate": "GROWTH_MEDIUM_SLOW",
+    "eggGroup1": "EGG_GROUP_GRASS",
+    "eggGroup2": "EGG_GROUP_GRASS",
+    "ability1": "ABILITY_LEAFGUARD",
+    "ability2": "ABILITY_OBLIVIOUS",
+    "safariZoneFleeRate": 0,
+    "hiddenAbility": "ABILITY_SWEETVEIL",
+    "noFlip": true,
+    "egg_moves": [
+        "MOVE_GRASSWHISTLE",
+        "MOVE_SYNTHESIS",
+        "MOVE_PLAYROUGH",
+        "MOVE_FEINT",
+        "MOVE_CHARM",
+        "MOVE_ACUPRESSURE",
+        "MOVE_ENDEAVOR"
+    ],
+    "blurb": "Because of its sweet, delicious aroma, bird Pok\u00e9mon are always after it.",
+    "name": "Bounsweet",
+    "learnset": [
+        {
+            "level": 1,
+            "move": "MOVE_SPLASH"
+        },
+        {
+            "level": 4,
+            "move": "MOVE_PLAYNICE"
+        },
+        {
+            "level": 8,
+            "move": "MOVE_RAPIDSPIN"
+        },
+        {
+            "level": 12,
+            "move": "MOVE_RAZORLEAF"
+        },
+        {
+            "level": 16,
+            "move": "MOVE_SWEETSCENT"
+        },
+        {
+            "level": 20,
+            "move": "MOVE_MAGICALLEAF"
+        },
+        {
+            "level": 24,
+            "move": "MOVE_FLAIL"
+        },
+        {
+            "level": 28,
+            "move": "MOVE_TEETERDANCE"
+        },
+        {
+            "level": 32,
+            "move": "MOVE_AROMATICMIST"
+        },
+        {
+            "level": 36,
+            "move": "MOVE_AROMATHERAPY"
+        }
+    ]
+}

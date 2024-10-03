@@ -1,0 +1,112 @@
+{
+    "baseHP": 70,
+    "baseAttack": 40,
+    "baseDefense": 50,
+    "baseSpAttack": 55,
+    "baseSpDefense": 50,
+    "baseSpeed": 25,
+    "type1": "TYPE_ICE",
+    "type2": "TYPE_WATER",
+    "catchRate": 255,
+    "expYield": 75,
+    "evYield_HP": 1,
+    "evYield_Attack": 0,
+    "evYield_Defense": 0,
+    "evYield_SpAttack": 0,
+    "evYield_SpDefense": 0,
+    "evYield_Speed": 0,
+    "item1": "ITEM_NONE",
+    "item2": "ITEM_NONE",
+    "genderRatio": 50.0,
+    "eggCycles": 20,
+    "friendship": 50,
+    "growthRate": "GROWTH_MEDIUM_SLOW",
+    "eggGroup1": "EGG_GROUP_WATER_1",
+    "eggGroup2": "EGG_GROUP_FIELD",
+    "ability1": "ABILITY_THICKFAT",
+    "ability2": "ABILITY_ICEBODY",
+    "safariZoneFleeRate": 0,
+    "hiddenAbility": "ABILITY_OBLIVIOUS",
+    "noFlip": true,
+    "egg_moves": [
+        "MOVE_WATERSPORT",
+        "MOVE_STOCKPILE",
+        "MOVE_SWALLOW",
+        "MOVE_SPITUP",
+        "MOVE_YAWN",
+        "MOVE_CURSE",
+        "MOVE_FISSURE",
+        "MOVE_SIGNALBEAM",
+        "MOVE_AQUARING",
+        "MOVE_SLEEPTALK",
+        "MOVE_WATERPULSE",
+        "MOVE_BELLYDRUM"
+    ],
+    "name": "Spheal",
+    "learnset": [
+        {
+            "level": 1,
+            "move": "MOVE_POWDERSNOW"
+        },
+        {
+            "level": 1,
+            "move": "MOVE_ROLLOUT"
+        },
+        {
+            "level": 1,
+            "move": "MOVE_DEFENSECURL"
+        },
+        {
+            "level": 4,
+            "move": "MOVE_GROWL"
+        },
+        {
+            "level": 8,
+            "move": "MOVE_WATERGUN"
+        },
+        {
+            "level": 12,
+            "move": "MOVE_ICEBALL"
+        },
+        {
+            "level": 16,
+            "move": "MOVE_REST"
+        },
+        {
+            "level": 19,
+            "move": "MOVE_SNORE"
+        },
+        {
+            "level": 23,
+            "move": "MOVE_BRINE"
+        },
+        {
+            "level": 27,
+            "move": "MOVE_AURORABEAM"
+        },
+        {
+            "level": 31,
+            "move": "MOVE_ENCORE"
+        },
+        {
+            "level": 34,
+            "move": "MOVE_BODYSLAM"
+        },
+        {
+            "level": 38,
+            "move": "MOVE_SURF"
+        },
+        {
+            "level": 42,
+            "move": "MOVE_BLIZZARD"
+        },
+        {
+            "level": 46,
+            "move": "MOVE_HAIL"
+        },
+        {
+            "level": 49,
+            "move": "MOVE_SHEERCOLD"
+        }
+    ]
+}

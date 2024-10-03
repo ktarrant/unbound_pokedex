@@ -1,0 +1,110 @@
+{
+    "baseHP": 70,
+    "baseAttack": 85,
+    "baseDefense": 70,
+    "baseSpAttack": 60,
+    "baseSpDefense": 70,
+    "baseSpeed": 50,
+    "type1": "TYPE_WATER",
+    "type2": "TYPE_GROUND",
+    "catchRate": 45,
+    "expYield": 143,
+    "evYield_HP": 0,
+    "evYield_Attack": 2,
+    "evYield_Defense": 0,
+    "evYield_SpAttack": 0,
+    "evYield_SpDefense": 0,
+    "evYield_Speed": 0,
+    "item1": "ITEM_NONE",
+    "item2": "ITEM_NONE",
+    "genderRatio": 12.5,
+    "eggCycles": 20,
+    "friendship": 50,
+    "growthRate": "GROWTH_MEDIUM_SLOW",
+    "eggGroup1": "EGG_GROUP_MONSTER",
+    "eggGroup2": "EGG_GROUP_WATER_1",
+    "ability1": "ABILITY_TORRENT",
+    "ability2": "ABILITY_NONE",
+    "safariZoneFleeRate": 0,
+    "hiddenAbility": "ABILITY_DAMP",
+    "noFlip": true,
+    "name": "Marshtomp",
+    "learnset": [
+        {
+            "level": 0,
+            "move": "MOVE_MUDSHOT"
+        },
+        {
+            "level": 1,
+            "move": "MOVE_SURF"
+        },
+        {
+            "level": 1,
+            "move": "MOVE_TACKLE"
+        },
+        {
+            "level": 1,
+            "move": "MOVE_GROWL"
+        },
+        {
+            "level": 1,
+            "move": "MOVE_WATERGUN"
+        },
+        {
+            "level": 1,
+            "move": "MOVE_ROCKSMASH"
+        },
+        {
+            "level": 9,
+            "move": "MOVE_ROCKTHROW"
+        },
+        {
+            "level": 12,
+            "move": "MOVE_PROTECT"
+        },
+        {
+            "level": 15,
+            "move": "MOVE_SUPERSONIC"
+        },
+        {
+            "level": 15,
+            "move": "MOVE_MUDSHOT"
+        },
+        {
+            "level": 20,
+            "move": "MOVE_WATERPULSE"
+        },
+        {
+            "level": 25,
+            "move": "MOVE_ROCKSLIDE"
+        },
+        {
+            "level": 30,
+            "move": "MOVE_TAKEDOWN"
+        },
+        {
+            "level": 35,
+            "move": "MOVE_AMNESIA"
+        },
+        {
+            "level": 39,
+            "move": "MOVE_MUDDYWATER"
+        },
+        {
+            "level": 44,
+            "move": "MOVE_MUDBOMB"
+        },
+        {
+            "level": 49,
+            "move": "MOVE_SCREECH"
+        },
+        {
+            "level": 53,
+            "move": "MOVE_ENDEAVOR"
+        },
+        {
+            "level": 58,
+            "move": "MOVE_HYDROPUMP"
+        }
+    ]
+}

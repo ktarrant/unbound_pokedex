@@ -1,0 +1,121 @@
+{
+    "baseHP": 28,
+    "baseAttack": 25,
+    "baseDefense": 25,
+    "baseSpAttack": 45,
+    "baseSpDefense": 35,
+    "baseSpeed": 40,
+    "type1": "TYPE_PSYCHIC",
+    "type2": "TYPE_FAIRY",
+    "catchRate": 235,
+    "expYield": 70,
+    "evYield_HP": 0,
+    "evYield_Attack": 0,
+    "evYield_Defense": 0,
+    "evYield_SpAttack": 1,
+    "evYield_SpDefense": 0,
+    "evYield_Speed": 0,
+    "item1": "ITEM_NONE",
+    "item2": "ITEM_NONE",
+    "genderRatio": 50.0,
+    "eggCycles": 20,
+    "friendship": 35,
+    "growthRate": "GROWTH_SLOW",
+    "eggGroup1": "EGG_GROUP_AMORPHOUS",
+    "eggGroup2": "EGG_GROUP_HUMAN_LIKE",
+    "ability1": "ABILITY_SYNCHRONIZE",
+    "ability2": "ABILITY_TRACE",
+    "safariZoneFleeRate": 0,
+    "hiddenAbility": "ABILITY_TELEPATHY",
+    "noFlip": true,
+    "egg_moves": [
+        "MOVE_DISABLE",
+        "MOVE_MEANLOOK",
+        "MOVE_MEMENTO",
+        "MOVE_DESTINYBOND",
+        "MOVE_GRUDGE",
+        "MOVE_SHADOWSNEAK",
+        "MOVE_CONFUSERAY",
+        "MOVE_ENCORE",
+        "MOVE_SYNCHRONOISE",
+        "MOVE_SKILLSWAP",
+        "MOVE_MISTYTERRAIN",
+        "MOVE_KNOCKOFF",
+        "MOVE_FUTURESIGHT"
+    ],
+    "name": "Ralts",
+    "learnset": [
+        {
+            "level": 1,
+            "move": "MOVE_GROWL"
+        },
+        {
+            "level": 1,
+            "move": "MOVE_DISARMINGVOICE"
+        },
+        {
+            "level": 3,
+            "move": "MOVE_DOUBLETEAM"
+        },
+        {
+            "level": 6,
+            "move": "MOVE_CONFUSION"
+        },
+        {
+            "level": 9,
+            "move": "MOVE_HYPNOSIS"
+        },
+        {
+            "level": 12,
+            "move": "MOVE_DRAININGKISS"
+        },
+        {
+            "level": 14,
+            "move": "MOVE_LUCKYCHANT"
+        },
+        {
+            "level": 15,
+            "move": "MOVE_TELEPORT"
+        },
+        {
+            "level": 17,
+            "move": "MOVE_MAGICALLEAF"
+        },
+        {
+            "level": 18,
+            "move": "MOVE_PSYBEAM"
+        },
+        {
+            "level": 21,
+            "move": "MOVE_LIFEDEW"
+        },
+        {
+            "level": 24,
+            "move": "MOVE_CHARM"
+        },
+        {
+            "level": 27,
+            "move": "MOVE_CALMMIND"
+        },
+        {
+            "level": 29,
+            "move": "MOVE_STOREDPOWER"
+        },
+        {
+            "level": 30,
+            "move": "MOVE_IMPRISON"
+        },
+        {
+            "level": 33,
+            "move": "MOVE_PSYCHIC"
+        },
+        {
+            "level": 36,
+            "move": "MOVE_HEALPULSE"
+        },
+        {
+            "level": 39,
+            "move": "MOVE_DREAMEATER"
+        }
+    ]
+}

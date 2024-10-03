@@ -1,0 +1,103 @@
+{
+    "baseHP": 123,
+    "baseAttack": 77,
+    "baseDefense": 72,
+    "baseSpAttack": 99,
+    "baseSpDefense": 92,
+    "baseSpeed": 58,
+    "type1": "TYPE_ROCK",
+    "type2": "TYPE_ICE",
+    "catchRate": 45,
+    "expYield": 104,
+    "evYield_HP": 2,
+    "evYield_Attack": 0,
+    "evYield_Defense": 0,
+    "evYield_SpAttack": 0,
+    "evYield_SpDefense": 0,
+    "evYield_Speed": 0,
+    "item1": "ITEM_NONE",
+    "item2": "ITEM_NONE",
+    "genderRatio": 12.5,
+    "eggCycles": 30,
+    "friendship": 50,
+    "growthRate": "GROWTH_MEDIUM_FAST",
+    "eggGroup1": "EGG_GROUP_MONSTER",
+    "eggGroup2": "EGG_GROUP_MONSTER",
+    "ability1": "ABILITY_REFRIGERATE",
+    "ability2": "ABILITY_NONE",
+    "safariZoneFleeRate": 0,
+    "hiddenAbility": "ABILITY_SNOWWARNING",
+    "noFlip": true,
+    "blurb": "This usually quiet and kindly Pok\u00e9mon has a surface temperature of around -240 degrees Fahrenheit.",
+    "name": "Aurorus",
+    "learnset": [
+        {
+            "level": 1,
+            "move": "MOVE_POWDERSNOW"
+        },
+        {
+            "level": 1,
+            "move": "MOVE_ROCKTHROW"
+        },
+        {
+            "level": 1,
+            "move": "MOVE_GROWL"
+        },
+        {
+            "level": 4,
+            "move": "MOVE_ENCORE"
+        },
+        {
+            "level": 8,
+            "move": "MOVE_ICYWIND"
+        },
+        {
+            "level": 12,
+            "move": "MOVE_ROUND"
+        },
+        {
+            "level": 16,
+            "move": "MOVE_ANCIENTPOWER"
+        },
+        {
+            "level": 20,
+            "move": "MOVE_MIST"
+        },
+        {
+            "level": 24,
+            "move": "MOVE_AURORABEAM"
+        },
+        {
+            "level": 28,
+            "move": "MOVE_THUNDERWAVE"
+        },
+        {
+            "level": 32,
+            "move": "MOVE_NATUREPOWER"
+        },
+        {
+            "level": 36,
+            "move": "MOVE_FREEZEDRY"
+        },
+        {
+            "level": 42,
+            "move": "MOVE_ICEBEAM"
+        },
+        {
+            "level": 48,
+            "move": "MOVE_LIGHTSCREEN"
+        },
+        {
+            "level": 54,
+            "move": "MOVE_HAIL"
+        },
+        {
+            "level": 60,
+            "move": "MOVE_BLIZZARD"
+        },
+        {
+            "level": 66,
+            "move": "MOVE_HYPERBEAM"
+        }
+    ]
+}

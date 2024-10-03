@@ -1,0 +1,107 @@
+{
+    "baseHP": 50,
+    "baseAttack": 50,
+    "baseDefense": 50,
+    "baseSpAttack": 50,
+    "baseSpDefense": 50,
+    "baseSpeed": 50,
+    "type1": "TYPE_ICE",
+    "type2": "TYPE_ICE",
+    "catchRate": 190,
+    "expYield": 74,
+    "evYield_HP": 1,
+    "evYield_Attack": 0,
+    "evYield_Defense": 0,
+    "evYield_SpAttack": 0,
+    "evYield_SpDefense": 0,
+    "evYield_Speed": 0,
+    "item1": "ITEM_NONE",
+    "item2": "ITEM_SNOWBALL",
+    "genderRatio": 50.0,
+    "eggCycles": 20,
+    "friendship": 50,
+    "growthRate": "GROWTH_MEDIUM_FAST",
+    "eggGroup1": "EGG_GROUP_FAIRY",
+    "eggGroup2": "EGG_GROUP_MINERAL",
+    "ability1": "ABILITY_INNERFOCUS",
+    "ability2": "ABILITY_ICEBODY",
+    "safariZoneFleeRate": 0,
+    "hiddenAbility": "ABILITY_MOODY",
+    "noFlip": true,
+    "egg_moves": [
+        "MOVE_POWDERSNOW",
+        "MOVE_BLOCK",
+        "MOVE_SPIKES",
+        "MOVE_ROLLOUT",
+        "MOVE_DISABLE",
+        "MOVE_BIDE",
+        "MOVE_WEATHERBALL",
+        "MOVE_AVALANCHE",
+        "MOVE_HEX",
+        "MOVE_SWITCHEROO",
+        "MOVE_DOUBLEEDGE"
+    ],
+    "name": "Snorunt",
+    "learnset": [
+        {
+            "level": 1,
+            "move": "MOVE_ASTONISH"
+        },
+        {
+            "level": 5,
+            "move": "MOVE_LEER"
+        },
+        {
+            "level": 10,
+            "move": "MOVE_ICESHARD"
+        },
+        {
+            "level": 13,
+            "move": "MOVE_DOUBLETEAM"
+        },
+        {
+            "level": 16,
+            "move": "MOVE_BITE"
+        },
+        {
+            "level": 19,
+            "move": "MOVE_ICYWIND"
+        },
+        {
+            "level": 22,
+            "move": "MOVE_PROTECT"
+        },
+        {
+            "level": 25,
+            "move": "MOVE_HEADBUTT"
+        },
+        {
+            "level": 28,
+            "move": "MOVE_ICEFANG"
+        },
+        {
+            "level": 32,
+            "move": "MOVE_CRUNCH"
+        },
+        {
+            "level": 35,
+            "move": "MOVE_FAKETEARS"
+        },
+        {
+            "level": 38,
+            "move": "MOVE_ICICLECRASH"
+        },
+        {
+            "level": 41,
+            "move": "MOVE_FROSTBREATH"
+        },
+        {
+            "level": 44,
+            "move": "MOVE_HAIL"
+        },
+        {
+            "level": 47,
+            "move": "MOVE_BLIZZARD"
+        }
+    ]
+}

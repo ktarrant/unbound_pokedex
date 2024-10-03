@@ -1,0 +1,119 @@
+{
+    "baseHP": 165,
+    "baseAttack": 75,
+    "baseDefense": 80,
+    "baseSpAttack": 40,
+    "baseSpDefense": 45,
+    "baseSpeed": 65,
+    "type1": "TYPE_WATER",
+    "type2": "TYPE_WATER",
+    "catchRate": 75,
+    "expYield": 165,
+    "evYield_HP": 2,
+    "evYield_Attack": 0,
+    "evYield_Defense": 0,
+    "evYield_SpAttack": 0,
+    "evYield_SpDefense": 0,
+    "evYield_Speed": 0,
+    "item1": "ITEM_NONE",
+    "item2": "ITEM_NONE",
+    "genderRatio": 50.0,
+    "eggCycles": 40,
+    "friendship": 50,
+    "growthRate": "GROWTH_FAST",
+    "eggGroup1": "EGG_GROUP_WATER_1",
+    "eggGroup2": "EGG_GROUP_WATER_2",
+    "ability1": "ABILITY_HEALER",
+    "ability2": "ABILITY_HYDRATION",
+    "safariZoneFleeRate": 0,
+    "hiddenAbility": "ABILITY_REGENERATOR",
+    "noFlip": true,
+    "egg_moves": [
+        "MOVE_PAINSPLIT",
+        "MOVE_REFRESH",
+        "MOVE_TICKLE",
+        "MOVE_MIRRORCOAT",
+        "MOVE_MIST",
+        "MOVE_ENDURE"
+    ],
+    "blurb": "The special membrane enveloping Alomomola has the ability to heal wounds.",
+    "name": "Alomomola",
+    "learnset": [
+        {
+            "level": 1,
+            "move": "MOVE_PLAYNICE"
+        },
+        {
+            "level": 1,
+            "move": "MOVE_POUND"
+        },
+        {
+            "level": 1,
+            "move": "MOVE_WATERSPORT"
+        },
+        {
+            "level": 5,
+            "move": "MOVE_WATERPULSE"
+        },
+        {
+            "level": 9,
+            "move": "MOVE_AQUARING"
+        },
+        {
+            "level": 13,
+            "move": "MOVE_DOUBLESLAP"
+        },
+        {
+            "level": 17,
+            "move": "MOVE_AQUAJET"
+        },
+        {
+            "level": 21,
+            "move": "MOVE_HEALPULSE"
+        },
+        {
+            "level": 25,
+            "move": "MOVE_BRINE"
+        },
+        {
+            "level": 29,
+            "move": "MOVE_WAKEUPSLAP"
+        },
+        {
+            "level": 33,
+            "move": "MOVE_HELPINGHAND"
+        },
+        {
+            "level": 37,
+            "move": "MOVE_WHIRLPOOL"
+        },
+        {
+            "level": 41,
+            "move": "MOVE_SOAK"
+        },
+        {
+            "level": 45,
+            "move": "MOVE_HEALINGWISH"
+        },
+        {
+            "level": 49,
+            "move": "MOVE_WIDEGUARD"
+        },
+        {
+            "level": 53,
+            "move": "MOVE_HYDROPUMP"
+        },
+        {
+            "level": 57,
+            "move": "MOVE_SAFEGUARD"
+        },
+        {
+            "level": 61,
+            "move": "MOVE_PROTECT"
+        },
+        {
+            "level": 65,
+            "move": "MOVE_WISH"
+        }
+    ]
+}

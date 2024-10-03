@@ -1,0 +1,111 @@
+{
+    "baseHP": 95,
+    "baseAttack": 120,
+    "baseDefense": 65,
+    "baseSpAttack": 95,
+    "baseSpDefense": 75,
+    "baseSpeed": 60,
+    "type1": "TYPE_DARK",
+    "type2": "TYPE_FAIRY",
+    "catchRate": 45,
+    "expYield": 208,
+    "evYield_HP": 0,
+    "evYield_Attack": 3,
+    "evYield_Defense": 0,
+    "evYield_SpAttack": 0,
+    "evYield_SpDefense": 0,
+    "evYield_Speed": 0,
+    "item1": "ITEM_NONE",
+    "item2": "ITEM_NONE",
+    "genderRatio": 0.0,
+    "eggCycles": 20,
+    "friendship": 50,
+    "growthRate": "GROWTH_MEDIUM_FAST",
+    "eggGroup1": "EGG_GROUP_FAIRY",
+    "eggGroup2": "EGG_GROUP_HUMAN_LIKE",
+    "ability1": "ABILITY_PRANKSTER",
+    "ability2": "ABILITY_FRISK",
+    "safariZoneFleeRate": 0,
+    "hiddenAbility": "ABILITY_PICKPOCKET",
+    "noFlip": true,
+    "blurb": "Its hairs work like muscle fibers. When its hairs unfurl, they latch on to foes, ensnaring them like tentacles.",
+    "name": "Grimmsnarl",
+    "learnset": [
+        {
+            "level": 0,
+            "move": "MOVE_SPIRITBREAK"
+        },
+        {
+            "level": 1,
+            "move": "MOVE_BULKUP"
+        },
+        {
+            "level": 1,
+            "move": "MOVE_POWERUPPUNCH"
+        },
+        {
+            "level": 1,
+            "move": "MOVE_CONFIDE"
+        },
+        {
+            "level": 1,
+            "move": "MOVE_FAKEOUT"
+        },
+        {
+            "level": 1,
+            "move": "MOVE_BITE"
+        },
+        {
+            "level": 1,
+            "move": "MOVE_FLATTER"
+        },
+        {
+            "level": 12,
+            "move": "MOVE_FAKETEARS"
+        },
+        {
+            "level": 16,
+            "move": "MOVE_ASSURANCE"
+        },
+        {
+            "level": 20,
+            "move": "MOVE_SWAGGER"
+        },
+        {
+            "level": 24,
+            "move": "MOVE_SUCKERPUNCH"
+        },
+        {
+            "level": 28,
+            "move": "MOVE_TORMENT"
+        },
+        {
+            "level": 31,
+            "move": "MOVE_FALSESURRENDER"
+        },
+        {
+            "level": 35,
+            "move": "MOVE_DARKPULSE"
+        },
+        {
+            "level": 40,
+            "move": "MOVE_NASTYPLOT"
+        },
+        {
+            "level": 41,
+            "move": "MOVE_SPIRITBREAK"
+        },
+        {
+            "level": 48,
+            "move": "MOVE_PLAYROUGH"
+        },
+        {
+            "level": 56,
+            "move": "MOVE_FOULPLAY"
+        },
+        {
+            "level": 64,
+            "move": "MOVE_HAMMERARM"
+        }
+    ]
+}

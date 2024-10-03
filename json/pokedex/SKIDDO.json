@@ -1,0 +1,108 @@
+{
+    "baseHP": 66,
+    "baseAttack": 65,
+    "baseDefense": 48,
+    "baseSpAttack": 62,
+    "baseSpDefense": 57,
+    "baseSpeed": 52,
+    "type1": "TYPE_GRASS",
+    "type2": "TYPE_GRASS",
+    "catchRate": 200,
+    "expYield": 70,
+    "evYield_HP": 1,
+    "evYield_Attack": 0,
+    "evYield_Defense": 0,
+    "evYield_SpAttack": 0,
+    "evYield_SpDefense": 0,
+    "evYield_Speed": 0,
+    "item1": "ITEM_NONE",
+    "item2": "ITEM_NONE",
+    "genderRatio": 50.0,
+    "eggCycles": 20,
+    "friendship": 50,
+    "growthRate": "GROWTH_MEDIUM_FAST",
+    "eggGroup1": "EGG_GROUP_FIELD",
+    "eggGroup2": "EGG_GROUP_FIELD",
+    "ability1": "ABILITY_SAPSIPPER",
+    "ability2": "ABILITY_GRASSPELT",
+    "safariZoneFleeRate": 0,
+    "hiddenAbility": "ABILITY_RUNAWAY",
+    "noFlip": true,
+    "egg_moves": [
+        "MOVE_DEFENSECURL",
+        "MOVE_ROLLOUT",
+        "MOVE_GRASSYTERRAIN"
+    ],
+    "blurb": "Thought to be one of the first Pok\u00e9mon to live in harmony with humans, it has a placid disposition.",
+    "name": "Skiddo",
+    "learnset": [
+        {
+            "level": 1,
+            "move": "MOVE_TACKLE"
+        },
+        {
+            "level": 1,
+            "move": "MOVE_GROWTH"
+        },
+        {
+            "level": 7,
+            "move": "MOVE_VINEWHIP"
+        },
+        {
+            "level": 10,
+            "move": "MOVE_TAILWHIP"
+        },
+        {
+            "level": 12,
+            "move": "MOVE_LEECHSEED"
+        },
+        {
+            "level": 14,
+            "move": "MOVE_RAZORLEAF"
+        },
+        {
+            "level": 17,
+            "move": "MOVE_WORRYSEED"
+        },
+        {
+            "level": 19,
+            "move": "MOVE_SYNTHESIS"
+        },
+        {
+            "level": 21,
+            "move": "MOVE_TAKEDOWN"
+        },
+        {
+            "level": 24,
+            "move": "MOVE_GRASSYGLIDE"
+        },
+        {
+            "level": 27,
+            "move": "MOVE_BULLDOZE"
+        },
+        {
+            "level": 31,
+            "move": "MOVE_SEEDBOMB"
+        },
+        {
+            "level": 35,
+            "move": "MOVE_BULKUP"
+        },
+        {
+            "level": 38,
+            "move": "MOVE_DOUBLEEDGE"
+        },
+        {
+            "level": 42,
+            "move": "MOVE_HORNLEECH"
+        },
+        {
+            "level": 46,
+            "move": "MOVE_MILKDRINK"
+        },
+        {
+            "level": 50,
+            "move": "MOVE_LEAFBLADE"
+        }
+    ]
+}

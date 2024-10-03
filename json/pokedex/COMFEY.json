@@ -1,0 +1,119 @@
+{
+    "baseHP": 51,
+    "baseAttack": 52,
+    "baseDefense": 90,
+    "baseSpAttack": 82,
+    "baseSpDefense": 110,
+    "baseSpeed": 100,
+    "type1": "TYPE_FAIRY",
+    "type2": "TYPE_FAIRY",
+    "catchRate": 60,
+    "expYield": 168,
+    "evYield_HP": 0,
+    "evYield_Attack": 0,
+    "evYield_Defense": 0,
+    "evYield_SpAttack": 0,
+    "evYield_SpDefense": 2,
+    "evYield_Speed": 0,
+    "item1": "ITEM_NONE",
+    "item2": "ITEM_MISTY_SEED",
+    "genderRatio": 75.0,
+    "eggCycles": 20,
+    "friendship": 50,
+    "growthRate": "GROWTH_FAST",
+    "eggGroup1": "EGG_GROUP_GRASS",
+    "eggGroup2": "EGG_GROUP_GRASS",
+    "ability1": "ABILITY_FLOWERVEIL",
+    "ability2": "ABILITY_TRIAGE",
+    "safariZoneFleeRate": 0,
+    "hiddenAbility": "ABILITY_NATURALCURE",
+    "noFlip": true,
+    "egg_moves": [
+        "MOVE_ENDURE",
+        "MOVE_AMNESIA",
+        "MOVE_AFTERYOU",
+        "MOVE_LUCKYCHANT",
+        "MOVE_WORRYSEED",
+        "MOVE_LEAFTORNADO"
+    ],
+    "blurb": "Baths prepared with the flowers from its vine have a relaxing effect so it is a hit to many people.",
+    "name": "Comfey",
+    "learnset": [
+        {
+            "level": 1,
+            "move": "MOVE_WRAP"
+        },
+        {
+            "level": 1,
+            "move": "MOVE_GROWTH"
+        },
+        {
+            "level": 3,
+            "move": "MOVE_VINEWHIP"
+        },
+        {
+            "level": 7,
+            "move": "MOVE_HELPINGHAND"
+        },
+        {
+            "level": 10,
+            "move": "MOVE_MAGICALLEAF"
+        },
+        {
+            "level": 14,
+            "move": "MOVE_FLOWERSHIELD"
+        },
+        {
+            "level": 17,
+            "move": "MOVE_LEECHSEED"
+        },
+        {
+            "level": 20,
+            "move": "MOVE_PETALBLIZZARD"
+        },
+        {
+            "level": 24,
+            "move": "MOVE_DRAININGKISS"
+        },
+        {
+            "level": 28,
+            "move": "MOVE_NATURALGIFT"
+        },
+        {
+            "level": 32,
+            "move": "MOVE_SWEETKISS"
+        },
+        {
+            "level": 35,
+            "move": "MOVE_GRASSKNOT"
+        },
+        {
+            "level": 39,
+            "move": "MOVE_PLAYROUGH"
+        },
+        {
+            "level": 43,
+            "move": "MOVE_SWEETSCENT"
+        },
+        {
+            "level": 46,
+            "move": "MOVE_AROMATHERAPY"
+        },
+        {
+            "level": 49,
+            "move": "MOVE_SYNTHESIS"
+        },
+        {
+            "level": 52,
+            "move": "MOVE_PETALDANCE"
+        },
+        {
+            "level": 56,
+            "move": "MOVE_FLORALHEALING"
+        },
+        {
+            "level": 59,
+            "move": "MOVE_GRASSYTERRAIN"
+        }
+    ]
+}

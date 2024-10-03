@@ -1,0 +1,79 @@
+{
+    "baseHP": 65,
+    "baseAttack": 60,
+    "baseDefense": 55,
+    "baseSpAttack": 95,
+    "baseSpDefense": 55,
+    "baseSpeed": 90,
+    "type1": "TYPE_WATER",
+    "type2": "TYPE_WATER",
+    "catchRate": 45,
+    "expYield": 147,
+    "evYield_HP": 0,
+    "evYield_Attack": 0,
+    "evYield_Defense": 0,
+    "evYield_SpAttack": 2,
+    "evYield_SpDefense": 0,
+    "evYield_Speed": 0,
+    "item1": "ITEM_NONE",
+    "item2": "ITEM_NONE",
+    "genderRatio": 12.5,
+    "eggCycles": 20,
+    "friendship": 50,
+    "growthRate": "GROWTH_MEDIUM_SLOW",
+    "eggGroup1": "EGG_GROUP_WATER_1",
+    "eggGroup2": "EGG_GROUP_FIELD",
+    "ability1": "ABILITY_TORRENT",
+    "ability2": "ABILITY_NONE",
+    "safariZoneFleeRate": 0,
+    "hiddenAbility": "ABILITY_SNIPER",
+    "noFlip": true,
+    "blurb": "Highly intelligent but also very lazy, it keeps enemies out of its territory by laying traps everywhere.",
+    "name": "Drizzile",
+    "learnset": [
+        {
+            "level": 1,
+            "move": "MOVE_GROWL"
+        },
+        {
+            "level": 1,
+            "move": "MOVE_POUND"
+        },
+        {
+            "level": 1,
+            "move": "MOVE_WATERGUN"
+        },
+        {
+            "level": 1,
+            "move": "MOVE_BIND"
+        },
+        {
+            "level": 12,
+            "move": "MOVE_WATERPULSE"
+        },
+        {
+            "level": 19,
+            "move": "MOVE_TEARFULLOOK"
+        },
+        {
+            "level": 24,
+            "move": "MOVE_SUCKERPUNCH"
+        },
+        {
+            "level": 30,
+            "move": "MOVE_UTURN"
+        },
+        {
+            "level": 36,
+            "move": "MOVE_LIQUIDATION"
+        },
+        {
+            "level": 42,
+            "move": "MOVE_SOAK"
+        },
+        {
+            "level": 48,
+            "move": "MOVE_RAINDANCE"
+        }
+    ]
+}

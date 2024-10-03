@@ -1,0 +1,101 @@
+{
+    "baseHP": 44,
+    "baseAttack": 38,
+    "baseDefense": 39,
+    "baseSpAttack": 61,
+    "baseSpDefense": 79,
+    "baseSpeed": 42,
+    "type1": "TYPE_FAIRY",
+    "type2": "TYPE_FAIRY",
+    "catchRate": 225,
+    "expYield": 61,
+    "evYield_HP": 0,
+    "evYield_Attack": 0,
+    "evYield_Defense": 0,
+    "evYield_SpAttack": 0,
+    "evYield_SpDefense": 1,
+    "evYield_Speed": 0,
+    "item1": "ITEM_NONE",
+    "item2": "ITEM_NONE",
+    "genderRatio": 100.0,
+    "eggCycles": 20,
+    "friendship": 50,
+    "growthRate": "GROWTH_MEDIUM_FAST",
+    "eggGroup1": "EGG_GROUP_FAIRY",
+    "eggGroup2": "EGG_GROUP_FAIRY",
+    "ability1": "ABILITY_FLOWERVEIL",
+    "ability2": "ABILITY_AROMAVEIL",
+    "safariZoneFleeRate": 0,
+    "hiddenAbility": "ABILITY_SYMBIOSIS",
+    "noFlip": true,
+    "egg_moves": [
+        "MOVE_COPYCAT",
+        "MOVE_CAPTIVATE",
+        "MOVE_CAMOUFLAGE",
+        "MOVE_TEARFULLOOK",
+        "MOVE_SOLARBEAM",
+        "MOVE_DAZZLINGGLEAM"
+    ],
+    "learnset": [
+        {
+            "level": 1,
+            "move": "MOVE_TACKLE"
+        },
+        {
+            "level": 1,
+            "move": "MOVE_VINEWHIP"
+        },
+        {
+            "level": 6,
+            "move": "MOVE_FAIRYWIND"
+        },
+        {
+            "level": 10,
+            "move": "MOVE_LUCKYCHANT"
+        },
+        {
+            "level": 14,
+            "move": "MOVE_RAZORLEAF"
+        },
+        {
+            "level": 18,
+            "move": "MOVE_GRASSYTERRAIN"
+        },
+        {
+            "level": 21,
+            "move": "MOVE_SPIRITBREAK"
+        },
+        {
+            "level": 25,
+            "move": "MOVE_MAGICALLEAF"
+        },
+        {
+            "level": 29,
+            "move": "MOVE_PETALBLIZZARD"
+        },
+        {
+            "level": 33,
+            "move": "MOVE_DAZZLINGGLEAM"
+        },
+        {
+            "level": 37,
+            "move": "MOVE_AROMATHERAPY"
+        },
+        {
+            "level": 41,
+            "move": "MOVE_MISTYTERRAIN"
+        },
+        {
+            "level": 44,
+            "move": "MOVE_PETALDANCE"
+        },
+        {
+            "level": 48,
+            "move": "MOVE_MOONBLAST"
+        },
+        {
+            "level": 51,
+            "move": "MOVE_WISH"
+        }
+    ]
+}

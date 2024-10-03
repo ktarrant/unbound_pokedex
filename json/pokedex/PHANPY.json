@@ -1,0 +1,109 @@
+{
+    "baseHP": 90,
+    "baseAttack": 60,
+    "baseDefense": 60,
+    "baseSpAttack": 40,
+    "baseSpDefense": 40,
+    "baseSpeed": 40,
+    "type1": "TYPE_GROUND",
+    "type2": "TYPE_GROUND",
+    "catchRate": 120,
+    "expYield": 124,
+    "evYield_HP": 1,
+    "evYield_Attack": 0,
+    "evYield_Defense": 0,
+    "evYield_SpAttack": 0,
+    "evYield_SpDefense": 0,
+    "evYield_Speed": 0,
+    "item1": "ITEM_NONE",
+    "item2": "ITEM_PASSHO_BERRY",
+    "genderRatio": 50.0,
+    "eggCycles": 20,
+    "friendship": 50,
+    "growthRate": "GROWTH_MEDIUM_FAST",
+    "eggGroup1": "EGG_GROUP_FIELD",
+    "eggGroup2": "EGG_GROUP_FIELD",
+    "ability1": "ABILITY_PICKUP",
+    "ability2": "ABILITY_NONE",
+    "safariZoneFleeRate": 0,
+    "hiddenAbility": "ABILITY_SANDVEIL",
+    "noFlip": true,
+    "egg_moves": [
+        "MOVE_FOCUSENERGY",
+        "MOVE_BODYSLAM",
+        "MOVE_ANCIENTPOWER",
+        "MOVE_SNORE",
+        "MOVE_COUNTER",
+        "MOVE_FISSURE",
+        "MOVE_ENDEAVOR",
+        "MOVE_ICESHARD",
+        "MOVE_HEADSMASH",
+        "MOVE_MUDSLAP",
+        "MOVE_HEAVYSLAM",
+        "MOVE_PLAYROUGH",
+        "MOVE_HIGHHORSEPOWER"
+    ],
+    "name": "Phanpy",
+    "learnset": [
+        {
+            "level": 1,
+            "move": "MOVE_ODORSLEUTH"
+        },
+        {
+            "level": 1,
+            "move": "MOVE_TACKLE"
+        },
+        {
+            "level": 1,
+            "move": "MOVE_GROWL"
+        },
+        {
+            "level": 1,
+            "move": "MOVE_DEFENSECURL"
+        },
+        {
+            "level": 6,
+            "move": "MOVE_FLAIL"
+        },
+        {
+            "level": 10,
+            "move": "MOVE_ROLLOUT"
+        },
+        {
+            "level": 14,
+            "move": "MOVE_SLAM"
+        },
+        {
+            "level": 18,
+            "move": "MOVE_CHARM"
+        },
+        {
+            "level": 22,
+            "move": "MOVE_BULLDOZE"
+        },
+        {
+            "level": 26,
+            "move": "MOVE_NATURALGIFT"
+        },
+        {
+            "level": 30,
+            "move": "MOVE_ENDURE"
+        },
+        {
+            "level": 34,
+            "move": "MOVE_TAKEDOWN"
+        },
+        {
+            "level": 38,
+            "move": "MOVE_LASTRESORT"
+        },
+        {
+            "level": 42,
+            "move": "MOVE_DOUBLEEDGE"
+        },
+        {
+            "level": 46,
+            "move": "MOVE_EARTHQUAKE"
+        }
+    ]
+}

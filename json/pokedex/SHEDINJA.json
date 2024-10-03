@@ -1,0 +1,114 @@
+{
+    "baseHP": 1,
+    "baseAttack": 90,
+    "baseDefense": 45,
+    "baseSpAttack": 30,
+    "baseSpDefense": 30,
+    "baseSpeed": 40,
+    "type1": "TYPE_BUG",
+    "type2": "TYPE_GHOST",
+    "catchRate": 45,
+    "expYield": 95,
+    "evYield_HP": 2,
+    "evYield_Attack": 0,
+    "evYield_Defense": 0,
+    "evYield_SpAttack": 0,
+    "evYield_SpDefense": 0,
+    "evYield_Speed": 0,
+    "item1": "ITEM_NONE",
+    "item2": "ITEM_NONE",
+    "genderRatio": "MON_GENDERLESS",
+    "eggCycles": 15,
+    "friendship": 50,
+    "growthRate": "GROWTH_ERRATIC",
+    "eggGroup1": "EGG_GROUP_MINERAL",
+    "eggGroup2": "EGG_GROUP_MINERAL",
+    "ability1": "ABILITY_WONDERGUARD",
+    "ability2": "ABILITY_NONE",
+    "safariZoneFleeRate": 0,
+    "hiddenAbility": "ABILITY_NONE",
+    "noFlip": true,
+    "name": "Shedinja",
+    "learnset": [
+        {
+            "level": 1,
+            "move": "MOVE_SHADOWCLAW"
+        },
+        {
+            "level": 1,
+            "move": "MOVE_SUCKERPUNCH"
+        },
+        {
+            "level": 1,
+            "move": "MOVE_GRUDGE"
+        },
+        {
+            "level": 1,
+            "move": "MOVE_MUDSLAP"
+        },
+        {
+            "level": 1,
+            "move": "MOVE_METALCLAW"
+        },
+        {
+            "level": 1,
+            "move": "MOVE_DIG"
+        },
+        {
+            "level": 1,
+            "move": "MOVE_BIDE"
+        },
+        {
+            "level": 1,
+            "move": "MOVE_SANDATTACK"
+        },
+        {
+            "level": 1,
+            "move": "MOVE_SCRATCH"
+        },
+        {
+            "level": 1,
+            "move": "MOVE_HARDEN"
+        },
+        {
+            "level": 10,
+            "move": "MOVE_LEECHLIFE"
+        },
+        {
+            "level": 15,
+            "move": "MOVE_CONFUSERAY"
+        },
+        {
+            "level": 23,
+            "move": "MOVE_FALSESWIPE"
+        },
+        {
+            "level": 29,
+            "move": "MOVE_SHADOWSNEAK"
+        },
+        {
+            "level": 36,
+            "move": "MOVE_FURYSWIPES"
+        },
+        {
+            "level": 43,
+            "move": "MOVE_MINDREADER"
+        },
+        {
+            "level": 50,
+            "move": "MOVE_SHADOWBALL"
+        },
+        {
+            "level": 57,
+            "move": "MOVE_SPITE"
+        },
+        {
+            "level": 64,
+            "move": "MOVE_PHANTOMFORCE"
+        },
+        {
+            "level": 71,
+            "move": "MOVE_HEALBLOCK"
+        }
+    ]
+}

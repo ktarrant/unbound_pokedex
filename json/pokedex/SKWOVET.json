@@ -1,0 +1,93 @@
+{
+    "baseHP": 70,
+    "baseAttack": 55,
+    "baseDefense": 55,
+    "baseSpAttack": 35,
+    "baseSpDefense": 35,
+    "baseSpeed": 25,
+    "type1": "TYPE_NORMAL",
+    "type2": "TYPE_NORMAL",
+    "catchRate": 255,
+    "expYield": 55,
+    "evYield_HP": 1,
+    "evYield_Attack": 0,
+    "evYield_Defense": 0,
+    "evYield_SpAttack": 0,
+    "evYield_SpDefense": 0,
+    "evYield_Speed": 0,
+    "item1": "ITEM_NONE",
+    "item2": "ITEM_ORAN_BERRY",
+    "genderRatio": 50.0,
+    "eggCycles": 20,
+    "friendship": 50,
+    "growthRate": "GROWTH_MEDIUM_FAST",
+    "eggGroup1": "EGG_GROUP_FIELD",
+    "eggGroup2": "EGG_GROUP_FIELD",
+    "ability1": "ABILITY_CHEEKPOUCH",
+    "ability2": "ABILITY_NONE",
+    "safariZoneFleeRate": 0,
+    "hiddenAbility": "ABILITY_GLUTTONY",
+    "noFlip": true,
+    "egg_moves": [
+        "MOVE_ROLLOUT",
+        "MOVE_DEFENSECURL",
+        "MOVE_LASTRESORT",
+        "MOVE_BELLYDRUM"
+    ],
+    "blurb": "This Pok\u00e9mon becomes uneasy if its cheeks are ever completely empty of berries.",
+    "name": "Skwovet",
+    "learnset": [
+        {
+            "level": 1,
+            "move": "MOVE_TACKLE"
+        },
+        {
+            "level": 1,
+            "move": "MOVE_TAILWHIP"
+        },
+        {
+            "level": 5,
+            "move": "MOVE_BITE"
+        },
+        {
+            "level": 10,
+            "move": "MOVE_STUFFCHEEKS"
+        },
+        {
+            "level": 15,
+            "move": "MOVE_STOCKPILE"
+        },
+        {
+            "level": 15,
+            "move": "MOVE_SWALLOW"
+        },
+        {
+            "level": 15,
+            "move": "MOVE_SPITUP"
+        },
+        {
+            "level": 20,
+            "move": "MOVE_BODYSLAM"
+        },
+        {
+            "level": 25,
+            "move": "MOVE_REST"
+        },
+        {
+            "level": 30,
+            "move": "MOVE_COUNTER"
+        },
+        {
+            "level": 35,
+            "move": "MOVE_BULLETSEED"
+        },
+        {
+            "level": 40,
+            "move": "MOVE_SUPERFANG"
+        },
+        {
+            "level": 45,
+            "move": "MOVE_BELCH"
+        }
+    ]
+}

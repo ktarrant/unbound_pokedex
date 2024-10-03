@@ -1,0 +1,106 @@
+{
+    "baseHP": 65,
+    "baseAttack": 90,
+    "baseDefense": 65,
+    "baseSpAttack": 61,
+    "baseSpDefense": 61,
+    "baseSpeed": 100,
+    "type1": "TYPE_NORMAL",
+    "type2": "TYPE_FLYING",
+    "catchRate": 90,
+    "expYield": 162,
+    "evYield_HP": 0,
+    "evYield_Attack": 0,
+    "evYield_Defense": 0,
+    "evYield_SpAttack": 0,
+    "evYield_SpDefense": 0,
+    "evYield_Speed": 2,
+    "item1": "ITEM_NONE",
+    "item2": "ITEM_SHARP_BEAK",
+    "genderRatio": 50.0,
+    "eggCycles": 15,
+    "friendship": 50,
+    "growthRate": "GROWTH_MEDIUM_FAST",
+    "eggGroup1": "EGG_GROUP_FLYING",
+    "eggGroup2": "EGG_GROUP_FLYING",
+    "ability1": "ABILITY_KEENEYE",
+    "ability2": "ABILITY_SNIPER",
+    "safariZoneFleeRate": 0,
+    "hiddenAbility": "ABILITY_MERCILESS",
+    "noFlip": true,
+    "name": "Fearow",
+    "learnset": [
+        {
+            "level": 0,
+            "move": "MOVE_PLUCK"
+        },
+        {
+            "level": 1,
+            "move": "MOVE_PECK"
+        },
+        {
+            "level": 1,
+            "move": "MOVE_GROWL"
+        },
+        {
+            "level": 1,
+            "move": "MOVE_LEER"
+        },
+        {
+            "level": 1,
+            "move": "MOVE_PURSUIT"
+        },
+        {
+            "level": 11,
+            "move": "MOVE_FURYATTACK"
+        },
+        {
+            "level": 15,
+            "move": "MOVE_AERIALACE"
+        },
+        {
+            "level": 18,
+            "move": "MOVE_MIRRORMOVE"
+        },
+        {
+            "level": 19,
+            "move": "MOVE_PLUCK"
+        },
+        {
+            "level": 23,
+            "move": "MOVE_ASSURANCE"
+        },
+        {
+            "level": 27,
+            "move": "MOVE_AGILITY"
+        },
+        {
+            "level": 30,
+            "move": "MOVE_TAKEDOWN"
+        },
+        {
+            "level": 34,
+            "move": "MOVE_DRILLPECK"
+        },
+        {
+            "level": 38,
+            "move": "MOVE_FOCUSENERGY"
+        },
+        {
+            "level": 42,
+            "move": "MOVE_ROOST"
+        },
+        {
+            "level": 46,
+            "move": "MOVE_DRILLRUN"
+        },
+        {
+            "level": 50,
+            "move": "MOVE_BEAKBLAST"
+        },
+        {
+            "level": 54,
+            "move": "MOVE_DOUBLEEDGE"
+        }
+    ]
+}

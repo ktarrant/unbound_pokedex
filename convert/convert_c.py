@@ -121,3 +121,66 @@ def parse_tm_tutor_file(tm_tutor_file):
                     data[category][int(number_value)] = {"key": move_value}
 
         return data
+
+
+def parse_level_up_moves(file_name):
+    """Parse the level up moves from the file and return a dictionary of learnset names to move data."""
+    level_up_moves_data = {}
+    current_learnset_name = None
+    current_moveset = []
+    species_map = {}
+
+    with open(file_name, 'r') as file:
+        start_collecting = False
+        for line in file:
+            line = line.strip()
+
+            # Match the start of a Pokémon's level-up learnset
+            pokemon_match = re.match(r'static const struct LevelUpMove s(\w+)LevelUpLearnset\[\] = {', line)
+            if pokemon_match:
+                current_learnset_name = f's{pokemon_match.group(1)}LevelUpLearnset'
+                current_moveset = []
+                continue
+
+            # Match the LEVEL_UP_MOVE entries
+            move_match = re.match(r'LEVEL_UP_MOVE\(\s*(\d+),\s*(MOVE_\w+)\s*\)', line)
+            if move_match:
+                level = int(move_match.group(1))
+                move = move_match.group(2)
+                current_moveset.append({"level": level, "move": move})
+                continue
+
+            # Match the LEVEL_UP_END entry (end of the learnset)
+            if line == 'LEVEL_UP_END':
+                if current_learnset_name:
+                    level_up_moves_data[current_learnset_name] = current_moveset
+                current_learnset_name = None
+                current_moveset = []
+                continue
+
+            # Start collecting species map after the correct declaration
+            if line.startswith('const struct LevelUpMove* const gLevelUpLearnsets'):
+                start_collecting = True
+                continue
+
+            if not start_collecting:
+                continue
+
+            # Match the SPECIES_ lines
+            species_match = re.match(r'\[SPECIES_(\w+)\] = (\w+),', line)
+            if species_match:
+                species_name = species_match.group(1)  # e.g., BULBASAUR
+                learnset_name = species_match.group(2)  # e.g., sBulbasaurLevelUpLearnset
+                species_map[learnset_name] = species_name
+
+    final_data = {}
+    for learnset_name, species_name in species_map.items():
+        if learnset_name in level_up_moves_data:
+            final_data[species_name] = level_up_moves_data[learnset_name]
+
+    return final_data
+
+# Example usage:
+# moves_data = parse_level_up_moves('level_up_moves.txt')
+# species_map = parse_species_map('level_up_moves.txt')
+# merge_data_and_save_to_json(moves_data, species_map, 'level_up_moves_output.json')

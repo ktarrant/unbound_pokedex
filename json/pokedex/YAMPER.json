@@ -1,0 +1,86 @@
+{
+    "baseHP": 59,
+    "baseAttack": 45,
+    "baseDefense": 50,
+    "baseSpAttack": 40,
+    "baseSpDefense": 50,
+    "baseSpeed": 26,
+    "type1": "TYPE_ELECTRIC",
+    "type2": "TYPE_ELECTRIC",
+    "catchRate": 255,
+    "expYield": 54,
+    "evYield_HP": 1,
+    "evYield_Attack": 0,
+    "evYield_Defense": 0,
+    "evYield_SpAttack": 0,
+    "evYield_SpDefense": 0,
+    "evYield_Speed": 0,
+    "item1": "ITEM_NONE",
+    "item2": "ITEM_NONE",
+    "genderRatio": 50.0,
+    "eggCycles": 20,
+    "friendship": 50,
+    "growthRate": "GROWTH_FAST",
+    "eggGroup1": "EGG_GROUP_FIELD",
+    "eggGroup2": "EGG_GROUP_FIELD",
+    "ability1": "ABILITY_BALLFETCH",
+    "ability2": "ABILITY_NONE",
+    "safariZoneFleeRate": 0,
+    "hiddenAbility": "ABILITY_RATTLED",
+    "noFlip": true,
+    "egg_moves": [
+        "MOVE_DOUBLEEDGE",
+        "MOVE_SANDATTACK",
+        "MOVE_FLAMECHARGE",
+        "MOVE_DISCHARGE",
+        "MOVE_HOWL"
+    ],
+    "blurb": "This greedy Pok\u00e9mon only helps people with their work because it wants treats. As it runs, it crackles with electricity.",
+    "name": "Yamper",
+    "learnset": [
+        {
+            "level": 1,
+            "move": "MOVE_TACKLE"
+        },
+        {
+            "level": 1,
+            "move": "MOVE_TAILWHIP"
+        },
+        {
+            "level": 5,
+            "move": "MOVE_NUZZLE"
+        },
+        {
+            "level": 10,
+            "move": "MOVE_BITE"
+        },
+        {
+            "level": 15,
+            "move": "MOVE_ROAR"
+        },
+        {
+            "level": 19,
+            "move": "MOVE_SPARK"
+        },
+        {
+            "level": 24,
+            "move": "MOVE_CHARM"
+        },
+        {
+            "level": 28,
+            "move": "MOVE_CRUNCH"
+        },
+        {
+            "level": 33,
+            "move": "MOVE_CHARGE"
+        },
+        {
+            "level": 37,
+            "move": "MOVE_THUNDERFANG"
+        },
+        {
+            "level": 42,
+            "move": "MOVE_PLAYROUGH"
+        }
+    ]
+}

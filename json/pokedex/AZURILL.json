@@ -1,0 +1,87 @@
+{
+    "baseHP": 50,
+    "baseAttack": 20,
+    "baseDefense": 40,
+    "baseSpAttack": 20,
+    "baseSpDefense": 40,
+    "baseSpeed": 20,
+    "type1": "TYPE_NORMAL",
+    "type2": "TYPE_FAIRY",
+    "catchRate": 150,
+    "expYield": 33,
+    "evYield_HP": 1,
+    "evYield_Attack": 0,
+    "evYield_Defense": 0,
+    "evYield_SpAttack": 0,
+    "evYield_SpDefense": 0,
+    "evYield_Speed": 0,
+    "item1": "ITEM_NONE",
+    "item2": "ITEM_NONE",
+    "genderRatio": 50.0,
+    "eggCycles": 10,
+    "friendship": 50,
+    "growthRate": "GROWTH_FAST",
+    "eggGroup1": "EGG_GROUP_UNDISCOVERED",
+    "eggGroup2": "EGG_GROUP_UNDISCOVERED",
+    "ability1": "ABILITY_THICKFAT",
+    "ability2": "ABILITY_HUGEPOWER",
+    "safariZoneFleeRate": 0,
+    "hiddenAbility": "ABILITY_SAPSIPPER",
+    "noFlip": true,
+    "egg_moves": [
+        "MOVE_ENCORE",
+        "MOVE_SING",
+        "MOVE_REFRESH",
+        "MOVE_TICKLE",
+        "MOVE_FAKETEARS",
+        "MOVE_BODYSLAM",
+        "MOVE_SOAK",
+        "MOVE_MUDDYWATER",
+        "MOVE_COPYCAT",
+        "MOVE_CAMOUFLAGE",
+        "MOVE_AQUAJET",
+        "MOVE_BELLYDRUM",
+        "MOVE_PERISHSONG",
+        "MOVE_PRESENT",
+        "MOVE_SUPERSONIC"
+    ],
+    "name": "Azurill",
+    "learnset": [
+        {
+            "level": 1,
+            "move": "MOVE_SPLASH"
+        },
+        {
+            "level": 1,
+            "move": "MOVE_TAILWHIP"
+        },
+        {
+            "level": 1,
+            "move": "MOVE_BUBBLE"
+        },
+        {
+            "level": 1,
+            "move": "MOVE_WATERSPORT"
+        },
+        {
+            "level": 3,
+            "move": "MOVE_HELPINGHAND"
+        },
+        {
+            "level": 6,
+            "move": "MOVE_CHARM"
+        },
+        {
+            "level": 9,
+            "move": "MOVE_BUBBLEBEAM"
+        },
+        {
+            "level": 12,
+            "move": "MOVE_SLAM"
+        },
+        {
+            "level": 15,
+            "move": "MOVE_BOUNCE"
+        }
+    ]
+}

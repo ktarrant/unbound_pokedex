@@ -1,0 +1,98 @@
+{
+    "baseHP": 130,
+    "baseAttack": 85,
+    "baseDefense": 80,
+    "baseSpAttack": 85,
+    "baseSpDefense": 95,
+    "baseSpeed": 60,
+    "type1": "TYPE_WATER",
+    "type2": "TYPE_ICE",
+    "catchRate": 45,
+    "expYield": 219,
+    "evYield_HP": 2,
+    "evYield_Attack": 0,
+    "evYield_Defense": 0,
+    "evYield_SpAttack": 0,
+    "evYield_SpDefense": 0,
+    "evYield_Speed": 0,
+    "item1": "ITEM_MYSTIC_WATER",
+    "item2": "ITEM_MYSTIC_WATER",
+    "genderRatio": 50.0,
+    "eggCycles": 40,
+    "friendship": 50,
+    "growthRate": "GROWTH_SLOW",
+    "eggGroup1": "EGG_GROUP_MONSTER",
+    "eggGroup2": "EGG_GROUP_WATER_1",
+    "ability1": "ABILITY_WATERABSORB",
+    "ability2": "ABILITY_SHELLARMOR",
+    "safariZoneFleeRate": 0,
+    "hiddenAbility": "ABILITY_HYDRATION",
+    "noFlip": true,
+    "name": "Lapras",
+    "learnset": [
+        {
+            "level": 1,
+            "move": "MOVE_GROWL"
+        },
+        {
+            "level": 1,
+            "move": "MOVE_WATERGUN"
+        },
+        {
+            "level": 5,
+            "move": "MOVE_SING"
+        },
+        {
+            "level": 10,
+            "move": "MOVE_MIST"
+        },
+        {
+            "level": 14,
+            "move": "MOVE_LIFEDEW"
+        },
+        {
+            "level": 18,
+            "move": "MOVE_ICESHARD"
+        },
+        {
+            "level": 23,
+            "move": "MOVE_CONFUSERAY"
+        },
+        {
+            "level": 27,
+            "move": "MOVE_WATERPULSE"
+        },
+        {
+            "level": 32,
+            "move": "MOVE_BRINE"
+        },
+        {
+            "level": 37,
+            "move": "MOVE_BODYSLAM"
+        },
+        {
+            "level": 42,
+            "move": "MOVE_ICEBEAM"
+        },
+        {
+            "level": 47,
+            "move": "MOVE_RAINDANCE"
+        },
+        {
+            "level": 51,
+            "move": "MOVE_HYDROPUMP"
+        },
+        {
+            "level": 56,
+            "move": "MOVE_SAFEGUARD"
+        },
+        {
+            "level": 60,
+            "move": "MOVE_PERISHSONG"
+        },
+        {
+            "level": 64,
+            "move": "MOVE_SHEERCOLD"
+        }
+    ]
+}

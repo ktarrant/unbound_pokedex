@@ -1,0 +1,111 @@
+{
+    "baseHP": 76,
+    "baseAttack": 48,
+    "baseDefense": 48,
+    "baseSpAttack": 57,
+    "baseSpDefense": 62,
+    "baseSpeed": 34,
+    "type1": "TYPE_WATER",
+    "type2": "TYPE_WATER",
+    "catchRate": 190,
+    "expYield": 73,
+    "evYield_HP": 1,
+    "evYield_Attack": 0,
+    "evYield_Defense": 0,
+    "evYield_SpAttack": 0,
+    "evYield_SpDefense": 0,
+    "evYield_Speed": 0,
+    "item1": "ITEM_NONE",
+    "item2": "ITEM_NONE",
+    "genderRatio": 50.0,
+    "eggCycles": 20,
+    "friendship": 50,
+    "growthRate": "GROWTH_MEDIUM_FAST",
+    "eggGroup1": "EGG_GROUP_WATER_1",
+    "eggGroup2": "EGG_GROUP_AMORPHOUS",
+    "ability1": "ABILITY_STICKYHOLD",
+    "ability2": "ABILITY_STORMDRAIN",
+    "safariZoneFleeRate": 0,
+    "hiddenAbility": "ABILITY_SANDFORCE",
+    "noFlip": true,
+    "egg_moves": [
+        "MOVE_COUNTER",
+        "MOVE_MIRRORCOAT",
+        "MOVE_STOCKPILE",
+        "MOVE_SWALLOW",
+        "MOVE_SPITUP",
+        "MOVE_YAWN",
+        "MOVE_CURSE",
+        "MOVE_AMNESIA",
+        "MOVE_FISSURE",
+        "MOVE_TRUMPCARD",
+        "MOVE_SLUDGE",
+        "MOVE_CLEARSMOG",
+        "MOVE_MIST",
+        "MOVE_ACIDARMOR"
+    ],
+    "blurb": "Its shape and coloration vary, depending on its habitat.",
+    "name": "Shellos",
+    "learnset": [
+        {
+            "level": 1,
+            "move": "MOVE_WATERGUN"
+        },
+        {
+            "level": 1,
+            "move": "MOVE_MUDSLAP"
+        },
+        {
+            "level": 1,
+            "move": "MOVE_MUDSPORT"
+        },
+        {
+            "level": 5,
+            "move": "MOVE_HARDEN"
+        },
+        {
+            "level": 10,
+            "move": "MOVE_MUDBOMB"
+        },
+        {
+            "level": 14,
+            "move": "MOVE_HIDDENPOWER"
+        },
+        {
+            "level": 18,
+            "move": "MOVE_WATERPULSE"
+        },
+        {
+            "level": 22,
+            "move": "MOVE_ANCIENTPOWER"
+        },
+        {
+            "level": 26,
+            "move": "MOVE_BODYSLAM"
+        },
+        {
+            "level": 30,
+            "move": "MOVE_BRINE"
+        },
+        {
+            "level": 34,
+            "move": "MOVE_MEMENTO"
+        },
+        {
+            "level": 37,
+            "move": "MOVE_MUDDYWATER"
+        },
+        {
+            "level": 41,
+            "move": "MOVE_EARTHPOWER"
+        },
+        {
+            "level": 45,
+            "move": "MOVE_RAINDANCE"
+        },
+        {
+            "level": 48,
+            "move": "MOVE_RECOVER"
+        }
+    ]
+}

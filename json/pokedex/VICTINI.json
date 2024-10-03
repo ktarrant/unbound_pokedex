@@ -1,0 +1,135 @@
+{
+    "baseHP": 100,
+    "baseAttack": 100,
+    "baseDefense": 100,
+    "baseSpAttack": 100,
+    "baseSpDefense": 100,
+    "baseSpeed": 100,
+    "type1": "TYPE_PSYCHIC",
+    "type2": "TYPE_FIRE",
+    "catchRate": 3,
+    "expYield": 215,
+    "evYield_HP": 3,
+    "evYield_Attack": 0,
+    "evYield_Defense": 0,
+    "evYield_SpAttack": 0,
+    "evYield_SpDefense": 0,
+    "evYield_Speed": 0,
+    "item1": "ITEM_NONE",
+    "item2": "ITEM_NONE",
+    "genderRatio": "MON_GENDERLESS",
+    "eggCycles": 120,
+    "friendship": 100,
+    "growthRate": "GROWTH_SLOW",
+    "eggGroup1": "EGG_GROUP_UNDISCOVERED",
+    "eggGroup2": "EGG_GROUP_UNDISCOVERED",
+    "ability1": "ABILITY_VICTORYSTAR",
+    "ability2": "ABILITY_NONE",
+    "safariZoneFleeRate": 0,
+    "hiddenAbility": "ABILITY_SYNCHRONIZE",
+    "noFlip": true,
+    "blurb": "It creates an unlimited supply of energy inside its body, which it shares with those who touch it.",
+    "name": "Victini",
+    "learnset": [
+        {
+            "level": 1,
+            "move": "MOVE_CELEBRATE"
+        },
+        {
+            "level": 1,
+            "move": "MOVE_VCREATE"
+        },
+        {
+            "level": 1,
+            "move": "MOVE_FUSIONFLARE"
+        },
+        {
+            "level": 1,
+            "move": "MOVE_FUSIONBOLT"
+        },
+        {
+            "level": 1,
+            "move": "MOVE_GLACIATE"
+        },
+        {
+            "level": 1,
+            "move": "MOVE_BLUEFLARE"
+        },
+        {
+            "level": 1,
+            "move": "MOVE_BOLTSTRIKE"
+        },
+        {
+            "level": 1,
+            "move": "MOVE_QUICKATTACK"
+        },
+        {
+            "level": 1,
+            "move": "MOVE_FLAMECHARGE"
+        },
+        {
+            "level": 1,
+            "move": "MOVE_CONFUSION"
+        },
+        {
+            "level": 1,
+            "move": "MOVE_FOCUSENERGY"
+        },
+        {
+            "level": 7,
+            "move": "MOVE_WORKUP"
+        },
+        {
+            "level": 14,
+            "move": "MOVE_INCINERATE"
+        },
+        {
+            "level": 21,
+            "move": "MOVE_STOREDPOWER"
+        },
+        {
+            "level": 28,
+            "move": "MOVE_HEADBUTT"
+        },
+        {
+            "level": 33,
+            "move": "MOVE_FLAMEBURST"
+        },
+        {
+            "level": 38,
+            "move": "MOVE_ENDURE"
+        },
+        {
+            "level": 42,
+            "move": "MOVE_ZENHEADBUTT"
+        },
+        {
+            "level": 49,
+            "move": "MOVE_INFERNO"
+        },
+        {
+            "level": 56,
+            "move": "MOVE_REVERSAL"
+        },
+        {
+            "level": 63,
+            "move": "MOVE_SEARINGSHOT"
+        },
+        {
+            "level": 70,
+            "move": "MOVE_DOUBLEEDGE"
+        },
+        {
+            "level": 77,
+            "move": "MOVE_FLAREBLITZ"
+        },
+        {
+            "level": 84,
+            "move": "MOVE_OVERHEAT"
+        },
+        {
+            "level": 91,
+            "move": "MOVE_FINALGAMBIT"
+        }
+    ]
+}

@@ -1,0 +1,131 @@
+{
+    "baseHP": 95,
+    "baseAttack": 115,
+    "baseDefense": 80,
+    "baseSpAttack": 95,
+    "baseSpDefense": 80,
+    "baseSpeed": 90,
+    "type1": "TYPE_FIRE",
+    "type2": "TYPE_ROCK",
+    "catchRate": 75,
+    "expYield": 213,
+    "evYield_HP": 0,
+    "evYield_Attack": 2,
+    "evYield_Defense": 0,
+    "evYield_SpAttack": 0,
+    "evYield_SpDefense": 0,
+    "evYield_Speed": 0,
+    "item1": "ITEM_RAWST_BERRY",
+    "item2": "ITEM_RAWST_BERRY",
+    "genderRatio": 25.0,
+    "eggCycles": 20,
+    "friendship": 50,
+    "growthRate": "GROWTH_SLOW",
+    "eggGroup1": "EGG_GROUP_FIELD",
+    "eggGroup2": "EGG_GROUP_FIELD",
+    "ability1": "ABILITY_INTIMIDATE",
+    "ability2": "ABILITY_FLASHFIRE",
+    "safariZoneFleeRate": 0,
+    "hiddenAbility": "ABILITY_JUSTIFIED",
+    "noFlip": true,
+    "blurb": "It is said to guide virtuous people who have lost their way on mountain paths back down to the mountain's base.",
+    "name": "Arcanine",
+    "learnset": [
+        {
+            "level": 0,
+            "move": "MOVE_EXTREMESPEED"
+        },
+        {
+            "level": 1,
+            "move": "MOVE_THUNDERFANG"
+        },
+        {
+            "level": 1,
+            "move": "MOVE_BURNUP"
+        },
+        {
+            "level": 1,
+            "move": "MOVE_EMBER"
+        },
+        {
+            "level": 1,
+            "move": "MOVE_LEER"
+        },
+        {
+            "level": 1,
+            "move": "MOVE_HOWL"
+        },
+        {
+            "level": 1,
+            "move": "MOVE_BITE"
+        },
+        {
+            "level": 1,
+            "move": "MOVE_ODORSLEUTH"
+        },
+        {
+            "level": 1,
+            "move": "MOVE_FLAMEWHEEL"
+        },
+        {
+            "level": 1,
+            "move": "MOVE_HELPINGHAND"
+        },
+        {
+            "level": 1,
+            "move": "MOVE_ROCKTOMB"
+        },
+        {
+            "level": 1,
+            "move": "MOVE_RETALIATE"
+        },
+        {
+            "level": 1,
+            "move": "MOVE_TAKEDOWN"
+        },
+        {
+            "level": 1,
+            "move": "MOVE_FLAMETHROWER"
+        },
+        {
+            "level": 1,
+            "move": "MOVE_ROAR"
+        },
+        {
+            "level": 1,
+            "move": "MOVE_PLAYROUGH"
+        },
+        {
+            "level": 1,
+            "move": "MOVE_REVERSAL"
+        },
+        {
+            "level": 1,
+            "move": "MOVE_FIREFANG"
+        },
+        {
+            "level": 1,
+            "move": "MOVE_EXTREMESPEED"
+        },
+        {
+            "level": 1,
+            "move": "MOVE_CRUNCH"
+        },
+        {
+            "level": 1,
+            "move": "MOVE_ROCKSLIDE"
+        },
+        {
+            "level": 50,
+            "move": "MOVE_RAGINGFURY"
+        },
+        {
+            "level": 57,
+            "move": "MOVE_OUTRAGE"
+        },
+        {
+            "level": 60,
+            "move": "MOVE_FLAREBLITZ"
+        }
+    ]
+}

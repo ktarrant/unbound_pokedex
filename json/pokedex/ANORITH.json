@@ -1,0 +1,106 @@
+{
+    "baseHP": 45,
+    "baseAttack": 95,
+    "baseDefense": 50,
+    "baseSpAttack": 40,
+    "baseSpDefense": 50,
+    "baseSpeed": 75,
+    "type1": "TYPE_ROCK",
+    "type2": "TYPE_BUG",
+    "catchRate": 45,
+    "expYield": 99,
+    "evYield_HP": 0,
+    "evYield_Attack": 1,
+    "evYield_Defense": 0,
+    "evYield_SpAttack": 0,
+    "evYield_SpDefense": 0,
+    "evYield_Speed": 0,
+    "item1": "ITEM_NONE",
+    "item2": "ITEM_NONE",
+    "genderRatio": 12.5,
+    "eggCycles": 30,
+    "friendship": 50,
+    "growthRate": "GROWTH_ERRATIC",
+    "eggGroup1": "EGG_GROUP_WATER_3",
+    "eggGroup2": "EGG_GROUP_WATER_3",
+    "ability1": "ABILITY_BATTLEARMOR",
+    "ability2": "ABILITY_TOUGHCLAWS",
+    "safariZoneFleeRate": 0,
+    "hiddenAbility": "ABILITY_SWIFTSWIM",
+    "noFlip": true,
+    "egg_moves": [
+        "MOVE_RAPIDSPIN",
+        "MOVE_KNOCKOFF",
+        "MOVE_SCREECH",
+        "MOVE_SANDATTACK",
+        "MOVE_CROSSPOISON",
+        "MOVE_CURSE",
+        "MOVE_IRONDEFENSE",
+        "MOVE_WATERPULSE",
+        "MOVE_AQUAJET",
+        "MOVE_ACCELEROCK"
+    ],
+    "name": "Anorith",
+    "learnset": [
+        {
+            "level": 1,
+            "move": "MOVE_SCRATCH"
+        },
+        {
+            "level": 1,
+            "move": "MOVE_FURYCUTTER"
+        },
+        {
+            "level": 1,
+            "move": "MOVE_HARDEN"
+        },
+        {
+            "level": 1,
+            "move": "MOVE_MUDSPORT"
+        },
+        {
+            "level": 4,
+            "move": "MOVE_WATERGUN"
+        },
+        {
+            "level": 8,
+            "move": "MOVE_ANCIENTPOWER"
+        },
+        {
+            "level": 12,
+            "move": "MOVE_METALCLAW"
+        },
+        {
+            "level": 16,
+            "move": "MOVE_SMACKDOWN"
+        },
+        {
+            "level": 20,
+            "move": "MOVE_BUGBITE"
+        },
+        {
+            "level": 24,
+            "move": "MOVE_BRINE"
+        },
+        {
+            "level": 28,
+            "move": "MOVE_SLASH"
+        },
+        {
+            "level": 32,
+            "move": "MOVE_CRUSHCLAW"
+        },
+        {
+            "level": 36,
+            "move": "MOVE_ROCKBLAST"
+        },
+        {
+            "level": 41,
+            "move": "MOVE_PROTECT"
+        },
+        {
+            "level": 44,
+            "move": "MOVE_XSCISSOR"
+        }
+    ]
+}

@@ -1,0 +1,111 @@
+{
+    "baseHP": 90,
+    "baseAttack": 100,
+    "baseDefense": 70,
+    "baseSpAttack": 110,
+    "baseSpDefense": 150,
+    "baseSpeed": 80,
+    "type1": "TYPE_DRAGON",
+    "type2": "TYPE_DRAGON",
+    "catchRate": 45,
+    "expYield": 255,
+    "evYield_HP": 0,
+    "evYield_Attack": 0,
+    "evYield_Defense": 0,
+    "evYield_SpAttack": 0,
+    "evYield_SpDefense": 3,
+    "evYield_Speed": 0,
+    "item1": "ITEM_NONE",
+    "item2": "ITEM_NONE",
+    "genderRatio": 50.0,
+    "eggCycles": 40,
+    "friendship": 35,
+    "growthRate": "GROWTH_SLOW",
+    "eggGroup1": "EGG_GROUP_DRAGON",
+    "eggGroup2": "EGG_GROUP_DRAGON",
+    "ability1": "ABILITY_SAPSIPPER",
+    "ability2": "ABILITY_HYDRATION",
+    "safariZoneFleeRate": 0,
+    "hiddenAbility": "ABILITY_GOOEY",
+    "noFlip": true,
+    "blurb": "An amazingly friendly Pok\u00e9mon, but if left to itself, loneliness overcomes it, and it oozes gooey tears.",
+    "name": "Goodra",
+    "learnset": [
+        {
+            "level": 0,
+            "move": "MOVE_AQUATAIL"
+        },
+        {
+            "level": 1,
+            "move": "MOVE_POISONTAIL"
+        },
+        {
+            "level": 1,
+            "move": "MOVE_TEARFULLOOK"
+        },
+        {
+            "level": 1,
+            "move": "MOVE_FEINT"
+        },
+        {
+            "level": 1,
+            "move": "MOVE_BIDE"
+        },
+        {
+            "level": 1,
+            "move": "MOVE_ABSORB"
+        },
+        {
+            "level": 1,
+            "move": "MOVE_TACKLE"
+        },
+        {
+            "level": 1,
+            "move": "MOVE_BUBBLE"
+        },
+        {
+            "level": 10,
+            "move": "MOVE_ACIDSPRAY"
+        },
+        {
+            "level": 15,
+            "move": "MOVE_PROTECT"
+        },
+        {
+            "level": 19,
+            "move": "MOVE_DRAGONBREATH"
+        },
+        {
+            "level": 24,
+            "move": "MOVE_WATERPULSE"
+        },
+        {
+            "level": 29,
+            "move": "MOVE_RAINDANCE"
+        },
+        {
+            "level": 33,
+            "move": "MOVE_BODYSLAM"
+        },
+        {
+            "level": 38,
+            "move": "MOVE_DRAGONPULSE"
+        },
+        {
+            "level": 45,
+            "move": "MOVE_MUDDYWATER"
+        },
+        {
+            "level": 49,
+            "move": "MOVE_AQUATAIL"
+        },
+        {
+            "level": 54,
+            "move": "MOVE_OUTRAGE"
+        },
+        {
+            "level": 61,
+            "move": "MOVE_POWERWHIP"
+        }
+    ]
+}

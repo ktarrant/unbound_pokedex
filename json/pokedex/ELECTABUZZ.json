@@ -1,0 +1,98 @@
+{
+    "baseHP": 65,
+    "baseAttack": 83,
+    "baseDefense": 57,
+    "baseSpAttack": 95,
+    "baseSpDefense": 85,
+    "baseSpeed": 105,
+    "type1": "TYPE_ELECTRIC",
+    "type2": "TYPE_ELECTRIC",
+    "catchRate": 45,
+    "expYield": 156,
+    "evYield_HP": 0,
+    "evYield_Attack": 0,
+    "evYield_Defense": 0,
+    "evYield_SpAttack": 0,
+    "evYield_SpDefense": 0,
+    "evYield_Speed": 2,
+    "item1": "ITEM_NONE",
+    "item2": "ITEM_ELECTIRIZER",
+    "genderRatio": 25.0,
+    "eggCycles": 25,
+    "friendship": 50,
+    "growthRate": "GROWTH_MEDIUM_FAST",
+    "eggGroup1": "EGG_GROUP_HUMAN_LIKE",
+    "eggGroup2": "EGG_GROUP_HUMAN_LIKE",
+    "ability1": "ABILITY_STATIC",
+    "ability2": "ABILITY_NONE",
+    "safariZoneFleeRate": 0,
+    "hiddenAbility": "ABILITY_INSOMNIA",
+    "noFlip": true,
+    "name": "Electabuzz",
+    "learnset": [
+        {
+            "level": 1,
+            "move": "MOVE_QUICKATTACK"
+        },
+        {
+            "level": 1,
+            "move": "MOVE_LEER"
+        },
+        {
+            "level": 1,
+            "move": "MOVE_THUNDERSHOCK"
+        },
+        {
+            "level": 1,
+            "move": "MOVE_CHARGE"
+        },
+        {
+            "level": 11,
+            "move": "MOVE_SWIFT"
+        },
+        {
+            "level": 15,
+            "move": "MOVE_SHOCKWAVE"
+        },
+        {
+            "level": 19,
+            "move": "MOVE_THUNDERWAVE"
+        },
+        {
+            "level": 22,
+            "move": "MOVE_SCREECH"
+        },
+        {
+            "level": 25,
+            "move": "MOVE_THUNDERPUNCH"
+        },
+        {
+            "level": 29,
+            "move": "MOVE_ELECTROBALL"
+        },
+        {
+            "level": 35,
+            "move": "MOVE_DISCHARGE"
+        },
+        {
+            "level": 41,
+            "move": "MOVE_LOWKICK"
+        },
+        {
+            "level": 47,
+            "move": "MOVE_THUNDERBOLT"
+        },
+        {
+            "level": 53,
+            "move": "MOVE_LIGHTSCREEN"
+        },
+        {
+            "level": 58,
+            "move": "MOVE_THUNDER"
+        },
+        {
+            "level": 64,
+            "move": "MOVE_GIGAIMPACT"
+        }
+    ]
+}

@@ -1,0 +1,107 @@
+{
+    "baseHP": 95,
+    "baseAttack": 95,
+    "baseDefense": 95,
+    "baseSpAttack": 95,
+    "baseSpDefense": 95,
+    "baseSpeed": 59,
+    "type1": "TYPE_NORMAL",
+    "type2": "TYPE_NORMAL",
+    "catchRate": 3,
+    "expYield": 107,
+    "evYield_HP": 2,
+    "evYield_Attack": 0,
+    "evYield_Defense": 0,
+    "evYield_SpAttack": 0,
+    "evYield_SpDefense": 0,
+    "evYield_Speed": 0,
+    "item1": "ITEM_NONE",
+    "item2": "ITEM_NONE",
+    "genderRatio": "MON_GENDERLESS",
+    "eggCycles": 120,
+    "friendship": 0,
+    "growthRate": "GROWTH_SLOW",
+    "eggGroup1": "EGG_GROUP_UNDISCOVERED",
+    "eggGroup2": "EGG_GROUP_UNDISCOVERED",
+    "ability1": "ABILITY_BATTLEARMOR",
+    "ability2": "ABILITY_NONE",
+    "safariZoneFleeRate": 0,
+    "hiddenAbility": "ABILITY_NONE",
+    "noFlip": true,
+    "blurb": "There's danger of its going on a rampage, so its true power is sealed away beneath its control mask.",
+    "name": "Type: Null",
+    "learnset": [
+        {
+            "level": 1,
+            "move": "MOVE_RAGE"
+        },
+        {
+            "level": 1,
+            "move": "MOVE_TACKLE"
+        },
+        {
+            "level": 1,
+            "move": "MOVE_IMPRISON"
+        },
+        {
+            "level": 5,
+            "move": "MOVE_AERIALACE"
+        },
+        {
+            "level": 10,
+            "move": "MOVE_SCARYFACE"
+        },
+        {
+            "level": 10,
+            "move": "MOVE_PURSUIT"
+        },
+        {
+            "level": 15,
+            "move": "MOVE_DOUBLEHIT"
+        },
+        {
+            "level": 20,
+            "move": "MOVE_METALSOUND"
+        },
+        {
+            "level": 25,
+            "move": "MOVE_CRUSHCLAW"
+        },
+        {
+            "level": 30,
+            "move": "MOVE_AIRSLASH"
+        },
+        {
+            "level": 30,
+            "move": "MOVE_RAZORWIND"
+        },
+        {
+            "level": 35,
+            "move": "MOVE_TRIATTACK"
+        },
+        {
+            "level": 40,
+            "move": "MOVE_XSCISSOR"
+        },
+        {
+            "level": 45,
+            "move": "MOVE_PUNISHMENT"
+        },
+        {
+            "level": 50,
+            "move": "MOVE_TAKEDOWN"
+        },
+        {
+            "level": 55,
+            "move": "MOVE_IRONHEAD"
+        },
+        {
+            "level": 60,
+            "move": "MOVE_DOUBLEEDGE"
+        },
+        {
+            "level": 65,
+            "move": "MOVE_HEALBLOCK"
+        }
+    ]
+}

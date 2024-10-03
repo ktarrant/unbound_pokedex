@@ -1,0 +1,114 @@
+{
+    "baseHP": 81,
+    "baseAttack": 102,
+    "baseDefense": 77,
+    "baseSpAttack": 85,
+    "baseSpDefense": 75,
+    "baseSpeed": 85,
+    "type1": "TYPE_POISON",
+    "type2": "TYPE_GROUND",
+    "catchRate": 45,
+    "expYield": 195,
+    "evYield_HP": 0,
+    "evYield_Attack": 3,
+    "evYield_Defense": 0,
+    "evYield_SpAttack": 0,
+    "evYield_SpDefense": 0,
+    "evYield_Speed": 0,
+    "item1": "ITEM_NONE",
+    "item2": "ITEM_NONE",
+    "genderRatio": 0.0,
+    "eggCycles": 20,
+    "friendship": 50,
+    "growthRate": "GROWTH_MEDIUM_SLOW",
+    "eggGroup1": "EGG_GROUP_MONSTER",
+    "eggGroup2": "EGG_GROUP_FIELD",
+    "ability1": "ABILITY_POISONPOINT",
+    "ability2": "ABILITY_RIVALRY",
+    "safariZoneFleeRate": 0,
+    "hiddenAbility": "ABILITY_SHEERFORCE",
+    "noFlip": true,
+    "name": "Nidoking",
+    "learnset": [
+        {
+            "level": 0,
+            "move": "MOVE_CHIPAWAY"
+        },
+        {
+            "level": 1,
+            "move": "MOVE_THRASH"
+        },
+        {
+            "level": 1,
+            "move": "MOVE_LEER"
+        },
+        {
+            "level": 1,
+            "move": "MOVE_POISONSTING"
+        },
+        {
+            "level": 1,
+            "move": "MOVE_PECK"
+        },
+        {
+            "level": 1,
+            "move": "MOVE_FURYATTACK"
+        },
+        {
+            "level": 1,
+            "move": "MOVE_TOXICSPIKES"
+        },
+        {
+            "level": 1,
+            "move": "MOVE_HORNATTACK"
+        },
+        {
+            "level": 1,
+            "move": "MOVE_HELPINGHAND"
+        },
+        {
+            "level": 1,
+            "move": "MOVE_CAPTIVATE"
+        },
+        {
+            "level": 1,
+            "move": "MOVE_TOXIC"
+        },
+        {
+            "level": 1,
+            "move": "MOVE_FLATTER"
+        },
+        {
+            "level": 1,
+            "move": "MOVE_HORNDRILL"
+        },
+        {
+            "level": 1,
+            "move": "MOVE_CHIPAWAY"
+        },
+        {
+            "level": 1,
+            "move": "MOVE_POISONTAIL"
+        },
+        {
+            "level": 1,
+            "move": "MOVE_DOUBLEKICK"
+        },
+        {
+            "level": 1,
+            "move": "MOVE_FOCUSENERGY"
+        },
+        {
+            "level": 48,
+            "move": "MOVE_MEGAHORN"
+        },
+        {
+            "level": 52,
+            "move": "MOVE_POISONJAB"
+        },
+        {
+            "level": 57,
+            "move": "MOVE_EARTHPOWER"
+        }
+    ]
+}

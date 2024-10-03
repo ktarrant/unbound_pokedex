@@ -1,0 +1,103 @@
+{
+    "baseHP": 48,
+    "baseAttack": 101,
+    "baseDefense": 95,
+    "baseSpAttack": 91,
+    "baseSpDefense": 85,
+    "baseSpeed": 15,
+    "type1": "TYPE_ELECTRIC",
+    "type2": "TYPE_ELECTRIC",
+    "catchRate": 75,
+    "expYield": 152,
+    "evYield_HP": 0,
+    "evYield_Attack": 2,
+    "evYield_Defense": 0,
+    "evYield_SpAttack": 0,
+    "evYield_SpDefense": 0,
+    "evYield_Speed": 0,
+    "item1": "ITEM_NONE",
+    "item2": "ITEM_NONE",
+    "genderRatio": 50.0,
+    "eggCycles": 20,
+    "friendship": 50,
+    "growthRate": "GROWTH_MEDIUM_FAST",
+    "eggGroup1": "EGG_GROUP_WATER_1",
+    "eggGroup2": "EGG_GROUP_AMORPHOUS",
+    "ability1": "ABILITY_LIGHTNINGROD",
+    "ability2": "ABILITY_NONE",
+    "safariZoneFleeRate": 0,
+    "hiddenAbility": "ABILITY_ELECTRICSURGE",
+    "noFlip": true,
+    "egg_moves": [
+        "MOVE_MEMENTO",
+        "MOVE_SUCKERPUNCH"
+    ],
+    "blurb": "It feeds on seaweed, using its teeth to scrape it off rocks. Electric current flows from the tips of its spines.",
+    "name": "Pincurchin",
+    "learnset": [
+        {
+            "level": 1,
+            "move": "MOVE_PECK"
+        },
+        {
+            "level": 1,
+            "move": "MOVE_THUNDERSHOCK"
+        },
+        {
+            "level": 5,
+            "move": "MOVE_WATERGUN"
+        },
+        {
+            "level": 10,
+            "move": "MOVE_CHARGE"
+        },
+        {
+            "level": 14,
+            "move": "MOVE_FURYATTACK"
+        },
+        {
+            "level": 19,
+            "move": "MOVE_SPARK"
+        },
+        {
+            "level": 24,
+            "move": "MOVE_BUBBLEBEAM"
+        },
+        {
+            "level": 29,
+            "move": "MOVE_RECOVER"
+        },
+        {
+            "level": 33,
+            "move": "MOVE_CURSE"
+        },
+        {
+            "level": 37,
+            "move": "MOVE_SCALD"
+        },
+        {
+            "level": 42,
+            "move": "MOVE_DISCHARGE"
+        },
+        {
+            "level": 47,
+            "move": "MOVE_ELECTRICTERRAIN"
+        },
+        {
+            "level": 51,
+            "move": "MOVE_BARBBARRAGE"
+        },
+        {
+            "level": 56,
+            "move": "MOVE_LIQUIDATION"
+        },
+        {
+            "level": 61,
+            "move": "MOVE_ZINGZAP"
+        },
+        {
+            "level": 65,
+            "move": "MOVE_ACUPRESSURE"
+        }
+    ]
+}

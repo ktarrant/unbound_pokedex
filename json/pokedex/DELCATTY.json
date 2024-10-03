@@ -1,0 +1,110 @@
+{
+    "baseHP": 70,
+    "baseAttack": 65,
+    "baseDefense": 65,
+    "baseSpAttack": 55,
+    "baseSpDefense": 55,
+    "baseSpeed": 90,
+    "type1": "TYPE_NORMAL",
+    "type2": "TYPE_NORMAL",
+    "catchRate": 60,
+    "expYield": 138,
+    "evYield_HP": 1,
+    "evYield_Attack": 0,
+    "evYield_Defense": 0,
+    "evYield_SpAttack": 0,
+    "evYield_SpDefense": 0,
+    "evYield_Speed": 1,
+    "item1": "ITEM_PECHA_BERRY",
+    "item2": "ITEM_LEPPA_BERRY",
+    "genderRatio": 75.0,
+    "eggCycles": 15,
+    "friendship": 50,
+    "growthRate": "GROWTH_FAST",
+    "eggGroup1": "EGG_GROUP_FIELD",
+    "eggGroup2": "EGG_GROUP_FAIRY",
+    "ability1": "ABILITY_CUTECHARM",
+    "ability2": "ABILITY_NORMALIZE",
+    "safariZoneFleeRate": 0,
+    "hiddenAbility": "ABILITY_WONDERSKIN",
+    "noFlip": true,
+    "name": "Delcatty",
+    "learnset": [
+        {
+            "level": 1,
+            "move": "MOVE_GROWL"
+        },
+        {
+            "level": 1,
+            "move": "MOVE_TAILWHIP"
+        },
+        {
+            "level": 1,
+            "move": "MOVE_TACKLE"
+        },
+        {
+            "level": 1,
+            "move": "MOVE_FORESIGHT"
+        },
+        {
+            "level": 1,
+            "move": "MOVE_DISARMINGVOICE"
+        },
+        {
+            "level": 1,
+            "move": "MOVE_COPYCAT"
+        },
+        {
+            "level": 1,
+            "move": "MOVE_FEINTATTACK"
+        },
+        {
+            "level": 1,
+            "move": "MOVE_CHARM"
+        },
+        {
+            "level": 1,
+            "move": "MOVE_WAKEUPSLAP"
+        },
+        {
+            "level": 1,
+            "move": "MOVE_ASSIST"
+        },
+        {
+            "level": 1,
+            "move": "MOVE_COVET"
+        },
+        {
+            "level": 1,
+            "move": "MOVE_HEALBELL"
+        },
+        {
+            "level": 1,
+            "move": "MOVE_CAPTIVATE"
+        },
+        {
+            "level": 1,
+            "move": "MOVE_DOUBLESLAP"
+        },
+        {
+            "level": 1,
+            "move": "MOVE_ATTRACT"
+        },
+        {
+            "level": 1,
+            "move": "MOVE_FAKEOUT"
+        },
+        {
+            "level": 1,
+            "move": "MOVE_SING"
+        },
+        {
+            "level": 40,
+            "move": "MOVE_DOUBLEEDGE"
+        },
+        {
+            "level": 46,
+            "move": "MOVE_PLAYROUGH"
+        }
+    ]
+}

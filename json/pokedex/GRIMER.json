@@ -1,0 +1,113 @@
+{
+    "baseHP": 80,
+    "baseAttack": 80,
+    "baseDefense": 50,
+    "baseSpAttack": 40,
+    "baseSpDefense": 50,
+    "baseSpeed": 25,
+    "type1": "TYPE_POISON",
+    "type2": "TYPE_POISON",
+    "catchRate": 190,
+    "expYield": 90,
+    "evYield_HP": 1,
+    "evYield_Attack": 0,
+    "evYield_Defense": 0,
+    "evYield_SpAttack": 0,
+    "evYield_SpDefense": 0,
+    "evYield_Speed": 0,
+    "item1": "ITEM_NONE",
+    "item2": "ITEM_BLACK_SLUDGE",
+    "genderRatio": 50.0,
+    "eggCycles": 20,
+    "friendship": 50,
+    "growthRate": "GROWTH_MEDIUM_FAST",
+    "eggGroup1": "EGG_GROUP_AMORPHOUS",
+    "eggGroup2": "EGG_GROUP_AMORPHOUS",
+    "ability1": "ABILITY_GOOEY",
+    "ability2": "ABILITY_STICKYHOLD",
+    "safariZoneFleeRate": 0,
+    "hiddenAbility": "ABILITY_POISONTOUCH",
+    "noFlip": true,
+    "egg_moves": [
+        "MOVE_HAZE",
+        "MOVE_MEANLOOK",
+        "MOVE_LICK",
+        "MOVE_IMPRISON",
+        "MOVE_CURSE",
+        "MOVE_SHADOWPUNCH",
+        "MOVE_SHADOWSNEAK",
+        "MOVE_STOCKPILE",
+        "MOVE_SWALLOW",
+        "MOVE_SPITUP",
+        "MOVE_SCARYFACE",
+        "MOVE_ACIDSPRAY",
+        "MOVE_POWERUPPUNCH"
+    ],
+    "name": "Grimer",
+    "learnset": [
+        {
+            "level": 1,
+            "move": "MOVE_POUND"
+        },
+        {
+            "level": 1,
+            "move": "MOVE_POISONGAS"
+        },
+        {
+            "level": 4,
+            "move": "MOVE_HARDEN"
+        },
+        {
+            "level": 7,
+            "move": "MOVE_MUDSLAP"
+        },
+        {
+            "level": 12,
+            "move": "MOVE_DISABLE"
+        },
+        {
+            "level": 15,
+            "move": "MOVE_SLUDGE"
+        },
+        {
+            "level": 18,
+            "move": "MOVE_MUDBOMB"
+        },
+        {
+            "level": 21,
+            "move": "MOVE_MINIMIZE"
+        },
+        {
+            "level": 26,
+            "move": "MOVE_SLUDGEWAVE"
+        },
+        {
+            "level": 29,
+            "move": "MOVE_FLING"
+        },
+        {
+            "level": 32,
+            "move": "MOVE_POISONJAB"
+        },
+        {
+            "level": 37,
+            "move": "MOVE_SCREECH"
+        },
+        {
+            "level": 40,
+            "move": "MOVE_GUNKSHOT"
+        },
+        {
+            "level": 43,
+            "move": "MOVE_ACIDARMOR"
+        },
+        {
+            "level": 46,
+            "move": "MOVE_BELCH"
+        },
+        {
+            "level": 48,
+            "move": "MOVE_MEMENTO"
+        }
+    ]
+}

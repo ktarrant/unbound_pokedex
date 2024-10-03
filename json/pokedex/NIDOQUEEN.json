@@ -1,0 +1,114 @@
+{
+    "baseHP": 90,
+    "baseAttack": 92,
+    "baseDefense": 87,
+    "baseSpAttack": 75,
+    "baseSpDefense": 85,
+    "baseSpeed": 76,
+    "type1": "TYPE_POISON",
+    "type2": "TYPE_GROUND",
+    "catchRate": 45,
+    "expYield": 194,
+    "evYield_HP": 3,
+    "evYield_Attack": 0,
+    "evYield_Defense": 0,
+    "evYield_SpAttack": 0,
+    "evYield_SpDefense": 0,
+    "evYield_Speed": 0,
+    "item1": "ITEM_NONE",
+    "item2": "ITEM_NONE",
+    "genderRatio": 100.0,
+    "eggCycles": 20,
+    "friendship": 50,
+    "growthRate": "GROWTH_MEDIUM_SLOW",
+    "eggGroup1": "EGG_GROUP_UNDISCOVERED",
+    "eggGroup2": "EGG_GROUP_UNDISCOVERED",
+    "ability1": "ABILITY_POISONPOINT",
+    "ability2": "ABILITY_DAZZLING",
+    "safariZoneFleeRate": 0,
+    "hiddenAbility": "ABILITY_SHEERFORCE",
+    "noFlip": true,
+    "name": "Nidoqueen",
+    "learnset": [
+        {
+            "level": 0,
+            "move": "MOVE_CHIPAWAY"
+        },
+        {
+            "level": 1,
+            "move": "MOVE_BODYSLAM"
+        },
+        {
+            "level": 1,
+            "move": "MOVE_GROWL"
+        },
+        {
+            "level": 1,
+            "move": "MOVE_POISONSTING"
+        },
+        {
+            "level": 1,
+            "move": "MOVE_SCRATCH"
+        },
+        {
+            "level": 1,
+            "move": "MOVE_TAILWHIP"
+        },
+        {
+            "level": 1,
+            "move": "MOVE_FURYSWIPES"
+        },
+        {
+            "level": 1,
+            "move": "MOVE_TOXICSPIKES"
+        },
+        {
+            "level": 1,
+            "move": "MOVE_BITE"
+        },
+        {
+            "level": 1,
+            "move": "MOVE_HELPINGHAND"
+        },
+        {
+            "level": 1,
+            "move": "MOVE_TOXIC"
+        },
+        {
+            "level": 1,
+            "move": "MOVE_FLATTER"
+        },
+        {
+            "level": 1,
+            "move": "MOVE_CRUNCH"
+        },
+        {
+            "level": 1,
+            "move": "MOVE_POISONFANG"
+        },
+        {
+            "level": 1,
+            "move": "MOVE_DOUBLEKICK"
+        },
+        {
+            "level": 1,
+            "move": "MOVE_CHIPAWAY"
+        },
+        {
+            "level": 1,
+            "move": "MOVE_CAPTIVATE"
+        },
+        {
+            "level": 48,
+            "move": "MOVE_SHELLSIDEARM"
+        },
+        {
+            "level": 52,
+            "move": "MOVE_SUPERPOWER"
+        },
+        {
+            "level": 57,
+            "move": "MOVE_EARTHPOWER"
+        }
+    ]
+}

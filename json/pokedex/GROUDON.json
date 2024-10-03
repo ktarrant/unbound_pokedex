@@ -1,0 +1,90 @@
+{
+    "baseHP": 100,
+    "baseAttack": 150,
+    "baseDefense": 140,
+    "baseSpAttack": 100,
+    "baseSpDefense": 90,
+    "baseSpeed": 90,
+    "type1": "TYPE_GROUND",
+    "type2": "TYPE_GROUND",
+    "catchRate": 3,
+    "expYield": 218,
+    "evYield_HP": 0,
+    "evYield_Attack": 3,
+    "evYield_Defense": 0,
+    "evYield_SpAttack": 0,
+    "evYield_SpDefense": 0,
+    "evYield_Speed": 0,
+    "item1": "ITEM_NONE",
+    "item2": "ITEM_NONE",
+    "genderRatio": "MON_GENDERLESS",
+    "eggCycles": 120,
+    "friendship": 0,
+    "growthRate": "GROWTH_SLOW",
+    "eggGroup1": "EGG_GROUP_UNDISCOVERED",
+    "eggGroup2": "EGG_GROUP_UNDISCOVERED",
+    "ability1": "ABILITY_DROUGHT",
+    "ability2": "ABILITY_NONE",
+    "safariZoneFleeRate": 0,
+    "hiddenAbility": "ABILITY_HEATPROOF",
+    "noFlip": true,
+    "name": "Groudon",
+    "learnset": [
+        {
+            "level": 1,
+            "move": "MOVE_MUDSHOT"
+        },
+        {
+            "level": 1,
+            "move": "MOVE_ANCIENTPOWER"
+        },
+        {
+            "level": 1,
+            "move": "MOVE_LAVAPLUME"
+        },
+        {
+            "level": 1,
+            "move": "MOVE_SCARYFACE"
+        },
+        {
+            "level": 9,
+            "move": "MOVE_EARTHPOWER"
+        },
+        {
+            "level": 18,
+            "move": "MOVE_BULKUP"
+        },
+        {
+            "level": 27,
+            "move": "MOVE_EARTHQUAKE"
+        },
+        {
+            "level": 36,
+            "move": "MOVE_HAMMERARM"
+        },
+        {
+            "level": 45,
+            "move": "MOVE_FISSURE"
+        },
+        {
+            "level": 54,
+            "move": "MOVE_REST"
+        },
+        {
+            "level": 63,
+            "move": "MOVE_PRECIPICEBLADES"
+        },
+        {
+            "level": 72,
+            "move": "MOVE_FIREBLAST"
+        },
+        {
+            "level": 81,
+            "move": "MOVE_SOLARBEAM"
+        },
+        {
+            "level": 90,
+            "move": "MOVE_ERUPTION"
+        }
+    ]
+}

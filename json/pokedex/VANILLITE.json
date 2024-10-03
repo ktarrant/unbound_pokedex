@@ -1,0 +1,112 @@
+{
+    "baseHP": 36,
+    "baseAttack": 50,
+    "baseDefense": 50,
+    "baseSpAttack": 65,
+    "baseSpDefense": 60,
+    "baseSpeed": 44,
+    "type1": "TYPE_ICE",
+    "type2": "TYPE_ICE",
+    "catchRate": 255,
+    "expYield": 61,
+    "evYield_HP": 0,
+    "evYield_Attack": 0,
+    "evYield_Defense": 0,
+    "evYield_SpAttack": 1,
+    "evYield_SpDefense": 0,
+    "evYield_Speed": 0,
+    "item1": "ITEM_NONE",
+    "item2": "ITEM_NEVER_MELT_ICE",
+    "genderRatio": 50.0,
+    "eggCycles": 20,
+    "friendship": 50,
+    "growthRate": "GROWTH_SLOW",
+    "eggGroup1": "EGG_GROUP_MINERAL",
+    "eggGroup2": "EGG_GROUP_MINERAL",
+    "ability1": "ABILITY_ICEBODY",
+    "ability2": "ABILITY_SNOWCLOAK",
+    "safariZoneFleeRate": 0,
+    "hiddenAbility": "ABILITY_WEAKARMOR",
+    "noFlip": true,
+    "egg_moves": [
+        "MOVE_WATERPULSE",
+        "MOVE_NATURALGIFT",
+        "MOVE_IMPRISON",
+        "MOVE_AUTOTOMIZE",
+        "MOVE_IRONDEFENSE",
+        "MOVE_MAGNETRISE",
+        "MOVE_ICESHARD",
+        "MOVE_POWDERSNOW",
+        "MOVE_EXPLOSION",
+        "MOVE_AURORAVEIL",
+        "MOVE_ICICLECRASH"
+    ],
+    "blurb": "It feels pleasantly cool when embraced. This Pok\u00e9mon is treasured by households in warm regions.",
+    "name": "Vanillite",
+    "learnset": [
+        {
+            "level": 1,
+            "move": "MOVE_ASTONISH"
+        },
+        {
+            "level": 1,
+            "move": "MOVE_HARDEN"
+        },
+        {
+            "level": 4,
+            "move": "MOVE_TAUNT"
+        },
+        {
+            "level": 8,
+            "move": "MOVE_MIST"
+        },
+        {
+            "level": 12,
+            "move": "MOVE_ICYWIND"
+        },
+        {
+            "level": 16,
+            "move": "MOVE_AVALANCHE"
+        },
+        {
+            "level": 20,
+            "move": "MOVE_HAIL"
+        },
+        {
+            "level": 24,
+            "move": "MOVE_ICICLESPEAR"
+        },
+        {
+            "level": 26,
+            "move": "MOVE_MIRRORSHOT"
+        },
+        {
+            "level": 28,
+            "move": "MOVE_UPROAR"
+        },
+        {
+            "level": 32,
+            "move": "MOVE_ACIDARMOR"
+        },
+        {
+            "level": 36,
+            "move": "MOVE_ICEBEAM"
+        },
+        {
+            "level": 40,
+            "move": "MOVE_MIRRORCOAT"
+        },
+        {
+            "level": 44,
+            "move": "MOVE_FLASHCANNON"
+        },
+        {
+            "level": 48,
+            "move": "MOVE_BLIZZARD"
+        },
+        {
+            "level": 52,
+            "move": "MOVE_SHEERCOLD"
+        }
+    ]
+}

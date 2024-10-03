@@ -1,0 +1,96 @@
+{
+    "baseHP": 67,
+    "baseAttack": 125,
+    "baseDefense": 40,
+    "baseSpAttack": 30,
+    "baseSpDefense": 30,
+    "baseSpeed": 58,
+    "type1": "TYPE_ROCK",
+    "type2": "TYPE_ROCK",
+    "catchRate": 45,
+    "expYield": 99,
+    "evYield_HP": 0,
+    "evYield_Attack": 1,
+    "evYield_Defense": 0,
+    "evYield_SpAttack": 0,
+    "evYield_SpDefense": 0,
+    "evYield_Speed": 0,
+    "item1": "ITEM_NONE",
+    "item2": "ITEM_NONE",
+    "genderRatio": 12.5,
+    "eggCycles": 30,
+    "friendship": 50,
+    "growthRate": "GROWTH_ERRATIC",
+    "eggGroup1": "EGG_GROUP_MONSTER",
+    "eggGroup2": "EGG_GROUP_MONSTER",
+    "ability1": "ABILITY_MOLDBREAKER",
+    "ability2": "ABILITY_RECKLESS",
+    "safariZoneFleeRate": 0,
+    "hiddenAbility": "ABILITY_SHEERFORCE",
+    "noFlip": true,
+    "egg_moves": [
+        "MOVE_BITE",
+        "MOVE_CRUNCH",
+        "MOVE_THRASH",
+        "MOVE_DOUBLEEDGE",
+        "MOVE_SLAM",
+        "MOVE_STOMP",
+        "MOVE_WHIRLWIND",
+        "MOVE_HAMMERARM",
+        "MOVE_CURSE",
+        "MOVE_IRONTAIL",
+        "MOVE_IRONHEAD"
+    ],
+    "blurb": "It lived in jungles around 100 million years ago. Its skull is as hard as iron.",
+    "name": "Cranidos",
+    "learnset": [
+        {
+            "level": 1,
+            "move": "MOVE_HEADBUTT"
+        },
+        {
+            "level": 1,
+            "move": "MOVE_LEER"
+        },
+        {
+            "level": 6,
+            "move": "MOVE_FOCUSENERGY"
+        },
+        {
+            "level": 10,
+            "move": "MOVE_PURSUIT"
+        },
+        {
+            "level": 15,
+            "move": "MOVE_TAKEDOWN"
+        },
+        {
+            "level": 19,
+            "move": "MOVE_SCARYFACE"
+        },
+        {
+            "level": 24,
+            "move": "MOVE_ASSURANCE"
+        },
+        {
+            "level": 28,
+            "move": "MOVE_CHIPAWAY"
+        },
+        {
+            "level": 33,
+            "move": "MOVE_ANCIENTPOWER"
+        },
+        {
+            "level": 37,
+            "move": "MOVE_ZENHEADBUTT"
+        },
+        {
+            "level": 42,
+            "move": "MOVE_SCREECH"
+        },
+        {
+            "level": 46,
+            "move": "MOVE_HEADSMASH"
+        }
+    ]
+}

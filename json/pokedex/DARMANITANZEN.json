@@ -1,0 +1,101 @@
+{
+    "baseHP": 105,
+    "baseAttack": 30,
+    "baseDefense": 105,
+    "baseSpAttack": 140,
+    "baseSpDefense": 105,
+    "baseSpeed": 55,
+    "type1": "TYPE_FIRE",
+    "type2": "TYPE_PSYCHIC",
+    "catchRate": 60,
+    "expYield": 168,
+    "evYield_HP": 0,
+    "evYield_Attack": 0,
+    "evYield_Defense": 0,
+    "evYield_SpAttack": 2,
+    "evYield_SpDefense": 0,
+    "evYield_Speed": 0,
+    "item1": "ITEM_NONE",
+    "item2": "ITEM_NONE",
+    "genderRatio": 50.0,
+    "eggCycles": 20,
+    "friendship": 50,
+    "growthRate": "GROWTH_MEDIUM_SLOW",
+    "eggGroup1": "EGG_GROUP_FIELD",
+    "eggGroup2": "EGG_GROUP_FIELD",
+    "ability1": "ABILITY_ZENMODE",
+    "ability2": "ABILITY_NONE",
+    "safariZoneFleeRate": 0,
+    "hiddenAbility": "ABILITY_ZENMODE",
+    "noFlip": true,
+    "learnset": [
+        {
+            "level": 0,
+            "move": "MOVE_HAMMERARM"
+        },
+        {
+            "level": 1,
+            "move": "MOVE_EMBER"
+        },
+        {
+            "level": 1,
+            "move": "MOVE_TACKLE"
+        },
+        {
+            "level": 1,
+            "move": "MOVE_TAUNT"
+        },
+        {
+            "level": 1,
+            "move": "MOVE_BITE"
+        },
+        {
+            "level": 12,
+            "move": "MOVE_INCINERATE"
+        },
+        {
+            "level": 16,
+            "move": "MOVE_WORKUP"
+        },
+        {
+            "level": 20,
+            "move": "MOVE_FIREFANG"
+        },
+        {
+            "level": 24,
+            "move": "MOVE_HEADBUTT"
+        },
+        {
+            "level": 28,
+            "move": "MOVE_FACADE"
+        },
+        {
+            "level": 32,
+            "move": "MOVE_FIREPUNCH"
+        },
+        {
+            "level": 34,
+            "move": "MOVE_HAMMERARM"
+        },
+        {
+            "level": 38,
+            "move": "MOVE_UPROAR"
+        },
+        {
+            "level": 44,
+            "move": "MOVE_BELLYDRUM"
+        },
+        {
+            "level": 50,
+            "move": "MOVE_FLAREBLITZ"
+        },
+        {
+            "level": 56,
+            "move": "MOVE_THRASH"
+        },
+        {
+            "level": 62,
+            "move": "MOVE_SUPERPOWER"
+        }
+    ]
+}

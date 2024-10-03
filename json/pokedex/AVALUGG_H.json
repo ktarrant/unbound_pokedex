@@ -1,0 +1,135 @@
+{
+    "baseHP": 95,
+    "baseAttack": 127,
+    "baseDefense": 184,
+    "baseSpAttack": 34,
+    "baseSpDefense": 36,
+    "baseSpeed": 38,
+    "type1": "TYPE_ICE",
+    "type2": "TYPE_ROCK",
+    "catchRate": 55,
+    "expYield": 180,
+    "evYield_HP": 0,
+    "evYield_Attack": 0,
+    "evYield_Defense": 2,
+    "evYield_SpAttack": 0,
+    "evYield_SpDefense": 0,
+    "evYield_Speed": 0,
+    "item1": "ITEM_NONE",
+    "item2": "ITEM_NONE",
+    "genderRatio": 50.0,
+    "eggCycles": 20,
+    "friendship": 50,
+    "growthRate": "GROWTH_MEDIUM_FAST",
+    "eggGroup1": "EGG_GROUP_MONSTER",
+    "eggGroup2": "EGG_GROUP_MINERAL",
+    "ability1": "ABILITY_STRONGJAW",
+    "ability2": "ABILITY_ICEBODY",
+    "safariZoneFleeRate": 0,
+    "hiddenAbility": "ABILITY_STURDY",
+    "noFlip": true,
+    "blurb": "The armor of ice covering its lower jaw puts steel to shame and can shatter rocks with ease.",
+    "name": "Avalugg",
+    "learnset": [
+        {
+            "level": 0,
+            "move": "MOVE_ROCKSLIDE"
+        },
+        {
+            "level": 1,
+            "move": "MOVE_WIDEGUARD"
+        },
+        {
+            "level": 1,
+            "move": "MOVE_SKULLBASH"
+        },
+        {
+            "level": 1,
+            "move": "MOVE_BODYSLAM"
+        },
+        {
+            "level": 1,
+            "move": "MOVE_RAPIDSPIN"
+        },
+        {
+            "level": 1,
+            "move": "MOVE_HARDEN"
+        },
+        {
+            "level": 1,
+            "move": "MOVE_TACKLE"
+        },
+        {
+            "level": 1,
+            "move": "MOVE_POWDERSNOW"
+        },
+        {
+            "level": 1,
+            "move": "MOVE_SHARPEN"
+        },
+        {
+            "level": 12,
+            "move": "MOVE_ICYWIND"
+        },
+        {
+            "level": 16,
+            "move": "MOVE_PROTECT"
+        },
+        {
+            "level": 19,
+            "move": "MOVE_ICEFANG"
+        },
+        {
+            "level": 23,
+            "move": "MOVE_BITE"
+        },
+        {
+            "level": 27,
+            "move": "MOVE_ICEBALL"
+        },
+        {
+            "level": 31,
+            "move": "MOVE_TAKEDOWN"
+        },
+        {
+            "level": 35,
+            "move": "MOVE_BLIZZARD"
+        },
+        {
+            "level": 36,
+            "move": "MOVE_ROCKSLIDE"
+        },
+        {
+            "level": 41,
+            "move": "MOVE_CRUNCH"
+        },
+        {
+            "level": 46,
+            "move": "MOVE_DOUBLEEDGE"
+        },
+        {
+            "level": 51,
+            "move": "MOVE_AVALANCHE"
+        },
+        {
+            "level": 56,
+            "move": "MOVE_CURSE"
+        },
+        {
+            "level": 60,
+            "move": "MOVE_IRONDEFENSE"
+        },
+        {
+            "level": 64,
+            "move": "MOVE_RECOVER"
+        },
+        {
+            "level": 68,
+            "move": "MOVE_MOUNTAINGALE"
+        },
+        {
+            "level": 72,
+            "move": "MOVE_STONEEDGE"
+        }
+    ]
+}

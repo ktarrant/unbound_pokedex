@@ -1,0 +1,123 @@
+{
+    "baseHP": 103,
+    "baseAttack": 93,
+    "baseDefense": 67,
+    "baseSpAttack": 71,
+    "baseSpDefense": 61,
+    "baseSpeed": 84,
+    "type1": "TYPE_POISON",
+    "type2": "TYPE_DARK",
+    "catchRate": 60,
+    "expYield": 209,
+    "evYield_HP": 2,
+    "evYield_Attack": 0,
+    "evYield_Defense": 0,
+    "evYield_SpAttack": 0,
+    "evYield_SpDefense": 0,
+    "evYield_Speed": 0,
+    "item1": "ITEM_NONE",
+    "item2": "ITEM_PECHA_BERRY",
+    "genderRatio": 50.0,
+    "eggCycles": 20,
+    "friendship": 50,
+    "growthRate": "GROWTH_MEDIUM_FAST",
+    "eggGroup1": "EGG_GROUP_FIELD",
+    "eggGroup2": "EGG_GROUP_FIELD",
+    "ability1": "ABILITY_STENCH",
+    "ability2": "ABILITY_AFTERMATH",
+    "safariZoneFleeRate": 0,
+    "hiddenAbility": "ABILITY_POISONTOUCH",
+    "noFlip": true,
+    "blurb": "It sprays a vile-smelling fluid from the tip of its tail to attack. Its range is over 160 feet.",
+    "name": "Skuntank",
+    "learnset": [
+        {
+            "level": 0,
+            "move": "MOVE_FLAMETHROWER"
+        },
+        {
+            "level": 1,
+            "move": "MOVE_POISONGAS"
+        },
+        {
+            "level": 1,
+            "move": "MOVE_SCRATCH"
+        },
+        {
+            "level": 1,
+            "move": "MOVE_FEINT"
+        },
+        {
+            "level": 1,
+            "move": "MOVE_SMOKESCREEN"
+        },
+        {
+            "level": 9,
+            "move": "MOVE_ACIDSPRAY"
+        },
+        {
+            "level": 12,
+            "move": "MOVE_FURYSWIPES"
+        },
+        {
+            "level": 15,
+            "move": "MOVE_FOCUSENERGY"
+        },
+        {
+            "level": 18,
+            "move": "MOVE_BITE"
+        },
+        {
+            "level": 21,
+            "move": "MOVE_VENOSHOCK"
+        },
+        {
+            "level": 24,
+            "move": "MOVE_SCREECH"
+        },
+        {
+            "level": 25,
+            "move": "MOVE_SLASH"
+        },
+        {
+            "level": 27,
+            "move": "MOVE_TOXIC"
+        },
+        {
+            "level": 30,
+            "move": "MOVE_SUCKERPUNCH"
+        },
+        {
+            "level": 33,
+            "move": "MOVE_DIRECLAW"
+        },
+        {
+            "level": 33,
+            "move": "MOVE_FLAMETHROWER"
+        },
+        {
+            "level": 38,
+            "move": "MOVE_NIGHTSLASH"
+        },
+        {
+            "level": 43,
+            "move": "MOVE_VENOMDRENCH"
+        },
+        {
+            "level": 48,
+            "move": "MOVE_SLUDGEBOMB"
+        },
+        {
+            "level": 53,
+            "move": "MOVE_BELCH"
+        },
+        {
+            "level": 59,
+            "move": "MOVE_POISONJAB"
+        },
+        {
+            "level": 65,
+            "move": "MOVE_EXPLOSION"
+        }
+    ]
+}

@@ -1,0 +1,109 @@
+{
+    "baseHP": 50,
+    "baseAttack": 30,
+    "baseDefense": 55,
+    "baseSpAttack": 65,
+    "baseSpDefense": 55,
+    "baseSpeed": 20,
+    "type1": "TYPE_GHOST",
+    "type2": "TYPE_FIRE",
+    "catchRate": 190,
+    "expYield": 55,
+    "evYield_HP": 0,
+    "evYield_Attack": 0,
+    "evYield_Defense": 0,
+    "evYield_SpAttack": 1,
+    "evYield_SpDefense": 0,
+    "evYield_Speed": 0,
+    "item1": "ITEM_NONE",
+    "item2": "ITEM_NONE",
+    "genderRatio": 50.0,
+    "eggCycles": 20,
+    "friendship": 50,
+    "growthRate": "GROWTH_MEDIUM_SLOW",
+    "eggGroup1": "EGG_GROUP_AMORPHOUS",
+    "eggGroup2": "EGG_GROUP_AMORPHOUS",
+    "ability1": "ABILITY_FLASHFIRE",
+    "ability2": "ABILITY_FLAMEBODY",
+    "safariZoneFleeRate": 0,
+    "hiddenAbility": "ABILITY_SHADOWTAG",
+    "noFlip": true,
+    "egg_moves": [
+        "MOVE_ACIDARMOR",
+        "MOVE_HEATWAVE",
+        "MOVE_HAZE",
+        "MOVE_ENDURE",
+        "MOVE_CAPTIVATE",
+        "MOVE_ACID",
+        "MOVE_CLEARSMOG",
+        "MOVE_POWERSPLIT"
+    ],
+    "blurb": "Its flame is usually out, but it starts shining when it absorbs life force from people or Pok\u00e9mon.",
+    "name": "Litwick",
+    "learnset": [
+        {
+            "level": 1,
+            "move": "MOVE_ASTONISH"
+        },
+        {
+            "level": 1,
+            "move": "MOVE_SMOG"
+        },
+        {
+            "level": 6,
+            "move": "MOVE_MINIMIZE"
+        },
+        {
+            "level": 9,
+            "move": "MOVE_FIRESPIN"
+        },
+        {
+            "level": 13,
+            "move": "MOVE_CONFUSERAY"
+        },
+        {
+            "level": 16,
+            "move": "MOVE_HEX"
+        },
+        {
+            "level": 20,
+            "move": "MOVE_WILLOWISP"
+        },
+        {
+            "level": 24,
+            "move": "MOVE_FLAMEBURST"
+        },
+        {
+            "level": 28,
+            "move": "MOVE_NIGHTSHADE"
+        },
+        {
+            "level": 32,
+            "move": "MOVE_CURSE"
+        },
+        {
+            "level": 36,
+            "move": "MOVE_SHADOWBALL"
+        },
+        {
+            "level": 40,
+            "move": "MOVE_INFERNO"
+        },
+        {
+            "level": 44,
+            "move": "MOVE_IMPRISON"
+        },
+        {
+            "level": 48,
+            "move": "MOVE_PAINSPLIT"
+        },
+        {
+            "level": 52,
+            "move": "MOVE_OVERHEAT"
+        },
+        {
+            "level": 56,
+            "move": "MOVE_MEMENTO"
+        }
+    ]
+}

@@ -1,0 +1,82 @@
+{
+    "baseHP": 190,
+    "baseAttack": 33,
+    "baseDefense": 58,
+    "baseSpAttack": 33,
+    "baseSpDefense": 58,
+    "baseSpeed": 33,
+    "type1": "TYPE_PSYCHIC",
+    "type2": "TYPE_PSYCHIC",
+    "catchRate": 45,
+    "expYield": 177,
+    "evYield_HP": 2,
+    "evYield_Attack": 0,
+    "evYield_Defense": 0,
+    "evYield_SpAttack": 0,
+    "evYield_SpDefense": 0,
+    "evYield_Speed": 0,
+    "item1": "ITEM_NONE",
+    "item2": "ITEM_NONE",
+    "genderRatio": 50.0,
+    "eggCycles": 20,
+    "friendship": 50,
+    "growthRate": "GROWTH_MEDIUM_FAST",
+    "eggGroup1": "EGG_GROUP_AMORPHOUS",
+    "eggGroup2": "EGG_GROUP_AMORPHOUS",
+    "ability1": "ABILITY_SHADOWTAG",
+    "ability2": "ABILITY_NONE",
+    "safariZoneFleeRate": 0,
+    "hiddenAbility": "ABILITY_TELEPATHY",
+    "noFlip": true,
+    "name": "Wobbuffet",
+    "learnset": [
+        {
+            "level": 0,
+            "move": "MOVE_COUNTER"
+        },
+        {
+            "level": 0,
+            "move": "MOVE_MIRRORCOAT"
+        },
+        {
+            "level": 0,
+            "move": "MOVE_SAFEGUARD"
+        },
+        {
+            "level": 0,
+            "move": "MOVE_DESTINYBOND"
+        },
+        {
+            "level": 1,
+            "move": "MOVE_SPLASH"
+        },
+        {
+            "level": 1,
+            "move": "MOVE_CHARM"
+        },
+        {
+            "level": 1,
+            "move": "MOVE_ENCORE"
+        },
+        {
+            "level": 1,
+            "move": "MOVE_AMNESIA"
+        },
+        {
+            "level": 1,
+            "move": "MOVE_COUNTER"
+        },
+        {
+            "level": 1,
+            "move": "MOVE_MIRRORCOAT"
+        },
+        {
+            "level": 1,
+            "move": "MOVE_SAFEGUARD"
+        },
+        {
+            "level": 1,
+            "move": "MOVE_DESTINYBOND"
+        }
+    ]
+}

@@ -1,0 +1,105 @@
+{
+    "baseHP": 109,
+    "baseAttack": 81,
+    "baseDefense": 99,
+    "baseSpAttack": 66,
+    "baseSpDefense": 84,
+    "baseSpeed": 32,
+    "type1": "TYPE_GROUND",
+    "type2": "TYPE_STEEL",
+    "catchRate": 75,
+    "expYield": 165,
+    "evYield_HP": 2,
+    "evYield_Attack": 0,
+    "evYield_Defense": 0,
+    "evYield_SpAttack": 0,
+    "evYield_SpDefense": 0,
+    "evYield_Speed": 0,
+    "item1": "ITEM_NONE",
+    "item2": "ITEM_NONE",
+    "genderRatio": 50.0,
+    "eggCycles": 20,
+    "friendship": 50,
+    "growthRate": "GROWTH_MEDIUM_FAST",
+    "eggGroup1": "EGG_GROUP_WATER_1",
+    "eggGroup2": "EGG_GROUP_AMORPHOUS",
+    "ability1": "ABILITY_MIMICRY",
+    "ability2": "ABILITY_NONE",
+    "safariZoneFleeRate": 0,
+    "hiddenAbility": "ABILITY_NONE",
+    "noFlip": true,
+    "egg_moves": [
+        "MOVE_BIND",
+        "MOVE_YAWN",
+        "MOVE_ASTONISH",
+        "MOVE_CURSE",
+        "MOVE_SPITE",
+        "MOVE_COUNTER",
+        "MOVE_PAINSPLIT",
+        "MOVE_REFLECTTYPE"
+    ],
+    "blurb": "Its conspicuous lips lure prey in as it lies in wait in the mud. When prey gets close, it will clamp down hard.",
+    "name": "Stunfisk",
+    "learnset": [
+        {
+            "level": 1,
+            "move": "MOVE_METALCLAW"
+        },
+        {
+            "level": 1,
+            "move": "MOVE_MUDSLAP"
+        },
+        {
+            "level": 1,
+            "move": "MOVE_TACKLE"
+        },
+        {
+            "level": 1,
+            "move": "MOVE_WATERGUN"
+        },
+        {
+            "level": 5,
+            "move": "MOVE_ENDURE"
+        },
+        {
+            "level": 10,
+            "move": "MOVE_MUDSHOT"
+        },
+        {
+            "level": 15,
+            "move": "MOVE_REVENGE"
+        },
+        {
+            "level": 20,
+            "move": "MOVE_METALSOUND"
+        },
+        {
+            "level": 25,
+            "move": "MOVE_SUCKERPUNCH"
+        },
+        {
+            "level": 30,
+            "move": "MOVE_IRONDEFENSE"
+        },
+        {
+            "level": 35,
+            "move": "MOVE_BOUNCE"
+        },
+        {
+            "level": 40,
+            "move": "MOVE_MUDDYWATER"
+        },
+        {
+            "level": 45,
+            "move": "MOVE_SNAPTRAP"
+        },
+        {
+            "level": 50,
+            "move": "MOVE_FLAIL"
+        },
+        {
+            "level": 55,
+            "move": "MOVE_FISSURE"
+        }
+    ]
+}

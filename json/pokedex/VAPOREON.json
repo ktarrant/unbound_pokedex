@@ -1,0 +1,138 @@
+{
+    "baseHP": 130,
+    "baseAttack": 65,
+    "baseDefense": 60,
+    "baseSpAttack": 110,
+    "baseSpDefense": 95,
+    "baseSpeed": 65,
+    "type1": "TYPE_WATER",
+    "type2": "TYPE_WATER",
+    "catchRate": 45,
+    "expYield": 196,
+    "evYield_HP": 2,
+    "evYield_Attack": 0,
+    "evYield_Defense": 0,
+    "evYield_SpAttack": 0,
+    "evYield_SpDefense": 0,
+    "evYield_Speed": 0,
+    "item1": "ITEM_NONE",
+    "item2": "ITEM_NONE",
+    "genderRatio": 12.5,
+    "eggCycles": 35,
+    "friendship": 50,
+    "growthRate": "GROWTH_MEDIUM_FAST",
+    "eggGroup1": "EGG_GROUP_FIELD",
+    "eggGroup2": "EGG_GROUP_FIELD",
+    "ability1": "ABILITY_WATERABSORB",
+    "ability2": "ABILITY_WATERABSORB",
+    "safariZoneFleeRate": 0,
+    "hiddenAbility": "ABILITY_HYDRATION",
+    "noFlip": true,
+    "name": "Vaporeon",
+    "learnset": [
+        {
+            "level": 0,
+            "move": "MOVE_WATERGUN"
+        },
+        {
+            "level": 1,
+            "move": "MOVE_COVET"
+        },
+        {
+            "level": 1,
+            "move": "MOVE_SWIFT"
+        },
+        {
+            "level": 1,
+            "move": "MOVE_BITE"
+        },
+        {
+            "level": 1,
+            "move": "MOVE_COPYCAT"
+        },
+        {
+            "level": 1,
+            "move": "MOVE_BATONPASS"
+        },
+        {
+            "level": 1,
+            "move": "MOVE_TAKEDOWN"
+        },
+        {
+            "level": 1,
+            "move": "MOVE_CHARM"
+        },
+        {
+            "level": 1,
+            "move": "MOVE_DOUBLEEDGE"
+        },
+        {
+            "level": 1,
+            "move": "MOVE_TRUMPCARD"
+        },
+        {
+            "level": 1,
+            "move": "MOVE_HELPINGHAND"
+        },
+        {
+            "level": 1,
+            "move": "MOVE_TACKLE"
+        },
+        {
+            "level": 1,
+            "move": "MOVE_GROWL"
+        },
+        {
+            "level": 1,
+            "move": "MOVE_TAILWHIP"
+        },
+        {
+            "level": 1,
+            "move": "MOVE_WATERGUN"
+        },
+        {
+            "level": 5,
+            "move": "MOVE_SANDATTACK"
+        },
+        {
+            "level": 10,
+            "move": "MOVE_QUICKATTACK"
+        },
+        {
+            "level": 15,
+            "move": "MOVE_BABYDOLLEYES"
+        },
+        {
+            "level": 20,
+            "move": "MOVE_HAZE"
+        },
+        {
+            "level": 25,
+            "move": "MOVE_WATERPULSE"
+        },
+        {
+            "level": 30,
+            "move": "MOVE_AURORABEAM"
+        },
+        {
+            "level": 35,
+            "move": "MOVE_AQUARING"
+        },
+        {
+            "level": 40,
+            "move": "MOVE_MUDDYWATER"
+        },
+        {
+            "level": 45,
+            "move": "MOVE_ACIDARMOR"
+        },
+        {
+            "level": 50,
+            "move": "MOVE_HYDROPUMP"
+        },
+        {
+            "level": 55,
+            "move": "MOVE_LASTRESORT"
+        }
+    ]
+}

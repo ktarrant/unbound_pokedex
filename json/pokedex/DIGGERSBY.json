@@ -1,0 +1,119 @@
+{
+    "baseHP": 85,
+    "baseAttack": 56,
+    "baseDefense": 77,
+    "baseSpAttack": 50,
+    "baseSpDefense": 77,
+    "baseSpeed": 78,
+    "type1": "TYPE_NORMAL",
+    "type2": "TYPE_GROUND",
+    "catchRate": 127,
+    "expYield": 148,
+    "evYield_HP": 2,
+    "evYield_Attack": 0,
+    "evYield_Defense": 0,
+    "evYield_SpAttack": 0,
+    "evYield_SpDefense": 0,
+    "evYield_Speed": 0,
+    "item1": "ITEM_NONE",
+    "item2": "ITEM_NONE",
+    "genderRatio": 50.0,
+    "eggCycles": 15,
+    "friendship": 50,
+    "growthRate": "GROWTH_MEDIUM_FAST",
+    "eggGroup1": "EGG_GROUP_FIELD",
+    "eggGroup2": "EGG_GROUP_FIELD",
+    "ability1": "ABILITY_PICKUP",
+    "ability2": "ABILITY_CHEEKPOUCH",
+    "safariZoneFleeRate": 0,
+    "hiddenAbility": "ABILITY_HUGEPOWER",
+    "noFlip": true,
+    "blurb": "As powerful as an excavator, its ears can reduce dense bedrock to rubble.",
+    "name": "Diggersby",
+    "learnset": [
+        {
+            "level": 1,
+            "move": "MOVE_ROTOTILLER"
+        },
+        {
+            "level": 1,
+            "move": "MOVE_FLAIL"
+        },
+        {
+            "level": 1,
+            "move": "MOVE_ODORSLEUTH"
+        },
+        {
+            "level": 1,
+            "move": "MOVE_LEER"
+        },
+        {
+            "level": 1,
+            "move": "MOVE_MUDSLAP"
+        },
+        {
+            "level": 1,
+            "move": "MOVE_TACKLE"
+        },
+        {
+            "level": 1,
+            "move": "MOVE_LASERFOCUS"
+        },
+        {
+            "level": 1,
+            "move": "MOVE_QUICKATTACK"
+        },
+        {
+            "level": 12,
+            "move": "MOVE_MUDSHOT"
+        },
+        {
+            "level": 15,
+            "move": "MOVE_DOUBLESLAP"
+        },
+        {
+            "level": 18,
+            "move": "MOVE_DOUBLEKICK"
+        },
+        {
+            "level": 23,
+            "move": "MOVE_BULLDOZE"
+        },
+        {
+            "level": 27,
+            "move": "MOVE_FACADE"
+        },
+        {
+            "level": 31,
+            "move": "MOVE_DIG"
+        },
+        {
+            "level": 35,
+            "move": "MOVE_BOUNCE"
+        },
+        {
+            "level": 39,
+            "move": "MOVE_AGILITY"
+        },
+        {
+            "level": 43,
+            "move": "MOVE_TAKEDOWN"
+        },
+        {
+            "level": 48,
+            "move": "MOVE_SWORDSDANCE"
+        },
+        {
+            "level": 52,
+            "move": "MOVE_HAMMERARM"
+        },
+        {
+            "level": 56,
+            "move": "MOVE_EARTHQUAKE"
+        },
+        {
+            "level": 60,
+            "move": "MOVE_SUPERFANG"
+        }
+    ]
+}

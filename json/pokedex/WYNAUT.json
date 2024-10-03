@@ -1,0 +1,66 @@
+{
+    "baseHP": 95,
+    "baseAttack": 23,
+    "baseDefense": 48,
+    "baseSpAttack": 23,
+    "baseSpDefense": 48,
+    "baseSpeed": 23,
+    "type1": "TYPE_PSYCHIC",
+    "type2": "TYPE_PSYCHIC",
+    "catchRate": 125,
+    "expYield": 44,
+    "evYield_HP": 1,
+    "evYield_Attack": 0,
+    "evYield_Defense": 0,
+    "evYield_SpAttack": 0,
+    "evYield_SpDefense": 0,
+    "evYield_Speed": 0,
+    "item1": "ITEM_NONE",
+    "item2": "ITEM_NONE",
+    "genderRatio": 50.0,
+    "eggCycles": 20,
+    "friendship": 50,
+    "growthRate": "GROWTH_MEDIUM_FAST",
+    "eggGroup1": "EGG_GROUP_UNDISCOVERED",
+    "eggGroup2": "EGG_GROUP_UNDISCOVERED",
+    "ability1": "ABILITY_SHADOWTAG",
+    "ability2": "ABILITY_NONE",
+    "safariZoneFleeRate": 0,
+    "hiddenAbility": "ABILITY_TELEPATHY",
+    "noFlip": true,
+    "name": "Wynaut",
+    "learnset": [
+        {
+            "level": 1,
+            "move": "MOVE_SPLASH"
+        },
+        {
+            "level": 1,
+            "move": "MOVE_CHARM"
+        },
+        {
+            "level": 1,
+            "move": "MOVE_ENCORE"
+        },
+        {
+            "level": 1,
+            "move": "MOVE_AMNESIA"
+        },
+        {
+            "level": 1,
+            "move": "MOVE_COUNTER"
+        },
+        {
+            "level": 1,
+            "move": "MOVE_MIRRORCOAT"
+        },
+        {
+            "level": 1,
+            "move": "MOVE_SAFEGUARD"
+        },
+        {
+            "level": 1,
+            "move": "MOVE_DESTINYBOND"
+        }
+    ]
+}

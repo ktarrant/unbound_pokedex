@@ -1,0 +1,103 @@
+{
+    "baseHP": 110,
+    "baseAttack": 85,
+    "baseDefense": 95,
+    "baseSpAttack": 80,
+    "baseSpDefense": 95,
+    "baseSpeed": 50,
+    "type1": "TYPE_NORMAL",
+    "type2": "TYPE_NORMAL",
+    "catchRate": 30,
+    "expYield": 193,
+    "evYield_HP": 3,
+    "evYield_Attack": 0,
+    "evYield_Defense": 0,
+    "evYield_SpAttack": 0,
+    "evYield_SpDefense": 0,
+    "evYield_Speed": 0,
+    "item1": "ITEM_NONE",
+    "item2": "ITEM_LAGGING_TAIL",
+    "genderRatio": 50.0,
+    "eggCycles": 20,
+    "friendship": 50,
+    "growthRate": "GROWTH_MEDIUM_FAST",
+    "eggGroup1": "EGG_GROUP_MONSTER",
+    "eggGroup2": "EGG_GROUP_MONSTER",
+    "ability1": "ABILITY_THICKFAT",
+    "ability2": "ABILITY_OBLIVIOUS",
+    "safariZoneFleeRate": 0,
+    "hiddenAbility": "ABILITY_CLOUDNINE",
+    "noFlip": true,
+    "blurb": "The long tongue is always soggy with slobber. The saliva contains a solvent that causes numbness.",
+    "name": "Lickilicky",
+    "learnset": [
+        {
+            "level": 1,
+            "move": "MOVE_GYROBALL"
+        },
+        {
+            "level": 1,
+            "move": "MOVE_LICK"
+        },
+        {
+            "level": 1,
+            "move": "MOVE_DEFENSECURL"
+        },
+        {
+            "level": 1,
+            "move": "MOVE_WRAP"
+        },
+        {
+            "level": 1,
+            "move": "MOVE_SUPERSONIC"
+        },
+        {
+            "level": 15,
+            "move": "MOVE_STOMP"
+        },
+        {
+            "level": 19,
+            "move": "MOVE_DISABLE"
+        },
+        {
+            "level": 22,
+            "move": "MOVE_SUBMISSION"
+        },
+        {
+            "level": 26,
+            "move": "MOVE_SCREECH"
+        },
+        {
+            "level": 29,
+            "move": "MOVE_ROLLOUT"
+        },
+        {
+            "level": 34,
+            "move": "MOVE_KNOCKOFF"
+        },
+        {
+            "level": 39,
+            "move": "MOVE_BODYSLAM"
+        },
+        {
+            "level": 43,
+            "move": "MOVE_REFRESH"
+        },
+        {
+            "level": 48,
+            "move": "MOVE_BODYPRESS"
+        },
+        {
+            "level": 53,
+            "move": "MOVE_POWERWHIP"
+        },
+        {
+            "level": 58,
+            "move": "MOVE_WRINGOUT"
+        },
+        {
+            "level": 62,
+            "move": "MOVE_BELLYDRUM"
+        }
+    ]
+}

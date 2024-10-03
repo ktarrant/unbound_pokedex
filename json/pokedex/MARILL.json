@@ -1,0 +1,135 @@
+{
+    "baseHP": 70,
+    "baseAttack": 20,
+    "baseDefense": 50,
+    "baseSpAttack": 20,
+    "baseSpDefense": 50,
+    "baseSpeed": 40,
+    "type1": "TYPE_WATER",
+    "type2": "TYPE_FAIRY",
+    "catchRate": 190,
+    "expYield": 58,
+    "evYield_HP": 2,
+    "evYield_Attack": 0,
+    "evYield_Defense": 0,
+    "evYield_SpAttack": 0,
+    "evYield_SpDefense": 0,
+    "evYield_Speed": 0,
+    "item1": "ITEM_NONE",
+    "item2": "ITEM_NONE",
+    "genderRatio": 50.0,
+    "eggCycles": 10,
+    "friendship": 50,
+    "growthRate": "GROWTH_FAST",
+    "eggGroup1": "EGG_GROUP_WATER_1",
+    "eggGroup2": "EGG_GROUP_FAIRY",
+    "ability1": "ABILITY_THICKFAT",
+    "ability2": "ABILITY_HUGEPOWER",
+    "safariZoneFleeRate": 0,
+    "hiddenAbility": "ABILITY_SAPSIPPER",
+    "noFlip": true,
+    "egg_moves": [
+        "MOVE_PRESENT",
+        "MOVE_AMNESIA",
+        "MOVE_FUTURESIGHT",
+        "MOVE_BELLYDRUM",
+        "MOVE_PERISHSONG",
+        "MOVE_SUPERSONIC",
+        "MOVE_AQUAJET",
+        "MOVE_REFRESH",
+        "MOVE_BODYSLAM",
+        "MOVE_MUDDYWATER",
+        "MOVE_CAMOUFLAGE",
+        "MOVE_COPYCAT",
+        "MOVE_SING",
+        "MOVE_SOAK",
+        "MOVE_TICKLE"
+    ],
+    "name": "Marill",
+    "learnset": [
+        {
+            "level": 1,
+            "move": "MOVE_ROLLOUT"
+        },
+        {
+            "level": 1,
+            "move": "MOVE_DEFENSECURL"
+        },
+        {
+            "level": 1,
+            "move": "MOVE_BUBBLE"
+        },
+        {
+            "level": 1,
+            "move": "MOVE_SPLASH"
+        },
+        {
+            "level": 1,
+            "move": "MOVE_WATERSPORT"
+        },
+        {
+            "level": 1,
+            "move": "MOVE_TAILWHIP"
+        },
+        {
+            "level": 1,
+            "move": "MOVE_WATERGUN"
+        },
+        {
+            "level": 1,
+            "move": "MOVE_TACKLE"
+        },
+        {
+            "level": 1,
+            "move": "MOVE_HELPINGHAND"
+        },
+        {
+            "level": 6,
+            "move": "MOVE_CHARM"
+        },
+        {
+            "level": 9,
+            "move": "MOVE_BUBBLEBEAM"
+        },
+        {
+            "level": 12,
+            "move": "MOVE_SLAM"
+        },
+        {
+            "level": 15,
+            "move": "MOVE_BOUNCE"
+        },
+        {
+            "level": 19,
+            "move": "MOVE_DRAININGKISS"
+        },
+        {
+            "level": 21,
+            "move": "MOVE_HYDROPUMP"
+        },
+        {
+            "level": 24,
+            "move": "MOVE_AQUARING"
+        },
+        {
+            "level": 30,
+            "move": "MOVE_RAINDANCE"
+        },
+        {
+            "level": 33,
+            "move": "MOVE_PLAYROUGH"
+        },
+        {
+            "level": 36,
+            "move": "MOVE_AQUATAIL"
+        },
+        {
+            "level": 39,
+            "move": "MOVE_DOUBLEEDGE"
+        },
+        {
+            "level": 42,
+            "move": "MOVE_SUPERPOWER"
+        }
+    ]
+}

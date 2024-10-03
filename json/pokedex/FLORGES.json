@@ -1,0 +1,106 @@
+{
+    "baseHP": 78,
+    "baseAttack": 65,
+    "baseDefense": 68,
+    "baseSpAttack": 112,
+    "baseSpDefense": 154,
+    "baseSpeed": 75,
+    "type1": "TYPE_FAIRY",
+    "type2": "TYPE_FAIRY",
+    "catchRate": 45,
+    "expYield": 248,
+    "evYield_HP": 0,
+    "evYield_Attack": 0,
+    "evYield_Defense": 0,
+    "evYield_SpAttack": 0,
+    "evYield_SpDefense": 3,
+    "evYield_Speed": 0,
+    "item1": "ITEM_NONE",
+    "item2": "ITEM_NONE",
+    "genderRatio": 100.0,
+    "eggCycles": 20,
+    "friendship": 50,
+    "growthRate": "GROWTH_MEDIUM_FAST",
+    "eggGroup1": "EGG_GROUP_FAIRY",
+    "eggGroup2": "EGG_GROUP_FAIRY",
+    "ability1": "ABILITY_FLOWERVEIL",
+    "ability2": "ABILITY_AROMAVEIL",
+    "safariZoneFleeRate": 0,
+    "hiddenAbility": "ABILITY_SYMBIOSIS",
+    "noFlip": true,
+    "blurb": "Its life can span several hundred years. It's said to devote its entire life to protecting gardens.",
+    "learnset": [
+        {
+            "level": 1,
+            "move": "MOVE_FLOWERSHIELD"
+        },
+        {
+            "level": 1,
+            "move": "MOVE_DISARMINGVOICE"
+        },
+        {
+            "level": 1,
+            "move": "MOVE_GRASSKNOT"
+        },
+        {
+            "level": 1,
+            "move": "MOVE_TACKLE"
+        },
+        {
+            "level": 1,
+            "move": "MOVE_VINEWHIP"
+        },
+        {
+            "level": 1,
+            "move": "MOVE_FAIRYWIND"
+        },
+        {
+            "level": 1,
+            "move": "MOVE_LUCKYCHANT"
+        },
+        {
+            "level": 1,
+            "move": "MOVE_RAZORLEAF"
+        },
+        {
+            "level": 1,
+            "move": "MOVE_GRASSYTERRAIN"
+        },
+        {
+            "level": 1,
+            "move": "MOVE_SPIRITBREAK"
+        },
+        {
+            "level": 1,
+            "move": "MOVE_MAGICALLEAF"
+        },
+        {
+            "level": 1,
+            "move": "MOVE_MISTYTERRAIN"
+        },
+        {
+            "level": 1,
+            "move": "MOVE_PETALDANCE"
+        },
+        {
+            "level": 1,
+            "move": "MOVE_DAZZLINGGLEAM"
+        },
+        {
+            "level": 1,
+            "move": "MOVE_PETALBLIZZARD"
+        },
+        {
+            "level": 1,
+            "move": "MOVE_AROMATHERAPY"
+        },
+        {
+            "level": 1,
+            "move": "MOVE_WISH"
+        },
+        {
+            "level": 57,
+            "move": "MOVE_MOONBLAST"
+        }
+    ]
+}

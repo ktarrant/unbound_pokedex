@@ -1,0 +1,113 @@
+{
+    "baseHP": 80,
+    "baseAttack": 145,
+    "baseDefense": 150,
+    "baseSpAttack": 105,
+    "baseSpDefense": 110,
+    "baseSpeed": 110,
+    "type1": "TYPE_STEEL",
+    "type2": "TYPE_PSYCHIC",
+    "catchRate": 3,
+    "expYield": 210,
+    "evYield_HP": 0,
+    "evYield_Attack": 0,
+    "evYield_Defense": 3,
+    "evYield_SpAttack": 0,
+    "evYield_SpDefense": 0,
+    "evYield_Speed": 0,
+    "item1": "ITEM_NONE",
+    "item2": "ITEM_METAL_COAT",
+    "genderRatio": "MON_GENDERLESS",
+    "eggCycles": 40,
+    "friendship": 35,
+    "growthRate": "GROWTH_MEDIUM_SLOW",
+    "eggGroup1": "EGG_GROUP_MINERAL",
+    "eggGroup2": "EGG_GROUP_MINERAL",
+    "ability1": "ABILITY_TOUGHCLAWS",
+    "ability2": "ABILITY_NONE",
+    "safariZoneFleeRate": 0,
+    "hiddenAbility": "ABILITY_NONE",
+    "noFlip": true,
+    "learnset": [
+        {
+            "level": 0,
+            "move": "MOVE_HAMMERARM"
+        },
+        {
+            "level": 1,
+            "move": "MOVE_MAGNETRISE"
+        },
+        {
+            "level": 1,
+            "move": "MOVE_STEELYHIT"
+        },
+        {
+            "level": 1,
+            "move": "MOVE_TACKLE"
+        },
+        {
+            "level": 1,
+            "move": "MOVE_FLASH"
+        },
+        {
+            "level": 1,
+            "move": "MOVE_CONFUSION"
+        },
+        {
+            "level": 1,
+            "move": "MOVE_METALCLAW"
+        },
+        {
+            "level": 23,
+            "move": "MOVE_PURSUIT"
+        },
+        {
+            "level": 27,
+            "move": "MOVE_BULLETPUNCH"
+        },
+        {
+            "level": 31,
+            "move": "MOVE_MIRACLEEYE"
+        },
+        {
+            "level": 34,
+            "move": "MOVE_PSYCHIC"
+        },
+        {
+            "level": 38,
+            "move": "MOVE_TAKEDOWN"
+        },
+        {
+            "level": 42,
+            "move": "MOVE_SCARYFACE"
+        },
+        {
+            "level": 44,
+            "move": "MOVE_HAMMERARM"
+        },
+        {
+            "level": 45,
+            "move": "MOVE_IRONHEAD"
+        },
+        {
+            "level": 52,
+            "move": "MOVE_AGILITY"
+        },
+        {
+            "level": 56,
+            "move": "MOVE_ZENHEADBUTT"
+        },
+        {
+            "level": 61,
+            "move": "MOVE_METEORMASH"
+        },
+        {
+            "level": 66,
+            "move": "MOVE_IRONDEFENSE"
+        },
+        {
+            "level": 70,
+            "move": "MOVE_GIGAIMPACT"
+        }
+    ]
+}

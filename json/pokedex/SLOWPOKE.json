@@ -1,0 +1,115 @@
+{
+    "baseHP": 90,
+    "baseAttack": 65,
+    "baseDefense": 65,
+    "baseSpAttack": 40,
+    "baseSpDefense": 40,
+    "baseSpeed": 15,
+    "type1": "TYPE_WATER",
+    "type2": "TYPE_PSYCHIC",
+    "catchRate": 190,
+    "expYield": 99,
+    "evYield_HP": 1,
+    "evYield_Attack": 0,
+    "evYield_Defense": 0,
+    "evYield_SpAttack": 0,
+    "evYield_SpDefense": 0,
+    "evYield_Speed": 0,
+    "item1": "ITEM_NONE",
+    "item2": "ITEM_LAGGING_TAIL",
+    "genderRatio": 50.0,
+    "eggCycles": 20,
+    "friendship": 50,
+    "growthRate": "GROWTH_MEDIUM_FAST",
+    "eggGroup1": "EGG_GROUP_MONSTER",
+    "eggGroup2": "EGG_GROUP_WATER_1",
+    "ability1": "ABILITY_OBLIVIOUS",
+    "ability2": "ABILITY_OWNTEMPO",
+    "safariZoneFleeRate": 50,
+    "hiddenAbility": "ABILITY_REGENERATOR",
+    "noFlip": true,
+    "egg_moves": [
+        "MOVE_BELLYDRUM",
+        "MOVE_FUTURESIGHT",
+        "MOVE_STOMP",
+        "MOVE_MUDSPORT",
+        "MOVE_SLEEPTALK",
+        "MOVE_SNORE",
+        "MOVE_MEFIRST",
+        "MOVE_BLOCK",
+        "MOVE_WONDERROOM",
+        "MOVE_BELCH",
+        "MOVE_TELEPORT"
+    ],
+    "name": "Slowpoke",
+    "learnset": [
+        {
+            "level": 1,
+            "move": "MOVE_TACKLE"
+        },
+        {
+            "level": 1,
+            "move": "MOVE_CURSE"
+        },
+        {
+            "level": 3,
+            "move": "MOVE_GROWL"
+        },
+        {
+            "level": 6,
+            "move": "MOVE_WATERGUN"
+        },
+        {
+            "level": 9,
+            "move": "MOVE_YAWN"
+        },
+        {
+            "level": 12,
+            "move": "MOVE_CONFUSION"
+        },
+        {
+            "level": 15,
+            "move": "MOVE_DISABLE"
+        },
+        {
+            "level": 18,
+            "move": "MOVE_WATERPULSE"
+        },
+        {
+            "level": 21,
+            "move": "MOVE_HEADBUTT"
+        },
+        {
+            "level": 24,
+            "move": "MOVE_ZENHEADBUTT"
+        },
+        {
+            "level": 27,
+            "move": "MOVE_AMNESIA"
+        },
+        {
+            "level": 30,
+            "move": "MOVE_SURF"
+        },
+        {
+            "level": 33,
+            "move": "MOVE_SLACKOFF"
+        },
+        {
+            "level": 36,
+            "move": "MOVE_PSYCHIC"
+        },
+        {
+            "level": 39,
+            "move": "MOVE_PSYCHUP"
+        },
+        {
+            "level": 42,
+            "move": "MOVE_RAINDANCE"
+        },
+        {
+            "level": 45,
+            "move": "MOVE_HEALPULSE"
+        }
+    ]
+}

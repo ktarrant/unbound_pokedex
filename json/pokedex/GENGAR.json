@@ -1,0 +1,114 @@
+{
+    "baseHP": 60,
+    "baseAttack": 65,
+    "baseDefense": 60,
+    "baseSpAttack": 130,
+    "baseSpDefense": 75,
+    "baseSpeed": 110,
+    "type1": "TYPE_GHOST",
+    "type2": "TYPE_POISON",
+    "catchRate": 45,
+    "expYield": 190,
+    "evYield_HP": 0,
+    "evYield_Attack": 0,
+    "evYield_Defense": 0,
+    "evYield_SpAttack": 3,
+    "evYield_SpDefense": 0,
+    "evYield_Speed": 0,
+    "item1": "ITEM_NONE",
+    "item2": "ITEM_SPELL_TAG",
+    "genderRatio": 50.0,
+    "eggCycles": 20,
+    "friendship": 50,
+    "growthRate": "GROWTH_MEDIUM_SLOW",
+    "eggGroup1": "EGG_GROUP_AMORPHOUS",
+    "eggGroup2": "EGG_GROUP_AMORPHOUS",
+    "ability1": "ABILITY_LEVITATE",
+    "ability2": "ABILITY_NONE",
+    "safariZoneFleeRate": 0,
+    "hiddenAbility": "ABILITY_CURSEDBODY",
+    "noFlip": true,
+    "name": "Gengar",
+    "learnset": [
+        {
+            "level": 0,
+            "move": "MOVE_REFLECTTYPE"
+        },
+        {
+            "level": 1,
+            "move": "MOVE_NIGHTMARE"
+        },
+        {
+            "level": 1,
+            "move": "MOVE_PERISHSONG"
+        },
+        {
+            "level": 1,
+            "move": "MOVE_LICK"
+        },
+        {
+            "level": 1,
+            "move": "MOVE_SMOG"
+        },
+        {
+            "level": 1,
+            "move": "MOVE_SPITE"
+        },
+        {
+            "level": 4,
+            "move": "MOVE_MEANLOOK"
+        },
+        {
+            "level": 8,
+            "move": "MOVE_PAYBACK"
+        },
+        {
+            "level": 12,
+            "move": "MOVE_CONFUSERAY"
+        },
+        {
+            "level": 16,
+            "move": "MOVE_NIGHTSHADE"
+        },
+        {
+            "level": 20,
+            "move": "MOVE_CURSE"
+        },
+        {
+            "level": 24,
+            "move": "MOVE_SHADOWPUNCH"
+        },
+        {
+            "level": 24,
+            "move": "MOVE_HEX"
+        },
+        {
+            "level": 30,
+            "move": "MOVE_SUCKERPUNCH"
+        },
+        {
+            "level": 36,
+            "move": "MOVE_TOXIC"
+        },
+        {
+            "level": 42,
+            "move": "MOVE_DARKPULSE"
+        },
+        {
+            "level": 48,
+            "move": "MOVE_SHADOWBALL"
+        },
+        {
+            "level": 54,
+            "move": "MOVE_HYPNOSIS"
+        },
+        {
+            "level": 60,
+            "move": "MOVE_DESTINYBOND"
+        },
+        {
+            "level": 66,
+            "move": "MOVE_DREAMEATER"
+        }
+    ]
+}

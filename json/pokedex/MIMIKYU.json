@@ -1,0 +1,105 @@
+{
+    "baseHP": 55,
+    "baseAttack": 90,
+    "baseDefense": 80,
+    "baseSpAttack": 50,
+    "baseSpDefense": 105,
+    "baseSpeed": 96,
+    "type1": "TYPE_GHOST",
+    "type2": "TYPE_FAIRY",
+    "catchRate": 45,
+    "expYield": 173,
+    "evYield_HP": 0,
+    "evYield_Attack": 0,
+    "evYield_Defense": 0,
+    "evYield_SpAttack": 0,
+    "evYield_SpDefense": 2,
+    "evYield_Speed": 0,
+    "item1": "ITEM_NONE",
+    "item2": "ITEM_CHESTO_BERRY",
+    "genderRatio": 50.0,
+    "eggCycles": 20,
+    "friendship": 50,
+    "growthRate": "GROWTH_MEDIUM_FAST",
+    "eggGroup1": "EGG_GROUP_AMORPHOUS",
+    "eggGroup2": "EGG_GROUP_AMORPHOUS",
+    "ability1": "ABILITY_DISGUISE",
+    "ability2": "ABILITY_NONE",
+    "safariZoneFleeRate": 0,
+    "hiddenAbility": "ABILITY_NONE",
+    "noFlip": true,
+    "egg_moves": [
+        "MOVE_GRUDGE",
+        "MOVE_DESTINYBOND",
+        "MOVE_CURSE",
+        "MOVE_NIGHTMARE"
+    ],
+    "blurb": "It conceals its terrifying appearance beneath an old rag so it can get closer to people and Pok\u00e9mon.",
+    "name": "Mimikyu",
+    "learnset": [
+        {
+            "level": 1,
+            "move": "MOVE_WOODHAMMER"
+        },
+        {
+            "level": 1,
+            "move": "MOVE_SPLASH"
+        },
+        {
+            "level": 1,
+            "move": "MOVE_ASTONISH"
+        },
+        {
+            "level": 1,
+            "move": "MOVE_SCRATCH"
+        },
+        {
+            "level": 1,
+            "move": "MOVE_COPYCAT"
+        },
+        {
+            "level": 6,
+            "move": "MOVE_SHADOWSNEAK"
+        },
+        {
+            "level": 11,
+            "move": "MOVE_DOUBLETEAM"
+        },
+        {
+            "level": 16,
+            "move": "MOVE_BABYDOLLEYES"
+        },
+        {
+            "level": 21,
+            "move": "MOVE_MIMIC"
+        },
+        {
+            "level": 26,
+            "move": "MOVE_FEINTATTACK"
+        },
+        {
+            "level": 31,
+            "move": "MOVE_HONECLAWS"
+        },
+        {
+            "level": 36,
+            "move": "MOVE_SLASH"
+        },
+        {
+            "level": 41,
+            "move": "MOVE_SHADOWCLAW"
+        },
+        {
+            "level": 47,
+            "move": "MOVE_CHARM"
+        },
+        {
+            "level": 53,
+            "move": "MOVE_PLAYROUGH"
+        },
+        {
+            "level": 59,
+            "move": "MOVE_PAINSPLIT"
+        }
+    ]
+}

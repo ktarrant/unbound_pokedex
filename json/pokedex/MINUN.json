@@ -1,0 +1,126 @@
+{
+    "baseHP": 60,
+    "baseAttack": 40,
+    "baseDefense": 50,
+    "baseSpAttack": 75,
+    "baseSpDefense": 85,
+    "baseSpeed": 95,
+    "type1": "TYPE_ELECTRIC",
+    "type2": "TYPE_ELECTRIC",
+    "catchRate": 200,
+    "expYield": 120,
+    "evYield_HP": 0,
+    "evYield_Attack": 0,
+    "evYield_Defense": 0,
+    "evYield_SpAttack": 0,
+    "evYield_SpDefense": 0,
+    "evYield_Speed": 1,
+    "item1": "ITEM_NONE",
+    "item2": "ITEM_CELL_BATTERY",
+    "genderRatio": 50.0,
+    "eggCycles": 20,
+    "friendship": 50,
+    "growthRate": "GROWTH_MEDIUM_FAST",
+    "eggGroup1": "EGG_GROUP_FAIRY",
+    "eggGroup2": "EGG_GROUP_FAIRY",
+    "ability1": "ABILITY_MINUS",
+    "ability2": "ABILITY_VOLTABSORB",
+    "safariZoneFleeRate": 0,
+    "hiddenAbility": "ABILITY_ELECTRICSURGE",
+    "noFlip": true,
+    "egg_moves": [
+        "MOVE_WISH",
+        "MOVE_SING",
+        "MOVE_SWEETKISS",
+        "MOVE_LUCKYCHANT",
+        "MOVE_CHARM",
+        "MOVE_TEARFULLOOK"
+    ],
+    "name": "Minun",
+    "learnset": [
+        {
+            "level": 1,
+            "move": "MOVE_ENTRAINMENT"
+        },
+        {
+            "level": 1,
+            "move": "MOVE_NUZZLE"
+        },
+        {
+            "level": 1,
+            "move": "MOVE_PLAYNICE"
+        },
+        {
+            "level": 1,
+            "move": "MOVE_GROWL"
+        },
+        {
+            "level": 1,
+            "move": "MOVE_THUNDERWAVE"
+        },
+        {
+            "level": 1,
+            "move": "MOVE_QUICKATTACK"
+        },
+        {
+            "level": 4,
+            "move": "MOVE_HELPINGHAND"
+        },
+        {
+            "level": 7,
+            "move": "MOVE_SPARK"
+        },
+        {
+            "level": 10,
+            "move": "MOVE_ENCORE"
+        },
+        {
+            "level": 13,
+            "move": "MOVE_SWITCHEROO"
+        },
+        {
+            "level": 16,
+            "move": "MOVE_SWIFT"
+        },
+        {
+            "level": 19,
+            "move": "MOVE_ELECTROBALL"
+        },
+        {
+            "level": 22,
+            "move": "MOVE_COPYCAT"
+        },
+        {
+            "level": 25,
+            "move": "MOVE_FAKETEARS"
+        },
+        {
+            "level": 28,
+            "move": "MOVE_CHARGE"
+        },
+        {
+            "level": 31,
+            "move": "MOVE_TRUMPCARD"
+        },
+        {
+            "level": 34,
+            "move": "MOVE_DISCHARGE"
+        },
+        {
+            "level": 37,
+            "move": "MOVE_BATONPASS"
+        },
+        {
+            "level": 40,
+            "move": "MOVE_AGILITY"
+        },
+        {
+            "level": 43,
+            "move": "MOVE_THUNDER"
+        },
+        {
+            "level": 46,
+            "move": "MOVE_NASTYPLOT"
+        }
+    ]
+}

@@ -1,0 +1,91 @@
+{
+    "baseHP": 91,
+    "baseAttack": 129,
+    "baseDefense": 90,
+    "baseSpAttack": 72,
+    "baseSpDefense": 90,
+    "baseSpeed": 108,
+    "type1": "TYPE_ROCK",
+    "type2": "TYPE_FIGHTING",
+    "catchRate": 3,
+    "expYield": 255,
+    "evYield_HP": 0,
+    "evYield_Attack": 3,
+    "evYield_Defense": 0,
+    "evYield_SpAttack": 0,
+    "evYield_SpDefense": 0,
+    "evYield_Speed": 0,
+    "item1": "ITEM_NONE",
+    "item2": "ITEM_NONE",
+    "genderRatio": "MON_GENDERLESS",
+    "eggCycles": 80,
+    "friendship": 35,
+    "growthRate": "GROWTH_SLOW",
+    "eggGroup1": "EGG_GROUP_UNDISCOVERED",
+    "eggGroup2": "EGG_GROUP_UNDISCOVERED",
+    "ability1": "ABILITY_JUSTIFIED",
+    "ability2": "ABILITY_NONE",
+    "safariZoneFleeRate": 0,
+    "hiddenAbility": "ABILITY_STEADFAST",
+    "noFlip": true,
+    "blurb": "This Pok\u00e9mon came to the defense of Pok\u00e9mon that had lost their homes in a war among humans.",
+    "name": "Terrakion",
+    "learnset": [
+        {
+            "level": 1,
+            "move": "MOVE_QUICKATTACK"
+        },
+        {
+            "level": 1,
+            "move": "MOVE_LEER"
+        },
+        {
+            "level": 1,
+            "move": "MOVE_HELPINGHAND"
+        },
+        {
+            "level": 1,
+            "move": "MOVE_WORKUP"
+        },
+        {
+            "level": 7,
+            "move": "MOVE_SMACKDOWN"
+        },
+        {
+            "level": 14,
+            "move": "MOVE_QUICKGUARD"
+        },
+        {
+            "level": 21,
+            "move": "MOVE_DOUBLEKICK"
+        },
+        {
+            "level": 28,
+            "move": "MOVE_RETALIATE"
+        },
+        {
+            "level": 35,
+            "move": "MOVE_ROCKSLIDE"
+        },
+        {
+            "level": 42,
+            "move": "MOVE_TAKEDOWN"
+        },
+        {
+            "level": 49,
+            "move": "MOVE_SACREDSWORD"
+        },
+        {
+            "level": 56,
+            "move": "MOVE_SWORDSDANCE"
+        },
+        {
+            "level": 63,
+            "move": "MOVE_STONEEDGE"
+        },
+        {
+            "level": 70,
+            "move": "MOVE_CLOSECOMBAT"
+        }
+    ]
+}

@@ -1,0 +1,120 @@
+{
+    "baseHP": 50,
+    "baseAttack": 85,
+    "baseDefense": 85,
+    "baseSpAttack": 55,
+    "baseSpDefense": 55,
+    "baseSpeed": 50,
+    "type1": "TYPE_STEEL",
+    "type2": "TYPE_FAIRY",
+    "catchRate": 45,
+    "expYield": 98,
+    "evYield_HP": 0,
+    "evYield_Attack": 1,
+    "evYield_Defense": 1,
+    "evYield_SpAttack": 0,
+    "evYield_SpDefense": 0,
+    "evYield_Speed": 0,
+    "item1": "ITEM_NONE",
+    "item2": "ITEM_METAL_COAT",
+    "genderRatio": 50.0,
+    "eggCycles": 20,
+    "friendship": 50,
+    "growthRate": "GROWTH_FAST",
+    "eggGroup1": "EGG_GROUP_FIELD",
+    "eggGroup2": "EGG_GROUP_FAIRY",
+    "ability1": "ABILITY_HYPERCUTTER",
+    "ability2": "ABILITY_INTIMIDATE",
+    "safariZoneFleeRate": 0,
+    "hiddenAbility": "ABILITY_SHEERFORCE",
+    "noFlip": true,
+    "egg_moves": [
+        "MOVE_POISONFANG",
+        "MOVE_ANCIENTPOWER",
+        "MOVE_TICKLE",
+        "MOVE_ICEFANG",
+        "MOVE_FIREFANG",
+        "MOVE_THUNDERFANG",
+        "MOVE_PUNISHMENT",
+        "MOVE_GUARDSWAP",
+        "MOVE_CAPTIVATE",
+        "MOVE_SLAM",
+        "MOVE_METALBURST",
+        "MOVE_MISTYTERRAIN",
+        "MOVE_SEISMICTOSS",
+        "MOVE_POWERUPPUNCH",
+        "MOVE_FEINTATTACK",
+        "MOVE_SING"
+    ],
+    "name": "Mawile",
+    "learnset": [
+        {
+            "level": 1,
+            "move": "MOVE_ASTONISH"
+        },
+        {
+            "level": 1,
+            "move": "MOVE_GROWL"
+        },
+        {
+            "level": 4,
+            "move": "MOVE_FAIRYWIND"
+        },
+        {
+            "level": 8,
+            "move": "MOVE_BATONPASS"
+        },
+        {
+            "level": 11,
+            "move": "MOVE_VICEGRIP"
+        },
+        {
+            "level": 15,
+            "move": "MOVE_BITE"
+        },
+        {
+            "level": 19,
+            "move": "MOVE_STOCKPILE"
+        },
+        {
+            "level": 19,
+            "move": "MOVE_SWALLOW"
+        },
+        {
+            "level": 19,
+            "move": "MOVE_SPITUP"
+        },
+        {
+            "level": 22,
+            "move": "MOVE_SWEETSCENT"
+        },
+        {
+            "level": 25,
+            "move": "MOVE_SUCKERPUNCH"
+        },
+        {
+            "level": 29,
+            "move": "MOVE_IRONDEFENSE"
+        },
+        {
+            "level": 32,
+            "move": "MOVE_CRUNCH"
+        },
+        {
+            "level": 36,
+            "move": "MOVE_IRONHEAD"
+        },
+        {
+            "level": 40,
+            "move": "MOVE_TAUNT"
+        },
+        {
+            "level": 44,
+            "move": "MOVE_FAKETEARS"
+        },
+        {
+            "level": 48,
+            "move": "MOVE_PLAYROUGH"
+        }
+    ]
+}

@@ -1,0 +1,106 @@
+{
+    "baseHP": 59,
+    "baseAttack": 45,
+    "baseDefense": 40,
+    "baseSpAttack": 35,
+    "baseSpDefense": 40,
+    "baseSpeed": 31,
+    "type1": "TYPE_NORMAL",
+    "type2": "TYPE_NORMAL",
+    "catchRate": 255,
+    "expYield": 58,
+    "evYield_HP": 1,
+    "evYield_Attack": 0,
+    "evYield_Defense": 0,
+    "evYield_SpAttack": 0,
+    "evYield_SpDefense": 0,
+    "evYield_Speed": 0,
+    "item1": "ITEM_NONE",
+    "item2": "ITEM_NONE",
+    "genderRatio": 50.0,
+    "eggCycles": 15,
+    "friendship": 50,
+    "growthRate": "GROWTH_MEDIUM_FAST",
+    "eggGroup1": "EGG_GROUP_WATER_1",
+    "eggGroup2": "EGG_GROUP_FIELD",
+    "ability1": "ABILITY_SIMPLE",
+    "ability2": "ABILITY_UNAWARE",
+    "safariZoneFleeRate": 0,
+    "hiddenAbility": "ABILITY_MOODY",
+    "noFlip": true,
+    "egg_moves": [
+        "MOVE_QUICKATTACK",
+        "MOVE_WATERSPORT",
+        "MOVE_DOUBLEEDGE",
+        "MOVE_FURYSWIPES",
+        "MOVE_ODORSLEUTH",
+        "MOVE_AQUATAIL",
+        "MOVE_ROCKCLIMB",
+        "MOVE_SLEEPTALK",
+        "MOVE_ENDURE",
+        "MOVE_SKULLBASH",
+        "MOVE_MUDSPORT",
+        "MOVE_BITE",
+        "MOVE_NORETREAT"
+    ],
+    "blurb": "With nerves of steel, nothing can perturb it. It is more agile and active than it appears.",
+    "name": "Bidoof",
+    "learnset": [
+        {
+            "level": 1,
+            "move": "MOVE_TACKLE"
+        },
+        {
+            "level": 1,
+            "move": "MOVE_GROWL"
+        },
+        {
+            "level": 5,
+            "move": "MOVE_DEFENSECURL"
+        },
+        {
+            "level": 9,
+            "move": "MOVE_ROLLOUT"
+        },
+        {
+            "level": 13,
+            "move": "MOVE_HEADBUTT"
+        },
+        {
+            "level": 17,
+            "move": "MOVE_YAWN"
+        },
+        {
+            "level": 21,
+            "move": "MOVE_HYPERFANG"
+        },
+        {
+            "level": 25,
+            "move": "MOVE_CRUNCH"
+        },
+        {
+            "level": 29,
+            "move": "MOVE_TAKEDOWN"
+        },
+        {
+            "level": 33,
+            "move": "MOVE_SUPERFANG"
+        },
+        {
+            "level": 37,
+            "move": "MOVE_SWORDSDANCE"
+        },
+        {
+            "level": 41,
+            "move": "MOVE_AMNESIA"
+        },
+        {
+            "level": 45,
+            "move": "MOVE_SUPERPOWER"
+        },
+        {
+            "level": 49,
+            "move": "MOVE_CURSE"
+        }
+    ]
+}

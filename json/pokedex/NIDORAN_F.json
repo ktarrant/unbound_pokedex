@@ -1,0 +1,110 @@
+{
+    "baseHP": 55,
+    "baseAttack": 47,
+    "baseDefense": 52,
+    "baseSpAttack": 40,
+    "baseSpDefense": 40,
+    "baseSpeed": 41,
+    "type1": "TYPE_POISON",
+    "type2": "TYPE_POISON",
+    "catchRate": 235,
+    "expYield": 59,
+    "evYield_HP": 1,
+    "evYield_Attack": 0,
+    "evYield_Defense": 0,
+    "evYield_SpAttack": 0,
+    "evYield_SpDefense": 0,
+    "evYield_Speed": 0,
+    "item1": "ITEM_NONE",
+    "item2": "ITEM_NONE",
+    "genderRatio": 100.0,
+    "eggCycles": 20,
+    "friendship": 50,
+    "growthRate": "GROWTH_MEDIUM_SLOW",
+    "eggGroup1": "EGG_GROUP_MONSTER",
+    "eggGroup2": "EGG_GROUP_FIELD",
+    "ability1": "ABILITY_POISONPOINT",
+    "ability2": "ABILITY_RIVALRY",
+    "safariZoneFleeRate": 50,
+    "hiddenAbility": "ABILITY_HUSTLE",
+    "noFlip": true,
+    "egg_moves": [
+        "MOVE_SUPERSONIC",
+        "MOVE_DISABLE",
+        "MOVE_TAKEDOWN",
+        "MOVE_FOCUSENERGY",
+        "MOVE_CHARM",
+        "MOVE_COUNTER",
+        "MOVE_BEATUP",
+        "MOVE_PURSUIT",
+        "MOVE_SKULLBASH",
+        "MOVE_IRONTAIL",
+        "MOVE_POISONTAIL",
+        "MOVE_ENDURE",
+        "MOVE_CHIPAWAY",
+        "MOVE_VENOMDRENCH",
+        "MOVE_SUCKERPUNCH"
+    ],
+    "learnset": [
+        {
+            "level": 1,
+            "move": "MOVE_GROWL"
+        },
+        {
+            "level": 1,
+            "move": "MOVE_POISONSTING"
+        },
+        {
+            "level": 4,
+            "move": "MOVE_SCRATCH"
+        },
+        {
+            "level": 8,
+            "move": "MOVE_TAILWHIP"
+        },
+        {
+            "level": 12,
+            "move": "MOVE_FURYSWIPES"
+        },
+        {
+            "level": 16,
+            "move": "MOVE_TOXICSPIKES"
+        },
+        {
+            "level": 19,
+            "move": "MOVE_DOUBLEKICK"
+        },
+        {
+            "level": 23,
+            "move": "MOVE_POISONFANG"
+        },
+        {
+            "level": 27,
+            "move": "MOVE_BITE"
+        },
+        {
+            "level": 31,
+            "move": "MOVE_HELPINGHAND"
+        },
+        {
+            "level": 34,
+            "move": "MOVE_CAPTIVATE"
+        },
+        {
+            "level": 37,
+            "move": "MOVE_TOXIC"
+        },
+        {
+            "level": 40,
+            "move": "MOVE_FLATTER"
+        },
+        {
+            "level": 43,
+            "move": "MOVE_CRUNCH"
+        },
+        {
+            "level": 47,
+            "move": "MOVE_EARTHPOWER"
+        }
+    ]
+}

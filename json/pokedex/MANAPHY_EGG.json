@@ -1,0 +1,70 @@
+{
+    "noFlip": true,
+    "name": "Egg",
+    "learnset": [
+        {
+            "level": 1,
+            "move": "MOVE_BUBBLE"
+        },
+        {
+            "level": 1,
+            "move": "MOVE_WATERSPORT"
+        },
+        {
+            "level": 7,
+            "move": "MOVE_CHARM"
+        },
+        {
+            "level": 12,
+            "move": "MOVE_SUPERSONIC"
+        },
+        {
+            "level": 17,
+            "move": "MOVE_WATERPULSE"
+        },
+        {
+            "level": 23,
+            "move": "MOVE_AQUARING"
+        },
+        {
+            "level": 28,
+            "move": "MOVE_WHIRLPOOL"
+        },
+        {
+            "level": 34,
+            "move": "MOVE_ACIDARMOR"
+        },
+        {
+            "level": 39,
+            "move": "MOVE_BUBBLEBEAM"
+        },
+        {
+            "level": 45,
+            "move": "MOVE_LIFEDEW"
+        },
+        {
+            "level": 50,
+            "move": "MOVE_RAINDANCE"
+        },
+        {
+            "level": 55,
+            "move": "MOVE_TAKEHEART"
+        },
+        {
+            "level": 60,
+            "move": "MOVE_SURF"
+        },
+        {
+            "level": 66,
+            "move": "MOVE_MOONBLAST"
+        },
+        {
+            "level": 71,
+            "move": "MOVE_HEARTSWAP"
+        },
+        {
+            "level": 76,
+            "move": "MOVE_TAILGLOW"
+        }
+    ]
+}
