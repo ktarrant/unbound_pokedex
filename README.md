@@ -8,8 +8,5 @@ TODO: Link GitHub Repo with C data
 
 ## Future Work
 - Add evolution data to pokedex
-- Add learnsets to pokedex
-- Create "expanded pokedex" file with all TM data included and reverse lookups for evolution
 - Find Pokemon Area data and add to pokedex
 - Scrape TM location information and add to TM data
-- 
