@@ -103,6 +103,14 @@
             "move": "MOVE_SOLARBEAM"
         }
     ],
+    "evolution": [
+        {
+            "method": "EVO_LEVEL",
+            "condition": "34",
+            "target": "SAWSBUCK_WINTER",
+            "extra": "0"
+        }
+    ],
     "tm": [
         "MOVE_TOXIC",
         "MOVE_HIDDENPOWER",

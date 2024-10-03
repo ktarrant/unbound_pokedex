@@ -108,6 +108,14 @@
             "move": "MOVE_THRASH"
         }
     ],
+    "evolution": [
+        {
+            "method": "EVO_LEVEL",
+            "condition": "40",
+            "target": "KROOKODILE",
+            "extra": "0"
+        }
+    ],
     "tm": [
         "MOVE_FOCUSPUNCH",
         "MOVE_ROAR",

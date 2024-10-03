@@ -30,6 +30,14 @@
     "noFlip": true,
     "blurb": "It gets pumped up when cheered on. But if it starts showboating, it could put itself in a tough spot.",
     "name": "Cinderace",
+    "evolution": [
+        {
+            "method": "EVO_GIGANTAMAX",
+            "condition": "TRUE",
+            "target": "CINDERACE_GIGA",
+            "extra": "0"
+        }
+    ],
     "learnset": [
         {
             "level": 0,

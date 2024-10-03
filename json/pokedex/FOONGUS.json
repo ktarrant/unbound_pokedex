@@ -105,6 +105,14 @@
             "move": "MOVE_SPORE"
         }
     ],
+    "evolution": [
+        {
+            "method": "EVO_LEVEL",
+            "condition": "39",
+            "target": "AMOONGUSS",
+            "extra": "0"
+        }
+    ],
     "tm": [
         "MOVE_TOXIC",
         "MOVE_HIDDENPOWER",

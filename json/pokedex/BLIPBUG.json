@@ -42,6 +42,14 @@
             "move": "MOVE_STRUGGLEBUG"
         }
     ],
+    "evolution": [
+        {
+            "method": "EVO_LEVEL",
+            "condition": "10",
+            "target": "DOTTLER",
+            "extra": "0"
+        }
+    ],
     "tm": [
         "MOVE_STRUGGLEBUG",
         "MOVE_INFESTATION"

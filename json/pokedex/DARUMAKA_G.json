@@ -98,6 +98,14 @@
             "move": "MOVE_SUPERPOWER"
         }
     ],
+    "evolution": [
+        {
+            "method": "EVO_ITEM",
+            "condition": "ITEM_ICE_STONE",
+            "target": "DARMANITAN_G",
+            "extra": "0"
+        }
+    ],
     "tm": [
         "MOVE_FOCUSPUNCH",
         "MOVE_ROAR",

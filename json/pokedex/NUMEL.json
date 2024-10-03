@@ -114,6 +114,14 @@
             "move": "MOVE_DOUBLEEDGE"
         }
     ],
+    "evolution": [
+        {
+            "method": "EVO_LEVEL",
+            "condition": "33",
+            "target": "CAMERUPT",
+            "extra": "0"
+        }
+    ],
     "tm": [
         "MOVE_TOXIC",
         "MOVE_HIDDENPOWER",

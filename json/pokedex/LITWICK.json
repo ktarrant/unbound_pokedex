@@ -106,6 +106,14 @@
             "move": "MOVE_MEMENTO"
         }
     ],
+    "evolution": [
+        {
+            "method": "EVO_LEVEL",
+            "condition": "41",
+            "target": "LAMPENT",
+            "extra": "0"
+        }
+    ],
     "tm": [
         "MOVE_CALMMIND",
         "MOVE_TOXIC",

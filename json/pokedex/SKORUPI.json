@@ -124,6 +124,14 @@
             "move": "MOVE_CRUNCH"
         }
     ],
+    "evolution": [
+        {
+            "method": "EVO_LEVEL",
+            "condition": "40",
+            "target": "DRAPION",
+            "extra": "0"
+        }
+    ],
     "tm": [
         "MOVE_TOXIC",
         "MOVE_HIDDENPOWER",

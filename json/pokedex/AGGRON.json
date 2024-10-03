@@ -29,6 +29,14 @@
     "hiddenAbility": "ABILITY_HEAVYMETAL",
     "noFlip": true,
     "name": "Aggron",
+    "evolution": [
+        {
+            "method": "EVO_MEGA",
+            "condition": "ITEM_AGGRONITE",
+            "target": "AGGRON_MEGA",
+            "extra": "MEGA_VARIANT_STANDARD"
+        }
+    ],
     "learnset": [
         {
             "level": 1,

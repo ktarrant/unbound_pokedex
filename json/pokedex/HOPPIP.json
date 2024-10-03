@@ -124,6 +124,14 @@
             "move": "MOVE_MEMENTO"
         }
     ],
+    "evolution": [
+        {
+            "method": "EVO_LEVEL",
+            "condition": "18",
+            "target": "SKIPLOOM",
+            "extra": "0"
+        }
+    ],
     "tm": [
         "MOVE_TOXIC",
         "MOVE_BULLETSEED",

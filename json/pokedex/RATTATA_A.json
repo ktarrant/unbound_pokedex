@@ -100,6 +100,14 @@
             "move": "MOVE_ENDEAVOR"
         }
     ],
+    "evolution": [
+        {
+            "method": "EVO_LEVEL_NIGHT",
+            "condition": "20",
+            "target": "RATICATE_A",
+            "extra": "0"
+        }
+    ],
     "tm": [
         "MOVE_TOXIC",
         "MOVE_HIDDENPOWER",

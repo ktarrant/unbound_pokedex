@@ -111,6 +111,14 @@
             "move": "MOVE_ACROBATICS"
         }
     ],
+    "evolution": [
+        {
+            "method": "EVO_LEVEL",
+            "condition": "22",
+            "target": "GOLBAT",
+            "extra": "0"
+        }
+    ],
     "tm": [
         "MOVE_TOXIC",
         "MOVE_HIDDENPOWER",

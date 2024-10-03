@@ -119,6 +119,14 @@
             "move": "MOVE_FIREBLAST"
         }
     ],
+    "evolution": [
+        {
+            "method": "EVO_ITEM",
+            "condition": "ITEM_FIRE_STONE",
+            "target": "NINETALES",
+            "extra": "0"
+        }
+    ],
     "tm": [
         "MOVE_ROAR",
         "MOVE_TOXIC",

@@ -106,6 +106,14 @@
             "move": "MOVE_OUTRAGE"
         }
     ],
+    "evolution": [
+        {
+            "method": "EVO_MEGA",
+            "condition": "ITEM_NONE",
+            "target": "KANGASKHAN",
+            "extra": "MEGA_VARIANT_STANDARD"
+        }
+    ],
     "tm": [],
     "tutor": []
 }

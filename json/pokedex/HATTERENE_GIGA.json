@@ -83,6 +83,14 @@
             "move": "MOVE_HEALINGWISH"
         }
     ],
+    "evolution": [
+        {
+            "method": "EVO_GIGANTAMAX",
+            "condition": "FALSE",
+            "target": "HATTERENE",
+            "extra": "0"
+        }
+    ],
     "tm": [],
     "tutor": []
 }

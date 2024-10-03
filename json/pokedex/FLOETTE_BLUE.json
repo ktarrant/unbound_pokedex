@@ -28,6 +28,14 @@
     "safariZoneFleeRate": 0,
     "hiddenAbility": "ABILITY_SYMBIOSIS",
     "noFlip": true,
+    "evolution": [
+        {
+            "method": "EVO_ITEM",
+            "condition": "ITEM_SHINY_STONE",
+            "target": "FLORGES_BLUE",
+            "extra": "0"
+        }
+    ],
     "learnset": [
         {
             "level": 1,

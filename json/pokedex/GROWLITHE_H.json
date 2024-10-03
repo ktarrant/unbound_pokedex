@@ -121,6 +121,14 @@
             "move": "MOVE_FLAREBLITZ"
         }
     ],
+    "evolution": [
+        {
+            "method": "EVO_ITEM",
+            "condition": "ITEM_FIRE_STONE",
+            "target": "ARCANINE_H",
+            "extra": "0"
+        }
+    ],
     "tm": [
         "MOVE_ROAR",
         "MOVE_TOXIC",

@@ -83,6 +83,14 @@
             "move": "MOVE_HYPERBEAM"
         }
     ],
+    "evolution": [
+        {
+            "method": "EVO_GIGANTAMAX",
+            "condition": "FALSE",
+            "target": "DURALUDON",
+            "extra": "0"
+        }
+    ],
     "tm": [],
     "tutor": []
 }

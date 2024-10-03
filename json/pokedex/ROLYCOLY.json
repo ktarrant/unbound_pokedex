@@ -77,6 +77,14 @@
             "move": "MOVE_ROCKBLAST"
         }
     ],
+    "evolution": [
+        {
+            "method": "EVO_LEVEL",
+            "condition": "18",
+            "target": "CARKOL",
+            "extra": "0"
+        }
+    ],
     "tm": [
         "MOVE_TOXIC",
         "MOVE_HIDDENPOWER",

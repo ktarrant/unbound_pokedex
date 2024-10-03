@@ -41,6 +41,14 @@
         "MOVE_HEADBUTT",
         "MOVE_TROPKICK"
     ],
+    "evolution": [
+        {
+            "method": "EVO_LEVEL",
+            "condition": "34",
+            "target": "SAWSBUCK_SUMMER",
+            "extra": "0"
+        }
+    ],
     "learnset": [
         {
             "level": 1,

@@ -96,6 +96,14 @@
             "move": "MOVE_VOLTTACKLE"
         }
     ],
+    "evolution": [
+        {
+            "method": "EVO_LEVEL",
+            "condition": "30",
+            "target": "LUXRAY",
+            "extra": "0"
+        }
+    ],
     "tm": [
         "MOVE_ROAR",
         "MOVE_TOXIC",

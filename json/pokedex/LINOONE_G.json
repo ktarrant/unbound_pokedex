@@ -116,6 +116,14 @@
             "move": "MOVE_DOUBLEEDGE"
         }
     ],
+    "evolution": [
+        {
+            "method": "EVO_LEVEL_NIGHT",
+            "condition": "35",
+            "target": "OBSTAGOON",
+            "extra": "0"
+        }
+    ],
     "tm": [
         "MOVE_ROAR",
         "MOVE_TOXIC",

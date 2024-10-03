@@ -112,6 +112,14 @@
             "move": "MOVE_MAGICROOM"
         }
     ],
+    "evolution": [
+        {
+            "method": "EVO_LEVEL",
+            "condition": "32",
+            "target": "GOTHORITA",
+            "extra": "0"
+        }
+    ],
     "tm": [
         "MOVE_CALMMIND",
         "MOVE_TOXIC",

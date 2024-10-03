@@ -109,6 +109,14 @@
             "move": "MOVE_HYDROPUMP"
         }
     ],
+    "evolution": [
+        {
+            "method": "EVO_LEVEL",
+            "condition": "40",
+            "target": "OMASTAR",
+            "extra": "0"
+        }
+    ],
     "tm": [
         "MOVE_WATERPULSE",
         "MOVE_TOXIC",

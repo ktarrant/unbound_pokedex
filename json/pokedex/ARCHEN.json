@@ -114,6 +114,14 @@
             "move": "MOVE_ENDEAVOR"
         }
     ],
+    "evolution": [
+        {
+            "method": "EVO_LEVEL",
+            "condition": "37",
+            "target": "ARCHEOPS",
+            "extra": "0"
+        }
+    ],
     "tm": [
         "MOVE_DRAGONCLAW",
         "MOVE_ROAR",

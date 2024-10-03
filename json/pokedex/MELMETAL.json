@@ -30,6 +30,14 @@
     "noFlip": true,
     "blurb": "Revered long ago for its capacity to create iron from nothing, it has come back to life after 3000 years.",
     "name": "Melmetal",
+    "evolution": [
+        {
+            "method": "EVO_GIGANTAMAX",
+            "condition": "TRUE",
+            "target": "MELMETAL_GIGA",
+            "extra": "0"
+        }
+    ],
     "learnset": [
         {
             "level": 0,

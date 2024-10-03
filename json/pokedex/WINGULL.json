@@ -97,6 +97,14 @@
             "move": "MOVE_HURRICANE"
         }
     ],
+    "evolution": [
+        {
+            "method": "EVO_LEVEL",
+            "condition": "25",
+            "target": "PELIPPER",
+            "extra": "0"
+        }
+    ],
     "tm": [
         "MOVE_WATERPULSE",
         "MOVE_TOXIC",

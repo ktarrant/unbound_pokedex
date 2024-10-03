@@ -119,6 +119,14 @@
             "move": "MOVE_DESTINYBOND"
         }
     ],
+    "evolution": [
+        {
+            "method": "EVO_LEVEL",
+            "condition": "32",
+            "target": "CACTURNE",
+            "extra": "0"
+        }
+    ],
     "tm": [
         "MOVE_FOCUSPUNCH",
         "MOVE_TOXIC",

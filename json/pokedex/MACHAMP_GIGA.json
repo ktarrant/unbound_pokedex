@@ -111,6 +111,14 @@
             "move": "MOVE_CLOSECOMBAT"
         }
     ],
+    "evolution": [
+        {
+            "method": "EVO_GIGANTAMAX",
+            "condition": "FALSE",
+            "target": "MACHAMP",
+            "extra": "0"
+        }
+    ],
     "tm": [],
     "tutor": []
 }

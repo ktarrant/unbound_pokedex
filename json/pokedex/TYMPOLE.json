@@ -109,6 +109,14 @@
             "move": "MOVE_HYDROPUMP"
         }
     ],
+    "evolution": [
+        {
+            "method": "EVO_LEVEL",
+            "condition": "25",
+            "target": "PALPITOAD",
+            "extra": "0"
+        }
+    ],
     "tm": [
         "MOVE_WATERPULSE",
         "MOVE_TOXIC",

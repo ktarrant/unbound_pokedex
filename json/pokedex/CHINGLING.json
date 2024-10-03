@@ -75,6 +75,14 @@
             "move": "MOVE_LASTRESORT"
         }
     ],
+    "evolution": [
+        {
+            "method": "EVO_FRIENDSHIP_NIGHT",
+            "condition": "0",
+            "target": "CHIMECHO",
+            "extra": "0"
+        }
+    ],
     "tm": [
         "MOVE_CALMMIND",
         "MOVE_TOXIC",

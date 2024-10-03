@@ -29,6 +29,14 @@
     "hiddenAbility": "ABILITY_UNNERVE",
     "noFlip": true,
     "name": "Tyranitar",
+    "evolution": [
+        {
+            "method": "EVO_MEGA",
+            "condition": "ITEM_TYRANITARITE",
+            "target": "TYRANITAR_MEGA",
+            "extra": "MEGA_VARIANT_STANDARD"
+        }
+    ],
     "learnset": [
         {
             "level": 1,

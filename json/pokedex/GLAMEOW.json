@@ -112,6 +112,14 @@
             "move": "MOVE_PLAYROUGH"
         }
     ],
+    "evolution": [
+        {
+            "method": "EVO_LEVEL",
+            "condition": "34",
+            "target": "PURUGLY",
+            "extra": "0"
+        }
+    ],
     "tm": [
         "MOVE_WATERPULSE",
         "MOVE_TOXIC",

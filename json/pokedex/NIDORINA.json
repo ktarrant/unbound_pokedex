@@ -91,6 +91,14 @@
             "move": "MOVE_EARTHPOWER"
         }
     ],
+    "evolution": [
+        {
+            "method": "EVO_ITEM",
+            "condition": "ITEM_MOON_STONE",
+            "target": "NIDOQUEEN",
+            "extra": "0"
+        }
+    ],
     "tm": [
         "MOVE_WATERPULSE",
         "MOVE_TOXIC",

@@ -46,6 +46,14 @@
         "MOVE_SPARKLINGARIA"
     ],
     "name": "Lapras",
+    "evolution": [
+        {
+            "method": "EVO_GIGANTAMAX",
+            "condition": "TRUE",
+            "target": "LAPRAS_GIGA",
+            "extra": "0"
+        }
+    ],
     "learnset": [
         {
             "level": 1,

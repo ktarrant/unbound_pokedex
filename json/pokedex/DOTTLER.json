@@ -60,6 +60,14 @@
             "move": "MOVE_LIGHTSCREEN"
         }
     ],
+    "evolution": [
+        {
+            "method": "EVO_LEVEL",
+            "condition": "30",
+            "target": "ORBEETLE",
+            "extra": "0"
+        }
+    ],
     "tm": [
         "MOVE_CALMMIND",
         "MOVE_TOXIC",

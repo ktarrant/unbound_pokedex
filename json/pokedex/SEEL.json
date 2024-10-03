@@ -121,6 +121,14 @@
             "move": "MOVE_DOUBLEEDGE"
         }
     ],
+    "evolution": [
+        {
+            "method": "EVO_LEVEL",
+            "condition": "34",
+            "target": "DEWGONG",
+            "extra": "0"
+        }
+    ],
     "tm": [
         "MOVE_WATERPULSE",
         "MOVE_TOXIC",

@@ -111,6 +111,14 @@
             "move": "MOVE_HURRICANE"
         }
     ],
+    "evolution": [
+        {
+            "method": "EVO_LEVEL",
+            "condition": "30",
+            "target": "SWANNA",
+            "extra": "0"
+        }
+    ],
     "tm": [
         "MOVE_WATERPULSE",
         "MOVE_TOXIC",

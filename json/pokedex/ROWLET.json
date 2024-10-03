@@ -108,6 +108,14 @@
             "move": "MOVE_BRAVEBIRD"
         }
     ],
+    "evolution": [
+        {
+            "method": "EVO_LEVEL",
+            "condition": "17",
+            "target": "DARTRIX",
+            "extra": "0"
+        }
+    ],
     "tm": [
         "MOVE_TOXIC",
         "MOVE_HIDDENPOWER",

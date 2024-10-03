@@ -96,6 +96,14 @@
             "move": "MOVE_BRAVEBIRD"
         }
     ],
+    "evolution": [
+        {
+            "method": "EVO_LEVEL",
+            "condition": "28",
+            "target": "TOUCANNON",
+            "extra": "0"
+        }
+    ],
     "tm": [
         "MOVE_TOXIC",
         "MOVE_BULLETSEED",

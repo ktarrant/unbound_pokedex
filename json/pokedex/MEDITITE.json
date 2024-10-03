@@ -118,6 +118,14 @@
             "move": "MOVE_COUNTER"
         }
     ],
+    "evolution": [
+        {
+            "method": "EVO_LEVEL",
+            "condition": "37",
+            "target": "MEDICHAM",
+            "extra": "0"
+        }
+    ],
     "tm": [
         "MOVE_FOCUSPUNCH",
         "MOVE_CALMMIND",

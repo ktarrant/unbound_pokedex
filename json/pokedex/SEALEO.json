@@ -103,6 +103,14 @@
             "move": "MOVE_SHEERCOLD"
         }
     ],
+    "evolution": [
+        {
+            "method": "EVO_LEVEL",
+            "condition": "44",
+            "target": "WALREIN",
+            "extra": "0"
+        }
+    ],
     "tm": [
         "MOVE_WATERPULSE",
         "MOVE_ROAR",

@@ -109,6 +109,14 @@
             "move": "MOVE_SOLARBEAM"
         }
     ],
+    "evolution": [
+        {
+            "method": "EVO_ITEM",
+            "condition": "ITEM_LEAF_STONE",
+            "target": "EXEGGUTOR_A",
+            "extra": "0"
+        }
+    ],
     "tm": [
         "MOVE_TOXIC",
         "MOVE_BULLETSEED",

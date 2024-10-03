@@ -111,6 +111,14 @@
             "move": "MOVE_THRASH"
         }
     ],
+    "evolution": [
+        {
+            "method": "EVO_ITEM_NIGHT",
+            "condition": "ITEM_PEAT_BLOCK",
+            "target": "URSALUNA",
+            "extra": "0"
+        }
+    ],
     "tm": [
         "MOVE_FOCUSPUNCH",
         "MOVE_ROAR",

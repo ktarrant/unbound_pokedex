@@ -107,6 +107,14 @@
             "move": "MOVE_FIREBLAST"
         }
     ],
+    "evolution": [
+        {
+            "method": "EVO_LEVEL",
+            "condition": "16",
+            "target": "BRAIXEN",
+            "extra": "0"
+        }
+    ],
     "tm": [
         "MOVE_TOXIC",
         "MOVE_HIDDENPOWER",

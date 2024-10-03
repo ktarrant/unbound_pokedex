@@ -98,6 +98,14 @@
             "move": "MOVE_WISH"
         }
     ],
+    "evolution": [
+        {
+            "method": "EVO_LEVEL",
+            "condition": "19",
+            "target": "FLOETTE_WHITE",
+            "extra": "0"
+        }
+    ],
     "tm": [
         "MOVE_CALMMIND",
         "MOVE_TOXIC",

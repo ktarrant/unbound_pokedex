@@ -127,6 +127,14 @@
             "move": "MOVE_QUIVERDANCE"
         }
     ],
+    "evolution": [
+        {
+            "method": "EVO_GIGANTAMAX",
+            "condition": "FALSE",
+            "target": "BUTTERFREE",
+            "extra": "0"
+        }
+    ],
     "tm": [],
     "tutor": []
 }

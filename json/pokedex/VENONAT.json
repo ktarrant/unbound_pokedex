@@ -103,6 +103,14 @@
             "move": "MOVE_PSYCHIC"
         }
     ],
+    "evolution": [
+        {
+            "method": "EVO_LEVEL",
+            "condition": "31",
+            "target": "VENOMOTH",
+            "extra": "0"
+        }
+    ],
     "tm": [
         "MOVE_TOXIC",
         "MOVE_HIDDENPOWER",

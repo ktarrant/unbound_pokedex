@@ -95,6 +95,14 @@
             "move": "MOVE_DOUBLEEDGE"
         }
     ],
+    "evolution": [
+        {
+            "method": "EVO_LEVEL",
+            "condition": "50",
+            "target": "SALAMENCE",
+            "extra": "0"
+        }
+    ],
     "tm": [
         "MOVE_DRAGONCLAW",
         "MOVE_ROAR",

@@ -126,6 +126,14 @@
             "move": "MOVE_FLAREBLITZ"
         }
     ],
+    "evolution": [
+        {
+            "method": "EVO_MEGA",
+            "condition": "ITEM_NONE",
+            "target": "BLAZIKEN",
+            "extra": "MEGA_VARIANT_STANDARD"
+        }
+    ],
     "tm": [],
     "tutor": []
 }

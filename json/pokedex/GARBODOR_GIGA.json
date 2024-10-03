@@ -111,6 +111,14 @@
             "move": "MOVE_EXPLOSION"
         }
     ],
+    "evolution": [
+        {
+            "method": "EVO_GIGANTAMAX",
+            "condition": "FALSE",
+            "target": "GARBODOR",
+            "extra": "0"
+        }
+    ],
     "tm": [],
     "tutor": []
 }

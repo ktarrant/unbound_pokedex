@@ -46,6 +46,14 @@
     ],
     "blurb": "Its shape and coloration vary, depending on its habitat.",
     "name": "Shellos",
+    "evolution": [
+        {
+            "method": "EVO_LEVEL",
+            "condition": "30",
+            "target": "GASTRODON",
+            "extra": "0"
+        }
+    ],
     "learnset": [
         {
             "level": 1,

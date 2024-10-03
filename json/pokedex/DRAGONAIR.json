@@ -91,6 +91,14 @@
             "move": "MOVE_HYPERBEAM"
         }
     ],
+    "evolution": [
+        {
+            "method": "EVO_LEVEL",
+            "condition": "55",
+            "target": "DRAGONITE",
+            "extra": "0"
+        }
+    ],
     "tm": [
         "MOVE_WATERPULSE",
         "MOVE_TOXIC",

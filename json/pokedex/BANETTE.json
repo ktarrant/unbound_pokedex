@@ -29,6 +29,14 @@
     "hiddenAbility": "ABILITY_CURSEDBODY",
     "noFlip": true,
     "name": "Banette",
+    "evolution": [
+        {
+            "method": "EVO_MEGA",
+            "condition": "ITEM_BANETTITE",
+            "target": "BANETTE_MEGA",
+            "extra": "MEGA_VARIANT_STANDARD"
+        }
+    ],
     "learnset": [
         {
             "level": 0,

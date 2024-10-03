@@ -57,6 +57,14 @@
             "move": "MOVE_QUICKATTACK"
         }
     ],
+    "evolution": [
+        {
+            "method": "EVO_LEVEL",
+            "condition": "50",
+            "target": "DRAKLOAK",
+            "extra": "0"
+        }
+    ],
     "tm": [
         "MOVE_TOXIC",
         "MOVE_HIDDENPOWER",

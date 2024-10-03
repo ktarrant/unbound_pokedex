@@ -29,6 +29,14 @@
     "hiddenAbility": "ABILITY_ANGERPOINT",
     "noFlip": true,
     "name": "Camerupt",
+    "evolution": [
+        {
+            "method": "EVO_MEGA",
+            "condition": "ITEM_CAMERUPTITE",
+            "target": "CAMERUPT_MEGA",
+            "extra": "MEGA_VARIANT_STANDARD"
+        }
+    ],
     "learnset": [
         {
             "level": 0,

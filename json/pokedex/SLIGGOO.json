@@ -80,6 +80,14 @@
             "move": "MOVE_MUDDYWATER"
         }
     ],
+    "evolution": [
+        {
+            "method": "EVO_RAINY_FOGGY_OW",
+            "condition": "50",
+            "target": "GOODRA",
+            "extra": "0"
+        }
+    ],
     "tm": [
         "MOVE_WATERPULSE",
         "MOVE_TOXIC",

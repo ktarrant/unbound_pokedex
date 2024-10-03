@@ -29,6 +29,14 @@
     "hiddenAbility": "ABILITY_SHEDSKIN",
     "noFlip": true,
     "name": "Rayquaza",
+    "evolution": [
+        {
+            "method": "EVO_MEGA",
+            "condition": "MOVE_DRAGONASCENT",
+            "target": "RAYQUAZA_MEGA",
+            "extra": "MEGA_VARIANT_WISH"
+        }
+    ],
     "learnset": [
         {
             "level": 1,

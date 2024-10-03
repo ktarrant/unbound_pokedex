@@ -113,6 +113,14 @@
             "move": "MOVE_WATERSPOUT"
         }
     ],
+    "evolution": [
+        {
+            "method": "EVO_LEVEL",
+            "condition": "40",
+            "target": "WAILORD",
+            "extra": "0"
+        }
+    ],
     "tm": [
         "MOVE_WATERPULSE",
         "MOVE_ROAR",

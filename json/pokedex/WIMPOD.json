@@ -52,6 +52,14 @@
             "move": "MOVE_DEFENSECURL"
         }
     ],
+    "evolution": [
+        {
+            "method": "EVO_LEVEL",
+            "condition": "30",
+            "target": "GOLISOPOD",
+            "extra": "0"
+        }
+    ],
     "tm": [
         "MOVE_TOXIC",
         "MOVE_HAIL",

@@ -110,6 +110,14 @@
             "move": "MOVE_HAMMERARM"
         }
     ],
+    "evolution": [
+        {
+            "method": "EVO_MEGA",
+            "condition": "ITEM_NONE",
+            "target": "SWAMPERT",
+            "extra": "MEGA_VARIANT_STANDARD"
+        }
+    ],
     "tm": [],
     "tutor": []
 }

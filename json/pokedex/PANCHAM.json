@@ -99,6 +99,14 @@
             "move": "MOVE_SKYUPPERCUT"
         }
     ],
+    "evolution": [
+        {
+            "method": "EVO_TYPE_IN_PARTY",
+            "condition": "32",
+            "target": "PANGORO",
+            "extra": "TYPE_DARK"
+        }
+    ],
     "tm": [
         "MOVE_FOCUSPUNCH",
         "MOVE_ROAR",

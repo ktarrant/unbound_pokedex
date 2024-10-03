@@ -111,6 +111,14 @@
             "move": "MOVE_HYPERBEAM"
         }
     ],
+    "evolution": [
+        {
+            "method": "EVO_LEVEL",
+            "condition": "48",
+            "target": "TYRANITAR",
+            "extra": "0"
+        }
+    ],
     "tm": [
         "MOVE_TOXIC",
         "MOVE_HIDDENPOWER",

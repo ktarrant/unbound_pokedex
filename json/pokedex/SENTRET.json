@@ -105,6 +105,14 @@
             "move": "MOVE_EXTREMESPEED"
         }
     ],
+    "evolution": [
+        {
+            "method": "EVO_LEVEL",
+            "condition": "15",
+            "target": "FURRET",
+            "extra": "0"
+        }
+    ],
     "tm": [
         "MOVE_FOCUSPUNCH",
         "MOVE_WATERPULSE",

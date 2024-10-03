@@ -43,6 +43,14 @@
         "MOVE_ICEBALL"
     ],
     "name": "Snorlax",
+    "evolution": [
+        {
+            "method": "EVO_GIGANTAMAX",
+            "condition": "TRUE",
+            "target": "SNORLAX_GIGA",
+            "extra": "0"
+        }
+    ],
     "learnset": [
         {
             "level": 1,

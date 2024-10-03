@@ -108,6 +108,14 @@
             "move": "MOVE_DOUBLEEDGE"
         }
     ],
+    "evolution": [
+        {
+            "method": "EVO_LEVEL_NIGHT",
+            "condition": "28",
+            "target": "MAROWAK_A",
+            "extra": "0"
+        }
+    ],
     "tm": [
         "MOVE_SUNNYDAY",
         "MOVE_ICEBEAM",

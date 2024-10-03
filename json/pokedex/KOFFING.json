@@ -43,6 +43,14 @@
         "MOVE_VENOMDRENCH"
     ],
     "name": "Koffing",
+    "evolution": [
+        {
+            "method": "EVO_LEVEL",
+            "condition": "35",
+            "target": "WEEZING",
+            "extra": "0"
+        }
+    ],
     "learnset": [
         {
             "level": 1,

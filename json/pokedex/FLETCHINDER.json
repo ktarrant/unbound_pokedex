@@ -103,6 +103,14 @@
             "move": "MOVE_FLY"
         }
     ],
+    "evolution": [
+        {
+            "method": "EVO_LEVEL",
+            "condition": "35",
+            "target": "TALONFLAME",
+            "extra": "0"
+        }
+    ],
     "tm": [
         "MOVE_TOXIC",
         "MOVE_HIDDENPOWER",

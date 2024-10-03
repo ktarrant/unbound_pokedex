@@ -30,6 +30,14 @@
     "noFlip": true,
     "blurb": "Inhabiting the mountains of a distant region, it races across sheer cliffs, training its legs and refining its moves.",
     "name": "Urshifu",
+    "evolution": [
+        {
+            "method": "EVO_GIGANTAMAX",
+            "condition": "TRUE",
+            "target": "URSHIFU_SINGLE_GIGA",
+            "extra": "0"
+        }
+    ],
     "learnset": [
         {
             "level": 0,

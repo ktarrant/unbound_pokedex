@@ -112,6 +112,14 @@
             "move": "MOVE_SUPERFANG"
         }
     ],
+    "evolution": [
+        {
+            "method": "EVO_LEVEL",
+            "condition": "20",
+            "target": "WATCHOG",
+            "extra": "0"
+        }
+    ],
     "tm": [
         "MOVE_TOXIC",
         "MOVE_BULLETSEED",

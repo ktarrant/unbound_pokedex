@@ -110,6 +110,14 @@
             "move": "MOVE_SEEDFLARE"
         }
     ],
+    "evolution": [
+        {
+            "method": "EVO_ITEM",
+            "condition": "ITEM_SUN_STONE",
+            "target": "SUNFLORA",
+            "extra": "0"
+        }
+    ],
     "tm": [
         "MOVE_TOXIC",
         "MOVE_BULLETSEED",

@@ -90,6 +90,14 @@
             "move": "MOVE_SLACKOFF"
         }
     ],
+    "evolution": [
+        {
+            "method": "EVO_LEVEL",
+            "condition": "34",
+            "target": "HIPPOWDON_F",
+            "extra": "0"
+        }
+    ],
     "tm": [
         "MOVE_WATERPULSE",
         "MOVE_ROAR",

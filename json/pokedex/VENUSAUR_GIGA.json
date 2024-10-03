@@ -107,6 +107,14 @@
             "move": "MOVE_SOLARBEAM"
         }
     ],
+    "evolution": [
+        {
+            "method": "EVO_GIGANTAMAX",
+            "condition": "FALSE",
+            "target": "VENUSAUR",
+            "extra": "0"
+        }
+    ],
     "tm": [],
     "tutor": []
 }

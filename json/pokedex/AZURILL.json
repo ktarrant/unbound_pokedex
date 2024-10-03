@@ -84,6 +84,14 @@
             "move": "MOVE_BOUNCE"
         }
     ],
+    "evolution": [
+        {
+            "method": "EVO_FRIENDSHIP",
+            "condition": "0",
+            "target": "MARILL",
+            "extra": "0"
+        }
+    ],
     "tm": [
         "MOVE_WATERPULSE",
         "MOVE_TOXIC",

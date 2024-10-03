@@ -106,6 +106,14 @@
             "move": "MOVE_SAFEGUARD"
         }
     ],
+    "evolution": [
+        {
+            "method": "EVO_MEGA",
+            "condition": "ITEM_NONE",
+            "target": "DIANCIE",
+            "extra": "MEGA_VARIANT_STANDARD"
+        }
+    ],
     "tm": [],
     "tutor": []
 }

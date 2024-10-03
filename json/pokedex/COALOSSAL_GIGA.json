@@ -87,6 +87,14 @@
             "move": "MOVE_BURNUP"
         }
     ],
+    "evolution": [
+        {
+            "method": "EVO_GIGANTAMAX",
+            "condition": "FALSE",
+            "target": "COALOSSAL",
+            "extra": "0"
+        }
+    ],
     "tm": [],
     "tutor": []
 }

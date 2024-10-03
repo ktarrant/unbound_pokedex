@@ -111,6 +111,14 @@
             "move": "MOVE_HORNDRILL"
         }
     ],
+    "evolution": [
+        {
+            "method": "EVO_LEVEL",
+            "condition": "42",
+            "target": "RHYDON",
+            "extra": "0"
+        }
+    ],
     "tm": [
         "MOVE_ROAR",
         "MOVE_TOXIC",

@@ -79,6 +79,14 @@
             "move": "MOVE_CHARM"
         }
     ],
+    "evolution": [
+        {
+            "method": "EVO_FRIENDSHIP",
+            "condition": "0",
+            "target": "JIGGLYPUFF",
+            "extra": "0"
+        }
+    ],
     "tm": [
         "MOVE_WATERPULSE",
         "MOVE_TOXIC",

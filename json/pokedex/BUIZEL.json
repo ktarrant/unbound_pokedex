@@ -102,6 +102,14 @@
             "move": "MOVE_HYDROPUMP"
         }
     ],
+    "evolution": [
+        {
+            "method": "EVO_LEVEL",
+            "condition": "26",
+            "target": "FLOATZEL",
+            "extra": "0"
+        }
+    ],
     "tm": [
         "MOVE_FOCUSPUNCH",
         "MOVE_WATERPULSE",

@@ -103,6 +103,14 @@
             "move": "MOVE_THUNDERCAGE"
         }
     ],
+    "evolution": [
+        {
+            "method": "EVO_LEVEL",
+            "condition": "15",
+            "target": "FLAAFFY",
+            "extra": "0"
+        }
+    ],
     "tm": [
         "MOVE_TOXIC",
         "MOVE_HIDDENPOWER",

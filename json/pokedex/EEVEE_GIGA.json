@@ -103,6 +103,14 @@
             "move": "MOVE_TRUMPCARD"
         }
     ],
+    "evolution": [
+        {
+            "method": "EVO_GIGANTAMAX",
+            "condition": "FALSE",
+            "target": "EEVEE",
+            "extra": "0"
+        }
+    ],
     "tm": [],
     "tutor": []
 }

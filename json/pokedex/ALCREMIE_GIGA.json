@@ -83,6 +83,14 @@
             "move": "MOVE_ENTRAINMENT"
         }
     ],
+    "evolution": [
+        {
+            "method": "EVO_GIGANTAMAX",
+            "condition": "FALSE",
+            "target": "ALCREMIE_STRAWBERRY",
+            "extra": "0"
+        }
+    ],
     "tm": [],
     "tutor": []
 }

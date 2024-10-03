@@ -180,7 +180,44 @@ def parse_level_up_moves(file_name):
 
     return final_data
 
-# Example usage:
-# moves_data = parse_level_up_moves('level_up_moves.txt')
-# species_map = parse_species_map('level_up_moves.txt')
-# merge_data_and_save_to_json(moves_data, species_map, 'level_up_moves_output.json')
+
+import re
+import json
+
+
+def parse_evolution_data(file_name):
+    """Parse the evolution data from the file and return it as a dictionary."""
+    evolution_data = {}
+
+    # Regex to match each species entry and extract the evolution details
+    species_pattern = re.compile(r'\[SPECIES_(\w+)\]\s*=\s*\{(.+?})},', re.MULTILINE)
+    evolution_pattern = re.compile(r'\{\s*(\w+),\s*([^,]+),\s*(SPECIES_\w+),\s*([^}]+)\s*}', re.MULTILINE)
+
+    with open(file_name, 'r') as file:
+        file_content = file.read()
+
+        # Iterate through each species block
+        for species_match in species_pattern.finditer(file_content):
+            species_name = species_match.group(1)  # e.g., BULBASAUR
+            evolutions = species_match.group(2).strip()
+
+            # Parse the evolution details for this species
+            evolutions_list = []
+            for evolution_match in evolution_pattern.finditer(evolutions):
+                method = evolution_match.group(1)  # e.g., EVO_LEVEL
+                condition = evolution_match.group(2)  # e.g., 16 or ITEM_THUNDER_STONE
+                target_species = evolution_match.group(3)  # e.g., SPECIES_IVYSAUR
+                extra = evolution_match.group(4).strip()  # e.g., 0 or MEGA_VARIANT_STANDARD
+
+                # Store the evolution details as a dictionary
+                evolutions_list.append({
+                    "method": method,
+                    "condition": condition,
+                    "target": target_species.replace('SPECIES_', ''),  # Remove SPECIES_ prefix
+                    "extra": extra
+                })
+
+            # Store this species' evolution data
+            evolution_data[species_name] = evolutions_list
+
+    return evolution_data

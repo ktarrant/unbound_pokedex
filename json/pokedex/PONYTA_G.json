@@ -101,6 +101,14 @@
             "move": "MOVE_HIGHHORSEPOWER"
         }
     ],
+    "evolution": [
+        {
+            "method": "EVO_LEVEL",
+            "condition": "40",
+            "target": "RAPIDASH_G",
+            "extra": "0"
+        }
+    ],
     "tm": [
         "MOVE_CALMMIND",
         "MOVE_TOXIC",

@@ -105,6 +105,14 @@
             "move": "MOVE_LEAFSTORM"
         }
     ],
+    "evolution": [
+        {
+            "method": "EVO_LEVEL",
+            "condition": "18",
+            "target": "GROTLE",
+            "extra": "0"
+        }
+    ],
     "tm": [
         "MOVE_TOXIC",
         "MOVE_BULLETSEED",

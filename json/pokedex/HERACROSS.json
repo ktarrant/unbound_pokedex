@@ -40,6 +40,14 @@
         "MOVE_ROCKBLAST"
     ],
     "name": "Heracross",
+    "evolution": [
+        {
+            "method": "EVO_MEGA",
+            "condition": "ITEM_HERACRONITE",
+            "target": "HERACROSS_MEGA",
+            "extra": "MEGA_VARIANT_STANDARD"
+        }
+    ],
     "learnset": [
         {
             "level": 1,

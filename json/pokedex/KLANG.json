@@ -96,6 +96,14 @@
             "move": "MOVE_HYPERBEAM"
         }
     ],
+    "evolution": [
+        {
+            "method": "EVO_LEVEL",
+            "condition": "45",
+            "target": "KLINKLANG",
+            "extra": "0"
+        }
+    ],
     "tm": [
         "MOVE_TOXIC",
         "MOVE_HIDDENPOWER",

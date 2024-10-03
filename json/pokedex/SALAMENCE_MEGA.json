@@ -110,6 +110,14 @@
             "move": "MOVE_DOUBLEEDGE"
         }
     ],
+    "evolution": [
+        {
+            "method": "EVO_MEGA",
+            "condition": "ITEM_NONE",
+            "target": "SALAMENCE",
+            "extra": "MEGA_VARIANT_STANDARD"
+        }
+    ],
     "tm": [],
     "tutor": []
 }

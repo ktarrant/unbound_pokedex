@@ -104,6 +104,14 @@
             "move": "MOVE_HEADSMASH"
         }
     ],
+    "evolution": [
+        {
+            "method": "EVO_MOVE",
+            "condition": "MOVE_MIMIC",
+            "target": "SUDOWOODO",
+            "extra": "0"
+        }
+    ],
     "tm": [
         "MOVE_CALMMIND",
         "MOVE_TOXIC",

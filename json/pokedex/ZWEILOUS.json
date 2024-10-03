@@ -112,6 +112,14 @@
             "move": "MOVE_OUTRAGE"
         }
     ],
+    "evolution": [
+        {
+            "method": "EVO_LEVEL",
+            "condition": "64",
+            "target": "HYDREIGON",
+            "extra": "0"
+        }
+    ],
     "tm": [
         "MOVE_ROAR",
         "MOVE_TOXIC",

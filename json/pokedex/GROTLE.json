@@ -84,6 +84,14 @@
             "move": "MOVE_LEAFSTORM"
         }
     ],
+    "evolution": [
+        {
+            "method": "EVO_LEVEL",
+            "condition": "32",
+            "target": "TORTERRA",
+            "extra": "0"
+        }
+    ],
     "tm": [
         "MOVE_TOXIC",
         "MOVE_BULLETSEED",

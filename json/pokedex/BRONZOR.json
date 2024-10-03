@@ -100,6 +100,14 @@
             "move": "MOVE_DOOMDESIRE"
         }
     ],
+    "evolution": [
+        {
+            "method": "EVO_LEVEL",
+            "condition": "33",
+            "target": "BRONZONG",
+            "extra": "0"
+        }
+    ],
     "tm": [
         "MOVE_CALMMIND",
         "MOVE_TOXIC",

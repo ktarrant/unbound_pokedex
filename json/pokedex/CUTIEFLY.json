@@ -94,6 +94,14 @@
             "move": "MOVE_QUIVERDANCE"
         }
     ],
+    "evolution": [
+        {
+            "method": "EVO_LEVEL",
+            "condition": "25",
+            "target": "RIBOMBEE",
+            "extra": "0"
+        }
+    ],
     "tm": [
         "MOVE_CALMMIND",
         "MOVE_TOXIC",

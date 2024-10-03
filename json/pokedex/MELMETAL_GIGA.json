@@ -95,6 +95,14 @@
             "move": "MOVE_HYPERBEAM"
         }
     ],
+    "evolution": [
+        {
+            "method": "EVO_GIGANTAMAX",
+            "condition": "FALSE",
+            "target": "MELMETAL",
+            "extra": "0"
+        }
+    ],
     "tm": [],
     "tutor": []
 }

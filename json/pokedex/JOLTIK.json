@@ -107,6 +107,14 @@
             "move": "MOVE_BUGBUZZ"
         }
     ],
+    "evolution": [
+        {
+            "method": "EVO_LEVEL",
+            "condition": "36",
+            "target": "GALVANTULA",
+            "extra": "0"
+        }
+    ],
     "tm": [
         "MOVE_TOXIC",
         "MOVE_HIDDENPOWER",

@@ -29,6 +29,14 @@
     "hiddenAbility": "ABILITY_DAMP",
     "noFlip": true,
     "name": "Swampert",
+    "evolution": [
+        {
+            "method": "EVO_MEGA",
+            "condition": "ITEM_SWAMPERTITE",
+            "target": "SWAMPERT_MEGA",
+            "extra": "MEGA_VARIANT_STANDARD"
+        }
+    ],
     "learnset": [
         {
             "level": 1,

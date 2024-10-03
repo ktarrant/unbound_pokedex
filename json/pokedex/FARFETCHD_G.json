@@ -105,6 +105,14 @@
             "move": "MOVE_BRAVEBIRD"
         }
     ],
+    "evolution": [
+        {
+            "method": "EVO_CRITICAL_HIT",
+            "condition": "0",
+            "target": "SIRFETCHD",
+            "extra": "0"
+        }
+    ],
     "tm": [
         "MOVE_TOXIC",
         "MOVE_HIDDENPOWER",

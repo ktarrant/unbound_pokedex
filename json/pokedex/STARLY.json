@@ -99,6 +99,14 @@
             "move": "MOVE_FINALGAMBIT"
         }
     ],
+    "evolution": [
+        {
+            "method": "EVO_LEVEL",
+            "condition": "14",
+            "target": "STARAVIA",
+            "extra": "0"
+        }
+    ],
     "tm": [
         "MOVE_TOXIC",
         "MOVE_HIDDENPOWER",

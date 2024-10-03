@@ -91,6 +91,14 @@
             "move": "MOVE_BRAVEBIRD"
         }
     ],
+    "evolution": [
+        {
+            "method": "EVO_GIGANTAMAX",
+            "condition": "FALSE",
+            "target": "CORVIKNIGHT",
+            "extra": "0"
+        }
+    ],
     "tm": [],
     "tutor": []
 }

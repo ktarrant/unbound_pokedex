@@ -46,6 +46,14 @@
         "MOVE_WISH"
     ],
     "name": "Kangaskhan",
+    "evolution": [
+        {
+            "method": "EVO_MEGA",
+            "condition": "ITEM_KANGASKHANITE",
+            "target": "KANGASKHAN_MEGA",
+            "extra": "MEGA_VARIANT_STANDARD"
+        }
+    ],
     "learnset": [
         {
             "level": 1,

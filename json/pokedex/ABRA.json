@@ -51,6 +51,14 @@
             "move": "MOVE_TELEPORT"
         }
     ],
+    "evolution": [
+        {
+            "method": "EVO_LEVEL",
+            "condition": "16",
+            "target": "KADABRA",
+            "extra": "0"
+        }
+    ],
     "tm": [
         "MOVE_FOCUSPUNCH",
         "MOVE_CALMMIND",

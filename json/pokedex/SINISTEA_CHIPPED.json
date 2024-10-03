@@ -80,6 +80,14 @@
             "move": "MOVE_SHELLSMASH"
         }
     ],
+    "evolution": [
+        {
+            "method": "EVO_ITEM",
+            "condition": "ITEM_CHIPPED_POT",
+            "target": "POLTEAGEIST_CHIPPED",
+            "extra": "0"
+        }
+    ],
     "tm": [
         "MOVE_TOXIC",
         "MOVE_HIDDENPOWER",

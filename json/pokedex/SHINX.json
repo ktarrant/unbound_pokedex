@@ -112,6 +112,14 @@
             "move": "MOVE_VOLTTACKLE"
         }
     ],
+    "evolution": [
+        {
+            "method": "EVO_LEVEL",
+            "condition": "15",
+            "target": "LUXIO",
+            "extra": "0"
+        }
+    ],
     "tm": [
         "MOVE_ROAR",
         "MOVE_TOXIC",

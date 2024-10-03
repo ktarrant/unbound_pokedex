@@ -110,6 +110,14 @@
             "move": "MOVE_BRAVEBIRD"
         }
     ],
+    "evolution": [
+        {
+            "method": "EVO_LEVEL",
+            "condition": "50",
+            "target": "MANDIBUZZ",
+            "extra": "0"
+        }
+    ],
     "tm": [
         "MOVE_TOXIC",
         "MOVE_HIDDENPOWER",

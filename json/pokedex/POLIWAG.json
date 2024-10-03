@@ -111,6 +111,14 @@
             "move": "MOVE_HYDROPUMP"
         }
     ],
+    "evolution": [
+        {
+            "method": "EVO_LEVEL",
+            "condition": "25",
+            "target": "POLIWHIRL",
+            "extra": "0"
+        }
+    ],
     "tm": [
         "MOVE_WATERPULSE",
         "MOVE_TOXIC",

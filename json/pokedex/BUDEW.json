@@ -76,6 +76,14 @@
             "move": "MOVE_POISONPOWDER"
         }
     ],
+    "evolution": [
+        {
+            "method": "EVO_FRIENDSHIP_DAY",
+            "condition": "0",
+            "target": "ROSELIA",
+            "extra": "0"
+        }
+    ],
     "tm": [
         "MOVE_TOXIC",
         "MOVE_BULLETSEED",

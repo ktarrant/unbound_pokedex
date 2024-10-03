@@ -116,6 +116,14 @@
             "move": "MOVE_GUILLOTINE"
         }
     ],
+    "evolution": [
+        {
+            "method": "EVO_HOLD_ITEM_NIGHT",
+            "condition": "ITEM_RAZOR_FANG",
+            "target": "GLISCOR",
+            "extra": "0"
+        }
+    ],
     "tm": [
         "MOVE_TOXIC",
         "MOVE_HIDDENPOWER",

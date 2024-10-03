@@ -104,6 +104,14 @@
             "move": "MOVE_GIGAIMPACT"
         }
     ],
+    "evolution": [
+        {
+            "method": "EVO_LEVEL",
+            "condition": "48",
+            "target": "HAXORUS",
+            "extra": "0"
+        }
+    ],
     "tm": [
         "MOVE_DRAGONCLAW",
         "MOVE_ROAR",

@@ -99,6 +99,14 @@
             "move": "MOVE_EXPLOSION"
         }
     ],
+    "evolution": [
+        {
+            "method": "EVO_LEVEL",
+            "condition": "25",
+            "target": "BOLDORE",
+            "extra": "0"
+        }
+    ],
     "tm": [
         "MOVE_TOXIC",
         "MOVE_HIDDENPOWER",

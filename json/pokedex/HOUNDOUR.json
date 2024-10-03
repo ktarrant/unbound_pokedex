@@ -117,6 +117,14 @@
             "move": "MOVE_INFERNO"
         }
     ],
+    "evolution": [
+        {
+            "method": "EVO_LEVEL",
+            "condition": "24",
+            "target": "HOUNDOOM",
+            "extra": "0"
+        }
+    ],
     "tm": [
         "MOVE_ROAR",
         "MOVE_TOXIC",

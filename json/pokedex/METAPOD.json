@@ -39,6 +39,14 @@
             "move": "MOVE_HARDEN"
         }
     ],
+    "evolution": [
+        {
+            "method": "EVO_LEVEL",
+            "condition": "10",
+            "target": "BUTTERFREE",
+            "extra": "0"
+        }
+    ],
     "tm": [],
     "tutor": [
         "MOVE_ELECTROWEB",

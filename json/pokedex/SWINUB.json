@@ -109,6 +109,14 @@
             "move": "MOVE_BLIZZARD"
         }
     ],
+    "evolution": [
+        {
+            "method": "EVO_LEVEL",
+            "condition": "33",
+            "target": "PILOSWINE",
+            "extra": "0"
+        }
+    ],
     "tm": [
         "MOVE_ROAR",
         "MOVE_TOXIC",

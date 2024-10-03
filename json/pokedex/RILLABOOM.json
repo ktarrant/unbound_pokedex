@@ -30,6 +30,14 @@
     "noFlip": true,
     "blurb": "By drumming, it taps into the power of its special tree stump. The roots of the stump follow its direction in battle.",
     "name": "Rillaboom",
+    "evolution": [
+        {
+            "method": "EVO_GIGANTAMAX",
+            "condition": "TRUE",
+            "target": "RILLABOOM_GIGA",
+            "extra": "0"
+        }
+    ],
     "learnset": [
         {
             "level": 0,

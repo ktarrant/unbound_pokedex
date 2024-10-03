@@ -108,6 +108,14 @@
             "move": "MOVE_DARKPULSE"
         }
     ],
+    "evolution": [
+        {
+            "method": "EVO_FRIENDSHIP",
+            "condition": "0",
+            "target": "PERSIAN_A",
+            "extra": "0"
+        }
+    ],
     "tm": [
         "MOVE_WATERPULSE",
         "MOVE_TOXIC",

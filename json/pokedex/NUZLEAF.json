@@ -127,6 +127,14 @@
             "move": "MOVE_LEAFBLADE"
         }
     ],
+    "evolution": [
+        {
+            "method": "EVO_ITEM",
+            "condition": "ITEM_LEAF_STONE",
+            "target": "SHIFTRY",
+            "extra": "0"
+        }
+    ],
     "tm": [
         "MOVE_TOXIC",
         "MOVE_BULLETSEED",

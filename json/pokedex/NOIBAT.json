@@ -107,6 +107,14 @@
             "move": "MOVE_HURRICANE"
         }
     ],
+    "evolution": [
+        {
+            "method": "EVO_LEVEL",
+            "condition": "48",
+            "target": "NOIVERN",
+            "extra": "0"
+        }
+    ],
     "tm": [
         "MOVE_WATERPULSE",
         "MOVE_TOXIC",

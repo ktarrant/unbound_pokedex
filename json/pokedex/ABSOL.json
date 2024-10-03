@@ -45,6 +45,14 @@
         "MOVE_WISH"
     ],
     "name": "Absol",
+    "evolution": [
+        {
+            "method": "EVO_MEGA",
+            "condition": "ITEM_ABSOLITE",
+            "target": "ABSOL_MEGA",
+            "extra": "MEGA_VARIANT_STANDARD"
+        }
+    ],
     "learnset": [
         {
             "level": 1,

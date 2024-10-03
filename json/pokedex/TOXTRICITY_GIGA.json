@@ -139,6 +139,14 @@
             "move": "MOVE_SLUDGEBOMB"
         }
     ],
+    "evolution": [
+        {
+            "method": "EVO_GIGANTAMAX",
+            "condition": "FALSE",
+            "target": "TOXTRICITY",
+            "extra": "0"
+        }
+    ],
     "tm": [],
     "tutor": []
 }

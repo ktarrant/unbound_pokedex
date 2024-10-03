@@ -115,6 +115,14 @@
             "move": "MOVE_HIGHJUMPKICK"
         }
     ],
+    "evolution": [
+        {
+            "method": "EVO_LEVEL",
+            "condition": "46",
+            "target": "MIENSHAO",
+            "extra": "0"
+        }
+    ],
     "tm": [
         "MOVE_FOCUSPUNCH",
         "MOVE_CALMMIND",

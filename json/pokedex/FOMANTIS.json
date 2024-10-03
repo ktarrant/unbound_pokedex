@@ -88,6 +88,14 @@
             "move": "MOVE_SOLARBEAM"
         }
     ],
+    "evolution": [
+        {
+            "method": "EVO_LEVEL_DAY",
+            "condition": "34",
+            "target": "LURANTIS",
+            "extra": "0"
+        }
+    ],
     "tm": [
         "MOVE_TOXIC",
         "MOVE_BULLETSEED",

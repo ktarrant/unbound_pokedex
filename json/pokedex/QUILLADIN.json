@@ -96,6 +96,14 @@
             "move": "MOVE_WOODHAMMER"
         }
     ],
+    "evolution": [
+        {
+            "method": "EVO_LEVEL",
+            "condition": "36",
+            "target": "CHESNAUGHT",
+            "extra": "0"
+        }
+    ],
     "tm": [
         "MOVE_FOCUSPUNCH",
         "MOVE_ROAR",

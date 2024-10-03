@@ -29,6 +29,14 @@
     "hiddenAbility": "ABILITY_GALEWINGS",
     "noFlip": true,
     "name": "Pidgeot",
+    "evolution": [
+        {
+            "method": "EVO_MEGA",
+            "condition": "ITEM_PIDGEOTITE",
+            "target": "PIDGEOT_MEGA",
+            "extra": "MEGA_VARIANT_STANDARD"
+        }
+    ],
     "learnset": [
         {
             "level": 1,

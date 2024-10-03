@@ -106,6 +106,14 @@
             "move": "MOVE_WONDERROOM"
         }
     ],
+    "evolution": [
+        {
+            "method": "EVO_LEVEL",
+            "condition": "32",
+            "target": "DUOSION",
+            "extra": "0"
+        }
+    ],
     "tm": [
         "MOVE_CALMMIND",
         "MOVE_TOXIC",

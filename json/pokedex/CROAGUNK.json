@@ -117,6 +117,14 @@
             "move": "MOVE_CROSSCHOP"
         }
     ],
+    "evolution": [
+        {
+            "method": "EVO_LEVEL",
+            "condition": "37",
+            "target": "TOXICROAK",
+            "extra": "0"
+        }
+    ],
     "tm": [
         "MOVE_FOCUSPUNCH",
         "MOVE_TOXIC",

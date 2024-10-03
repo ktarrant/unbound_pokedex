@@ -90,6 +90,14 @@
             "move": "MOVE_PLAYROUGH"
         }
     ],
+    "evolution": [
+        {
+            "method": "EVO_LEVEL",
+            "condition": "18",
+            "target": "VIGOROTH",
+            "extra": "0"
+        }
+    ],
     "tm": [
         "MOVE_FOCUSPUNCH",
         "MOVE_WATERPULSE",

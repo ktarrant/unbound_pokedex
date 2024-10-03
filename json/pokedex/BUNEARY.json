@@ -134,6 +134,14 @@
             "move": "MOVE_HEALINGWISH"
         }
     ],
+    "evolution": [
+        {
+            "method": "EVO_FRIENDSHIP",
+            "condition": "0",
+            "target": "LOPUNNY",
+            "extra": "0"
+        }
+    ],
     "tm": [
         "MOVE_FOCUSPUNCH",
         "MOVE_WATERPULSE",

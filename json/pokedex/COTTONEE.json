@@ -114,6 +114,14 @@
             "move": "MOVE_SOLARBEAM"
         }
     ],
+    "evolution": [
+        {
+            "method": "EVO_ITEM",
+            "condition": "ITEM_SUN_STONE",
+            "target": "WHIMSICOTT",
+            "extra": "0"
+        }
+    ],
     "tm": [
         "MOVE_TOXIC",
         "MOVE_HIDDENPOWER",

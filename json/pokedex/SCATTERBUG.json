@@ -48,6 +48,14 @@
             "move": "MOVE_BUGBITE"
         }
     ],
+    "evolution": [
+        {
+            "method": "EVO_LEVEL",
+            "condition": "9",
+            "target": "SPEWPA",
+            "extra": "0"
+        }
+    ],
     "tm": [
         "MOVE_SILVERWIND"
     ],

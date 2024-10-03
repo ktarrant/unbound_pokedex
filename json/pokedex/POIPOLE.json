@@ -88,6 +88,14 @@
             "move": "MOVE_TOXIC"
         }
     ],
+    "evolution": [
+        {
+            "method": "EVO_MOVE",
+            "condition": "MOVE_DRAGONPULSE",
+            "target": "NAGANADEL",
+            "extra": "0"
+        }
+    ],
     "tm": [
         "MOVE_TOXIC",
         "MOVE_HIDDENPOWER",

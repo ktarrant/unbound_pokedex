@@ -109,6 +109,14 @@
             "move": "MOVE_CRUNCH"
         }
     ],
+    "evolution": [
+        {
+            "method": "EVO_ITEM",
+            "condition": "ITEM_WATER_STONE",
+            "target": "SIMIPOUR",
+            "extra": "0"
+        }
+    ],
     "tm": [
         "MOVE_FOCUSPUNCH",
         "MOVE_WATERPULSE",

@@ -48,6 +48,14 @@
             "move": "MOVE_BUGBITE"
         }
     ],
+    "evolution": [
+        {
+            "method": "EVO_LEVEL",
+            "condition": "10",
+            "target": "KRICKETUNE",
+            "extra": "0"
+        }
+    ],
     "tm": [
         "MOVE_STRUGGLEBUG"
     ],

@@ -99,6 +99,14 @@
             "move": "MOVE_DRAGONRUSH"
         }
     ],
+    "evolution": [
+        {
+            "method": "EVO_GIGANTAMAX",
+            "condition": "FALSE",
+            "target": "FLAPPLE",
+            "extra": "0"
+        }
+    ],
     "tm": [],
     "tutor": []
 }

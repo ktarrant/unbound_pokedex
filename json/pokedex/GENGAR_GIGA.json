@@ -111,6 +111,14 @@
             "move": "MOVE_DREAMEATER"
         }
     ],
+    "evolution": [
+        {
+            "method": "EVO_GIGANTAMAX",
+            "condition": "FALSE",
+            "target": "GENGAR",
+            "extra": "0"
+        }
+    ],
     "tm": [],
     "tutor": []
 }

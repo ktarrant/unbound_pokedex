@@ -92,6 +92,14 @@
             "move": "MOVE_SACREDSWORD"
         }
     ],
+    "evolution": [
+        {
+            "method": "EVO_ITEM",
+            "condition": "ITEM_DUSK_STONE",
+            "target": "AEGISLASH",
+            "extra": "0"
+        }
+    ],
     "tm": [
         "MOVE_TOXIC",
         "MOVE_HIDDENPOWER",

@@ -29,6 +29,14 @@
     "hiddenAbility": "ABILITY_SHEERFORCE",
     "noFlip": true,
     "name": "Kingler",
+    "evolution": [
+        {
+            "method": "EVO_GIGANTAMAX",
+            "condition": "TRUE",
+            "target": "KINGLER_GIGA",
+            "extra": "0"
+        }
+    ],
     "learnset": [
         {
             "level": 1,

@@ -90,6 +90,14 @@
             "move": "MOVE_WISH"
         }
     ],
+    "evolution": [
+        {
+            "method": "EVO_ITEM",
+            "condition": "ITEM_SHINY_STONE",
+            "target": "FLORGES_WHITE",
+            "extra": "0"
+        }
+    ],
     "tm": [
         "MOVE_CALMMIND",
         "MOVE_TOXIC",

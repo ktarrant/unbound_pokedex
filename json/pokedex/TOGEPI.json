@@ -119,6 +119,14 @@
             "move": "MOVE_WISH"
         }
     ],
+    "evolution": [
+        {
+            "method": "EVO_FRIENDSHIP",
+            "condition": "0",
+            "target": "TOGETIC",
+            "extra": "0"
+        }
+    ],
     "tm": [
         "MOVE_WATERPULSE",
         "MOVE_CALMMIND",

@@ -107,6 +107,14 @@
             "move": "MOVE_SHOREUP"
         }
     ],
+    "evolution": [
+        {
+            "method": "EVO_LEVEL",
+            "condition": "36",
+            "target": "CLAYDOL",
+            "extra": "0"
+        }
+    ],
     "tm": [
         "MOVE_CALMMIND",
         "MOVE_TOXIC",

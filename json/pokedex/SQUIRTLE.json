@@ -112,6 +112,14 @@
             "move": "MOVE_SKULLBASH"
         }
     ],
+    "evolution": [
+        {
+            "method": "EVO_LEVEL",
+            "condition": "16",
+            "target": "WARTORTLE",
+            "extra": "0"
+        }
+    ],
     "tm": [
         "MOVE_FOCUSPUNCH",
         "MOVE_WATERPULSE",

@@ -112,6 +112,14 @@
             "move": "MOVE_QUASH"
         }
     ],
+    "evolution": [
+        {
+            "method": "EVO_ITEM",
+            "condition": "ITEM_DUSK_STONE",
+            "target": "HONCHKROW",
+            "extra": "0"
+        }
+    ],
     "tm": [
         "MOVE_CALMMIND",
         "MOVE_TOXIC",

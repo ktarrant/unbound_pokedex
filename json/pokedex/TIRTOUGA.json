@@ -114,6 +114,14 @@
             "move": "MOVE_SHELLSMASH"
         }
     ],
+    "evolution": [
+        {
+            "method": "EVO_LEVEL",
+            "condition": "37",
+            "target": "CARRACOSTA",
+            "extra": "0"
+        }
+    ],
     "tm": [
         "MOVE_WATERPULSE",
         "MOVE_TOXIC",

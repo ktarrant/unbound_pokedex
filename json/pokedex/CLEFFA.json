@@ -85,6 +85,14 @@
             "move": "MOVE_MAGICALLEAF"
         }
     ],
+    "evolution": [
+        {
+            "method": "EVO_FRIENDSHIP",
+            "condition": "0",
+            "target": "CLEFAIRY",
+            "extra": "0"
+        }
+    ],
     "tm": [
         "MOVE_WATERPULSE",
         "MOVE_CALMMIND",

@@ -73,6 +73,14 @@
             "move": "MOVE_BODYSLAM"
         }
     ],
+    "evolution": [
+        {
+            "method": "EVO_LEVEL",
+            "condition": "22",
+            "target": "DREDNAW",
+            "extra": "0"
+        }
+    ],
     "tm": [
         "MOVE_WATERPULSE",
         "MOVE_TOXIC",

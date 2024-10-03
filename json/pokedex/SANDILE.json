@@ -121,6 +121,14 @@
             "move": "MOVE_THRASH"
         }
     ],
+    "evolution": [
+        {
+            "method": "EVO_LEVEL",
+            "condition": "29",
+            "target": "KROKOROK",
+            "extra": "0"
+        }
+    ],
     "tm": [
         "MOVE_ROAR",
         "MOVE_TOXIC",

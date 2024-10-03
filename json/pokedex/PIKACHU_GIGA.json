@@ -115,6 +115,14 @@
             "move": "MOVE_THUNDER"
         }
     ],
+    "evolution": [
+        {
+            "method": "EVO_GIGANTAMAX",
+            "condition": "FALSE",
+            "target": "PIKACHU",
+            "extra": "0"
+        }
+    ],
     "tm": [],
     "tutor": []
 }

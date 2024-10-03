@@ -102,6 +102,14 @@
             "move": "MOVE_SANDSTORM"
         }
     ],
+    "evolution": [
+        {
+            "method": "EVO_LEVEL",
+            "condition": "42",
+            "target": "PALOSSAND",
+            "extra": "0"
+        }
+    ],
     "tm": [
         "MOVE_TOXIC",
         "MOVE_HIDDENPOWER",

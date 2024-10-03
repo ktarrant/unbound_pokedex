@@ -127,6 +127,14 @@
             "move": "MOVE_PETALDANCE"
         }
     ],
+    "evolution": [
+        {
+            "method": "EVO_ITEM",
+            "condition": "ITEM_SHINY_STONE",
+            "target": "ROSERADE",
+            "extra": "0"
+        }
+    ],
     "tm": [
         "MOVE_TOXIC",
         "MOVE_BULLETSEED",

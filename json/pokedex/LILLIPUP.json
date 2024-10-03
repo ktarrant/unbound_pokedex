@@ -108,6 +108,14 @@
             "move": "MOVE_GIGAIMPACT"
         }
     ],
+    "evolution": [
+        {
+            "method": "EVO_LEVEL",
+            "condition": "16",
+            "target": "HERDIER",
+            "extra": "0"
+        }
+    ],
     "tm": [
         "MOVE_ROAR",
         "MOVE_TOXIC",

@@ -109,6 +109,14 @@
             "move": "MOVE_ENDEAVOR"
         }
     ],
+    "evolution": [
+        {
+            "method": "EVO_LEVEL",
+            "condition": "22",
+            "target": "SWELLOW",
+            "extra": "0"
+        }
+    ],
     "tm": [
         "MOVE_TOXIC",
         "MOVE_HIDDENPOWER",

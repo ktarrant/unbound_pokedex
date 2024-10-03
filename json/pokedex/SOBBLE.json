@@ -85,6 +85,14 @@
             "move": "MOVE_RAINDANCE"
         }
     ],
+    "evolution": [
+        {
+            "method": "EVO_LEVEL",
+            "condition": "16",
+            "target": "DRIZZILE",
+            "extra": "0"
+        }
+    ],
     "tm": [
         "MOVE_WATERPULSE",
         "MOVE_TOXIC",

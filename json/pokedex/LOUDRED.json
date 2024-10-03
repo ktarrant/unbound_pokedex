@@ -91,6 +91,14 @@
             "move": "MOVE_SYNCHRONOISE"
         }
     ],
+    "evolution": [
+        {
+            "method": "EVO_LEVEL",
+            "condition": "40",
+            "target": "EXPLOUD",
+            "extra": "0"
+        }
+    ],
     "tm": [
         "MOVE_WATERPULSE",
         "MOVE_ROAR",

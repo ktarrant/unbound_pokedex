@@ -131,6 +131,14 @@
             "move": "MOVE_SELFDESTRUCT"
         }
     ],
+    "evolution": [
+        {
+            "method": "EVO_MOVE",
+            "condition": "MOVE_BARBBARRAGE",
+            "target": "OVERQWIL",
+            "extra": "0"
+        }
+    ],
     "tm": [
         "MOVE_WATERPULSE",
         "MOVE_TOXIC",

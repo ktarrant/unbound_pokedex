@@ -29,6 +29,14 @@
     "hiddenAbility": "ABILITY_SYMBIOSIS",
     "noFlip": true,
     "blurb": "When the flowers of a well-tended flower bed bloom, it appears and celebrates with an elegant dance.",
+    "evolution": [
+        {
+            "method": "EVO_ITEM",
+            "condition": "ITEM_SHINY_STONE",
+            "target": "FLORGES",
+            "extra": "0"
+        }
+    ],
     "learnset": [
         {
             "level": 1,

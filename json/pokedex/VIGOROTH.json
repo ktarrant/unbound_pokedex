@@ -111,6 +111,14 @@
             "move": "MOVE_REVERSAL"
         }
     ],
+    "evolution": [
+        {
+            "method": "EVO_LEVEL",
+            "condition": "36",
+            "target": "SLAKING",
+            "extra": "0"
+        }
+    ],
     "tm": [
         "MOVE_FOCUSPUNCH",
         "MOVE_WATERPULSE",

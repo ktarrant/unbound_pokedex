@@ -94,6 +94,14 @@
             "move": "MOVE_ENERGYBALL"
         }
     ],
+    "evolution": [
+        {
+            "method": "EVO_LEVEL",
+            "condition": "14",
+            "target": "LOMBRE",
+            "extra": "0"
+        }
+    ],
     "tm": [
         "MOVE_WATERPULSE",
         "MOVE_TOXIC",

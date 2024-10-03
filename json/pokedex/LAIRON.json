@@ -103,6 +103,14 @@
             "move": "MOVE_METALBURST"
         }
     ],
+    "evolution": [
+        {
+            "method": "EVO_LEVEL",
+            "condition": "42",
+            "target": "AGGRON",
+            "extra": "0"
+        }
+    ],
     "tm": [
         "MOVE_WATERPULSE",
         "MOVE_ROAR",

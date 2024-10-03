@@ -30,6 +30,14 @@
     "noFlip": true,
     "blurb": "It can instantly create many diamonds by compressing the carbon in the air between its hands.",
     "name": "Diancie",
+    "evolution": [
+        {
+            "method": "EVO_MEGA",
+            "condition": "ITEM_DIANCITE",
+            "target": "DIANCIE_MEGA",
+            "extra": "MEGA_VARIANT_STANDARD"
+        }
+    ],
     "learnset": [
         {
             "level": 1,

@@ -93,6 +93,14 @@
             "move": "MOVE_SPORE"
         }
     ],
+    "evolution": [
+        {
+            "method": "EVO_LEVEL",
+            "condition": "23",
+            "target": "BRELOOM",
+            "extra": "0"
+        }
+    ],
     "tm": [
         "MOVE_FOCUSPUNCH",
         "MOVE_TOXIC",

@@ -95,6 +95,14 @@
             "move": "MOVE_WRINGOUT"
         }
     ],
+    "evolution": [
+        {
+            "method": "EVO_ITEM",
+            "condition": "ITEM_LEAF_STONE",
+            "target": "VICTREEBEL",
+            "extra": "0"
+        }
+    ],
     "tm": [
         "MOVE_TOXIC",
         "MOVE_BULLETSEED",

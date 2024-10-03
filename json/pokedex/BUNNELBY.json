@@ -114,6 +114,14 @@
             "move": "MOVE_SUPERFANG"
         }
     ],
+    "evolution": [
+        {
+            "method": "EVO_LEVEL",
+            "condition": "20",
+            "target": "DIGGERSBY",
+            "extra": "0"
+        }
+    ],
     "tm": [
         "MOVE_TOXIC",
         "MOVE_BULKUP",

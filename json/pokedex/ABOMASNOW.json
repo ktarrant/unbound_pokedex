@@ -30,6 +30,14 @@
     "noFlip": true,
     "blurb": "It blankets wide areas in snow by whipping up blizzards. It is also known as \"The Ice Monster.\\\"",
     "name": "Abomasnow",
+    "evolution": [
+        {
+            "method": "EVO_MEGA",
+            "condition": "ITEM_ABOMASITE",
+            "target": "ABOMASNOW_MEGA",
+            "extra": "MEGA_VARIANT_STANDARD"
+        }
+    ],
     "learnset": [
         {
             "level": 0,

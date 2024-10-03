@@ -29,6 +29,14 @@
     "hiddenAbility": "ABILITY_FLAREBOOST",
     "noFlip": true,
     "name": "Manectric",
+    "evolution": [
+        {
+            "method": "EVO_MEGA",
+            "condition": "ITEM_MANECTITE",
+            "target": "MANECTRIC_MEGA",
+            "extra": "MEGA_VARIANT_STANDARD"
+        }
+    ],
     "learnset": [
         {
             "level": 1,

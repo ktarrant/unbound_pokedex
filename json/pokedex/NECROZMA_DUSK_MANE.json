@@ -29,6 +29,14 @@
     "hiddenAbility": "ABILITY_NONE",
     "noFlip": true,
     "blurb": "This is Necrozma while it's absorbing the power of Solgaleo, making it very ferocious and impossible to control.",
+    "evolution": [
+        {
+            "method": "EVO_MEGA",
+            "condition": "ITEM_ULTRANECROZIUM_Z",
+            "target": "NECROZMA_ULTRA",
+            "extra": "MEGA_VARIANT_ULTRA_BURST"
+        }
+    ],
     "learnset": [
         {
             "level": 1,

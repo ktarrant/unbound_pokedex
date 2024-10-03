@@ -108,6 +108,14 @@
             "move": "MOVE_POLTERGEIST"
         }
     ],
+    "evolution": [
+        {
+            "method": "EVO_LEVEL",
+            "condition": "43",
+            "target": "GOLURK",
+            "extra": "0"
+        }
+    ],
     "tm": [
         "MOVE_FOCUSPUNCH",
         "MOVE_TOXIC",

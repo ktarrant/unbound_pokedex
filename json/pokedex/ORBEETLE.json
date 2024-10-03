@@ -30,6 +30,14 @@
     "noFlip": true,
     "blurb": "It's famous for its high intelligence, and the large size of its brain is proof that it has immense psychic power.",
     "name": "Orbeetle",
+    "evolution": [
+        {
+            "method": "EVO_GIGANTAMAX",
+            "condition": "TRUE",
+            "target": "ORBEETLE_GIGA",
+            "extra": "0"
+        }
+    ],
     "learnset": [
         {
             "level": 0,

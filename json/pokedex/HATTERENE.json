@@ -30,6 +30,14 @@
     "noFlip": true,
     "blurb": "Known as the Forest Witch, if you are too loud around it, you risk being torn apart by the claws on its tentacle.",
     "name": "Hatterene",
+    "evolution": [
+        {
+            "method": "EVO_GIGANTAMAX",
+            "condition": "TRUE",
+            "target": "HATTERENE_GIGA",
+            "extra": "0"
+        }
+    ],
     "learnset": [
         {
             "level": 0,

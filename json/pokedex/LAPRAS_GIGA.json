@@ -95,6 +95,14 @@
             "move": "MOVE_SHEERCOLD"
         }
     ],
+    "evolution": [
+        {
+            "method": "EVO_GIGANTAMAX",
+            "condition": "FALSE",
+            "target": "LAPRAS",
+            "extra": "0"
+        }
+    ],
     "tm": [],
     "tutor": []
 }

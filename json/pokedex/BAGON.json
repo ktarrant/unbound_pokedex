@@ -100,6 +100,14 @@
             "move": "MOVE_DOUBLEEDGE"
         }
     ],
+    "evolution": [
+        {
+            "method": "EVO_LEVEL",
+            "condition": "30",
+            "target": "SHELGON",
+            "extra": "0"
+        }
+    ],
     "tm": [
         "MOVE_DRAGONCLAW",
         "MOVE_ROAR",

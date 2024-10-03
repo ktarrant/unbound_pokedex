@@ -45,6 +45,14 @@
             "move": "MOVE_STRUGGLEBUG"
         }
     ],
+    "evolution": [
+        {
+            "method": "EVO_FRIENDSHIP_NIGHT",
+            "condition": "0",
+            "target": "FROSMOTH",
+            "extra": "0"
+        }
+    ],
     "tm": [
         "MOVE_PROTECT",
         "MOVE_REST",

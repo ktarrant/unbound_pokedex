@@ -93,6 +93,14 @@
             "move": "MOVE_CLANGINGSCALES"
         }
     ],
+    "evolution": [
+        {
+            "method": "EVO_LEVEL",
+            "condition": "35",
+            "target": "HAKAMO_O",
+            "extra": "0"
+        }
+    ],
     "tm": [
         "MOVE_DRAGONCLAW",
         "MOVE_ROAR",

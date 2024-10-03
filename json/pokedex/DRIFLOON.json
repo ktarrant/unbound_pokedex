@@ -114,6 +114,14 @@
             "move": "MOVE_EXPLOSION"
         }
     ],
+    "evolution": [
+        {
+            "method": "EVO_LEVEL",
+            "condition": "28",
+            "target": "DRIFBLIM",
+            "extra": "0"
+        }
+    ],
     "tm": [
         "MOVE_CALMMIND",
         "MOVE_TOXIC",

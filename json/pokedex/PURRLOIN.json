@@ -106,6 +106,14 @@
             "move": "MOVE_PLAYROUGH"
         }
     ],
+    "evolution": [
+        {
+            "method": "EVO_LEVEL",
+            "condition": "20",
+            "target": "LIEPARD",
+            "extra": "0"
+        }
+    ],
     "tm": [
         "MOVE_TOXIC",
         "MOVE_HIDDENPOWER",

@@ -115,6 +115,14 @@
             "move": "MOVE_THRASH"
         }
     ],
+    "evolution": [
+        {
+            "method": "EVO_MOVE",
+            "condition": "MOVE_ANCIENTPOWER",
+            "target": "MAMOSWINE",
+            "extra": "0"
+        }
+    ],
     "tm": [
         "MOVE_ROAR",
         "MOVE_TOXIC",

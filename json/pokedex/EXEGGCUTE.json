@@ -48,6 +48,14 @@
         "MOVE_WISH"
     ],
     "name": "Exeggcute",
+    "evolution": [
+        {
+            "method": "EVO_ITEM",
+            "condition": "ITEM_LEAF_STONE",
+            "target": "EXEGGUTOR",
+            "extra": "0"
+        }
+    ],
     "learnset": [
         {
             "level": 1,

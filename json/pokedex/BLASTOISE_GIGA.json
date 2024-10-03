@@ -99,6 +99,14 @@
             "move": "MOVE_SKULLBASH"
         }
     ],
+    "evolution": [
+        {
+            "method": "EVO_GIGANTAMAX",
+            "condition": "FALSE",
+            "target": "BLASTOISE",
+            "extra": "0"
+        }
+    ],
     "tm": [],
     "tutor": []
 }

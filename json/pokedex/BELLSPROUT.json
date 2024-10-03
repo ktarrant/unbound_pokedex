@@ -110,6 +110,14 @@
             "move": "MOVE_WRINGOUT"
         }
     ],
+    "evolution": [
+        {
+            "method": "EVO_LEVEL",
+            "condition": "21",
+            "target": "WEEPINBELL",
+            "extra": "0"
+        }
+    ],
     "tm": [
         "MOVE_TOXIC",
         "MOVE_BULLETSEED",

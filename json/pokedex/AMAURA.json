@@ -109,6 +109,14 @@
             "move": "MOVE_HYPERBEAM"
         }
     ],
+    "evolution": [
+        {
+            "method": "EVO_LEVEL_NIGHT",
+            "condition": "39",
+            "target": "AURORUS",
+            "extra": "0"
+        }
+    ],
     "tm": [
         "MOVE_WATERPULSE",
         "MOVE_CALMMIND",

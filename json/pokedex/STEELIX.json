@@ -29,6 +29,14 @@
     "hiddenAbility": "ABILITY_SHEERFORCE",
     "noFlip": true,
     "name": "Steelix",
+    "evolution": [
+        {
+            "method": "EVO_MEGA",
+            "condition": "ITEM_STEELIXITE",
+            "target": "STEELIX_MEGA",
+            "extra": "MEGA_VARIANT_STANDARD"
+        }
+    ],
     "learnset": [
         {
             "level": 0,

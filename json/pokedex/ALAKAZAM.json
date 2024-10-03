@@ -29,6 +29,14 @@
     "hiddenAbility": "ABILITY_MAGICGUARD",
     "noFlip": true,
     "name": "Alakazam",
+    "evolution": [
+        {
+            "method": "EVO_MEGA",
+            "condition": "ITEM_ALAKAZITE",
+            "target": "ALAKAZAM_MEGA",
+            "extra": "MEGA_VARIANT_STANDARD"
+        }
+    ],
     "learnset": [
         {
             "level": 1,

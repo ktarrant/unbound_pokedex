@@ -109,6 +109,14 @@
             "move": "MOVE_ERUPTION"
         }
     ],
+    "evolution": [
+        {
+            "method": "EVO_LEVEL",
+            "condition": "14",
+            "target": "QUILAVA",
+            "extra": "0"
+        }
+    ],
     "tm": [
         "MOVE_TOXIC",
         "MOVE_HIDDENPOWER",

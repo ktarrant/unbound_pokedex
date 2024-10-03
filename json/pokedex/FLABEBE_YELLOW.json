@@ -36,6 +36,14 @@
         "MOVE_SOLARBEAM",
         "MOVE_DAZZLINGGLEAM"
     ],
+    "evolution": [
+        {
+            "method": "EVO_LEVEL",
+            "condition": "19",
+            "target": "FLOETTE_YELLOW",
+            "extra": "0"
+        }
+    ],
     "learnset": [
         {
             "level": 1,

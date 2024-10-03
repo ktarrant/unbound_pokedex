@@ -105,6 +105,14 @@
             "move": "MOVE_PETALDANCE"
         }
     ],
+    "evolution": [
+        {
+            "method": "EVO_LEVEL",
+            "condition": "21",
+            "target": "GLOOM",
+            "extra": "0"
+        }
+    ],
     "tm": [
         "MOVE_TOXIC",
         "MOVE_BULLETSEED",

@@ -94,6 +94,14 @@
             "move": "MOVE_STICKYWEB"
         }
     ],
+    "evolution": [
+        {
+            "method": "EVO_LEVEL",
+            "condition": "22",
+            "target": "MASQUERAIN",
+            "extra": "0"
+        }
+    ],
     "tm": [
         "MOVE_WATERPULSE",
         "MOVE_TOXIC",

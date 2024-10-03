@@ -49,6 +49,14 @@
         "MOVE_EXTREMESPEED"
     ],
     "name": "Pichu",
+    "evolution": [
+        {
+            "method": "EVO_FRIENDSHIP",
+            "condition": "0",
+            "target": "PIKACHU",
+            "extra": "0"
+        }
+    ],
     "learnset": [
         {
             "level": 1,

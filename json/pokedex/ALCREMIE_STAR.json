@@ -30,6 +30,14 @@
     "noFlip": true,
     "blurb": "It evolved from a Milcery that held onto a Star Sweet. The flavor of its cream depends on how it was mixed.",
     "name": "Alcremie",
+    "evolution": [
+        {
+            "method": "EVO_GIGANTAMAX",
+            "condition": "TRUE",
+            "target": "ALCREMIE_GIGA",
+            "extra": "0"
+        }
+    ],
     "learnset": [
         {
             "level": 0,

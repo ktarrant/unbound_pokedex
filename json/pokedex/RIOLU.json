@@ -120,6 +120,14 @@
             "move": "MOVE_CLOSECOMBAT"
         }
     ],
+    "evolution": [
+        {
+            "method": "EVO_FRIENDSHIP_DAY",
+            "condition": "0",
+            "target": "LUCARIO",
+            "extra": "0"
+        }
+    ],
     "tm": [
         "MOVE_FOCUSPUNCH",
         "MOVE_ROAR",

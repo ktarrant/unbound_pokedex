@@ -39,6 +39,14 @@
         "MOVE_REVENGE"
     ],
     "name": "Pinsir",
+    "evolution": [
+        {
+            "method": "EVO_MEGA",
+            "condition": "ITEM_PINSIRITE",
+            "target": "PINSIR_MEGA",
+            "extra": "MEGA_VARIANT_STANDARD"
+        }
+    ],
     "learnset": [
         {
             "level": 1,

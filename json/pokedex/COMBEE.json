@@ -52,6 +52,14 @@
             "move": "MOVE_BUGBUZZ"
         }
     ],
+    "evolution": [
+        {
+            "method": "EVO_FEMALE_LEVEL",
+            "condition": "21",
+            "target": "VESPIQUEN",
+            "extra": "0"
+        }
+    ],
     "tm": [
         "MOVE_HIDDENPOWER"
     ],

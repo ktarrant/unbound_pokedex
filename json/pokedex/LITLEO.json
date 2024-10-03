@@ -101,6 +101,14 @@
             "move": "MOVE_OVERHEAT"
         }
     ],
+    "evolution": [
+        {
+            "method": "EVO_LEVEL",
+            "condition": "35",
+            "target": "PYROAR",
+            "extra": "0"
+        }
+    ],
     "tm": [
         "MOVE_ROAR",
         "MOVE_TOXIC",

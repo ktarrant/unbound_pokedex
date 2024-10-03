@@ -118,6 +118,14 @@
             "move": "MOVE_WONDERROOM"
         }
     ],
+    "evolution": [
+        {
+            "method": "EVO_LEVEL",
+            "condition": "33",
+            "target": "GOLDUCK",
+            "extra": "0"
+        }
+    ],
     "tm": [
         "MOVE_FOCUSPUNCH",
         "MOVE_WATERPULSE",

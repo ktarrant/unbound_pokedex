@@ -30,6 +30,14 @@
     "noFlip": true,
     "blurb": "The black luster of its steel body could drive terror into the heart of any foe.",
     "name": "Corvknight",
+    "evolution": [
+        {
+            "method": "EVO_GIGANTAMAX",
+            "condition": "TRUE",
+            "target": "CORVIKNIGHT_GIGA",
+            "extra": "0"
+        }
+    ],
     "learnset": [
         {
             "level": 0,

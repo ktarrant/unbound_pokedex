@@ -29,6 +29,14 @@
     "hiddenAbility": "ABILITY_MOXIE",
     "noFlip": true,
     "name": "Salamence",
+    "evolution": [
+        {
+            "method": "EVO_MEGA",
+            "condition": "ITEM_SALAMENCITE",
+            "target": "SALAMENCE_MEGA",
+            "extra": "MEGA_VARIANT_STANDARD"
+        }
+    ],
     "learnset": [
         {
             "level": 0,

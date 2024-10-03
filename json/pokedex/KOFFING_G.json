@@ -109,6 +109,14 @@
             "move": "MOVE_DESTINYBOND"
         }
     ],
+    "evolution": [
+        {
+            "method": "EVO_LEVEL",
+            "condition": "35",
+            "target": "WEEZING_G",
+            "extra": "0"
+        }
+    ],
     "tm": [
         "MOVE_TOXIC",
         "MOVE_HIDDENPOWER",

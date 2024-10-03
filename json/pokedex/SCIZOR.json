@@ -29,6 +29,14 @@
     "hiddenAbility": "ABILITY_LIGHTMETAL",
     "noFlip": true,
     "name": "Scizor",
+    "evolution": [
+        {
+            "method": "EVO_MEGA",
+            "condition": "ITEM_SCIZORITE",
+            "target": "SCIZOR_MEGA",
+            "extra": "MEGA_VARIANT_STANDARD"
+        }
+    ],
     "learnset": [
         {
             "level": 0,

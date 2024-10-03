@@ -91,6 +91,14 @@
             "move": "MOVE_RAGINGFURY"
         }
     ],
+    "evolution": [
+        {
+            "method": "EVO_LEVEL",
+            "condition": "28",
+            "target": "CENTISKORCH",
+            "extra": "0"
+        }
+    ],
     "tm": [
         "MOVE_TOXIC",
         "MOVE_HIDDENPOWER",

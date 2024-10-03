@@ -29,6 +29,14 @@
     "hiddenAbility": "ABILITY_UNNERVE",
     "noFlip": true,
     "name": "Houndoom",
+    "evolution": [
+        {
+            "method": "EVO_MEGA",
+            "condition": "ITEM_HOUNDOOMINITE",
+            "target": "HOUNDOOM_MEGA",
+            "extra": "MEGA_VARIANT_STANDARD"
+        }
+    ],
     "learnset": [
         {
             "level": 1,

@@ -92,6 +92,14 @@
             "move": "MOVE_LEAFSTORM"
         }
     ],
+    "evolution": [
+        {
+            "method": "EVO_MOVE",
+            "condition": "MOVE_STOMP",
+            "target": "TSAREENA",
+            "extra": "0"
+        }
+    ],
     "tm": [
         "MOVE_TOXIC",
         "MOVE_HIDDENPOWER",

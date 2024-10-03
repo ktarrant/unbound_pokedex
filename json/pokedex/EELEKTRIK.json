@@ -104,6 +104,14 @@
             "move": "MOVE_THUNDERCAGE"
         }
     ],
+    "evolution": [
+        {
+            "method": "EVO_ITEM",
+            "condition": "ITEM_THUNDER_STONE",
+            "target": "EELEKTROSS",
+            "extra": "0"
+        }
+    ],
     "tm": [
         "MOVE_TOXIC",
         "MOVE_HIDDENPOWER",

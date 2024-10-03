@@ -81,6 +81,14 @@
             "move": "MOVE_AROMATHERAPY"
         }
     ],
+    "evolution": [
+        {
+            "method": "EVO_LEVEL",
+            "condition": "18",
+            "target": "STEENEE",
+            "extra": "0"
+        }
+    ],
     "tm": [
         "MOVE_TOXIC",
         "MOVE_HIDDENPOWER",

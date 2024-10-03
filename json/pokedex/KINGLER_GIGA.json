@@ -107,6 +107,14 @@
             "move": "MOVE_GUILLOTINE"
         }
     ],
+    "evolution": [
+        {
+            "method": "EVO_GIGANTAMAX",
+            "condition": "FALSE",
+            "target": "KINGLER",
+            "extra": "0"
+        }
+    ],
     "tm": [],
     "tutor": []
 }

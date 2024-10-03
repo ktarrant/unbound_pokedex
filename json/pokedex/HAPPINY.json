@@ -78,6 +78,14 @@
             "move": "MOVE_CHARM"
         }
     ],
+    "evolution": [
+        {
+            "method": "EVO_HOLD_ITEM_DAY",
+            "condition": "ITEM_OVAL_STONE",
+            "target": "CHANSEY",
+            "extra": "0"
+        }
+    ],
     "tm": [
         "MOVE_WATERPULSE",
         "MOVE_CALMMIND",

@@ -104,6 +104,14 @@
             "move": "MOVE_LASTRESORT"
         }
     ],
+    "evolution": [
+        {
+            "method": "EVO_MOVE",
+            "condition": "MOVE_DOUBLEHIT",
+            "target": "AMBIPOM",
+            "extra": "0"
+        }
+    ],
     "tm": [
         "MOVE_FOCUSPUNCH",
         "MOVE_WATERPULSE",

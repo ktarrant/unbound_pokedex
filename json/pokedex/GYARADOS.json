@@ -29,6 +29,14 @@
     "hiddenAbility": "ABILITY_MOXIE",
     "noFlip": true,
     "name": "Gyarados",
+    "evolution": [
+        {
+            "method": "EVO_MEGA",
+            "condition": "ITEM_GYARADOSITE",
+            "target": "GYARADOS_MEGA",
+            "extra": "MEGA_VARIANT_STANDARD"
+        }
+    ],
     "learnset": [
         {
             "level": 0,

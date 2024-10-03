@@ -44,6 +44,14 @@
     ],
     "blurb": "It habitually mimics foes. Once mimicked, the foe cannot take its eyes off this Pok\u00e9mon.",
     "name": "Mime Jr.",
+    "evolution": [
+        {
+            "method": "EVO_MOVE",
+            "condition": "MOVE_MIMIC",
+            "target": "MR_MIME",
+            "extra": "0"
+        }
+    ],
     "learnset": [
         {
             "level": 0,

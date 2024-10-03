@@ -107,6 +107,14 @@
             "move": "MOVE_IONDELUGE"
         }
     ],
+    "evolution": [
+        {
+            "method": "EVO_LEVEL",
+            "condition": "27",
+            "target": "LANTURN",
+            "extra": "0"
+        }
+    ],
     "tm": [
         "MOVE_WATERPULSE",
         "MOVE_TOXIC",

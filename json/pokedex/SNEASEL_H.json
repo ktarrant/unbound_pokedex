@@ -117,6 +117,14 @@
             "move": "MOVE_CLOSECOMBAT"
         }
     ],
+    "evolution": [
+        {
+            "method": "EVO_HOLD_ITEM_DAY",
+            "condition": "ITEM_RAZOR_CLAW",
+            "target": "SNEASLER",
+            "extra": "0"
+        }
+    ],
     "tm": [
         "MOVE_FOCUSPUNCH",
         "MOVE_CALMMIND",

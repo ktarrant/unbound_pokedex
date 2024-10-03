@@ -105,6 +105,14 @@
             "move": "MOVE_HORNDRILL"
         }
     ],
+    "evolution": [
+        {
+            "method": "EVO_LEVEL_DAY",
+            "condition": "39",
+            "target": "TYRANTRUM",
+            "extra": "0"
+        }
+    ],
     "tm": [
         "MOVE_DRAGONCLAW",
         "MOVE_ROAR",

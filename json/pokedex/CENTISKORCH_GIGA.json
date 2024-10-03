@@ -87,6 +87,14 @@
             "move": "MOVE_RAGINGFURY"
         }
     ],
+    "evolution": [
+        {
+            "method": "EVO_GIGANTAMAX",
+            "condition": "FALSE",
+            "target": "CENTISKORCH",
+            "extra": "0"
+        }
+    ],
     "tm": [],
     "tutor": []
 }

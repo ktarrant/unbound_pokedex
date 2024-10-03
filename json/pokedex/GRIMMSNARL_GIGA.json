@@ -107,6 +107,14 @@
             "move": "MOVE_HAMMERARM"
         }
     ],
+    "evolution": [
+        {
+            "method": "EVO_GIGANTAMAX",
+            "condition": "FALSE",
+            "target": "GRIMMSNARL",
+            "extra": "0"
+        }
+    ],
     "tm": [],
     "tutor": []
 }

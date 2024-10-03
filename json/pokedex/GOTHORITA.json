@@ -100,6 +100,14 @@
             "move": "MOVE_MAGICROOM"
         }
     ],
+    "evolution": [
+        {
+            "method": "EVO_LEVEL",
+            "condition": "41",
+            "target": "GOTHITELLE",
+            "extra": "0"
+        }
+    ],
     "tm": [
         "MOVE_CALMMIND",
         "MOVE_TOXIC",

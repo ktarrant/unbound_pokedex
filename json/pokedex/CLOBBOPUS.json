@@ -85,6 +85,14 @@
             "move": "MOVE_SUPERPOWER"
         }
     ],
+    "evolution": [
+        {
+            "method": "EVO_MOVE",
+            "condition": "MOVE_TAUNT",
+            "target": "GRAPPLOCT",
+            "extra": "0"
+        }
+    ],
     "tm": [
         "MOVE_FOCUSPUNCH",
         "MOVE_WATERPULSE",

@@ -96,6 +96,14 @@
             "move": "MOVE_WONDERROOM"
         }
     ],
+    "evolution": [
+        {
+            "method": "EVO_LEVEL",
+            "condition": "41",
+            "target": "REUNICLUS",
+            "extra": "0"
+        }
+    ],
     "tm": [
         "MOVE_CALMMIND",
         "MOVE_TOXIC",

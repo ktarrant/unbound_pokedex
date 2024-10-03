@@ -147,6 +147,14 @@
             "move": "MOVE_BOOMBURST"
         }
     ],
+    "evolution": [
+        {
+            "method": "EVO_LEVEL",
+            "condition": "45",
+            "target": "FLYGON",
+            "extra": "0"
+        }
+    ],
     "tm": [
         "MOVE_TOXIC",
         "MOVE_HIDDENPOWER",

@@ -111,6 +111,14 @@
             "move": "MOVE_GIGAIMPACT"
         }
     ],
+    "evolution": [
+        {
+            "method": "EVO_LEVEL",
+            "condition": "45",
+            "target": "METAGROSS",
+            "extra": "0"
+        }
+    ],
     "tm": [
         "MOVE_TOXIC",
         "MOVE_HIDDENPOWER",

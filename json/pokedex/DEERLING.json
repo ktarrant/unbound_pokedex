@@ -42,6 +42,14 @@
         "MOVE_TROPKICK"
     ],
     "blurb": "The turning of the seasons changes the color and scent of its fur. People use it to mark the seasons.",
+    "evolution": [
+        {
+            "method": "EVO_LEVEL",
+            "condition": "34",
+            "target": "SAWSBUCK",
+            "extra": "0"
+        }
+    ],
     "learnset": [
         {
             "level": 1,

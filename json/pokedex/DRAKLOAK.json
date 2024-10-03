@@ -104,6 +104,14 @@
             "move": "MOVE_DRAGONDANCE"
         }
     ],
+    "evolution": [
+        {
+            "method": "EVO_LEVEL",
+            "condition": "60",
+            "target": "DRAGAPULT",
+            "extra": "0"
+        }
+    ],
     "tm": [
         "MOVE_WATERPULSE",
         "MOVE_ROAR",

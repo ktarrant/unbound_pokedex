@@ -43,6 +43,14 @@
             "move": "MOVE_BUGBITE"
         }
     ],
+    "evolution": [
+        {
+            "method": "EVO_LEVEL",
+            "condition": "7",
+            "target": "METAPOD",
+            "extra": "0"
+        }
+    ],
     "tm": [],
     "tutor": [
         "MOVE_ELECTROWEB",

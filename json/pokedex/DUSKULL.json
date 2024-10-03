@@ -103,6 +103,14 @@
             "move": "MOVE_FUTURESIGHT"
         }
     ],
+    "evolution": [
+        {
+            "method": "EVO_LEVEL",
+            "condition": "37",
+            "target": "DUSCLOPS",
+            "extra": "0"
+        }
+    ],
     "tm": [
         "MOVE_CALMMIND",
         "MOVE_TOXIC",

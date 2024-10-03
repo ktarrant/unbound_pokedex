@@ -40,6 +40,14 @@
             "move": "MOVE_TELEPORT"
         }
     ],
+    "evolution": [
+        {
+            "method": "EVO_LEVEL",
+            "condition": "43",
+            "target": "COSMOEM",
+            "extra": "0"
+        }
+    ],
     "tm": [],
     "tutor": []
 }

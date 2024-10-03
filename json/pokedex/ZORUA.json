@@ -109,6 +109,14 @@
             "move": "MOVE_FOULPLAY"
         }
     ],
+    "evolution": [
+        {
+            "method": "EVO_LEVEL",
+            "condition": "30",
+            "target": "ZOROARK",
+            "extra": "0"
+        }
+    ],
     "tm": [
         "MOVE_CALMMIND",
         "MOVE_ROAR",

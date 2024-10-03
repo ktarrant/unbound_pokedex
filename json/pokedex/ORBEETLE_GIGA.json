@@ -99,6 +99,14 @@
             "move": "MOVE_PSYCHICTERRAIN"
         }
     ],
+    "evolution": [
+        {
+            "method": "EVO_GIGANTAMAX",
+            "condition": "FALSE",
+            "target": "ORBEETLE",
+            "extra": "0"
+        }
+    ],
     "tm": [],
     "tutor": []
 }

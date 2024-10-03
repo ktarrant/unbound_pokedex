@@ -29,6 +29,14 @@
     "hiddenAbility": "ABILITY_STURDY",
     "noFlip": true,
     "name": "Machamp",
+    "evolution": [
+        {
+            "method": "EVO_GIGANTAMAX",
+            "condition": "TRUE",
+            "target": "MACHAMP_GIGA",
+            "extra": "0"
+        }
+    ],
     "learnset": [
         {
             "level": 1,

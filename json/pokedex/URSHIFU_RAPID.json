@@ -30,6 +30,14 @@
     "noFlip": true,
     "blurb": "This form of Urshifu strongly believes in defeating foes by raining many blows down on them.",
     "name": "Urshifu",
+    "evolution": [
+        {
+            "method": "EVO_GIGANTAMAX",
+            "condition": "TRUE",
+            "target": "URSHIFU_RAPID_GIGA",
+            "extra": "0"
+        }
+    ],
     "learnset": [
         {
             "level": 0,

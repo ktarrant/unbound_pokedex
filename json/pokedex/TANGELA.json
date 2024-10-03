@@ -122,6 +122,14 @@
             "move": "MOVE_GRASSYTERRAIN"
         }
     ],
+    "evolution": [
+        {
+            "method": "EVO_MOVE",
+            "condition": "MOVE_ANCIENTPOWER",
+            "target": "TANGROWTH",
+            "extra": "0"
+        }
+    ],
     "tm": [
         "MOVE_TOXIC",
         "MOVE_BULLETSEED",

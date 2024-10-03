@@ -107,6 +107,14 @@
             "move": "MOVE_SKYATTACK"
         }
     ],
+    "evolution": [
+        {
+            "method": "EVO_LEVEL",
+            "condition": "21",
+            "target": "TRANQUILL",
+            "extra": "0"
+        }
+    ],
     "tm": [
         "MOVE_TOXIC",
         "MOVE_HIDDENPOWER",

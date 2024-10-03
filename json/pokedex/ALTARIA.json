@@ -29,6 +29,14 @@
     "hiddenAbility": "ABILITY_COTTONDOWN",
     "noFlip": true,
     "name": "Altaria",
+    "evolution": [
+        {
+            "method": "EVO_MEGA",
+            "condition": "ITEM_ALTARIANITE",
+            "target": "ALTARIA_MEGA",
+            "extra": "MEGA_VARIANT_STANDARD"
+        }
+    ],
     "learnset": [
         {
             "level": 0,

@@ -87,6 +87,14 @@
             "move": "MOVE_PLAYROUGH"
         }
     ],
+    "evolution": [
+        {
+            "method": "EVO_GIGANTAMAX",
+            "condition": "FALSE",
+            "target": "MEOWTH",
+            "extra": "0"
+        }
+    ],
     "tm": [],
     "tutor": []
 }

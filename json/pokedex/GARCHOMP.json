@@ -30,6 +30,14 @@
     "noFlip": true,
     "blurb": "It flies at speeds equal to a jet fighter plane. It never allows its prey to escape.",
     "name": "Garchomp",
+    "evolution": [
+        {
+            "method": "EVO_MEGA",
+            "condition": "ITEM_GARCHOMPITE",
+            "target": "GARCHOMP_MEGA",
+            "extra": "MEGA_VARIANT_STANDARD"
+        }
+    ],
     "learnset": [
         {
             "level": 0,

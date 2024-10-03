@@ -88,6 +88,14 @@
             "move": "MOVE_SHELTER"
         }
     ],
+    "evolution": [
+        {
+            "method": "EVO_RAINY_FOGGY_OW",
+            "condition": "50",
+            "target": "GOODRA_H",
+            "extra": "0"
+        }
+    ],
     "tm": [
         "MOVE_WATERPULSE",
         "MOVE_TOXIC",

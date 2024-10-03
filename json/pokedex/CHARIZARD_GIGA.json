@@ -107,6 +107,14 @@
             "move": "MOVE_HEATWAVE"
         }
     ],
+    "evolution": [
+        {
+            "method": "EVO_GIGANTAMAX",
+            "condition": "FALSE",
+            "target": "CHARIZARD",
+            "extra": "0"
+        }
+    ],
     "tm": [],
     "tutor": []
 }

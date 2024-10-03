@@ -29,6 +29,14 @@
     "hiddenAbility": "ABILITY_LIGHTNINGROD",
     "noFlip": true,
     "name": "Pikachu",
+    "evolution": [
+        {
+            "method": "EVO_GIGANTAMAX",
+            "condition": "TRUE",
+            "target": "PIKACHU_GIGA",
+            "extra": "0"
+        }
+    ],
     "learnset": [
         {
             "level": 1,

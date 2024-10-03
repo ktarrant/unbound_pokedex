@@ -48,6 +48,14 @@
             "move": "MOVE_CHARGEBEAM"
         }
     ],
+    "evolution": [
+        {
+            "method": "EVO_LEVEL",
+            "condition": "39",
+            "target": "EELEKTRIK",
+            "extra": "0"
+        }
+    ],
     "tm": [
         "MOVE_CHARGEBEAM",
         "MOVE_THUNDERWAVE"

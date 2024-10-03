@@ -30,6 +30,14 @@
     "noFlip": true,
     "blurb": "It picks out foes' weak points so it can precisely blast them with water that shoots from its fingertips.",
     "name": "Inteleon",
+    "evolution": [
+        {
+            "method": "EVO_GIGANTAMAX",
+            "condition": "TRUE",
+            "target": "INTELEON_GIGA",
+            "extra": "0"
+        }
+    ],
     "learnset": [
         {
             "level": 0,

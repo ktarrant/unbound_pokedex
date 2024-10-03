@@ -108,6 +108,14 @@
             "move": "MOVE_ENDEAVOR"
         }
     ],
+    "evolution": [
+        {
+            "method": "EVO_FEMALE_LEVEL",
+            "condition": "33",
+            "target": "SALAZZLE",
+            "extra": "0"
+        }
+    ],
     "tm": [
         "MOVE_DRAGONCLAW",
         "MOVE_TOXIC",

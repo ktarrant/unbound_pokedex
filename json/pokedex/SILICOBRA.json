@@ -87,6 +87,14 @@
             "move": "MOVE_MINIMIZE"
         }
     ],
+    "evolution": [
+        {
+            "method": "EVO_LEVEL",
+            "condition": "36",
+            "target": "SANDACONDA",
+            "extra": "0"
+        }
+    ],
     "tm": [
         "MOVE_TOXIC",
         "MOVE_HIDDENPOWER",

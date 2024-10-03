@@ -104,6 +104,14 @@
             "move": "MOVE_SHADOWBALL"
         }
     ],
+    "evolution": [
+        {
+            "method": "EVO_LEVEL",
+            "condition": "30",
+            "target": "ZOROARK_H",
+            "extra": "0"
+        }
+    ],
     "tm": [
         "MOVE_CALMMIND",
         "MOVE_ROAR",

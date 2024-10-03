@@ -109,6 +109,14 @@
             "move": "MOVE_RELICSONG"
         }
     ],
+    "evolution": [
+        {
+            "method": "EVO_LEVEL",
+            "condition": "17",
+            "target": "BRIONNE",
+            "extra": "0"
+        }
+    ],
     "tm": [
         "MOVE_WATERPULSE",
         "MOVE_TOXIC",

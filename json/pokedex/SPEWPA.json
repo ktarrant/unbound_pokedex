@@ -44,6 +44,14 @@
             "move": "MOVE_PROTECT"
         }
     ],
+    "evolution": [
+        {
+            "method": "EVO_LEVEL",
+            "condition": "12",
+            "target": "VIVILLON",
+            "extra": "0"
+        }
+    ],
     "tm": [
         "MOVE_PROTECT",
         "MOVE_SILVERWIND",

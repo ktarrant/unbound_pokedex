@@ -110,6 +110,14 @@
             "move": "MOVE_GUILLOTINE"
         }
     ],
+    "evolution": [
+        {
+            "method": "EVO_LEVEL",
+            "condition": "52",
+            "target": "BISHARP",
+            "extra": "0"
+        }
+    ],
     "tm": [
         "MOVE_TOXIC",
         "MOVE_HIDDENPOWER",

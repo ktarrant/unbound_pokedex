@@ -29,6 +29,14 @@
     "hiddenAbility": "ABILITY_TINTEDLENS",
     "noFlip": true,
     "name": "Butterfree",
+    "evolution": [
+        {
+            "method": "EVO_GIGANTAMAX",
+            "condition": "TRUE",
+            "target": "BUTTERFREE_GIGA",
+            "extra": "0"
+        }
+    ],
     "learnset": [
         {
             "level": 0,

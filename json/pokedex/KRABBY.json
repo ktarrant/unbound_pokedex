@@ -109,6 +109,14 @@
             "move": "MOVE_GUILLOTINE"
         }
     ],
+    "evolution": [
+        {
+            "method": "EVO_LEVEL",
+            "condition": "28",
+            "target": "KINGLER",
+            "extra": "0"
+        }
+    ],
     "tm": [
         "MOVE_WATERPULSE",
         "MOVE_TOXIC",

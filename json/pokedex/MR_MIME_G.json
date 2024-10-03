@@ -166,6 +166,14 @@
             "move": "MOVE_TEETERDANCE"
         }
     ],
+    "evolution": [
+        {
+            "method": "EVO_LEVEL",
+            "condition": "42",
+            "target": "MR_RIME",
+            "extra": "0"
+        }
+    ],
     "tm": [
         "MOVE_FOCUSPUNCH",
         "MOVE_CALMMIND",

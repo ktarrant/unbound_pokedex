@@ -63,6 +63,14 @@
             "move": "MOVE_DESTINYBOND"
         }
     ],
+    "evolution": [
+        {
+            "method": "EVO_LEVEL",
+            "condition": "15",
+            "target": "WOBBUFFET",
+            "extra": "0"
+        }
+    ],
     "tm": [
         "MOVE_SAFEGUARD"
     ],

@@ -29,6 +29,14 @@
     "hiddenAbility": "ABILITY_HEATPROOF",
     "noFlip": true,
     "name": "Groudon",
+    "evolution": [
+        {
+            "method": "EVO_MEGA",
+            "condition": "ITEM_RED_ORB",
+            "target": "GROUDON_PRIMAL",
+            "extra": "MEGA_VARIANT_PRIMAL"
+        }
+    ],
     "learnset": [
         {
             "level": 1,

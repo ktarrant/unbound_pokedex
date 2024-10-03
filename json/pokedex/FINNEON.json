@@ -106,6 +106,14 @@
             "move": "MOVE_FLIPTURN"
         }
     ],
+    "evolution": [
+        {
+            "method": "EVO_LEVEL",
+            "condition": "31",
+            "target": "LUMINEON",
+            "extra": "0"
+        }
+    ],
     "tm": [
         "MOVE_WATERPULSE",
         "MOVE_TOXIC",

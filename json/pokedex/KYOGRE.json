@@ -29,6 +29,14 @@
     "hiddenAbility": "ABILITY_HYDRATION",
     "noFlip": true,
     "name": "Kyogre",
+    "evolution": [
+        {
+            "method": "EVO_MEGA",
+            "condition": "ITEM_BLUE_ORB",
+            "target": "KYOGRE_PRIMAL",
+            "extra": "MEGA_VARIANT_PRIMAL"
+        }
+    ],
     "learnset": [
         {
             "level": 1,

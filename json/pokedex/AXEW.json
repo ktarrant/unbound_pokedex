@@ -116,6 +116,14 @@
             "move": "MOVE_GIGAIMPACT"
         }
     ],
+    "evolution": [
+        {
+            "method": "EVO_LEVEL",
+            "condition": "38",
+            "target": "FRAXURE",
+            "extra": "0"
+        }
+    ],
     "tm": [
         "MOVE_DRAGONCLAW",
         "MOVE_ROAR",

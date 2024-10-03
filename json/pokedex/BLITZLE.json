@@ -104,6 +104,14 @@
             "move": "MOVE_VOLTTACKLE"
         }
     ],
+    "evolution": [
+        {
+            "method": "EVO_LEVEL",
+            "condition": "27",
+            "target": "ZEBSTRIKA",
+            "extra": "0"
+        }
+    ],
     "tm": [
         "MOVE_TOXIC",
         "MOVE_HIDDENPOWER",

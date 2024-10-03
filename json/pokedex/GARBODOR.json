@@ -30,6 +30,14 @@
     "noFlip": true,
     "blurb": "Consuming garbage makes new kinds of poison gases and liquids inside their bodies.",
     "name": "Garbodor",
+    "evolution": [
+        {
+            "method": "EVO_GIGANTAMAX",
+            "condition": "TRUE",
+            "target": "GARBODOR_GIGA",
+            "extra": "0"
+        }
+    ],
     "learnset": [
         {
             "level": 1,

@@ -91,6 +91,14 @@
             "move": "MOVE_HYDROPUMP"
         }
     ],
+    "evolution": [
+        {
+            "method": "EVO_GIGANTAMAX",
+            "condition": "FALSE",
+            "target": "INTELEON",
+            "extra": "0"
+        }
+    ],
     "tm": [],
     "tutor": []
 }

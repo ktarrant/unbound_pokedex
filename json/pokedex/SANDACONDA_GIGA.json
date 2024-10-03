@@ -87,6 +87,14 @@
             "move": "MOVE_EARTHQUAKE"
         }
     ],
+    "evolution": [
+        {
+            "method": "EVO_GIGANTAMAX",
+            "condition": "FALSE",
+            "target": "SANDACONDA",
+            "extra": "0"
+        }
+    ],
     "tm": [],
     "tutor": []
 }

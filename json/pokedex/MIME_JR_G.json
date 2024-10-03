@@ -137,6 +137,14 @@
             "move": "MOVE_TEETERDANCE"
         }
     ],
+    "evolution": [
+        {
+            "method": "EVO_MOVE",
+            "condition": "MOVE_MIMIC",
+            "target": "MR_MIME_G",
+            "extra": "0"
+        }
+    ],
     "tm": [
         "MOVE_FOCUSPUNCH",
         "MOVE_TOXIC",

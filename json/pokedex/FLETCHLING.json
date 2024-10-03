@@ -99,6 +99,14 @@
             "move": "MOVE_FLY"
         }
     ],
+    "evolution": [
+        {
+            "method": "EVO_LEVEL",
+            "condition": "17",
+            "target": "FLETCHINDER",
+            "extra": "0"
+        }
+    ],
     "tm": [
         "MOVE_TOXIC",
         "MOVE_HIDDENPOWER",

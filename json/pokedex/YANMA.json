@@ -115,6 +115,14 @@
             "move": "MOVE_BUGBUZZ"
         }
     ],
+    "evolution": [
+        {
+            "method": "EVO_MOVE",
+            "condition": "MOVE_ANCIENTPOWER",
+            "target": "YANMEGA",
+            "extra": "0"
+        }
+    ],
     "tm": [
         "MOVE_TOXIC",
         "MOVE_HIDDENPOWER",

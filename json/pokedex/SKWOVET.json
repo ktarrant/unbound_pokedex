@@ -90,6 +90,14 @@
             "move": "MOVE_BELCH"
         }
     ],
+    "evolution": [
+        {
+            "method": "EVO_LEVEL",
+            "condition": "24",
+            "target": "GREEDENT",
+            "extra": "0"
+        }
+    ],
     "tm": [
         "MOVE_TOXIC",
         "MOVE_BULLETSEED",

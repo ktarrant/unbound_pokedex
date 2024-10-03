@@ -123,6 +123,14 @@
             "move": "MOVE_SYNCHRONOISE"
         }
     ],
+    "evolution": [
+        {
+            "method": "EVO_LEVEL",
+            "condition": "42",
+            "target": "BEHEEYEM",
+            "extra": "0"
+        }
+    ],
     "tm": [
         "MOVE_CALMMIND",
         "MOVE_TOXIC",

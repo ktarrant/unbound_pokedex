@@ -102,6 +102,14 @@
             "move": "MOVE_REST"
         }
     ],
+    "evolution": [
+        {
+            "method": "EVO_LEVEL_DAY",
+            "condition": "20",
+            "target": "GUMSHOOS",
+            "extra": "0"
+        }
+    ],
     "tm": [
         "MOVE_TOXIC",
         "MOVE_HIDDENPOWER",

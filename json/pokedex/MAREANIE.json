@@ -91,6 +91,14 @@
             "move": "MOVE_TOXIC"
         }
     ],
+    "evolution": [
+        {
+            "method": "EVO_LEVEL",
+            "condition": "38",
+            "target": "TOXAPEX",
+            "extra": "0"
+        }
+    ],
     "tm": [
         "MOVE_WATERPULSE",
         "MOVE_TOXIC",
