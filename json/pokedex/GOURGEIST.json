@@ -115,6 +115,7 @@
             "move": "MOVE_EXPLOSION"
         }
     ],
+    "evolve_from": [],
     "tm": [
         "MOVE_TOXIC",
         "MOVE_BULLETSEED",

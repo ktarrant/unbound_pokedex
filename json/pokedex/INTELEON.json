@@ -30,7 +30,7 @@
     "noFlip": true,
     "blurb": "It picks out foes' weak points so it can precisely blast them with water that shoots from its fingertips.",
     "name": "Inteleon",
-    "evolution": [
+    "evolve_to": [
         {
             "method": "EVO_GIGANTAMAX",
             "condition": "TRUE",
@@ -99,6 +99,10 @@
             "level": 62,
             "move": "MOVE_HYDROPUMP"
         }
+    ],
+    "evolve_from": [
+        "DRIZZILE",
+        "INTELEON_GIGA"
     ],
     "tm": [
         "MOVE_WATERPULSE",

@@ -112,6 +112,9 @@
             "move": "MOVE_SHADOWBALL"
         }
     ],
+    "evolve_from": [
+        "MISDREAVUS"
+    ],
     "tm": [
         "MOVE_CALMMIND",
         "MOVE_TOXIC",

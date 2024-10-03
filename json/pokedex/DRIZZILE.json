@@ -76,13 +76,16 @@
             "move": "MOVE_RAINDANCE"
         }
     ],
-    "evolution": [
+    "evolve_to": [
         {
             "method": "EVO_LEVEL",
             "condition": "35",
             "target": "INTELEON",
             "extra": "0"
         }
+    ],
+    "evolve_from": [
+        "SOBBLE"
     ],
     "tm": [
         "MOVE_WATERPULSE",

@@ -116,6 +116,9 @@
             "move": "MOVE_SOLARBEAM"
         }
     ],
+    "evolve_from": [
+        "CHERUBI"
+    ],
     "tm": [
         "MOVE_TOXIC",
         "MOVE_BULLETSEED",

@@ -87,7 +87,7 @@
             "move": "MOVE_PLAYROUGH"
         }
     ],
-    "evolution": [
+    "evolve_to": [
         {
             "method": "EVO_GIGANTAMAX",
             "condition": "FALSE",
@@ -95,6 +95,7 @@
             "extra": "0"
         }
     ],
+    "evolve_from": [],
     "tm": [],
     "tutor": []
 }

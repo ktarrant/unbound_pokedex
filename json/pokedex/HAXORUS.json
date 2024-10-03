@@ -104,6 +104,9 @@
             "move": "MOVE_GIGAIMPACT"
         }
     ],
+    "evolve_from": [
+        "FRAXURE"
+    ],
     "tm": [
         "MOVE_DRAGONCLAW",
         "MOVE_ROAR",

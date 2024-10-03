@@ -29,7 +29,7 @@
     "hiddenAbility": "ABILITY_LIGHTNINGROD",
     "noFlip": true,
     "name": "Pikachu",
-    "evolution": [
+    "evolve_to": [
         {
             "method": "EVO_GIGANTAMAX",
             "condition": "TRUE",
@@ -123,6 +123,7 @@
             "move": "MOVE_THUNDER"
         }
     ],
+    "evolve_from": [],
     "tm": [
         "MOVE_FOCUSPUNCH",
         "MOVE_CALMMIND",

@@ -99,6 +99,7 @@
             "move": "MOVE_MINDBLOWN"
         }
     ],
+    "evolve_from": [],
     "tm": [
         "MOVE_CALMMIND",
         "MOVE_TOXIC",

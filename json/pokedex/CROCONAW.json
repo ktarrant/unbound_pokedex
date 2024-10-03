@@ -99,13 +99,16 @@
             "move": "MOVE_HYDROPUMP"
         }
     ],
-    "evolution": [
+    "evolve_to": [
         {
             "method": "EVO_LEVEL",
             "condition": "30",
             "target": "FERALIGATR",
             "extra": "0"
         }
+    ],
+    "evolve_from": [
+        "TOTODILE"
     ],
     "tm": [
         "MOVE_FOCUSPUNCH",

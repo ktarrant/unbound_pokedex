@@ -99,7 +99,7 @@
             "move": "MOVE_SKYUPPERCUT"
         }
     ],
-    "evolution": [
+    "evolve_to": [
         {
             "method": "EVO_TYPE_IN_PARTY",
             "condition": "32",
@@ -107,6 +107,7 @@
             "extra": "TYPE_DARK"
         }
     ],
+    "evolve_from": [],
     "tm": [
         "MOVE_FOCUSPUNCH",
         "MOVE_ROAR",

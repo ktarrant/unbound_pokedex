@@ -59,6 +59,7 @@
             "move": "MOVE_FORESIGHT"
         }
     ],
+    "evolve_from": [],
     "tm": [
         "MOVE_TOXIC",
         "MOVE_BULKUP",

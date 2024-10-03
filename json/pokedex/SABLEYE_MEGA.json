@@ -114,13 +114,16 @@
             "move": "MOVE_FOULPLAY"
         }
     ],
-    "evolution": [
+    "evolve_to": [
         {
             "method": "EVO_MEGA",
             "condition": "ITEM_NONE",
             "target": "SABLEYE",
             "extra": "MEGA_VARIANT_STANDARD"
         }
+    ],
+    "evolve_from": [
+        "SABLEYE"
     ],
     "tm": [],
     "tutor": []

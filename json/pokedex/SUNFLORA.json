@@ -123,6 +123,9 @@
             "move": "MOVE_SEEDFLARE"
         }
     ],
+    "evolve_from": [
+        "SUNKERN"
+    ],
     "tm": [
         "MOVE_TOXIC",
         "MOVE_BULLETSEED",

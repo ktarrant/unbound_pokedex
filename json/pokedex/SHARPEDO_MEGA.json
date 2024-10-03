@@ -118,13 +118,16 @@
             "move": "MOVE_SKULLBASH"
         }
     ],
-    "evolution": [
+    "evolve_to": [
         {
             "method": "EVO_MEGA",
             "condition": "ITEM_NONE",
             "target": "SHARPEDO",
             "extra": "MEGA_VARIANT_STANDARD"
         }
+    ],
+    "evolve_from": [
+        "SHARPEDO"
     ],
     "tm": [],
     "tutor": []

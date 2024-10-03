@@ -140,6 +140,7 @@
             "move": "MOVE_BLIZZARD"
         }
     ],
+    "evolve_from": [],
     "tm": [
         "MOVE_WATERPULSE",
         "MOVE_CALMMIND",

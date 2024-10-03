@@ -112,6 +112,7 @@
             "move": "MOVE_BRAVEBIRD"
         }
     ],
+    "evolve_from": [],
     "tm": [
         "MOVE_TOXIC",
         "MOVE_BULKUP",

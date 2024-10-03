@@ -29,7 +29,7 @@
     "hiddenAbility": "ABILITY_HEAVYMETAL",
     "noFlip": true,
     "name": "Aggron",
-    "evolution": [
+    "evolve_to": [
         {
             "method": "EVO_MEGA",
             "condition": "ITEM_AGGRONITE",
@@ -110,6 +110,10 @@
             "level": 69,
             "move": "MOVE_METALBURST"
         }
+    ],
+    "evolve_from": [
+        "LAIRON",
+        "AGGRON_MEGA"
     ],
     "tm": [
         "MOVE_FOCUSPUNCH",

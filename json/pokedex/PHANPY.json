@@ -106,7 +106,7 @@
             "move": "MOVE_EARTHQUAKE"
         }
     ],
-    "evolution": [
+    "evolve_to": [
         {
             "method": "EVO_LEVEL",
             "condition": "25",
@@ -114,6 +114,7 @@
             "extra": "0"
         }
     ],
+    "evolve_from": [],
     "tm": [
         "MOVE_ROAR",
         "MOVE_TOXIC",

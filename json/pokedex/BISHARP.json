@@ -104,6 +104,9 @@
             "move": "MOVE_GUILLOTINE"
         }
     ],
+    "evolve_from": [
+        "PAWNIARD"
+    ],
     "tm": [
         "MOVE_TOXIC",
         "MOVE_HIDDENPOWER",

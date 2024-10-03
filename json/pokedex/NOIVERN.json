@@ -120,6 +120,9 @@
             "move": "MOVE_BOOMBURST"
         }
     ],
+    "evolve_from": [
+        "NOIBAT"
+    ],
     "tm": [
         "MOVE_DRAGONCLAW",
         "MOVE_WATERPULSE",

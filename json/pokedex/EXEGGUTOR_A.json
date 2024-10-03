@@ -119,6 +119,9 @@
             "move": "MOVE_WOODHAMMER"
         }
     ],
+    "evolve_from": [
+        "EXEGGCUTE_A"
+    ],
     "tm": [
         "MOVE_TOXIC",
         "MOVE_BULLETSEED",

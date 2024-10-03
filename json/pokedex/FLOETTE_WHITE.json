@@ -90,13 +90,16 @@
             "move": "MOVE_WISH"
         }
     ],
-    "evolution": [
+    "evolve_to": [
         {
             "method": "EVO_ITEM",
             "condition": "ITEM_SHINY_STONE",
             "target": "FLORGES_WHITE",
             "extra": "0"
         }
+    ],
+    "evolve_from": [
+        "FLABEBE_WHITE"
     ],
     "tm": [
         "MOVE_CALMMIND",

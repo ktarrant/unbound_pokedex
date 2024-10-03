@@ -116,7 +116,7 @@
             "move": "MOVE_LASTRESORT"
         }
     ],
-    "evolution": [
+    "evolve_to": [
         {
             "method": "EVO_ITEM",
             "condition": "ITEM_SHINY_STONE",
@@ -124,6 +124,7 @@
             "extra": "0"
         }
     ],
+    "evolve_from": [],
     "tm": [
         "MOVE_CALMMIND",
         "MOVE_TOXIC",

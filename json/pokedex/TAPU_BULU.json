@@ -112,6 +112,7 @@
             "move": "MOVE_GRASSYTERRAIN"
         }
     ],
+    "evolve_from": [],
     "tm": [
         "MOVE_FOCUSPUNCH",
         "MOVE_CALMMIND",

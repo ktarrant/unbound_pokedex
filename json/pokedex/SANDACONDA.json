@@ -30,7 +30,7 @@
     "noFlip": true,
     "blurb": "When it contracts its body, over 220 pounds of sand sprays from its nose. It becomes disheartened if it runs out.",
     "name": "Sandaconda",
-    "evolution": [
+    "evolve_to": [
         {
             "method": "EVO_GIGANTAMAX",
             "condition": "TRUE",
@@ -95,6 +95,10 @@
             "level": 60,
             "move": "MOVE_EARTHQUAKE"
         }
+    ],
+    "evolve_from": [
+        "SILICOBRA",
+        "SANDACONDA_GIGA"
     ],
     "tm": [
         "MOVE_TOXIC",

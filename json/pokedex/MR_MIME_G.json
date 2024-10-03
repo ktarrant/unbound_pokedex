@@ -166,13 +166,16 @@
             "move": "MOVE_TEETERDANCE"
         }
     ],
-    "evolution": [
+    "evolve_to": [
         {
             "method": "EVO_LEVEL",
             "condition": "42",
             "target": "MR_RIME",
             "extra": "0"
         }
+    ],
+    "evolve_from": [
+        "MIME_JR_G"
     ],
     "tm": [
         "MOVE_FOCUSPUNCH",

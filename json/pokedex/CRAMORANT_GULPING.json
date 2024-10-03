@@ -84,6 +84,7 @@
             "move": "MOVE_HYDROPUMP"
         }
     ],
+    "evolve_from": [],
     "tm": [],
     "tutor": []
 }

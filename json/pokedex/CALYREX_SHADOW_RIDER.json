@@ -151,6 +151,7 @@
             "move": "MOVE_FUTURESIGHT"
         }
     ],
+    "evolve_from": [],
     "tm": [
         "MOVE_CALMMIND",
         "MOVE_TOXIC",

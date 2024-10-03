@@ -104,6 +104,9 @@
             "move": "MOVE_CLOSECOMBAT"
         }
     ],
+    "evolve_from": [
+        "SNEASEL_H"
+    ],
     "tm": [
         "MOVE_FOCUSPUNCH",
         "MOVE_CALMMIND",

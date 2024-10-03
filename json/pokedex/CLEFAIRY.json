@@ -143,13 +143,16 @@
             "move": "MOVE_AFTERYOU"
         }
     ],
-    "evolution": [
+    "evolve_to": [
         {
             "method": "EVO_ITEM",
             "condition": "ITEM_MOON_STONE",
             "target": "CLEFABLE",
             "extra": "0"
         }
+    ],
+    "evolve_from": [
+        "CLEFFA"
     ],
     "tm": [
         "MOVE_FOCUSPUNCH",

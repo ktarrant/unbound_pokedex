@@ -119,6 +119,7 @@
             "move": "MOVE_HYPERBEAM"
         }
     ],
+    "evolve_from": [],
     "tm": [
         "MOVE_TOXIC",
         "MOVE_HIDDENPOWER",

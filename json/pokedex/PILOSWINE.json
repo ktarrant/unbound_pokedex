@@ -115,13 +115,16 @@
             "move": "MOVE_THRASH"
         }
     ],
-    "evolution": [
+    "evolve_to": [
         {
             "method": "EVO_MOVE",
             "condition": "MOVE_ANCIENTPOWER",
             "target": "MAMOSWINE",
             "extra": "0"
         }
+    ],
+    "evolve_from": [
+        "SWINUB"
     ],
     "tm": [
         "MOVE_ROAR",

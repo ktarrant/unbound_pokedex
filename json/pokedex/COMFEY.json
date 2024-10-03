@@ -116,6 +116,7 @@
             "move": "MOVE_GRASSYTERRAIN"
         }
     ],
+    "evolve_from": [],
     "tm": [
         "MOVE_CALMMIND",
         "MOVE_TOXIC",

@@ -92,6 +92,9 @@
             "move": "MOVE_FINALGAMBIT"
         }
     ],
+    "evolve_from": [
+        "STARAVIA"
+    ],
     "tm": [
         "MOVE_TOXIC",
         "MOVE_HIDDENPOWER",

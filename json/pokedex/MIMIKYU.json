@@ -102,6 +102,7 @@
             "move": "MOVE_PAINSPLIT"
         }
     ],
+    "evolve_from": [],
     "tm": [
         "MOVE_TOXIC",
         "MOVE_BULKUP",

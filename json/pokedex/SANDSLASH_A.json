@@ -123,6 +123,9 @@
             "move": "MOVE_ICICLECRASH"
         }
     ],
+    "evolve_from": [
+        "SANDSHREW_A"
+    ],
     "tm": [
         "MOVE_FOCUSPUNCH",
         "MOVE_TOXIC",

@@ -112,6 +112,9 @@
             "move": "MOVE_GRASSYTERRAIN"
         }
     ],
+    "evolve_from": [
+        "TANGELA"
+    ],
     "tm": [
         "MOVE_TOXIC",
         "MOVE_BULLETSEED",

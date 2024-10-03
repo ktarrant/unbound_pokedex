@@ -99,13 +99,16 @@
             "move": "MOVE_BOOMBURST"
         }
     ],
-    "evolution": [
+    "evolve_to": [
         {
             "method": "EVO_GIGANTAMAX",
             "condition": "FALSE",
             "target": "RILLABOOM",
             "extra": "0"
         }
+    ],
+    "evolve_from": [
+        "RILLABOOM"
     ],
     "tm": [],
     "tutor": []

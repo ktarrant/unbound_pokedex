@@ -106,13 +106,16 @@
             "move": "MOVE_SAFEGUARD"
         }
     ],
-    "evolution": [
+    "evolve_to": [
         {
             "method": "EVO_MEGA",
             "condition": "ITEM_NONE",
             "target": "DIANCIE",
             "extra": "MEGA_VARIANT_STANDARD"
         }
+    ],
+    "evolve_from": [
+        "DIANCIE"
     ],
     "tm": [],
     "tutor": []

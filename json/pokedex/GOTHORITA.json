@@ -100,13 +100,16 @@
             "move": "MOVE_MAGICROOM"
         }
     ],
-    "evolution": [
+    "evolve_to": [
         {
             "method": "EVO_LEVEL",
             "condition": "41",
             "target": "GOTHITELLE",
             "extra": "0"
         }
+    ],
+    "evolve_from": [
+        "GOTHITA"
     ],
     "tm": [
         "MOVE_CALMMIND",

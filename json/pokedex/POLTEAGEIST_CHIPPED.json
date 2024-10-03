@@ -88,6 +88,9 @@
             "move": "MOVE_CURSE"
         }
     ],
+    "evolve_from": [
+        "SINISTEA_CHIPPED"
+    ],
     "tm": [
         "MOVE_TOXIC",
         "MOVE_HIDDENPOWER",

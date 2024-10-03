@@ -120,6 +120,9 @@
             "move": "MOVE_MEGAHORN"
         }
     ],
+    "evolve_from": [
+        "WHIRLIPEDE"
+    ],
     "tm": [
         "MOVE_TOXIC",
         "MOVE_HIDDENPOWER",

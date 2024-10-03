@@ -88,7 +88,7 @@
             "move": "MOVE_SHELTER"
         }
     ],
-    "evolution": [
+    "evolve_to": [
         {
             "method": "EVO_RAINY_FOGGY_OW",
             "condition": "50",
@@ -96,6 +96,7 @@
             "extra": "0"
         }
     ],
+    "evolve_from": [],
     "tm": [
         "MOVE_WATERPULSE",
         "MOVE_TOXIC",

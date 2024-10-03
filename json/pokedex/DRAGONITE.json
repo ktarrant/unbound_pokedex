@@ -119,6 +119,9 @@
             "move": "MOVE_HYPERBEAM"
         }
     ],
+    "evolve_from": [
+        "DRAGONAIR"
+    ],
     "tm": [
         "MOVE_FOCUSPUNCH",
         "MOVE_DRAGONCLAW",

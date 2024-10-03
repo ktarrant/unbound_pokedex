@@ -57,6 +57,7 @@
             "move": "MOVE_FLAIL"
         }
     ],
+    "evolve_from": [],
     "tm": [
         "MOVE_WATERPULSE",
         "MOVE_TOXIC",

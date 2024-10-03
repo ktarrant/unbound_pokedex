@@ -123,6 +123,7 @@
             "move": "MOVE_CLOSECOMBAT"
         }
     ],
+    "evolve_from": [],
     "tm": [
         "MOVE_TOXIC",
         "MOVE_BULKUP",

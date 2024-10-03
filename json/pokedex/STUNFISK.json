@@ -133,6 +133,7 @@
             "move": "MOVE_FISSURE"
         }
     ],
+    "evolve_from": [],
     "tm": [
         "MOVE_WATERPULSE",
         "MOVE_TOXIC",

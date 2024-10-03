@@ -115,6 +115,10 @@
             "move": "MOVE_THUNDER"
         }
     ],
+    "evolve_from": [
+        "PICHU",
+        "PIKACHU_GIGA"
+    ],
     "tm": [
         "MOVE_FOCUSPUNCH",
         "MOVE_CALMMIND",

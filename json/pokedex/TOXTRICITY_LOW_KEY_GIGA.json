@@ -139,13 +139,16 @@
             "move": "MOVE_SLUDGEBOMB"
         }
     ],
-    "evolution": [
+    "evolve_to": [
         {
             "method": "EVO_GIGANTAMAX",
             "condition": "FALSE",
             "target": "TOXTRICITY_LOW_KEY",
             "extra": "0"
         }
+    ],
+    "evolve_from": [
+        "TOXTRICITY_LOW_KEY"
     ],
     "tm": [],
     "tutor": []

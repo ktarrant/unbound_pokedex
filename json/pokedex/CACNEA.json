@@ -119,7 +119,7 @@
             "move": "MOVE_DESTINYBOND"
         }
     ],
-    "evolution": [
+    "evolve_to": [
         {
             "method": "EVO_LEVEL",
             "condition": "32",
@@ -127,6 +127,7 @@
             "extra": "0"
         }
     ],
+    "evolve_from": [],
     "tm": [
         "MOVE_FOCUSPUNCH",
         "MOVE_TOXIC",

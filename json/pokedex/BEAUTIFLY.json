@@ -115,6 +115,9 @@
             "move": "MOVE_QUIVERDANCE"
         }
     ],
+    "evolve_from": [
+        "SILCOON"
+    ],
     "tm": [
         "MOVE_TOXIC",
         "MOVE_HIDDENPOWER",

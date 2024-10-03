@@ -43,7 +43,7 @@
     ],
     "blurb": "Using the feelers on its ears, it can tell how someone is feeling or when an egg might hatch.",
     "name": "Audino",
-    "evolution": [
+    "evolve_to": [
         {
             "method": "EVO_MEGA",
             "condition": "ITEM_AUDINITE",
@@ -132,6 +132,9 @@
             "level": 62,
             "move": "MOVE_LASTRESORT"
         }
+    ],
+    "evolve_from": [
+        "AUDINO_MEGA"
     ],
     "tm": [
         "MOVE_FOCUSPUNCH",

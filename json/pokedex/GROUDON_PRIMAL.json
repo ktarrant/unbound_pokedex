@@ -86,13 +86,16 @@
             "move": "MOVE_ERUPTION"
         }
     ],
-    "evolution": [
+    "evolve_to": [
         {
             "method": "EVO_MEGA",
             "condition": "ITEM_NONE",
             "target": "GROUDON",
             "extra": "MEGA_VARIANT_PRIMAL"
         }
+    ],
+    "evolve_from": [
+        "GROUDON"
     ],
     "tm": [],
     "tutor": []

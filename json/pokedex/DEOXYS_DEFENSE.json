@@ -94,6 +94,7 @@
             "move": "MOVE_MIRRORCOAT"
         }
     ],
+    "evolve_from": [],
     "tm": [
         "MOVE_FOCUSPUNCH",
         "MOVE_WATERPULSE",

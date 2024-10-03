@@ -111,6 +111,7 @@
             "move": "MOVE_PETALDANCE"
         }
     ],
+    "evolve_from": [],
     "tm": [
         "MOVE_TOXIC",
         "MOVE_BULLETSEED",

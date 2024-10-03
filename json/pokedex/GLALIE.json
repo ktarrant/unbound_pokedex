@@ -29,7 +29,7 @@
     "hiddenAbility": "ABILITY_MOODY",
     "noFlip": true,
     "name": "Glalie",
-    "evolution": [
+    "evolve_to": [
         {
             "method": "EVO_MEGA",
             "condition": "ITEM_GLALITITE",
@@ -114,6 +114,9 @@
             "level": 61,
             "move": "MOVE_SHEERCOLD"
         }
+    ],
+    "evolve_from": [
+        "GLALIE_MEGA"
     ],
     "tm": [
         "MOVE_WATERPULSE",

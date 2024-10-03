@@ -115,6 +115,9 @@
             "move": "MOVE_HYPERBEAM"
         }
     ],
+    "evolve_from": [
+        "LOUDRED"
+    ],
     "tm": [
         "MOVE_WATERPULSE",
         "MOVE_ROAR",

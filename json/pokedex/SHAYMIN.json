@@ -88,6 +88,7 @@
             "move": "MOVE_SEEDFLARE"
         }
     ],
+    "evolve_from": [],
     "tm": [
         "MOVE_TOXIC",
         "MOVE_BULLETSEED",

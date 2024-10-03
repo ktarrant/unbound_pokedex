@@ -91,13 +91,16 @@
             "move": "MOVE_SUPERPOWER"
         }
     ],
-    "evolution": [
+    "evolve_to": [
         {
             "method": "EVO_GIGANTAMAX",
             "condition": "FALSE",
             "target": "COPPERAJAH",
             "extra": "0"
         }
+    ],
+    "evolve_from": [
+        "COPPERAJAH"
     ],
     "tm": [],
     "tutor": []

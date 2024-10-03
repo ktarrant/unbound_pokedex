@@ -120,6 +120,7 @@
             "move": "MOVE_COREENFORCER"
         }
     ],
+    "evolve_from": [],
     "tm": [
         "MOVE_DRAGONCLAW",
         "MOVE_TOXIC",

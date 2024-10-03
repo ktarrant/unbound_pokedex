@@ -103,13 +103,16 @@
             "move": "MOVE_CLANGINGSCALES"
         }
     ],
-    "evolution": [
+    "evolve_to": [
         {
             "method": "EVO_LEVEL",
             "condition": "45",
             "target": "KOMMO_O",
             "extra": "0"
         }
+    ],
+    "evolve_from": [
+        "JANGMO_O"
     ],
     "tm": [
         "MOVE_DRAGONCLAW",

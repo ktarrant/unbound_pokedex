@@ -30,7 +30,7 @@
     "noFlip": true,
     "blurb": "This excessively hostile Pok\u00e9mon has large and very sharp fangs in addition to its dangerous burning body.",
     "name": "Centskorch",
-    "evolution": [
+    "evolve_to": [
         {
             "method": "EVO_GIGANTAMAX",
             "condition": "TRUE",
@@ -95,6 +95,10 @@
             "level": 62,
             "move": "MOVE_RAGINGFURY"
         }
+    ],
+    "evolve_from": [
+        "SIZZLIPEDE",
+        "CENTISKORCH_GIGA"
     ],
     "tm": [
         "MOVE_TOXIC",

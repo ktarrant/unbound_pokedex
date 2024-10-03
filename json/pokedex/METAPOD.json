@@ -39,13 +39,16 @@
             "move": "MOVE_HARDEN"
         }
     ],
-    "evolution": [
+    "evolve_to": [
         {
             "method": "EVO_LEVEL",
             "condition": "10",
             "target": "BUTTERFREE",
             "extra": "0"
         }
+    ],
+    "evolve_from": [
+        "CATERPIE"
     ],
     "tm": [],
     "tutor": [

@@ -96,13 +96,16 @@
             "move": "MOVE_VOLTTACKLE"
         }
     ],
-    "evolution": [
+    "evolve_to": [
         {
             "method": "EVO_LEVEL",
             "condition": "30",
             "target": "LUXRAY",
             "extra": "0"
         }
+    ],
+    "evolve_from": [
+        "SHINX"
     ],
     "tm": [
         "MOVE_ROAR",

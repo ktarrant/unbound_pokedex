@@ -116,6 +116,9 @@
             "move": "MOVE_HEALINGWISH"
         }
     ],
+    "evolve_from": [
+        "CHINGLING"
+    ],
     "tm": [
         "MOVE_CALMMIND",
         "MOVE_TOXIC",

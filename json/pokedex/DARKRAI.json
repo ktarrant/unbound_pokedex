@@ -100,6 +100,7 @@
             "move": "MOVE_NASTYPLOT"
         }
     ],
+    "evolve_from": [],
     "tm": [
         "MOVE_FOCUSPUNCH",
         "MOVE_CALMMIND",

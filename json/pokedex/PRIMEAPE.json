@@ -123,6 +123,9 @@
             "move": "MOVE_FINALGAMBIT"
         }
     ],
+    "evolve_from": [
+        "MANKEY"
+    ],
     "tm": [
         "MOVE_FOCUSPUNCH",
         "MOVE_TOXIC",

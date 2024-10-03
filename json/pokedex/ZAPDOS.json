@@ -99,6 +99,7 @@
             "move": "MOVE_ZAPCANNON"
         }
     ],
+    "evolve_from": [],
     "tm": [
         "MOVE_ROAR",
         "MOVE_TOXIC",

@@ -29,7 +29,7 @@
     "hiddenAbility": "ABILITY_SHEDSKIN",
     "noFlip": true,
     "name": "Rayquaza",
-    "evolution": [
+    "evolve_to": [
         {
             "method": "EVO_MEGA",
             "condition": "MOVE_DRAGONASCENT",
@@ -102,6 +102,9 @@
             "level": 100,
             "move": "MOVE_VCREATE"
         }
+    ],
+    "evolve_from": [
+        "RAYQUAZA_MEGA"
     ],
     "tm": [
         "MOVE_DRAGONCLAW",

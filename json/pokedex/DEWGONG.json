@@ -115,6 +115,9 @@
             "move": "MOVE_DOUBLEEDGE"
         }
     ],
+    "evolve_from": [
+        "SEEL"
+    ],
     "tm": [
         "MOVE_WATERPULSE",
         "MOVE_TOXIC",

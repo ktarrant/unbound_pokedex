@@ -99,13 +99,16 @@
             "move": "MOVE_HEADSMASH"
         }
     ],
-    "evolution": [
+    "evolve_to": [
         {
             "method": "EVO_GIGANTAMAX",
             "condition": "FALSE",
             "target": "DREDNAW",
             "extra": "0"
         }
+    ],
+    "evolve_from": [
+        "DREDNAW"
     ],
     "tm": [],
     "tutor": []

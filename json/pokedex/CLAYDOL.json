@@ -127,6 +127,9 @@
             "move": "MOVE_SHOREUP"
         }
     ],
+    "evolve_from": [
+        "BALTOY"
+    ],
     "tm": [
         "MOVE_CALMMIND",
         "MOVE_TOXIC",

@@ -46,7 +46,7 @@
     ],
     "blurb": "Its shape and coloration vary, depending on its habitat.",
     "name": "Shellos",
-    "evolution": [
+    "evolve_to": [
         {
             "method": "EVO_LEVEL",
             "condition": "30",
@@ -116,6 +116,7 @@
             "move": "MOVE_RECOVER"
         }
     ],
+    "evolve_from": [],
     "tm": [
         "MOVE_WATERPULSE",
         "MOVE_TOXIC",

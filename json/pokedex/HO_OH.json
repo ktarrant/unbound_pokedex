@@ -98,6 +98,7 @@
             "move": "MOVE_BURNUP"
         }
     ],
+    "evolve_from": [],
     "tm": [
         "MOVE_CALMMIND",
         "MOVE_ROAR",

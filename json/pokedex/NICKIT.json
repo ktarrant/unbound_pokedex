@@ -82,7 +82,7 @@
             "move": "MOVE_FOULPLAY"
         }
     ],
-    "evolution": [
+    "evolve_to": [
         {
             "method": "EVO_LEVEL",
             "condition": "18",
@@ -90,6 +90,7 @@
             "extra": "0"
         }
     ],
+    "evolve_from": [],
     "tm": [
         "MOVE_TOXIC",
         "MOVE_HIDDENPOWER",

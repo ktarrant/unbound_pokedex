@@ -115,6 +115,9 @@
             "move": "MOVE_MEMENTO"
         }
     ],
+    "evolve_from": [
+        "SKIPLOOM"
+    ],
     "tm": [
         "MOVE_TOXIC",
         "MOVE_BULLETSEED",

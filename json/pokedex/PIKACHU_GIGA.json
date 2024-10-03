@@ -115,13 +115,30 @@
             "move": "MOVE_THUNDER"
         }
     ],
-    "evolution": [
+    "evolve_to": [
         {
             "method": "EVO_GIGANTAMAX",
             "condition": "FALSE",
             "target": "PIKACHU",
             "extra": "0"
         }
+    ],
+    "evolve_from": [
+        "PIKACHU_SURFING",
+        "PIKACHU_FLYING",
+        "PIKACHU_COSPLAY",
+        "PIKACHU_LIBRE",
+        "PIKACHU_POP_STAR",
+        "PIKACHU_ROCK_STAR",
+        "PIKACHU_BELLE",
+        "PIKACHU_PHD",
+        "PIKACHU_CAP_ORIGINAL",
+        "PIKACHU_CAP_HOENN",
+        "PIKACHU_CAP_SINNOH",
+        "PIKACHU_CAP_UNOVA",
+        "PIKACHU_CAP_KALOS",
+        "PIKACHU_CAP_ALOLA",
+        "PIKACHU_CAP_PARTNER"
     ],
     "tm": [],
     "tutor": []

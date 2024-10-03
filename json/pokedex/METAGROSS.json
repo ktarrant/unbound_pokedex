@@ -29,7 +29,7 @@
     "hiddenAbility": "ABILITY_LIGHTMETAL",
     "noFlip": true,
     "name": "Metagross",
-    "evolution": [
+    "evolve_to": [
         {
             "method": "EVO_MEGA",
             "condition": "ITEM_METAGROSSITE",
@@ -118,6 +118,10 @@
             "level": 70,
             "move": "MOVE_GIGAIMPACT"
         }
+    ],
+    "evolve_from": [
+        "METANG",
+        "METAGROSS_MEGA"
     ],
     "tm": [
         "MOVE_TOXIC",

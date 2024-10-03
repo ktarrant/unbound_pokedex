@@ -122,13 +122,16 @@
             "move": "MOVE_COUNTER"
         }
     ],
-    "evolution": [
+    "evolve_to": [
         {
             "method": "EVO_MEGA",
             "condition": "ITEM_NONE",
             "target": "MEDICHAM",
             "extra": "MEGA_VARIANT_STANDARD"
         }
+    ],
+    "evolve_from": [
+        "MEDICHAM"
     ],
     "tm": [],
     "tutor": []

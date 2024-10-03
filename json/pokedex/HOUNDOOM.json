@@ -29,7 +29,7 @@
     "hiddenAbility": "ABILITY_UNNERVE",
     "noFlip": true,
     "name": "Houndoom",
-    "evolution": [
+    "evolve_to": [
         {
             "method": "EVO_MEGA",
             "condition": "ITEM_HOUNDOOMINITE",
@@ -114,6 +114,10 @@
             "level": 63,
             "move": "MOVE_INFERNO"
         }
+    ],
+    "evolve_from": [
+        "HOUNDOUR",
+        "HOUNDOOM_MEGA"
     ],
     "tm": [
         "MOVE_ROAR",

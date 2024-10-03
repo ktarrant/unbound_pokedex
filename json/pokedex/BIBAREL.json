@@ -112,6 +112,9 @@
             "move": "MOVE_CURSE"
         }
     ],
+    "evolve_from": [
+        "BIDOOF"
+    ],
     "tm": [
         "MOVE_FOCUSPUNCH",
         "MOVE_WATERPULSE",

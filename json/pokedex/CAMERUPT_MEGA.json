@@ -110,13 +110,16 @@
             "move": "MOVE_FISSURE"
         }
     ],
-    "evolution": [
+    "evolve_to": [
         {
             "method": "EVO_MEGA",
             "condition": "ITEM_NONE",
             "target": "CAMERUPT",
             "extra": "MEGA_VARIANT_STANDARD"
         }
+    ],
+    "evolve_from": [
+        "CAMERUPT"
     ],
     "tm": [],
     "tutor": []

@@ -108,6 +108,9 @@
             "move": "MOVE_RELICSONG"
         }
     ],
+    "evolve_from": [
+        "BRIONNE"
+    ],
     "tm": [
         "MOVE_WATERPULSE",
         "MOVE_CALMMIND",

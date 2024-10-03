@@ -102,6 +102,9 @@
             "move": "MOVE_SLACKOFF"
         }
     ],
+    "evolve_from": [
+        "HIPPOPOTAS_F"
+    ],
     "tm": [
         "MOVE_WATERPULSE",
         "MOVE_ROAR",

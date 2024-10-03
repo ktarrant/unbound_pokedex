@@ -47,6 +47,7 @@
             "move": "MOVE_BUGBITE"
         }
     ],
+    "evolve_from": [],
     "tm": [],
     "tutor": [
         "MOVE_ELECTROWEB",

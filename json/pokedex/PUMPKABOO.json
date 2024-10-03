@@ -105,6 +105,7 @@
             "move": "MOVE_POLTERGEIST"
         }
     ],
+    "evolve_from": [],
     "tm": [
         "MOVE_TOXIC",
         "MOVE_BULLETSEED",

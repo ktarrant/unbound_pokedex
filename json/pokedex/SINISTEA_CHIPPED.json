@@ -80,7 +80,7 @@
             "move": "MOVE_SHELLSMASH"
         }
     ],
-    "evolution": [
+    "evolve_to": [
         {
             "method": "EVO_ITEM",
             "condition": "ITEM_CHIPPED_POT",
@@ -88,6 +88,7 @@
             "extra": "0"
         }
     ],
+    "evolve_from": [],
     "tm": [
         "MOVE_TOXIC",
         "MOVE_HIDDENPOWER",

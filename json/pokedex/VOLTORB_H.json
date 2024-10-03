@@ -100,7 +100,7 @@
             "move": "MOVE_MIRRORCOAT"
         }
     ],
-    "evolution": [
+    "evolve_to": [
         {
             "method": "EVO_ITEM",
             "condition": "ITEM_LEAF_STONE",
@@ -108,6 +108,7 @@
             "extra": "0"
         }
     ],
+    "evolve_from": [],
     "tm": [
         "MOVE_TOXIC",
         "MOVE_BULLETSEED",

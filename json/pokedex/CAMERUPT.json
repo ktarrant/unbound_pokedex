@@ -29,7 +29,7 @@
     "hiddenAbility": "ABILITY_ANGERPOINT",
     "noFlip": true,
     "name": "Camerupt",
-    "evolution": [
+    "evolve_to": [
         {
             "method": "EVO_MEGA",
             "condition": "ITEM_CAMERUPTITE",
@@ -118,6 +118,10 @@
             "level": 59,
             "move": "MOVE_FISSURE"
         }
+    ],
+    "evolve_from": [
+        "NUMEL",
+        "CAMERUPT_MEGA"
     ],
     "tm": [
         "MOVE_ROAR",

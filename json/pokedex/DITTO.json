@@ -35,6 +35,7 @@
             "move": "MOVE_TRANSFORM"
         }
     ],
+    "evolve_from": [],
     "tm": [],
     "tutor": []
 }

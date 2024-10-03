@@ -105,7 +105,7 @@
             "move": "MOVE_BRAVEBIRD"
         }
     ],
-    "evolution": [
+    "evolve_to": [
         {
             "method": "EVO_CRITICAL_HIT",
             "condition": "0",
@@ -113,6 +113,7 @@
             "extra": "0"
         }
     ],
+    "evolve_from": [],
     "tm": [
         "MOVE_TOXIC",
         "MOVE_HIDDENPOWER",

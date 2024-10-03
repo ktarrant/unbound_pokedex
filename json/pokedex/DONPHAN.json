@@ -135,6 +135,9 @@
             "move": "MOVE_GIGAIMPACT"
         }
     ],
+    "evolve_from": [
+        "PHANPY"
+    ],
     "tm": [
         "MOVE_ROAR",
         "MOVE_TOXIC",

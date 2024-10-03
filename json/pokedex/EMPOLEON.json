@@ -112,6 +112,9 @@
             "move": "MOVE_HYDROPUMP"
         }
     ],
+    "evolve_from": [
+        "PRINPLUP"
+    ],
     "tm": [
         "MOVE_WATERPULSE",
         "MOVE_ROAR",

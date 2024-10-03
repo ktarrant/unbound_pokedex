@@ -46,7 +46,7 @@
         "MOVE_SPARKLINGARIA"
     ],
     "name": "Lapras",
-    "evolution": [
+    "evolve_to": [
         {
             "method": "EVO_GIGANTAMAX",
             "condition": "TRUE",
@@ -119,6 +119,9 @@
             "level": 64,
             "move": "MOVE_SHEERCOLD"
         }
+    ],
+    "evolve_from": [
+        "LAPRAS_GIGA"
     ],
     "tm": [
         "MOVE_WATERPULSE",

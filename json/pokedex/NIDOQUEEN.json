@@ -111,6 +111,9 @@
             "move": "MOVE_EARTHPOWER"
         }
     ],
+    "evolve_from": [
+        "NIDORINA"
+    ],
     "tm": [
         "MOVE_FOCUSPUNCH",
         "MOVE_WATERPULSE",

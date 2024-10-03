@@ -115,6 +115,9 @@
             "move": "MOVE_HYPERBEAM"
         }
     ],
+    "evolve_from": [
+        "REMORAID"
+    ],
     "tm": [
         "MOVE_WATERPULSE",
         "MOVE_TOXIC",

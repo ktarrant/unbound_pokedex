@@ -104,6 +104,9 @@
             "move": "MOVE_SUPERPOWER"
         }
     ],
+    "evolve_from": [
+        "INKAY"
+    ],
     "tm": [
         "MOVE_CALMMIND",
         "MOVE_TOXIC",

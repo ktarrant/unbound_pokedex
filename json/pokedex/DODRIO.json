@@ -103,6 +103,9 @@
             "move": "MOVE_BRAVEBIRD"
         }
     ],
+    "evolve_from": [
+        "DODUO"
+    ],
     "tm": [
         "MOVE_TOXIC",
         "MOVE_HIDDENPOWER",

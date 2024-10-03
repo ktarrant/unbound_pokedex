@@ -42,7 +42,7 @@
         "MOVE_DUALWINGBEAT"
     ],
     "name": "Aerodactyl",
-    "evolution": [
+    "evolve_to": [
         {
             "method": "EVO_MEGA",
             "condition": "ITEM_AERODACTYLITE",
@@ -119,6 +119,9 @@
             "level": 60,
             "move": "MOVE_GIGAIMPACT"
         }
+    ],
+    "evolve_from": [
+        "AERODACTYL_MEGA"
     ],
     "tm": [
         "MOVE_DRAGONCLAW",

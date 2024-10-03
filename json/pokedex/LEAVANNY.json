@@ -120,6 +120,9 @@
             "move": "MOVE_SWORDSDANCE"
         }
     ],
+    "evolve_from": [
+        "SWADLOON"
+    ],
     "tm": [
         "MOVE_CALMMIND",
         "MOVE_TOXIC",

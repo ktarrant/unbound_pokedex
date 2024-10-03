@@ -127,6 +127,9 @@
             "move": "MOVE_GIGAIMPACT"
         }
     ],
+    "evolve_from": [
+        "VIGOROTH"
+    ],
     "tm": [
         "MOVE_FOCUSPUNCH",
         "MOVE_WATERPULSE",

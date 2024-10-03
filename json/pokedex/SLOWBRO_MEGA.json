@@ -102,13 +102,16 @@
             "move": "MOVE_HEALPULSE"
         }
     ],
-    "evolution": [
+    "evolve_to": [
         {
             "method": "EVO_MEGA",
             "condition": "ITEM_NONE",
             "target": "SLOWBRO",
             "extra": "MEGA_VARIANT_STANDARD"
         }
+    ],
+    "evolve_from": [
+        "SLOWBRO"
     ],
     "tm": [],
     "tutor": []

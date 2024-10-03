@@ -109,6 +109,7 @@
             "move": "MOVE_STONEEDGE"
         }
     ],
+    "evolve_from": [],
     "tm": [
         "MOVE_ROAR",
         "MOVE_TOXIC",

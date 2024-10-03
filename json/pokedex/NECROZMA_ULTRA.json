@@ -107,6 +107,10 @@
             "move": "MOVE_PRISMATICLASER"
         }
     ],
+    "evolve_from": [
+        "NECROZMA_DUSK_MANE",
+        "NECROZMA_DAWN_WINGS"
+    ],
     "tm": [
         "MOVE_TOXIC",
         "MOVE_HIDDENPOWER",

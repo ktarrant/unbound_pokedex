@@ -124,6 +124,7 @@
             "move": "MOVE_ZAPCANNON"
         }
     ],
+    "evolve_from": [],
     "tm": [
         "MOVE_TOXIC",
         "MOVE_HIDDENPOWER",

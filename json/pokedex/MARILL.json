@@ -132,13 +132,16 @@
             "move": "MOVE_SUPERPOWER"
         }
     ],
-    "evolution": [
+    "evolve_to": [
         {
             "method": "EVO_LEVEL",
             "condition": "18",
             "target": "AZUMARILL",
             "extra": "0"
         }
+    ],
+    "evolve_from": [
+        "AZURILL"
     ],
     "tm": [
         "MOVE_FOCUSPUNCH",

@@ -92,6 +92,9 @@
             "move": "MOVE_HEAVYSLAM"
         }
     ],
+    "evolve_from": [
+        "SHIELDON"
+    ],
     "tm": [
         "MOVE_ROAR",
         "MOVE_TOXIC",

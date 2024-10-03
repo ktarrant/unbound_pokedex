@@ -107,7 +107,7 @@
             "move": "MOVE_SOLARBEAM"
         }
     ],
-    "evolution": [
+    "evolve_to": [
         {
             "method": "EVO_GIGANTAMAX",
             "condition": "FALSE",
@@ -115,6 +115,7 @@
             "extra": "0"
         }
     ],
+    "evolve_from": [],
     "tm": [],
     "tutor": []
 }

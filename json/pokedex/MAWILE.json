@@ -47,7 +47,7 @@
         "MOVE_SING"
     ],
     "name": "Mawile",
-    "evolution": [
+    "evolve_to": [
         {
             "method": "EVO_MEGA",
             "condition": "ITEM_MAWILITE",
@@ -124,6 +124,9 @@
             "level": 48,
             "move": "MOVE_PLAYROUGH"
         }
+    ],
+    "evolve_from": [
+        "MAWILE_MEGA"
     ],
     "tm": [
         "MOVE_FOCUSPUNCH",

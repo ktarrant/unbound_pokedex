@@ -120,6 +120,7 @@
             "move": "MOVE_SYNCHRONOISE"
         }
     ],
+    "evolve_from": [],
     "tm": [
         "MOVE_FOCUSPUNCH",
         "MOVE_WATERPULSE",

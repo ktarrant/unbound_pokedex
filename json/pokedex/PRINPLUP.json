@@ -96,13 +96,16 @@
             "move": "MOVE_HYDROPUMP"
         }
     ],
-    "evolution": [
+    "evolve_to": [
         {
             "method": "EVO_LEVEL",
             "condition": "36",
             "target": "EMPOLEON",
             "extra": "0"
         }
+    ],
+    "evolve_from": [
+        "PIPLUP"
     ],
     "tm": [
         "MOVE_WATERPULSE",

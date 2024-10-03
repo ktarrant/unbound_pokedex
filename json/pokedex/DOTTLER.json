@@ -60,13 +60,16 @@
             "move": "MOVE_LIGHTSCREEN"
         }
     ],
-    "evolution": [
+    "evolve_to": [
         {
             "method": "EVO_LEVEL",
             "condition": "30",
             "target": "ORBEETLE",
             "extra": "0"
         }
+    ],
+    "evolve_from": [
+        "BLIPBUG"
     ],
     "tm": [
         "MOVE_CALMMIND",

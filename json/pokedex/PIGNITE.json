@@ -100,13 +100,16 @@
             "move": "MOVE_FLAREBLITZ"
         }
     ],
-    "evolution": [
+    "evolve_to": [
         {
             "method": "EVO_LEVEL",
             "condition": "36",
             "target": "EMBOAR",
             "extra": "0"
         }
+    ],
+    "evolve_from": [
+        "TEPIG"
     ],
     "tm": [
         "MOVE_FOCUSPUNCH",

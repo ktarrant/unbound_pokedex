@@ -88,6 +88,9 @@
             "move": "MOVE_COTTONGUARD"
         }
     ],
+    "evolve_from": [
+        "GOSSIFLEUR"
+    ],
     "tm": [
         "MOVE_TOXIC",
         "MOVE_BULLETSEED",

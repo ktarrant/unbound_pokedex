@@ -124,6 +124,9 @@
             "move": "MOVE_DOOMDESIRE"
         }
     ],
+    "evolve_from": [
+        "BRONZOR"
+    ],
     "tm": [
         "MOVE_CALMMIND",
         "MOVE_TOXIC",

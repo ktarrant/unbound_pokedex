@@ -29,7 +29,7 @@
     "hiddenAbility": "ABILITY_COTTONDOWN",
     "noFlip": true,
     "name": "Ampharos",
-    "evolution": [
+    "evolve_to": [
         {
             "method": "EVO_MEGA",
             "condition": "ITEM_AMPHAROSITE",
@@ -130,6 +130,10 @@
             "level": 63,
             "move": "MOVE_THUNDERCAGE"
         }
+    ],
+    "evolve_from": [
+        "FLAAFFY",
+        "AMPHAROS_MEGA"
     ],
     "tm": [
         "MOVE_FOCUSPUNCH",

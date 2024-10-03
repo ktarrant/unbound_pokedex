@@ -98,13 +98,16 @@
             "move": "MOVE_PLAYROUGH"
         }
     ],
-    "evolution": [
+    "evolve_to": [
         {
             "method": "EVO_MEGA",
             "condition": "ITEM_NONE",
             "target": "MAWILE",
             "extra": "MEGA_VARIANT_STANDARD"
         }
+    ],
+    "evolve_from": [
+        "MAWILE"
     ],
     "tm": [],
     "tutor": []

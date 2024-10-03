@@ -170,6 +170,9 @@
             "move": "MOVE_TEETERDANCE"
         }
     ],
+    "evolve_from": [
+        "MIME_JR"
+    ],
     "tm": [
         "MOVE_FOCUSPUNCH",
         "MOVE_CALMMIND",

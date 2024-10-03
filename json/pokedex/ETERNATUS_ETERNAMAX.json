@@ -92,6 +92,7 @@
             "move": "MOVE_ETERNABEAM"
         }
     ],
+    "evolve_from": [],
     "tm": [],
     "tutor": []
 }

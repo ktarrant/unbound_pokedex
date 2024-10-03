@@ -108,13 +108,16 @@
             "move": "MOVE_OUTRAGE"
         }
     ],
-    "evolution": [
+    "evolve_to": [
         {
             "method": "EVO_LEVEL",
             "condition": "48",
             "target": "GARCHOMP",
             "extra": "0"
         }
+    ],
+    "evolve_from": [
+        "GIBLE"
     ],
     "tm": [
         "MOVE_DRAGONCLAW",

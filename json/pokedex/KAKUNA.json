@@ -39,13 +39,16 @@
             "move": "MOVE_HARDEN"
         }
     ],
-    "evolution": [
+    "evolve_to": [
         {
             "method": "EVO_LEVEL",
             "condition": "10",
             "target": "BEEDRILL",
             "extra": "0"
         }
+    ],
+    "evolve_from": [
+        "WEEDLE"
     ],
     "tm": [],
     "tutor": [

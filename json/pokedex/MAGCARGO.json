@@ -115,6 +115,9 @@
             "move": "MOVE_MAGMASTORM"
         }
     ],
+    "evolve_from": [
+        "SLUGMA"
+    ],
     "tm": [
         "MOVE_TOXIC",
         "MOVE_HIDDENPOWER",

@@ -95,6 +95,9 @@
             "move": "MOVE_GIGAIMPACT"
         }
     ],
+    "evolve_from": [
+        "ELEKID"
+    ],
     "tm": [
         "MOVE_FOCUSPUNCH",
         "MOVE_TOXIC",

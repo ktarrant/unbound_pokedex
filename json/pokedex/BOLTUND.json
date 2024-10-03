@@ -88,6 +88,9 @@
             "move": "MOVE_BOLTSTRIKE"
         }
     ],
+    "evolve_from": [
+        "YAMPER"
+    ],
     "tm": [
         "MOVE_ROAR",
         "MOVE_TOXIC",

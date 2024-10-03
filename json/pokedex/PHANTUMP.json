@@ -105,6 +105,7 @@
             "move": "MOVE_FORESTSCURSE"
         }
     ],
+    "evolve_from": [],
     "tm": [
         "MOVE_TOXIC",
         "MOVE_HIDDENPOWER",

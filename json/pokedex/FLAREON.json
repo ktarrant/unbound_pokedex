@@ -139,6 +139,7 @@
             "move": "MOVE_FLAREBLITZ"
         }
     ],
+    "evolve_from": [],
     "tm": [
         "MOVE_CALMMIND",
         "MOVE_ROAR",

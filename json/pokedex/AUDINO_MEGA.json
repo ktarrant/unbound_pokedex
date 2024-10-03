@@ -110,13 +110,16 @@
             "move": "MOVE_LASTRESORT"
         }
     ],
-    "evolution": [
+    "evolve_to": [
         {
             "method": "EVO_MEGA",
             "condition": "ITEM_NONE",
             "target": "AUDINO",
             "extra": "MEGA_VARIANT_STANDARD"
         }
+    ],
+    "evolve_from": [
+        "AUDINO"
     ],
     "tm": [],
     "tutor": []

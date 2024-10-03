@@ -84,6 +84,9 @@
             "move": "MOVE_LASTRESORT"
         }
     ],
+    "evolve_from": [
+        "WOOLOO"
+    ],
     "tm": [
         "MOVE_TOXIC",
         "MOVE_HIDDENPOWER",

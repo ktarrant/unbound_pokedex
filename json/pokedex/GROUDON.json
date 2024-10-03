@@ -29,7 +29,7 @@
     "hiddenAbility": "ABILITY_HEATPROOF",
     "noFlip": true,
     "name": "Groudon",
-    "evolution": [
+    "evolve_to": [
         {
             "method": "EVO_MEGA",
             "condition": "ITEM_RED_ORB",
@@ -94,6 +94,9 @@
             "level": 90,
             "move": "MOVE_ERUPTION"
         }
+    ],
+    "evolve_from": [
+        "GROUDON_PRIMAL"
     ],
     "tm": [
         "MOVE_DRAGONCLAW",

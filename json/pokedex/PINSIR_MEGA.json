@@ -98,13 +98,16 @@
             "move": "MOVE_SUPERPOWER"
         }
     ],
-    "evolution": [
+    "evolve_to": [
         {
             "method": "EVO_MEGA",
             "condition": "ITEM_NONE",
             "target": "PINSIR",
             "extra": "MEGA_VARIANT_STANDARD"
         }
+    ],
+    "evolve_from": [
+        "PINSIR"
     ],
     "tm": [],
     "tutor": []

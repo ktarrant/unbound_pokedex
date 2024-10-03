@@ -99,6 +99,7 @@
             "move": "MOVE_GIGAIMPACT"
         }
     ],
+    "evolve_from": [],
     "tm": [
         "MOVE_WATERPULSE",
         "MOVE_TOXIC",

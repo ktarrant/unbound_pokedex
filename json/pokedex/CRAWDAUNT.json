@@ -103,6 +103,9 @@
             "move": "MOVE_GUILLOTINE"
         }
     ],
+    "evolve_from": [
+        "CORPHISH"
+    ],
     "tm": [
         "MOVE_WATERPULSE",
         "MOVE_TOXIC",

@@ -112,6 +112,7 @@
             "move": "MOVE_BOOMBURST"
         }
     ],
+    "evolve_from": [],
     "tm": [
         "MOVE_TOXIC",
         "MOVE_HIDDENPOWER",

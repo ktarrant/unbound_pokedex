@@ -39,7 +39,7 @@
         "MOVE_REVENGE"
     ],
     "name": "Pinsir",
-    "evolution": [
+    "evolve_to": [
         {
             "method": "EVO_MEGA",
             "condition": "ITEM_PINSIRITE",
@@ -116,6 +116,9 @@
             "level": 60,
             "move": "MOVE_SUPERPOWER"
         }
+    ],
+    "evolve_from": [
+        "PINSIR_MEGA"
     ],
     "tm": [
         "MOVE_FOCUSPUNCH",

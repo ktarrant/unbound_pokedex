@@ -29,7 +29,7 @@
     "hiddenAbility": "ABILITY_UNBURDEN",
     "noFlip": true,
     "name": "Sceptile",
-    "evolution": [
+    "evolve_to": [
         {
             "method": "EVO_MEGA",
             "condition": "ITEM_SCEPTILITE",
@@ -126,6 +126,10 @@
             "level": 64,
             "move": "MOVE_LEAFSTORM"
         }
+    ],
+    "evolve_from": [
+        "GROVYLE",
+        "SCEPTILE_MEGA"
     ],
     "tm": [
         "MOVE_FOCUSPUNCH",

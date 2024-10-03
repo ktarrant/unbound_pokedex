@@ -88,6 +88,7 @@
             "move": "MOVE_MOONBLAST"
         }
     ],
+    "evolve_from": [],
     "tm": [
         "MOVE_ROAR",
         "MOVE_TOXIC",

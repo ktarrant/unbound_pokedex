@@ -147,6 +147,9 @@
             "move": "MOVE_SOFTBOILED"
         }
     ],
+    "evolve_from": [
+        "CHANSEY"
+    ],
     "tm": [
         "MOVE_FOCUSPUNCH",
         "MOVE_WATERPULSE",

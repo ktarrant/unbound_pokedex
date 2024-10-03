@@ -114,13 +114,16 @@
             "move": "MOVE_PSYCHOSHIFT"
         }
     ],
-    "evolution": [
+    "evolve_to": [
         {
             "method": "EVO_MEGA",
             "condition": "ITEM_NONE",
             "target": "LATIOS",
             "extra": "MEGA_VARIANT_STANDARD"
         }
+    ],
+    "evolve_from": [
+        "LATIOS"
     ],
     "tm": [],
     "tutor": []

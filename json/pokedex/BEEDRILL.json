@@ -29,7 +29,7 @@
     "hiddenAbility": "ABILITY_TECHNICIAN",
     "noFlip": true,
     "name": "Beedrill",
-    "evolution": [
+    "evolve_to": [
         {
             "method": "EVO_MEGA",
             "condition": "ITEM_BEEDRILLITE",
@@ -118,6 +118,10 @@
             "level": 49,
             "move": "MOVE_OUTRAGE"
         }
+    ],
+    "evolve_from": [
+        "KAKUNA",
+        "BEEDRILL_MEGA"
     ],
     "tm": [
         "MOVE_TOXIC",

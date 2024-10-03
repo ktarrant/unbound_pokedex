@@ -104,6 +104,9 @@
             "move": "MOVE_METEORASSAULT"
         }
     ],
+    "evolve_from": [
+        "FARFETCHD_G"
+    ],
     "tm": [
         "MOVE_TOXIC",
         "MOVE_HIDDENPOWER",

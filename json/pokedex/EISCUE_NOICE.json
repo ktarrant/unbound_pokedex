@@ -80,6 +80,7 @@
             "move": "MOVE_ICICLECRASH"
         }
     ],
+    "evolve_from": [],
     "tm": [],
     "tutor": []
 }

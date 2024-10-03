@@ -124,6 +124,9 @@
             "move": "MOVE_HURRICANE"
         }
     ],
+    "evolve_from": [
+        "COTTONEE"
+    ],
     "tm": [
         "MOVE_TOXIC",
         "MOVE_HIDDENPOWER",

@@ -127,13 +127,16 @@
             "move": "MOVE_PETALDANCE"
         }
     ],
-    "evolution": [
+    "evolve_to": [
         {
             "method": "EVO_ITEM",
             "condition": "ITEM_SHINY_STONE",
             "target": "ROSERADE",
             "extra": "0"
         }
+    ],
+    "evolve_from": [
+        "BUDEW"
     ],
     "tm": [
         "MOVE_TOXIC",

@@ -102,6 +102,9 @@
             "move": "MOVE_MOONBLAST"
         }
     ],
+    "evolve_from": [
+        "FLOETTE_ORANGE"
+    ],
     "tm": [
         "MOVE_CALMMIND",
         "MOVE_TOXIC",

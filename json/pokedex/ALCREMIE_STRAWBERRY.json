@@ -30,7 +30,7 @@
     "noFlip": true,
     "blurb": "It evolved from a Milcery that held onto a Strawberry Sweet. Its flavor depends on how it was mixed.",
     "name": "Alcremie",
-    "evolution": [
+    "evolve_to": [
         {
             "method": "EVO_GIGANTAMAX",
             "condition": "TRUE",
@@ -91,6 +91,9 @@
             "level": 50,
             "move": "MOVE_ENTRAINMENT"
         }
+    ],
+    "evolve_from": [
+        "ALCREMIE_GIGA"
     ],
     "tm": [
         "MOVE_CALMMIND",

@@ -29,7 +29,7 @@
     "hiddenAbility": "ABILITY_NONE",
     "noFlip": true,
     "blurb": "Lunala no longer has a will of its own. Now under the control of Necrozma, it continuously expels all of its energy.",
-    "evolution": [
+    "evolve_to": [
         {
             "method": "EVO_MEGA",
             "condition": "ITEM_ULTRANECROZIUM_Z",
@@ -115,6 +115,7 @@
             "move": "MOVE_PRISMATICLASER"
         }
     ],
+    "evolve_from": [],
     "tm": [
         "MOVE_CALMMIND",
         "MOVE_TOXIC",

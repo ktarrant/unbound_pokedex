@@ -115,13 +115,16 @@
             "move": "MOVE_FLAREBLITZ"
         }
     ],
-    "evolution": [
+    "evolve_to": [
         {
             "method": "EVO_LEVEL",
             "condition": "36",
             "target": "BLAZIKEN",
             "extra": "0"
         }
+    ],
+    "evolve_from": [
+        "TORCHIC"
     ],
     "tm": [
         "MOVE_FOCUSPUNCH",

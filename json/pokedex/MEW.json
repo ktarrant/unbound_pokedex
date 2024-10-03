@@ -99,6 +99,7 @@
             "move": "MOVE_PSYCHIC"
         }
     ],
+    "evolve_from": [],
     "tm": [
         "MOVE_FOCUSPUNCH",
         "MOVE_DRAGONCLAW",

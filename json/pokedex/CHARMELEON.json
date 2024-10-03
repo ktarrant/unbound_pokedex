@@ -83,13 +83,16 @@
             "move": "MOVE_FLAREBLITZ"
         }
     ],
-    "evolution": [
+    "evolve_to": [
         {
             "method": "EVO_LEVEL",
             "condition": "36",
             "target": "CHARIZARD",
             "extra": "0"
         }
+    ],
+    "evolve_from": [
+        "CHARMANDER"
     ],
     "tm": [
         "MOVE_FOCUSPUNCH",

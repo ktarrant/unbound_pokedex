@@ -29,7 +29,7 @@
     "hiddenAbility": "ABILITY_SERENEGRACE",
     "noFlip": true,
     "name": "Latios",
-    "evolution": [
+    "evolve_to": [
         {
             "method": "EVO_MEGA",
             "condition": "ITEM_LATIOSITE",
@@ -122,6 +122,9 @@
             "level": 75,
             "move": "MOVE_PSYCHOSHIFT"
         }
+    ],
+    "evolve_from": [
+        "LATIOS_MEGA"
     ],
     "tm": [
         "MOVE_DRAGONCLAW",

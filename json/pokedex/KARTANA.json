@@ -108,6 +108,7 @@
             "move": "MOVE_GUILLOTINE"
         }
     ],
+    "evolve_from": [],
     "tm": [
         "MOVE_CALMMIND",
         "MOVE_TOXIC",

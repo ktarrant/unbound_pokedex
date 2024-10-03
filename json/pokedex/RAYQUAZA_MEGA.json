@@ -94,13 +94,16 @@
             "move": "MOVE_VCREATE"
         }
     ],
-    "evolution": [
+    "evolve_to": [
         {
             "method": "EVO_MEGA",
             "condition": "MOVE_NONE",
             "target": "RAYQUAZA",
             "extra": "MEGA_VARIANT_WISH"
         }
+    ],
+    "evolve_from": [
+        "RAYQUAZA"
     ],
     "tm": [],
     "tutor": []

@@ -104,6 +104,9 @@
             "move": "MOVE_PLAYROUGH"
         }
     ],
+    "evolve_from": [
+        "MEOWTH_GIGA"
+    ],
     "tm": [
         "MOVE_WATERPULSE",
         "MOVE_TOXIC",

@@ -123,6 +123,9 @@
             "move": "MOVE_FLAREBLITZ"
         }
     ],
+    "evolve_from": [
+        "GROWLITHE"
+    ],
     "tm": [
         "MOVE_ROAR",
         "MOVE_TOXIC",

@@ -29,7 +29,7 @@
     "hiddenAbility": "ABILITY_TELEPATHY",
     "noFlip": true,
     "name": "Gardevoir",
-    "evolution": [
+    "evolve_to": [
         {
             "method": "EVO_MEGA",
             "condition": "ITEM_GARDEVOIRITE",
@@ -134,6 +134,9 @@
             "level": 63,
             "move": "MOVE_DREAMEATER"
         }
+    ],
+    "evolve_from": [
+        "GARDEVOIR_MEGA"
     ],
     "tm": [
         "MOVE_CALMMIND",

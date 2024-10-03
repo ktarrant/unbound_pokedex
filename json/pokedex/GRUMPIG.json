@@ -103,6 +103,9 @@
             "move": "MOVE_EERIESPELL"
         }
     ],
+    "evolve_from": [
+        "SPOINK"
+    ],
     "tm": [
         "MOVE_FOCUSPUNCH",
         "MOVE_CALMMIND",

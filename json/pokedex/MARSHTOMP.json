@@ -107,13 +107,16 @@
             "move": "MOVE_HYDROPUMP"
         }
     ],
-    "evolution": [
+    "evolve_to": [
         {
             "method": "EVO_LEVEL",
             "condition": "36",
             "target": "SWAMPERT",
             "extra": "0"
         }
+    ],
+    "evolve_from": [
+        "MUDKIP"
     ],
     "tm": [
         "MOVE_WATERPULSE",

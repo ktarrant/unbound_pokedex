@@ -84,6 +84,7 @@
             "move": "MOVE_DRAGONRUSH"
         }
     ],
+    "evolve_from": [],
     "tm": [
         "MOVE_WATERPULSE",
         "MOVE_ROAR",

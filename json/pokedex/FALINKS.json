@@ -92,6 +92,7 @@
             "move": "MOVE_REVERSAL"
         }
     ],
+    "evolve_from": [],
     "tm": [
         "MOVE_ROAR",
         "MOVE_TOXIC",

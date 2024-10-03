@@ -98,13 +98,16 @@
             "move": "MOVE_BRAVEBIRD"
         }
     ],
-    "evolution": [
+    "evolve_to": [
         {
             "method": "EVO_MEGA",
             "condition": "ITEM_NONE",
             "target": "PIDGEOT",
             "extra": "MEGA_VARIANT_STANDARD"
         }
+    ],
+    "evolve_from": [
+        "PIDGEOT"
     ],
     "tm": [],
     "tutor": []

@@ -114,13 +114,16 @@
             "move": "MOVE_HYPERBEAM"
         }
     ],
-    "evolution": [
+    "evolve_to": [
         {
             "method": "EVO_MEGA",
             "condition": "ITEM_NONE",
             "target": "GYARADOS",
             "extra": "MEGA_VARIANT_STANDARD"
         }
+    ],
+    "evolve_from": [
+        "GYARADOS"
     ],
     "tm": [],
     "tutor": []

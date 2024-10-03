@@ -96,6 +96,9 @@
             "move": "MOVE_REST"
         }
     ],
+    "evolve_from": [
+        "YUNGOOS"
+    ],
     "tm": [
         "MOVE_ROAR",
         "MOVE_TOXIC",

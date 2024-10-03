@@ -29,7 +29,7 @@
     "hiddenAbility": "ABILITY_SHEERFORCE",
     "noFlip": true,
     "name": "Steelix",
-    "evolution": [
+    "evolve_to": [
         {
             "method": "EVO_MEGA",
             "condition": "ITEM_STEELIXITE",
@@ -142,6 +142,9 @@
             "level": 64,
             "move": "MOVE_MAGNETRISE"
         }
+    ],
+    "evolve_from": [
+        "STEELIX_MEGA"
     ],
     "tm": [
         "MOVE_ROAR",

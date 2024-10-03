@@ -128,6 +128,9 @@
             "move": "MOVE_ICICLECRASH"
         }
     ],
+    "evolve_from": [
+        "PILOSWINE"
+    ],
     "tm": [
         "MOVE_ROAR",
         "MOVE_TOXIC",

@@ -108,6 +108,9 @@
             "move": "MOVE_CHLOROBLAST"
         }
     ],
+    "evolve_from": [
+        "VOLTORB_H"
+    ],
     "tm": [
         "MOVE_TOXIC",
         "MOVE_BULLETSEED",

@@ -43,7 +43,7 @@
         "MOVE_NIGHTMARE"
     ],
     "name": "Sableye",
-    "evolution": [
+    "evolve_to": [
         {
             "method": "EVO_MEGA",
             "condition": "ITEM_SABLENITE",
@@ -136,6 +136,9 @@
             "level": 48,
             "move": "MOVE_FOULPLAY"
         }
+    ],
+    "evolve_from": [
+        "SABLEYE_MEGA"
     ],
     "tm": [
         "MOVE_FOCUSPUNCH",

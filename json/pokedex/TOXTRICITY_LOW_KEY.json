@@ -30,7 +30,7 @@
     "noFlip": true,
     "blurb": "While generating electricity, it fills surroundings with what sounds like the strumming of a bass guitar.",
     "name": "Toxtricity",
-    "evolution": [
+    "evolve_to": [
         {
             "method": "EVO_GIGANTAMAX",
             "condition": "TRUE",
@@ -147,6 +147,9 @@
             "level": 56,
             "move": "MOVE_SLUDGEBOMB"
         }
+    ],
+    "evolve_from": [
+        "TOXTRICITY_LOW_KEY_GIGA"
     ],
     "tm": [
         "MOVE_FOCUSPUNCH",

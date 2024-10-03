@@ -86,6 +86,7 @@
             "move": "MOVE_HYPERBEAM"
         }
     ],
+    "evolve_from": [],
     "tm": [
         "MOVE_FOCUSPUNCH",
         "MOVE_WATERPULSE",

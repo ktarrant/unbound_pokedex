@@ -30,7 +30,7 @@
     "noFlip": true,
     "blurb": "This Pok\u00e9mon is said to have been born when a lonely spirit possessed a cold, leftover cup of tea.",
     "name": "Sinistea",
-    "evolution": [
+    "evolve_to": [
         {
             "method": "EVO_ITEM",
             "condition": "ITEM_CRACKED_POT",
@@ -88,6 +88,7 @@
             "move": "MOVE_SHELLSMASH"
         }
     ],
+    "evolve_from": [],
     "tm": [
         "MOVE_TOXIC",
         "MOVE_HIDDENPOWER",

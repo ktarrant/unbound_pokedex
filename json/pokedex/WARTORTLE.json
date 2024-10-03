@@ -91,13 +91,16 @@
             "move": "MOVE_SKULLBASH"
         }
     ],
-    "evolution": [
+    "evolve_to": [
         {
             "method": "EVO_LEVEL",
             "condition": "36",
             "target": "BLASTOISE",
             "extra": "0"
         }
+    ],
+    "evolve_from": [
+        "SQUIRTLE"
     ],
     "tm": [
         "MOVE_FOCUSPUNCH",

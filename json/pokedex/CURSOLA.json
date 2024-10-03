@@ -88,6 +88,9 @@
             "move": "MOVE_MIRRORCOAT"
         }
     ],
+    "evolve_from": [
+        "CORSOLA_G"
+    ],
     "tm": [
         "MOVE_WATERPULSE",
         "MOVE_CALMMIND",

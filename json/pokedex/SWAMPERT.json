@@ -29,7 +29,7 @@
     "hiddenAbility": "ABILITY_DAMP",
     "noFlip": true,
     "name": "Swampert",
-    "evolution": [
+    "evolve_to": [
         {
             "method": "EVO_MEGA",
             "condition": "ITEM_SWAMPERTITE",
@@ -118,6 +118,10 @@
             "level": 70,
             "move": "MOVE_HAMMERARM"
         }
+    ],
+    "evolve_from": [
+        "MARSHTOMP",
+        "SWAMPERT_MEGA"
     ],
     "tm": [
         "MOVE_FOCUSPUNCH",

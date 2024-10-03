@@ -116,6 +116,9 @@
             "move": "MOVE_DRAGONDANCE"
         }
     ],
+    "evolve_from": [
+        "DRAKLOAK"
+    ],
     "tm": [
         "MOVE_DRAGONCLAW",
         "MOVE_WATERPULSE",

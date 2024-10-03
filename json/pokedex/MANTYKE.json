@@ -104,7 +104,7 @@
             "move": "MOVE_HYDROPUMP"
         }
     ],
-    "evolution": [
+    "evolve_to": [
         {
             "method": "EVO_OTHER_PARTY_MON",
             "condition": "SPECIES_REMORAID",
@@ -112,6 +112,7 @@
             "extra": "0"
         }
     ],
+    "evolve_from": [],
     "tm": [
         "MOVE_WATERPULSE",
         "MOVE_TOXIC",

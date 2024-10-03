@@ -118,6 +118,7 @@
             "move": "MOVE_WOODHAMMER"
         }
     ],
+    "evolve_from": [],
     "tm": [],
     "tutor": []
 }

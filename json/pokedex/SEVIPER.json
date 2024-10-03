@@ -131,6 +131,7 @@
             "move": "MOVE_SLUDGEBOMB"
         }
     ],
+    "evolve_from": [],
     "tm": [
         "MOVE_TOXIC",
         "MOVE_HIDDENPOWER",

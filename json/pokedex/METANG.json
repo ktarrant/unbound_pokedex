@@ -111,13 +111,16 @@
             "move": "MOVE_GIGAIMPACT"
         }
     ],
-    "evolution": [
+    "evolve_to": [
         {
             "method": "EVO_LEVEL",
             "condition": "45",
             "target": "METAGROSS",
             "extra": "0"
         }
+    ],
+    "evolve_from": [
+        "BELDUM"
     ],
     "tm": [
         "MOVE_TOXIC",

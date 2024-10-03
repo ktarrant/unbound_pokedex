@@ -38,7 +38,7 @@
     ],
     "blurb": "They paralyze prey with poison, then drag them down to their lairs, five miles below the surface.",
     "name": "Frillish",
-    "evolution": [
+    "evolve_to": [
         {
             "method": "EVO_LEVEL",
             "condition": "40",
@@ -116,6 +116,7 @@
             "move": "MOVE_WATERSPOUT"
         }
     ],
+    "evolve_from": [],
     "tm": [
         "MOVE_WATERPULSE",
         "MOVE_TOXIC",

@@ -95,6 +95,7 @@
             "move": "MOVE_SKYATTACK"
         }
     ],
+    "evolve_from": [],
     "tm": [
         "MOVE_TOXIC",
         "MOVE_HIDDENPOWER",

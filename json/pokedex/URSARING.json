@@ -111,13 +111,16 @@
             "move": "MOVE_THRASH"
         }
     ],
-    "evolution": [
+    "evolve_to": [
         {
             "method": "EVO_ITEM_NIGHT",
             "condition": "ITEM_PEAT_BLOCK",
             "target": "URSALUNA",
             "extra": "0"
         }
+    ],
+    "evolve_from": [
+        "TEDDIURSA"
     ],
     "tm": [
         "MOVE_FOCUSPUNCH",

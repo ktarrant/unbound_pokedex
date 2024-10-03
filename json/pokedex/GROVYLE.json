@@ -111,13 +111,16 @@
             "move": "MOVE_LEAFSTORM"
         }
     ],
-    "evolution": [
+    "evolve_to": [
         {
             "method": "EVO_LEVEL",
             "condition": "36",
             "target": "SCEPTILE",
             "extra": "0"
         }
+    ],
+    "evolve_from": [
+        "TREECKO"
     ],
     "tm": [
         "MOVE_FOCUSPUNCH",

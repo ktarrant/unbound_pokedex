@@ -30,7 +30,7 @@
     "noFlip": true,
     "blurb": "It has the ability to sense the Auras of all things. It understands human speech.",
     "name": "Lucario",
-    "evolution": [
+    "evolve_to": [
         {
             "method": "EVO_MEGA",
             "condition": "ITEM_LUCARIONITE",
@@ -159,6 +159,10 @@
             "level": 64,
             "move": "MOVE_CLOSECOMBAT"
         }
+    ],
+    "evolve_from": [
+        "RIOLU",
+        "LUCARIO_MEGA"
     ],
     "tm": [
         "MOVE_FOCUSPUNCH",

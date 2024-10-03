@@ -103,6 +103,9 @@
             "move": "MOVE_DOUBLEEDGE"
         }
     ],
+    "evolve_from": [
+        "SPEAROW"
+    ],
     "tm": [
         "MOVE_TOXIC",
         "MOVE_HIDDENPOWER",

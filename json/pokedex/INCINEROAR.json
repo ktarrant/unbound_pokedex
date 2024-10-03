@@ -120,6 +120,9 @@
             "move": "MOVE_CROSSCHOP"
         }
     ],
+    "evolve_from": [
+        "TORRACAT"
+    ],
     "tm": [
         "MOVE_FOCUSPUNCH",
         "MOVE_ROAR",

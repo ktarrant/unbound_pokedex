@@ -87,13 +87,16 @@
             "move": "MOVE_EARTHQUAKE"
         }
     ],
-    "evolution": [
+    "evolve_to": [
         {
             "method": "EVO_GIGANTAMAX",
             "condition": "FALSE",
             "target": "SANDACONDA",
             "extra": "0"
         }
+    ],
+    "evolve_from": [
+        "SANDACONDA"
     ],
     "tm": [],
     "tutor": []

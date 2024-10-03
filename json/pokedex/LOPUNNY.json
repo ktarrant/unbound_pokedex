@@ -30,7 +30,7 @@
     "noFlip": true,
     "blurb": "It sheds its fur twice a year. Its winter fur is soft and fluffy.",
     "name": "Lopunny",
-    "evolution": [
+    "evolve_to": [
         {
             "method": "EVO_MEGA",
             "condition": "ITEM_LOPUNNITE",
@@ -143,6 +143,10 @@
             "level": 68,
             "move": "MOVE_HIGHJUMPKICK"
         }
+    ],
+    "evolve_from": [
+        "BUNEARY",
+        "LOPUNNY_MEGA"
     ],
     "tm": [
         "MOVE_FOCUSPUNCH",

@@ -102,7 +102,7 @@
             "move": "MOVE_REST"
         }
     ],
-    "evolution": [
+    "evolve_to": [
         {
             "method": "EVO_LEVEL_DAY",
             "condition": "20",
@@ -110,6 +110,7 @@
             "extra": "0"
         }
     ],
+    "evolve_from": [],
     "tm": [
         "MOVE_TOXIC",
         "MOVE_HIDDENPOWER",

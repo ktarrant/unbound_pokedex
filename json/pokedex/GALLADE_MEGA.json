@@ -166,13 +166,16 @@
             "move": "MOVE_CLOSECOMBAT"
         }
     ],
-    "evolution": [
+    "evolve_to": [
         {
             "method": "EVO_MEGA",
             "condition": "ITEM_NONE",
             "target": "GALLADE",
             "extra": "MEGA_VARIANT_STANDARD"
         }
+    ],
+    "evolve_from": [
+        "GALLADE"
     ],
     "tm": [],
     "tutor": []

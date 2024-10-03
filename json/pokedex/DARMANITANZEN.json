@@ -98,6 +98,7 @@
             "move": "MOVE_SUPERPOWER"
         }
     ],
+    "evolve_from": [],
     "tm": [
         "MOVE_FOCUSPUNCH",
         "MOVE_ROAR",

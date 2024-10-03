@@ -86,6 +86,7 @@
             "move": "MOVE_UPROAR"
         }
     ],
+    "evolve_from": [],
     "tm": [
         "MOVE_TOXIC",
         "MOVE_HIDDENPOWER",

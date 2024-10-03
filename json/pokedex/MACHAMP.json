@@ -29,7 +29,7 @@
     "hiddenAbility": "ABILITY_STURDY",
     "noFlip": true,
     "name": "Machamp",
-    "evolution": [
+    "evolve_to": [
         {
             "method": "EVO_GIGANTAMAX",
             "condition": "TRUE",
@@ -118,6 +118,9 @@
             "level": 71,
             "move": "MOVE_CLOSECOMBAT"
         }
+    ],
+    "evolve_from": [
+        "MACHAMP_GIGA"
     ],
     "tm": [
         "MOVE_FOCUSPUNCH",

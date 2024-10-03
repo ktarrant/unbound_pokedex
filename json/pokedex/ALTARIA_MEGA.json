@@ -126,13 +126,16 @@
             "move": "MOVE_SKYATTACK"
         }
     ],
-    "evolution": [
+    "evolve_to": [
         {
             "method": "EVO_MEGA",
             "condition": "ITEM_NONE",
             "target": "ALTARIA",
             "extra": "MEGA_VARIANT_STANDARD"
         }
+    ],
+    "evolve_from": [
+        "ALTARIA"
     ],
     "tm": [],
     "tutor": []

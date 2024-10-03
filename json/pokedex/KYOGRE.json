@@ -29,7 +29,7 @@
     "hiddenAbility": "ABILITY_HYDRATION",
     "noFlip": true,
     "name": "Kyogre",
-    "evolution": [
+    "evolve_to": [
         {
             "method": "EVO_MEGA",
             "condition": "ITEM_BLUE_ORB",
@@ -94,6 +94,9 @@
             "level": 90,
             "move": "MOVE_WATERSPOUT"
         }
+    ],
+    "evolve_from": [
+        "KYOGRE_PRIMAL"
     ],
     "tm": [
         "MOVE_WATERPULSE",

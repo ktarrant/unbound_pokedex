@@ -116,13 +116,16 @@
             "move": "MOVE_DOUBLEEDGE"
         }
     ],
-    "evolution": [
+    "evolve_to": [
         {
             "method": "EVO_LEVEL_NIGHT",
             "condition": "35",
             "target": "OBSTAGOON",
             "extra": "0"
         }
+    ],
+    "evolve_from": [
+        "ZIGZAGOON_G"
     ],
     "tm": [
         "MOVE_ROAR",

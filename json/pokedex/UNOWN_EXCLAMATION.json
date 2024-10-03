@@ -35,6 +35,7 @@
             "move": "MOVE_HIDDENPOWER"
         }
     ],
+    "evolve_from": [],
     "tm": [
         "MOVE_HIDDENPOWER"
     ],

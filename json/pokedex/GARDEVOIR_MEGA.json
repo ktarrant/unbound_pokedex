@@ -126,13 +126,16 @@
             "move": "MOVE_DREAMEATER"
         }
     ],
-    "evolution": [
+    "evolve_to": [
         {
             "method": "EVO_MEGA",
             "condition": "ITEM_NONE",
             "target": "GARDEVOIR",
             "extra": "MEGA_VARIANT_STANDARD"
         }
+    ],
+    "evolve_from": [
+        "GARDEVOIR"
     ],
     "tm": [],
     "tutor": []

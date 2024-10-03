@@ -158,13 +158,16 @@
             "move": "MOVE_SOFTBOILED"
         }
     ],
-    "evolution": [
+    "evolve_to": [
         {
             "method": "EVO_FRIENDSHIP",
             "condition": "0",
             "target": "BLISSEY",
             "extra": "0"
         }
+    ],
+    "evolve_from": [
+        "HAPPINY"
     ],
     "tm": [
         "MOVE_FOCUSPUNCH",

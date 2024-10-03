@@ -108,6 +108,9 @@
             "move": "MOVE_FISSURE"
         }
     ],
+    "evolve_from": [
+        "DRILBUR"
+    ],
     "tm": [
         "MOVE_TOXIC",
         "MOVE_HIDDENPOWER",

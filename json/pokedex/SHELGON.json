@@ -95,13 +95,16 @@
             "move": "MOVE_DOUBLEEDGE"
         }
     ],
-    "evolution": [
+    "evolve_to": [
         {
             "method": "EVO_LEVEL",
             "condition": "50",
             "target": "SALAMENCE",
             "extra": "0"
         }
+    ],
+    "evolve_from": [
+        "BAGON"
     ],
     "tm": [
         "MOVE_DRAGONCLAW",

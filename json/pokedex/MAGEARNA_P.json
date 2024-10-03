@@ -127,6 +127,7 @@
             "move": "MOVE_TRUMPCARD"
         }
     ],
+    "evolve_from": [],
     "tm": [
         "MOVE_CALMMIND",
         "MOVE_HIDDENPOWER",

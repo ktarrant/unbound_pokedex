@@ -41,7 +41,7 @@
         "MOVE_HEADBUTT",
         "MOVE_TROPKICK"
     ],
-    "evolution": [
+    "evolve_to": [
         {
             "method": "EVO_LEVEL",
             "condition": "34",
@@ -111,6 +111,7 @@
             "move": "MOVE_SOLARBEAM"
         }
     ],
+    "evolve_from": [],
     "tm": [
         "MOVE_TOXIC",
         "MOVE_HIDDENPOWER",

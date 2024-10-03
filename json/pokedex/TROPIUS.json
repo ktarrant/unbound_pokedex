@@ -115,6 +115,7 @@
             "move": "MOVE_LEAFSTORM"
         }
     ],
+    "evolve_from": [],
     "tm": [
         "MOVE_ROAR",
         "MOVE_TOXIC",

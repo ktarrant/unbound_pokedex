@@ -104,6 +104,7 @@
             "move": "MOVE_DRAGONENERGY"
         }
     ],
+    "evolve_from": [],
     "tm": [
         "MOVE_DRAGONCLAW",
         "MOVE_WATERPULSE",

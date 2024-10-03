@@ -123,6 +123,7 @@
             "move": "MOVE_EARTHQUAKE"
         }
     ],
+    "evolve_from": [],
     "tm": [
         "MOVE_ROAR",
         "MOVE_TOXIC",

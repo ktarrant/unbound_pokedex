@@ -84,6 +84,7 @@
             "move": "MOVE_ENTRAINMENT"
         }
     ],
+    "evolve_from": [],
     "tm": [
         "MOVE_TOXIC",
         "MOVE_HIDDENPOWER",

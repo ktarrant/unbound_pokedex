@@ -49,7 +49,7 @@
         "MOVE_EXTREMESPEED"
     ],
     "name": "Pichu",
-    "evolution": [
+    "evolve_to": [
         {
             "method": "EVO_FRIENDSHIP",
             "condition": "0",
@@ -91,6 +91,7 @@
             "move": "MOVE_SPARK"
         }
     ],
+    "evolve_from": [],
     "tm": [
         "MOVE_TOXIC",
         "MOVE_HIDDENPOWER",

@@ -100,6 +100,9 @@
             "move": "MOVE_FIREBLAST"
         }
     ],
+    "evolve_from": [
+        "PANSEAR"
+    ],
     "tm": [
         "MOVE_FOCUSPUNCH",
         "MOVE_TOXIC",

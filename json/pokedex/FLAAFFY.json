@@ -99,13 +99,16 @@
             "move": "MOVE_THUNDERCAGE"
         }
     ],
-    "evolution": [
+    "evolve_to": [
         {
             "method": "EVO_LEVEL",
             "condition": "30",
             "target": "AMPHAROS",
             "extra": "0"
         }
+    ],
+    "evolve_from": [
+        "MAREEP"
     ],
     "tm": [
         "MOVE_FOCUSPUNCH",

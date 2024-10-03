@@ -123,6 +123,9 @@
             "move": "MOVE_DYNAMICPUNCH"
         }
     ],
+    "evolve_from": [
+        "SHROOMISH"
+    ],
     "tm": [
         "MOVE_FOCUSPUNCH",
         "MOVE_TOXIC",

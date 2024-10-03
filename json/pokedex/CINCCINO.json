@@ -112,6 +112,9 @@
             "move": "MOVE_PLAYROUGH"
         }
     ],
+    "evolve_from": [
+        "MINCCINO"
+    ],
     "tm": [
         "MOVE_CALMMIND",
         "MOVE_TOXIC",

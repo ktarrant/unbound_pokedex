@@ -83,13 +83,22 @@
             "move": "MOVE_ENTRAINMENT"
         }
     ],
-    "evolution": [
+    "evolve_to": [
         {
             "method": "EVO_GIGANTAMAX",
             "condition": "FALSE",
             "target": "ALCREMIE_STRAWBERRY",
             "extra": "0"
         }
+    ],
+    "evolve_from": [
+        "ALCREMIE_STRAWBERRY",
+        "ALCREMIE_BERRY",
+        "ALCREMIE_LOVE",
+        "ALCREMIE_CLOVER",
+        "ALCREMIE_FLOWER",
+        "ALCREMIE_RIBBON",
+        "ALCREMIE_STAR"
     ],
     "tm": [],
     "tutor": []

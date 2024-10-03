@@ -30,7 +30,7 @@
     "noFlip": true,
     "blurb": "It flies at speeds equal to a jet fighter plane. It never allows its prey to escape.",
     "name": "Garchomp",
-    "evolution": [
+    "evolve_to": [
         {
             "method": "EVO_MEGA",
             "condition": "ITEM_GARCHOMPITE",
@@ -119,6 +119,10 @@
             "level": 69,
             "move": "MOVE_OUTRAGE"
         }
+    ],
+    "evolve_from": [
+        "GABITE",
+        "GARCHOMP_MEGA"
     ],
     "tm": [
         "MOVE_DRAGONCLAW",

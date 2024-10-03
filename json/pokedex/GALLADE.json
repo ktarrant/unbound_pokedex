@@ -30,7 +30,7 @@
     "noFlip": true,
     "blurb": "A master of courtesy and swordsmanship, it fights using extending swords on its elbows.",
     "name": "Gallade",
-    "evolution": [
+    "evolve_to": [
         {
             "method": "EVO_MEGA",
             "condition": "ITEM_GALLADITE",
@@ -175,6 +175,9 @@
             "level": 63,
             "move": "MOVE_CLOSECOMBAT"
         }
+    ],
+    "evolve_from": [
+        "GALLADE_MEGA"
     ],
     "tm": [
         "MOVE_FOCUSPUNCH",

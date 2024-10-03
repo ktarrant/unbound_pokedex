@@ -91,13 +91,16 @@
             "move": "MOVE_HYPERBEAM"
         }
     ],
-    "evolution": [
+    "evolve_to": [
         {
             "method": "EVO_LEVEL",
             "condition": "55",
             "target": "DRAGONITE",
             "extra": "0"
         }
+    ],
+    "evolve_from": [
+        "DRATINI"
     ],
     "tm": [
         "MOVE_WATERPULSE",

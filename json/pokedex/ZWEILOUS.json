@@ -112,13 +112,16 @@
             "move": "MOVE_OUTRAGE"
         }
     ],
-    "evolution": [
+    "evolve_to": [
         {
             "method": "EVO_LEVEL",
             "condition": "64",
             "target": "HYDREIGON",
             "extra": "0"
         }
+    ],
+    "evolve_from": [
+        "DEINO"
     ],
     "tm": [
         "MOVE_ROAR",

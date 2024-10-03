@@ -88,6 +88,7 @@
             "move": "MOVE_MEGAKICK"
         }
     ],
+    "evolve_from": [],
     "tm": [
         "MOVE_FOCUSPUNCH",
         "MOVE_TOXIC",

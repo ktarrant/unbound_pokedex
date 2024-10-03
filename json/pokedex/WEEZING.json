@@ -119,6 +119,9 @@
             "move": "MOVE_GIGAIMPACT"
         }
     ],
+    "evolve_from": [
+        "KOFFING"
+    ],
     "tm": [
         "MOVE_TOXIC",
         "MOVE_HIDDENPOWER",

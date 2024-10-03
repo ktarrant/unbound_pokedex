@@ -134,13 +134,16 @@
             "move": "MOVE_MAGNETRISE"
         }
     ],
-    "evolution": [
+    "evolve_to": [
         {
             "method": "EVO_MEGA",
             "condition": "ITEM_NONE",
             "target": "STEELIX",
             "extra": "MEGA_VARIANT_STANDARD"
         }
+    ],
+    "evolve_from": [
+        "STEELIX"
     ],
     "tm": [],
     "tutor": []

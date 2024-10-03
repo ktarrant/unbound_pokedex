@@ -96,6 +96,9 @@
             "move": "MOVE_OVERHEAT"
         }
     ],
+    "evolve_from": [
+        "LAMPENT"
+    ],
     "tm": [
         "MOVE_CALMMIND",
         "MOVE_TOXIC",

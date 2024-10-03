@@ -131,6 +131,9 @@
             "move": "MOVE_HURRICANE"
         }
     ],
+    "evolve_from": [
+        "SURSKIT"
+    ],
     "tm": [
         "MOVE_WATERPULSE",
         "MOVE_TOXIC",

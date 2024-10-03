@@ -29,7 +29,7 @@
     "hiddenAbility": "ABILITY_MOXIE",
     "noFlip": true,
     "name": "Gyarados",
-    "evolution": [
+    "evolve_to": [
         {
             "method": "EVO_MEGA",
             "condition": "ITEM_GYARADOSITE",
@@ -122,6 +122,10 @@
             "level": 59,
             "move": "MOVE_HYPERBEAM"
         }
+    ],
+    "evolve_from": [
+        "MAGIKARP",
+        "GYARADOS_MEGA"
     ],
     "tm": [
         "MOVE_WATERPULSE",

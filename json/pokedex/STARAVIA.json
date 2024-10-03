@@ -84,13 +84,16 @@
             "move": "MOVE_FINALGAMBIT"
         }
     ],
-    "evolution": [
+    "evolve_to": [
         {
             "method": "EVO_LEVEL",
             "condition": "34",
             "target": "STARAPTOR",
             "extra": "0"
         }
+    ],
+    "evolve_from": [
+        "STARLY"
     ],
     "tm": [
         "MOVE_TOXIC",

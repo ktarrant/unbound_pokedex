@@ -111,6 +111,9 @@
             "move": "MOVE_FISSURE"
         }
     ],
+    "evolve_from": [
+        "DIGLETT_A"
+    ],
     "tm": [
         "MOVE_HIDDENPOWER",
         "MOVE_SUNNYDAY",

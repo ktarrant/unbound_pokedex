@@ -108,6 +108,9 @@
             "move": "MOVE_HIGHJUMPKICK"
         }
     ],
+    "evolve_from": [
+        "MIENFOO"
+    ],
     "tm": [
         "MOVE_FOCUSPUNCH",
         "MOVE_CALMMIND",

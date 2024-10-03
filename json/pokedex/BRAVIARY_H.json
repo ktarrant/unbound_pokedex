@@ -120,6 +120,7 @@
             "move": "MOVE_HURRICANE"
         }
     ],
+    "evolve_from": [],
     "tm": [
         "MOVE_CALMMIND",
         "MOVE_TOXIC",

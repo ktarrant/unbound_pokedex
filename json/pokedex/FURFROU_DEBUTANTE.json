@@ -82,6 +82,7 @@
             "move": "MOVE_COTTONGUARD"
         }
     ],
+    "evolve_from": [],
     "tm": [
         "MOVE_ROAR",
         "MOVE_TOXIC",

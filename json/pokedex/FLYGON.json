@@ -159,6 +159,9 @@
             "move": "MOVE_BOOMBURST"
         }
     ],
+    "evolve_from": [
+        "VIBRAVA"
+    ],
     "tm": [
         "MOVE_DRAGONCLAW",
         "MOVE_TOXIC",

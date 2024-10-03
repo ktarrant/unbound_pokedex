@@ -102,6 +102,9 @@
             "move": "MOVE_SOLARBEAM"
         }
     ],
+    "evolve_from": [
+        "DEERLING_SUMMER"
+    ],
     "tm": [
         "MOVE_TOXIC",
         "MOVE_HIDDENPOWER",

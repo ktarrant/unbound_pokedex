@@ -108,6 +108,9 @@
             "move": "MOVE_CRABHAMMER"
         }
     ],
+    "evolve_from": [
+        "CLAUNCHER"
+    ],
     "tm": [
         "MOVE_WATERPULSE",
         "MOVE_TOXIC",

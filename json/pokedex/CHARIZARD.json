@@ -107,6 +107,12 @@
             "move": "MOVE_HEATWAVE"
         }
     ],
+    "evolve_from": [
+        "CHARMELEON",
+        "CHARIZARD_MEGA_X",
+        "CHARIZARD_MEGA_Y",
+        "CHARIZARD_GIGA"
+    ],
     "tm": [
         "MOVE_FOCUSPUNCH",
         "MOVE_DRAGONCLAW",

@@ -28,7 +28,7 @@
     "safariZoneFleeRate": 0,
     "hiddenAbility": "ABILITY_NONE",
     "noFlip": true,
-    "evolution": [
+    "evolve_to": [
         {
             "method": "EVO_MEGA",
             "condition": "ITEM_NONE",
@@ -114,6 +114,7 @@
             "move": "MOVE_HEATWAVE"
         }
     ],
+    "evolve_from": [],
     "tm": [],
     "tutor": []
 }

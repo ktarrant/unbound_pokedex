@@ -96,6 +96,9 @@
             "move": "MOVE_PLAYROUGH"
         }
     ],
+    "evolve_from": [
+        "PURRLOIN"
+    ],
     "tm": [
         "MOVE_TOXIC",
         "MOVE_HIDDENPOWER",

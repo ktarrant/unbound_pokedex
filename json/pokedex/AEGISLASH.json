@@ -104,6 +104,9 @@
             "move": "MOVE_SACREDSWORD"
         }
     ],
+    "evolve_from": [
+        "DOUBLADE"
+    ],
     "tm": [
         "MOVE_TOXIC",
         "MOVE_HIDDENPOWER",

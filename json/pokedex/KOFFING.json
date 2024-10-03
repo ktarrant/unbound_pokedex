@@ -43,7 +43,7 @@
         "MOVE_VENOMDRENCH"
     ],
     "name": "Koffing",
-    "evolution": [
+    "evolve_to": [
         {
             "method": "EVO_LEVEL",
             "condition": "35",
@@ -117,6 +117,7 @@
             "move": "MOVE_DESTINYBOND"
         }
     ],
+    "evolve_from": [],
     "tm": [
         "MOVE_TOXIC",
         "MOVE_HIDDENPOWER",

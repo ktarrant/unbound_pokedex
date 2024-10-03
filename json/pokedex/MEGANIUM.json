@@ -103,6 +103,9 @@
             "move": "MOVE_LEAFSTORM"
         }
     ],
+    "evolve_from": [
+        "BAYLEEF"
+    ],
     "tm": [
         "MOVE_TOXIC",
         "MOVE_BULLETSEED",

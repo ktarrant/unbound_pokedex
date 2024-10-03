@@ -37,7 +37,7 @@
         "MOVE_DAZZLINGGLEAM"
     ],
     "blurb": "It draws and controls the hidden power of flowers. The flower it holds is most likely part of its body.",
-    "evolution": [
+    "evolve_to": [
         {
             "method": "EVO_LEVEL",
             "condition": "19",
@@ -107,6 +107,7 @@
             "move": "MOVE_WISH"
         }
     ],
+    "evolve_from": [],
     "tm": [
         "MOVE_CALMMIND",
         "MOVE_TOXIC",

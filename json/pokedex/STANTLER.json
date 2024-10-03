@@ -109,6 +109,7 @@
             "move": "MOVE_NORETREAT"
         }
     ],
+    "evolve_from": [],
     "tm": [
         "MOVE_CALMMIND",
         "MOVE_ROAR",

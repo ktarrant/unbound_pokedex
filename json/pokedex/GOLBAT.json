@@ -99,13 +99,16 @@
             "move": "MOVE_ACROBATICS"
         }
     ],
-    "evolution": [
+    "evolve_to": [
         {
             "method": "EVO_FRIENDSHIP",
             "condition": "0",
             "target": "CROBAT",
             "extra": "0"
         }
+    ],
+    "evolve_from": [
+        "ZUBAT"
     ],
     "tm": [
         "MOVE_TOXIC",

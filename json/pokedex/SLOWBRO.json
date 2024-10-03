@@ -29,7 +29,7 @@
     "hiddenAbility": "ABILITY_REGENERATOR",
     "noFlip": true,
     "name": "Slowbro",
-    "evolution": [
+    "evolve_to": [
         {
             "method": "EVO_MEGA",
             "condition": "ITEM_SLOWBRONITE",
@@ -114,6 +114,9 @@
             "level": 45,
             "move": "MOVE_HEALPULSE"
         }
+    ],
+    "evolve_from": [
+        "SLOWBRO_MEGA"
     ],
     "tm": [
         "MOVE_FOCUSPUNCH",

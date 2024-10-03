@@ -71,6 +71,7 @@
             "move": "MOVE_SKETCH"
         }
     ],
+    "evolve_from": [],
     "tm": [],
     "tutor": []
 }

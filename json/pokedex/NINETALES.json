@@ -107,6 +107,9 @@
             "move": "MOVE_FIREBLAST"
         }
     ],
+    "evolve_from": [
+        "VULPIX"
+    ],
     "tm": [
         "MOVE_CALMMIND",
         "MOVE_ROAR",

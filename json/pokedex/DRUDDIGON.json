@@ -113,6 +113,7 @@
             "move": "MOVE_OUTRAGE"
         }
     ],
+    "evolve_from": [],
     "tm": [
         "MOVE_DRAGONCLAW",
         "MOVE_ROAR",

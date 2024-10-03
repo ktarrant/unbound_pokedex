@@ -30,7 +30,7 @@
     "noFlip": true,
     "blurb": "It evolved from a Milcery that held onto a Clover Sweet. The flavor of its cream depends on how it was mixed.",
     "name": "Alcremie",
-    "evolution": [
+    "evolve_to": [
         {
             "method": "EVO_GIGANTAMAX",
             "condition": "TRUE",
@@ -92,6 +92,7 @@
             "move": "MOVE_ENTRAINMENT"
         }
     ],
+    "evolve_from": [],
     "tm": [
         "MOVE_CALMMIND",
         "MOVE_TOXIC",

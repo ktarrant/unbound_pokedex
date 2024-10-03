@@ -111,6 +111,7 @@
             "move": "MOVE_BRAVEBIRD"
         }
     ],
+    "evolve_from": [],
     "tm": [
         "MOVE_ROAR",
         "MOVE_TOXIC",

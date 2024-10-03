@@ -99,6 +99,11 @@
             "move": "MOVE_SKULLBASH"
         }
     ],
+    "evolve_from": [
+        "WARTORTLE",
+        "BLASTOISE_MEGA",
+        "BLASTOISE_GIGA"
+    ],
     "tm": [
         "MOVE_FOCUSPUNCH",
         "MOVE_WATERPULSE",

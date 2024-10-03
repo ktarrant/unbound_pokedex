@@ -84,13 +84,16 @@
             "move": "MOVE_BURNUP"
         }
     ],
-    "evolution": [
+    "evolve_to": [
         {
             "method": "EVO_LEVEL",
             "condition": "34",
             "target": "COALOSSAL",
             "extra": "0"
         }
+    ],
+    "evolve_from": [
+        "ROLYCOLY"
     ],
     "tm": [
         "MOVE_TOXIC",

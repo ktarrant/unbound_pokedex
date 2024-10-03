@@ -88,6 +88,7 @@
             "move": "MOVE_CLOSECOMBAT"
         }
     ],
+    "evolve_from": [],
     "tm": [
         "MOVE_CALMMIND",
         "MOVE_ROAR",

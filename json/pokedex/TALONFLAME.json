@@ -120,6 +120,9 @@
             "move": "MOVE_BRAVEBIRD"
         }
     ],
+    "evolve_from": [
+        "FLETCHINDER"
+    ],
     "tm": [
         "MOVE_TOXIC",
         "MOVE_BULKUP",

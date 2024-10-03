@@ -124,6 +124,9 @@
             "move": "MOVE_PETALDANCE"
         }
     ],
+    "evolve_from": [
+        "ROSELIA"
+    ],
     "tm": [
         "MOVE_TOXIC",
         "MOVE_BULLETSEED",

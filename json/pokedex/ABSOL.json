@@ -45,7 +45,7 @@
         "MOVE_WISH"
     ],
     "name": "Absol",
-    "evolution": [
+    "evolve_to": [
         {
             "method": "EVO_MEGA",
             "condition": "ITEM_ABSOLITE",
@@ -130,6 +130,9 @@
             "level": 65,
             "move": "MOVE_PERISHSONG"
         }
+    ],
+    "evolve_from": [
+        "ABSOL_MEGA"
     ],
     "tm": [
         "MOVE_WATERPULSE",

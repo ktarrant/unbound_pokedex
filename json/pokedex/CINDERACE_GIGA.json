@@ -95,13 +95,16 @@
             "move": "MOVE_COURTCHANGE"
         }
     ],
-    "evolution": [
+    "evolve_to": [
         {
             "method": "EVO_GIGANTAMAX",
             "condition": "FALSE",
             "target": "CINDERACE",
             "extra": "0"
         }
+    ],
+    "evolve_from": [
+        "CINDERACE"
     ],
     "tm": [],
     "tutor": []

@@ -29,7 +29,7 @@
     "hiddenAbility": "ABILITY_MAGICGUARD",
     "noFlip": true,
     "name": "Alakazam",
-    "evolution": [
+    "evolve_to": [
         {
             "method": "EVO_MEGA",
             "condition": "ITEM_ALAKAZITE",
@@ -110,6 +110,9 @@
             "level": 62,
             "move": "MOVE_CALMMIND"
         }
+    ],
+    "evolve_from": [
+        "ALAKAZAM_MEGA"
     ],
     "tm": [
         "MOVE_FOCUSPUNCH",

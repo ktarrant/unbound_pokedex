@@ -99,6 +99,9 @@
             "move": "MOVE_XSCISSOR"
         }
     ],
+    "evolve_from": [
+        "ANORITH"
+    ],
     "tm": [
         "MOVE_WATERPULSE",
         "MOVE_TOXIC",

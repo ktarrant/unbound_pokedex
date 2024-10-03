@@ -39,7 +39,7 @@
             "move": "MOVE_HARDEN"
         }
     ],
-    "evolution": [
+    "evolve_to": [
         {
             "method": "EVO_LEVEL",
             "condition": "10",
@@ -47,6 +47,7 @@
             "extra": "0"
         }
     ],
+    "evolve_from": [],
     "tm": [],
     "tutor": [
         "MOVE_ELECTROWEB",

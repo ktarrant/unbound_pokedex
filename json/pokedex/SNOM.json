@@ -45,7 +45,7 @@
             "move": "MOVE_STRUGGLEBUG"
         }
     ],
-    "evolution": [
+    "evolve_to": [
         {
             "method": "EVO_FRIENDSHIP_NIGHT",
             "condition": "0",
@@ -53,6 +53,7 @@
             "extra": "0"
         }
     ],
+    "evolve_from": [],
     "tm": [
         "MOVE_PROTECT",
         "MOVE_REST",

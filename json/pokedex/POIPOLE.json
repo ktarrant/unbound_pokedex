@@ -88,7 +88,7 @@
             "move": "MOVE_TOXIC"
         }
     ],
-    "evolution": [
+    "evolve_to": [
         {
             "method": "EVO_MOVE",
             "condition": "MOVE_DRAGONPULSE",
@@ -96,6 +96,7 @@
             "extra": "0"
         }
     ],
+    "evolve_from": [],
     "tm": [
         "MOVE_TOXIC",
         "MOVE_HIDDENPOWER",

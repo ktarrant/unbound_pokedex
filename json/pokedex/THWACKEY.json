@@ -84,13 +84,16 @@
             "move": "MOVE_ENDEAVOR"
         }
     ],
-    "evolution": [
+    "evolve_to": [
         {
             "method": "EVO_LEVEL",
             "condition": "35",
             "target": "RILLABOOM",
             "extra": "0"
         }
+    ],
+    "evolve_from": [
+        "GROOKEY"
     ],
     "tm": [
         "MOVE_FOCUSPUNCH",

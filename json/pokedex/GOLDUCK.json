@@ -115,6 +115,9 @@
             "move": "MOVE_WONDERROOM"
         }
     ],
+    "evolve_from": [
+        "PSYDUCK"
+    ],
     "tm": [
         "MOVE_FOCUSPUNCH",
         "MOVE_WATERPULSE",

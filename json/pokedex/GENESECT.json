@@ -124,6 +124,7 @@
             "move": "MOVE_SELFDESTRUCT"
         }
     ],
+    "evolve_from": [],
     "tm": [
         "MOVE_TOXIC",
         "MOVE_HIDDENPOWER",

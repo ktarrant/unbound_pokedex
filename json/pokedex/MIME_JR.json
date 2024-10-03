@@ -44,7 +44,7 @@
     ],
     "blurb": "It habitually mimics foes. Once mimicked, the foe cannot take its eyes off this Pok\u00e9mon.",
     "name": "Mime Jr.",
-    "evolution": [
+    "evolve_to": [
         {
             "method": "EVO_MOVE",
             "condition": "MOVE_MIMIC",
@@ -182,6 +182,7 @@
             "move": "MOVE_TEETERDANCE"
         }
     ],
+    "evolve_from": [],
     "tm": [
         "MOVE_FOCUSPUNCH",
         "MOVE_CALMMIND",

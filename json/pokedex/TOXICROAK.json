@@ -100,6 +100,9 @@
             "move": "MOVE_CROSSCHOP"
         }
     ],
+    "evolve_from": [
+        "CROAGUNK"
+    ],
     "tm": [
         "MOVE_FOCUSPUNCH",
         "MOVE_TOXIC",

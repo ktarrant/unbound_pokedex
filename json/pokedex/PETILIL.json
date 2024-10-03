@@ -109,6 +109,7 @@
             "move": "MOVE_LEAFSTORM"
         }
     ],
+    "evolve_from": [],
     "tm": [
         "MOVE_TOXIC",
         "MOVE_HIDDENPOWER",

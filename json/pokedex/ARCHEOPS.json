@@ -108,6 +108,9 @@
             "move": "MOVE_ENDEAVOR"
         }
     ],
+    "evolve_from": [
+        "ARCHEN"
+    ],
     "tm": [
         "MOVE_DRAGONCLAW",
         "MOVE_ROAR",

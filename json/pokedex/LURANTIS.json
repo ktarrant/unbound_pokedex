@@ -100,6 +100,9 @@
             "move": "MOVE_SOLARBLADE"
         }
     ],
+    "evolve_from": [
+        "FOMANTIS"
+    ],
     "tm": [
         "MOVE_TOXIC",
         "MOVE_BULLETSEED",

@@ -142,6 +142,7 @@
             "move": "MOVE_PARTINGSHOT"
         }
     ],
+    "evolve_from": [],
     "tm": [
         "MOVE_DRAGONCLAW",
         "MOVE_ROAR",

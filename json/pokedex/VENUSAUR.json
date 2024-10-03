@@ -107,6 +107,11 @@
             "move": "MOVE_SOLARBEAM"
         }
     ],
+    "evolve_from": [
+        "IVYSAUR",
+        "VENUSAUR_MEGA",
+        "VENUSAUR_GIGA"
+    ],
     "tm": [
         "MOVE_ROAR",
         "MOVE_TOXIC",

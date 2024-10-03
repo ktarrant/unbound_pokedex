@@ -98,6 +98,7 @@
             "move": "MOVE_SHEERCOLD"
         }
     ],
+    "evolve_from": [],
     "tm": [
         "MOVE_DRAGONCLAW",
         "MOVE_TOXIC",

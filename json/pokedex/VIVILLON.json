@@ -116,6 +116,9 @@
             "move": "MOVE_HURRICANE"
         }
     ],
+    "evolve_from": [
+        "SPEWPA"
+    ],
     "tm": [
         "MOVE_CALMMIND",
         "MOVE_TOXIC",

@@ -96,6 +96,7 @@
             "move": "MOVE_TRICKROOM"
         }
     ],
+    "evolve_from": [],
     "tm": [
         "MOVE_CALMMIND",
         "MOVE_ROAR",

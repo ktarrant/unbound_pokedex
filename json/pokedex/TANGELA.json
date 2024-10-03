@@ -122,7 +122,7 @@
             "move": "MOVE_GRASSYTERRAIN"
         }
     ],
-    "evolution": [
+    "evolve_to": [
         {
             "method": "EVO_MOVE",
             "condition": "MOVE_ANCIENTPOWER",
@@ -130,6 +130,7 @@
             "extra": "0"
         }
     ],
+    "evolve_from": [],
     "tm": [
         "MOVE_TOXIC",
         "MOVE_BULLETSEED",

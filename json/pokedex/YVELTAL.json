@@ -116,6 +116,7 @@
             "move": "MOVE_HYPERBEAM"
         }
     ],
+    "evolve_from": [],
     "tm": [
         "MOVE_DRAGONCLAW",
         "MOVE_TOXIC",

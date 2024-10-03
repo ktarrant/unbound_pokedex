@@ -103,13 +103,16 @@
             "move": "MOVE_FLY"
         }
     ],
-    "evolution": [
+    "evolve_to": [
         {
             "method": "EVO_LEVEL",
             "condition": "35",
             "target": "TALONFLAME",
             "extra": "0"
         }
+    ],
+    "evolve_from": [
+        "FLETCHLING"
     ],
     "tm": [
         "MOVE_TOXIC",

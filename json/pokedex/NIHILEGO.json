@@ -108,6 +108,7 @@
             "move": "MOVE_HEADSMASH"
         }
     ],
+    "evolve_from": [],
     "tm": [
         "MOVE_TOXIC",
         "MOVE_HIDDENPOWER",

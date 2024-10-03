@@ -106,6 +106,7 @@
             "move": "MOVE_HYPERSPACEFURY"
         }
     ],
+    "evolve_from": [],
     "tm": [
         "MOVE_FOCUSPUNCH",
         "MOVE_CALMMIND",

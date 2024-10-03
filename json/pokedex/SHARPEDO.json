@@ -29,7 +29,7 @@
     "hiddenAbility": "ABILITY_SPEEDBOOST",
     "noFlip": true,
     "name": "Sharpedo",
-    "evolution": [
+    "evolve_to": [
         {
             "method": "EVO_MEGA",
             "condition": "ITEM_SHARPEDONITE",
@@ -126,6 +126,10 @@
             "level": 60,
             "move": "MOVE_SKULLBASH"
         }
+    ],
+    "evolve_from": [
+        "CARVANHA",
+        "SHARPEDO_MEGA"
     ],
     "tm": [
         "MOVE_WATERPULSE",

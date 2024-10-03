@@ -88,6 +88,7 @@
             "move": "MOVE_PLAYROUGH"
         }
     ],
+    "evolve_from": [],
     "tm": [
         "MOVE_HYPERBEAM",
         "MOVE_PROTECT",

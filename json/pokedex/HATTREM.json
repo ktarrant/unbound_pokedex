@@ -80,13 +80,16 @@
             "move": "MOVE_HEALINGWISH"
         }
     ],
-    "evolution": [
+    "evolve_to": [
         {
             "method": "EVO_LEVEL",
             "condition": "42",
             "target": "HATTERENE",
             "extra": "0"
         }
+    ],
+    "evolve_from": [
+        "HATENNA"
     ],
     "tm": [
         "MOVE_CALMMIND",

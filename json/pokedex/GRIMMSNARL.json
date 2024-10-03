@@ -30,7 +30,7 @@
     "noFlip": true,
     "blurb": "Its hairs work like muscle fibers. When its hairs unfurl, they latch on to foes, ensnaring them like tentacles.",
     "name": "Grimmsnarl",
-    "evolution": [
+    "evolve_to": [
         {
             "method": "EVO_GIGANTAMAX",
             "condition": "TRUE",
@@ -115,6 +115,10 @@
             "level": 64,
             "move": "MOVE_HAMMERARM"
         }
+    ],
+    "evolve_from": [
+        "MORGREM",
+        "GRIMMSNARL_GIGA"
     ],
     "tm": [
         "MOVE_FOCUSPUNCH",

@@ -111,6 +111,9 @@
             "move": "MOVE_WRINGOUT"
         }
     ],
+    "evolve_from": [
+        "TENTACOOL"
+    ],
     "tm": [
         "MOVE_WATERPULSE",
         "MOVE_TOXIC",

@@ -115,6 +115,9 @@
             "move": "MOVE_HYDROPUMP"
         }
     ],
+    "evolve_from": [
+        "STARYU"
+    ],
     "tm": [
         "MOVE_WATERPULSE",
         "MOVE_TOXIC",

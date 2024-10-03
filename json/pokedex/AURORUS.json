@@ -100,6 +100,9 @@
             "move": "MOVE_HYPERBEAM"
         }
     ],
+    "evolve_from": [
+        "AMAURA"
+    ],
     "tm": [
         "MOVE_WATERPULSE",
         "MOVE_CALMMIND",

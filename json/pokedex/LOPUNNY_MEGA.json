@@ -134,13 +134,16 @@
             "move": "MOVE_HIGHJUMPKICK"
         }
     ],
-    "evolution": [
+    "evolve_to": [
         {
             "method": "EVO_MEGA",
             "condition": "ITEM_NONE",
             "target": "LOPUNNY",
             "extra": "MEGA_VARIANT_STANDARD"
         }
+    ],
+    "evolve_from": [
+        "LOPUNNY"
     ],
     "tm": [],
     "tutor": []

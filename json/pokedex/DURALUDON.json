@@ -35,7 +35,7 @@
     ],
     "blurb": "Its body resembles polished metal, and it's both lightweight and strong. However, its body rusts easily.",
     "name": "Duraludon",
-    "evolution": [
+    "evolve_to": [
         {
             "method": "EVO_GIGANTAMAX",
             "condition": "TRUE",
@@ -96,6 +96,9 @@
             "level": 66,
             "move": "MOVE_HYPERBEAM"
         }
+    ],
+    "evolve_from": [
+        "DURALUDON_GIGA"
     ],
     "tm": [
         "MOVE_DRAGONCLAW",

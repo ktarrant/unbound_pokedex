@@ -64,6 +64,7 @@
             "move": "MOVE_SHELLSMASH"
         }
     ],
+    "evolve_from": [],
     "tm": [
         "MOVE_WATERPULSE",
         "MOVE_TOXIC",

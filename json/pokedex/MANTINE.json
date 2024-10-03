@@ -123,6 +123,9 @@
             "move": "MOVE_HYDROPUMP"
         }
     ],
+    "evolve_from": [
+        "MANTYKE"
+    ],
     "tm": [
         "MOVE_WATERPULSE",
         "MOVE_TOXIC",

@@ -131,6 +131,9 @@
             "move": "MOVE_DOUBLEEDGE"
         }
     ],
+    "evolve_from": [
+        "JIGGLYPUFF"
+    ],
     "tm": [
         "MOVE_FOCUSPUNCH",
         "MOVE_WATERPULSE",

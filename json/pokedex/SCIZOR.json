@@ -29,7 +29,7 @@
     "hiddenAbility": "ABILITY_LIGHTMETAL",
     "noFlip": true,
     "name": "Scizor",
-    "evolution": [
+    "evolve_to": [
         {
             "method": "EVO_MEGA",
             "condition": "ITEM_SCIZORITE",
@@ -114,6 +114,9 @@
             "level": 52,
             "move": "MOVE_SWORDSDANCE"
         }
+    ],
+    "evolve_from": [
+        "SCIZOR_MEGA"
     ],
     "tm": [
         "MOVE_CALMMIND",

@@ -102,13 +102,16 @@
             "move": "MOVE_METALBURST"
         }
     ],
-    "evolution": [
+    "evolve_to": [
         {
             "method": "EVO_MEGA",
             "condition": "ITEM_NONE",
             "target": "AGGRON",
             "extra": "MEGA_VARIANT_STANDARD"
         }
+    ],
+    "evolve_from": [
+        "AGGRON"
     ],
     "tm": [],
     "tutor": []

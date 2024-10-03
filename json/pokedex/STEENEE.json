@@ -92,13 +92,16 @@
             "move": "MOVE_LEAFSTORM"
         }
     ],
-    "evolution": [
+    "evolve_to": [
         {
             "method": "EVO_MOVE",
             "condition": "MOVE_STOMP",
             "target": "TSAREENA",
             "extra": "0"
         }
+    ],
+    "evolve_from": [
+        "BOUNSWEET"
     ],
     "tm": [
         "MOVE_TOXIC",

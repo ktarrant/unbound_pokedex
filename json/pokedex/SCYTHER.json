@@ -106,6 +106,7 @@
             "move": "MOVE_SWORDSDANCE"
         }
     ],
+    "evolve_from": [],
     "tm": [
         "MOVE_CALMMIND",
         "MOVE_TOXIC",

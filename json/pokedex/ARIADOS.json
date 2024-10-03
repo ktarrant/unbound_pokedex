@@ -127,6 +127,9 @@
             "move": "MOVE_MEGAHORN"
         }
     ],
+    "evolve_from": [
+        "SPINARAK"
+    ],
     "tm": [
         "MOVE_TOXIC",
         "MOVE_HIDDENPOWER",

@@ -29,7 +29,7 @@
     "hiddenAbility": "ABILITY_UNNERVE",
     "noFlip": true,
     "name": "Tyranitar",
-    "evolution": [
+    "evolve_to": [
         {
             "method": "EVO_MEGA",
             "condition": "ITEM_TYRANITARITE",
@@ -134,6 +134,10 @@
             "level": 65,
             "move": "MOVE_GIGAIMPACT"
         }
+    ],
+    "evolve_from": [
+        "PUPITAR",
+        "TYRANITAR_MEGA"
     ],
     "tm": [
         "MOVE_FOCUSPUNCH",

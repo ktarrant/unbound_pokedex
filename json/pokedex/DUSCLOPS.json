@@ -119,6 +119,9 @@
             "move": "MOVE_FUTURESIGHT"
         }
     ],
+    "evolve_from": [
+        "DUSKULL"
+    ],
     "tm": [
         "MOVE_FOCUSPUNCH",
         "MOVE_CALMMIND",

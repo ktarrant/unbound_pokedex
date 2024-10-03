@@ -60,6 +60,7 @@
             "move": "MOVE_FLASHCANNON"
         }
     ],
+    "evolve_from": [],
     "tm": [
         "MOVE_TOXIC",
         "MOVE_HIDDENPOWER",

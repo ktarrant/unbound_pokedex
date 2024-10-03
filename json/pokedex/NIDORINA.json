@@ -91,13 +91,16 @@
             "move": "MOVE_EARTHPOWER"
         }
     ],
-    "evolution": [
+    "evolve_to": [
         {
             "method": "EVO_ITEM",
             "condition": "ITEM_MOON_STONE",
             "target": "NIDOQUEEN",
             "extra": "0"
         }
+    ],
+    "evolve_from": [
+        "NIDORAN_F"
     ],
     "tm": [
         "MOVE_WATERPULSE",

@@ -92,6 +92,7 @@
             "move": "MOVE_SUPERPOWER"
         }
     ],
+    "evolve_from": [],
     "tm": [],
     "tutor": []
 }

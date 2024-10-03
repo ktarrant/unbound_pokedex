@@ -30,7 +30,7 @@
     "noFlip": true,
     "blurb": "It ate a sour apple, which induced its evolution. It stores an acid capable of causing chemical burns in its cheeks.",
     "name": "Flapple",
-    "evolution": [
+    "evolve_to": [
         {
             "method": "EVO_GIGANTAMAX",
             "condition": "TRUE",
@@ -107,6 +107,9 @@
             "level": 44,
             "move": "MOVE_DRAGONRUSH"
         }
+    ],
+    "evolve_from": [
+        "FLAPPLE_GIGA"
     ],
     "tm": [
         "MOVE_TOXIC",

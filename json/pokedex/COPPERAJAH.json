@@ -30,7 +30,7 @@
     "noFlip": true,
     "blurb": "These Pok\u00e9mon live in herds. Their trunks have incredible grip strength, strong enough to crush giant rocks.",
     "name": "Copperajah",
-    "evolution": [
+    "evolve_to": [
         {
             "method": "EVO_GIGANTAMAX",
             "condition": "TRUE",
@@ -99,6 +99,10 @@
             "level": 65,
             "move": "MOVE_SUPERPOWER"
         }
+    ],
+    "evolve_from": [
+        "CUFANT",
+        "COPPERAJAH_GIGA"
     ],
     "tm": [
         "MOVE_ROAR",

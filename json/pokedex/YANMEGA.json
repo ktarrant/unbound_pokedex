@@ -124,6 +124,9 @@
             "move": "MOVE_BUGBUZZ"
         }
     ],
+    "evolve_from": [
+        "YANMA"
+    ],
     "tm": [
         "MOVE_TOXIC",
         "MOVE_HIDDENPOWER",

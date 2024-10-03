@@ -104,13 +104,16 @@
             "move": "MOVE_THUNDERCAGE"
         }
     ],
-    "evolution": [
+    "evolve_to": [
         {
             "method": "EVO_ITEM",
             "condition": "ITEM_THUNDER_STONE",
             "target": "EELEKTROSS",
             "extra": "0"
         }
+    ],
+    "evolve_from": [
+        "TYNAMO"
     ],
     "tm": [
         "MOVE_TOXIC",

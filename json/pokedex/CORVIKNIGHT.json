@@ -30,7 +30,7 @@
     "noFlip": true,
     "blurb": "The black luster of its steel body could drive terror into the heart of any foe.",
     "name": "Corvknight",
-    "evolution": [
+    "evolve_to": [
         {
             "method": "EVO_GIGANTAMAX",
             "condition": "TRUE",
@@ -99,6 +99,10 @@
             "level": 50,
             "move": "MOVE_BRAVEBIRD"
         }
+    ],
+    "evolve_from": [
+        "CORVISQUIRE",
+        "CORVIKNIGHT_GIGA"
     ],
     "tm": [
         "MOVE_TOXIC",

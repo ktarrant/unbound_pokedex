@@ -96,6 +96,9 @@
             "move": "MOVE_BODYPRESS"
         }
     ],
+    "evolve_from": [
+        "SKWOVET"
+    ],
     "tm": [
         "MOVE_TOXIC",
         "MOVE_BULLETSEED",

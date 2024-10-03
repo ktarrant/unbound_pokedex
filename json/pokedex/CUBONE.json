@@ -109,6 +109,7 @@
             "move": "MOVE_DOUBLEEDGE"
         }
     ],
+    "evolve_from": [],
     "tm": [
         "MOVE_FOCUSPUNCH",
         "MOVE_TOXIC",

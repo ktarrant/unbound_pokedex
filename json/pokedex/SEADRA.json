@@ -91,6 +91,9 @@
             "move": "MOVE_RAINDANCE"
         }
     ],
+    "evolve_from": [
+        "HORSEA"
+    ],
     "tm": [
         "MOVE_WATERPULSE",
         "MOVE_TOXIC",

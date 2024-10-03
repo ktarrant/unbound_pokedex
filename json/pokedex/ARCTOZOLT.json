@@ -84,6 +84,7 @@
             "move": "MOVE_BLIZZARD"
         }
     ],
+    "evolve_from": [],
     "tm": [
         "MOVE_ROAR",
         "MOVE_TOXIC",

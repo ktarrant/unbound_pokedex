@@ -29,7 +29,7 @@
     "hiddenAbility": "ABILITY_MOXIE",
     "noFlip": true,
     "name": "Salamence",
-    "evolution": [
+    "evolve_to": [
         {
             "method": "EVO_MEGA",
             "condition": "ITEM_SALAMENCITE",
@@ -118,6 +118,10 @@
             "level": 73,
             "move": "MOVE_DOUBLEEDGE"
         }
+    ],
+    "evolve_from": [
+        "SHELGON",
+        "SALAMENCE_MEGA"
     ],
     "tm": [
         "MOVE_DRAGONCLAW",

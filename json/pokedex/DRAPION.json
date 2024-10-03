@@ -124,6 +124,9 @@
             "move": "MOVE_CRUNCH"
         }
     ],
+    "evolve_from": [
+        "SKORUPI"
+    ],
     "tm": [
         "MOVE_ROAR",
         "MOVE_TOXIC",

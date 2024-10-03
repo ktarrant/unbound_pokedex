@@ -46,7 +46,7 @@
         "MOVE_WISH"
     ],
     "name": "Kangaskhan",
-    "evolution": [
+    "evolve_to": [
         {
             "method": "EVO_MEGA",
             "condition": "ITEM_KANGASKHANITE",
@@ -131,6 +131,9 @@
             "level": 67,
             "move": "MOVE_OUTRAGE"
         }
+    ],
+    "evolve_from": [
+        "KANGASKHAN_MEGA"
     ],
     "tm": [
         "MOVE_FOCUSPUNCH",

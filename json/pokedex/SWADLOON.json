@@ -80,13 +80,16 @@
             "move": "MOVE_BUGBITE"
         }
     ],
-    "evolution": [
+    "evolve_to": [
         {
             "method": "EVO_FRIENDSHIP",
             "condition": "0",
             "target": "LEAVANNY",
             "extra": "0"
         }
+    ],
+    "evolve_from": [
+        "SEWADDLE"
     ],
     "tm": [
         "MOVE_CALMMIND",

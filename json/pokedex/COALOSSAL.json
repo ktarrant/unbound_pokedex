@@ -30,7 +30,7 @@
     "noFlip": true,
     "blurb": "While engaged in battle, its mountain of coal will burn bright red, scorching the surrounding area with sparks.",
     "name": "Coalossal",
-    "evolution": [
+    "evolve_to": [
         {
             "method": "EVO_GIGANTAMAX",
             "condition": "TRUE",
@@ -95,6 +95,10 @@
             "level": 63,
             "move": "MOVE_BURNUP"
         }
+    ],
+    "evolve_from": [
+        "CARKOL",
+        "COALOSSAL_GIGA"
     ],
     "tm": [
         "MOVE_FOCUSPUNCH",

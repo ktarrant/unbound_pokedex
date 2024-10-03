@@ -40,7 +40,7 @@
     ],
     "blurb": "It lives in arid places. Instead of perspiration, it expels grainy sand from its body.",
     "name": "Hippopotas",
-    "evolution": [
+    "evolve_to": [
         {
             "method": "EVO_LEVEL",
             "condition": "34",
@@ -110,6 +110,7 @@
             "move": "MOVE_SLACKOFF"
         }
     ],
+    "evolve_from": [],
     "tm": [
         "MOVE_WATERPULSE",
         "MOVE_ROAR",

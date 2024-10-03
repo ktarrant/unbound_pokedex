@@ -92,6 +92,7 @@
             "move": "MOVE_FOCUSPUNCH"
         }
     ],
+    "evolve_from": [],
     "tm": [
         "MOVE_FOCUSPUNCH",
         "MOVE_TOXIC",

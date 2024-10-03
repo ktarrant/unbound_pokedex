@@ -127,6 +127,7 @@
             "move": "MOVE_SWORDSDANCE"
         }
     ],
+    "evolve_from": [],
     "tm": [
         "MOVE_TOXIC",
         "MOVE_HIDDENPOWER",

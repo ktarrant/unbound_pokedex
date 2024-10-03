@@ -48,7 +48,7 @@
             "move": "MOVE_CHARGEBEAM"
         }
     ],
-    "evolution": [
+    "evolve_to": [
         {
             "method": "EVO_LEVEL",
             "condition": "39",
@@ -56,6 +56,7 @@
             "extra": "0"
         }
     ],
+    "evolve_from": [],
     "tm": [
         "MOVE_CHARGEBEAM",
         "MOVE_THUNDERWAVE"

@@ -126,7 +126,7 @@
             "move": "MOVE_LASTRESORT"
         }
     ],
-    "evolution": [
+    "evolve_to": [
         {
             "method": "EVO_FRIENDSHIP",
             "condition": "0",
@@ -134,6 +134,7 @@
             "extra": "0"
         }
     ],
+    "evolve_from": [],
     "tm": [
         "MOVE_FOCUSPUNCH",
         "MOVE_WATERPULSE",

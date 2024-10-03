@@ -67,6 +67,7 @@
             "move": "MOVE_TAILGLOW"
         }
     ],
+    "evolve_from": [],
     "tm": [],
     "tutor": []
 }

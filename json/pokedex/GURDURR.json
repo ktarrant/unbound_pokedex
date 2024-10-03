@@ -96,6 +96,9 @@
             "move": "MOVE_FOCUSPUNCH"
         }
     ],
+    "evolve_from": [
+        "TIMBURR"
+    ],
     "tm": [
         "MOVE_FOCUSPUNCH",
         "MOVE_TOXIC",

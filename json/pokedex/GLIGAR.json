@@ -116,7 +116,7 @@
             "move": "MOVE_GUILLOTINE"
         }
     ],
-    "evolution": [
+    "evolve_to": [
         {
             "method": "EVO_HOLD_ITEM_NIGHT",
             "condition": "ITEM_RAZOR_FANG",
@@ -124,6 +124,7 @@
             "extra": "0"
         }
     ],
+    "evolve_from": [],
     "tm": [
         "MOVE_TOXIC",
         "MOVE_HIDDENPOWER",

@@ -119,6 +119,9 @@
             "move": "MOVE_SHELLSMASH"
         }
     ],
+    "evolve_from": [
+        "SHELLDER"
+    ],
     "tm": [
         "MOVE_WATERPULSE",
         "MOVE_TOXIC",

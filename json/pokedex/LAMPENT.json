@@ -96,13 +96,16 @@
             "move": "MOVE_MEMENTO"
         }
     ],
-    "evolution": [
+    "evolve_to": [
         {
             "method": "EVO_ITEM",
             "condition": "ITEM_DUSK_STONE",
             "target": "CHANDELURE",
             "extra": "0"
         }
+    ],
+    "evolve_from": [
+        "LITWICK"
     ],
     "tm": [
         "MOVE_CALMMIND",

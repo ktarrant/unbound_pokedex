@@ -44,13 +44,16 @@
             "move": "MOVE_PROTECT"
         }
     ],
-    "evolution": [
+    "evolve_to": [
         {
             "method": "EVO_LEVEL",
             "condition": "12",
             "target": "VIVILLON",
             "extra": "0"
         }
+    ],
+    "evolve_from": [
+        "SCATTERBUG"
     ],
     "tm": [
         "MOVE_PROTECT",

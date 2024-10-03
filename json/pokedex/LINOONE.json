@@ -127,6 +127,9 @@
             "move": "MOVE_EXTREMESPEED"
         }
     ],
+    "evolve_from": [
+        "ZIGZAGOON"
+    ],
     "tm": [
         "MOVE_WATERPULSE",
         "MOVE_ROAR",

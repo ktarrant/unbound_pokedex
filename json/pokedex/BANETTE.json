@@ -29,7 +29,7 @@
     "hiddenAbility": "ABILITY_CURSEDBODY",
     "noFlip": true,
     "name": "Banette",
-    "evolution": [
+    "evolve_to": [
         {
             "method": "EVO_MEGA",
             "condition": "ITEM_BANETTITE",
@@ -114,6 +114,10 @@
             "level": 64,
             "move": "MOVE_POLTERGEIST"
         }
+    ],
+    "evolve_from": [
+        "SHUPPET",
+        "BANETTE_MEGA"
     ],
     "tm": [
         "MOVE_CALMMIND",

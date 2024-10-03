@@ -131,6 +131,10 @@
             "move": "MOVE_PSYSTRIKE"
         }
     ],
+    "evolve_from": [
+        "MEWTWO_MEGA_X",
+        "MEWTWO_MEGA_Y"
+    ],
     "tm": [
         "MOVE_FOCUSPUNCH",
         "MOVE_WATERPULSE",

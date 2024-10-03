@@ -48,7 +48,7 @@
         "MOVE_WISH"
     ],
     "name": "Exeggcute",
-    "evolution": [
+    "evolve_to": [
         {
             "method": "EVO_ITEM",
             "condition": "ITEM_LEAF_STONE",
@@ -118,6 +118,7 @@
             "move": "MOVE_SOLARBEAM"
         }
     ],
+    "evolve_from": [],
     "tm": [
         "MOVE_TOXIC",
         "MOVE_BULLETSEED",

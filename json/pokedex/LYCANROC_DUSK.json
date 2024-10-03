@@ -151,6 +151,7 @@
             "move": "MOVE_CLOSECOMBAT"
         }
     ],
+    "evolve_from": [],
     "tm": [
         "MOVE_ROAR",
         "MOVE_TOXIC",

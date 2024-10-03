@@ -99,13 +99,16 @@
             "move": "MOVE_FOCUSPUNCH"
         }
     ],
-    "evolution": [
+    "evolve_to": [
         {
             "method": "EVO_GIGANTAMAX",
             "condition": "FALSE",
             "target": "URSHIFU_SINGLE",
             "extra": "0"
         }
+    ],
+    "evolve_from": [
+        "URSHIFU_SINGLE"
     ],
     "tm": [],
     "tutor": []

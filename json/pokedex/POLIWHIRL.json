@@ -103,6 +103,9 @@
             "move": "MOVE_HYDROPUMP"
         }
     ],
+    "evolve_from": [
+        "POLIWAG"
+    ],
     "tm": [
         "MOVE_FOCUSPUNCH",
         "MOVE_WATERPULSE",

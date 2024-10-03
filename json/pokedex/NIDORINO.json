@@ -95,13 +95,16 @@
             "move": "MOVE_HORNDRILL"
         }
     ],
-    "evolution": [
+    "evolve_to": [
         {
             "method": "EVO_ITEM",
             "condition": "ITEM_MOON_STONE",
             "target": "NIDOKING",
             "extra": "0"
         }
+    ],
+    "evolve_from": [
+        "NIDORAN_M"
     ],
     "tm": [
         "MOVE_WATERPULSE",

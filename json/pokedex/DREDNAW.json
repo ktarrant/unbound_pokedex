@@ -30,7 +30,7 @@
     "noFlip": true,
     "blurb": "With jaws that can shear through steel rods, this highly aggressive Pok\u00e9mon chomps down on its unfortunate prey.",
     "name": "Drednaw",
-    "evolution": [
+    "evolve_to": [
         {
             "method": "EVO_GIGANTAMAX",
             "condition": "TRUE",
@@ -107,6 +107,10 @@
             "level": 66,
             "move": "MOVE_HEADSMASH"
         }
+    ],
+    "evolve_from": [
+        "CHEWTLE",
+        "DREDNAW_GIGA"
     ],
     "tm": [
         "MOVE_WATERPULSE",

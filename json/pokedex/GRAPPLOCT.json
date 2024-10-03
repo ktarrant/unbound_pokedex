@@ -92,6 +92,9 @@
             "move": "MOVE_TOPSYTURVY"
         }
     ],
+    "evolve_from": [
+        "CLOBBOPUS"
+    ],
     "tm": [
         "MOVE_FOCUSPUNCH",
         "MOVE_WATERPULSE",

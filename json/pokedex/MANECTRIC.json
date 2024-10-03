@@ -29,7 +29,7 @@
     "hiddenAbility": "ABILITY_FLAREBOOST",
     "noFlip": true,
     "name": "Manectric",
-    "evolution": [
+    "evolve_to": [
         {
             "method": "EVO_MEGA",
             "condition": "ITEM_MANECTITE",
@@ -106,6 +106,10 @@
             "level": 57,
             "move": "MOVE_ELECTRICTERRAIN"
         }
+    ],
+    "evolve_from": [
+        "ELECTRIKE",
+        "MANECTRIC_MEGA"
     ],
     "tm": [
         "MOVE_ROAR",

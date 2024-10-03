@@ -76,6 +76,9 @@
             "move": "MOVE_LIQUIDATION"
         }
     ],
+    "evolve_from": [
+        "ARROKUDA"
+    ],
     "tm": [
         "MOVE_WATERPULSE",
         "MOVE_TOXIC",

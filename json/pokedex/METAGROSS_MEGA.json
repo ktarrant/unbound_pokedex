@@ -110,13 +110,16 @@
             "move": "MOVE_GIGAIMPACT"
         }
     ],
-    "evolution": [
+    "evolve_to": [
         {
             "method": "EVO_MEGA",
             "condition": "ITEM_NONE",
             "target": "METAGROSS",
             "extra": "MEGA_VARIANT_STANDARD"
         }
+    ],
+    "evolve_from": [
+        "METAGROSS"
     ],
     "tm": [],
     "tutor": []

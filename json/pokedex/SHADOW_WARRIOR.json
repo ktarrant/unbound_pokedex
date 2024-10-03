@@ -62,6 +62,7 @@
             "move": "MOVE_POISONJAB"
         }
     ],
+    "evolve_from": [],
     "tm": [],
     "tutor": []
 }

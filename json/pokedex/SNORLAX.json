@@ -43,7 +43,7 @@
         "MOVE_ICEBALL"
     ],
     "name": "Snorlax",
-    "evolution": [
+    "evolve_to": [
         {
             "method": "EVO_GIGANTAMAX",
             "condition": "TRUE",
@@ -176,6 +176,10 @@
             "level": 57,
             "move": "MOVE_GIGAIMPACT"
         }
+    ],
+    "evolve_from": [
+        "MUNCHLAX",
+        "SNORLAX_GIGA"
     ],
     "tm": [
         "MOVE_FOCUSPUNCH",

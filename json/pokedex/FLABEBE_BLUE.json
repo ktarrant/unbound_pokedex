@@ -36,7 +36,7 @@
         "MOVE_SOLARBEAM",
         "MOVE_DAZZLINGGLEAM"
     ],
-    "evolution": [
+    "evolve_to": [
         {
             "method": "EVO_LEVEL",
             "condition": "19",
@@ -106,6 +106,7 @@
             "move": "MOVE_WISH"
         }
     ],
+    "evolve_from": [],
     "tm": [
         "MOVE_CALMMIND",
         "MOVE_TOXIC",

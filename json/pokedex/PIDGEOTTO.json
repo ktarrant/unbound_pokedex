@@ -99,13 +99,16 @@
             "move": "MOVE_BRAVEBIRD"
         }
     ],
-    "evolution": [
+    "evolve_to": [
         {
             "method": "EVO_LEVEL",
             "condition": "36",
             "target": "PIDGEOT",
             "extra": "0"
         }
+    ],
+    "evolve_from": [
+        "PIDGEY"
     ],
     "tm": [
         "MOVE_TOXIC",

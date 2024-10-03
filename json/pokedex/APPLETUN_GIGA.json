@@ -99,13 +99,16 @@
             "move": "MOVE_ENERGYBALL"
         }
     ],
-    "evolution": [
+    "evolve_to": [
         {
             "method": "EVO_GIGANTAMAX",
             "condition": "FALSE",
             "target": "APPLETUN",
             "extra": "0"
         }
+    ],
+    "evolve_from": [
+        "APPLETUN"
     ],
     "tm": [],
     "tutor": []

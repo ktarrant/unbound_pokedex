@@ -63,7 +63,7 @@ merge_data(species_data, egg_moves_data, "egg_moves")
 merge_data(species_data, blurbs_data, "blurb")
 merge_data(species_data, names_data, "name")
 merge_data(species_data, learnsets_data, "learnset")
-merge_data(species_data, evolution_data, "evolution")
+merge_data(species_data, evolution_data, "evolve_to")
 
 # Special account for learnset
 # If there is a MEGA or other alternate version of a Pokemon,
@@ -75,6 +75,14 @@ for species, entry in species_data.items():
         for relative in similar_options:
             if "learnset" in species_data[relative]:
                 species_data[species]["learnset"] = species_data[relative]["learnset"]
+
+# Special account for evolution
+# We want to create a back-reference for the evolution, i.e. evolve_from
+for species, entry in species_data.items():
+    for from_species, from_entry in species_data.items():
+        from_evos = [from_species for from_evo in from_entry.get("evolve_to", [])
+                     if from_evo["target"] == species]
+        entry["evolve_from"] = entry.get("evolve_from", []) + from_evos
 
 
 def get_compatible_moves(compatibility_table, species):

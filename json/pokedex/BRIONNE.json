@@ -100,13 +100,16 @@
             "move": "MOVE_RELICSONG"
         }
     ],
-    "evolution": [
+    "evolve_to": [
         {
             "method": "EVO_LEVEL",
             "condition": "34",
             "target": "PRIMARINA",
             "extra": "0"
         }
+    ],
+    "evolve_from": [
+        "POPPLIO"
     ],
     "tm": [
         "MOVE_WATERPULSE",

@@ -95,6 +95,9 @@
             "move": "MOVE_LEECHFANG"
         }
     ],
+    "evolve_from": [
+        "PARAS"
+    ],
     "tm": [
         "MOVE_TOXIC",
         "MOVE_BULLETSEED",

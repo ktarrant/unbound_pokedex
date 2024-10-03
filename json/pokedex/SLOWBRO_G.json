@@ -108,6 +108,7 @@
             "move": "MOVE_HEALPULSE"
         }
     ],
+    "evolve_from": [],
     "tm": [
         "MOVE_FOCUSPUNCH",
         "MOVE_WATERPULSE",

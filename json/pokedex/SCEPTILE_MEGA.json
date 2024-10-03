@@ -118,13 +118,16 @@
             "move": "MOVE_LEAFSTORM"
         }
     ],
-    "evolution": [
+    "evolve_to": [
         {
             "method": "EVO_MEGA",
             "condition": "ITEM_NONE",
             "target": "SCEPTILE",
             "extra": "MEGA_VARIANT_STANDARD"
         }
+    ],
+    "evolve_from": [
+        "SCEPTILE"
     ],
     "tm": [],
     "tutor": []

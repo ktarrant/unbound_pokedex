@@ -94,6 +94,7 @@
             "move": "MOVE_EXPLOSION"
         }
     ],
+    "evolve_from": [],
     "tm": [
         "MOVE_CALMMIND",
         "MOVE_TOXIC",

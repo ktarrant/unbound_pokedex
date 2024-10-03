@@ -104,6 +104,9 @@
             "move": "MOVE_QUIVERDANCE"
         }
     ],
+    "evolve_from": [
+        "SNOM"
+    ],
     "tm": [
         "MOVE_CALMMIND",
         "MOVE_TOXIC",

@@ -111,6 +111,7 @@
             "move": "MOVE_GIGAIMPACT"
         }
     ],
+    "evolve_from": [],
     "tm": [
         "MOVE_CALMMIND",
         "MOVE_HAIL",

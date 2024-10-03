@@ -120,6 +120,7 @@
             "move": "MOVE_MEGAHORN"
         }
     ],
+    "evolve_from": [],
     "tm": [
         "MOVE_TOXIC",
         "MOVE_HIDDENPOWER",

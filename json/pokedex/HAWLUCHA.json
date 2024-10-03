@@ -116,6 +116,7 @@
             "move": "MOVE_SKYATTACK"
         }
     ],
+    "evolve_from": [],
     "tm": [
         "MOVE_FOCUSPUNCH",
         "MOVE_TOXIC",

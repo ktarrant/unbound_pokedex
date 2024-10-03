@@ -115,6 +115,9 @@
             "move": "MOVE_EARTHQUAKE"
         }
     ],
+    "evolve_from": [
+        "SANDSHREW"
+    ],
     "tm": [
         "MOVE_FOCUSPUNCH",
         "MOVE_TOXIC",

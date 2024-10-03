@@ -28,7 +28,7 @@
     "safariZoneFleeRate": 0,
     "hiddenAbility": "ABILITY_SYMBIOSIS",
     "noFlip": true,
-    "evolution": [
+    "evolve_to": [
         {
             "method": "EVO_ITEM",
             "condition": "ITEM_SHINY_STONE",
@@ -101,6 +101,9 @@
             "level": 68,
             "move": "MOVE_LIGHTOFRUIN"
         }
+    ],
+    "evolve_from": [
+        "FLABEBE_YELLOW"
     ],
     "tm": [
         "MOVE_CALMMIND",

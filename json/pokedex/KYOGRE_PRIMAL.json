@@ -86,13 +86,16 @@
             "move": "MOVE_WATERSPOUT"
         }
     ],
-    "evolution": [
+    "evolve_to": [
         {
             "method": "EVO_MEGA",
             "condition": "ITEM_NONE",
             "target": "KYOGRE",
             "extra": "MEGA_VARIANT_PRIMAL"
         }
+    ],
+    "evolve_from": [
+        "KYOGRE"
     ],
     "tm": [],
     "tutor": []

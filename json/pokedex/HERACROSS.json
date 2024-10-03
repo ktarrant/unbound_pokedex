@@ -40,7 +40,7 @@
         "MOVE_ROCKBLAST"
     ],
     "name": "Heracross",
-    "evolution": [
+    "evolve_to": [
         {
             "method": "EVO_MEGA",
             "condition": "ITEM_HERACRONITE",
@@ -129,6 +129,9 @@
             "level": 65,
             "move": "MOVE_CLOSECOMBAT"
         }
+    ],
+    "evolve_from": [
+        "HERACROSS_MEGA"
     ],
     "tm": [
         "MOVE_FOCUSPUNCH",

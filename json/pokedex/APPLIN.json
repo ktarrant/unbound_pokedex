@@ -46,6 +46,7 @@
             "move": "MOVE_WITHDRAW"
         }
     ],
+    "evolve_from": [],
     "tm": [
         "MOVE_TOXIC",
         "MOVE_HIDDENPOWER",

@@ -155,13 +155,16 @@
             "move": "MOVE_GIGAIMPACT"
         }
     ],
-    "evolution": [
+    "evolve_to": [
         {
             "method": "EVO_GIGANTAMAX",
             "condition": "FALSE",
             "target": "SNORLAX",
             "extra": "0"
         }
+    ],
+    "evolve_from": [
+        "SNORLAX"
     ],
     "tm": [],
     "tutor": []

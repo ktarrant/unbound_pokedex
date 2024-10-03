@@ -110,6 +110,7 @@
             "move": "MOVE_THRASH"
         }
     ],
+    "evolve_from": [],
     "tm": [
         "MOVE_TOXIC",
         "MOVE_BULKUP",

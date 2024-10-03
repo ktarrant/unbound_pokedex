@@ -104,6 +104,9 @@
             "move": "MOVE_BRAVEBIRD"
         }
     ],
+    "evolve_from": [
+        "TRUMBEAK"
+    ],
     "tm": [
         "MOVE_TOXIC",
         "MOVE_BULLETSEED",
