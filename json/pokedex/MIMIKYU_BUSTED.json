@@ -93,5 +93,33 @@
             "level": 59,
             "move": "MOVE_PAINSPLIT"
         }
+    ],
+    "tm": [
+        "MOVE_TOXIC",
+        "MOVE_HIDDENPOWER",
+        "MOVE_FRUSTRATION",
+        "MOVE_RETURN",
+        "MOVE_DOUBLETEAM",
+        "MOVE_FACADE",
+        "MOVE_SECRETPOWER",
+        "MOVE_LEECHFANG",
+        "MOVE_HONECLAWS",
+        "MOVE_CHARGEBEAM",
+        "MOVE_WILLOWISP",
+        "MOVE_DREAMEATER",
+        "MOVE_SWAGGER",
+        "MOVE_INFESTATION",
+        "MOVE_POWERUPPUNCH",
+        "MOVE_NATURALGIFT"
+    ],
+    "tutor": [
+        "MOVE_COVET",
+        "MOVE_SNATCH",
+        "MOVE_SPITE",
+        "MOVE_AFTERYOU",
+        "MOVE_TELEKINESIS",
+        "MOVE_PAINSPLIT",
+        "MOVE_PSYCHUP",
+        "MOVE_CONFIDE"
     ]
 }

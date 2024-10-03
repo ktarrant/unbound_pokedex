@@ -42,5 +42,10 @@
             "level": 25,
             "move": "MOVE_FLAIL"
         }
+    ],
+    "tm": [],
+    "tutor": [
+        "MOVE_BOUNCE",
+        "MOVE_HYDROPUMP"
     ]
 }

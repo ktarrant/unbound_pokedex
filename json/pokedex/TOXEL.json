@@ -60,5 +60,34 @@
             "level": 1,
             "move": "MOVE_NUZZLE"
         }
+    ],
+    "tm": [
+        "MOVE_TOXIC",
+        "MOVE_HIDDENPOWER",
+        "MOVE_PROTECT",
+        "MOVE_FRUSTRATION",
+        "MOVE_RETURN",
+        "MOVE_DOUBLETEAM",
+        "MOVE_SHOCKWAVE",
+        "MOVE_FACADE",
+        "MOVE_SECRETPOWER",
+        "MOVE_REST",
+        "MOVE_ATTRACT",
+        "MOVE_CHARGEBEAM",
+        "MOVE_ENDURE",
+        "MOVE_FLASH",
+        "MOVE_SLEEPTALK",
+        "MOVE_SWAGGER",
+        "MOVE_SUBSTITUTE",
+        "MOVE_POWERUPPUNCH",
+        "MOVE_ROUND",
+        "MOVE_ECHOEDVOICE",
+        "MOVE_NATURALGIFT",
+        "MOVE_CUT"
+    ],
+    "tutor": [
+        "MOVE_SNORE",
+        "MOVE_CONFIDE",
+        "MOVE_ENCORE"
     ]
 }

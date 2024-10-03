@@ -28,5 +28,7 @@
     "safariZoneFleeRate": 0,
     "hiddenAbility": "ABILITY_NONE",
     "noFlip": true,
-    "name": "MISSINGNO."
+    "name": "MISSINGNO.",
+    "tm": [],
+    "tutor": []
 }

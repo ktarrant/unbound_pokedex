@@ -87,5 +87,7 @@
             "level": 60,
             "move": "MOVE_THRASH"
         }
-    ]
+    ],
+    "tm": [],
+    "tutor": []
 }

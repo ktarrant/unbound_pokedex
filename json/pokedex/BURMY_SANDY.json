@@ -45,5 +45,15 @@
             "level": 20,
             "move": "MOVE_HIDDENPOWER"
         }
+    ],
+    "tm": [
+        "MOVE_HIDDENPOWER",
+        "MOVE_PROTECT",
+        "MOVE_STRUGGLEBUG",
+        "MOVE_NATURALGIFT"
+    ],
+    "tutor": [
+        "MOVE_ELECTROWEB",
+        "MOVE_BUGBITE"
     ]
 }

@@ -90,5 +90,7 @@
             "level": 50,
             "move": "MOVE_BRAVEBIRD"
         }
-    ]
+    ],
+    "tm": [],
+    "tutor": []
 }

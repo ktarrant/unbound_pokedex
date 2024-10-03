@@ -51,5 +51,16 @@
             "level": 28,
             "move": "MOVE_BUGBUZZ"
         }
+    ],
+    "tm": [
+        "MOVE_HIDDENPOWER"
+    ],
+    "tutor": [
+        "MOVE_SNORE",
+        "MOVE_BUGBITE",
+        "MOVE_TAILWIND",
+        "MOVE_ENDEAVOR",
+        "MOVE_BUGBUZZ",
+        "MOVE_DUALWINGBEAT"
     ]
 }

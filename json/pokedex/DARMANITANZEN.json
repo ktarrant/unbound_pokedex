@@ -97,5 +97,28 @@
             "level": 62,
             "move": "MOVE_SUPERPOWER"
         }
-    ]
+    ],
+    "tm": [
+        "MOVE_FOCUSPUNCH",
+        "MOVE_ROAR",
+        "MOVE_TOXIC",
+        "MOVE_HIDDENPOWER",
+        "MOVE_FRUSTRATION",
+        "MOVE_SOLARBEAM",
+        "MOVE_RETURN",
+        "MOVE_DOUBLETEAM",
+        "MOVE_TORMENT",
+        "MOVE_FACADE",
+        "MOVE_SECRETPOWER",
+        "MOVE_WILLOWISP",
+        "MOVE_FLAMECHARGE",
+        "MOVE_SWAGGER",
+        "MOVE_INCINERATE",
+        "MOVE_POWERUPPUNCH",
+        "MOVE_SMACKDOWN",
+        "MOVE_NATURALGIFT",
+        "MOVE_STRENGTH",
+        "MOVE_ROCKSMASH"
+    ],
+    "tutor": []
 }

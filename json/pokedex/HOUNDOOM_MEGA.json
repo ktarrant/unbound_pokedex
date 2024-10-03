@@ -105,5 +105,7 @@
             "level": 63,
             "move": "MOVE_INFERNO"
         }
-    ]
+    ],
+    "tm": [],
+    "tutor": []
 }

@@ -105,5 +105,7 @@
             "level": 98,
             "move": "MOVE_SAFEGUARD"
         }
-    ]
+    ],
+    "tm": [],
+    "tutor": []
 }

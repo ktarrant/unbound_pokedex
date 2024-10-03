@@ -91,5 +91,7 @@
             "level": 88,
             "move": "MOVE_ETERNABEAM"
         }
-    ]
+    ],
+    "tm": [],
+    "tutor": []
 }

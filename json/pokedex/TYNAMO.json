@@ -47,5 +47,13 @@
             "level": 1,
             "move": "MOVE_CHARGEBEAM"
         }
+    ],
+    "tm": [
+        "MOVE_CHARGEBEAM",
+        "MOVE_THUNDERWAVE"
+    ],
+    "tutor": [
+        "MOVE_MAGNETRISE",
+        "MOVE_RISINGVOLTAGE"
     ]
 }

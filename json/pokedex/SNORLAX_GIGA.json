@@ -154,5 +154,7 @@
             "level": 57,
             "move": "MOVE_GIGAIMPACT"
         }
-    ]
+    ],
+    "tm": [],
+    "tutor": []
 }

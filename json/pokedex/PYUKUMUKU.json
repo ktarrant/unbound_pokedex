@@ -108,5 +108,36 @@
             "level": 60,
             "move": "MOVE_MEMENTO"
         }
+    ],
+    "tm": [
+        "MOVE_TOXIC",
+        "MOVE_HAIL",
+        "MOVE_TAUNT",
+        "MOVE_LIGHTSCREEN",
+        "MOVE_PROTECT",
+        "MOVE_RAINDANCE",
+        "MOVE_SAFEGUARD",
+        "MOVE_DOUBLETEAM",
+        "MOVE_REFLECT",
+        "MOVE_REST",
+        "MOVE_ATTRACT",
+        "MOVE_ENDURE",
+        "MOVE_RECYCLE",
+        "MOVE_SLEEPTALK",
+        "MOVE_SWAGGER",
+        "MOVE_SUBSTITUTE",
+        "MOVE_QUASH"
+    ],
+    "tutor": [
+        "MOVE_HELPINGHAND",
+        "MOVE_BLOCK",
+        "MOVE_SPITE",
+        "MOVE_PAINSPLIT",
+        "MOVE_GASTROACID",
+        "MOVE_PSYCHUP",
+        "MOVE_CONFIDE",
+        "MOVE_BATONPASS",
+        "MOVE_SCREECH",
+        "MOVE_VENOMDRENCH"
     ]
 }

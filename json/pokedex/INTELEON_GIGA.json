@@ -90,5 +90,7 @@
             "level": 62,
             "move": "MOVE_HYDROPUMP"
         }
-    ]
+    ],
+    "tm": [],
+    "tutor": []
 }

@@ -43,5 +43,15 @@
             "level": 8,
             "move": "MOVE_PROTECT"
         }
+    ],
+    "tm": [
+        "MOVE_PROTECT",
+        "MOVE_SILVERWIND",
+        "MOVE_NATURALGIFT"
+    ],
+    "tutor": [
+        "MOVE_ELECTROWEB",
+        "MOVE_BUGBITE",
+        "MOVE_IRONDEFENSE"
     ]
 }

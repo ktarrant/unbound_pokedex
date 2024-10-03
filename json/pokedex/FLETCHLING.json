@@ -98,5 +98,47 @@
             "level": 40,
             "move": "MOVE_FLY"
         }
+    ],
+    "tm": [
+        "MOVE_TOXIC",
+        "MOVE_HIDDENPOWER",
+        "MOVE_SUNNYDAY",
+        "MOVE_TAUNT",
+        "MOVE_PROTECT",
+        "MOVE_FRUSTRATION",
+        "MOVE_RETURN",
+        "MOVE_DOUBLETEAM",
+        "MOVE_AERIALACE",
+        "MOVE_FACADE",
+        "MOVE_SECRETPOWER",
+        "MOVE_REST",
+        "MOVE_ATTRACT",
+        "MOVE_THIEF",
+        "MOVE_STEELWING",
+        "MOVE_OVERHEAT",
+        "MOVE_ROOST",
+        "MOVE_ENDURE",
+        "MOVE_SWORDSDANCE",
+        "MOVE_FLAMECHARGE",
+        "MOVE_SLEEPTALK",
+        "MOVE_SWAGGER",
+        "MOVE_PLUCK",
+        "MOVE_UTURN",
+        "MOVE_SUBSTITUTE",
+        "MOVE_WORKUP",
+        "MOVE_ACROBATICS",
+        "MOVE_DEFOG",
+        "MOVE_ROUND",
+        "MOVE_NATURALGIFT",
+        "MOVE_FLY"
+    ],
+    "tutor": [
+        "MOVE_SNORE",
+        "MOVE_SNATCH",
+        "MOVE_TAILWIND",
+        "MOVE_HEATWAVE",
+        "MOVE_CONFIDE",
+        "MOVE_AGILITY",
+        "MOVE_DUALWINGBEAT"
     ]
 }

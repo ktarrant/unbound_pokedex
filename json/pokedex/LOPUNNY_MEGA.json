@@ -133,5 +133,7 @@
             "level": 68,
             "move": "MOVE_HIGHJUMPKICK"
         }
-    ]
+    ],
+    "tm": [],
+    "tutor": []
 }

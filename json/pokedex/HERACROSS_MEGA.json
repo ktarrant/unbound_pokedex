@@ -109,5 +109,7 @@
             "level": 65,
             "move": "MOVE_CLOSECOMBAT"
         }
-    ]
+    ],
+    "tm": [],
+    "tutor": []
 }

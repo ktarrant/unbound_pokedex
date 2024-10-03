@@ -98,5 +98,7 @@
             "level": 52,
             "move": "MOVE_FOCUSPUNCH"
         }
-    ]
+    ],
+    "tm": [],
+    "tutor": []
 }

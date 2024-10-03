@@ -108,5 +108,45 @@
             "level": 60,
             "move": "MOVE_ERUPTION"
         }
+    ],
+    "tm": [
+        "MOVE_TOXIC",
+        "MOVE_HIDDENPOWER",
+        "MOVE_SUNNYDAY",
+        "MOVE_PROTECT",
+        "MOVE_FRUSTRATION",
+        "MOVE_RETURN",
+        "MOVE_DIG",
+        "MOVE_DOUBLETEAM",
+        "MOVE_FLAMETHROWER",
+        "MOVE_FIREBLAST",
+        "MOVE_AERIALACE",
+        "MOVE_FACADE",
+        "MOVE_SECRETPOWER",
+        "MOVE_REST",
+        "MOVE_ATTRACT",
+        "MOVE_OVERHEAT",
+        "MOVE_ENDURE",
+        "MOVE_WILLOWISP",
+        "MOVE_FLAMECHARGE",
+        "MOVE_SLEEPTALK",
+        "MOVE_SWAGGER",
+        "MOVE_SUBSTITUTE",
+        "MOVE_INCINERATE",
+        "MOVE_WORKUP",
+        "MOVE_WILDCHARGE",
+        "MOVE_ROUND",
+        "MOVE_NATURALGIFT",
+        "MOVE_NATUREPOWER",
+        "MOVE_CUT"
+    ],
+    "tutor": [
+        "MOVE_SNORE",
+        "MOVE_COVET",
+        "MOVE_HEATWAVE",
+        "MOVE_CONFIDE",
+        "MOVE_FIREPLEDGE",
+        "MOVE_REVERSAL",
+        "MOVE_FLAREBLITZ"
     ]
 }

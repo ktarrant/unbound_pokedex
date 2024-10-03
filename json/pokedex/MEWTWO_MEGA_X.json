@@ -129,5 +129,7 @@
             "level": 100,
             "move": "MOVE_PSYSTRIKE"
         }
-    ]
+    ],
+    "tm": [],
+    "tutor": []
 }

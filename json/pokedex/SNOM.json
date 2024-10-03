@@ -44,5 +44,25 @@
             "level": 1,
             "move": "MOVE_STRUGGLEBUG"
         }
+    ],
+    "tm": [
+        "MOVE_PROTECT",
+        "MOVE_REST",
+        "MOVE_ATTRACT",
+        "MOVE_ENDURE",
+        "MOVE_SLEEPTALK",
+        "MOVE_SUBSTITUTE",
+        "MOVE_STRUGGLEBUG",
+        "MOVE_INFESTATION",
+        "MOVE_ROUND"
+    ],
+    "tutor": [
+        "MOVE_SNORE",
+        "MOVE_BUGBITE",
+        "MOVE_ICYWIND",
+        "MOVE_CONFIDE",
+        "MOVE_ICICLESPEAR",
+        "MOVE_BUGBUZZ",
+        "MOVE_SKITTERSMACK"
     ]
 }

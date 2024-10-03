@@ -121,5 +121,7 @@
             "level": 64,
             "move": "MOVE_COUNTER"
         }
-    ]
+    ],
+    "tm": [],
+    "tutor": []
 }

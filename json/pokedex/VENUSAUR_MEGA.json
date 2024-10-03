@@ -105,5 +105,7 @@
             "level": 61,
             "move": "MOVE_SOLARBEAM"
         }
-    ]
+    ],
+    "tm": [],
+    "tutor": []
 }

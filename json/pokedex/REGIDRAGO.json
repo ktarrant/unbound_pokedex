@@ -91,5 +91,45 @@
             "level": 78,
             "move": "MOVE_EXPLOSION"
         }
+    ],
+    "tm": [
+        "MOVE_DRAGONCLAW",
+        "MOVE_ROAR",
+        "MOVE_TOXIC",
+        "MOVE_HIDDENPOWER",
+        "MOVE_HYPERBEAM",
+        "MOVE_LIGHTSCREEN",
+        "MOVE_PROTECT",
+        "MOVE_FRUSTRATION",
+        "MOVE_RETURN",
+        "MOVE_DOUBLETEAM",
+        "MOVE_REFLECT",
+        "MOVE_FACADE",
+        "MOVE_SECRETPOWER",
+        "MOVE_REST",
+        "MOVE_ENDURE",
+        "MOVE_DRAGONPULSE",
+        "MOVE_EXPLOSION",
+        "MOVE_GIGAIMPACT",
+        "MOVE_SLEEPTALK",
+        "MOVE_SWAGGER",
+        "MOVE_SUBSTITUTE",
+        "MOVE_ROUND",
+        "MOVE_NATURALGIFT"
+    ],
+    "tutor": [
+        "MOVE_SNORE",
+        "MOVE_LASERFOCUS",
+        "MOVE_OUTRAGE",
+        "MOVE_CONFIDE",
+        "MOVE_FOCUSENERGY",
+        "MOVE_DRAGONDANCE",
+        "MOVE_THUNDERFANG",
+        "MOVE_FIREFANG",
+        "MOVE_BODYSLAM",
+        "MOVE_REVERSAL",
+        "MOVE_BREAKINGSWIPE",
+        "MOVE_CRUNCH",
+        "MOVE_SCALESHOT"
     ]
 }

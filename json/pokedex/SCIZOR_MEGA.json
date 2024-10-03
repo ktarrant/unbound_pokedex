@@ -105,5 +105,7 @@
             "level": 52,
             "move": "MOVE_SWORDSDANCE"
         }
-    ]
+    ],
+    "tm": [],
+    "tutor": []
 }

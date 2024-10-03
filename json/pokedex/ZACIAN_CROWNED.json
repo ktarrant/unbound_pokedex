@@ -87,5 +87,48 @@
             "level": 88,
             "move": "MOVE_PLAYROUGH"
         }
+    ],
+    "tm": [
+        "MOVE_HYPERBEAM",
+        "MOVE_PROTECT",
+        "MOVE_IRONTAIL",
+        "MOVE_DIG",
+        "MOVE_BRICKBREAK",
+        "MOVE_REST",
+        "MOVE_FOCUSBLAST",
+        "MOVE_FALSESWIPE",
+        "MOVE_ENDURE",
+        "MOVE_GIGAIMPACT",
+        "MOVE_SWORDSDANCE",
+        "MOVE_SLEEPTALK",
+        "MOVE_SUBSTITUTE",
+        "MOVE_WORKUP",
+        "MOVE_WILDCHARGE",
+        "MOVE_BRUTALSWING",
+        "MOVE_SNARL",
+        "MOVE_ROUND"
+    ],
+    "tutor": [
+        "MOVE_SNORE",
+        "MOVE_HELPINGHAND",
+        "MOVE_IRONHEAD",
+        "MOVE_LASERFOCUS",
+        "MOVE_HYPERVOICE",
+        "MOVE_CONFIDE",
+        "MOVE_FOCUSENERGY",
+        "MOVE_SCARYFACE",
+        "MOVE_AGILITY",
+        "MOVE_TAILSLAP",
+        "MOVE_THUNDERFANG",
+        "MOVE_ICEFANG",
+        "MOVE_FIREFANG",
+        "MOVE_REVERSAL",
+        "MOVE_AIRSLASH",
+        "MOVE_CRUNCH",
+        "MOVE_PLAYROUGH",
+        "MOVE_PSYCHICFANGS",
+        "MOVE_PSYCHOCUT",
+        "MOVE_CLOSECOMBAT",
+        "MOVE_SOLARBLADE"
     ]
 }

@@ -105,5 +105,7 @@
             "level": 65,
             "move": "MOVE_PERISHSONG"
         }
-    ]
+    ],
+    "tm": [],
+    "tutor": []
 }

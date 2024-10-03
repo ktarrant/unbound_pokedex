@@ -97,5 +97,7 @@
             "level": 56,
             "move": "MOVE_SKULLBASH"
         }
-    ]
+    ],
+    "tm": [],
+    "tutor": []
 }

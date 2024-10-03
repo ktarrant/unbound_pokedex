@@ -113,5 +113,7 @@
             "level": 75,
             "move": "MOVE_PSYCHOSHIFT"
         }
-    ]
+    ],
+    "tm": [],
+    "tutor": []
 }

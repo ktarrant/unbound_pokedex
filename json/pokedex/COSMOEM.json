@@ -43,5 +43,9 @@
             "level": 42,
             "move": "MOVE_COSMICPOWER"
         }
+    ],
+    "tm": [],
+    "tutor": [
+        "MOVE_COSMICPOWER"
     ]
 }

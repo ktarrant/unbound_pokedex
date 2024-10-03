@@ -82,5 +82,47 @@
             "level": 40,
             "move": "MOVE_DIG"
         }
+    ],
+    "tm": [
+        "MOVE_TOXIC",
+        "MOVE_HIDDENPOWER",
+        "MOVE_LIGHTSCREEN",
+        "MOVE_PROTECT",
+        "MOVE_RAINDANCE",
+        "MOVE_FRUSTRATION",
+        "MOVE_THUNDERBOLT",
+        "MOVE_RETURN",
+        "MOVE_DIG",
+        "MOVE_DOUBLETEAM",
+        "MOVE_SHOCKWAVE",
+        "MOVE_FACADE",
+        "MOVE_SECRETPOWER",
+        "MOVE_REST",
+        "MOVE_ATTRACT",
+        "MOVE_CHARGEBEAM",
+        "MOVE_ENDURE",
+        "MOVE_THUNDERWAVE",
+        "MOVE_XSCISSOR",
+        "MOVE_SLEEPTALK",
+        "MOVE_POISONJAB",
+        "MOVE_SWAGGER",
+        "MOVE_SUBSTITUTE",
+        "MOVE_VOLTSWITCH",
+        "MOVE_STRUGGLEBUG",
+        "MOVE_WILDCHARGE",
+        "MOVE_ACROBATICS",
+        "MOVE_ROUND",
+        "MOVE_NATURALGIFT"
+    ],
+    "tutor": [
+        "MOVE_SNORE",
+        "MOVE_ELECTROWEB",
+        "MOVE_BUGBITE",
+        "MOVE_MAGNETRISE",
+        "MOVE_CONFIDE",
+        "MOVE_SCREECH",
+        "MOVE_CRUNCH",
+        "MOVE_RISINGVOLTAGE",
+        "MOVE_SKITTERSMACK"
     ]
 }

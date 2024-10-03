@@ -108,5 +108,48 @@
             "level": 49,
             "move": "MOVE_SAFEGUARD"
         }
+    ],
+    "tm": [
+        "MOVE_WATERPULSE",
+        "MOVE_TOXIC",
+        "MOVE_HAIL",
+        "MOVE_HIDDENPOWER",
+        "MOVE_ICEBEAM",
+        "MOVE_BLIZZARD",
+        "MOVE_PROTECT",
+        "MOVE_RAINDANCE",
+        "MOVE_SAFEGUARD",
+        "MOVE_FRUSTRATION",
+        "MOVE_RETURN",
+        "MOVE_DOUBLETEAM",
+        "MOVE_FACADE",
+        "MOVE_SECRETPOWER",
+        "MOVE_REST",
+        "MOVE_ATTRACT",
+        "MOVE_BRINE",
+        "MOVE_ENDURE",
+        "MOVE_SLEEPTALK",
+        "MOVE_SCALD",
+        "MOVE_SWAGGER",
+        "MOVE_SUBSTITUTE",
+        "MOVE_DRAININGKISS",
+        "MOVE_ROUND",
+        "MOVE_NATURALGIFT",
+        "MOVE_SURF",
+        "MOVE_DIVE",
+        "MOVE_WATERFALL"
+    ],
+    "tutor": [
+        "MOVE_SNORE",
+        "MOVE_BOUNCE",
+        "MOVE_ICYWIND",
+        "MOVE_LIQUIDATION",
+        "MOVE_PSYCHUP",
+        "MOVE_CONFIDE",
+        "MOVE_AGILITY",
+        "MOVE_WHIRLPOOL",
+        "MOVE_HYDROPUMP",
+        "MOVE_SCALESHOT",
+        "MOVE_FLIPTURN"
     ]
 }

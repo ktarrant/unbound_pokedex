@@ -90,5 +90,7 @@
             "level": 65,
             "move": "MOVE_SUPERPOWER"
         }
-    ]
+    ],
+    "tm": [],
+    "tutor": []
 }

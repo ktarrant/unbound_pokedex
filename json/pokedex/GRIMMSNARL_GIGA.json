@@ -106,5 +106,7 @@
             "level": 64,
             "move": "MOVE_HAMMERARM"
         }
-    ]
+    ],
+    "tm": [],
+    "tutor": []
 }

@@ -101,5 +101,28 @@
             "level": 56,
             "move": "MOVE_SACREDSWORD"
         }
+    ],
+    "tm": [
+        "MOVE_TOXIC",
+        "MOVE_HIDDENPOWER",
+        "MOVE_FRUSTRATION",
+        "MOVE_RETURN",
+        "MOVE_DOUBLETEAM",
+        "MOVE_SHOCKWAVE",
+        "MOVE_AERIALACE",
+        "MOVE_FACADE",
+        "MOVE_SECRETPOWER",
+        "MOVE_SWAGGER",
+        "MOVE_NATURALGIFT",
+        "MOVE_CUT",
+        "MOVE_ROCKSMASH"
+    ],
+    "tutor": [
+        "MOVE_BLOCK",
+        "MOVE_SPITE",
+        "MOVE_AFTERYOU",
+        "MOVE_MAGNETRISE",
+        "MOVE_LASERFOCUS",
+        "MOVE_CONFIDE"
     ]
 }

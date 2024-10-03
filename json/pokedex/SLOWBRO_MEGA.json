@@ -101,5 +101,7 @@
             "level": 51,
             "move": "MOVE_HEALPULSE"
         }
-    ]
+    ],
+    "tm": [],
+    "tutor": []
 }

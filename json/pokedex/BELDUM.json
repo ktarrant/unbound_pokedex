@@ -42,5 +42,13 @@
             "level": 10,
             "move": "MOVE_STEELYHIT"
         }
+    ],
+    "tm": [
+        "MOVE_FLASH"
+    ],
+    "tutor": [
+        "MOVE_IRONDEFENSE",
+        "MOVE_IRONHEAD",
+        "MOVE_ZENHEADBUTT"
     ]
 }

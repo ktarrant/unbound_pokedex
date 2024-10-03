@@ -1,6 +1,7 @@
 {
  "tm": {
   "1": {
+   "key": "MOVE_FOCUSPUNCH",
    "name": "Focus Punch",
    "compatibility": [
     "CHARMANDER",
@@ -271,6 +272,7 @@
    ]
   },
   "2": {
+   "key": "MOVE_DRAGONCLAW",
    "name": "Dragon Claw",
    "compatibility": [
     "CHARMANDER",
@@ -379,6 +381,7 @@
    ]
   },
   "3": {
+   "key": "MOVE_WATERPULSE",
    "name": "Water Pulse",
    "compatibility": [
     "SQUIRTLE",
@@ -686,6 +689,7 @@
    ]
   },
   "4": {
+   "key": "MOVE_CALMMIND",
    "name": "Calm Mind",
    "compatibility": [
     "PIKACHU",
@@ -1012,6 +1016,7 @@
    ]
   },
   "5": {
+   "key": "MOVE_ROAR",
    "name": "Roar",
    "compatibility": [
     "VENUSAUR",
@@ -1305,6 +1310,7 @@
    ]
   },
   "6": {
+   "key": "MOVE_TOXIC",
    "name": "Toxic",
    "compatibility": [
     "BULBASAUR",
@@ -2424,6 +2430,7 @@
    ]
   },
   "7": {
+   "key": "MOVE_HAIL",
    "name": "Hail",
    "compatibility": [
     "SQUIRTLE",
@@ -2662,6 +2669,7 @@
    ]
   },
   "8": {
+   "key": "MOVE_BULKUP",
    "name": "Bulk Up",
    "compatibility": [
     "RATICATE_A",
@@ -2792,6 +2800,7 @@
    ]
   },
   "9": {
+   "key": "MOVE_BULLETSEED",
    "name": "Bullet Seed",
    "compatibility": [
     "BULBASAUR",
@@ -2917,6 +2926,7 @@
    ]
   },
   "10": {
+   "key": "MOVE_HIDDENPOWER",
    "name": "Hidden Power",
    "compatibility": [
     "BULBASAUR",
@@ -4073,6 +4083,7 @@
    ]
   },
   "11": {
+   "key": "MOVE_SUNNYDAY",
    "name": "Sunny Day",
    "compatibility": [
     "BULBASAUR",
@@ -4790,6 +4801,7 @@
    ]
   },
   "12": {
+   "key": "MOVE_TAUNT",
    "name": "Taunt",
    "compatibility": [
     "RATTATA",
@@ -5123,6 +5135,7 @@
    ]
   },
   "13": {
+   "key": "MOVE_ICEBEAM",
    "name": "Ice Beam",
    "compatibility": [
     "SQUIRTLE",
@@ -5465,6 +5478,7 @@
    ]
   },
   "14": {
+   "key": "MOVE_BLIZZARD",
    "name": "Blizzard",
    "compatibility": [
     "SQUIRTLE",
@@ -5756,6 +5770,7 @@
    ]
   },
   "15": {
+   "key": "MOVE_HYPERBEAM",
    "name": "Hyper Beam",
    "compatibility": [
     "VENUSAUR",
@@ -6364,6 +6379,7 @@
    ]
   },
   "16": {
+   "key": "MOVE_LIGHTSCREEN",
    "name": "Light Screen",
    "compatibility": [
     "BULBASAUR",
@@ -6763,6 +6779,7 @@
    ]
   },
   "17": {
+   "key": "MOVE_PROTECT",
    "name": "Protect",
    "compatibility": [
     "BULBASAUR",
@@ -7884,6 +7901,7 @@
    ]
   },
   "18": {
+   "key": "MOVE_RAINDANCE",
    "name": "Rain Dance",
    "compatibility": [
     "SQUIRTLE",
@@ -8614,6 +8632,7 @@
    ]
   },
   "19": {
+   "key": "MOVE_GIGADRAIN",
    "name": "Giga Drain",
    "compatibility": [
     "BULBASAUR",
@@ -8903,6 +8922,7 @@
    ]
   },
   "20": {
+   "key": "MOVE_SAFEGUARD",
    "name": "Safeguard",
    "compatibility": [
     "BULBASAUR",
@@ -9284,6 +9304,7 @@
    ]
   },
   "21": {
+   "key": "MOVE_FRUSTRATION",
    "name": "Frustration",
    "compatibility": [
     "BULBASAUR",
@@ -10406,6 +10427,7 @@
    ]
   },
   "22": {
+   "key": "MOVE_SOLARBEAM",
    "name": "Solarbeam",
    "compatibility": [
     "BULBASAUR",
@@ -10798,6 +10820,7 @@
    ]
   },
   "23": {
+   "key": "MOVE_IRONTAIL",
    "name": "Iron Tail",
    "compatibility": [
     "CHARMANDER",
@@ -11197,6 +11220,7 @@
    ]
   },
   "24": {
+   "key": "MOVE_THUNDERBOLT",
    "name": "Thunderbolt",
    "compatibility": [
     "RATTATA",
@@ -11528,6 +11552,7 @@
    ]
   },
   "25": {
+   "key": "MOVE_THUNDER",
    "name": "Thunder",
    "compatibility": [
     "RATTATA",
@@ -11800,6 +11825,7 @@
    ]
   },
   "26": {
+   "key": "MOVE_EARTHQUAKE",
    "name": "Earthquake",
    "compatibility": [
     "VENUSAUR",
@@ -12118,6 +12144,7 @@
    ]
   },
   "27": {
+   "key": "MOVE_RETURN",
    "name": "Return",
    "compatibility": [
     "BULBASAUR",
@@ -13242,6 +13269,7 @@
    ]
   },
   "28": {
+   "key": "MOVE_DIG",
    "name": "Dig",
    "compatibility": [
     "CHARMANDER",
@@ -13636,6 +13664,7 @@
    ]
   },
   "29": {
+   "key": "MOVE_PSYCHIC",
    "name": "Psychic",
    "compatibility": [
     "BUTTERFREE",
@@ -13976,6 +14005,7 @@
    ]
   },
   "30": {
+   "key": "MOVE_SHADOWBALL",
    "name": "Shadow Ball",
    "compatibility": [
     "BUTTERFREE",
@@ -14364,6 +14394,7 @@
    ]
   },
   "31": {
+   "key": "MOVE_BRICKBREAK",
    "name": "Brick Break",
    "compatibility": [
     "CHARMANDER",
@@ -14733,6 +14764,7 @@
    ]
   },
   "32": {
+   "key": "MOVE_DOUBLETEAM",
    "name": "Double Team",
    "compatibility": [
     "BULBASAUR",
@@ -15855,6 +15887,7 @@
    ]
   },
   "33": {
+   "key": "MOVE_REFLECT",
    "name": "Reflect",
    "compatibility": [
     "PIKACHU",
@@ -16144,6 +16177,7 @@
    ]
   },
   "34": {
+   "key": "MOVE_SHOCKWAVE",
    "name": "Shock Wave",
    "compatibility": [
     "RATTATA",
@@ -16522,6 +16556,7 @@
    ]
   },
   "35": {
+   "key": "MOVE_FLAMETHROWER",
    "name": "Flamethrower",
    "compatibility": [
     "CHARMANDER",
@@ -16779,6 +16814,7 @@
    ]
   },
   "36": {
+   "key": "MOVE_SLUDGEBOMB",
    "name": "Sludge Bomb",
    "compatibility": [
     "BULBASAUR",
@@ -16986,6 +17022,7 @@
    ]
   },
   "37": {
+   "key": "MOVE_SANDSTORM",
    "name": "Sandstorm",
    "compatibility": [
     "SANDSHREW",
@@ -17246,6 +17283,7 @@
    ]
   },
   "38": {
+   "key": "MOVE_FIREBLAST",
    "name": "Fire Blast",
    "compatibility": [
     "CHARMANDER",
@@ -17461,6 +17499,7 @@
    ]
   },
   "39": {
+   "key": "MOVE_ROCKTOMB",
    "name": "Rock Tomb",
    "compatibility": [
     "CHARMANDER",
@@ -17869,6 +17908,7 @@
    ]
   },
   "40": {
+   "key": "MOVE_AERIALACE",
    "name": "Aerial Ace",
    "compatibility": [
     "CHARMANDER",
@@ -18291,6 +18331,7 @@
    ]
   },
   "41": {
+   "key": "MOVE_TORMENT",
    "name": "Torment",
    "compatibility": [
     "RATTATA_A",
@@ -18526,6 +18567,7 @@
    ]
   },
   "42": {
+   "key": "MOVE_FACADE",
    "name": "Fa\u00e7ade",
    "compatibility": [
     "BULBASAUR",
@@ -19641,6 +19683,7 @@
    ]
   },
   "43": {
+   "key": "MOVE_SECRETPOWER",
    "name": "Secret Power",
    "compatibility": [
     "BULBASAUR",
@@ -20772,6 +20815,7 @@
    ]
   },
   "44": {
+   "key": "MOVE_REST",
    "name": "Rest",
    "compatibility": [
     "BULBASAUR",
@@ -21888,6 +21932,7 @@
    ]
   },
   "45": {
+   "key": "MOVE_ATTRACT",
    "name": "Attract",
    "compatibility": [
     "BULBASAUR",
@@ -22806,6 +22851,7 @@
    ]
   },
   "46": {
+   "key": "MOVE_THIEF",
    "name": "Thief",
    "compatibility": [
     "BUTTERFREE",
@@ -23245,6 +23291,7 @@
    ]
   },
   "47": {
+   "key": "MOVE_STEELWING",
    "name": "Steel Wing",
    "compatibility": [
     "CHARIZARD",
@@ -23378,6 +23425,7 @@
    ]
   },
   "48": {
+   "key": "MOVE_SKILLSWAP",
    "name": "Skill Swap",
    "compatibility": [
     "BUTTERFREE",
@@ -23521,6 +23569,7 @@
    ]
   },
   "49": {
+   "key": "MOVE_LEECHFANG",
    "name": "Leech Fang",
    "compatibility": [
     "SANDSHREW",
@@ -23591,6 +23640,7 @@
    ]
   },
   "50": {
+   "key": "MOVE_OVERHEAT",
    "name": "Overheat",
    "compatibility": [
     "CHARMANDER",
@@ -23707,6 +23757,7 @@
    ]
   },
   "51": {
+   "key": "MOVE_ROOST",
    "name": "Roost",
    "compatibility": [
     "CHARIZARD",
@@ -23869,6 +23920,7 @@
    ]
   },
   "52": {
+   "key": "MOVE_FOCUSBLAST",
    "name": "Focus Blast",
    "compatibility": [
     "CHARIZARD",
@@ -24125,6 +24177,7 @@
    ]
   },
   "53": {
+   "key": "MOVE_ENERGYBALL",
    "name": "Energy Ball",
    "compatibility": [
     "BULBASAUR",
@@ -24434,6 +24487,7 @@
    ]
   },
   "54": {
+   "key": "MOVE_FALSESWIPE",
    "name": "False Swipe",
    "compatibility": [
     "BULBASAUR",
@@ -24549,6 +24603,7 @@
    ]
   },
   "55": {
+   "key": "MOVE_BRINE",
    "name": "Brine",
    "compatibility": [
     "SQUIRTLE",
@@ -24695,6 +24750,7 @@
    ]
   },
   "56": {
+   "key": "MOVE_HONECLAWS",
    "name": "Hone Claws",
    "compatibility": [
     "CHARMANDER",
@@ -24954,6 +25010,7 @@
    ]
   },
   "57": {
+   "key": "MOVE_CHARGEBEAM",
    "name": "Charge Beam",
    "compatibility": [
     "RATTATA",
@@ -25248,6 +25305,7 @@
    ]
   },
   "58": {
+   "key": "MOVE_ENDURE",
    "name": "Endure",
    "compatibility": [
     "BULBASAUR",
@@ -26365,6 +26423,7 @@
    ]
   },
   "59": {
+   "key": "MOVE_DRAGONPULSE",
    "name": "Dragon Pulse",
    "compatibility": [
     "CHARMANDER",
@@ -26505,6 +26564,7 @@
    ]
   },
   "60": {
+   "key": "MOVE_DRAINPUNCH",
    "name": "Drain Punch",
    "compatibility": [
     "CLEFAIRY",
@@ -26648,6 +26708,7 @@
    ]
   },
   "61": {
+   "key": "MOVE_WILLOWISP",
    "name": "Will-o-Wisp",
    "compatibility": [
     "CHARMANDER",
@@ -26817,6 +26878,7 @@
    ]
   },
   "62": {
+   "key": "MOVE_SILVERWIND",
    "name": "Silver Wind",
    "compatibility": [
     "BUTTERFREE",
@@ -26944,6 +27006,7 @@
    ]
   },
   "63": {
+   "key": "MOVE_VENOSHOCK",
    "name": "Venoshock",
    "compatibility": [
     "BULBASAUR",
@@ -27060,6 +27123,7 @@
    ]
   },
   "64": {
+   "key": "MOVE_EXPLOSION",
    "name": "Explosion",
    "compatibility": [
     "GEODUDE",
@@ -27211,6 +27275,7 @@
    ]
   },
   "65": {
+   "key": "MOVE_SHADOWCLAW",
    "name": "Shadow Claw",
    "compatibility": [
     "CHARMANDER",
@@ -27441,6 +27506,7 @@
    ]
   },
   "66": {
+   "key": "MOVE_PAYBACK",
    "name": "Payback",
    "compatibility": [
     "BEEDRILL",
@@ -27801,6 +27867,7 @@
    ]
   },
   "67": {
+   "key": "MOVE_RECYCLE",
    "name": "Recycle",
    "compatibility": [
     "RAICHU_A",
@@ -27968,6 +28035,7 @@
    ]
   },
   "68": {
+   "key": "MOVE_GIGAIMPACT",
    "name": "Giga Impact",
    "compatibility": [
     "VENUSAUR",
@@ -28600,6 +28668,7 @@
    ]
   },
   "69": {
+   "key": "MOVE_ROCKPOLISH",
    "name": "Rock Polish",
    "compatibility": [
     "GROWLITHE_H",
@@ -28734,6 +28803,7 @@
    ]
   },
   "70": {
+   "key": "MOVE_FLASH",
    "name": "Flash",
    "compatibility": [
     "BULBASAUR",
@@ -29242,6 +29312,7 @@
    ]
   },
   "71": {
+   "key": "MOVE_STONEEDGE",
    "name": "Stone Edge",
    "compatibility": [
     "SANDSLASH",
@@ -29482,6 +29553,7 @@
    ]
   },
   "72": {
+   "key": "MOVE_AVALANCHE",
    "name": "Avalanche",
    "compatibility": [
     "BLASTOISE",
@@ -29595,6 +29667,7 @@
    ]
   },
   "73": {
+   "key": "MOVE_THUNDERWAVE",
    "name": "Thunder Wave",
    "compatibility": [
     "RATTATA",
@@ -29943,6 +30016,7 @@
    ]
   },
   "74": {
+   "key": "MOVE_GYROBALL",
    "name": "Gyro Ball",
    "compatibility": [
     "SQUIRTLE",
@@ -30087,6 +30161,7 @@
    ]
   },
   "75": {
+   "key": "MOVE_SWORDSDANCE",
    "name": "Swords Dance",
    "compatibility": [
     "BULBASAUR",
@@ -30392,6 +30467,7 @@
    ]
   },
   "76": {
+   "key": "MOVE_STEALTHROCK",
    "name": "Stealth Rock",
    "compatibility": [
     "SANDSHREW",
@@ -30610,6 +30686,7 @@
    ]
   },
   "77": {
+   "key": "MOVE_FLAMECHARGE",
    "name": "Flame Charge",
    "compatibility": [
     "CHARMANDER",
@@ -30737,6 +30814,7 @@
    ]
   },
   "78": {
+   "key": "MOVE_LOWSWEEP",
    "name": "Low Sweep",
    "compatibility": [
     "GOLDUCK",
@@ -30857,6 +30935,7 @@
    ]
   },
   "79": {
+   "key": "MOVE_DARKPULSE",
    "name": "Dark Pulse",
    "compatibility": [
     "BLASTOISE",
@@ -31092,6 +31171,7 @@
    ]
   },
   "80": {
+   "key": "MOVE_ROCKSLIDE",
    "name": "Rock Slide",
    "compatibility": [
     "CHARMANDER",
@@ -31523,6 +31603,7 @@
    ]
   },
   "81": {
+   "key": "MOVE_XSCISSOR",
    "name": "X-Scissor",
    "compatibility": [
     "BEEDRILL",
@@ -31668,6 +31749,7 @@
    ]
   },
   "82": {
+   "key": "MOVE_SLEEPTALK",
    "name": "Sleep Talk",
    "compatibility": [
     "BULBASAUR",
@@ -32783,6 +32865,7 @@
    ]
   },
   "83": {
+   "key": "MOVE_SCALD",
    "name": "Scald",
    "compatibility": [
     "SQUIRTLE",
@@ -32950,6 +33033,7 @@
    ]
   },
   "84": {
+   "key": "MOVE_POISONJAB",
    "name": "Poison Jab",
    "compatibility": [
     "BEEDRILL",
@@ -33146,6 +33230,7 @@
    ]
   },
   "85": {
+   "key": "MOVE_DREAMEATER",
    "name": "Dream Eater",
    "compatibility": [
     "BUTTERFREE",
@@ -33427,6 +33512,7 @@
    ]
   },
   "86": {
+   "key": "MOVE_GRASSKNOT",
    "name": "Grass Knot",
    "compatibility": [
     "BULBASAUR",
@@ -33821,6 +33907,7 @@
    ]
   },
   "87": {
+   "key": "MOVE_SWAGGER",
    "name": "Swagger",
    "compatibility": [
     "BULBASAUR",
@@ -34938,6 +35025,7 @@
    ]
   },
   "88": {
+   "key": "MOVE_PLUCK",
    "name": "Pluck",
    "compatibility": [
     "PIDGEY",
@@ -35038,6 +35126,7 @@
    ]
   },
   "89": {
+   "key": "MOVE_UTURN",
    "name": "U-Turn",
    "compatibility": [
     "BUTTERFREE",
@@ -35300,6 +35389,7 @@
    ]
   },
   "90": {
+   "key": "MOVE_SUBSTITUTE",
    "name": "Substitute",
    "compatibility": [
     "BULBASAUR",
@@ -36417,6 +36507,7 @@
    ]
   },
   "91": {
+   "key": "MOVE_FLASHCANNON",
    "name": "Flash Cannon",
    "compatibility": [
     "BLASTOISE",
@@ -36578,6 +36669,7 @@
    ]
   },
   "92": {
+   "key": "MOVE_VOLTSWITCH",
    "name": "Volt Switch",
    "compatibility": [
     "PIKACHU",
@@ -36673,6 +36765,7 @@
    ]
   },
   "93": {
+   "key": "MOVE_DRAGONTAIL",
    "name": "Dragon Tail",
    "compatibility": [
     "CHARIZARD",
@@ -36770,6 +36863,7 @@
    ]
   },
   "94": {
+   "key": "MOVE_INCINERATE",
    "name": "Incinerate",
    "compatibility": [
     "CHARMANDER",
@@ -37034,6 +37128,7 @@
    ]
   },
   "95": {
+   "key": "MOVE_STRUGGLEBUG",
    "name": "Struggle Bug",
    "compatibility": [
     "BUTTERFREE",
@@ -37147,6 +37242,7 @@
    ]
   },
   "96": {
+   "key": "MOVE_BULLDOZE",
    "name": "Bulldoze",
    "compatibility": [
     "VENUSAUR",
@@ -37498,6 +37594,7 @@
    ]
   },
   "97": {
+   "key": "MOVE_FROSTBREATH",
    "name": "Frost Breath",
    "compatibility": [
     "SANDSHREW_A",
@@ -37554,6 +37651,7 @@
    ]
   },
   "98": {
+   "key": "MOVE_WORKUP",
    "name": "Work Up",
    "compatibility": [
     "BULBASAUR",
@@ -37918,6 +38016,7 @@
    ]
   },
   "99": {
+   "key": "MOVE_WILDCHARGE",
    "name": "Wild Charge",
    "compatibility": [
     "RATTATA",
@@ -38078,6 +38177,7 @@
    ]
   },
   "100": {
+   "key": "MOVE_INFESTATION",
    "name": "Infestation",
    "compatibility": [
     "BUTTERFREE",
@@ -38244,6 +38344,7 @@
    ]
   },
   "101": {
+   "key": "MOVE_POWERUPPUNCH",
    "name": "Power-Up Punch",
    "compatibility": [
     "CHARMANDER",
@@ -38513,6 +38614,7 @@
    ]
   },
   "102": {
+   "key": "MOVE_DAZZLINGGLEAM",
    "name": "Dazzling Gleam",
    "compatibility": [
     "CLEFAIRY",
@@ -38707,6 +38809,7 @@
    ]
   },
   "103": {
+   "key": "MOVE_SLUDGEWAVE",
    "name": "Sludge Wave",
    "compatibility": [
     "RATICATE_A",
@@ -38803,6 +38906,7 @@
    ]
   },
   "104": {
+   "key": "MOVE_PSYSHOCK",
    "name": "Psyshock",
    "compatibility": [
     "RAICHU_A",
@@ -38962,6 +39066,7 @@
    ]
   },
   "105": {
+   "key": "MOVE_BRUTALSWING",
    "name": "Brutal Swing",
    "compatibility": [
     "CHARIZARD",
@@ -39139,6 +39244,7 @@
    ]
   },
   "106": {
+   "key": "MOVE_SMARTSTRIKE",
    "name": "Smart Strike",
    "compatibility": [
     "NIDORAN_M",
@@ -39192,6 +39298,7 @@
    ]
   },
   "107": {
+   "key": "MOVE_ACROBATICS",
    "name": "Acrobatics",
    "compatibility": [
     "CHARMANDER",
@@ -39356,6 +39463,7 @@
    ]
   },
   "108": {
+   "key": "MOVE_SNARL",
    "name": "Snarl",
    "compatibility": [
     "RATTATA_A",
@@ -39518,6 +39626,7 @@
    ]
   },
   "109": {
+   "key": "MOVE_DEFOG",
    "name": "Defog",
    "compatibility": [
     "CHARIZARD",
@@ -39753,6 +39862,7 @@
    ]
   },
   "110": {
+   "key": "MOVE_DRAININGKISS",
    "name": "Draining Kiss",
    "compatibility": [
     "BUTTERFREE",
@@ -39879,6 +39989,7 @@
    ]
   },
   "111": {
+   "key": "MOVE_SMACKDOWN",
    "name": "Smack Down",
    "compatibility": [
     "BLASTOISE",
@@ -40033,6 +40144,7 @@
    ]
   },
   "112": {
+   "key": "MOVE_ROUND",
    "name": "Round",
    "compatibility": [
     "BULBASAUR",
@@ -41145,6 +41257,7 @@
    ]
   },
   "113": {
+   "key": "MOVE_ECHOEDVOICE",
    "name": "Echoed Voice",
    "compatibility": [
     "BULBASAUR",
@@ -41482,6 +41595,7 @@
    ]
   },
   "114": {
+   "key": "MOVE_NATURALGIFT",
    "name": "Natural Gift",
    "compatibility": [
     "BULBASAUR",
@@ -42616,6 +42730,7 @@
    ]
   },
   "115": {
+   "key": "MOVE_QUASH",
    "name": "Quash",
    "compatibility": [
     "RATTATA_A",
@@ -42699,6 +42814,7 @@
    ]
   },
   "116": {
+   "key": "MOVE_TRICKROOM",
    "name": "Trick Room",
    "compatibility": [
     "ABRA",
@@ -42875,6 +42991,7 @@
    ]
   },
   "117": {
+   "key": "MOVE_FLING",
    "name": "Fling",
    "compatibility": [
     "CHARMANDER",
@@ -43274,6 +43391,7 @@
    ]
   },
   "118": {
+   "key": "MOVE_AURORAVEIL",
    "name": "Aurora Veil",
    "compatibility": [
     "SANDSHREW_A",
@@ -43313,6 +43431,7 @@
    ]
   },
   "119": {
+   "key": "MOVE_SKYDROP",
    "name": "Sky Drop",
    "compatibility": [
     "CHARIZARD",
@@ -43348,6 +43467,7 @@
    ]
   },
   "120": {
+   "key": "MOVE_NATUREPOWER",
    "name": "Nature Power",
    "compatibility": [
     "BULBASAUR",
@@ -43553,6 +43673,7 @@
    ]
   },
   "121": {
+   "key": "MOVE_CUT",
    "name": "Cut",
    "compatibility": [
     "BULBASAUR",
@@ -43960,6 +44081,7 @@
    ]
   },
   "122": {
+   "key": "MOVE_FLY",
    "name": "Fly",
    "compatibility": [
     "CHARIZARD",
@@ -44102,6 +44224,7 @@
    ]
   },
   "123": {
+   "key": "MOVE_SURF",
    "name": "Surf",
    "compatibility": [
     "SQUIRTLE",
@@ -44398,6 +44521,7 @@
    ]
   },
   "124": {
+   "key": "MOVE_STRENGTH",
    "name": "Strength",
    "compatibility": [
     "BULBASAUR",
@@ -44913,6 +45037,7 @@
    ]
   },
   "125": {
+   "key": "MOVE_DIVE",
    "name": "Dive",
    "compatibility": [
     "SQUIRTLE",
@@ -45088,6 +45213,7 @@
    ]
   },
   "126": {
+   "key": "MOVE_ROCKSMASH",
    "name": "Rock Smash",
    "compatibility": [
     "BULBASAUR",
@@ -45650,6 +45776,7 @@
    ]
   },
   "127": {
+   "key": "MOVE_WATERFALL",
    "name": "Waterfall",
    "compatibility": [
     "SQUIRTLE",
@@ -45808,6 +45935,7 @@
    ]
   },
   "128": {
+   "key": "MOVE_ROCKCLIMB",
    "name": "Rock Climb",
    "compatibility": [
     "VENUSAUR",
@@ -46053,6 +46181,7 @@
  },
  "tutor": {
   "1": {
+   "key": "MOVE_FIREPUNCH",
    "name": "Fire Punch",
    "compatibility": [
     "CHARMANDER",
@@ -46233,6 +46362,7 @@
    ]
   },
   "2": {
+   "key": "MOVE_ICEPUNCH",
    "name": "Ice Punch",
    "compatibility": [
     "SQUIRTLE",
@@ -46430,6 +46560,7 @@
    ]
   },
   "3": {
+   "key": "MOVE_THUNDERPUNCH",
    "name": "Thunder Punch",
    "compatibility": [
     "CHARMANDER",
@@ -46660,6 +46791,7 @@
    ]
   },
   "4": {
+   "key": "MOVE_SNORE",
    "name": "Snore",
    "compatibility": [
     "BULBASAUR",
@@ -47777,6 +47909,7 @@
    ]
   },
   "5": {
+   "key": "MOVE_HEALBELL",
    "name": "Heal Bell",
    "compatibility": [
     "CLEFAIRY",
@@ -47880,6 +48013,7 @@
    ]
   },
   "6": {
+   "key": "MOVE_ELECTROWEB",
    "name": "Electroweb",
    "compatibility": [
     "CATERPIE",
@@ -48001,6 +48135,7 @@
    ]
   },
   "7": {
+   "key": "MOVE_LOWKICK",
    "name": "Low Kick",
    "compatibility": [
     "GOLDUCK",
@@ -48183,6 +48318,7 @@
    ]
   },
   "8": {
+   "key": "MOVE_UPROAR",
    "name": "Uproar",
    "compatibility": [
     "PIDGEY",
@@ -48525,6 +48661,7 @@
    ]
   },
   "9": {
+   "key": "MOVE_BIND",
    "name": "Bind",
    "compatibility": [
     "BULBASAUR",
@@ -48617,6 +48754,7 @@
    ]
   },
   "10": {
+   "key": "MOVE_HELPINGHAND",
    "name": "Helping Hand",
    "compatibility": [
     "BULBASAUR",
@@ -49001,6 +49139,7 @@
    ]
   },
   "11": {
+   "key": "MOVE_BLOCK",
    "name": "Block",
    "compatibility": [
     "BULBASAUR",
@@ -49145,6 +49284,7 @@
    ]
   },
   "12": {
+   "key": "MOVE_WORRYSEED",
    "name": "Worry Seed",
    "compatibility": [
     "BULBASAUR",
@@ -49298,6 +49438,7 @@
    ]
   },
   "13": {
+   "key": "MOVE_COVET",
    "name": "Covet",
    "compatibility": [
     "RATTATA",
@@ -49576,6 +49717,7 @@
    ]
   },
   "14": {
+   "key": "MOVE_BUGBITE",
    "name": "Bug Bite",
    "compatibility": [
     "CATERPIE",
@@ -49704,6 +49846,7 @@
    ]
   },
   "15": {
+   "key": "MOVE_SNATCH",
    "name": "Snatch",
    "compatibility": [
     "RATTATA_A",
@@ -49900,6 +50043,7 @@
    ]
   },
   "16": {
+   "key": "MOVE_SPITE",
    "name": "Spite",
    "compatibility": [
     "EKANS",
@@ -50084,6 +50228,7 @@
    ]
   },
   "17": {
+   "key": "MOVE_AFTERYOU",
    "name": "After You",
    "compatibility": [
     "CLEFAIRY",
@@ -50216,6 +50361,7 @@
    ]
   },
   "18": {
+   "key": "MOVE_SYNTHESIS",
    "name": "Synthesis",
    "compatibility": [
     "BULBASAUR",
@@ -50363,6 +50509,7 @@
    ]
   },
   "19": {
+   "key": "MOVE_SIGNALBEAM",
    "name": "Signal Beam",
    "compatibility": [
     "BLASTOISE",
@@ -50716,6 +50863,7 @@
    ]
   },
   "20": {
+   "key": "MOVE_GRAVITY",
    "name": "Gravity",
    "compatibility": [
     "CLEFAIRY",
@@ -50867,6 +51015,7 @@
    ]
   },
   "21": {
+   "key": "MOVE_IRONDEFENSE",
    "name": "Iron Defense",
    "compatibility": [
     "SQUIRTLE",
@@ -51174,6 +51323,7 @@
    ]
   },
   "22": {
+   "key": "MOVE_TELEKINESIS",
    "name": "Telekinesis",
    "compatibility": [
     "RAICHU_A",
@@ -51401,6 +51551,7 @@
    ]
   },
   "23": {
+   "key": "MOVE_MAGNETRISE",
    "name": "Magnet Rise",
    "compatibility": [
     "PIKACHU",
@@ -51549,6 +51700,7 @@
    ]
   },
   "24": {
+   "key": "MOVE_BOUNCE",
    "name": "Bounce",
    "compatibility": [
     "CLEFAIRY",
@@ -51692,6 +51844,7 @@
    ]
   },
   "25": {
+   "key": "MOVE_ROLEPLAY",
    "name": "Role Play",
    "compatibility": [
     "CLEFAIRY",
@@ -51869,6 +52022,7 @@
    ]
   },
   "26": {
+   "key": "MOVE_IRONHEAD",
    "name": "Iron Head",
    "compatibility": [
     "SANDSHREW_A",
@@ -52105,6 +52259,7 @@
    ]
   },
   "27": {
+   "key": "MOVE_AQUATAIL",
    "name": "Aqua Tail",
    "compatibility": [
     "SQUIRTLE",
@@ -52280,6 +52435,7 @@
    ]
   },
   "28": {
+   "key": "MOVE_PAINSPLIT",
    "name": "Pain Split",
    "compatibility": [
     "VULPIX",
@@ -52437,6 +52593,7 @@
    ]
   },
   "29": {
+   "key": "MOVE_TAILWIND",
    "name": "Tailwind",
    "compatibility": [
     "CHARIZARD",
@@ -52631,6 +52788,7 @@
    ]
   },
   "30": {
+   "key": "MOVE_ENDEAVOR",
    "name": "Endeavor",
    "compatibility": [
     "BEEDRILL",
@@ -52902,6 +53060,7 @@
    ]
   },
   "31": {
+   "key": "MOVE_ICYWIND",
    "name": "Icy Wind",
    "compatibility": [
     "SQUIRTLE",
@@ -53254,6 +53413,7 @@
    ]
   },
   "32": {
+   "key": "MOVE_ZENHEADBUTT",
    "name": "Zen Headbutt",
    "compatibility": [
     "SQUIRTLE",
@@ -53582,6 +53742,7 @@
    ]
   },
   "33": {
+   "key": "MOVE_SEEDBOMB",
    "name": "Seed Bomb",
    "compatibility": [
     "BULBASAUR",
@@ -53774,6 +53935,7 @@
    ]
   },
   "34": {
+   "key": "MOVE_LASERFOCUS",
    "name": "Laser Focus",
    "compatibility": [
     "BEEDRILL",
@@ -54064,6 +54226,7 @@
    ]
   },
   "35": {
+   "key": "MOVE_TRICK",
    "name": "Trick",
    "compatibility": [
     "CLEFAIRY",
@@ -54261,6 +54424,7 @@
    ]
   },
   "36": {
+   "key": "MOVE_DRILLRUN",
    "name": "Drill Run",
    "compatibility": [
     "BEEDRILL",
@@ -54307,6 +54471,7 @@
    ]
   },
   "37": {
+   "key": "MOVE_MAGICCOAT",
    "name": "Magic Coat",
    "compatibility": [
     "RAICHU_A",
@@ -54551,6 +54716,7 @@
    ]
   },
   "38": {
+   "key": "MOVE_MAGICROOM",
    "name": "Magic Room",
    "compatibility": [
     "RAICHU_A",
@@ -54636,6 +54802,7 @@
    ]
   },
   "39": {
+   "key": "MOVE_WONDERROOM",
    "name": "Wonder Room",
    "compatibility": [
     "CLEFAIRY",
@@ -54763,6 +54930,7 @@
    ]
   },
   "40": {
+   "key": "MOVE_LIQUIDATION",
    "name": "Liquidation",
    "compatibility": [
     "BLASTOISE",
@@ -54893,6 +55061,7 @@
    ]
   },
   "41": {
+   "key": "MOVE_GASTROACID",
    "name": "Gastro Acid",
    "compatibility": [
     "EKANS",
@@ -54958,6 +55127,7 @@
    ]
   },
   "42": {
+   "key": "MOVE_FOULPLAY",
    "name": "Foul Play",
    "compatibility": [
     "VULPIX",
@@ -55118,6 +55288,7 @@
    ]
   },
   "43": {
+   "key": "MOVE_SUPERFANG",
    "name": "Super Fang",
    "compatibility": [
     "RATTATA",
@@ -55196,6 +55367,7 @@
    ]
   },
   "44": {
+   "key": "MOVE_OUTRAGE",
    "name": "Outrage",
    "compatibility": [
     "VENUSAUR",
@@ -55375,6 +55547,7 @@
    ]
   },
   "45": {
+   "key": "MOVE_SKYATTACK",
    "name": "Sky Attack",
    "compatibility": [
     "PIDGEY",
@@ -55452,6 +55625,7 @@
    ]
   },
   "46": {
+   "key": "MOVE_THROATCHOP",
    "name": "Throat Chop",
    "compatibility": [
     "BEEDRILL",
@@ -55595,6 +55769,7 @@
    ]
   },
   "47": {
+   "key": "MOVE_STOMPINGTANTRUM",
    "name": "Stomping Tantrum",
    "compatibility": [
     "VENUSAUR",
@@ -55811,6 +55986,7 @@
    ]
   },
   "48": {
+   "key": "MOVE_EARTHPOWER",
    "name": "Earth Power",
    "compatibility": [
     "VENUSAUR",
@@ -56023,6 +56199,7 @@
    ]
   },
   "49": {
+   "key": "MOVE_GUNKSHOT",
    "name": "Gunk Shot",
    "compatibility": [
     "EKANS",
@@ -56123,6 +56300,7 @@
    ]
   },
   "50": {
+   "key": "MOVE_DUALCHOP",
    "name": "Dual Chop",
    "compatibility": [
     "MANKEY",
@@ -56203,6 +56381,7 @@
    ]
   },
   "51": {
+   "key": "MOVE_HEATWAVE",
    "name": "Heat Wave",
    "compatibility": [
     "CHARMANDER",
@@ -56389,6 +56568,7 @@
    ]
   },
   "52": {
+   "key": "MOVE_HYPERVOICE",
    "name": "Hyper Voice",
    "compatibility": [
     "CLEFAIRY",
@@ -56628,6 +56808,7 @@
    ]
   },
   "53": {
+   "key": "MOVE_SUPERPOWER",
    "name": "Superpower",
    "compatibility": [
     "NIDOQUEEN",
@@ -56842,6 +57023,7 @@
    ]
   },
   "54": {
+   "key": "MOVE_KNOCKOFF",
    "name": "Knock Off",
    "compatibility": [
     "BULBASAUR",
@@ -57135,6 +57317,7 @@
    ]
   },
   "55": {
+   "key": "MOVE_PSYCHUP",
    "name": "Psych Up",
    "compatibility": [
     "BUTTERFREE",
@@ -57476,6 +57659,7 @@
    ]
   },
   "56": {
+   "key": "MOVE_VACUUMWAVE",
    "name": "Vacuum Wave",
    "compatibility": [
     "MANKEY",
@@ -57514,6 +57698,7 @@
    ]
   },
   "57": {
+   "key": "MOVE_LASTRESORT",
    "name": "Last Resort",
    "compatibility": [
     "RATTATA",
@@ -57713,6 +57898,7 @@
    ]
   },
   "58": {
+   "key": "MOVE_CONFIDE",
    "name": "Confide",
    "compatibility": [
     "BULBASAUR",
@@ -58836,6 +59022,7 @@
    ]
   },
   "59": {
+   "key": "MOVE_GRASSPLEDGE",
    "name": "Grass Pledge",
    "compatibility": [
     "BULBASAUR",
@@ -58886,6 +59073,7 @@
    ]
   },
   "60": {
+   "key": "MOVE_FIREPLEDGE",
    "name": "Fire Pledge",
    "compatibility": [
     "CHARMANDER",
@@ -58936,6 +59124,7 @@
    ]
   },
   "61": {
+   "key": "MOVE_WATERPLEDGE",
    "name": "Water Pledge",
    "compatibility": [
     "SQUIRTLE",
@@ -58987,6 +59176,7 @@
    ]
   },
   "62": {
+   "key": "MOVE_FRENZYPLANT",
    "name": "Frenzy Plant",
    "compatibility": [
     "VENUSAUR",
@@ -59003,6 +59193,7 @@
    ]
   },
   "63": {
+   "key": "MOVE_BLASTBURN",
    "name": "Blast Burn",
    "compatibility": [
     "CHARIZARD",
@@ -59037,6 +59228,7 @@
    ]
   },
   "64": {
+   "key": "MOVE_HYDROCANNON",
    "name": "Hydro Cannon",
    "compatibility": [
     "BLASTOISE",
@@ -59072,6 +59264,7 @@
    ]
   },
   "65": {
+   "key": "MOVE_FOCUSENERGY",
    "name": "Focus Energy",
    "compatibility": [
     "BEEDRILL",
@@ -59241,6 +59434,7 @@
    ]
   },
   "66": {
+   "key": "MOVE_COSMICPOWER",
    "name": "Cosmic Power",
    "compatibility": [
     "CLEFAIRY",
@@ -59311,6 +59505,7 @@
    ]
   },
   "67": {
+   "key": "MOVE_BATONPASS",
    "name": "Baton Pass",
    "compatibility": [
     "BUTTERFREE",
@@ -59476,6 +59671,7 @@
    ]
   },
   "68": {
+   "key": "MOVE_ENCORE",
    "name": "Encore",
    "compatibility": [
     "PIKACHU",
@@ -59658,6 +59854,7 @@
    ]
   },
   "69": {
+   "key": "MOVE_SCREECH",
    "name": "Screech",
    "compatibility": [
     "BEEDRILL",
@@ -59895,6 +60092,7 @@
    ]
   },
   "70": {
+   "key": "MOVE_FAKETEARS",
    "name": "Fake Tears",
    "compatibility": [
     "CLEFAIRY",
@@ -60029,6 +60227,7 @@
    ]
   },
   "71": {
+   "key": "MOVE_SCARYFACE",
    "name": "Scary Face",
    "compatibility": [
     "CHARMANDER",
@@ -60273,6 +60472,7 @@
    ]
   },
   "72": {
+   "key": "MOVE_VENOMDRENCH",
    "name": "Venom Drench",
    "compatibility": [
     "ARBOK",
@@ -60339,6 +60539,7 @@
    ]
   },
   "73": {
+   "key": "MOVE_SPIKES",
    "name": "Spikes",
    "compatibility": [
     "SANDSLASH",
@@ -60398,6 +60599,7 @@
    ]
   },
   "74": {
+   "key": "MOVE_TOXICSPIKES",
    "name": "Toxic Spikes",
    "compatibility": [
     "BEEDRILL",
@@ -60463,6 +60665,7 @@
    ]
   },
   "75": {
+   "key": "MOVE_DRAGONDANCE",
    "name": "Dragon Dance",
    "compatibility": [
     "CHARMANDER",
@@ -60534,6 +60737,7 @@
    ]
   },
   "76": {
+   "key": "MOVE_AGILITY",
    "name": "Agility",
    "compatibility": [
     "BEEDRILL",
@@ -60811,6 +61015,7 @@
    ]
   },
   "77": {
+   "key": "MOVE_NASTYPLOT",
    "name": "Nasty Plot",
    "compatibility": [
     "PIKACHU",
@@ -61007,6 +61212,7 @@
    ]
   },
   "78": {
+   "key": "MOVE_GRASSYTERRAIN",
    "name": "Grassy Terrain",
    "compatibility": [
     "BULBASAUR",
@@ -61094,6 +61300,7 @@
    ]
   },
   "79": {
+   "key": "MOVE_MISTYTERRAIN",
    "name": "Misty Terrain",
    "compatibility": [
     "CLEFAIRY",
@@ -61159,6 +61366,7 @@
    ]
   },
   "80": {
+   "key": "MOVE_ELECTRICTERRAIN",
    "name": "Electric Terrain",
    "compatibility": [
     "PIKACHU",
@@ -61216,6 +61424,7 @@
    ]
   },
   "81": {
+   "key": "MOVE_PSYCHICTERRAIN",
    "name": "Psychic Terrain",
    "compatibility": [
     "ABRA",
@@ -61267,6 +61476,7 @@
    ]
   },
   "82": {
+   "key": "MOVE_WHIRLPOOL",
    "name": "Whirlpool",
    "compatibility": [
     "SQUIRTLE",
@@ -61457,6 +61667,7 @@
    ]
   },
   "83": {
+   "key": "MOVE_FIRESPIN",
    "name": "Fire Spin",
    "compatibility": [
     "CHARMANDER",
@@ -61535,6 +61746,7 @@
    ]
   },
   "84": {
+   "key": "MOVE_SANDTOMB",
    "name": "Sand Tomb",
    "compatibility": [
     "SANDSHREW",
@@ -61626,6 +61838,7 @@
    ]
   },
   "85": {
+   "key": "MOVE_PINMISSILE",
    "name": "Pin Missile",
    "compatibility": [
     "BEEDRILL",
@@ -61680,6 +61893,7 @@
    ]
   },
   "86": {
+   "key": "MOVE_ICICLESPEAR",
    "name": "Icicle Spear",
    "compatibility": [
     "SANDSLASH_A",
@@ -61730,6 +61944,7 @@
    ]
   },
   "87": {
+   "key": "MOVE_TAILSLAP",
    "name": "Tail Slap",
    "compatibility": [
     "VULPIX",
@@ -61767,6 +61982,7 @@
    ]
   },
   "88": {
+   "key": "MOVE_ROCKBLAST",
    "name": "Rock Blast",
    "compatibility": [
     "NIDOQUEEN",
@@ -61869,6 +62085,7 @@
    ]
   },
   "89": {
+   "key": "MOVE_THUNDERFANG",
    "name": "Thunder Fang",
    "compatibility": [
     "RATTATA",
@@ -61959,6 +62176,7 @@
    ]
   },
   "90": {
+   "key": "MOVE_ICEFANG",
    "name": "Ice Fang",
    "compatibility": [
     "RATTATA",
@@ -62062,6 +62280,7 @@
    ]
   },
   "91": {
+   "key": "MOVE_FIREFANG",
    "name": "Fire Fang",
    "compatibility": [
     "CHARMANDER",
@@ -62172,6 +62391,7 @@
    ]
   },
   "92": {
+   "key": "MOVE_BODYSLAM",
    "name": "Body Slam",
    "compatibility": [
     "BULBASAUR",
@@ -62659,6 +62879,7 @@
    ]
   },
   "93": {
+   "key": "MOVE_BODYPRESS",
    "name": "Body Press",
    "compatibility": [
     "BLASTOISE",
@@ -62769,6 +62990,7 @@
    ]
   },
   "94": {
+   "key": "MOVE_HEATCRASH",
    "name": "Heat Crash",
    "compatibility": [
     "CHARIZARD",
@@ -62806,6 +63028,7 @@
    ]
   },
   "95": {
+   "key": "MOVE_HEAVYSLAM",
    "name": "Heavy Slam",
    "compatibility": [
     "MACHOP",
@@ -62897,6 +63120,7 @@
    ]
   },
   "96": {
+   "key": "MOVE_REVERSAL",
    "name": "Reversal",
    "compatibility": [
     "RATTATA",
@@ -63082,6 +63306,7 @@
    ]
   },
   "97": {
+   "key": "MOVE_ELECTROBALL",
    "name": "Electro Ball",
    "compatibility": [
     "PIKACHU",
@@ -63167,6 +63392,7 @@
    ]
   },
   "98": {
+   "key": "MOVE_STOREDPOWER",
    "name": "Stored Power",
    "compatibility": [
     "RAICHU_A",
@@ -63297,6 +63523,7 @@
    ]
   },
   "99": {
+   "key": "MOVE_BREAKINGSWIPE",
    "name": "Breaking Swipe",
    "compatibility": [
     "CHARIZARD",
@@ -63358,6 +63585,7 @@
    ]
   },
   "100": {
+   "key": "MOVE_RAZORSHELL",
    "name": "Razor Shell",
    "compatibility": [
     "SLOWBRO",
@@ -63385,6 +63613,7 @@
    ]
   },
   "101": {
+   "key": "MOVE_HEX",
    "name": "Hex",
    "compatibility": [
     "NIDOQUEEN",
@@ -63496,6 +63725,7 @@
    ]
   },
   "102": {
+   "key": "MOVE_WEATHERBALL",
    "name": "Weather Ball",
    "compatibility": [
     "BULBASAUR",
@@ -63614,6 +63844,7 @@
    ]
   },
   "103": {
+   "key": "MOVE_AIRSLASH",
    "name": "Air Slash",
    "compatibility": [
     "CHARIZARD",
@@ -63761,6 +63992,7 @@
    ]
   },
   "104": {
+   "key": "MOVE_AURASPHERE",
    "name": "Aura Sphere",
    "compatibility": [
     "SQUIRTLE",
@@ -63804,6 +64036,7 @@
    ]
   },
   "105": {
+   "key": "MOVE_BLAZEKICK",
    "name": "Blaze Kick",
    "compatibility": [
     "CHARIZARD",
@@ -63834,6 +64067,7 @@
    ]
   },
   "106": {
+   "key": "MOVE_BUGBUZZ",
    "name": "Bug Buzz",
    "compatibility": [
     "BUTTERFREE",
@@ -63922,6 +64156,7 @@
    ]
   },
   "107": {
+   "key": "MOVE_CROSSPOISON",
    "name": "Cross Poison",
    "compatibility": [
     "BEEDRILL",
@@ -63965,6 +64200,7 @@
    ]
   },
   "108": {
+   "key": "MOVE_CRUNCH",
    "name": "Crunch",
    "compatibility": [
     "CHARMANDER",
@@ -64188,6 +64424,7 @@
    ]
   },
   "109": {
+   "key": "MOVE_DARKESTLARIAT",
    "name": "Darkest Lariat",
    "compatibility": [
     "POLIWRATH",
@@ -64214,6 +64451,7 @@
    ]
   },
   "110": {
+   "key": "MOVE_HIGHHORSEPOWER",
    "name": "High Horsepower",
    "compatibility": [
     "NIDOQUEEN",
@@ -64311,6 +64549,7 @@
    ]
   },
   "111": {
+   "key": "MOVE_LEAFBLADE",
    "name": "Leaf Blade",
    "compatibility": [
     "VICTREEBEL",
@@ -64349,6 +64588,7 @@
    ]
   },
   "112": {
+   "key": "MOVE_MUDDYWATER",
    "name": "Muddy Water",
    "compatibility": [
     "SQUIRTLE",
@@ -64452,6 +64692,7 @@
    ]
   },
   "113": {
+   "key": "MOVE_MYSTICALFIRE",
    "name": "Mystical Fire",
    "compatibility": [
     "CHARIZARD",
@@ -64538,6 +64779,7 @@
    ]
   },
   "114": {
+   "key": "MOVE_PHANTOMFORCE",
    "name": "Phantom Force",
    "compatibility": [
     "GENGAR",
@@ -64580,6 +64822,7 @@
    ]
   },
   "115": {
+   "key": "MOVE_PLAYROUGH",
    "name": "Play Rough",
    "compatibility": [
     "PIKACHU",
@@ -64748,6 +64991,7 @@
    ]
   },
   "116": {
+   "key": "MOVE_POLLENPUFF",
    "name": "Pollen Puff",
    "compatibility": [
     "BUTTERFREE",
@@ -64778,6 +65022,7 @@
    ]
   },
   "117": {
+   "key": "MOVE_POWERGEM",
    "name": "Power Gem",
    "compatibility": [
     "PERSIAN",
@@ -64831,6 +65076,7 @@
    ]
   },
   "118": {
+   "key": "MOVE_PSYCHICFANGS",
    "name": "Psychic Fangs",
    "compatibility": [
     "RATICATE",
@@ -64910,6 +65156,7 @@
    ]
   },
   "119": {
+   "key": "MOVE_PSYCHOCUT",
    "name": "Psycho Cut",
    "compatibility": [
     "KADABRA",
@@ -64977,6 +65224,7 @@
    ]
   },
   "120": {
+   "key": "MOVE_BRAVEBIRD",
    "name": "Brave Bird",
    "compatibility": [
     "PIDGEY",
@@ -65036,6 +65284,7 @@
    ]
   },
   "121": {
+   "key": "MOVE_CLOSECOMBAT",
    "name": "Close Combat",
    "compatibility": [
     "RATICATE",
@@ -65161,6 +65410,7 @@
    ]
   },
   "122": {
+   "key": "MOVE_FLAREBLITZ",
    "name": "Flare Blitz",
    "compatibility": [
     "CHARMANDER",
@@ -65226,6 +65476,7 @@
    ]
   },
   "123": {
+   "key": "MOVE_HURRICANE",
    "name": "Hurricane",
    "compatibility": [
     "CHARIZARD",
@@ -65313,6 +65564,7 @@
    ]
   },
   "124": {
+   "key": "MOVE_HYDROPUMP",
    "name": "Hydro Pump",
    "compatibility": [
     "SQUIRTLE",
@@ -65489,6 +65741,7 @@
    ]
   },
   "125": {
+   "key": "MOVE_LEAFSTORM",
    "name": "Leaf Storm",
    "compatibility": [
     "BULBASAUR",
@@ -65562,6 +65815,7 @@
    ]
   },
   "126": {
+   "key": "MOVE_MEGAHORN",
    "name": "Megahorn",
    "compatibility": [
     "NIDOKING",
@@ -65607,6 +65861,7 @@
    ]
   },
   "127": {
+   "key": "MOVE_POWERWHIP",
    "name": "Power Whip",
    "compatibility": [
     "BULBASAUR",
@@ -65656,6 +65911,7 @@
    ]
   },
   "128": {
+   "key": "MOVE_SOLARBLADE",
    "name": "Solar Blade",
    "compatibility": [
     "WEEPINBELL",
@@ -65704,6 +65960,7 @@
    ]
   },
   "129": {
+   "key": "MOVE_EXPANDINGFORCE",
    "name": "Expanding Force",
    "compatibility": [
     "RAICHU_A",
@@ -65806,6 +66063,7 @@
    ]
   },
   "130": {
+   "key": "MOVE_POLTERGEIST",
    "name": "Steel Roller",
    "compatibility": [
     "SANDSHREW",
@@ -65895,6 +66153,7 @@
    ]
   },
   "131": {
+   "key": "MOVE_SCALESHOT",
    "name": "Scale Shot",
    "compatibility": [
     "CHARIZARD",
@@ -65987,6 +66246,7 @@
    ]
   },
   "132": {
+   "key": "MOVE_METEORBEAM",
    "name": "Meteor Beam",
    "compatibility": [
     "CLEFAIRY",
@@ -66080,6 +66340,7 @@
    ]
   },
   "133": {
+   "key": "MOVE_MISTYEXPLOSION",
    "name": "Misty Explosion",
    "compatibility": [
     "CLEFAIRY",
@@ -66115,6 +66376,7 @@
    ]
   },
   "134": {
+   "key": "MOVE_GRASSYGLIDE",
    "name": "Grassy Glide",
    "compatibility": [
     "BULBASAUR",
@@ -66250,6 +66512,7 @@
    ]
   },
   "135": {
+   "key": "MOVE_RISINGVOLTAGE",
    "name": "Rising Voltage",
    "compatibility": [
     "PIKACHU",
@@ -66341,6 +66604,7 @@
    ]
   },
   "136": {
+   "key": "MOVE_TERRAINPULSE",
    "name": "Terrain Pulse",
    "compatibility": [
     "VENUSAUR",
@@ -66407,6 +66671,7 @@
    ]
   },
   "137": {
+   "key": "MOVE_SKITTERSMACK",
    "name": "Skitter Smack",
    "compatibility": [
     "PERSIAN",
@@ -66544,6 +66809,7 @@
    ]
   },
   "138": {
+   "key": "MOVE_BURNINGJEALOUSY",
    "name": "Burning Jealousy",
    "compatibility": [
     "VULPIX",
@@ -66594,6 +66860,7 @@
    ]
   },
   "139": {
+   "key": "MOVE_LASHOUT",
    "name": "Lash Out",
    "compatibility": [
     "MEOWTH",
@@ -66693,77 +66960,8 @@
     "SNEASLER"
    ]
   },
-  "140": {
-   "name": "Poltergeist",
-   "compatibility": [
-    "GASTLY",
-    "HAUNTER",
-    "GENGAR",
-    "MAROWAK_A",
-    "MEW",
-    "TYPHLOSION_H",
-    "SHEDINJA",
-    "SABLEYE",
-    "DUSKULL",
-    "DUSCLOPS",
-    "SPIRITOMB",
-    "DUSKNOIR",
-    "FROSLASS",
-    "ROTOM",
-    "ROTOM_HEAT",
-    "ROTOM_WASH",
-    "ROTOM_FROST",
-    "ROTOM_FAN",
-    "ROTOM_MOW",
-    "GIRATINA",
-    "GIRATINA_ORIGIN",
-    "ZORUA_H",
-    "ZOROARK_H",
-    "YAMASK",
-    "YAMASK_G",
-    "COFAGRIGUS",
-    "FRILLISH",
-    "FRILLISH_F",
-    "JELLICENT",
-    "JELLICENT_F",
-    "LITWICK",
-    "LAMPENT",
-    "CHANDELURE",
-    "GOLETT",
-    "GOLURK",
-    "PHANTUMP",
-    "TREVENANT",
-    "PUMPKABOO",
-    "PUMPKABOO_XL",
-    "PUMPKABOO_L",
-    "PUMPKABOO_M",
-    "GOURGEIST",
-    "GOURGEIST_XL",
-    "GOURGEIST_L",
-    "GOURGEIST_M",
-    "DECIDUEYE",
-    "SANDYGAST",
-    "PALOSSAND",
-    "DHELMISE",
-    "LUNALA",
-    "MARSHADOW",
-    "SINISTEA",
-    "SINISTEA_CHIPPED",
-    "POLTEAGEIST",
-    "POLTEAGEIST_CHIPPED",
-    "CURSOLA",
-    "RUNERIGUS",
-    "MISDREAVUS",
-    "SHUPPET",
-    "BANETTE",
-    "MISMAGIUS",
-    "HOOPA",
-    "HOOPA_UNBOUND",
-    "BASCULEGION_M",
-    "BASCULEGION_F"
-   ]
-  },
   "141": {
+   "key": "MOVE_CORROSIVEGAS",
    "name": "Corrosive Gas",
    "compatibility": [
     "VILEPLUME",
@@ -66789,6 +66987,7 @@
    ]
   },
   "142": {
+   "key": "MOVE_COACHING",
    "name": "Coaching",
    "compatibility": [
     "POLIWRATH",
@@ -66864,6 +67063,7 @@
    ]
   },
   "143": {
+   "key": "MOVE_FLIPTURN",
    "name": "Flip Turn",
    "compatibility": [
     "SQUIRTLE",
@@ -66916,6 +67116,7 @@
    ]
   },
   "144": {
+   "key": "MOVE_TRIPLEAXEL",
    "name": "Triple Axel",
    "compatibility": [
     "SANDSHREW_A",
@@ -66956,6 +67157,7 @@
    ]
   },
   "145": {
+   "key": "MOVE_DUALWINGBEAT",
    "name": "Dual Wingbeat",
    "compatibility": [
     "CHARIZARD",
@@ -67120,6 +67322,7 @@
    ]
   },
   "146": {
+   "key": "MOVE_SCORCHINGSANDS",
    "name": "Scorching Sands",
    "compatibility": [
     "CHARIZARD",

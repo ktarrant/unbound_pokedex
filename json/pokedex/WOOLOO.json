@@ -84,5 +84,40 @@
             "level": 40,
             "move": "MOVE_DOUBLEEDGE"
         }
+    ],
+    "tm": [
+        "MOVE_TOXIC",
+        "MOVE_HIDDENPOWER",
+        "MOVE_PROTECT",
+        "MOVE_FRUSTRATION",
+        "MOVE_RETURN",
+        "MOVE_DOUBLETEAM",
+        "MOVE_SHOCKWAVE",
+        "MOVE_FACADE",
+        "MOVE_SECRETPOWER",
+        "MOVE_REST",
+        "MOVE_ATTRACT",
+        "MOVE_CHARGEBEAM",
+        "MOVE_ENDURE",
+        "MOVE_PAYBACK",
+        "MOVE_THUNDERWAVE",
+        "MOVE_SLEEPTALK",
+        "MOVE_SWAGGER",
+        "MOVE_SUBSTITUTE",
+        "MOVE_WILDCHARGE",
+        "MOVE_ROUND",
+        "MOVE_NATURALGIFT",
+        "MOVE_STRENGTH",
+        "MOVE_ROCKSMASH"
+    ],
+    "tutor": [
+        "MOVE_SNORE",
+        "MOVE_COVET",
+        "MOVE_ENDEAVOR",
+        "MOVE_CONFIDE",
+        "MOVE_AGILITY",
+        "MOVE_REVERSAL",
+        "MOVE_ELECTROBALL",
+        "MOVE_GRASSYGLIDE"
     ]
 }

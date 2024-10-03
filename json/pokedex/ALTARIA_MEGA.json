@@ -125,5 +125,7 @@
             "level": 65,
             "move": "MOVE_SKYATTACK"
         }
-    ]
+    ],
+    "tm": [],
+    "tutor": []
 }

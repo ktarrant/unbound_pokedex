@@ -109,5 +109,7 @@
             "level": 62,
             "move": "MOVE_LASTRESORT"
         }
-    ]
+    ],
+    "tm": [],
+    "tutor": []
 }

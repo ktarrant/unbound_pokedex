@@ -113,5 +113,25 @@
             "level": 62,
             "move": "MOVE_SOLARBEAM"
         }
+    ],
+    "tm": [
+        "MOVE_TOXIC",
+        "MOVE_HIDDENPOWER",
+        "MOVE_FRUSTRATION",
+        "MOVE_SOLARBEAM",
+        "MOVE_RETURN",
+        "MOVE_DOUBLETEAM",
+        "MOVE_FACADE",
+        "MOVE_SECRETPOWER",
+        "MOVE_FLASH",
+        "MOVE_SWAGGER",
+        "MOVE_NATURALGIFT",
+        "MOVE_NATUREPOWER"
+    ],
+    "tutor": [
+        "MOVE_WORRYSEED",
+        "MOVE_SYNTHESIS",
+        "MOVE_LASERFOCUS",
+        "MOVE_CONFIDE"
     ]
 }

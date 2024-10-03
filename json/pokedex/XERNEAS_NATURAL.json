@@ -110,5 +110,46 @@
             "level": 90,
             "move": "MOVE_GIGAIMPACT"
         }
+    ],
+    "tm": [
+        "MOVE_CALMMIND",
+        "MOVE_HAIL",
+        "MOVE_SUNNYDAY",
+        "MOVE_HYPERBEAM",
+        "MOVE_LIGHTSCREEN",
+        "MOVE_PROTECT",
+        "MOVE_RAINDANCE",
+        "MOVE_THUNDERBOLT",
+        "MOVE_THUNDER",
+        "MOVE_PSYCHIC",
+        "MOVE_REFLECT",
+        "MOVE_REST",
+        "MOVE_FOCUSBLAST",
+        "MOVE_ENDURE",
+        "MOVE_GIGAIMPACT",
+        "MOVE_THUNDERWAVE",
+        "MOVE_ROCKSLIDE",
+        "MOVE_SLEEPTALK",
+        "MOVE_GRASSKNOT",
+        "MOVE_SUBSTITUTE",
+        "MOVE_FLASHCANNON",
+        "MOVE_DAZZLINGGLEAM",
+        "MOVE_PSYSHOCK",
+        "MOVE_SMARTSTRIKE",
+        "MOVE_ROUND"
+    ],
+    "tutor": [
+        "MOVE_SNORE",
+        "MOVE_ZENHEADBUTT",
+        "MOVE_WONDERROOM",
+        "MOVE_OUTRAGE",
+        "MOVE_HYPERVOICE",
+        "MOVE_MISTYTERRAIN",
+        "MOVE_BODYSLAM",
+        "MOVE_PLAYROUGH",
+        "MOVE_CLOSECOMBAT",
+        "MOVE_MEGAHORN",
+        "MOVE_MISTYEXPLOSION",
+        "MOVE_TERRAINPULSE"
     ]
 }

@@ -72,5 +72,44 @@
             "level": 49,
             "move": "MOVE_BODYSLAM"
         }
+    ],
+    "tm": [
+        "MOVE_WATERPULSE",
+        "MOVE_TOXIC",
+        "MOVE_HIDDENPOWER",
+        "MOVE_PROTECT",
+        "MOVE_RAINDANCE",
+        "MOVE_FRUSTRATION",
+        "MOVE_RETURN",
+        "MOVE_DOUBLETEAM",
+        "MOVE_FACADE",
+        "MOVE_SECRETPOWER",
+        "MOVE_REST",
+        "MOVE_ATTRACT",
+        "MOVE_ENDURE",
+        "MOVE_PAYBACK",
+        "MOVE_SLEEPTALK",
+        "MOVE_SWAGGER",
+        "MOVE_PLUCK",
+        "MOVE_SUBSTITUTE",
+        "MOVE_DRAGONTAIL",
+        "MOVE_ROUND",
+        "MOVE_NATURALGIFT",
+        "MOVE_CUT",
+        "MOVE_SURF",
+        "MOVE_DIVE",
+        "MOVE_ROCKSMASH"
+    ],
+    "tutor": [
+        "MOVE_SNORE",
+        "MOVE_LIQUIDATION",
+        "MOVE_GASTROACID",
+        "MOVE_CONFIDE",
+        "MOVE_WHIRLPOOL",
+        "MOVE_ICEFANG",
+        "MOVE_BODYSLAM",
+        "MOVE_HYDROPUMP",
+        "MOVE_SCALESHOT",
+        "MOVE_SKITTERSMACK"
     ]
 }

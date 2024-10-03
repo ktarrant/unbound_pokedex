@@ -97,5 +97,7 @@
             "level": 57,
             "move": "MOVE_ELECTRICTERRAIN"
         }
-    ]
+    ],
+    "tm": [],
+    "tutor": []
 }

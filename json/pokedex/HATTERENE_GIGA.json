@@ -82,5 +82,7 @@
             "level": 55,
             "move": "MOVE_HEALINGWISH"
         }
-    ]
+    ],
+    "tm": [],
+    "tutor": []
 }

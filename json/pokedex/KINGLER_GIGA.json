@@ -106,5 +106,7 @@
             "level": 60,
             "move": "MOVE_GUILLOTINE"
         }
-    ]
+    ],
+    "tm": [],
+    "tutor": []
 }

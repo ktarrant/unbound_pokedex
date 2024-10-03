@@ -101,5 +101,7 @@
             "level": 69,
             "move": "MOVE_METALBURST"
         }
-    ]
+    ],
+    "tm": [],
+    "tutor": []
 }

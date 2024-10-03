@@ -103,5 +103,46 @@
             "level": 51,
             "move": "MOVE_VOLTTACKLE"
         }
+    ],
+    "tm": [
+        "MOVE_TOXIC",
+        "MOVE_HIDDENPOWER",
+        "MOVE_LIGHTSCREEN",
+        "MOVE_PROTECT",
+        "MOVE_RAINDANCE",
+        "MOVE_FRUSTRATION",
+        "MOVE_THUNDERBOLT",
+        "MOVE_THUNDER",
+        "MOVE_RETURN",
+        "MOVE_DOUBLETEAM",
+        "MOVE_SHOCKWAVE",
+        "MOVE_FACADE",
+        "MOVE_SECRETPOWER",
+        "MOVE_REST",
+        "MOVE_ATTRACT",
+        "MOVE_CHARGEBEAM",
+        "MOVE_ENDURE",
+        "MOVE_FLASH",
+        "MOVE_THUNDERWAVE",
+        "MOVE_FLAMECHARGE",
+        "MOVE_SLEEPTALK",
+        "MOVE_SWAGGER",
+        "MOVE_SUBSTITUTE",
+        "MOVE_VOLTSWITCH",
+        "MOVE_WILDCHARGE",
+        "MOVE_ROUND",
+        "MOVE_NATURALGIFT"
+    ],
+    "tutor": [
+        "MOVE_SNORE",
+        "MOVE_LOWKICK",
+        "MOVE_SNATCH",
+        "MOVE_SIGNALBEAM",
+        "MOVE_MAGNETRISE",
+        "MOVE_BOUNCE",
+        "MOVE_CONFIDE",
+        "MOVE_SCREECH",
+        "MOVE_AGILITY",
+        "MOVE_RISINGVOLTAGE"
     ]
 }

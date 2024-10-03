@@ -98,5 +98,7 @@
             "level": 44,
             "move": "MOVE_DRAGONRUSH"
         }
-    ]
+    ],
+    "tm": [],
+    "tutor": []
 }

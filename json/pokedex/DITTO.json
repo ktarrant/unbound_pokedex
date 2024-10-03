@@ -34,5 +34,7 @@
             "level": 1,
             "move": "MOVE_TRANSFORM"
         }
-    ]
+    ],
+    "tm": [],
+    "tutor": []
 }

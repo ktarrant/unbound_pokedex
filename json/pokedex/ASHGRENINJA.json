@@ -133,5 +133,32 @@
             "level": 65,
             "move": "MOVE_HYDROPUMP"
         }
+    ],
+    "tm": [
+        "MOVE_WATERPULSE",
+        "MOVE_TOXIC",
+        "MOVE_HIDDENPOWER",
+        "MOVE_FRUSTRATION",
+        "MOVE_RETURN",
+        "MOVE_DOUBLETEAM",
+        "MOVE_AERIALACE",
+        "MOVE_FACADE",
+        "MOVE_SECRETPOWER",
+        "MOVE_SWAGGER",
+        "MOVE_POWERUPPUNCH",
+        "MOVE_SMACKDOWN",
+        "MOVE_ECHOEDVOICE",
+        "MOVE_NATURALGIFT",
+        "MOVE_CUT",
+        "MOVE_STRENGTH",
+        "MOVE_ROCKSMASH"
+    ],
+    "tutor": [
+        "MOVE_SNATCH",
+        "MOVE_SPITE",
+        "MOVE_ROLEPLAY",
+        "MOVE_CONFIDE",
+        "MOVE_WATERPLEDGE",
+        "MOVE_HYDROCANNON"
     ]
 }

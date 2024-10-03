@@ -110,5 +110,7 @@
             "level": 53,
             "move": "MOVE_EXPLOSION"
         }
-    ]
+    ],
+    "tm": [],
+    "tutor": []
 }

@@ -79,5 +79,46 @@
             "level": 60,
             "move": "MOVE_SHELLSMASH"
         }
+    ],
+    "tm": [
+        "MOVE_TOXIC",
+        "MOVE_HIDDENPOWER",
+        "MOVE_PROTECT",
+        "MOVE_GIGADRAIN",
+        "MOVE_FRUSTRATION",
+        "MOVE_RETURN",
+        "MOVE_PSYCHIC",
+        "MOVE_SHADOWBALL",
+        "MOVE_DOUBLETEAM",
+        "MOVE_FACADE",
+        "MOVE_SECRETPOWER",
+        "MOVE_REST",
+        "MOVE_ENDURE",
+        "MOVE_WILLOWISP",
+        "MOVE_EXPLOSION",
+        "MOVE_PAYBACK",
+        "MOVE_DARKPULSE",
+        "MOVE_SLEEPTALK",
+        "MOVE_DREAMEATER",
+        "MOVE_SWAGGER",
+        "MOVE_SUBSTITUTE",
+        "MOVE_PSYSHOCK",
+        "MOVE_ROUND",
+        "MOVE_NATURALGIFT"
+    ],
+    "tutor": [
+        "MOVE_SNORE",
+        "MOVE_SPITE",
+        "MOVE_ROLEPLAY",
+        "MOVE_PAINSPLIT",
+        "MOVE_TRICK",
+        "MOVE_WONDERROOM",
+        "MOVE_FOULPLAY",
+        "MOVE_CONFIDE",
+        "MOVE_BATONPASS",
+        "MOVE_NASTYPLOT",
+        "MOVE_STOREDPOWER",
+        "MOVE_HEX",
+        "MOVE_PHANTOMFORCE"
     ]
 }

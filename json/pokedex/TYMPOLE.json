@@ -108,5 +108,48 @@
             "level": 49,
             "move": "MOVE_HYDROPUMP"
         }
+    ],
+    "tm": [
+        "MOVE_WATERPULSE",
+        "MOVE_TOXIC",
+        "MOVE_HAIL",
+        "MOVE_HIDDENPOWER",
+        "MOVE_PROTECT",
+        "MOVE_RAINDANCE",
+        "MOVE_FRUSTRATION",
+        "MOVE_RETURN",
+        "MOVE_DOUBLETEAM",
+        "MOVE_SLUDGEBOMB",
+        "MOVE_FACADE",
+        "MOVE_SECRETPOWER",
+        "MOVE_REST",
+        "MOVE_ATTRACT",
+        "MOVE_ENDURE",
+        "MOVE_SLEEPTALK",
+        "MOVE_SCALD",
+        "MOVE_SWAGGER",
+        "MOVE_SUBSTITUTE",
+        "MOVE_INFESTATION",
+        "MOVE_SLUDGEWAVE",
+        "MOVE_ROUND",
+        "MOVE_ECHOEDVOICE",
+        "MOVE_NATURALGIFT",
+        "MOVE_SURF"
+    ],
+    "tutor": [
+        "MOVE_SNORE",
+        "MOVE_UPROAR",
+        "MOVE_AFTERYOU",
+        "MOVE_BOUNCE",
+        "MOVE_ENDEAVOR",
+        "MOVE_ICYWIND",
+        "MOVE_EARTHPOWER",
+        "MOVE_HYPERVOICE",
+        "MOVE_CONFIDE",
+        "MOVE_SCREECH",
+        "MOVE_VENOMDRENCH",
+        "MOVE_WEATHERBALL",
+        "MOVE_MUDDYWATER",
+        "MOVE_HYDROPUMP"
     ]
 }

@@ -109,5 +109,7 @@
             "level": 73,
             "move": "MOVE_DOUBLEEDGE"
         }
-    ]
+    ],
+    "tm": [],
+    "tutor": []
 }

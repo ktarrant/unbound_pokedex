@@ -102,5 +102,7 @@
             "level": 60,
             "move": "MOVE_TRUMPCARD"
         }
-    ]
+    ],
+    "tm": [],
+    "tutor": []
 }

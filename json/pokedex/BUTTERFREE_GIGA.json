@@ -126,5 +126,7 @@
             "level": 48,
             "move": "MOVE_QUIVERDANCE"
         }
-    ]
+    ],
+    "tm": [],
+    "tutor": []
 }

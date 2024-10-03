@@ -125,5 +125,7 @@
             "level": 64,
             "move": "MOVE_FLAREBLITZ"
         }
-    ]
+    ],
+    "tm": [],
+    "tutor": []
 }

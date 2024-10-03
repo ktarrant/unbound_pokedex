@@ -59,5 +59,28 @@
             "level": 40,
             "move": "MOVE_FLASHCANNON"
         }
+    ],
+    "tm": [
+        "MOVE_TOXIC",
+        "MOVE_HIDDENPOWER",
+        "MOVE_PROTECT",
+        "MOVE_THUNDERBOLT",
+        "MOVE_RETURN",
+        "MOVE_DOUBLETEAM",
+        "MOVE_SECRETPOWER",
+        "MOVE_REST",
+        "MOVE_ENDURE",
+        "MOVE_THUNDERWAVE",
+        "MOVE_GYROBALL",
+        "MOVE_SLEEPTALK",
+        "MOVE_SUBSTITUTE",
+        "MOVE_FLASHCANNON",
+        "MOVE_ROUND",
+        "MOVE_ECHOEDVOICE",
+        "MOVE_NATURALGIFT"
+    ],
+    "tutor": [
+        "MOVE_SNORE",
+        "MOVE_IRONDEFENSE"
     ]
 }

@@ -94,5 +94,7 @@
             "level": 70,
             "move": "MOVE_COURTCHANGE"
         }
-    ]
+    ],
+    "tm": [],
+    "tutor": []
 }

@@ -28,8 +28,15 @@ names_data = convert_string_file(pokedex_names)
 tm_list_data = parse_tm_tutor_file(tm_list)
 learnsets_data = parse_level_up_moves(learnsets)
 
-tm_list_data["tm"] = tm_list_data["tm"] | build_compatibility_table(tm_compatibilities)
-tm_list_data["tutor"] = tm_list_data["tutor"] | build_compatibility_table(tutor_compatibilities)
+# Merge the compatibility tables into the TM_Tutor base table
+for category, table in [
+    ("tm", build_compatibility_table(tm_compatibilities).items()),
+    ("tutor", build_compatibility_table(tutor_compatibilities).items()),
+    ]:
+    for move_num, compatibility in table:
+        if move_num in tm_list_data[category]:
+            for key in compatibility:
+                tm_list_data[category][move_num][key] = compatibility[key]
 
 # Output the merged data to a JSON file
 with open(move_file, 'w') as json_file:
@@ -63,8 +70,22 @@ for species, entry in species_data.items():
             if "learnset" in species_data[relative]:
                 species_data[species]["learnset"] = species_data[relative]["learnset"]
 
+
+def get_compatible_moves(compatibility_table, species):
+    move_list = []
+    for move_num, entry in compatibility_table.items():
+        if species in entry["compatibility"]:
+            move_list.append(entry["key"])
+    return move_list
+
+
 for species in species_data:
     out_file = os.path.join(pokedex_dir, species + ".json")
+
+    # add compatibility tables
+    for category in ["tm", "tutor"]:
+        species_data[species][category] = get_compatible_moves(tm_list_data[category], species)
+        # TODO: Megas don't show up in compatibility table. Copy to base like with learnsets?
 
     # Output the merged data to a JSON file
     with open(out_file, 'w') as json_file:

@@ -120,5 +120,47 @@
             "level": 60,
             "move": "MOVE_TRUMPCARD"
         }
+    ],
+    "tm": [
+        "MOVE_CALMMIND",
+        "MOVE_TOXIC",
+        "MOVE_HIDDENPOWER",
+        "MOVE_SUNNYDAY",
+        "MOVE_PROTECT",
+        "MOVE_RAINDANCE",
+        "MOVE_FRUSTRATION",
+        "MOVE_IRONTAIL",
+        "MOVE_RETURN",
+        "MOVE_DIG",
+        "MOVE_SHADOWBALL",
+        "MOVE_DOUBLETEAM",
+        "MOVE_FACADE",
+        "MOVE_SECRETPOWER",
+        "MOVE_REST",
+        "MOVE_ATTRACT",
+        "MOVE_ENDURE",
+        "MOVE_SLEEPTALK",
+        "MOVE_SWAGGER",
+        "MOVE_SUBSTITUTE",
+        "MOVE_WORKUP",
+        "MOVE_ROUND",
+        "MOVE_ECHOEDVOICE",
+        "MOVE_NATURALGIFT"
+    ],
+    "tutor": [
+        "MOVE_SNORE",
+        "MOVE_HEALBELL",
+        "MOVE_HELPINGHAND",
+        "MOVE_COVET",
+        "MOVE_LASERFOCUS",
+        "MOVE_HYPERVOICE",
+        "MOVE_LASTRESORT",
+        "MOVE_CONFIDE",
+        "MOVE_FOCUSENERGY",
+        "MOVE_BATONPASS",
+        "MOVE_FAKETEARS",
+        "MOVE_BODYSLAM",
+        "MOVE_STOREDPOWER",
+        "MOVE_WEATHERBALL"
     ]
 }

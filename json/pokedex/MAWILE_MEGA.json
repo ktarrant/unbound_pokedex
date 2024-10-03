@@ -97,5 +97,7 @@
             "level": 48,
             "move": "MOVE_PLAYROUGH"
         }
-    ]
+    ],
+    "tm": [],
+    "tutor": []
 }

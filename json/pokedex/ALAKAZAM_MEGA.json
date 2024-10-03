@@ -101,5 +101,7 @@
             "level": 62,
             "move": "MOVE_CALMMIND"
         }
-    ]
+    ],
+    "tm": [],
+    "tutor": []
 }

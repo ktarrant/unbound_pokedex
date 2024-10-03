@@ -113,5 +113,7 @@
             "level": 48,
             "move": "MOVE_FOULPLAY"
         }
-    ]
+    ],
+    "tm": [],
+    "tutor": []
 }

@@ -98,5 +98,7 @@
             "level": 48,
             "move": "MOVE_PSYCHICTERRAIN"
         }
-    ]
+    ],
+    "tm": [],
+    "tutor": []
 }

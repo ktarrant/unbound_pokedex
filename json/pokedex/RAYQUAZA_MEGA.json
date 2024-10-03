@@ -93,5 +93,7 @@
             "level": 100,
             "move": "MOVE_VCREATE"
         }
-    ]
+    ],
+    "tm": [],
+    "tutor": []
 }

@@ -66,5 +66,7 @@
             "level": 76,
             "move": "MOVE_TAILGLOW"
         }
-    ]
+    ],
+    "tm": [],
+    "tutor": []
 }

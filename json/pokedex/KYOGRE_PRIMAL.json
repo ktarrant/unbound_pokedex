@@ -85,5 +85,7 @@
             "level": 90,
             "move": "MOVE_WATERSPOUT"
         }
-    ]
+    ],
+    "tm": [],
+    "tutor": []
 }

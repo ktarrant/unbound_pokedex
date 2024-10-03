@@ -38,5 +38,11 @@
             "level": 6,
             "move": "MOVE_HARDEN"
         }
+    ],
+    "tm": [],
+    "tutor": [
+        "MOVE_ELECTROWEB",
+        "MOVE_BUGBITE",
+        "MOVE_IRONDEFENSE"
     ]
 }

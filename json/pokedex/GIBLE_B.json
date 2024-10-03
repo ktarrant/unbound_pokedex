@@ -97,5 +97,7 @@
             "level": 51,
             "move": "MOVE_OUTRAGE"
         }
-    ]
+    ],
+    "tm": [],
+    "tutor": []
 }

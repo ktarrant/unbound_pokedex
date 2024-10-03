@@ -106,5 +106,43 @@
             "level": 54,
             "move": "MOVE_BRAVEBIRD"
         }
+    ],
+    "tm": [
+        "MOVE_TOXIC",
+        "MOVE_HIDDENPOWER",
+        "MOVE_SUNNYDAY",
+        "MOVE_PROTECT",
+        "MOVE_FRUSTRATION",
+        "MOVE_RETURN",
+        "MOVE_DOUBLETEAM",
+        "MOVE_AERIALACE",
+        "MOVE_FACADE",
+        "MOVE_SECRETPOWER",
+        "MOVE_REST",
+        "MOVE_ATTRACT",
+        "MOVE_THIEF",
+        "MOVE_STEELWING",
+        "MOVE_ROOST",
+        "MOVE_ENDURE",
+        "MOVE_SWORDSDANCE",
+        "MOVE_SLEEPTALK",
+        "MOVE_SWAGGER",
+        "MOVE_PLUCK",
+        "MOVE_SUBSTITUTE",
+        "MOVE_WORKUP",
+        "MOVE_ROUND",
+        "MOVE_ECHOEDVOICE",
+        "MOVE_NATURALGIFT",
+        "MOVE_FLY"
+    ],
+    "tutor": [
+        "MOVE_SNORE",
+        "MOVE_UPROAR",
+        "MOVE_ENDEAVOR",
+        "MOVE_KNOCKOFF",
+        "MOVE_CONFIDE",
+        "MOVE_AGILITY",
+        "MOVE_BODYSLAM",
+        "MOVE_BRAVEBIRD"
     ]
 }

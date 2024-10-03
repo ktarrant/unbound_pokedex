@@ -94,5 +94,23 @@
             "level": 52,
             "move": "MOVE_DOUBLEEDGE"
         }
+    ],
+    "tm": [
+        "MOVE_WATERPULSE",
+        "MOVE_TOXIC",
+        "MOVE_HIDDENPOWER",
+        "MOVE_FRUSTRATION",
+        "MOVE_RETURN",
+        "MOVE_DOUBLETEAM",
+        "MOVE_FACADE",
+        "MOVE_SECRETPOWER",
+        "MOVE_SWAGGER",
+        "MOVE_NATURALGIFT"
+    ],
+    "tutor": [
+        "MOVE_COVET",
+        "MOVE_AQUATAIL",
+        "MOVE_ENDEAVOR",
+        "MOVE_CONFIDE"
     ]
 }

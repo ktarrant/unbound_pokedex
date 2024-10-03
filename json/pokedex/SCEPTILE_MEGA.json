@@ -117,5 +117,7 @@
             "level": 64,
             "move": "MOVE_LEAFSTORM"
         }
-    ]
+    ],
+    "tm": [],
+    "tutor": []
 }

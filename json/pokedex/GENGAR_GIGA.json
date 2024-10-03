@@ -110,5 +110,7 @@
             "level": 66,
             "move": "MOVE_DREAMEATER"
         }
-    ]
+    ],
+    "tm": [],
+    "tutor": []
 }

@@ -42,5 +42,10 @@
             "level": 9,
             "move": "MOVE_BUGBITE"
         }
+    ],
+    "tm": [],
+    "tutor": [
+        "MOVE_ELECTROWEB",
+        "MOVE_BUGBITE"
     ]
 }

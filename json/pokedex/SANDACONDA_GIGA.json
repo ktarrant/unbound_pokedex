@@ -86,5 +86,7 @@
             "level": 60,
             "move": "MOVE_EARTHQUAKE"
         }
-    ]
+    ],
+    "tm": [],
+    "tutor": []
 }

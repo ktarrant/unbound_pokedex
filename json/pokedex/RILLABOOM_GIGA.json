@@ -98,5 +98,7 @@
             "level": 62,
             "move": "MOVE_BOOMBURST"
         }
-    ]
+    ],
+    "tm": [],
+    "tutor": []
 }

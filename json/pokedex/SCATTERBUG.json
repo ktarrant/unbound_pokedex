@@ -47,5 +47,11 @@
             "level": 15,
             "move": "MOVE_BUGBITE"
         }
+    ],
+    "tm": [
+        "MOVE_SILVERWIND"
+    ],
+    "tutor": [
+        "MOVE_BUGBITE"
     ]
 }

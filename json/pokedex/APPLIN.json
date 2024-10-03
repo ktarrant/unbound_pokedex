@@ -45,5 +45,25 @@
             "level": 1,
             "move": "MOVE_WITHDRAW"
         }
+    ],
+    "tm": [
+        "MOVE_TOXIC",
+        "MOVE_HIDDENPOWER",
+        "MOVE_FRUSTRATION",
+        "MOVE_RETURN",
+        "MOVE_DOUBLETEAM",
+        "MOVE_FACADE",
+        "MOVE_SECRETPOWER",
+        "MOVE_ATTRACT",
+        "MOVE_RECYCLE",
+        "MOVE_SWAGGER",
+        "MOVE_NATURALGIFT",
+        "MOVE_NATUREPOWER"
+    ],
+    "tutor": [
+        "MOVE_WORRYSEED",
+        "MOVE_SYNTHESIS",
+        "MOVE_CONFIDE",
+        "MOVE_GRASSYGLIDE"
     ]
 }

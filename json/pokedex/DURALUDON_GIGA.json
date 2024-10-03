@@ -82,5 +82,7 @@
             "level": 66,
             "move": "MOVE_HYPERBEAM"
         }
-    ]
+    ],
+    "tm": [],
+    "tutor": []
 }

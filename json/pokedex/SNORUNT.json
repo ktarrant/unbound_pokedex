@@ -103,5 +103,48 @@
             "level": 47,
             "move": "MOVE_BLIZZARD"
         }
+    ],
+    "tm": [
+        "MOVE_WATERPULSE",
+        "MOVE_TOXIC",
+        "MOVE_HAIL",
+        "MOVE_HIDDENPOWER",
+        "MOVE_ICEBEAM",
+        "MOVE_BLIZZARD",
+        "MOVE_LIGHTSCREEN",
+        "MOVE_PROTECT",
+        "MOVE_RAINDANCE",
+        "MOVE_SAFEGUARD",
+        "MOVE_FRUSTRATION",
+        "MOVE_RETURN",
+        "MOVE_SHADOWBALL",
+        "MOVE_DOUBLETEAM",
+        "MOVE_FACADE",
+        "MOVE_SECRETPOWER",
+        "MOVE_REST",
+        "MOVE_ATTRACT",
+        "MOVE_ENDURE",
+        "MOVE_FLASH",
+        "MOVE_AVALANCHE",
+        "MOVE_SLEEPTALK",
+        "MOVE_SWAGGER",
+        "MOVE_SUBSTITUTE",
+        "MOVE_FROSTBREATH",
+        "MOVE_ROUND",
+        "MOVE_NATURALGIFT"
+    ],
+    "tutor": [
+        "MOVE_SNORE",
+        "MOVE_BLOCK",
+        "MOVE_SPITE",
+        "MOVE_ICYWIND",
+        "MOVE_CONFIDE",
+        "MOVE_FAKETEARS",
+        "MOVE_SPIKES",
+        "MOVE_ICEFANG",
+        "MOVE_BODYSLAM",
+        "MOVE_HEX",
+        "MOVE_WEATHERBALL",
+        "MOVE_CRUNCH"
     ]
 }

@@ -41,5 +41,12 @@
             "level": 1,
             "move": "MOVE_STRUGGLEBUG"
         }
+    ],
+    "tm": [
+        "MOVE_STRUGGLEBUG",
+        "MOVE_INFESTATION"
+    ],
+    "tutor": [
+        "MOVE_CONFIDE"
     ]
 }

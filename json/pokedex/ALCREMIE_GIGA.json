@@ -82,5 +82,7 @@
             "level": 50,
             "move": "MOVE_ENTRAINMENT"
         }
-    ]
+    ],
+    "tm": [],
+    "tutor": []
 }

@@ -94,5 +94,7 @@
             "level": 64,
             "move": "MOVE_SHEERCOLD"
         }
-    ]
+    ],
+    "tm": [],
+    "tutor": []
 }

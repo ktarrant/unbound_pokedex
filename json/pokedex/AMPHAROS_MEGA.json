@@ -121,5 +121,7 @@
             "level": 63,
             "move": "MOVE_THUNDERCAGE"
         }
-    ]
+    ],
+    "tm": [],
+    "tutor": []
 }

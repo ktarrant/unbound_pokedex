@@ -34,5 +34,9 @@
             "level": 1,
             "move": "MOVE_HIDDENPOWER"
         }
-    ]
+    ],
+    "tm": [
+        "MOVE_HIDDENPOWER"
+    ],
+    "tutor": []
 }

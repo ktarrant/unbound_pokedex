@@ -39,5 +39,7 @@
             "level": 1,
             "move": "MOVE_TELEPORT"
         }
-    ]
+    ],
+    "tm": [],
+    "tutor": []
 }

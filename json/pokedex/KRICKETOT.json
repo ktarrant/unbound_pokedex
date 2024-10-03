@@ -47,5 +47,13 @@
             "level": 16,
             "move": "MOVE_BUGBITE"
         }
+    ],
+    "tm": [
+        "MOVE_STRUGGLEBUG"
+    ],
+    "tutor": [
+        "MOVE_UPROAR",
+        "MOVE_BUGBITE",
+        "MOVE_ENDEAVOR"
     ]
 }
