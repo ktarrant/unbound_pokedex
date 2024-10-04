@@ -1,0 +1,1873 @@
+{
+ "Route 1": {
+  "land": {
+   "": [
+    "Snorunt",
+    "Vanillite",
+    "Delibird",
+    "Minior"
+   ]
+  }
+ },
+ "Route 2": {
+  "land": {
+   "": [
+    "Pikipek",
+    "Patrat",
+    "Minccino",
+    "Inkay",
+    "Hoothoot",
+    "Rattata",
+    "Electrike",
+    "Azurill",
+    "Stufful",
+    "Scraggy",
+    "Riolu"
+   ],
+   "Swarm": [
+    "Poochyena"
+   ],
+   "Special Encounter": [
+    "Clobbopus"
+   ]
+  },
+  "surf": {
+   "": [
+    "Tentacool",
+    "Pelipper",
+    "Tentacruel",
+    "Basculin"
+   ]
+  },
+  "Fishing": {},
+  "Old Rod": {
+   "": [
+    "Magikarp"
+   ]
+  },
+  "Good Rod": {
+   "": [
+    "Staryu",
+    "Shellder"
+   ]
+  },
+  "Super Rod": {
+   "": [
+    "Staryu",
+    "Shellder",
+    "Gyarados",
+    "Starmie"
+   ]
+  },
+  "Rock Smash": {
+   "": [
+    "Roggenrola",
+    "Krabby",
+    "Binacle"
+   ]
+  }
+ },
+ "Route 3": {
+  "land": {
+   "": [
+    "Wingull",
+    "Bidoof",
+    "Slowpoke",
+    "Shellos",
+    "Cherubi",
+    "Dewpider",
+    "Surskit",
+    "Buizel",
+    "Poliwag"
+   ],
+   "Swarm": [
+    "Sentret"
+   ],
+   "Special Encounter": [
+    "Skwovet",
+    "Chewtle"
+   ]
+  },
+  "surf": {
+   "": [
+    "Tentacool",
+    "Pelipper",
+    "Tentacruel",
+    "Araquanid"
+   ]
+  },
+  "Old Rod": {
+   "": [
+    "Magikarp"
+   ]
+  },
+  "Good Rod": {
+   "": [
+    "Staryu",
+    "Krabby",
+    "Shellder"
+   ]
+  },
+  "Super Rod": {
+   "": [
+    "Staryu",
+    "Shellder",
+    "Kingler",
+    "Cloyster"
+   ]
+  }
+ },
+ "Route 4": {
+  "land": {
+   "": [
+    "Starly",
+    "Budew",
+    "Hoothoot",
+    "Lillipup",
+    "Ekans",
+    "Numel",
+    "Mankey",
+    "Ralts"
+   ],
+   "Swarm": [
+    "Burmy"
+   ],
+   "Special Encounter": [
+    "Sizzlipede"
+   ]
+  },
+  "surf": {
+   "": [
+    "Tentacool",
+    "Pelipper",
+    "Tentacruel",
+    "Basculin"
+   ]
+  },
+  "Old Rod": {
+   "": [
+    "Magikarp"
+   ]
+  },
+  "Good Rod": {
+   "": [
+    "Corphish",
+    "Staryu"
+   ]
+  },
+  "Super Rod": {
+   "": [
+    "Staryu",
+    "Crawdaunt",
+    "Gyarados",
+    "Starmie"
+   ]
+  }
+ },
+ "Route 5": {
+  "land": {
+   "": [
+    "Lickitung",
+    "Taillow",
+    "Murkrow",
+    "Nidoran\u2642\ufe0f",
+    "Nidoran\u2640\ufe0f",
+    "Growlithe",
+    "Yanma",
+    "Houndour",
+    "Venonat",
+    "Ditto",
+    "Purrloin"
+   ],
+   "Swarm": [
+    "Elgyem"
+   ],
+   "Special Encounter": [
+    "Yamper",
+    "Nickit"
+   ]
+  },
+  "surf": {
+   "": [
+    "Tentacool",
+    "Pelipper",
+    "Tentacruel",
+    "Basculin"
+   ]
+  },
+  "Old Rod": {
+   "": [
+    "Magikarp"
+   ]
+  },
+  "Good Rod": {
+   "": [
+    "Corphish",
+    "Staryu"
+   ]
+  },
+  "Super Rod": {
+   "": [
+    "Staryu",
+    "Crawdaunt",
+    "Gyarados",
+    "Starmie"
+   ]
+  }
+ },
+ "Route 6": {
+  "land": {
+   "": [
+    "Bunnelby",
+    "Ledyba",
+    "Spinarak",
+    "Shinx",
+    "Deerling",
+    "Sunkern",
+    "Ledian",
+    "Kricketot",
+    "Ariados",
+    "Luxio"
+   ],
+   "Swarm": [
+    "Smeargle"
+   ],
+   "Special Encounter": [
+    "Morpeko"
+   ]
+  },
+  "surf": {
+   "": [
+    "Tentacool",
+    "Pelipper",
+    "Tentacruel",
+    "Mantyke"
+   ]
+  },
+  "Old Rod": {
+   "": [
+    "Magikarp"
+   ]
+  },
+  "Good Rod": {
+   "": [
+    "Goldeen",
+    "Remoraid"
+   ]
+  },
+  "Super Rod": {
+   "": [
+    "Seaking",
+    "Octillery",
+    "Gyarados"
+   ]
+  }
+ },
+ "Route 7": {
+  "land": {
+   "": [
+    "Yungoos",
+    "Doduo",
+    "Alolan Rattata",
+    "Hoothoot",
+    "Buneary",
+    "Espurr",
+    "Drowzee",
+    "Abra",
+    "Mareep",
+    "Shinx",
+    "Luxio",
+    "Gumshoos",
+    "Alolan Raticate"
+   ],
+   "Swarm": [
+    "Mr. Mime"
+   ],
+   "Special Encounter": [
+    "Indeedee\u2642\ufe0f",
+    "Indeedee\u2640\ufe0f"
+   ]
+  },
+  "surf": {
+   "": [
+    "Tentacool",
+    "Pelipper",
+    "Tentacruel",
+    "Mantyke"
+   ]
+  },
+  "Old Rod": {
+   "": [
+    "Magikarp"
+   ]
+  },
+  "Good Rod": {
+   "": [
+    "Goldeen",
+    "Remoraid"
+   ]
+  },
+  "Super Rod": {
+   "": [
+    "Seaking",
+    "Octillery",
+    "Gyarados"
+   ]
+  }
+ },
+ "Route 8": {
+  "land": {
+   "": [
+    "Snover",
+    "Snorunt",
+    "Sneasel",
+    "Cubchoo",
+    "Deerling",
+    "Flaaffy",
+    "Minior"
+   ],
+   "Swarm": [
+    "Stantler"
+   ],
+   "Special Encounter": [
+    "Galarian Mr. Mime",
+    "Mr. Rime"
+   ]
+  },
+  "surf": {},
+  "Old Rod": {},
+  "Good Rod": {},
+  "Super Rod": {},
+  "Rock Smash": {
+   "": [
+    "Roggenrola"
+   ]
+  }
+ },
+ "Route 9 + Autl Woods": {
+  "land": {
+   "": [
+    "Spearow",
+    "Grubbin",
+    "Marill",
+    "Deerling",
+    "Shroomish",
+    "Skorupi",
+    "Audino"
+   ],
+   "Swarm": [
+    "Karrablast"
+   ],
+   "Special Encounter": [
+    "Toxel"
+   ]
+  },
+  "surf": {
+   "": [
+    "Marill",
+    "Surskit",
+    "Masquerain",
+    "Azumarill"
+   ],
+   "Special Encounter": [
+    "Arrokuda"
+   ]
+  },
+  "Old Rod": {
+   "": [
+    "Magikarp"
+   ]
+  },
+  "Good Rod": {
+   "": [
+    "Wishiwashi",
+    "Goldeen"
+   ]
+  },
+  "Super Rod": {
+   "": [
+    "Wishiwashi",
+    "Seaking",
+    "Gyarados",
+    "Bruxish"
+   ]
+  }
+ },
+ "Route 10": {
+  "land": {
+   "": [
+    "Lotad",
+    "Tympole",
+    "Marill",
+    "Linoone",
+    "Lombre",
+    "Palpitoad",
+    "Goomy",
+    "Ditto"
+   ],
+   "Swarm": [
+    "Shelmet"
+   ],
+   "Special Encounter": [
+    "Galarian Linoone",
+    "Obstagoon"
+   ]
+  },
+  "surf": {
+   "": [
+    "Palpitoad",
+    "Surskit",
+    "Lombre",
+    "Masquerain"
+   ],
+   "Special Encounter": [
+    "Cramorant"
+   ]
+  },
+  "Old Rod": {
+   "": [
+    "Magikarp"
+   ]
+  },
+  "Good Rod": {
+   "": [
+    "Wishiwashi"
+   ]
+  },
+  "Super Rod": {
+   "": [
+    "Wishiwashi",
+    "Bruxish"
+   ]
+  }
+ },
+ "Route 11": {
+  "land": {
+   "": [
+    "Swablu",
+    "Noctowl",
+    "Exeggcute",
+    "Spoink",
+    "Meditite",
+    "Togedemaru",
+    "Gulpin"
+   ],
+   "Swarm": [
+    "Glameow"
+   ],
+   "Special Encounter": [
+    "Milcery"
+   ]
+  },
+  "surf": {
+   "": [
+    "Tentacool",
+    "Pelipper",
+    "Tentacruel",
+    "Basculin"
+   ]
+  },
+  "Old Rod": {
+   "": [
+    "Magikarp"
+   ]
+  },
+  "Good Rod": {
+   "": [
+    "Barboach",
+    "Remoraid",
+    "Luvdisc"
+   ]
+  },
+  "Super Rod": {
+   "": [
+    "Whiscash",
+    "Octillery",
+    "Luvdisc"
+   ]
+  }
+ },
+ "Route 12": {
+  "land": {
+   "": [
+    "Fletchling",
+    "Hoothoot",
+    "Rockruff",
+    "Solosis",
+    "Gothita",
+    "Mienfoo",
+    "Ponyta",
+    "Snubbull",
+    "Deerling",
+    "Fletchinder",
+    "Noctowl",
+    "Dedenne"
+   ],
+   "Swarm": [
+    "Spritzee",
+    "Swirlix"
+   ],
+   "Special Encounter": [
+    "Galarian Ponyta",
+    "Applin"
+   ]
+  },
+  "surf": {
+   "": [
+    "Tentacool",
+    "Pelipper",
+    "Tentacruel",
+    "Mantyke"
+   ]
+  },
+  "Old Rod": {
+   "": [
+    "Magikarp"
+   ]
+  },
+  "Good Rod": {
+   "": [
+    "Carvanha",
+    "Wailmer"
+   ]
+  },
+  "Super Rod": {
+   "": [
+    "Sharpedo",
+    "Wailord",
+    "Gyarados"
+   ]
+  }
+ },
+ "Route 14": {
+  "land": {
+   "": [
+    "Pelipper",
+    "Bibarel",
+    "Golduck",
+    "Gastrodon",
+    "Floatzel",
+    "Slowpoke",
+    "Weepinbell",
+    "Bellsprout",
+    "Gloom",
+    "Oddish"
+   ],
+   "Special Encounter": [
+    "Eldegoss"
+   ]
+  },
+  "surf": {
+   "": [
+    "Tentacool",
+    "Pelipper",
+    "Tentacruel",
+    "Mantine"
+   ],
+   "Special Encounter": [
+    "Galarian Slowpoke"
+   ]
+  },
+  "Old Rod": {
+   "": [
+    "Magikarp"
+   ]
+  },
+  "Good Rod": {
+   "": [
+    "Small Island",
+    "Horsea",
+    "Shellder",
+    "Wailmer",
+    "West",
+    "Shellder",
+    "Horsea",
+    "Luvdisc",
+    "East",
+    "Horsea",
+    "Shellder",
+    "Carvanha"
+   ]
+  },
+  "Super Rod": {
+   "": [
+    "Small Island",
+    "Seadra",
+    "Shellder",
+    "Wailord",
+    "West",
+    "Shellder",
+    "Luvdisc",
+    "Seadra",
+    "East",
+    "Seadra",
+    "Cloyster",
+    "Sharpedo",
+    "Underwater",
+    "Clamperl",
+    "Mareanie",
+    "Toxapex",
+    "Chinchou",
+    "Lanturn",
+    "Luvdisc"
+   ]
+  },
+  "Rock Smash": {
+   "": [
+    "Binacle",
+    "Geodude",
+    "Corsola",
+    "Krabby",
+    "Kingler"
+   ]
+  }
+ },
+ "Route 16": {
+  "land": {
+   "": [
+    "Tangela",
+    "Girafarig",
+    "Pancham",
+    "Pawniard",
+    "Chatot",
+    "Throh",
+    "Sawk"
+   ],
+   "Special Encounter": [
+    "Copperajah",
+    "Falinks"
+   ]
+  },
+  "surf": {
+   "": [
+    "Tentacool",
+    "Pelipper",
+    "Tentacruel",
+    "Mantyke"
+   ]
+  },
+  "Old Rod": {
+   "": [
+    "Magikarp"
+   ]
+  },
+  "Good Rod": {
+   "": [
+    "Remoraid",
+    "Corsola",
+    "Horsea"
+   ]
+  },
+  "Super Rod": {
+   "": [
+    "Octillery",
+    "Seadra",
+    "Corsola",
+    "Underwater",
+    "Clamperl",
+    "Remoraid",
+    "Octillery",
+    "Chinchou",
+    "Lanturn",
+    "Corsola"
+   ],
+   "Special Encounter": [
+    "Cursola"
+   ]
+  },
+  "Rock Smash": {
+   "": [
+    "Binacle",
+    "Geodude",
+    "Corsola",
+    "Krabby",
+    "Kingler"
+   ]
+  }
+ },
+ "Route 17": {
+  "land": {
+   "": [
+    "Skiploom",
+    "Noctowl",
+    "Pelipper",
+    "Tropius",
+    "Pidgeotto",
+    "Zangoose",
+    "Seviper",
+    "Bagon"
+   ],
+   "Swarm": [
+    "Volbeat",
+    "Illumise"
+   ],
+   "Special Encounter": [
+    "Galarian Farfetch'd",
+    "Sirfetch'd"
+   ]
+  },
+  "surf": {
+   "": [
+    "Tentacool",
+    "Pelipper",
+    "Tentacruel",
+    "Mantyke"
+   ]
+  },
+  "Old Rod": {
+   "": [
+    "Magikarp"
+   ]
+  },
+  "Good Rod": {
+   "": [
+    "Remoraid",
+    "Corsola",
+    "Horsea"
+   ]
+  },
+  "Super Rod": {
+   "": [
+    "Octillery",
+    "Seadra",
+    "Corsola",
+    "Lapras",
+    "Underwater",
+    "Clamperl",
+    "Carvanha",
+    "Sharpedo",
+    "Chinchou",
+    "Lanturn",
+    "Corsola"
+   ]
+  },
+  "Rock Smash": {
+   "": [
+    "Binacle",
+    "Geodude",
+    "Corsola",
+    "Krabby",
+    "Kingler"
+   ]
+  }
+ },
+ "Route 18": {
+  "land": {
+   "": [
+    "Farfetch'd",
+    "Noctowl",
+    "Skuntank",
+    "Persian",
+    "Bouffalant",
+    "Sudowoodo",
+    "Happiny"
+   ],
+   "Swarm": [
+    "Bayleef"
+   ],
+   "Special Encounter": [
+    "Stonjourner"
+   ]
+  },
+  "surf": {
+   "": [
+    "Tentacool",
+    "Pelipper",
+    "Tentacruel",
+    "Mantine"
+   ]
+  },
+  "Old Rod": {
+   "": [
+    "Magikarp"
+   ]
+  },
+  "Good Rod": {
+   "": [
+    "Remoraid",
+    "Corsola",
+    "Horsea"
+   ]
+  },
+  "Super Rod": {
+   "": [
+    "Octillery",
+    "Seadra",
+    "Corsola",
+    "Gyarados"
+   ]
+  },
+  "Rock Smash": {
+   "": [
+    "Binacle",
+    "Geodude",
+    "Corsola",
+    "Krabby",
+    "Kingler"
+   ]
+  }
+ },
+ "Ice Hole": {
+  "land": {
+   "": [
+    "Golbat",
+    "Hariyama",
+    "Sealeo",
+    "Jynx",
+    "Avalugg",
+    "Boldore",
+    "Piloswine"
+   ],
+   "Special Encounter": [
+    "Eiscue",
+    "Regieleki",
+    "Regidrago"
+   ]
+  }
+ },
+ "Icicle Cave": {
+  "land": {
+   "": [],
+   "4F - 1F": [
+    "Zubat",
+    "Makuhita",
+    "Spheal",
+    "Smoochum",
+    "Bergmite",
+    "Roggenrola",
+    "Swinub"
+   ],
+   "4F (Secret Entrance)": [
+    "Zubat",
+    "Roggenrola",
+    "Makuhita",
+    "Drilbur",
+    "Mawile"
+   ],
+   "4F (Outside)": [
+    "Alolan Sandshrew"
+   ],
+   "1F + B1F": [
+    "Golbat",
+    "Hariyama",
+    "Sealeo",
+    "Jynx",
+    "Avalugg",
+    "Boldore",
+    "Piloswine"
+   ]
+  },
+  "surf": {
+   "": [
+    "Seel",
+    "Spheal",
+    "Dewgong",
+    "Sealeo",
+    "Lapras"
+   ]
+  },
+  "Old Rod": {
+   "": [
+    "Magikarp"
+   ]
+  },
+  "Good Rod": {
+   "": [
+    "Seel",
+    "Shellder"
+   ]
+  },
+  "Super Rod": {
+   "": [
+    "Dewgong",
+    "Shellder",
+    "Cloyster"
+   ]
+  },
+  "Rock Smash": {
+   "": [
+    "Roggenrola",
+    "Bergmite",
+    "Boldore",
+    "Avalugg",
+    "Shuckle"
+   ]
+  }
+ },
+ "Flower Paradise": {
+  "land": {
+   "": [],
+   "Yellow Flowers": [
+    "Flabe\u0301be\u0301",
+    "Cutiefly",
+    "Oricorio",
+    "Combee"
+   ],
+   "Pink Flowers": [
+    "Flabe\u0301be\u0301",
+    "Cutiefly",
+    "Oricorio",
+    "Comfey",
+    "Pansage",
+    "Combee"
+   ],
+   "Blue Flowers": [
+    "Flabe\u0301be\u0301",
+    "Cutiefly",
+    "Panpour",
+    "Combee"
+   ],
+   "Red Flowers": [
+    "Flabe\u0301be\u0301",
+    "Cutiefly",
+    "Oricorio",
+    "Comfey",
+    "Pansear",
+    "Combee"
+   ],
+   "Blue-Yellow Flowers": [
+    "Flabe\u0301be\u0301",
+    "Cutiefly",
+    "Oricorio",
+    "Combee"
+   ],
+   "Pink-Purple Flowers": [
+    "Flabe\u0301be\u0301",
+    "Cutiefly",
+    "Oricorio",
+    "Comfey",
+    "Combee"
+   ]
+  }
+ },
+ "Grim Woods": {
+  "land": {
+   "": [
+    "Caterpie",
+    "Weedle",
+    "Seedot",
+    "Pumpkaboo",
+    "Gastly",
+    "Shuppet",
+    "Duskull",
+    "Phantump"
+   ],
+   "Special Encounter": [
+    "Blipbug"
+   ]
+  },
+  "surf": {
+   "": [
+    "Psyduck",
+    "Masquerain",
+    "Golduck",
+    "Surskit"
+   ]
+  },
+  "Old Rod": {
+   "": [
+    "Magikarp"
+   ]
+  },
+  "Good Rod": {
+   "": [
+    "Psyduck",
+    "Barboach"
+   ]
+  },
+  "Super Rod": {
+   "": [
+    "Golduck",
+    "Whiscash"
+   ]
+  }
+ },
+ "Cinder Volcano": {
+  "land": {
+   "": [],
+   "1F - 4F": [
+    "Woobat",
+    "Slugma",
+    "Salandit",
+    "Numel",
+    "Geodude",
+    "Drilbur",
+    "Torkoal",
+    "Magby"
+   ],
+   "Shadow Basement": [
+    "Woobat",
+    "Slugma",
+    "Salandit",
+    "Camerupt",
+    "Graveler",
+    "Excadrill",
+    "Heatmor",
+    "Magmar"
+   ],
+   "Swarm": [
+    "Vulpix"
+   ],
+   "Special Encounter": [
+    "Rolycoly",
+    "Carkol"
+   ]
+  }
+ },
+ "Valley Cave": {
+  "land": {
+   "": [],
+   "1F - 2F": [
+    "Woobat",
+    "Phanpy",
+    "Nosepass",
+    "Aron"
+   ],
+   "B1F": [
+    "Woobat",
+    "Phanpy",
+    "Nosepass",
+    "Aron",
+    "Noibat",
+    "Gligar"
+   ],
+   "Swarm": [
+    "Dunsparce"
+   ],
+   "Special Encounter": [
+    "Galarian Meowth",
+    "Perrserker"
+   ]
+  },
+  "surf": {
+   "": [
+    "Finneon",
+    "Woobat",
+    "Psyduck",
+    "Golduck"
+   ]
+  },
+  "Old Rod": {
+   "": [
+    "Magikarp"
+   ]
+  },
+  "Good Rod": {
+   "": [
+    "Psyduck",
+    "Finneon"
+   ]
+  },
+  "Super Rod": {
+   "": [
+    "Golduck",
+    "Lumineon",
+    "Gyarados"
+   ]
+  },
+  "Rock Smash": {
+   "": [
+    "Geodude",
+    "Nosepass"
+   ]
+  }
+ },
+ "KBT Expressway": {
+  "land": {
+   "": [],
+   "\"Frozen Heights, Crater, \"": [],
+   "\"Blizzard, Fallshore, \"": [],
+   "\"Tehl, Epidimy Entrances \"": [
+    "Zubat",
+    "Woobat",
+    "Makuhita",
+    "Aron",
+    "Nosepass",
+    "Geodude",
+    "Noibat"
+   ],
+   "\"Dehara, Gurun, Antisis, \"": [
+    "Seaport Entrances",
+    "Golbat",
+    "Woobat",
+    "Hariyama",
+    "Lairon",
+    "Nosepass",
+    "Graveler",
+    "Noibat"
+   ]
+  }
+ },
+ "Frost Mountain": {
+  "land": {
+   "": [
+    "Roggenrola",
+    "Woobat",
+    "Aron",
+    "Bronzor",
+    "Nosepass",
+    "Sneasel",
+    "Onix",
+    "Cryogonal"
+   ]
+  }
+ },
+ "Auburn Waterway": {
+  "land": {
+   "": [
+    "Lotad",
+    "Tympole",
+    "Marill",
+    "Linoone",
+    "Lombre",
+    "Palpitoad",
+    "Goomy",
+    "Ditto"
+   ]
+  },
+  "surf": {
+   "": [
+    "Palpitoad",
+    "Surskit",
+    "Lombre",
+    "Masquerain"
+   ],
+   "Special Encounter": [
+    "Cramorant"
+   ]
+  },
+  "Old Rod": {
+   "": [
+    "Magikarp"
+   ]
+  },
+  "Good Rod": {
+   "": [
+    "Wishiwashi",
+    "Goldeen"
+   ]
+  },
+  "Super Rod": {
+   "": [
+    "Wishiwashi",
+    "Seaking",
+    "Gyarados",
+    "Bruxish"
+   ]
+  }
+ },
+ "Frozen Forest": {
+  "land": {
+   "": [
+    "Snover",
+    "Cubchoo",
+    "Sneasel"
+   ],
+   "Special Encounter": [
+    "Snom"
+   ]
+  }
+ },
+ "Lost Tunnel": {
+  "land": {
+   "": [
+    "Graveler",
+    "Woobat",
+    "Lairon",
+    "Diglett",
+    "Dugtrio"
+   ]
+  },
+  "surf": {},
+  "Old Rod": {},
+  "Good Rod": {},
+  "Super Rod": {},
+  "Rock Smash": {
+   "": [
+    "Geodude",
+    "Graveler"
+   ]
+  }
+ },
+ "Thundercap Mt.": {
+  "land": {
+   "": [],
+   "1F + 3F": [
+    "Nosepass",
+    "Magnemite",
+    "Cubone",
+    "Klink",
+    "Elekid",
+    "Tynamo",
+    "Magneton",
+    "Electabuzz"
+   ],
+   "2F + 4F": [
+    "Nosepass",
+    "Magnemite",
+    "Timburr",
+    "Klink",
+    "Elekid",
+    "Tynamo",
+    "Magneton",
+    "Electabuzz"
+   ],
+   "2F (Small Floor)": [
+    "Nosepass",
+    "Magneton",
+    "Gurdurr",
+    "Klink",
+    "Electabuzz",
+    "Tynamo",
+    "Klang"
+   ],
+   "3F": [
+    "Nosepass",
+    "Magneton",
+    "Marowak",
+    "Klank",
+    "Electabuzz",
+    "Eelektrik"
+   ],
+   "Swarm": [
+    "Joltik",
+    "Ferroseed"
+   ],
+   "Special Encounter": [
+    "Pincurchin"
+   ]
+  },
+  "surf": {
+   "": [
+    "Stunfisk",
+    "Chinchou",
+    "Tynamo",
+    "Lanturn",
+    "Eelektrik"
+   ]
+  },
+  "Old Rod": {
+   "": [
+    "Magikarp"
+   ]
+  },
+  "Good Rod": {
+   "": [
+    "Chinchou"
+   ]
+  },
+  "Super Rod": {
+   "": [
+    "Lanturn"
+   ]
+  },
+  "Rock Smash": {
+   "Inside": [
+    "Alolan Geodude",
+    "Alolan Graveler",
+    "Nosepass",
+    "Shuckle"
+   ],
+   "Outside": [
+    "Binacle",
+    "Alolan Geodude",
+    "Corsola",
+    "Krabby",
+    "Kingler"
+   ]
+  }
+ },
+ "Cliff Cave": {
+  "land": {
+   "": [
+    "Golbat",
+    "Alolan Geodude",
+    "Machop",
+    "Onix",
+    "Wooper",
+    "Misdreavus",
+    "Quagsire",
+    "Alolan Graveler",
+    "Machoke",
+    "Steelix"
+   ]
+  }
+ },
+ "Ruins of Void": {
+  "land": {
+   "": [],
+   "B3F - B1F": [
+    "Baltoy",
+    "Yamask",
+    "Duskull",
+    "Sableye",
+    "Bronzong",
+    "Dusclops",
+    "Lunatone",
+    "Solrock",
+    "Sigilyph",
+    "Cofagrigus"
+   ],
+   "B1F - B2F": [
+    "Claydol",
+    "Cofagrigus",
+    "Dusclops",
+    "Sableye",
+    "Bronzong",
+    "Lunatone",
+    "Solrock",
+    "Sigilyph"
+   ],
+   "Special Encounter": [
+    "Galarian Yamask",
+    "Runerigus"
+   ]
+  }
+ },
+ "Rift Cave": {
+  "land": {
+   "": [],
+   "1F": [
+    "Golbat",
+    "Haunter",
+    "Duskull",
+    "Golett",
+    "Bronzor",
+    "Chimecho",
+    "Bronzong",
+    "Dusclops"
+   ],
+   "B1F - B2F": [
+    "Golbat",
+    "Haunter",
+    "Dusclops",
+    "Golurk",
+    "Bronzong",
+    "Chimecho"
+   ],
+   "Special Encounter": [
+    "Sinistea"
+   ]
+  }
+ },
+ "Great Desert": {
+  "land": {
+   "": [
+    "Sandslash",
+    "Dwebble",
+    "Krokorok",
+    "Cacnea",
+    "Darumaka",
+    "Hippowdon",
+    "Vibrava",
+    "Maractus"
+   ],
+   "Special Encounter": [
+    "Silicobra"
+   ]
+  }
+ },
+ "Antisis Sewers": {
+  "land": {
+   "": [
+    "Grimer",
+    "Raticate",
+    "Golbat",
+    "Koffing",
+    "Muk",
+    "Weezing"
+   ],
+   "Swarm": [
+    "Whirlipede"
+   ],
+   "Special Encounter": [
+    "Galarian Weezing"
+   ]
+  },
+  "surf": {
+   "": [
+    "Grimer",
+    "Golbat",
+    "Muk"
+   ]
+  },
+  "Old Rod": {
+   "": [
+    "Grimer"
+   ]
+  },
+  "Good Rod": {
+   "": [
+    "Grimer"
+   ]
+  },
+  "Super Rod": {
+   "": [
+    "Muk"
+   ]
+  }
+ },
+ "Tomb of Borrius": {
+  "land": {
+   "": [],
+   "1F": [
+    "Unown A",
+    "Unown B",
+    "Unown C",
+    "Unown D",
+    "Unown E",
+    "Sigilyph"
+   ],
+   "B4F": [
+    "Unown F",
+    "Unown G",
+    "Unown H",
+    "Unown I",
+    "Unown J",
+    "Sigilyph"
+   ],
+   "B3F": [
+    "Unown K",
+    "Unown L",
+    "Unown M",
+    "Unown N",
+    "Unown O",
+    "Sigilyph"
+   ],
+   "B2F": [
+    "Unown P",
+    "Unown Q",
+    "Unown R",
+    "Unown S",
+    "Unown T",
+    "Sigilyph"
+   ],
+   "B1F": [
+    "Unown U",
+    "Unown V",
+    "Unown W",
+    "Unown X",
+    "Unown Y",
+    "Sigilyph"
+   ],
+   "1F (Main Room)": [
+    "Unown Z",
+    "Unown !",
+    "Unown ?"
+   ]
+  }
+ },
+ "Vivill Woods": {
+  "land": {
+   "": [
+    "Caterpie",
+    "Weedle",
+    "Wurmple",
+    "Scatterbug",
+    "Cottonee",
+    "Swadloon",
+    "Petilil",
+    "Spewpa",
+    "Metapod",
+    "Kakuna",
+    "Silcoon",
+    "Cascoon"
+   ],
+   "Swarm": [
+    "Pikachu"
+   ],
+   "Special Encounter": [
+    "Hattrem",
+    "Morgrem"
+   ]
+  },
+  "surf": {
+   "": [
+    "Surskit",
+    "Golduck",
+    "Masquerain",
+    "Psyduck"
+   ]
+  },
+  "Old Rod": {
+   "": [
+    "Magikarp"
+   ]
+  },
+  "Good Rod": {
+   "": [
+    "Psyduck",
+    "Barboach"
+   ]
+  },
+  "Super Rod": {
+   "": [
+    "Golduck",
+    "Whiscash"
+   ]
+  }
+ },
+ "Cootes Bog": {
+  "land": {
+   "": [
+    "Croagunk",
+    "Quagsire",
+    "Sliggoo",
+    "Drapion",
+    "Carnivine",
+    "Weepinbell",
+    "Gloom",
+    "Toxicroak"
+   ],
+   "Swarm": [
+    "Croconaw"
+   ],
+   "Special Encounter": [
+    "Galarian Stunfisk"
+   ]
+  },
+  "surf": {
+   "": [
+    "Quagsire",
+    "Stunfisk",
+    "Gastrodon",
+    "Sliggoo"
+   ]
+  },
+  "Old Rod": {
+   "": [
+    "Magikarp",
+    "Poliwag"
+   ]
+  },
+  "Good Rod": {
+   "": [
+    "Barboach",
+    "Poliwhirl"
+   ]
+  },
+  "Super Rod": {
+   "": [
+    "Poliwhirl",
+    "Whiscash",
+    "Politoed"
+   ]
+  }
+ },
+ "Safari Zone": {
+  "land": {
+   "": [],
+   "Easy": [
+    "Skitty",
+    "Rhyhorn",
+    "Natu",
+    "Alolan Meowth",
+    "Plusle",
+    "Minun",
+    "Bounsweet",
+    "Blitzle",
+    "Helioptile",
+    "Treecko",
+    "Torchic",
+    "Mudkip"
+   ],
+   "Medium": [
+    "Steenee",
+    "Zebstrika",
+    "Xatu",
+    "Alolan Diglett",
+    "Spinda",
+    "Wobbuffet",
+    "Tauros",
+    "Rhyhorn",
+    "Helioptile",
+    "Kangaskhan",
+    "Treecko",
+    "Torchic",
+    "Mudkip"
+   ],
+   "Hard": [
+    "Rhydon",
+    "Wobbuffet",
+    "Kangaskhan",
+    "Zebstrika",
+    "Spinda",
+    "Tauros",
+    "Helioptile",
+    "Alolan Exeggcute",
+    "Alolan Diglett",
+    "Golisopod",
+    "Grovyle",
+    "Combusken",
+    "Marshtomp"
+   ],
+   "Insane": [
+    "Rhydon",
+    "Tauros",
+    "Doublade",
+    "Kangaskhan",
+    "Wobbuffet",
+    "Alolan Exeggcute",
+    "Golisopod",
+    "Heliolisk",
+    "Alolan Dugtrio",
+    "Grovyle",
+    "Combusken",
+    "Marshtomp"
+   ]
+  }
+ },
+ "Crystal Peak": {
+  "land": {
+   "": [],
+   "B1F + 1F - 5F": [
+    "Loudred",
+    "Woobat",
+    "Onix",
+    "Noibat",
+    "Zweilous",
+    "Steelix",
+    "Skarmory"
+   ],
+   "1F": [
+    "Loudred",
+    "Woobat",
+    "Onix",
+    "Noivern",
+    "Zweilous",
+    "Steelix",
+    "Skarmory"
+   ],
+   "Outside": [
+    "Drifblim",
+    "Rufflet",
+    "Vullaby",
+    "Absol"
+   ],
+   "Special Encounter": [
+    "Duraludon",
+    "Dracozolt",
+    "Arctozolt"
+   ]
+  },
+  "surf": {
+   "": [
+    "Gastrodon",
+    "Golduck",
+    "Dragonair"
+   ]
+  },
+  "Old Rod": {
+   "": [
+    "Magikarp"
+   ]
+  },
+  "Good Rod": {
+   "": [
+    "Psyduck",
+    "Finneon"
+   ]
+  },
+  "Super Rod": {
+   "": [
+    "Golduck",
+    "Lumineon",
+    "Qwilfish"
+   ]
+  },
+  "Rock Smash": {
+   "": [
+    "Graveler",
+    "Onix"
+   ]
+  }
+ },
+ "Magnolia Fields": {
+  "land": {
+   "": [
+    "Noctowl",
+    "Tranquill",
+    "Furfrou",
+    "Mudsdale",
+    "Gogoat",
+    "Miltank",
+    "Tauros"
+   ],
+   "Swarm": [
+    "Quilava"
+   ],
+   "Special Encounter": [
+    "Dubwool"
+   ]
+  }
+ },
+ "Redwood Forest": {
+  "land": {
+   "": [
+    "Ledian",
+    "Ariados",
+    "Vigoroth",
+    "Ursaring",
+    "Heracross",
+    "Komala",
+    "Passimian",
+    "Oranguru"
+   ],
+   "Headbutt Trees": [
+    "Aipom",
+    "Pineco",
+    "Scyther",
+    "Pinsir",
+    "Heracross"
+   ],
+   "Swarm": [
+    "Nincada"
+   ],
+   "Special Encounter": [
+    "Raboot",
+    "Thwackey"
+   ]
+  },
+  "surf": {
+   "": [
+    "Golduck",
+    "Masquerain"
+   ],
+   "Special Encounter": [
+    "Drizzile"
+   ]
+  },
+  "Old Rod": {
+   "": [
+    "Magikarp"
+   ]
+  },
+  "Good Rod": {
+   "": [
+    "Psyduck",
+    "Barboach"
+   ]
+  },
+  "Super Rod": {
+   "": [
+    "Golduck",
+    "Whiscash"
+   ]
+  }
+ },
+ "Victory Road\n": {
+  "land": {
+   "": [],
+   "1F": [
+    "Golbat",
+    "Boldore",
+    "Durant"
+   ],
+   "B1F": [
+    "Woobat",
+    "Magcargo",
+    "Salazzle",
+    "Camerupt",
+    "Graveler",
+    "Excadrill",
+    "Heatmor",
+    "Magmar"
+   ],
+   "2F": [
+    "Druddigon",
+    "Turtonator",
+    "Drampa"
+   ],
+   "Special Encounter": [
+    "Galarian Darmanitan"
+   ],
+   "Maze Area": [
+    "Heatmor",
+    "Roselia",
+    "Chansey",
+    "Lurantis",
+    "Jigglypuff"
+   ],
+   "3F": [
+    "Woobat",
+    "Durant",
+    "Turtonator",
+    "Drampa",
+    "Hakamo-o"
+   ],
+   "Snowy Area": [
+    "Abomasnow",
+    "Glalie",
+    "Vanillish",
+    "Beartic",
+    "Minior"
+   ],
+   "4F + Kyurem's Cave": [
+    "Golbat",
+    "Hariyama",
+    "Sealeo",
+    "Jynx",
+    "Avalugg",
+    "Glalie",
+    "Piloswine"
+   ]
+  },
+  "surf": {
+   "1F - B1F": [
+    "Lumineon",
+    "Golbat",
+    "Marill",
+    "Azumarill"
+   ],
+   "B1F": [
+    "Magcargo"
+   ],
+   "2F": [
+    "Lumineon",
+    "Woobat",
+    "Marill",
+    "Azumarill"
+   ],
+   "Maze Area": [
+    "Floatzel",
+    "Basculin",
+    "Kyurem's Cave",
+    "Dewgong",
+    "Sealeo",
+    "Lapras"
+   ]
+  },
+  "Fishing": {},
+  "Old Rod": {
+   "": [
+    "Magikarp"
+   ]
+  },
+  "Good Rod": {
+   "1F - B1F - 2F": [
+    "Finneon",
+    "Psyduck"
+   ],
+   "Maze Area": [
+    "Luvdisc",
+    "Kyurem's Cave",
+    "Seel",
+    "Shellder"
+   ]
+  },
+  "Super Rod": {
+   "1F - B1F - 2F": [
+    "Lumineon",
+    "Golduck",
+    "Gyarados"
+   ],
+   "Maze Area": [
+    "Luvdisc",
+    "Bruxish",
+    "Kyurem's Cave",
+    "Dewgong",
+    "Shellder"
+   ]
+  }
+ }
+}
