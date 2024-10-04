@@ -23,13 +23,13 @@ tutor_compatibilities = os.path.join(src_dir, "src/tutor_compatibility")
 learnsets = os.path.join(src_dir, "src/Learnsets.c")
 evolutions = os.path.join(src_dir, "src/Evolution Table.c")
 pokedex_dir = os.path.join(dst_dir, "pokedex")
-move_file = os.path.join(dst_dir, "tm_tutor.json")
+move_file = os.path.join(dst_dir, "moves.json")
 
 species_data = parse_species_data_file(base_stats)
 egg_moves_data = parse_egg_moves_file(egg_moves)
 blurbs_data = convert_string_file(pokedex_blurbs)
 names_data = convert_string_file(pokedex_names)
-tm_list_data = parse_tm_tutor_file(tm_list)
+move_data = parse_tm_tutor_file(tm_list)
 learnsets_data = parse_level_up_moves(learnsets)
 evolution_data = parse_evolution_data(evolutions)
 
@@ -39,15 +39,9 @@ for category, table in [
     ("tutor", build_compatibility_table(tutor_compatibilities).items()),
     ]:
     for move_num, compatibility in table:
-        if move_num in tm_list_data[category]:
+        if move_num in move_data[category]:
             for key in compatibility:
-                tm_list_data[category][move_num][key] = compatibility[key]
-
-# Output the merged data to a JSON file
-with open(move_file, 'w') as json_file:
-    json.dump(tm_list_data, json_file, indent=1)
-print(f"TM/Tutor data successfully parsed and saved to {move_file}")
-
+                move_data[category][move_num][key] = compatibility[key]
 
 def merge_data(species_data, data, key):
     """Merge species data and egg moves into a single data structure."""
@@ -68,6 +62,7 @@ merge_data(species_data, evolution_data, "evolve_to")
 # Special account for learnset
 # If there is a MEGA or other alternate version of a Pokemon,
 # its will have the learnset and the regular one will not.
+learned_moves = {}
 for species, entry in species_data.items():
     if "learnset" not in entry:
         species_basename = species.split("_")[0]
@@ -75,6 +70,12 @@ for species, entry in species_data.items():
         for relative in similar_options:
             if "learnset" in species_data[relative]:
                 species_data[species]["learnset"] = species_data[relative]["learnset"]
+
+    for move in entry.get("learnset", []):
+        compatibility = learned_moves.get(move["move"], [])
+        compatibility.append({"target": species, "level": move["level"]})
+        learned_moves[move["move"]] = compatibility
+move_data["learned"] = learned_moves
 
 # Special account for evolution
 # We want to create a back-reference for the evolution, i.e. evolve_from
@@ -93,12 +94,18 @@ def get_compatible_moves(compatibility_table, species):
     return move_list
 
 
+# Output the moves data to JSON
+with open(move_file, 'w') as json_file:
+    json.dump(move_data, json_file, indent=1)
+print(f"Move data successfully parsed and saved to {move_file}")
+
+# Output each species Pokedex entry to a separate JSON file
 for species in species_data:
     out_file = os.path.join(pokedex_dir, species + ".json")
 
     # add compatibility tables
     for category in ["tm", "tutor"]:
-        species_data[species][category] = get_compatible_moves(tm_list_data[category], species)
+        species_data[species][category] = get_compatible_moves(move_data[category], species)
         # TODO: Megas don't show up in compatibility table. Copy to base like with learnsets?
 
     # Output the merged data to a JSON file
