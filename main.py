@@ -7,6 +7,7 @@ from convert.convert_c import (
 )
 from convert.convert_string import convert_string_file
 from convert.convert_txt import build_compatibility_table
+from convert.collect_fields import collect_field_types
 
 root_dir = os.path.dirname(__file__)
 src_dir = os.path.join(root_dir, "c")
@@ -24,6 +25,7 @@ learnsets = os.path.join(src_dir, "src/Learnsets.c")
 evolutions = os.path.join(src_dir, "src/Evolution Table.c")
 pokedex_dir = os.path.join(dst_dir, "pokedex")
 move_file = os.path.join(dst_dir, "moves.json")
+fields_file = os.path.join(dst_dir, "fields.json")
 
 species_data = parse_species_data_file(base_stats)
 egg_moves_data = parse_egg_moves_file(egg_moves)
@@ -42,6 +44,7 @@ for category, table in [
         if move_num in move_data[category]:
             for key in compatibility:
                 move_data[category][move_num][key] = compatibility[key]
+
 
 def merge_data(species_data, data, key):
     """Merge species data and egg moves into a single data structure."""
@@ -98,6 +101,12 @@ def get_compatible_moves(compatibility_table, species):
 with open(move_file, 'w') as json_file:
     json.dump(move_data, json_file, indent=1)
 print(f"Move data successfully parsed and saved to {move_file}")
+
+fields_data = collect_field_types(species_data)
+with open(fields_file, 'w') as json_file:
+    json.dump(fields_data, json_file, indent=1)
+print(f"Fields data successfully parsed and saved to {fields_file}")
+
 
 # Output each species Pokedex entry to a separate JSON file
 for species in species_data:
