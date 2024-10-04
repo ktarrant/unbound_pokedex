@@ -52,6 +52,13 @@
     "blurb": "The water stored inside the tuft on its head is full of nutrients. It waters plants using its tail.",
     "name": "Panpour",
     "evolve_from": [],
+    "location": [
+        {
+            "route": "Flower Paradise",
+            "area": "Blue Flowers",
+            "method": "land"
+        }
+    ],
     "learnset": [
         {
             "level": 1,

@@ -41,6 +41,13 @@
     "evolve_from": [
         "VANILLITE"
     ],
+    "location": [
+        {
+            "route": "Victory Road",
+            "area": "Snowy Area",
+            "method": "land"
+        }
+    ],
     "learnset": [
         {
             "level": 1,

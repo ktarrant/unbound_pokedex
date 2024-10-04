@@ -32,6 +32,43 @@
     "evolve_from": [
         "REMORAID"
     ],
+    "location": [
+        {
+            "route": "Route 6",
+            "area": "",
+            "method": "Super Rod"
+        },
+        {
+            "route": "Route 7",
+            "area": "",
+            "method": "Super Rod"
+        },
+        {
+            "route": "Route 11",
+            "area": "",
+            "method": "Super Rod"
+        },
+        {
+            "route": "Route 16",
+            "area": "",
+            "method": "Super Rod"
+        },
+        {
+            "route": "Route 16",
+            "area": "",
+            "method": "Super Rod"
+        },
+        {
+            "route": "Route 17",
+            "area": "",
+            "method": "Super Rod"
+        },
+        {
+            "route": "Route 18",
+            "area": "",
+            "method": "Super Rod"
+        }
+    ],
     "learnset": [
         {
             "level": 0,

@@ -39,6 +39,18 @@
     "blurb": "It appears in towns and plays with the children. Drampa will protect kids when they're in danger.",
     "name": "Drampa",
     "evolve_from": [],
+    "location": [
+        {
+            "route": "Victory Road",
+            "area": "2F",
+            "method": "land"
+        },
+        {
+            "route": "Victory Road",
+            "area": "3F",
+            "method": "land"
+        }
+    ],
     "learnset": [
         {
             "level": 1,

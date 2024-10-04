@@ -46,6 +46,13 @@
     "blurb": "Its strong jaw enables it to scrape trees and slurp out the sap. It normally lives underground.",
     "name": "Grubbin",
     "evolve_from": [],
+    "location": [
+        {
+            "route": "Route 9 + Autl Woods",
+            "area": "",
+            "method": "land"
+        }
+    ],
     "learnset": [
         {
             "level": 1,

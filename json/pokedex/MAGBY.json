@@ -56,6 +56,13 @@
     ],
     "name": "Magby",
     "evolve_from": [],
+    "location": [
+        {
+            "route": "Cinder Volcano",
+            "area": "1F - 4F",
+            "method": "land"
+        }
+    ],
     "learnset": [
         {
             "level": 1,

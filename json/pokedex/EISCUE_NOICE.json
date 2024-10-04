@@ -31,6 +31,13 @@
     "blurb": "The ice covering this Pok\u00e9mon's face has shattered, revealing a worried expression that many are enamored with.",
     "name": "Eiscue",
     "evolve_from": [],
+    "location": [
+        {
+            "route": "Ice Hole",
+            "area": "Special Encounter",
+            "method": "land"
+        }
+    ],
     "learnset": [
         {
             "level": 1,

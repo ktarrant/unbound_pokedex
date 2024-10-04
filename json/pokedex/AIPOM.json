@@ -55,6 +55,13 @@
     ],
     "name": "Aipom",
     "evolve_from": [],
+    "location": [
+        {
+            "route": "Redwood Forest",
+            "area": "Headbutt Trees",
+            "method": "land"
+        }
+    ],
     "learnset": [
         {
             "level": 1,

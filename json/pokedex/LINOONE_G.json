@@ -41,6 +41,18 @@
     "evolve_from": [
         "ZIGZAGOON_G"
     ],
+    "location": [
+        {
+            "route": "Route 10",
+            "area": "",
+            "method": "land"
+        },
+        {
+            "route": "Auburn Waterway",
+            "area": "",
+            "method": "land"
+        }
+    ],
     "learnset": [
         {
             "level": 0,

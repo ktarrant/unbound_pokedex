@@ -32,6 +32,33 @@
     "evolve_from": [
         "BARBOACH"
     ],
+    "location": [
+        {
+            "route": "Route 11",
+            "area": "",
+            "method": "Super Rod"
+        },
+        {
+            "route": "Grim Woods",
+            "area": "",
+            "method": "Super Rod"
+        },
+        {
+            "route": "Vivill Woods",
+            "area": "",
+            "method": "Super Rod"
+        },
+        {
+            "route": "Cootes Bog",
+            "area": "",
+            "method": "Super Rod"
+        },
+        {
+            "route": "Redwood Forest",
+            "area": "",
+            "method": "Super Rod"
+        }
+    ],
     "learnset": [
         {
             "level": 0,

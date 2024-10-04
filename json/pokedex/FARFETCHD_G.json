@@ -52,6 +52,13 @@
     "blurb": "It uses the stalks of leeks that are larger and thicker than usual, which made them to adapt to a unique form.",
     "name": "Farfetch'd",
     "evolve_from": [],
+    "location": [
+        {
+            "route": "Route 18",
+            "area": "",
+            "method": "land"
+        }
+    ],
     "learnset": [
         {
             "level": 1,

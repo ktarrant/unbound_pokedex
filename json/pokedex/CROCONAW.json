@@ -40,6 +40,13 @@
     "evolve_from": [
         "TOTODILE"
     ],
+    "location": [
+        {
+            "route": "Cootes Bog",
+            "area": "Swarm",
+            "method": "land"
+        }
+    ],
     "learnset": [
         {
             "level": 1,

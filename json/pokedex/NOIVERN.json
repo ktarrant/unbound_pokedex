@@ -33,6 +33,13 @@
     "evolve_from": [
         "NOIBAT"
     ],
+    "location": [
+        {
+            "route": "Crystal Peak",
+            "area": "1F",
+            "method": "land"
+        }
+    ],
     "learnset": [
         {
             "level": 0,

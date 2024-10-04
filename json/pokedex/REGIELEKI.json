@@ -31,6 +31,13 @@
     "blurb": "Its entire body is made of an organ that generates electricity. It is capable of generating a region's worth of electricity.",
     "name": "Regieleki",
     "evolve_from": [],
+    "location": [
+        {
+            "route": "Ice Hole",
+            "area": "Special Encounter",
+            "method": "land"
+        }
+    ],
     "learnset": [
         {
             "level": 1,

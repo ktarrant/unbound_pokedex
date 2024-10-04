@@ -37,6 +37,13 @@
     "blurb": "As soon as it's born, it burrows into an apple. the flavor of the apple is what determines its evolution.",
     "name": "Applin",
     "evolve_from": [],
+    "location": [
+        {
+            "route": "Route 12",
+            "area": "Special Encounter",
+            "method": "land"
+        }
+    ],
     "learnset": [
         {
             "level": 1,

@@ -33,6 +33,13 @@
     "evolve_from": [
         "MR_MIME_G"
     ],
+    "location": [
+        {
+            "route": "Route 8",
+            "area": "Special Encounter",
+            "method": "land"
+        }
+    ],
     "learnset": [
         {
             "level": 0,

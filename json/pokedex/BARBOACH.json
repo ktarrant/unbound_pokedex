@@ -49,6 +49,33 @@
     ],
     "name": "Barboach",
     "evolve_from": [],
+    "location": [
+        {
+            "route": "Route 11",
+            "area": "",
+            "method": "Good Rod"
+        },
+        {
+            "route": "Grim Woods",
+            "area": "",
+            "method": "Good Rod"
+        },
+        {
+            "route": "Vivill Woods",
+            "area": "",
+            "method": "Good Rod"
+        },
+        {
+            "route": "Cootes Bog",
+            "area": "",
+            "method": "Good Rod"
+        },
+        {
+            "route": "Redwood Forest",
+            "area": "",
+            "method": "Good Rod"
+        }
+    ],
     "learnset": [
         {
             "level": 1,

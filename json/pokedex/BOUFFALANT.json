@@ -44,6 +44,13 @@
     "blurb": "Their fluffy fur absorbs damage, even if they strike foes with a fierce headbutt.",
     "name": "Bouffalant",
     "evolve_from": [],
+    "location": [
+        {
+            "route": "Route 18",
+            "area": "",
+            "method": "land"
+        }
+    ],
     "learnset": [
         {
             "level": 1,

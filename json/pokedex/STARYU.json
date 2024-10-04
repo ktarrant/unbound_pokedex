@@ -38,6 +38,48 @@
     ],
     "name": "Staryu",
     "evolve_from": [],
+    "location": [
+        {
+            "route": "Route 2",
+            "area": "",
+            "method": "Good Rod"
+        },
+        {
+            "route": "Route 2",
+            "area": "",
+            "method": "Super Rod"
+        },
+        {
+            "route": "Route 3",
+            "area": "",
+            "method": "Good Rod"
+        },
+        {
+            "route": "Route 3",
+            "area": "",
+            "method": "Super Rod"
+        },
+        {
+            "route": "Route 4",
+            "area": "",
+            "method": "Good Rod"
+        },
+        {
+            "route": "Route 4",
+            "area": "",
+            "method": "Super Rod"
+        },
+        {
+            "route": "Route 5",
+            "area": "",
+            "method": "Good Rod"
+        },
+        {
+            "route": "Route 5",
+            "area": "",
+            "method": "Super Rod"
+        }
+    ],
     "learnset": [
         {
             "level": 1,

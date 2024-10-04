@@ -50,6 +50,13 @@
     ],
     "name": "Shuppet",
     "evolve_from": [],
+    "location": [
+        {
+            "route": "Grim Woods",
+            "area": "",
+            "method": "land"
+        }
+    ],
     "learnset": [
         {
             "level": 1,

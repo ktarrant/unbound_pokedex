@@ -35,6 +35,13 @@
     "blurb": "It feeds on seaweed, using its teeth to scrape it off rocks. Electric current flows from the tips of its spines.",
     "name": "Pincurchin",
     "evolve_from": [],
+    "location": [
+        {
+            "route": "Thundercap Mt.",
+            "area": "Special Encounter",
+            "method": "land"
+        }
+    ],
     "learnset": [
         {
             "level": 1,

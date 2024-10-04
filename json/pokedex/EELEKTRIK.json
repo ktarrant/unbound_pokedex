@@ -41,6 +41,18 @@
     "evolve_from": [
         "TYNAMO"
     ],
+    "location": [
+        {
+            "route": "Thundercap Mt.",
+            "area": "3F",
+            "method": "land"
+        },
+        {
+            "route": "Thundercap Mt.",
+            "area": "",
+            "method": "surf"
+        }
+    ],
     "learnset": [
         {
             "level": 0,

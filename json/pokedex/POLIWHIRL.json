@@ -32,6 +32,18 @@
     "evolve_from": [
         "POLIWAG"
     ],
+    "location": [
+        {
+            "route": "Cootes Bog",
+            "area": "",
+            "method": "Good Rod"
+        },
+        {
+            "route": "Cootes Bog",
+            "area": "",
+            "method": "Super Rod"
+        }
+    ],
     "learnset": [
         {
             "level": 0,

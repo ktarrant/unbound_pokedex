@@ -32,6 +32,23 @@
     "evolve_from": [
         "WOOPER"
     ],
+    "location": [
+        {
+            "route": "Cliff Cave",
+            "area": "",
+            "method": "land"
+        },
+        {
+            "route": "Cootes Bog",
+            "area": "",
+            "method": "land"
+        },
+        {
+            "route": "Cootes Bog",
+            "area": "",
+            "method": "surf"
+        }
+    ],
     "learnset": [
         {
             "level": 1,

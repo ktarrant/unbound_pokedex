@@ -43,6 +43,13 @@
     "blurb": "Its tongue is just like a human's. As a result, it can cleverly mimic human speech.",
     "name": "Chatot",
     "evolve_from": [],
+    "location": [
+        {
+            "route": "Route 16",
+            "area": "",
+            "method": "land"
+        }
+    ],
     "learnset": [
         {
             "level": 1,

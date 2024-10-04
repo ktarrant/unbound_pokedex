@@ -50,6 +50,13 @@
     "blurb": "Stufful hates to be hugged or touched in any way. It will squirm, thrash, and resist with amazing power.",
     "name": "Stufful",
     "evolve_from": [],
+    "location": [
+        {
+            "route": "Route 2",
+            "area": "",
+            "method": "land"
+        }
+    ],
     "learnset": [
         {
             "level": 1,

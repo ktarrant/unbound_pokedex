@@ -39,6 +39,13 @@
     "blurb": "Ancient science fashioned this Pok\u00e9mon from clay. It's been active for thousands of years.",
     "name": "Golett",
     "evolve_from": [],
+    "location": [
+        {
+            "route": "Rift Cave",
+            "area": "1F",
+            "method": "land"
+        }
+    ],
     "learnset": [
         {
             "level": 1,

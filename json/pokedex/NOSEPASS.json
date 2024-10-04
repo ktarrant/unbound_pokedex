@@ -39,6 +39,68 @@
     ],
     "name": "Nosepass",
     "evolve_from": [],
+    "location": [
+        {
+            "route": "Valley Cave",
+            "area": "1F - 2F",
+            "method": "land"
+        },
+        {
+            "route": "Valley Cave",
+            "area": "B1F",
+            "method": "land"
+        },
+        {
+            "route": "Valley Cave",
+            "area": "",
+            "method": "Rock Smash"
+        },
+        {
+            "route": "KBT Expressway",
+            "area": "\"Tehl, Epidimy Entrances \"",
+            "method": "land"
+        },
+        {
+            "route": "KBT Expressway",
+            "area": "\"Dehara, Gurun, Antisis, \"",
+            "method": "land"
+        },
+        {
+            "route": "KBT Expressway",
+            "area": "",
+            "method": "Rock Smash"
+        },
+        {
+            "route": "Frost Mountain",
+            "area": "",
+            "method": "land"
+        },
+        {
+            "route": "Thundercap Mt.",
+            "area": "1F + 3F",
+            "method": "land"
+        },
+        {
+            "route": "Thundercap Mt.",
+            "area": "2F + 4F",
+            "method": "land"
+        },
+        {
+            "route": "Thundercap Mt.",
+            "area": "2F (Small Floor)",
+            "method": "land"
+        },
+        {
+            "route": "Thundercap Mt.",
+            "area": "3F",
+            "method": "land"
+        },
+        {
+            "route": "Thundercap Mt.",
+            "area": "Inside",
+            "method": "Rock Smash"
+        }
+    ],
     "learnset": [
         {
             "level": 1,

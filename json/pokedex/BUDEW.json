@@ -55,6 +55,13 @@
     "blurb": "It lives alongside clear ponds. It scatters pollen that induces harsh sneezing and runny noses.",
     "name": "Budew",
     "evolve_from": [],
+    "location": [
+        {
+            "route": "Route 4",
+            "area": "",
+            "method": "land"
+        }
+    ],
     "learnset": [
         {
             "level": 1,

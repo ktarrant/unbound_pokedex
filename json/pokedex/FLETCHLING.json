@@ -46,6 +46,13 @@
     "blurb": "When it's excited, its temperature can double, spiking hormone production in its body.",
     "name": "Fletchling",
     "evolve_from": [],
+    "location": [
+        {
+            "route": "Route 12",
+            "area": "",
+            "method": "land"
+        }
+    ],
     "learnset": [
         {
             "level": 1,

@@ -46,6 +46,18 @@
     "blurb": "Aside from its head, its body parts regenerate quickly if they're cut off.",
     "name": "Mareanie",
     "evolve_from": [],
+    "location": [
+        {
+            "route": "Route 14",
+            "area": "",
+            "method": "Super Rod"
+        },
+        {
+            "route": "Ruins of Void",
+            "area": "",
+            "method": "Super Rod"
+        }
+    ],
     "learnset": [
         {
             "level": 1,

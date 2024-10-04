@@ -52,6 +52,13 @@
     "blurb": "They stick their spikes into cave walls and absorb the minerals they find in the rock.",
     "name": "Ferroseed",
     "evolve_from": [],
+    "location": [
+        {
+            "route": "Thundercap Mt.",
+            "area": "Swarm",
+            "method": "land"
+        }
+    ],
     "learnset": [
         {
             "level": 1,

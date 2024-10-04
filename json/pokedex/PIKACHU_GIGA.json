@@ -54,6 +54,13 @@
         "PIKACHU_CAP_ALOLA",
         "PIKACHU_CAP_PARTNER"
     ],
+    "location": [
+        {
+            "route": "Vivill Woods",
+            "area": "Swarm",
+            "method": "land"
+        }
+    ],
     "learnset": [
         {
             "level": 1,

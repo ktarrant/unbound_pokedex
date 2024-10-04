@@ -54,6 +54,18 @@
     "evolve_from": [
         "SABLEYE_MEGA"
     ],
+    "location": [
+        {
+            "route": "Ruins of Void",
+            "area": "B3F - B1F",
+            "method": "land"
+        },
+        {
+            "route": "Ruins of Void",
+            "area": "B1F - B2F",
+            "method": "land"
+        }
+    ],
     "tm": [
         "MOVE_FOCUSPUNCH",
         "MOVE_WATERPULSE",

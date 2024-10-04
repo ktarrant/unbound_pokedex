@@ -35,6 +35,13 @@
     "blurb": "They say that any patisserie visited by Milcery is guaranteed success and good fortune.",
     "name": "Milcery",
     "evolve_from": [],
+    "location": [
+        {
+            "route": "Route 11",
+            "area": "Special Encounter",
+            "method": "land"
+        }
+    ],
     "learnset": [
         {
             "level": 1,

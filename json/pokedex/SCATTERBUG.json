@@ -39,6 +39,13 @@
     "blurb": "The powder that covers its body regulates its temperature, so it can live in any region or climate.",
     "name": "Scatterbug",
     "evolve_from": [],
+    "location": [
+        {
+            "route": "Vivill Woods",
+            "area": "",
+            "method": "land"
+        }
+    ],
     "learnset": [
         {
             "level": 1,

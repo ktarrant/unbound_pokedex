@@ -33,6 +33,28 @@
     "evolve_from": [
         "ROGGENROLA"
     ],
+    "location": [
+        {
+            "route": "Ice Hole",
+            "area": "",
+            "method": "land"
+        },
+        {
+            "route": "Icicle Cave",
+            "area": "1F + B1F",
+            "method": "land"
+        },
+        {
+            "route": "Icicle Cave",
+            "area": "",
+            "method": "Rock Smash"
+        },
+        {
+            "route": "Victory Road",
+            "area": "1F",
+            "method": "land"
+        }
+    ],
     "learnset": [
         {
             "level": 0,

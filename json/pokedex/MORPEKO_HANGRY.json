@@ -31,6 +31,13 @@
     "blurb": "Intense hunger drives it to extremes of violence. Until its hunger is appeased, it gets up to all manner of evil deeds.",
     "name": "Morpeko",
     "evolve_from": [],
+    "location": [
+        {
+            "route": "Route 6",
+            "area": "Special Encounter",
+            "method": "land"
+        }
+    ],
     "learnset": [
         {
             "level": 1,

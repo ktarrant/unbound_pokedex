@@ -50,6 +50,38 @@
     ],
     "name": "Chinchou",
     "evolve_from": [],
+    "location": [
+        {
+            "route": "Route 14",
+            "area": "",
+            "method": "Super Rod"
+        },
+        {
+            "route": "Route 16",
+            "area": "",
+            "method": "Super Rod"
+        },
+        {
+            "route": "Route 17",
+            "area": "",
+            "method": "Super Rod"
+        },
+        {
+            "route": "Thundercap Mt.",
+            "area": "",
+            "method": "surf"
+        },
+        {
+            "route": "Thundercap Mt.",
+            "area": "",
+            "method": "Good Rod"
+        },
+        {
+            "route": "Ruins of Void",
+            "area": "",
+            "method": "Super Rod"
+        }
+    ],
     "learnset": [
         {
             "level": 1,

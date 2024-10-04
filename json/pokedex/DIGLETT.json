@@ -52,6 +52,13 @@
     ],
     "name": "Diglett",
     "evolve_from": [],
+    "location": [
+        {
+            "route": "Lost Tunnel",
+            "area": "",
+            "method": "land"
+        }
+    ],
     "learnset": [
         {
             "level": 1,

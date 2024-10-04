@@ -33,6 +33,13 @@
     "evolve_from": [
         "CORSOLA_G"
     ],
+    "location": [
+        {
+            "route": "Route 16",
+            "area": "Special Encounter",
+            "method": "Super Rod"
+        }
+    ],
     "learnset": [
         {
             "level": 1,

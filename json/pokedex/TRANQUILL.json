@@ -41,6 +41,13 @@
     "evolve_from": [
         "PIDOVE"
     ],
+    "location": [
+        {
+            "route": "Magnolia Fields",
+            "area": "",
+            "method": "land"
+        }
+    ],
     "learnset": [
         {
             "level": 1,

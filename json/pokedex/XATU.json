@@ -32,6 +32,13 @@
     "evolve_from": [
         "NATU"
     ],
+    "location": [
+        {
+            "route": "Safari Zone",
+            "area": "Medium",
+            "method": "land"
+        }
+    ],
     "learnset": [
         {
             "level": 0,

@@ -30,6 +30,13 @@
     "noFlip": true,
     "name": "Enamorus",
     "evolve_from": [],
+    "location": [
+        {
+            "route": "Magnolia Fields",
+            "area": "Special Encounter",
+            "method": "surf"
+        }
+    ],
     "learnset": [
         {
             "level": 1,

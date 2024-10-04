@@ -47,6 +47,18 @@
     "blurb": "By spinning its body, it can dig straight through the ground at a speed of 30 mph.",
     "name": "Drilbur",
     "evolve_from": [],
+    "location": [
+        {
+            "route": "Icicle Cave",
+            "area": "4F (Secret Entrance)",
+            "method": "land"
+        },
+        {
+            "route": "Cinder Volcano",
+            "area": "1F - 4F",
+            "method": "land"
+        }
+    ],
     "learnset": [
         {
             "level": 1,

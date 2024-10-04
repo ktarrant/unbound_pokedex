@@ -47,6 +47,13 @@
     "evolve_from": [
         "MIME_JR_G"
     ],
+    "location": [
+        {
+            "route": "Route 7",
+            "area": "Swarm",
+            "method": "land"
+        }
+    ],
     "learnset": [
         {
             "level": 0,

@@ -41,6 +41,78 @@
         "MAGIKARP",
         "GYARADOS_MEGA"
     ],
+    "location": [
+        {
+            "route": "Route 2",
+            "area": "",
+            "method": "Super Rod"
+        },
+        {
+            "route": "Route 4",
+            "area": "",
+            "method": "Super Rod"
+        },
+        {
+            "route": "Route 5",
+            "area": "",
+            "method": "Super Rod"
+        },
+        {
+            "route": "Route 6",
+            "area": "",
+            "method": "Super Rod"
+        },
+        {
+            "route": "Route 7",
+            "area": "",
+            "method": "Super Rod"
+        },
+        {
+            "route": "Route 9 + Autl Woods",
+            "area": "",
+            "method": "Super Rod"
+        },
+        {
+            "route": "Route 12",
+            "area": "",
+            "method": "Super Rod"
+        },
+        {
+            "route": "Route 18",
+            "area": "",
+            "method": "Super Rod"
+        },
+        {
+            "route": "Valley Cave",
+            "area": "",
+            "method": "Super Rod"
+        },
+        {
+            "route": "Auburn Waterway",
+            "area": "",
+            "method": "Super Rod"
+        },
+        {
+            "route": "Ruins of Void",
+            "area": "",
+            "method": "Super Rod"
+        },
+        {
+            "route": "Magnolia Fields",
+            "area": "",
+            "method": "Good Rod"
+        },
+        {
+            "route": "Magnolia Fields",
+            "area": "",
+            "method": "Super Rod"
+        },
+        {
+            "route": "Victory Road",
+            "area": "1F - B1F - 2F",
+            "method": "Super Rod"
+        }
+    ],
     "tm": [
         "MOVE_WATERPULSE",
         "MOVE_ROAR",

@@ -31,6 +31,13 @@
     "blurb": "The shaking of its freezing upper half is what generates its electricity. It has a hard time walking around.",
     "name": "Arctozolt",
     "evolve_from": [],
+    "location": [
+        {
+            "route": "Crystal Peak",
+            "area": "Special Encounter",
+            "method": "land"
+        }
+    ],
     "learnset": [
         {
             "level": 1,

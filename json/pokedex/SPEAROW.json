@@ -51,6 +51,13 @@
     ],
     "name": "Spearow",
     "evolve_from": [],
+    "location": [
+        {
+            "route": "Route 9 + Autl Woods",
+            "area": "",
+            "method": "land"
+        }
+    ],
     "learnset": [
         {
             "level": 1,

@@ -37,6 +37,28 @@
     "blurb": "Its skin is thick enough to fend off spikes. With its robust teeth, it crunches up and eats the spikes.",
     "name": "Bruxish",
     "evolve_from": [],
+    "location": [
+        {
+            "route": "Route 9 + Autl Woods",
+            "area": "",
+            "method": "Super Rod"
+        },
+        {
+            "route": "Route 10",
+            "area": "",
+            "method": "Super Rod"
+        },
+        {
+            "route": "Auburn Waterway",
+            "area": "",
+            "method": "Super Rod"
+        },
+        {
+            "route": "Victory Road",
+            "area": "Maze Area",
+            "method": "Super Rod"
+        }
+    ],
     "learnset": [
         {
             "level": 1,

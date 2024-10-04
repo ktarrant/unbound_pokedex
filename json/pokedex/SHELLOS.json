@@ -55,6 +55,13 @@
     "blurb": "Its shape and coloration vary, depending on its habitat.",
     "name": "Shellos",
     "evolve_from": [],
+    "location": [
+        {
+            "route": "Route 3",
+            "area": "",
+            "method": "land"
+        }
+    ],
     "tm": [
         "MOVE_WATERPULSE",
         "MOVE_TOXIC",

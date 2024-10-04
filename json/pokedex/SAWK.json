@@ -31,6 +31,13 @@
     "blurb": "Desiring the strongest karate chop, they seclude themselves in mountains and train without sleeping.",
     "name": "Sawk",
     "evolve_from": [],
+    "location": [
+        {
+            "route": "Route 16",
+            "area": "",
+            "method": "land"
+        }
+    ],
     "learnset": [
         {
             "level": 1,

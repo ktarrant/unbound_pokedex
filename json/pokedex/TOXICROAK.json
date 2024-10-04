@@ -33,6 +33,13 @@
     "evolve_from": [
         "CROAGUNK"
     ],
+    "location": [
+        {
+            "route": "Cootes Bog",
+            "area": "",
+            "method": "land"
+        }
+    ],
     "learnset": [
         {
             "level": 1,

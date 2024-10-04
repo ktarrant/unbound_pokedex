@@ -53,6 +53,13 @@
     ],
     "name": "Ralts",
     "evolve_from": [],
+    "location": [
+        {
+            "route": "Route 4",
+            "area": "",
+            "method": "land"
+        }
+    ],
     "learnset": [
         {
             "level": 1,

@@ -45,6 +45,13 @@
     "blurb": "It becomes extremely sluggish after eating its fill. That's when Cramorant swallows it up.",
     "name": "Arrokuda",
     "evolve_from": [],
+    "location": [
+        {
+            "route": "Route 9 + Autl Woods",
+            "area": "Special Encounter",
+            "method": "surf"
+        }
+    ],
     "learnset": [
         {
             "level": 1,

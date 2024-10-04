@@ -38,6 +38,13 @@
     ],
     "name": "Cascoon",
     "evolve_from": [],
+    "location": [
+        {
+            "route": "Vivill Woods",
+            "area": "",
+            "method": "land"
+        }
+    ],
     "learnset": [
         {
             "level": 0,

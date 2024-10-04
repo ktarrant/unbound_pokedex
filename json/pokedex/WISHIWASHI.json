@@ -38,6 +38,38 @@
     "blurb": "They're weak, so they move in schools. However, they can also often be seen all alone, having strayed from the school.",
     "name": "Wishiwashi",
     "evolve_from": [],
+    "location": [
+        {
+            "route": "Route 9 + Autl Woods",
+            "area": "",
+            "method": "Good Rod"
+        },
+        {
+            "route": "Route 9 + Autl Woods",
+            "area": "",
+            "method": "Super Rod"
+        },
+        {
+            "route": "Route 10",
+            "area": "",
+            "method": "Good Rod"
+        },
+        {
+            "route": "Route 10",
+            "area": "",
+            "method": "Super Rod"
+        },
+        {
+            "route": "Auburn Waterway",
+            "area": "",
+            "method": "Good Rod"
+        },
+        {
+            "route": "Auburn Waterway",
+            "area": "",
+            "method": "Super Rod"
+        }
+    ],
     "tm": [
         "MOVE_WATERPULSE",
         "MOVE_TOXIC",

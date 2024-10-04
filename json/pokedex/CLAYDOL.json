@@ -32,6 +32,13 @@
     "evolve_from": [
         "BALTOY"
     ],
+    "location": [
+        {
+            "route": "Ruins of Void",
+            "area": "B1F - B2F",
+            "method": "land"
+        }
+    ],
     "learnset": [
         {
             "level": 0,

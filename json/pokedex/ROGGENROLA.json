@@ -50,6 +50,38 @@
     "blurb": "Its ear is hexagonal in shape. Compressed underground, its body is as hard as steel.",
     "name": "Roggenrola",
     "evolve_from": [],
+    "location": [
+        {
+            "route": "Route 2",
+            "area": "",
+            "method": "Rock Smash"
+        },
+        {
+            "route": "Route 8",
+            "area": "",
+            "method": "Rock Smash"
+        },
+        {
+            "route": "Icicle Cave",
+            "area": "4F - 1F",
+            "method": "land"
+        },
+        {
+            "route": "Icicle Cave",
+            "area": "4F (Secret Entrance)",
+            "method": "land"
+        },
+        {
+            "route": "Icicle Cave",
+            "area": "",
+            "method": "Rock Smash"
+        },
+        {
+            "route": "Frost Mountain",
+            "area": "",
+            "method": "land"
+        }
+    ],
     "learnset": [
         {
             "level": 1,

@@ -40,6 +40,18 @@
     "evolve_from": [
         "TORCHIC"
     ],
+    "location": [
+        {
+            "route": "Safari Zone",
+            "area": "Hard",
+            "method": "land"
+        },
+        {
+            "route": "Safari Zone",
+            "area": "Insane",
+            "method": "land"
+        }
+    ],
     "learnset": [
         {
             "level": 0,

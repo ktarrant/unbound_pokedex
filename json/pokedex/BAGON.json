@@ -51,6 +51,13 @@
     ],
     "name": "Bagon",
     "evolve_from": [],
+    "location": [
+        {
+            "route": "Route 17",
+            "area": "",
+            "method": "land"
+        }
+    ],
     "learnset": [
         {
             "level": 1,

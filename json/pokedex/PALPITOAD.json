@@ -41,6 +41,28 @@
     "evolve_from": [
         "TYMPOLE"
     ],
+    "location": [
+        {
+            "route": "Route 10",
+            "area": "",
+            "method": "land"
+        },
+        {
+            "route": "Route 10",
+            "area": "",
+            "method": "surf"
+        },
+        {
+            "route": "Auburn Waterway",
+            "area": "",
+            "method": "land"
+        },
+        {
+            "route": "Auburn Waterway",
+            "area": "",
+            "method": "surf"
+        }
+    ],
     "learnset": [
         {
             "level": 1,

@@ -41,6 +41,13 @@
     "evolve_from": [
         "ROLYCOLY"
     ],
+    "location": [
+        {
+            "route": "Cinder Volcano",
+            "area": "Special Encounter",
+            "method": "land"
+        }
+    ],
     "learnset": [
         {
             "level": 0,

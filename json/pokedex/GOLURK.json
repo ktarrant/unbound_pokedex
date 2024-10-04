@@ -33,6 +33,13 @@
     "evolve_from": [
         "GOLETT"
     ],
+    "location": [
+        {
+            "route": "Rift Cave",
+            "area": "B1F - B2F",
+            "method": "land"
+        }
+    ],
     "learnset": [
         {
             "level": 0,

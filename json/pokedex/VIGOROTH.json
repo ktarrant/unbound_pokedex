@@ -40,6 +40,13 @@
     "evolve_from": [
         "SLAKOTH"
     ],
+    "location": [
+        {
+            "route": "Redwood Forest",
+            "area": "",
+            "method": "land"
+        }
+    ],
     "learnset": [
         {
             "level": 0,

@@ -50,6 +50,13 @@
     "blurb": "It grows up imitating the behavior of Pangoro, which it looks up to as a leader.",
     "name": "Pancham",
     "evolve_from": [],
+    "location": [
+        {
+            "route": "Route 16",
+            "area": "",
+            "method": "land"
+        }
+    ],
     "learnset": [
         {
             "level": 1,

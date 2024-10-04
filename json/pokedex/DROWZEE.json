@@ -56,6 +56,13 @@
     ],
     "name": "Drowzee",
     "evolve_from": [],
+    "location": [
+        {
+            "route": "Route 7",
+            "area": "",
+            "method": "land"
+        }
+    ],
     "learnset": [
         {
             "level": 1,

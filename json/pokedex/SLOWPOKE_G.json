@@ -39,6 +39,18 @@
     "blurb": "Because it eats the seeds of a plant that grows only in Galar, their tails have developed a spicy flavor.",
     "name": "Slowpoke",
     "evolve_from": [],
+    "location": [
+        {
+            "route": "Route 3",
+            "area": "",
+            "method": "land"
+        },
+        {
+            "route": "Route 14",
+            "area": "",
+            "method": "land"
+        }
+    ],
     "learnset": [
         {
             "level": 1,

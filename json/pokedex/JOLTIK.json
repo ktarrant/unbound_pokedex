@@ -54,6 +54,13 @@
     "blurb": "Joltik that live in cities have learned a technique for sucking electricity from the outlets in houses.",
     "name": "Joltik",
     "evolve_from": [],
+    "location": [
+        {
+            "route": "Thundercap Mt.",
+            "area": "Swarm",
+            "method": "land"
+        }
+    ],
     "learnset": [
         {
             "level": 1,

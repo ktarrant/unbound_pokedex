@@ -30,6 +30,23 @@
     "noFlip": true,
     "name": "Ditto",
     "evolve_from": [],
+    "location": [
+        {
+            "route": "Route 5",
+            "area": "",
+            "method": "land"
+        },
+        {
+            "route": "Route 10",
+            "area": "",
+            "method": "land"
+        },
+        {
+            "route": "Auburn Waterway",
+            "area": "",
+            "method": "land"
+        }
+    ],
     "learnset": [
         {
             "level": 1,

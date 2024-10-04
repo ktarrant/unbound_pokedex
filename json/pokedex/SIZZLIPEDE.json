@@ -46,6 +46,13 @@
     "blurb": "It stores flammable gas in its body and uses it to generate heat. It then coils around its prey and cooks it.",
     "name": "Sizzlipede",
     "evolve_from": [],
+    "location": [
+        {
+            "route": "Route 4",
+            "area": "Special Encounter",
+            "method": "land"
+        }
+    ],
     "learnset": [
         {
             "level": 1,

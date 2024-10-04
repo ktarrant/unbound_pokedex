@@ -41,6 +41,13 @@
     "evolve_from": [
         "SANDILE"
     ],
+    "location": [
+        {
+            "route": "Great Desert",
+            "area": "",
+            "method": "land"
+        }
+    ],
     "learnset": [
         {
             "level": 1,

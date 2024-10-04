@@ -44,6 +44,13 @@
     "evolve_from": [
         "BONSLY"
     ],
+    "location": [
+        {
+            "route": "Route 18",
+            "area": "",
+            "method": "land"
+        }
+    ],
     "learnset": [
         {
             "level": 0,

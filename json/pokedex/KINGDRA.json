@@ -30,6 +30,13 @@
     "noFlip": true,
     "name": "Kingdra",
     "evolve_from": [],
+    "location": [
+        {
+            "route": "Ruins of Void",
+            "area": "",
+            "method": "Super Rod"
+        }
+    ],
     "learnset": [
         {
             "level": 1,

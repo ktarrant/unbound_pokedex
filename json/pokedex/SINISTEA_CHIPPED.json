@@ -39,6 +39,13 @@
     "blurb": "The swirl pattern in its body is its weakness. If it gets stirred, the swirl loses its shape, and it gets dizzy.",
     "name": "Sinistea",
     "evolve_from": [],
+    "location": [
+        {
+            "route": "Rift Cave",
+            "area": "Special Encounter",
+            "method": "land"
+        }
+    ],
     "learnset": [
         {
             "level": 1,

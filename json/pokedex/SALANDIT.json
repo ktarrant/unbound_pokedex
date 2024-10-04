@@ -47,6 +47,18 @@
     "blurb": "It burns its bodily fluids to create a poisonous gas. It weakens enemies and sends them reeling with it.",
     "name": "Salandit",
     "evolve_from": [],
+    "location": [
+        {
+            "route": "Cinder Volcano",
+            "area": "1F - 4F",
+            "method": "land"
+        },
+        {
+            "route": "Cinder Volcano",
+            "area": "Shadow Basement",
+            "method": "land"
+        }
+    ],
     "learnset": [
         {
             "level": 1,

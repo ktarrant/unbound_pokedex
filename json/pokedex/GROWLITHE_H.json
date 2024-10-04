@@ -52,6 +52,13 @@
     "blurb": "These Pok\u00e9mon live in packs in the snowy mountains and defend themselves with icy breath.",
     "name": "Growlithe",
     "evolve_from": [],
+    "location": [
+        {
+            "route": "Route 5",
+            "area": "",
+            "method": "land"
+        }
+    ],
     "learnset": [
         {
             "level": 1,

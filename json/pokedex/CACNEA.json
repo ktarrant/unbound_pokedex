@@ -58,6 +58,13 @@
     ],
     "name": "Cacnea",
     "evolve_from": [],
+    "location": [
+        {
+            "route": "Great Desert",
+            "area": "",
+            "method": "land"
+        }
+    ],
     "learnset": [
         {
             "level": 1,

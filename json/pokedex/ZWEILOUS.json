@@ -41,6 +41,18 @@
     "evolve_from": [
         "DEINO"
     ],
+    "location": [
+        {
+            "route": "Crystal Peak",
+            "area": "B1F + 1F - 5F",
+            "method": "land"
+        },
+        {
+            "route": "Crystal Peak",
+            "area": "1F",
+            "method": "land"
+        }
+    ],
     "learnset": [
         {
             "level": 0,

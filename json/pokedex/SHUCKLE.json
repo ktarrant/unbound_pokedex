@@ -45,6 +45,28 @@
     ],
     "name": "Shuckle",
     "evolve_from": [],
+    "location": [
+        {
+            "route": "Icicle Cave",
+            "area": "",
+            "method": "Rock Smash"
+        },
+        {
+            "route": "Cinder Volcano",
+            "area": "",
+            "method": "Rock Smash"
+        },
+        {
+            "route": "Thundercap Mt.",
+            "area": "Inside",
+            "method": "Rock Smash"
+        },
+        {
+            "route": "Tomb of Borrius",
+            "area": "",
+            "method": "Rock Smash"
+        }
+    ],
     "learnset": [
         {
             "level": 1,

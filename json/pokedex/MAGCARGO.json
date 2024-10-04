@@ -32,6 +32,28 @@
     "evolve_from": [
         "SLUGMA"
     ],
+    "location": [
+        {
+            "route": "Cinder Volcano",
+            "area": "",
+            "method": "surf"
+        },
+        {
+            "route": "Cinder Volcano",
+            "area": "",
+            "method": "Rock Smash"
+        },
+        {
+            "route": "Victory Road",
+            "area": "B1F",
+            "method": "land"
+        },
+        {
+            "route": "Victory Road",
+            "area": "B1F",
+            "method": "surf"
+        }
+    ],
     "learnset": [
         {
             "level": 0,

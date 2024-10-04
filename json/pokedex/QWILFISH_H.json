@@ -50,6 +50,18 @@
     "blurb": "Fisherman detest this troublesome Pok\u00e9mon because it sprays poison from its spines, getting it everywhere.",
     "name": "Qwilfish",
     "evolve_from": [],
+    "location": [
+        {
+            "route": "Crystal Peak",
+            "area": "",
+            "method": "Super Rod"
+        },
+        {
+            "route": "Magnolia Fields",
+            "area": "",
+            "method": "Super Rod"
+        }
+    ],
     "learnset": [
         {
             "level": 1,

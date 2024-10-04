@@ -53,6 +53,28 @@
     ],
     "name": "Grimer",
     "evolve_from": [],
+    "location": [
+        {
+            "route": "Antisis Sewers",
+            "area": "",
+            "method": "land"
+        },
+        {
+            "route": "Antisis Sewers",
+            "area": "",
+            "method": "surf"
+        },
+        {
+            "route": "Antisis Sewers",
+            "area": "",
+            "method": "Old Rod"
+        },
+        {
+            "route": "Antisis Sewers",
+            "area": "",
+            "method": "Good Rod"
+        }
+    ],
     "learnset": [
         {
             "level": 1,

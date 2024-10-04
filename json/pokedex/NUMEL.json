@@ -57,6 +57,18 @@
     ],
     "name": "Numel",
     "evolve_from": [],
+    "location": [
+        {
+            "route": "Route 4",
+            "area": "",
+            "method": "land"
+        },
+        {
+            "route": "Cinder Volcano",
+            "area": "1F - 4F",
+            "method": "land"
+        }
+    ],
     "learnset": [
         {
             "level": 1,

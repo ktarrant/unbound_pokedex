@@ -52,6 +52,13 @@
     ],
     "name": "Spoink",
     "evolve_from": [],
+    "location": [
+        {
+            "route": "Route 11",
+            "area": "",
+            "method": "land"
+        }
+    ],
     "learnset": [
         {
             "level": 1,

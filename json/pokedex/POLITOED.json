@@ -30,6 +30,13 @@
     "noFlip": true,
     "name": "Politoed",
     "evolve_from": [],
+    "location": [
+        {
+            "route": "Cootes Bog",
+            "area": "",
+            "method": "Super Rod"
+        }
+    ],
     "learnset": [
         {
             "level": 0,

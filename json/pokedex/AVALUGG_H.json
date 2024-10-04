@@ -31,6 +31,28 @@
     "blurb": "The armor of ice covering its lower jaw puts steel to shame and can shatter rocks with ease.",
     "name": "Avalugg",
     "evolve_from": [],
+    "location": [
+        {
+            "route": "Ice Hole",
+            "area": "",
+            "method": "land"
+        },
+        {
+            "route": "Icicle Cave",
+            "area": "1F + B1F",
+            "method": "land"
+        },
+        {
+            "route": "Icicle Cave",
+            "area": "",
+            "method": "Rock Smash"
+        },
+        {
+            "route": "Victory Road",
+            "area": "4F + Kyurem's Cave",
+            "method": "land"
+        }
+    ],
     "learnset": [
         {
             "level": 0,

@@ -52,6 +52,13 @@
     "blurb": "It feels pleasantly cool when embraced. This Pok\u00e9mon is treasured by households in warm regions.",
     "name": "Vanillite",
     "evolve_from": [],
+    "location": [
+        {
+            "route": "Route 1",
+            "area": "",
+            "method": "land"
+        }
+    ],
     "learnset": [
         {
             "level": 1,

@@ -45,6 +45,13 @@
     "blurb": "This Pok\u00e9mon becomes uneasy if its cheeks are ever completely empty of berries.",
     "name": "Skwovet",
     "evolve_from": [],
+    "location": [
+        {
+            "route": "Route 3",
+            "area": "Special Encounter",
+            "method": "land"
+        }
+    ],
     "learnset": [
         {
             "level": 1,

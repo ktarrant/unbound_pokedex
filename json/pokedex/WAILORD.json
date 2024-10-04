@@ -32,6 +32,23 @@
     "evolve_from": [
         "WAILMER"
     ],
+    "location": [
+        {
+            "route": "Route 12",
+            "area": "",
+            "method": "Super Rod"
+        },
+        {
+            "route": "Route 14",
+            "area": "",
+            "method": "Super Rod"
+        },
+        {
+            "route": "Magnolia Fields",
+            "area": "",
+            "method": "Super Rod"
+        }
+    ],
     "learnset": [
         {
             "level": 1,

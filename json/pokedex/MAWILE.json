@@ -58,6 +58,13 @@
     "evolve_from": [
         "MAWILE_MEGA"
     ],
+    "location": [
+        {
+            "route": "Icicle Cave",
+            "area": "4F (Secret Entrance)",
+            "method": "land"
+        }
+    ],
     "tm": [
         "MOVE_FOCUSPUNCH",
         "MOVE_TOXIC",

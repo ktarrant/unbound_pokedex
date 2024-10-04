@@ -57,6 +57,23 @@
     "evolve_from": [
         "KANGASKHAN_MEGA"
     ],
+    "location": [
+        {
+            "route": "Safari Zone",
+            "area": "Medium",
+            "method": "land"
+        },
+        {
+            "route": "Safari Zone",
+            "area": "Hard",
+            "method": "land"
+        },
+        {
+            "route": "Safari Zone",
+            "area": "Insane",
+            "method": "land"
+        }
+    ],
     "tm": [
         "MOVE_FOCUSPUNCH",
         "MOVE_WATERPULSE",

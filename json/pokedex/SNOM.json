@@ -44,6 +44,13 @@
     "blurb": "It eats snow that piles up on the ground. The more snow it eats, the bigger its spikes grow.",
     "name": "Snom",
     "evolve_from": [],
+    "location": [
+        {
+            "route": "Frozen Forest",
+            "area": "Special Encounter",
+            "method": "land"
+        }
+    ],
     "learnset": [
         {
             "level": 1,

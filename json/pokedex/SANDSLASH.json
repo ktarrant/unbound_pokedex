@@ -32,6 +32,13 @@
     "evolve_from": [
         "SANDSHREW"
     ],
+    "location": [
+        {
+            "route": "Great Desert",
+            "area": "",
+            "method": "land"
+        }
+    ],
     "learnset": [
         {
             "level": 0,

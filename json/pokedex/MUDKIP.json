@@ -61,6 +61,18 @@
     ],
     "name": "Mudkip",
     "evolve_from": [],
+    "location": [
+        {
+            "route": "Safari Zone",
+            "area": "Easy",
+            "method": "land"
+        },
+        {
+            "route": "Safari Zone",
+            "area": "Medium",
+            "method": "land"
+        }
+    ],
     "learnset": [
         {
             "level": 1,

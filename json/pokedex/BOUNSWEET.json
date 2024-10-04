@@ -48,6 +48,13 @@
     "blurb": "Because of its sweet, delicious aroma, bird Pok\u00e9mon are always after it.",
     "name": "Bounsweet",
     "evolve_from": [],
+    "location": [
+        {
+            "route": "Safari Zone",
+            "area": "Easy",
+            "method": "land"
+        }
+    ],
     "learnset": [
         {
             "level": 1,

@@ -51,6 +51,33 @@
     "blurb": "Scientists discovered that the distinctive patterns on its back differ by region.",
     "name": "Mantyke",
     "evolve_from": [],
+    "location": [
+        {
+            "route": "Route 6",
+            "area": "",
+            "method": "surf"
+        },
+        {
+            "route": "Route 7",
+            "area": "",
+            "method": "surf"
+        },
+        {
+            "route": "Route 12",
+            "area": "",
+            "method": "surf"
+        },
+        {
+            "route": "Route 16",
+            "area": "",
+            "method": "surf"
+        },
+        {
+            "route": "Route 17",
+            "area": "",
+            "method": "surf"
+        }
+    ],
     "learnset": [
         {
             "level": 1,

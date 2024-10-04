@@ -53,6 +53,13 @@
     "blurb": "They trick people with cuteness, and steal their valuables just to see the looks on their faces.",
     "name": "Purrloin",
     "evolve_from": [],
+    "location": [
+        {
+            "route": "Route 5",
+            "area": "",
+            "method": "land"
+        }
+    ],
     "learnset": [
         {
             "level": 1,

@@ -41,6 +41,13 @@
     "evolve_from": [
         "SCORBUNNY"
     ],
+    "location": [
+        {
+            "route": "Redwood Forest",
+            "area": "Special Encounter",
+            "method": "land"
+        }
+    ],
     "learnset": [
         {
             "level": 1,

@@ -45,6 +45,13 @@
     "blurb": "For some reason they evolve when they receive electrical energy while they are attacking Shelmet.",
     "name": "Karrablast",
     "evolve_from": [],
+    "location": [
+        {
+            "route": "Route 9 + Autl Woods",
+            "area": "Swarm",
+            "method": "land"
+        }
+    ],
     "learnset": [
         {
             "level": 1,

@@ -38,6 +38,13 @@
     ],
     "name": "Plusle",
     "evolve_from": [],
+    "location": [
+        {
+            "route": "Safari Zone",
+            "area": "Easy",
+            "method": "land"
+        }
+    ],
     "learnset": [
         {
             "level": 1,

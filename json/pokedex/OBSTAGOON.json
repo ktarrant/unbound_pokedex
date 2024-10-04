@@ -33,6 +33,13 @@
     "evolve_from": [
         "LINOONE_G"
     ],
+    "location": [
+        {
+            "route": "Route 10",
+            "area": "Special Encounter",
+            "method": "land"
+        }
+    ],
     "learnset": [
         {
             "level": 0,

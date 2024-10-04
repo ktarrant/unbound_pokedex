@@ -40,6 +40,13 @@
     "evolve_from": [
         "COPPERAJAH"
     ],
+    "location": [
+        {
+            "route": "Route 16",
+            "area": "Special Encounter",
+            "method": "land"
+        }
+    ],
     "learnset": [
         {
             "level": 0,

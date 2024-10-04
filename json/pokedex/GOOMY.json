@@ -41,6 +41,18 @@
     "blurb": "It's covered in a slimy membrane that makes any punches or kicks slide off it harmlessly.",
     "name": "Goomy",
     "evolve_from": [],
+    "location": [
+        {
+            "route": "Route 10",
+            "area": "",
+            "method": "land"
+        },
+        {
+            "route": "Auburn Waterway",
+            "area": "",
+            "method": "land"
+        }
+    ],
     "learnset": [
         {
             "level": 1,

@@ -40,6 +40,13 @@
     "evolve_from": [
         "WEEDLE"
     ],
+    "location": [
+        {
+            "route": "Vivill Woods",
+            "area": "",
+            "method": "land"
+        }
+    ],
     "learnset": [
         {
             "level": 0,

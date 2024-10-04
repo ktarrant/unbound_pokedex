@@ -50,6 +50,18 @@
     "blurb": "When it is not feeling well, its mucus gets watery and the power of its Ice-type moves decreases.",
     "name": "Cubchoo",
     "evolve_from": [],
+    "location": [
+        {
+            "route": "Route 8",
+            "area": "",
+            "method": "land"
+        },
+        {
+            "route": "Frozen Forest",
+            "area": "",
+            "method": "land"
+        }
+    ],
     "learnset": [
         {
             "level": 1,

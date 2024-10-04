@@ -32,6 +32,38 @@
     "evolve_from": [
         "SEEL"
     ],
+    "location": [
+        {
+            "route": "Icicle Cave",
+            "area": "",
+            "method": "surf"
+        },
+        {
+            "route": "Icicle Cave",
+            "area": "",
+            "method": "Super Rod"
+        },
+        {
+            "route": "Frost Mountain",
+            "area": "",
+            "method": "surf"
+        },
+        {
+            "route": "Frost Mountain",
+            "area": "",
+            "method": "Super Rod"
+        },
+        {
+            "route": "Victory Road",
+            "area": "Maze Area",
+            "method": "surf"
+        },
+        {
+            "route": "Victory Road",
+            "area": "Maze Area",
+            "method": "Super Rod"
+        }
+    ],
     "learnset": [
         {
             "level": 0,

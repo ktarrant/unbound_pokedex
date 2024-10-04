@@ -37,6 +37,13 @@
     "blurb": "It stays asleep from the moment it's born. When it falls into a deep sleep, it stops moving altogether.",
     "name": "Komala",
     "evolve_from": [],
+    "location": [
+        {
+            "route": "Redwood Forest",
+            "area": "",
+            "method": "land"
+        }
+    ],
     "learnset": [
         {
             "level": 1,

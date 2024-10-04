@@ -30,6 +30,13 @@
     "noFlip": true,
     "name": "Marowak",
     "evolve_from": [],
+    "location": [
+        {
+            "route": "Thundercap Mt.",
+            "area": "3F",
+            "method": "land"
+        }
+    ],
     "learnset": [
         {
             "level": 1,

@@ -51,6 +51,13 @@
     "blurb": "With its sharp glare, it puts foes in a mild hypnotic state. It is a very fickle Pok\u00e9mon.",
     "name": "Glameow",
     "evolve_from": [],
+    "location": [
+        {
+            "route": "Route 11",
+            "area": "Swarm",
+            "method": "land"
+        }
+    ],
     "learnset": [
         {
             "level": 1,

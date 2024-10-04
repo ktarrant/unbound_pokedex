@@ -49,6 +49,13 @@
     "blurb": "They freeze their breath to make snowballs, using them as ammo for playful snowball fights.",
     "name": "Darumaka",
     "evolve_from": [],
+    "location": [
+        {
+            "route": "Great Desert",
+            "area": "",
+            "method": "land"
+        }
+    ],
     "learnset": [
         {
             "level": 1,

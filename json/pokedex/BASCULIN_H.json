@@ -43,6 +43,33 @@
     "blurb": "This Basculin differs from others in several respects, including its demeanor - this one is gentle.",
     "name": "Basculin",
     "evolve_from": [],
+    "location": [
+        {
+            "route": "Route 2",
+            "area": "",
+            "method": "surf"
+        },
+        {
+            "route": "Route 4",
+            "area": "",
+            "method": "surf"
+        },
+        {
+            "route": "Route 5",
+            "area": "",
+            "method": "surf"
+        },
+        {
+            "route": "Route 11",
+            "area": "",
+            "method": "surf"
+        },
+        {
+            "route": "Victory Road",
+            "area": "Maze Area",
+            "method": "surf"
+        }
+    ],
     "learnset": [
         {
             "level": 1,

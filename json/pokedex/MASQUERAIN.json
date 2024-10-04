@@ -32,6 +32,38 @@
     "evolve_from": [
         "SURSKIT"
     ],
+    "location": [
+        {
+            "route": "Route 9 + Autl Woods",
+            "area": "",
+            "method": "surf"
+        },
+        {
+            "route": "Route 10",
+            "area": "",
+            "method": "surf"
+        },
+        {
+            "route": "Grim Woods",
+            "area": "",
+            "method": "surf"
+        },
+        {
+            "route": "Auburn Waterway",
+            "area": "",
+            "method": "surf"
+        },
+        {
+            "route": "Vivill Woods",
+            "area": "",
+            "method": "surf"
+        },
+        {
+            "route": "Redwood Forest",
+            "area": "",
+            "method": "surf"
+        }
+    ],
     "learnset": [
         {
             "level": 0,

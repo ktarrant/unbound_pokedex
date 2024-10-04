@@ -41,6 +41,13 @@
     ],
     "name": "Nincada",
     "evolve_from": [],
+    "location": [
+        {
+            "route": "Redwood Forest",
+            "area": "Swarm",
+            "method": "land"
+        }
+    ],
     "learnset": [
         {
             "level": 1,

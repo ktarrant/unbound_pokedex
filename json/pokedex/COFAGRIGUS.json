@@ -33,6 +33,18 @@
     "evolve_from": [
         "YAMASK"
     ],
+    "location": [
+        {
+            "route": "Ruins of Void",
+            "area": "B3F - B1F",
+            "method": "land"
+        },
+        {
+            "route": "Ruins of Void",
+            "area": "B1F - B2F",
+            "method": "land"
+        }
+    ],
     "learnset": [
         {
             "level": 0,

@@ -33,6 +33,13 @@
     "evolve_from": [
         "WOOLOO"
     ],
+    "location": [
+        {
+            "route": "Magnolia Fields",
+            "area": "Special Encounter",
+            "method": "land"
+        }
+    ],
     "learnset": [
         {
             "level": 1,

@@ -31,6 +31,13 @@
     "blurb": "Its body is composed of crystallized dragon energy. It is said to contain the power of every Dragon Pok\u00e9mon.",
     "name": "Regidrago",
     "evolve_from": [],
+    "location": [
+        {
+            "route": "Ice Hole",
+            "area": "Special Encounter",
+            "method": "land"
+        }
+    ],
     "learnset": [
         {
             "level": 1,

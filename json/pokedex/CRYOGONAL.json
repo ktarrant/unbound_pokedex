@@ -31,6 +31,13 @@
     "blurb": "They are born in snow clouds. They use chains made of ice crystals to capture prey.",
     "name": "Cryogonal",
     "evolve_from": [],
+    "location": [
+        {
+            "route": "Frost Mountain",
+            "area": "",
+            "method": "land"
+        }
+    ],
     "learnset": [
         {
             "level": 1,

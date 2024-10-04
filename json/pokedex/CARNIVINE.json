@@ -46,6 +46,13 @@
     "blurb": "Hanging from branches using its tentacles, it looks like a plant. It awaits prey, mouth wide open.",
     "name": "Carnivine",
     "evolve_from": [],
+    "location": [
+        {
+            "route": "Cootes Bog",
+            "area": "",
+            "method": "land"
+        }
+    ],
     "learnset": [
         {
             "level": 1,

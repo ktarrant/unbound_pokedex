@@ -30,6 +30,28 @@
     "noFlip": true,
     "name": "Tauros",
     "evolve_from": [],
+    "location": [
+        {
+            "route": "Safari Zone",
+            "area": "Medium",
+            "method": "land"
+        },
+        {
+            "route": "Safari Zone",
+            "area": "Hard",
+            "method": "land"
+        },
+        {
+            "route": "Safari Zone",
+            "area": "Insane",
+            "method": "land"
+        },
+        {
+            "route": "Magnolia Fields",
+            "area": "",
+            "method": "land"
+        }
+    ],
     "learnset": [
         {
             "level": 1,

@@ -32,6 +32,18 @@
     "evolve_from": [
         "SPINARAK"
     ],
+    "location": [
+        {
+            "route": "Route 6",
+            "area": "",
+            "method": "land"
+        },
+        {
+            "route": "Redwood Forest",
+            "area": "",
+            "method": "land"
+        }
+    ],
     "learnset": [
         {
             "level": 0,

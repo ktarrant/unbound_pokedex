@@ -40,6 +40,18 @@
     "evolve_from": [
         "ARON"
     ],
+    "location": [
+        {
+            "route": "KBT Expressway",
+            "area": "\"Dehara, Gurun, Antisis, \"",
+            "method": "land"
+        },
+        {
+            "route": "Lost Tunnel",
+            "area": "",
+            "method": "land"
+        }
+    ],
     "learnset": [
         {
             "level": 1,

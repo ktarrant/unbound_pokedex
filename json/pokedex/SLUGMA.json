@@ -51,6 +51,28 @@
     ],
     "name": "Slugma",
     "evolve_from": [],
+    "location": [
+        {
+            "route": "Cinder Volcano",
+            "area": "1F - 4F",
+            "method": "land"
+        },
+        {
+            "route": "Cinder Volcano",
+            "area": "Shadow Basement",
+            "method": "land"
+        },
+        {
+            "route": "Cinder Volcano",
+            "area": "",
+            "method": "surf"
+        },
+        {
+            "route": "Cinder Volcano",
+            "area": "",
+            "method": "Rock Smash"
+        }
+    ],
     "learnset": [
         {
             "level": 1,

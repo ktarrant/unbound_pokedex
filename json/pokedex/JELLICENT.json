@@ -33,6 +33,18 @@
     "evolve_from": [
         "FRILLISH"
     ],
+    "location": [
+        {
+            "route": "Magnolia Fields",
+            "area": "",
+            "method": "surf"
+        },
+        {
+            "route": "Magnolia Fields",
+            "area": "",
+            "method": "surf"
+        }
+    ],
     "tm": [
         "MOVE_WATERPULSE",
         "MOVE_TOXIC",

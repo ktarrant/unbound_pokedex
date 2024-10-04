@@ -42,6 +42,13 @@
     "blurb": "When it's surprised or agitated, the 14 fur spikes on its back will stand up involuntarily.",
     "name": "Togedemaru",
     "evolve_from": [],
+    "location": [
+        {
+            "route": "Route 11",
+            "area": "",
+            "method": "land"
+        }
+    ],
     "learnset": [
         {
             "level": 1,

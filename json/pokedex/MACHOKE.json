@@ -32,6 +32,13 @@
     "evolve_from": [
         "MACHOP"
     ],
+    "location": [
+        {
+            "route": "Cliff Cave",
+            "area": "",
+            "method": "land"
+        }
+    ],
     "learnset": [
         {
             "level": 1,

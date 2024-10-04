@@ -46,6 +46,13 @@
     "blurb": "It spews sand from its nostrils. While the enemy is blinded, it burrows into the ground to hide.",
     "name": "Silicobra",
     "evolve_from": [],
+    "location": [
+        {
+            "route": "Great Desert",
+            "area": "Special Encounter",
+            "method": "land"
+        }
+    ],
     "learnset": [
         {
             "level": 1,

@@ -33,6 +33,13 @@
     "evolve_from": [
         "MEOWTH_G"
     ],
+    "location": [
+        {
+            "route": "Valley Cave",
+            "area": "Special Encounter",
+            "method": "land"
+        }
+    ],
     "learnset": [
         {
             "level": 0,

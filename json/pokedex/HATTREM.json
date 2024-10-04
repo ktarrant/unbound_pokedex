@@ -41,6 +41,13 @@
     "evolve_from": [
         "HATENNA"
     ],
+    "location": [
+        {
+            "route": "Vivill Woods",
+            "area": "Special Encounter",
+            "method": "land"
+        }
+    ],
     "learnset": [
         {
             "level": 0,

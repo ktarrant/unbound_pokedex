@@ -39,6 +39,18 @@
     "blurb": "X-ray photos were taken to check its body structure. Nothing appeared, however.",
     "name": "Bronzor",
     "evolve_from": [],
+    "location": [
+        {
+            "route": "Frost Mountain",
+            "area": "",
+            "method": "land"
+        },
+        {
+            "route": "Rift Cave",
+            "area": "1F",
+            "method": "land"
+        }
+    ],
     "learnset": [
         {
             "level": 1,

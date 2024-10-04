@@ -47,6 +47,13 @@
     ],
     "name": "Dunsparce",
     "evolve_from": [],
+    "location": [
+        {
+            "route": "Valley Cave",
+            "area": "Swarm",
+            "method": "land"
+        }
+    ],
     "learnset": [
         {
             "level": 1,

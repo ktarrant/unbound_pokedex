@@ -45,6 +45,13 @@
     "blurb": "Aided by the soft pads on its feet, it silently raids the food stores of others. It survives off its ill-gotten gains.",
     "name": "Nickit",
     "evolve_from": [],
+    "location": [
+        {
+            "route": "Route 5",
+            "area": "Special Encounter",
+            "method": "land"
+        }
+    ],
     "learnset": [
         {
             "level": 1,

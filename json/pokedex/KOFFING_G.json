@@ -52,6 +52,13 @@
     ],
     "name": "Koffing",
     "evolve_from": [],
+    "location": [
+        {
+            "route": "Antisis Sewers",
+            "area": "",
+            "method": "land"
+        }
+    ],
     "learnset": [
         {
             "level": 1,

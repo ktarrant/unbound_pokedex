@@ -45,6 +45,18 @@
     "evolve_from": [
         "CHINGLING"
     ],
+    "location": [
+        {
+            "route": "Rift Cave",
+            "area": "1F",
+            "method": "land"
+        },
+        {
+            "route": "Rift Cave",
+            "area": "B1F - B2F",
+            "method": "land"
+        }
+    ],
     "learnset": [
         {
             "level": 1,

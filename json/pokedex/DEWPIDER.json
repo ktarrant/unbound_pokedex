@@ -46,6 +46,13 @@
     "blurb": "It crawls onto the land in search of food. Its water bubble allows it to breathe and protects its head.",
     "name": "Dewpider",
     "evolve_from": [],
+    "location": [
+        {
+            "route": "Route 3",
+            "area": "",
+            "method": "land"
+        }
+    ],
     "learnset": [
         {
             "level": 1,

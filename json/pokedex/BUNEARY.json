@@ -61,6 +61,13 @@
     "blurb": "Its ears are always rolled up. They can be forcefully extended to shatter even a large boulder.",
     "name": "Buneary",
     "evolve_from": [],
+    "location": [
+        {
+            "route": "Route 7",
+            "area": "",
+            "method": "land"
+        }
+    ],
     "learnset": [
         {
             "level": 1,

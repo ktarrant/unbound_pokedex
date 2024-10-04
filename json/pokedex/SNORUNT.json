@@ -43,6 +43,18 @@
     ],
     "name": "Snorunt",
     "evolve_from": [],
+    "location": [
+        {
+            "route": "Route 1",
+            "area": "",
+            "method": "land"
+        },
+        {
+            "route": "Route 8",
+            "area": "",
+            "method": "land"
+        }
+    ],
     "learnset": [
         {
             "level": 1,

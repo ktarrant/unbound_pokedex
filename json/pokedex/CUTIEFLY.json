@@ -49,6 +49,38 @@
     "blurb": "Myriads of Cutiefly flutter above the heads of people who have auras resembling those of flowers.",
     "name": "Cutiefly",
     "evolve_from": [],
+    "location": [
+        {
+            "route": "Flower Paradise",
+            "area": "Yellow Flowers",
+            "method": "land"
+        },
+        {
+            "route": "Flower Paradise",
+            "area": "Pink Flowers",
+            "method": "land"
+        },
+        {
+            "route": "Flower Paradise",
+            "area": "Blue Flowers",
+            "method": "land"
+        },
+        {
+            "route": "Flower Paradise",
+            "area": "Red Flowers",
+            "method": "land"
+        },
+        {
+            "route": "Flower Paradise",
+            "area": "Blue-Yellow Flowers",
+            "method": "land"
+        },
+        {
+            "route": "Flower Paradise",
+            "area": "Pink-Purple Flowers",
+            "method": "land"
+        }
+    ],
     "learnset": [
         {
             "level": 1,

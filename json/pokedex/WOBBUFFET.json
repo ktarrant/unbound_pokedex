@@ -32,6 +32,23 @@
     "evolve_from": [
         "WYNAUT"
     ],
+    "location": [
+        {
+            "route": "Safari Zone",
+            "area": "Medium",
+            "method": "land"
+        },
+        {
+            "route": "Safari Zone",
+            "area": "Hard",
+            "method": "land"
+        },
+        {
+            "route": "Safari Zone",
+            "area": "Insane",
+            "method": "land"
+        }
+    ],
     "learnset": [
         {
             "level": 0,

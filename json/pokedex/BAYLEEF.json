@@ -40,6 +40,13 @@
     "evolve_from": [
         "CHIKORITA"
     ],
+    "location": [
+        {
+            "route": "Route 18",
+            "area": "Swarm",
+            "method": "land"
+        }
+    ],
     "learnset": [
         {
             "level": 1,

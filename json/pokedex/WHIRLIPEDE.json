@@ -41,6 +41,13 @@
     "evolve_from": [
         "VENIPEDE"
     ],
+    "location": [
+        {
+            "route": "Antisis Sewers",
+            "area": "Swarm",
+            "method": "land"
+        }
+    ],
     "learnset": [
         {
             "level": 0,

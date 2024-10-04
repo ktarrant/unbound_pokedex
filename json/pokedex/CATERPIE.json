@@ -38,6 +38,18 @@
     ],
     "name": "Caterpie",
     "evolve_from": [],
+    "location": [
+        {
+            "route": "Grim Woods",
+            "area": "",
+            "method": "land"
+        },
+        {
+            "route": "Vivill Woods",
+            "area": "",
+            "method": "land"
+        }
+    ],
     "learnset": [
         {
             "level": 1,

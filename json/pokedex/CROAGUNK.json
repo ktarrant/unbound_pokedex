@@ -56,6 +56,13 @@
     "blurb": "Inflating its poison sacs, it makes an eerie blubbering sound for intimidation.",
     "name": "Croagunk",
     "evolve_from": [],
+    "location": [
+        {
+            "route": "Cootes Bog",
+            "area": "",
+            "method": "land"
+        }
+    ],
     "learnset": [
         {
             "level": 1,

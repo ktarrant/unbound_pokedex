@@ -40,6 +40,13 @@
     "blurb": "It emits a scent that delights those who smell it. The fragrance changes depending on what it has eaten.",
     "name": "Spritzee",
     "evolve_from": [],
+    "location": [
+        {
+            "route": "Route 12",
+            "area": "Swarm",
+            "method": "land"
+        }
+    ],
     "learnset": [
         {
             "level": 1,

@@ -49,6 +49,18 @@
     ],
     "name": "Lotad",
     "evolve_from": [],
+    "location": [
+        {
+            "route": "Route 10",
+            "area": "",
+            "method": "land"
+        },
+        {
+            "route": "Auburn Waterway",
+            "area": "",
+            "method": "land"
+        }
+    ],
     "learnset": [
         {
             "level": 1,

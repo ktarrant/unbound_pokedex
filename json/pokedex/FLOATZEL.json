@@ -33,6 +33,18 @@
     "evolve_from": [
         "BUIZEL"
     ],
+    "location": [
+        {
+            "route": "Route 14",
+            "area": "",
+            "method": "land"
+        },
+        {
+            "route": "Victory Road",
+            "area": "Maze Area",
+            "method": "surf"
+        }
+    ],
     "learnset": [
         {
             "level": 0,

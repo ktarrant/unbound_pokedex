@@ -39,6 +39,13 @@
     "blurb": "When its antennae hit each other, it sounds like the music of a xylophone.",
     "name": "Kricketot",
     "evolve_from": [],
+    "location": [
+        {
+            "route": "Route 6",
+            "area": "",
+            "method": "land"
+        }
+    ],
     "learnset": [
         {
             "level": 1,

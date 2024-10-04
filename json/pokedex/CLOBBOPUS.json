@@ -48,6 +48,13 @@
     "blurb": "It's very curious, but its means of investigating things is to try to punch them with its tentacles.",
     "name": "Clobbopus",
     "evolve_from": [],
+    "location": [
+        {
+            "route": "Route 2",
+            "area": "Special Encounter",
+            "method": "land"
+        }
+    ],
     "learnset": [
         {
             "level": 1,

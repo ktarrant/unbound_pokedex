@@ -48,6 +48,13 @@
     ],
     "name": "Wingull",
     "evolve_from": [],
+    "location": [
+        {
+            "route": "Route 3",
+            "area": "",
+            "method": "land"
+        }
+    ],
     "learnset": [
         {
             "level": 1,

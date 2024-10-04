@@ -48,6 +48,13 @@
     "blurb": "Its small horn hides a healing power. With a few rubs from this its horn, any slight wound you have will be healed.",
     "name": "Ponyta",
     "evolve_from": [],
+    "location": [
+        {
+            "route": "Route 12",
+            "area": "",
+            "method": "land"
+        }
+    ],
     "learnset": [
         {
             "level": 1,

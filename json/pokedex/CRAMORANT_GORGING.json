@@ -31,6 +31,18 @@
     "blurb": "This Cramorant has accidentally gotten a Pikachu lodged in its gullet. While it seems to be choking, it isn't bothered.",
     "name": "Cramorant",
     "evolve_from": [],
+    "location": [
+        {
+            "route": "Route 10",
+            "area": "Special Encounter",
+            "method": "surf"
+        },
+        {
+            "route": "Auburn Waterway",
+            "area": "Special Encounter",
+            "method": "surf"
+        }
+    ],
     "learnset": [
         {
             "level": 1,

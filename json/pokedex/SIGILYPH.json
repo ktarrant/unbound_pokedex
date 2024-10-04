@@ -40,6 +40,43 @@
     "blurb": "The guardians of an ancient city, they always fly the same route while keeping watch for invaders.",
     "name": "Sigilyph",
     "evolve_from": [],
+    "location": [
+        {
+            "route": "Ruins of Void",
+            "area": "B3F - B1F",
+            "method": "land"
+        },
+        {
+            "route": "Ruins of Void",
+            "area": "B1F - B2F",
+            "method": "land"
+        },
+        {
+            "route": "Tomb of Borrius",
+            "area": "1F",
+            "method": "land"
+        },
+        {
+            "route": "Tomb of Borrius",
+            "area": "B4F",
+            "method": "land"
+        },
+        {
+            "route": "Tomb of Borrius",
+            "area": "B3F",
+            "method": "land"
+        },
+        {
+            "route": "Tomb of Borrius",
+            "area": "B2F",
+            "method": "land"
+        },
+        {
+            "route": "Tomb of Borrius",
+            "area": "B1F",
+            "method": "land"
+        }
+    ],
     "learnset": [
         {
             "level": 1,

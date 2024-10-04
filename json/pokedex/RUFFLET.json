@@ -31,6 +31,13 @@
     "blurb": "They crush berries with their talons. They bravely stand up to any opponent, no matter how strong it is.",
     "name": "Rufflet",
     "evolve_from": [],
+    "location": [
+        {
+            "route": "Crystal Peak",
+            "area": "Outside",
+            "method": "land"
+        }
+    ],
     "learnset": [
         {
             "level": 1,

@@ -39,6 +39,18 @@
     "blurb": "It gushes fire and poisonous gases from its nostrils. Its dung is an explosive substance.",
     "name": "Turtonator",
     "evolve_from": [],
+    "location": [
+        {
+            "route": "Victory Road",
+            "area": "2F",
+            "method": "land"
+        },
+        {
+            "route": "Victory Road",
+            "area": "3F",
+            "method": "land"
+        }
+    ],
     "learnset": [
         {
             "level": 1,

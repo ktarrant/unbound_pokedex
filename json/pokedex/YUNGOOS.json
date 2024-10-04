@@ -45,6 +45,13 @@
     "blurb": "It prefers to eat fresh living things so it marches down streets in search of prey.",
     "name": "Yungoos",
     "evolve_from": [],
+    "location": [
+        {
+            "route": "Route 7",
+            "area": "",
+            "method": "land"
+        }
+    ],
     "learnset": [
         {
             "level": 1,

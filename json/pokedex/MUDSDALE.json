@@ -33,6 +33,13 @@
     "evolve_from": [
         "MUDBRAY"
     ],
+    "location": [
+        {
+            "route": "Magnolia Fields",
+            "area": "",
+            "method": "land"
+        }
+    ],
     "learnset": [
         {
             "level": 1,

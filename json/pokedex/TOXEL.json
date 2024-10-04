@@ -36,6 +36,13 @@
     "blurb": "It manipulates the chemical makeup of its poison to produce electricity. Despite a weak voltage, it can cause paralysis.",
     "name": "Toxel",
     "evolve_from": [],
+    "location": [
+        {
+            "route": "Route 9 + Autl Woods",
+            "area": "Special Encounter",
+            "method": "land"
+        }
+    ],
     "learnset": [
         {
             "level": 1,

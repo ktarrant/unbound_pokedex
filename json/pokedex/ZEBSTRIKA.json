@@ -33,6 +33,18 @@
     "evolve_from": [
         "BLITZLE"
     ],
+    "location": [
+        {
+            "route": "Safari Zone",
+            "area": "Medium",
+            "method": "land"
+        },
+        {
+            "route": "Safari Zone",
+            "area": "Hard",
+            "method": "land"
+        }
+    ],
     "learnset": [
         {
             "level": 1,

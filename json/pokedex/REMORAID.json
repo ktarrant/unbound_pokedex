@@ -52,6 +52,43 @@
     ],
     "name": "Remoraid",
     "evolve_from": [],
+    "location": [
+        {
+            "route": "Route 6",
+            "area": "",
+            "method": "Good Rod"
+        },
+        {
+            "route": "Route 7",
+            "area": "",
+            "method": "Good Rod"
+        },
+        {
+            "route": "Route 11",
+            "area": "",
+            "method": "Good Rod"
+        },
+        {
+            "route": "Route 16",
+            "area": "",
+            "method": "Good Rod"
+        },
+        {
+            "route": "Route 16",
+            "area": "",
+            "method": "Super Rod"
+        },
+        {
+            "route": "Route 17",
+            "area": "",
+            "method": "Good Rod"
+        },
+        {
+            "route": "Route 18",
+            "area": "",
+            "method": "Good Rod"
+        }
+    ],
     "learnset": [
         {
             "level": 1,

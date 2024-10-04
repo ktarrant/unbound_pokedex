@@ -33,6 +33,13 @@
     "evolve_from": [
         "YUNGOOS"
     ],
+    "location": [
+        {
+            "route": "Route 7",
+            "area": "",
+            "method": "land"
+        }
+    ],
     "learnset": [
         {
             "level": 1,

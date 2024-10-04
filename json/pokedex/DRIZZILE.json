@@ -41,6 +41,13 @@
     "evolve_from": [
         "SOBBLE"
     ],
+    "location": [
+        {
+            "route": "Redwood Forest",
+            "area": "Special Encounter",
+            "method": "surf"
+        }
+    ],
     "learnset": [
         {
             "level": 1,

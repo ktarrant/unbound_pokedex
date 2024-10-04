@@ -41,6 +41,18 @@
     "blurb": "Its conspicuous lips lure prey in as it lies in wait in the mud. When prey gets close, it will clamp down hard.",
     "name": "Stunfisk",
     "evolve_from": [],
+    "location": [
+        {
+            "route": "Thundercap Mt.",
+            "area": "",
+            "method": "surf"
+        },
+        {
+            "route": "Cootes Bog",
+            "area": "",
+            "method": "surf"
+        }
+    ],
     "learnset": [
         {
             "level": 1,

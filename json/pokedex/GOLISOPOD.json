@@ -33,6 +33,18 @@
     "evolve_from": [
         "WIMPOD"
     ],
+    "location": [
+        {
+            "route": "Safari Zone",
+            "area": "Hard",
+            "method": "land"
+        },
+        {
+            "route": "Safari Zone",
+            "area": "Insane",
+            "method": "land"
+        }
+    ],
     "learnset": [
         {
             "level": 0,

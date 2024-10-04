@@ -52,6 +52,18 @@
     "blurb": "They warn others of danger by vibrating their cheeks to create a high-pitched sound.",
     "name": "Tympole",
     "evolve_from": [],
+    "location": [
+        {
+            "route": "Route 10",
+            "area": "",
+            "method": "land"
+        },
+        {
+            "route": "Auburn Waterway",
+            "area": "",
+            "method": "land"
+        }
+    ],
     "learnset": [
         {
             "level": 1,

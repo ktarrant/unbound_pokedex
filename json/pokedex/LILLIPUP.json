@@ -55,6 +55,13 @@
     "blurb": "Though it is a very brave Pok\u00e9mon, it's also smart enough to check its foe's strength and avoid battle.",
     "name": "Lillipup",
     "evolve_from": [],
+    "location": [
+        {
+            "route": "Route 4",
+            "area": "",
+            "method": "land"
+        }
+    ],
     "learnset": [
         {
             "level": 1,

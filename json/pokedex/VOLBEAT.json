@@ -39,6 +39,13 @@
     ],
     "name": "Volbeat",
     "evolve_from": [],
+    "location": [
+        {
+            "route": "Route 17",
+            "area": "Swarm",
+            "method": "land"
+        }
+    ],
     "learnset": [
         {
             "level": 1,

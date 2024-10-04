@@ -42,6 +42,13 @@
     "blurb": "Arid regions are their habitat. They move rhythmically, making a sound similar to maracas.",
     "name": "Maractus",
     "evolve_from": [],
+    "location": [
+        {
+            "route": "Great Desert",
+            "area": "",
+            "method": "land"
+        }
+    ],
     "learnset": [
         {
             "level": 1,

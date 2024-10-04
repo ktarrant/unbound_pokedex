@@ -32,6 +32,18 @@
     "evolve_from": [
         "ODDISH"
     ],
+    "location": [
+        {
+            "route": "Route 14",
+            "area": "",
+            "method": "land"
+        },
+        {
+            "route": "Cootes Bog",
+            "area": "",
+            "method": "land"
+        }
+    ],
     "learnset": [
         {
             "level": 1,

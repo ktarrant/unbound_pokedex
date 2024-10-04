@@ -44,6 +44,13 @@
     ],
     "name": "Cubone",
     "evolve_from": [],
+    "location": [
+        {
+            "route": "Thundercap Mt.",
+            "area": "1F + 3F",
+            "method": "land"
+        }
+    ],
     "tm": [
         "MOVE_FOCUSPUNCH",
         "MOVE_TOXIC",

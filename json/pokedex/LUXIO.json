@@ -41,6 +41,18 @@
     "evolve_from": [
         "SHINX"
     ],
+    "location": [
+        {
+            "route": "Route 6",
+            "area": "",
+            "method": "land"
+        },
+        {
+            "route": "Route 7",
+            "area": "",
+            "method": "land"
+        }
+    ],
     "learnset": [
         {
             "level": 1,

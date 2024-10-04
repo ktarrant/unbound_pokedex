@@ -32,6 +32,23 @@
     "evolve_from": [
         "STARYU"
     ],
+    "location": [
+        {
+            "route": "Route 2",
+            "area": "",
+            "method": "Super Rod"
+        },
+        {
+            "route": "Route 4",
+            "area": "",
+            "method": "Super Rod"
+        },
+        {
+            "route": "Route 5",
+            "area": "",
+            "method": "Super Rod"
+        }
+    ],
     "learnset": [
         {
             "level": 1,

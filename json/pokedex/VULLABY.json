@@ -49,6 +49,13 @@
     "blurb": "They tend to guard their posteriors with suitable bones they have found. They pursue weak Pok\u00e9mon.",
     "name": "Vullaby",
     "evolve_from": [],
+    "location": [
+        {
+            "route": "Crystal Peak",
+            "area": "Outside",
+            "method": "land"
+        }
+    ],
     "learnset": [
         {
             "level": 1,

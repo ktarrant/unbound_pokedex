@@ -51,6 +51,18 @@
     "blurb": "In the spring, it grows berries with the texture of frozen treats around its belly.",
     "name": "Snover",
     "evolve_from": [],
+    "location": [
+        {
+            "route": "Route 8",
+            "area": "",
+            "method": "land"
+        },
+        {
+            "route": "Frozen Forest",
+            "area": "",
+            "method": "land"
+        }
+    ],
     "learnset": [
         {
             "level": 1,

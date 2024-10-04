@@ -52,6 +52,13 @@
     ],
     "name": "Sentret",
     "evolve_from": [],
+    "location": [
+        {
+            "route": "Route 3",
+            "area": "Swarm",
+            "method": "land"
+        }
+    ],
     "learnset": [
         {
             "level": 1,

@@ -32,6 +32,13 @@
     "evolve_from": [
         "CYNDAQUIL"
     ],
+    "location": [
+        {
+            "route": "Magnolia Fields",
+            "area": "Swarm",
+            "method": "land"
+        }
+    ],
     "learnset": [
         {
             "level": 1,

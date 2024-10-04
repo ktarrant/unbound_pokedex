@@ -47,6 +47,23 @@
     "blurb": "The frills on either side of its head have cells that generate electricity when exposed to sunlight.",
     "name": "Helioptile",
     "evolve_from": [],
+    "location": [
+        {
+            "route": "Safari Zone",
+            "area": "Easy",
+            "method": "land"
+        },
+        {
+            "route": "Safari Zone",
+            "area": "Medium",
+            "method": "land"
+        },
+        {
+            "route": "Safari Zone",
+            "area": "Hard",
+            "method": "land"
+        }
+    ],
     "learnset": [
         {
             "level": 1,

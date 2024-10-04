@@ -33,6 +33,13 @@
     "evolve_from": [
         "BIDOOF"
     ],
+    "location": [
+        {
+            "route": "Route 14",
+            "area": "",
+            "method": "land"
+        }
+    ],
     "learnset": [
         {
             "level": 0,

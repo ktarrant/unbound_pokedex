@@ -46,6 +46,28 @@
     "blurb": "They live in pitch black caves. Their enormous ears can emit ultrasonic waves of 200,000 hertz.",
     "name": "Noibat",
     "evolve_from": [],
+    "location": [
+        {
+            "route": "Valley Cave",
+            "area": "B1F",
+            "method": "land"
+        },
+        {
+            "route": "KBT Expressway",
+            "area": "\"Tehl, Epidimy Entrances \"",
+            "method": "land"
+        },
+        {
+            "route": "KBT Expressway",
+            "area": "\"Dehara, Gurun, Antisis, \"",
+            "method": "land"
+        },
+        {
+            "route": "Crystal Peak",
+            "area": "B1F + 1F - 5F",
+            "method": "land"
+        }
+    ],
     "learnset": [
         {
             "level": 1,

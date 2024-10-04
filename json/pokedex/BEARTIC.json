@@ -33,6 +33,13 @@
     "evolve_from": [
         "CUBCHOO"
     ],
+    "location": [
+        {
+            "route": "Victory Road",
+            "area": "Snowy Area",
+            "method": "land"
+        }
+    ],
     "learnset": [
         {
             "level": 0,

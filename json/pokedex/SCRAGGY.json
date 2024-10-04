@@ -56,6 +56,13 @@
     "blurb": "It immediately headbutts anyone that makes eye contact with it. Its skull is massively thick.",
     "name": "Scraggy",
     "evolve_from": [],
+    "location": [
+        {
+            "route": "Route 2",
+            "area": "",
+            "method": "land"
+        }
+    ],
     "learnset": [
         {
             "level": 1,

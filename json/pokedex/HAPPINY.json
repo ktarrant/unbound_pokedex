@@ -53,6 +53,13 @@
     "blurb": "It loves round white things. It carries an egg-shaped rock in imitation of Chansey.",
     "name": "Happiny",
     "evolve_from": [],
+    "location": [
+        {
+            "route": "Route 18",
+            "area": "",
+            "method": "land"
+        }
+    ],
     "learnset": [
         {
             "level": 1,

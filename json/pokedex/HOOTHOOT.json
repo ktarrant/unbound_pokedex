@@ -53,6 +53,28 @@
     ],
     "name": "Hoothoot",
     "evolve_from": [],
+    "location": [
+        {
+            "route": "Route 2",
+            "area": "",
+            "method": "land"
+        },
+        {
+            "route": "Route 4",
+            "area": "",
+            "method": "land"
+        },
+        {
+            "route": "Route 7",
+            "area": "",
+            "method": "land"
+        },
+        {
+            "route": "Route 12",
+            "area": "",
+            "method": "land"
+        }
+    ],
     "learnset": [
         {
             "level": 1,

@@ -33,6 +33,13 @@
     "evolve_from": [
         "DRIFLOON"
     ],
+    "location": [
+        {
+            "route": "Crystal Peak",
+            "area": "Outside",
+            "method": "land"
+        }
+    ],
     "learnset": [
         {
             "level": 0,

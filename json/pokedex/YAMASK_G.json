@@ -34,6 +34,13 @@
     "blurb": "It's said that this Pok\u00e9mon was formed when an ancient clay tablet was drawn to a vengeful spirit.",
     "name": "Yamask",
     "evolve_from": [],
+    "location": [
+        {
+            "route": "Ruins of Void",
+            "area": "B3F - B1F",
+            "method": "land"
+        }
+    ],
     "learnset": [
         {
             "level": 1,

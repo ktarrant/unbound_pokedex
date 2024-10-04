@@ -40,6 +40,13 @@
     "evolve_from": [
         "HOPPIP"
     ],
+    "location": [
+        {
+            "route": "Route 17",
+            "area": "",
+            "method": "land"
+        }
+    ],
     "learnset": [
         {
             "level": 1,

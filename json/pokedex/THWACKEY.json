@@ -41,6 +41,13 @@
     "evolve_from": [
         "GROOKEY"
     ],
+    "location": [
+        {
+            "route": "Redwood Forest",
+            "area": "Special Encounter",
+            "method": "land"
+        }
+    ],
     "learnset": [
         {
             "level": 0,

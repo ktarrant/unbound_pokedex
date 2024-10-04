@@ -45,6 +45,13 @@
     "blurb": "They use their large ears to dig burrows. They will dig the whole night through.",
     "name": "Bunnelby",
     "evolve_from": [],
+    "location": [
+        {
+            "route": "Route 6",
+            "area": "",
+            "method": "land"
+        }
+    ],
     "learnset": [
         {
             "level": 1,

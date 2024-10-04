@@ -40,6 +40,13 @@
     "blurb": "When it rubs the rocks on its neck against you, that's proof of its love for you.",
     "name": "Rockruff",
     "evolve_from": [],
+    "location": [
+        {
+            "route": "Route 12",
+            "area": "",
+            "method": "land"
+        }
+    ],
     "learnset": [
         {
             "level": 1,

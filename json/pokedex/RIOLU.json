@@ -59,6 +59,13 @@
     "blurb": "The aura that emanates from its body intensifies to alert others if it is afraid or sad.",
     "name": "Riolu",
     "evolve_from": [],
+    "location": [
+        {
+            "route": "Route 2",
+            "area": "",
+            "method": "land"
+        }
+    ],
     "learnset": [
         {
             "level": 1,

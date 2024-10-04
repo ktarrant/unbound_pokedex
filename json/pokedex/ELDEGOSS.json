@@ -33,6 +33,13 @@
     "evolve_from": [
         "GOSSIFLEUR"
     ],
+    "location": [
+        {
+            "route": "Route 14",
+            "area": "Special Encounter",
+            "method": "land"
+        }
+    ],
     "learnset": [
         {
             "level": 0,

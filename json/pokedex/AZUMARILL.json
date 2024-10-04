@@ -32,6 +32,23 @@
     "evolve_from": [
         "MARILL"
     ],
+    "location": [
+        {
+            "route": "Route 9 + Autl Woods",
+            "area": "",
+            "method": "surf"
+        },
+        {
+            "route": "Victory Road",
+            "area": "1F - B1F",
+            "method": "surf"
+        },
+        {
+            "route": "Victory Road",
+            "area": "2F",
+            "method": "surf"
+        }
+    ],
     "learnset": [
         {
             "level": 1,

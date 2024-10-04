@@ -33,6 +33,13 @@
     "evolve_from": [
         "STUNKY"
     ],
+    "location": [
+        {
+            "route": "Route 18",
+            "area": "",
+            "method": "land"
+        }
+    ],
     "learnset": [
         {
             "level": 0,

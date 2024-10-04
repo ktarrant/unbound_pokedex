@@ -32,6 +32,13 @@
     "evolve_from": [
         "RATTATA"
     ],
+    "location": [
+        {
+            "route": "Antisis Sewers",
+            "area": "",
+            "method": "land"
+        }
+    ],
     "learnset": [
         {
             "level": 0,

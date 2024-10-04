@@ -41,6 +41,13 @@
     "evolve_from": [
         "HONEDGE"
     ],
+    "location": [
+        {
+            "route": "Safari Zone",
+            "area": "Insane",
+            "method": "land"
+        }
+    ],
     "learnset": [
         {
             "level": 1,

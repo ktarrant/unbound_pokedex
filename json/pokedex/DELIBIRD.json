@@ -41,6 +41,13 @@
     ],
     "name": "Delibird",
     "evolve_from": [],
+    "location": [
+        {
+            "route": "Route 1",
+            "area": "",
+            "method": "land"
+        }
+    ],
     "learnset": [
         {
             "level": 1,

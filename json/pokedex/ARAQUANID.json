@@ -33,6 +33,13 @@
     "evolve_from": [
         "DEWPIDER"
     ],
+    "location": [
+        {
+            "route": "Route 3",
+            "area": "",
+            "method": "surf"
+        }
+    ],
     "learnset": [
         {
             "level": 1,

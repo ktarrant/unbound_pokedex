@@ -57,6 +57,13 @@
     ],
     "name": "Lickitung",
     "evolve_from": [],
+    "location": [
+        {
+            "route": "Route 5",
+            "area": "",
+            "method": "land"
+        }
+    ],
     "learnset": [
         {
             "level": 1,

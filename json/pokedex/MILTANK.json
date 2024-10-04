@@ -46,6 +46,13 @@
     ],
     "name": "Miltank",
     "evolve_from": [],
+    "location": [
+        {
+            "route": "Magnolia Fields",
+            "area": "",
+            "method": "land"
+        }
+    ],
     "learnset": [
         {
             "level": 1,

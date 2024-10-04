@@ -38,6 +38,13 @@
     "blurb": "Because it eats nothing but sweets, its fur is as sticky sweet as cotton candy.",
     "name": "Swirlix",
     "evolve_from": [],
+    "location": [
+        {
+            "route": "Route 12",
+            "area": "Swarm",
+            "method": "land"
+        }
+    ],
     "learnset": [
         {
             "level": 1,

@@ -44,6 +44,18 @@
     "blurb": "Durant dig nests in mountains. They build their complicated, interconnected tunnels in mazes.",
     "name": "Durant",
     "evolve_from": [],
+    "location": [
+        {
+            "route": "Victory Road",
+            "area": "1F",
+            "method": "land"
+        },
+        {
+            "route": "Victory Road",
+            "area": "3F",
+            "method": "land"
+        }
+    ],
     "learnset": [
         {
             "level": 1,

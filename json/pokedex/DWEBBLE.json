@@ -53,6 +53,18 @@
     "blurb": "This Pok\u00e9mon can easily melt holes in hard rocks with a liquid secreted from its mouth.",
     "name": "Dwebble",
     "evolve_from": [],
+    "location": [
+        {
+            "route": "Great Desert",
+            "area": "",
+            "method": "land"
+        },
+        {
+            "route": "Great Desert",
+            "area": "",
+            "method": "Rock Smash"
+        }
+    ],
     "learnset": [
         {
             "level": 1,

@@ -33,6 +33,13 @@
     "evolve_from": [
         "SALANDIT"
     ],
+    "location": [
+        {
+            "route": "Victory Road",
+            "area": "B1F",
+            "method": "land"
+        }
+    ],
     "learnset": [
         {
             "level": 0,

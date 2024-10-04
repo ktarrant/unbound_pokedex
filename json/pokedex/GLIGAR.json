@@ -55,6 +55,13 @@
     ],
     "name": "Gligar",
     "evolve_from": [],
+    "location": [
+        {
+            "route": "Valley Cave",
+            "area": "B1F",
+            "method": "land"
+        }
+    ],
     "learnset": [
         {
             "level": 1,

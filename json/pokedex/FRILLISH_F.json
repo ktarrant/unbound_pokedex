@@ -38,6 +38,13 @@
     ],
     "name": "Frillish",
     "evolve_from": [],
+    "location": [
+        {
+            "route": "Magnolia Fields",
+            "area": "",
+            "method": "surf"
+        }
+    ],
     "learnset": [
         {
             "level": 1,

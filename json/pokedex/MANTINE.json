@@ -44,6 +44,23 @@
     "evolve_from": [
         "MANTYKE"
     ],
+    "location": [
+        {
+            "route": "Route 14",
+            "area": "",
+            "method": "surf"
+        },
+        {
+            "route": "Route 18",
+            "area": "",
+            "method": "surf"
+        },
+        {
+            "route": "Ruins of Void",
+            "area": "",
+            "method": "surf"
+        }
+    ],
     "learnset": [
         {
             "level": 1,

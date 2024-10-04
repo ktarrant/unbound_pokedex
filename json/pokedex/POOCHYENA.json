@@ -50,6 +50,13 @@
     ],
     "name": "Poochyena",
     "evolve_from": [],
+    "location": [
+        {
+            "route": "Route 2",
+            "area": "Swarm",
+            "method": "land"
+        }
+    ],
     "learnset": [
         {
             "level": 1,

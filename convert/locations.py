@@ -17,7 +17,7 @@ def parse_encounters_csv(csv_file, skip_lines=0):
                 continue
             values = line.split(",,")
             if not raw_data:
-                raw_data = {header: [] for header in values}
+                raw_data = {header.strip(): [] for header in values}
                 continue
 
             for header, value in zip(raw_data, values):
@@ -114,8 +114,34 @@ def parse_location_files():
     return land_data
 
 
+def create_location_lookup(location_data):
+    location_lookup = {}
+    for route, route_entry in location_data.items():
+        for method, method_entry in route_entry.items():
+            for area, area_entry in method_entry.items():
+                for species in area_entry:
+                    try:
+                        encounters = location_lookup[species]
+                    except KeyError:
+                        encounters = []
+                        location_lookup[species] = encounters
+                    encounters.append({"route": route, "area": area, "method": method})
+    return location_lookup
+
+
+def update_pokemon_names(location_data, pokedex):
+    name_lookup = {entry["name"]: key for key, entry in pokedex.items() if "name" in entry}
+    for route, route_entry in location_data.items():
+        for method, method_entry in route_entry.items():
+            for area, area_entry in method_entry.items():
+                location_data[route][method][area] = [
+                    name_lookup.get(species, species) for species in area_entry
+                ]
+
+
 if __name__ == "__main__":
     from convert import pprint_top_entries
 
     location_data = parse_location_files()
-    pprint_top_entries(location_data)
+    location_lookup = create_location_lookup(location_data)
+    pprint_top_entries(location_lookup)

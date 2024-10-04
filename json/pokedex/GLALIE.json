@@ -40,6 +40,18 @@
     "evolve_from": [
         "GLALIE_MEGA"
     ],
+    "location": [
+        {
+            "route": "Victory Road",
+            "area": "Snowy Area",
+            "method": "land"
+        },
+        {
+            "route": "Victory Road",
+            "area": "4F + Kyurem's Cave",
+            "method": "land"
+        }
+    ],
     "tm": [
         "MOVE_WATERPULSE",
         "MOVE_TOXIC",

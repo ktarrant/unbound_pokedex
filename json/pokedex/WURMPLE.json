@@ -30,6 +30,13 @@
     "noFlip": true,
     "name": "Wurmple",
     "evolve_from": [],
+    "location": [
+        {
+            "route": "Vivill Woods",
+            "area": "",
+            "method": "land"
+        }
+    ],
     "learnset": [
         {
             "level": 1,

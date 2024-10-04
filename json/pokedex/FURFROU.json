@@ -38,6 +38,13 @@
     "blurb": "Historically, in the Kalos region, these Pok\u00e9mon were the designated guardians of the king.",
     "name": "Furfrou",
     "evolve_from": [],
+    "location": [
+        {
+            "route": "Magnolia Fields",
+            "area": "",
+            "method": "land"
+        }
+    ],
     "tm": [
         "MOVE_ROAR",
         "MOVE_TOXIC",

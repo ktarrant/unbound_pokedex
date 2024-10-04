@@ -52,6 +52,23 @@
     ],
     "name": "Spheal",
     "evolve_from": [],
+    "location": [
+        {
+            "route": "Icicle Cave",
+            "area": "4F - 1F",
+            "method": "land"
+        },
+        {
+            "route": "Icicle Cave",
+            "area": "",
+            "method": "surf"
+        },
+        {
+            "route": "Frost Mountain",
+            "area": "",
+            "method": "surf"
+        }
+    ],
     "learnset": [
         {
             "level": 1,

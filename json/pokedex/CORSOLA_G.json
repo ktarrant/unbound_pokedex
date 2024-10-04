@@ -47,6 +47,73 @@
     "blurb": "Sudden climate change wiped out this ancient kind of Corsola. It absorbs the life force of others through its branches.",
     "name": "Corsola",
     "evolve_from": [],
+    "location": [
+        {
+            "route": "Route 14",
+            "area": "",
+            "method": "Rock Smash"
+        },
+        {
+            "route": "Route 16",
+            "area": "",
+            "method": "Good Rod"
+        },
+        {
+            "route": "Route 16",
+            "area": "",
+            "method": "Super Rod"
+        },
+        {
+            "route": "Route 16",
+            "area": "",
+            "method": "Super Rod"
+        },
+        {
+            "route": "Route 16",
+            "area": "",
+            "method": "Rock Smash"
+        },
+        {
+            "route": "Route 17",
+            "area": "",
+            "method": "Good Rod"
+        },
+        {
+            "route": "Route 17",
+            "area": "",
+            "method": "Super Rod"
+        },
+        {
+            "route": "Route 17",
+            "area": "",
+            "method": "Super Rod"
+        },
+        {
+            "route": "Route 17",
+            "area": "",
+            "method": "Rock Smash"
+        },
+        {
+            "route": "Route 18",
+            "area": "",
+            "method": "Good Rod"
+        },
+        {
+            "route": "Route 18",
+            "area": "",
+            "method": "Super Rod"
+        },
+        {
+            "route": "Route 18",
+            "area": "",
+            "method": "Rock Smash"
+        },
+        {
+            "route": "Thundercap Mt.",
+            "area": "Outside",
+            "method": "Rock Smash"
+        }
+    ],
     "learnset": [
         {
             "level": 1,

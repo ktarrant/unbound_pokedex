@@ -58,6 +58,13 @@
     "blurb": "The small ball is not only full of nutrients, it is also tasty. Starly try to peck it off.",
     "name": "Cherubi",
     "evolve_from": [],
+    "location": [
+        {
+            "route": "Route 3",
+            "area": "",
+            "method": "land"
+        }
+    ],
     "learnset": [
         {
             "level": 1,

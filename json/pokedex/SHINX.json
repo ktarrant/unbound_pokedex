@@ -55,6 +55,18 @@
     "blurb": "All of its fur dazzles if danger is sensed. It flees while the foe is momentarily blinded.",
     "name": "Shinx",
     "evolve_from": [],
+    "location": [
+        {
+            "route": "Route 6",
+            "area": "",
+            "method": "land"
+        },
+        {
+            "route": "Route 7",
+            "area": "",
+            "method": "land"
+        }
+    ],
     "learnset": [
         {
             "level": 1,

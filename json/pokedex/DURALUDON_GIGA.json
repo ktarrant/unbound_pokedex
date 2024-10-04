@@ -40,6 +40,13 @@
     "evolve_from": [
         "DURALUDON"
     ],
+    "location": [
+        {
+            "route": "Crystal Peak",
+            "area": "Special Encounter",
+            "method": "land"
+        }
+    ],
     "learnset": [
         {
             "level": 1,

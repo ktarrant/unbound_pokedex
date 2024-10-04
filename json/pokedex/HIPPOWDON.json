@@ -33,6 +33,13 @@
     "evolve_from": [
         "HIPPOPOTAS"
     ],
+    "location": [
+        {
+            "route": "Great Desert",
+            "area": "",
+            "method": "land"
+        }
+    ],
     "tm": [
         "MOVE_WATERPULSE",
         "MOVE_ROAR",

@@ -39,6 +39,13 @@
     "blurb": "Known for its extreme intelligence, it will look down on inexperienced Trainers.",
     "name": "Oranguru",
     "evolve_from": [],
+    "location": [
+        {
+            "route": "Redwood Forest",
+            "area": "",
+            "method": "land"
+        }
+    ],
     "learnset": [
         {
             "level": 1,

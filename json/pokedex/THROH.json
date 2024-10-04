@@ -31,6 +31,13 @@
     "blurb": "When it tightens its belt, it becomes stronger. Wild Throh use vines to weave their own belts.",
     "name": "Throh",
     "evolve_from": [],
+    "location": [
+        {
+            "route": "Route 16",
+            "area": "",
+            "method": "land"
+        }
+    ],
     "learnset": [
         {
             "level": 1,

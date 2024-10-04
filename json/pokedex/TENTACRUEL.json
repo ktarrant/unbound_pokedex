@@ -32,6 +32,73 @@
     "evolve_from": [
         "TENTACOOL"
     ],
+    "location": [
+        {
+            "route": "Route 2",
+            "area": "",
+            "method": "surf"
+        },
+        {
+            "route": "Route 3",
+            "area": "",
+            "method": "surf"
+        },
+        {
+            "route": "Route 4",
+            "area": "",
+            "method": "surf"
+        },
+        {
+            "route": "Route 5",
+            "area": "",
+            "method": "surf"
+        },
+        {
+            "route": "Route 6",
+            "area": "",
+            "method": "surf"
+        },
+        {
+            "route": "Route 7",
+            "area": "",
+            "method": "surf"
+        },
+        {
+            "route": "Route 11",
+            "area": "",
+            "method": "surf"
+        },
+        {
+            "route": "Route 12",
+            "area": "",
+            "method": "surf"
+        },
+        {
+            "route": "Route 14",
+            "area": "",
+            "method": "surf"
+        },
+        {
+            "route": "Route 16",
+            "area": "",
+            "method": "surf"
+        },
+        {
+            "route": "Route 17",
+            "area": "",
+            "method": "surf"
+        },
+        {
+            "route": "Route 18",
+            "area": "",
+            "method": "surf"
+        },
+        {
+            "route": "Ruins of Void",
+            "area": "",
+            "method": "surf"
+        }
+    ],
     "learnset": [
         {
             "level": 1,

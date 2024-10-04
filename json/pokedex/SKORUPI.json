@@ -51,6 +51,13 @@
     "blurb": "It lives in arid lands. It buries itself in sand and lies in wait for unsuspecting prey.",
     "name": "Skorupi",
     "evolve_from": [],
+    "location": [
+        {
+            "route": "Route 9 + Autl Woods",
+            "area": "",
+            "method": "land"
+        }
+    ],
     "learnset": [
         {
             "level": 1,

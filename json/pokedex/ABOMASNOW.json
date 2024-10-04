@@ -42,6 +42,13 @@
         "SNOVER",
         "ABOMASNOW_MEGA"
     ],
+    "location": [
+        {
+            "route": "Victory Road",
+            "area": "Snowy Area",
+            "method": "land"
+        }
+    ],
     "tm": [
         "MOVE_FOCUSPUNCH",
         "MOVE_WATERPULSE",

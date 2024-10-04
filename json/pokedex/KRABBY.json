@@ -52,6 +52,43 @@
     ],
     "name": "Krabby",
     "evolve_from": [],
+    "location": [
+        {
+            "route": "Route 2",
+            "area": "",
+            "method": "Rock Smash"
+        },
+        {
+            "route": "Route 3",
+            "area": "",
+            "method": "Good Rod"
+        },
+        {
+            "route": "Route 14",
+            "area": "",
+            "method": "Rock Smash"
+        },
+        {
+            "route": "Route 16",
+            "area": "",
+            "method": "Rock Smash"
+        },
+        {
+            "route": "Route 17",
+            "area": "",
+            "method": "Rock Smash"
+        },
+        {
+            "route": "Route 18",
+            "area": "",
+            "method": "Rock Smash"
+        },
+        {
+            "route": "Thundercap Mt.",
+            "area": "Outside",
+            "method": "Rock Smash"
+        }
+    ],
     "learnset": [
         {
             "level": 1,

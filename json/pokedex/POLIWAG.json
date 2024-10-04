@@ -50,6 +50,18 @@
     ],
     "name": "Poliwag",
     "evolve_from": [],
+    "location": [
+        {
+            "route": "Route 3",
+            "area": "",
+            "method": "land"
+        },
+        {
+            "route": "Cootes Bog",
+            "area": "",
+            "method": "Old Rod"
+        }
+    ],
     "learnset": [
         {
             "level": 1,

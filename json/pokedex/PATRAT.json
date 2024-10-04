@@ -51,6 +51,13 @@
     "blurb": "Extremely cautious, one of them is always on a lookout, but it won't notice a foe coming from behind.",
     "name": "Patrat",
     "evolve_from": [],
+    "location": [
+        {
+            "route": "Route 2",
+            "area": "",
+            "method": "land"
+        }
+    ],
     "learnset": [
         {
             "level": 1,

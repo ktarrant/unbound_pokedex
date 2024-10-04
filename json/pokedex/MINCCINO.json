@@ -51,6 +51,13 @@
     "blurb": "Minccino greet each other by grooming one another thoroughly with their tails.",
     "name": "Minccino",
     "evolve_from": [],
+    "location": [
+        {
+            "route": "Route 2",
+            "area": "",
+            "method": "land"
+        }
+    ],
     "learnset": [
         {
             "level": 1,

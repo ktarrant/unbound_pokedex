@@ -53,6 +53,13 @@
     ],
     "name": "Tangela",
     "evolve_from": [],
+    "location": [
+        {
+            "route": "Route 16",
+            "area": "",
+            "method": "land"
+        }
+    ],
     "learnset": [
         {
             "level": 1,

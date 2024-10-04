@@ -57,6 +57,53 @@
     ],
     "name": "Psyduck",
     "evolve_from": [],
+    "location": [
+        {
+            "route": "Grim Woods",
+            "area": "",
+            "method": "surf"
+        },
+        {
+            "route": "Grim Woods",
+            "area": "",
+            "method": "Good Rod"
+        },
+        {
+            "route": "Valley Cave",
+            "area": "",
+            "method": "surf"
+        },
+        {
+            "route": "Valley Cave",
+            "area": "",
+            "method": "Good Rod"
+        },
+        {
+            "route": "Vivill Woods",
+            "area": "",
+            "method": "surf"
+        },
+        {
+            "route": "Vivill Woods",
+            "area": "",
+            "method": "Good Rod"
+        },
+        {
+            "route": "Crystal Peak",
+            "area": "",
+            "method": "Good Rod"
+        },
+        {
+            "route": "Redwood Forest",
+            "area": "",
+            "method": "Good Rod"
+        },
+        {
+            "route": "Victory Road",
+            "area": "1F - B1F - 2F",
+            "method": "Good Rod"
+        }
+    ],
     "learnset": [
         {
             "level": 1,

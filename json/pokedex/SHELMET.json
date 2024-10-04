@@ -44,6 +44,13 @@
     "blurb": "When it and Karrablast are together, and both receive electrical stimulation, they both evolve.",
     "name": "Shelmet",
     "evolve_from": [],
+    "location": [
+        {
+            "route": "Route 10",
+            "area": "Swarm",
+            "method": "land"
+        }
+    ],
     "learnset": [
         {
             "level": 1,

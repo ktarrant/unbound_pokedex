@@ -40,6 +40,13 @@
     "evolve_from": [
         "TRAPINCH"
     ],
+    "location": [
+        {
+            "route": "Great Desert",
+            "area": "",
+            "method": "land"
+        }
+    ],
     "learnset": [
         {
             "level": 0,

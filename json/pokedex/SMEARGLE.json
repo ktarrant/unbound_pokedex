@@ -30,6 +30,13 @@
     "noFlip": true,
     "name": "Smeargle",
     "evolve_from": [],
+    "location": [
+        {
+            "route": "Route 6",
+            "area": "Swarm",
+            "method": "land"
+        }
+    ],
     "learnset": [
         {
             "level": 1,

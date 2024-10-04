@@ -54,6 +54,13 @@
     "blurb": "Very intelligent, it roasts berries before eating them. It likes to help people.",
     "name": "Pansear",
     "evolve_from": [],
+    "location": [
+        {
+            "route": "Flower Paradise",
+            "area": "Red Flowers",
+            "method": "land"
+        }
+    ],
     "learnset": [
         {
             "level": 1,

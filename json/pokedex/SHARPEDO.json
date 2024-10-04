@@ -41,6 +41,23 @@
         "CARVANHA",
         "SHARPEDO_MEGA"
     ],
+    "location": [
+        {
+            "route": "Route 12",
+            "area": "",
+            "method": "Super Rod"
+        },
+        {
+            "route": "Route 14",
+            "area": "",
+            "method": "Super Rod"
+        },
+        {
+            "route": "Route 17",
+            "area": "",
+            "method": "Super Rod"
+        }
+    ],
     "tm": [
         "MOVE_WATERPULSE",
         "MOVE_ROAR",

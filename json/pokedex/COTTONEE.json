@@ -53,6 +53,13 @@
     "blurb": "When attacked, it escapes by shooting cotton from its body to serve as a decoy to distract the attacker.",
     "name": "Cottonee",
     "evolve_from": [],
+    "location": [
+        {
+            "route": "Vivill Woods",
+            "area": "",
+            "method": "land"
+        }
+    ],
     "learnset": [
         {
             "level": 1,

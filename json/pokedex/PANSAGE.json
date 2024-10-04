@@ -53,6 +53,13 @@
     "blurb": "It shares the leaf on its head with weary-looking Pok\u00e9mon. These leaves are known to relieve stress.",
     "name": "Pansage",
     "evolve_from": [],
+    "location": [
+        {
+            "route": "Flower Paradise",
+            "area": "Pink Flowers",
+            "method": "land"
+        }
+    ],
     "learnset": [
         {
             "level": 1,

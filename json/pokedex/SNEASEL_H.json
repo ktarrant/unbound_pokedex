@@ -52,6 +52,23 @@
     "blurb": "From the tips of its claws drips a venom that infiltrates the nerves of any prey caught in its grasp.",
     "name": "Sneasel",
     "evolve_from": [],
+    "location": [
+        {
+            "route": "Route 8",
+            "area": "",
+            "method": "land"
+        },
+        {
+            "route": "Frost Mountain",
+            "area": "",
+            "method": "land"
+        },
+        {
+            "route": "Frozen Forest",
+            "area": "",
+            "method": "land"
+        }
+    ],
     "learnset": [
         {
             "level": 1,

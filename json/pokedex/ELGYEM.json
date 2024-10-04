@@ -50,6 +50,13 @@
     "blurb": "Rumors of its origin are linked to a UFO crash site in the desert 50 years ago.",
     "name": "Elgyem",
     "evolve_from": [],
+    "location": [
+        {
+            "route": "Route 5",
+            "area": "Swarm",
+            "method": "land"
+        }
+    ],
     "learnset": [
         {
             "level": 1,

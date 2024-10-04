@@ -40,6 +40,13 @@
     "evolve_from": [
         "DRATINI"
     ],
+    "location": [
+        {
+            "route": "Crystal Peak",
+            "area": "",
+            "method": "surf"
+        }
+    ],
     "learnset": [
         {
             "level": 1,

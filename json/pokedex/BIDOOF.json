@@ -54,6 +54,13 @@
     "blurb": "With nerves of steel, nothing can perturb it. It is more agile and active than it appears.",
     "name": "Bidoof",
     "evolve_from": [],
+    "location": [
+        {
+            "route": "Route 3",
+            "area": "",
+            "method": "land"
+        }
+    ],
     "learnset": [
         {
             "level": 1,

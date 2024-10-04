@@ -40,6 +40,28 @@
     "evolve_from": [
         "LAPRAS"
     ],
+    "location": [
+        {
+            "route": "Route 17",
+            "area": "",
+            "method": "Super Rod"
+        },
+        {
+            "route": "Icicle Cave",
+            "area": "",
+            "method": "surf"
+        },
+        {
+            "route": "Frost Mountain",
+            "area": "",
+            "method": "surf"
+        },
+        {
+            "route": "Victory Road",
+            "area": "Maze Area",
+            "method": "surf"
+        }
+    ],
     "learnset": [
         {
             "level": 1,

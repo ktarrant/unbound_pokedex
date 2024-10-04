@@ -56,6 +56,13 @@
     ],
     "name": "Wooper",
     "evolve_from": [],
+    "location": [
+        {
+            "route": "Cliff Cave",
+            "area": "",
+            "method": "land"
+        }
+    ],
     "learnset": [
         {
             "level": 1,

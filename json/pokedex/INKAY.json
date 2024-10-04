@@ -49,6 +49,13 @@
     "blurb": "It draws prey near with its blinking lights and then wraps them up in its long tentacles.",
     "name": "Inkay",
     "evolve_from": [],
+    "location": [
+        {
+            "route": "Route 2",
+            "area": "",
+            "method": "land"
+        }
+    ],
     "learnset": [
         {
             "level": 1,

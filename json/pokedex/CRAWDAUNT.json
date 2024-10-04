@@ -32,6 +32,18 @@
     "evolve_from": [
         "CORPHISH"
     ],
+    "location": [
+        {
+            "route": "Route 4",
+            "area": "",
+            "method": "Super Rod"
+        },
+        {
+            "route": "Route 5",
+            "area": "",
+            "method": "Super Rod"
+        }
+    ],
     "learnset": [
         {
             "level": 0,

@@ -40,6 +40,13 @@
     "evolve_from": [
         "IGGLYBUFF"
     ],
+    "location": [
+        {
+            "route": "Victory Road",
+            "area": "Maze Area",
+            "method": "land"
+        }
+    ],
     "learnset": [
         {
             "level": 1,
