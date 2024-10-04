@@ -6,6 +6,9 @@ for data reference for creating guides.
 The C data is taken from here:
 TODO: Link GitHub Repo with C data
 
+The Pokemon Location data is from here:
+https://docs.google.com/spreadsheets/d/1PyGm-yrit5Ow6cns2tBA9VEMwLVMzn3YhDRipABjLUM/edit#gid=897380238
+
 ## Future Work
-- Find Pokemon Area data and add to pokedex
+- Some Pokemon names in Area spreadsheet don't match internal names
 - Scrape TM location information and add to TM data
