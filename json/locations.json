@@ -1988,8 +1988,9 @@
    ],
    "Maze Area": [
     "FLOATZEL",
-    "BASCULIN_H",
-    "Kyurem's Cave",
+    "BASCULIN_H"
+   ],
+   "Kyurem's Cave": [
     "DEWGONG",
     "SEALEO",
     "LAPRAS_GIGA"
@@ -2007,8 +2008,9 @@
     "PSYDUCK"
    ],
    "Maze Area": [
-    "LUVDISC",
-    "Kyurem's Cave",
+    "LUVDISC"
+   ],
+   "Kyurem's Cave": [
     "SEEL",
     "SHELLDER"
    ]
@@ -2021,8 +2023,9 @@
    ],
    "Maze Area": [
     "LUVDISC",
-    "BRUXISH",
-    "Kyurem's Cave",
+    "BRUXISH"
+   ],
+   "Kyurem's Cave": [
     "DEWGONG",
     "SHELLDER"
    ]

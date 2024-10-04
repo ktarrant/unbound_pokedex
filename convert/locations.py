@@ -28,7 +28,7 @@ def parse_encounters_csv(csv_file, skip_lines=0):
 def check_area(value):
     if value in ["Inside", "Outside"]:
         return True
-    if "Area" in value:
+    if " Area" in value:
         return True
     if "Flowers" in value:
         return True
@@ -39,6 +39,8 @@ def check_area(value):
     if ", " in value:
         return True
     if "Headbutt" in value:
+        return True
+    if " Cave" in value:
         return True
     if value in ["Swarm", "Special Encounter"]:
         return True
