@@ -30,6 +30,9 @@
     "noFlip": true,
     "blurb": "It chants incantations. While they usually torment targets, some chants bring happiness.",
     "name": "Mismagius",
+    "evolve_from": [
+        "MISDREAVUS"
+    ],
     "learnset": [
         {
             "level": 0,
@@ -111,9 +114,6 @@
             "level": 41,
             "move": "MOVE_SHADOWBALL"
         }
-    ],
-    "evolve_from": [
-        "MISDREAVUS"
     ],
     "tm": [
         "MOVE_CALMMIND",

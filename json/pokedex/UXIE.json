@@ -30,6 +30,7 @@
     "noFlip": true,
     "blurb": "Known as \"The Being of Knowledge.\\\" It is said that it can wipe out the memory of those who see its eyes.",
     "name": "Uxie",
+    "evolve_from": [],
     "learnset": [
         {
             "level": 1,
@@ -100,7 +101,6 @@
             "move": "MOVE_MEMENTO"
         }
     ],
-    "evolve_from": [],
     "tm": [
         "MOVE_WATERPULSE",
         "MOVE_CALMMIND",

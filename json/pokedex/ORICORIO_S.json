@@ -34,6 +34,7 @@
         "MOVE_SAFEGUARD"
     ],
     "blurb": "This Oricorio has sipped purple nectar. Some dancers use its graceful, elegant dancing as inspiration.",
+    "evolve_from": [],
     "learnset": [
         {
             "level": 1,
@@ -100,7 +101,6 @@
             "move": "MOVE_HURRICANE"
         }
     ],
-    "evolve_from": [],
     "tm": [
         "MOVE_CALMMIND",
         "MOVE_TOXIC",

@@ -29,6 +29,7 @@
     "hiddenAbility": "ABILITY_NONE",
     "noFlip": true,
     "blurb": "At their appearance, even Gyarados flee. When they team up to use Water Gun, its power exceeds that of Hydro Pump.",
+    "evolve_from": [],
     "learnset": [
         {
             "level": 1,
@@ -95,7 +96,6 @@
             "move": "MOVE_DOUBLEEDGE"
         }
     ],
-    "evolve_from": [],
     "tm": [
         "MOVE_WATERPULSE",
         "MOVE_TOXIC",

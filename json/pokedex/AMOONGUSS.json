@@ -30,6 +30,9 @@
     "noFlip": true,
     "blurb": "It moves the caps on both arms and does a dance to lure prey. It prefers damp places.",
     "name": "Amoonguss",
+    "evolve_from": [
+        "FOONGUS"
+    ],
     "learnset": [
         {
             "level": 1,
@@ -95,9 +98,6 @@
             "level": 60,
             "move": "MOVE_SOLARBEAM"
         }
-    ],
-    "evolve_from": [
-        "FOONGUS"
     ],
     "tm": [
         "MOVE_TOXIC",

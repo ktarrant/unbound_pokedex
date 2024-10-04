@@ -40,8 +40,17 @@
         "MOVE_METALCLAW",
         "MOVE_NIGHTSLASH"
     ],
+    "evolve_to": [
+        {
+            "method": "EVO_LEVEL",
+            "condition": "34",
+            "target": "PURUGLY",
+            "extra": "0"
+        }
+    ],
     "blurb": "With its sharp glare, it puts foes in a mild hypnotic state. It is a very fickle Pok\u00e9mon.",
     "name": "Glameow",
+    "evolve_from": [],
     "learnset": [
         {
             "level": 1,
@@ -112,15 +121,6 @@
             "move": "MOVE_PLAYROUGH"
         }
     ],
-    "evolve_to": [
-        {
-            "method": "EVO_LEVEL",
-            "condition": "34",
-            "target": "PURUGLY",
-            "extra": "0"
-        }
-    ],
-    "evolve_from": [],
     "tm": [
         "MOVE_WATERPULSE",
         "MOVE_TOXIC",

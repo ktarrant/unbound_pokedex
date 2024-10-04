@@ -45,7 +45,18 @@
         "MOVE_SOAK",
         "MOVE_TICKLE"
     ],
+    "evolve_to": [
+        {
+            "method": "EVO_LEVEL",
+            "condition": "18",
+            "target": "AZUMARILL",
+            "extra": "0"
+        }
+    ],
     "name": "Marill",
+    "evolve_from": [
+        "AZURILL"
+    ],
     "learnset": [
         {
             "level": 1,
@@ -131,17 +142,6 @@
             "level": 42,
             "move": "MOVE_SUPERPOWER"
         }
-    ],
-    "evolve_to": [
-        {
-            "method": "EVO_LEVEL",
-            "condition": "18",
-            "target": "AZUMARILL",
-            "extra": "0"
-        }
-    ],
-    "evolve_from": [
-        "AZURILL"
     ],
     "tm": [
         "MOVE_FOCUSPUNCH",

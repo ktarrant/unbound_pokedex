@@ -42,8 +42,17 @@
         "MOVE_QUICKATTACK",
         "MOVE_NIGHTDAZE"
     ],
+    "evolve_to": [
+        {
+            "method": "EVO_LEVEL",
+            "condition": "20",
+            "target": "LIEPARD",
+            "extra": "0"
+        }
+    ],
     "blurb": "They trick people with cuteness, and steal their valuables just to see the looks on their faces.",
     "name": "Purrloin",
+    "evolve_from": [],
     "learnset": [
         {
             "level": 1,
@@ -106,15 +115,6 @@
             "move": "MOVE_PLAYROUGH"
         }
     ],
-    "evolve_to": [
-        {
-            "method": "EVO_LEVEL",
-            "condition": "20",
-            "target": "LIEPARD",
-            "extra": "0"
-        }
-    ],
-    "evolve_from": [],
     "tm": [
         "MOVE_TOXIC",
         "MOVE_HIDDENPOWER",

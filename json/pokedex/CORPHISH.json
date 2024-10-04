@@ -42,7 +42,16 @@
         "MOVE_SWITCHEROO",
         "MOVE_SLASH"
     ],
+    "evolve_to": [
+        {
+            "method": "EVO_LEVEL",
+            "condition": "30",
+            "target": "CRAWDAUNT",
+            "extra": "0"
+        }
+    ],
     "name": "Corphish",
+    "evolve_from": [],
     "learnset": [
         {
             "level": 1,
@@ -109,15 +118,6 @@
             "move": "MOVE_GUILLOTINE"
         }
     ],
-    "evolve_to": [
-        {
-            "method": "EVO_LEVEL",
-            "condition": "30",
-            "target": "CRAWDAUNT",
-            "extra": "0"
-        }
-    ],
-    "evolve_from": [],
     "tm": [
         "MOVE_WATERPULSE",
         "MOVE_TOXIC",

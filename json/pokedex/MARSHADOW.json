@@ -30,6 +30,7 @@
     "noFlip": true,
     "blurb": "It lurks in the shadows of others, copying their movements and powers. It is craven and cowering.",
     "name": "Marshadow",
+    "evolve_from": [],
     "learnset": [
         {
             "level": 1,
@@ -116,7 +117,6 @@
             "move": "MOVE_CLOSECOMBAT"
         }
     ],
-    "evolve_from": [],
     "tm": [
         "MOVE_FOCUSPUNCH",
         "MOVE_CALMMIND",

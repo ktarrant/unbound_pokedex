@@ -44,13 +44,6 @@
         "MOVE_MAGICCOAT",
         "MOVE_COUNTER"
     ],
-    "name": "Abra",
-    "learnset": [
-        {
-            "level": 1,
-            "move": "MOVE_TELEPORT"
-        }
-    ],
     "evolve_to": [
         {
             "method": "EVO_LEVEL",
@@ -59,7 +52,14 @@
             "extra": "0"
         }
     ],
+    "name": "Abra",
     "evolve_from": [],
+    "learnset": [
+        {
+            "level": 1,
+            "move": "MOVE_TELEPORT"
+        }
+    ],
     "tm": [
         "MOVE_FOCUSPUNCH",
         "MOVE_CALMMIND",

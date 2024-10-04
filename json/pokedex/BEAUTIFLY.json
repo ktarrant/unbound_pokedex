@@ -29,6 +29,9 @@
     "hiddenAbility": "ABILITY_SERENEGRACE",
     "noFlip": true,
     "name": "Beautifly",
+    "evolve_from": [
+        "SILCOON"
+    ],
     "learnset": [
         {
             "level": 0,
@@ -114,9 +117,6 @@
             "level": 48,
             "move": "MOVE_QUIVERDANCE"
         }
-    ],
-    "evolve_from": [
-        "SILCOON"
     ],
     "tm": [
         "MOVE_TOXIC",

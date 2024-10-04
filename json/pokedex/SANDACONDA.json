@@ -28,8 +28,6 @@
     "safariZoneFleeRate": 0,
     "hiddenAbility": "ABILITY_SANDVEIL",
     "noFlip": true,
-    "blurb": "When it contracts its body, over 220 pounds of sand sprays from its nose. It becomes disheartened if it runs out.",
-    "name": "Sandaconda",
     "evolve_to": [
         {
             "method": "EVO_GIGANTAMAX",
@@ -38,64 +36,8 @@
             "extra": "0"
         }
     ],
-    "learnset": [
-        {
-            "level": 1,
-            "move": "MOVE_SKULLBASH"
-        },
-        {
-            "level": 1,
-            "move": "MOVE_SANDATTACK"
-        },
-        {
-            "level": 1,
-            "move": "MOVE_WRAP"
-        },
-        {
-            "level": 1,
-            "move": "MOVE_SANDSTORM"
-        },
-        {
-            "level": 1,
-            "move": "MOVE_SANDTOMB"
-        },
-        {
-            "level": 15,
-            "move": "MOVE_BRUTALSWING"
-        },
-        {
-            "level": 20,
-            "move": "MOVE_HEADBUTT"
-        },
-        {
-            "level": 25,
-            "move": "MOVE_BULLDOZE"
-        },
-        {
-            "level": 30,
-            "move": "MOVE_GLARE"
-        },
-        {
-            "level": 35,
-            "move": "MOVE_SLAM"
-        },
-        {
-            "level": 42,
-            "move": "MOVE_COIL"
-        },
-        {
-            "level": 48,
-            "move": "MOVE_DIG"
-        },
-        {
-            "level": 54,
-            "move": "MOVE_MINIMIZE"
-        },
-        {
-            "level": 60,
-            "move": "MOVE_EARTHQUAKE"
-        }
-    ],
+    "blurb": "When it contracts its body, over 220 pounds of sand sprays from its nose. It becomes disheartened if it runs out.",
+    "name": "Sandaconda",
     "evolve_from": [
         "SILICOBRA",
         "SANDACONDA_GIGA"
@@ -157,5 +99,63 @@
         "MOVE_SCALESHOT",
         "MOVE_SKITTERSMACK",
         "MOVE_SCORCHINGSANDS"
+    ],
+    "learnset": [
+        {
+            "level": 1,
+            "move": "MOVE_SKULLBASH"
+        },
+        {
+            "level": 1,
+            "move": "MOVE_SANDATTACK"
+        },
+        {
+            "level": 1,
+            "move": "MOVE_WRAP"
+        },
+        {
+            "level": 1,
+            "move": "MOVE_SANDSTORM"
+        },
+        {
+            "level": 1,
+            "move": "MOVE_SANDTOMB"
+        },
+        {
+            "level": 15,
+            "move": "MOVE_BRUTALSWING"
+        },
+        {
+            "level": 20,
+            "move": "MOVE_HEADBUTT"
+        },
+        {
+            "level": 25,
+            "move": "MOVE_BULLDOZE"
+        },
+        {
+            "level": 30,
+            "move": "MOVE_GLARE"
+        },
+        {
+            "level": 35,
+            "move": "MOVE_SLAM"
+        },
+        {
+            "level": 42,
+            "move": "MOVE_COIL"
+        },
+        {
+            "level": 48,
+            "move": "MOVE_DIG"
+        },
+        {
+            "level": 54,
+            "move": "MOVE_MINIMIZE"
+        },
+        {
+            "level": 60,
+            "move": "MOVE_EARTHQUAKE"
+        }
     ]
 }

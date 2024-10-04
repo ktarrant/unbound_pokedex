@@ -30,6 +30,7 @@
     "noFlip": true,
     "blurb": "It appeared from the Ultra Wormhole. It raided a power plant, so it energizes itself with electricity.",
     "name": "Xurkitree",
+    "evolve_from": [],
     "learnset": [
         {
             "level": 1,
@@ -108,7 +109,6 @@
             "move": "MOVE_ZAPCANNON"
         }
     ],
-    "evolve_from": [],
     "tm": [
         "MOVE_CALMMIND",
         "MOVE_TOXIC",

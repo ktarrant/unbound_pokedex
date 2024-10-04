@@ -30,6 +30,9 @@
     "noFlip": true,
     "blurb": "Buried beneath the castle are masses of dried-up bones from those whose vitality it has drained.",
     "name": "Palossand",
+    "evolve_from": [
+        "SANDYGAST"
+    ],
     "learnset": [
         {
             "level": 1,
@@ -91,9 +94,6 @@
             "level": 68,
             "move": "MOVE_SANDSTORM"
         }
-    ],
-    "evolve_from": [
-        "SANDYGAST"
     ],
     "tm": [
         "MOVE_TOXIC",

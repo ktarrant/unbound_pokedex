@@ -29,6 +29,7 @@
     "hiddenAbility": "ABILITY_NONE",
     "noFlip": true,
     "blurb": "It functions thanks to its artificial soul. The vivid decoration is proof that it was presented as a gift to royalty.",
+    "evolve_from": [],
     "learnset": [
         {
             "level": 1,
@@ -127,7 +128,6 @@
             "move": "MOVE_TRUMPCARD"
         }
     ],
-    "evolve_from": [],
     "tm": [
         "MOVE_CALMMIND",
         "MOVE_HIDDENPOWER",

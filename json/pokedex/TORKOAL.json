@@ -39,6 +39,7 @@
         "MOVE_ANCIENTPOWER"
     ],
     "name": "Torkoal",
+    "evolve_from": [],
     "learnset": [
         {
             "level": 1,
@@ -125,7 +126,6 @@
             "move": "MOVE_ERUPTION"
         }
     ],
-    "evolve_from": [],
     "tm": [
         "MOVE_TOXIC",
         "MOVE_HIDDENPOWER",

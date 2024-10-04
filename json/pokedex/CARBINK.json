@@ -30,6 +30,7 @@
     "noFlip": true,
     "blurb": "Born from temperatures and pressures deep underground, it fires beams from the stone in its head.",
     "name": "Carbink",
+    "evolve_from": [],
     "learnset": [
         {
             "level": 1,
@@ -104,7 +105,6 @@
             "move": "MOVE_REFLECT"
         }
     ],
-    "evolve_from": [],
     "tm": [
         "MOVE_CALMMIND",
         "MOVE_TOXIC",

@@ -29,6 +29,9 @@
     "hiddenAbility": "ABILITY_ADAPTABILITY",
     "noFlip": true,
     "name": "Crawdaunt",
+    "evolve_from": [
+        "CORPHISH"
+    ],
     "learnset": [
         {
             "level": 0,
@@ -102,9 +105,6 @@
             "level": 63,
             "move": "MOVE_GUILLOTINE"
         }
-    ],
-    "evolve_from": [
-        "CORPHISH"
     ],
     "tm": [
         "MOVE_WATERPULSE",

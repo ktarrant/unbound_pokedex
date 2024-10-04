@@ -30,6 +30,9 @@
     "noFlip": true,
     "blurb": "Lumineon swimming in the darkness of the deep sea look like stars shining in the night sky.",
     "name": "Lumineon",
+    "evolve_from": [
+        "FINNEON"
+    ],
     "learnset": [
         {
             "level": 1,
@@ -91,9 +94,6 @@
             "level": 55,
             "move": "MOVE_FLIPTURN"
         }
-    ],
-    "evolve_from": [
-        "FINNEON"
     ],
     "tm": [
         "MOVE_WATERPULSE",

@@ -28,8 +28,19 @@
     "safariZoneFleeRate": 0,
     "hiddenAbility": "ABILITY_REGENERATOR",
     "noFlip": true,
+    "evolve_to": [
+        {
+            "method": "EVO_LEVEL",
+            "condition": "41",
+            "target": "REUNICLUS",
+            "extra": "0"
+        }
+    ],
     "blurb": "When their two divided brains think the same thoughts, their psychic power is maximized.",
     "name": "Duosion",
+    "evolve_from": [
+        "SOLOSIS"
+    ],
     "learnset": [
         {
             "level": 1,
@@ -95,17 +106,6 @@
             "level": 53,
             "move": "MOVE_WONDERROOM"
         }
-    ],
-    "evolve_to": [
-        {
-            "method": "EVO_LEVEL",
-            "condition": "41",
-            "target": "REUNICLUS",
-            "extra": "0"
-        }
-    ],
-    "evolve_from": [
-        "SOLOSIS"
     ],
     "tm": [
         "MOVE_CALMMIND",

@@ -28,8 +28,19 @@
     "safariZoneFleeRate": 0,
     "hiddenAbility": "ABILITY_MOTORDRIVE",
     "noFlip": true,
+    "evolve_to": [
+        {
+            "method": "EVO_LEVEL",
+            "condition": "45",
+            "target": "KLINKLANG",
+            "extra": "0"
+        }
+    ],
     "blurb": "A mini and big gear comprise its body. If the mini gear it launches at a foe doesn't return, it will die.",
     "name": "Klang",
+    "evolve_from": [
+        "KLINK"
+    ],
     "learnset": [
         {
             "level": 1,
@@ -95,17 +106,6 @@
             "level": 61,
             "move": "MOVE_HYPERBEAM"
         }
-    ],
-    "evolve_to": [
-        {
-            "method": "EVO_LEVEL",
-            "condition": "45",
-            "target": "KLINKLANG",
-            "extra": "0"
-        }
-    ],
-    "evolve_from": [
-        "KLINK"
     ],
     "tm": [
         "MOVE_TOXIC",

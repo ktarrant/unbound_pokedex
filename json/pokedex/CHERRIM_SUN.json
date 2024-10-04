@@ -28,6 +28,7 @@
     "safariZoneFleeRate": 0,
     "hiddenAbility": "ABILITY_NONE",
     "noFlip": true,
+    "evolve_from": [],
     "learnset": [
         {
             "level": 0,
@@ -114,7 +115,6 @@
             "move": "MOVE_SOLARBEAM"
         }
     ],
-    "evolve_from": [],
     "tm": [
         "MOVE_TOXIC",
         "MOVE_HIDDENPOWER",

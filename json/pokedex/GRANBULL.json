@@ -29,6 +29,9 @@
     "hiddenAbility": "ABILITY_STRONGJAW",
     "noFlip": true,
     "name": "Granbull",
+    "evolve_from": [
+        "SNUBBULL"
+    ],
     "learnset": [
         {
             "level": 1,
@@ -98,9 +101,6 @@
             "level": 61,
             "move": "MOVE_OUTRAGE"
         }
-    ],
-    "evolve_from": [
-        "SNUBBULL"
     ],
     "tm": [
         "MOVE_FOCUSPUNCH",

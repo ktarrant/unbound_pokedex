@@ -30,6 +30,9 @@
     "noFlip": true,
     "blurb": "When Reuniclus shake hands, a network forms between their brains, increasing their psychic power.",
     "name": "Reuniclus",
+    "evolve_from": [
+        "DUOSION"
+    ],
     "learnset": [
         {
             "level": 0,
@@ -99,9 +102,6 @@
             "level": 59,
             "move": "MOVE_WONDERROOM"
         }
-    ],
-    "evolve_from": [
-        "DUOSION"
     ],
     "tm": [
         "MOVE_FOCUSPUNCH",

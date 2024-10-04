@@ -30,6 +30,9 @@
     "noFlip": true,
     "blurb": "It sends electricity through its legs to boost their strength. Running at top speed, it easily breaks 50 mph.",
     "name": "Boltund",
+    "evolve_from": [
+        "YAMPER"
+    ],
     "learnset": [
         {
             "level": 1,
@@ -87,9 +90,6 @@
             "level": 60,
             "move": "MOVE_BOLTSTRIKE"
         }
-    ],
-    "evolve_from": [
-        "YAMPER"
     ],
     "tm": [
         "MOVE_ROAR",

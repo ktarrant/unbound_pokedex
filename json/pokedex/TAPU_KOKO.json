@@ -30,6 +30,7 @@
     "noFlip": true,
     "blurb": "This guardian deity of Melemele summons thunderclouds and stores their lightning inside its body.",
     "name": "Tapu Koko",
+    "evolve_from": [],
     "learnset": [
         {
             "level": 1,
@@ -108,7 +109,6 @@
             "move": "MOVE_ELECTRICTERRAIN"
         }
     ],
-    "evolve_from": [],
     "tm": [
         "MOVE_CALMMIND",
         "MOVE_ROAR",

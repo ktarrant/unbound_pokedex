@@ -30,6 +30,9 @@
     "noFlip": true,
     "blurb": "It can trudge mountain roads without rest for three days, all the while dragging a 10-ton load.",
     "name": "Mudsdale",
+    "evolve_from": [
+        "MUDBRAY"
+    ],
     "learnset": [
         {
             "level": 1,
@@ -91,9 +94,6 @@
             "level": 52,
             "move": "MOVE_SUPERPOWER"
         }
-    ],
-    "evolve_from": [
-        "MUDBRAY"
     ],
     "tm": [
         "MOVE_ROAR",

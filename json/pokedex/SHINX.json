@@ -44,8 +44,17 @@
         "MOVE_FAKETEARS",
         "MOVE_DISCHARGE"
     ],
+    "evolve_to": [
+        {
+            "method": "EVO_LEVEL",
+            "condition": "15",
+            "target": "LUXIO",
+            "extra": "0"
+        }
+    ],
     "blurb": "All of its fur dazzles if danger is sensed. It flees while the foe is momentarily blinded.",
     "name": "Shinx",
+    "evolve_from": [],
     "learnset": [
         {
             "level": 1,
@@ -112,15 +121,6 @@
             "move": "MOVE_VOLTTACKLE"
         }
     ],
-    "evolve_to": [
-        {
-            "method": "EVO_LEVEL",
-            "condition": "15",
-            "target": "LUXIO",
-            "extra": "0"
-        }
-    ],
-    "evolve_from": [],
     "tm": [
         "MOVE_ROAR",
         "MOVE_TOXIC",

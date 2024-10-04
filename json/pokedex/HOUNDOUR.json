@@ -42,7 +42,16 @@
         "MOVE_DESTINYBOND",
         "MOVE_ODORSLEUTH"
     ],
+    "evolve_to": [
+        {
+            "method": "EVO_LEVEL",
+            "condition": "24",
+            "target": "HOUNDOOM",
+            "extra": "0"
+        }
+    ],
     "name": "Houndour",
+    "evolve_from": [],
     "learnset": [
         {
             "level": 1,
@@ -117,15 +126,6 @@
             "move": "MOVE_INFERNO"
         }
     ],
-    "evolve_to": [
-        {
-            "method": "EVO_LEVEL",
-            "condition": "24",
-            "target": "HOUNDOOM",
-            "extra": "0"
-        }
-    ],
-    "evolve_from": [],
     "tm": [
         "MOVE_ROAR",
         "MOVE_TOXIC",

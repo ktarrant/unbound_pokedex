@@ -28,6 +28,17 @@
     "safariZoneFleeRate": 0,
     "hiddenAbility": "ABILITY_NONE",
     "noFlip": true,
+    "evolve_to": [
+        {
+            "method": "EVO_MEGA",
+            "condition": "ITEM_NONE",
+            "target": "SABLEYE",
+            "extra": "MEGA_VARIANT_STANDARD"
+        }
+    ],
+    "evolve_from": [
+        "SABLEYE"
+    ],
     "learnset": [
         {
             "level": 1,
@@ -114,17 +125,86 @@
             "move": "MOVE_FOULPLAY"
         }
     ],
-    "evolve_to": [
-        {
-            "method": "EVO_MEGA",
-            "condition": "ITEM_NONE",
-            "target": "SABLEYE",
-            "extra": "MEGA_VARIANT_STANDARD"
-        }
+    "tm": [
+        "MOVE_FOCUSPUNCH",
+        "MOVE_WATERPULSE",
+        "MOVE_CALMMIND",
+        "MOVE_TOXIC",
+        "MOVE_HIDDENPOWER",
+        "MOVE_SUNNYDAY",
+        "MOVE_TAUNT",
+        "MOVE_PROTECT",
+        "MOVE_RAINDANCE",
+        "MOVE_FRUSTRATION",
+        "MOVE_RETURN",
+        "MOVE_DIG",
+        "MOVE_PSYCHIC",
+        "MOVE_SHADOWBALL",
+        "MOVE_BRICKBREAK",
+        "MOVE_DOUBLETEAM",
+        "MOVE_SHOCKWAVE",
+        "MOVE_ROCKTOMB",
+        "MOVE_AERIALACE",
+        "MOVE_TORMENT",
+        "MOVE_FACADE",
+        "MOVE_SECRETPOWER",
+        "MOVE_REST",
+        "MOVE_ATTRACT",
+        "MOVE_THIEF",
+        "MOVE_HONECLAWS",
+        "MOVE_ENDURE",
+        "MOVE_DRAINPUNCH",
+        "MOVE_WILLOWISP",
+        "MOVE_SHADOWCLAW",
+        "MOVE_PAYBACK",
+        "MOVE_FLASH",
+        "MOVE_GYROBALL",
+        "MOVE_LOWSWEEP",
+        "MOVE_DARKPULSE",
+        "MOVE_SLEEPTALK",
+        "MOVE_POISONJAB",
+        "MOVE_DREAMEATER",
+        "MOVE_SWAGGER",
+        "MOVE_SUBSTITUTE",
+        "MOVE_INCINERATE",
+        "MOVE_POWERUPPUNCH",
+        "MOVE_DAZZLINGGLEAM",
+        "MOVE_SNARL",
+        "MOVE_ROUND",
+        "MOVE_NATURALGIFT",
+        "MOVE_QUASH",
+        "MOVE_FLING",
+        "MOVE_CUT",
+        "MOVE_ROCKSMASH"
     ],
-    "evolve_from": [
-        "SABLEYE"
-    ],
-    "tm": [],
-    "tutor": []
+    "tutor": [
+        "MOVE_FIREPUNCH",
+        "MOVE_ICEPUNCH",
+        "MOVE_THUNDERPUNCH",
+        "MOVE_SNORE",
+        "MOVE_LOWKICK",
+        "MOVE_HELPINGHAND",
+        "MOVE_SNATCH",
+        "MOVE_SPITE",
+        "MOVE_SIGNALBEAM",
+        "MOVE_GRAVITY",
+        "MOVE_TELEKINESIS",
+        "MOVE_ROLEPLAY",
+        "MOVE_PAINSPLIT",
+        "MOVE_ICYWIND",
+        "MOVE_ZENHEADBUTT",
+        "MOVE_TRICK",
+        "MOVE_MAGICCOAT",
+        "MOVE_WONDERROOM",
+        "MOVE_FOULPLAY",
+        "MOVE_KNOCKOFF",
+        "MOVE_PSYCHUP",
+        "MOVE_CONFIDE",
+        "MOVE_ENCORE",
+        "MOVE_NASTYPLOT",
+        "MOVE_BODYSLAM",
+        "MOVE_HEX",
+        "MOVE_POWERGEM",
+        "MOVE_LASHOUT"
+    ]
 }

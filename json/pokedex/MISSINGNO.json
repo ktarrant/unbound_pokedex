@@ -29,7 +29,5 @@
     "hiddenAbility": "ABILITY_NONE",
     "noFlip": true,
     "name": "MISSINGNO.",
-    "evolve_from": [],
-    "tm": [],
-    "tutor": []
+    "evolve_from": []
 }

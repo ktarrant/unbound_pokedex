@@ -28,7 +28,16 @@
     "safariZoneFleeRate": 0,
     "hiddenAbility": "ABILITY_CHLOROPHYLL",
     "noFlip": true,
+    "evolve_to": [
+        {
+            "method": "EVO_GIGANTAMAX",
+            "condition": "FALSE",
+            "target": "VENUSAUR",
+            "extra": "0"
+        }
+    ],
     "name": "Venusaur",
+    "evolve_from": [],
     "learnset": [
         {
             "level": 0,
@@ -107,15 +116,70 @@
             "move": "MOVE_SOLARBEAM"
         }
     ],
-    "evolve_to": [
-        {
-            "method": "EVO_GIGANTAMAX",
-            "condition": "FALSE",
-            "target": "VENUSAUR",
-            "extra": "0"
-        }
+    "tm": [
+        "MOVE_ROAR",
+        "MOVE_TOXIC",
+        "MOVE_BULLETSEED",
+        "MOVE_HIDDENPOWER",
+        "MOVE_SUNNYDAY",
+        "MOVE_HYPERBEAM",
+        "MOVE_LIGHTSCREEN",
+        "MOVE_PROTECT",
+        "MOVE_GIGADRAIN",
+        "MOVE_SAFEGUARD",
+        "MOVE_FRUSTRATION",
+        "MOVE_SOLARBEAM",
+        "MOVE_EARTHQUAKE",
+        "MOVE_RETURN",
+        "MOVE_DOUBLETEAM",
+        "MOVE_SLUDGEBOMB",
+        "MOVE_FACADE",
+        "MOVE_SECRETPOWER",
+        "MOVE_REST",
+        "MOVE_ATTRACT",
+        "MOVE_ENERGYBALL",
+        "MOVE_FALSESWIPE",
+        "MOVE_ENDURE",
+        "MOVE_VENOSHOCK",
+        "MOVE_GIGAIMPACT",
+        "MOVE_FLASH",
+        "MOVE_SWORDSDANCE",
+        "MOVE_SLEEPTALK",
+        "MOVE_GRASSKNOT",
+        "MOVE_SWAGGER",
+        "MOVE_SUBSTITUTE",
+        "MOVE_BULLDOZE",
+        "MOVE_WORKUP",
+        "MOVE_ROUND",
+        "MOVE_ECHOEDVOICE",
+        "MOVE_NATURALGIFT",
+        "MOVE_NATUREPOWER",
+        "MOVE_CUT",
+        "MOVE_STRENGTH",
+        "MOVE_ROCKSMASH",
+        "MOVE_ROCKCLIMB"
     ],
-    "evolve_from": [],
-    "tm": [],
-    "tutor": []
+    "tutor": [
+        "MOVE_SNORE",
+        "MOVE_BIND",
+        "MOVE_HELPINGHAND",
+        "MOVE_BLOCK",
+        "MOVE_WORRYSEED",
+        "MOVE_SYNTHESIS",
+        "MOVE_SEEDBOMB",
+        "MOVE_OUTRAGE",
+        "MOVE_STOMPINGTANTRUM",
+        "MOVE_EARTHPOWER",
+        "MOVE_KNOCKOFF",
+        "MOVE_CONFIDE",
+        "MOVE_GRASSPLEDGE",
+        "MOVE_FRENZYPLANT",
+        "MOVE_GRASSYTERRAIN",
+        "MOVE_BODYSLAM",
+        "MOVE_WEATHERBALL",
+        "MOVE_LEAFSTORM",
+        "MOVE_POWERWHIP",
+        "MOVE_GRASSYGLIDE",
+        "MOVE_TERRAINPULSE"
+    ]
 }

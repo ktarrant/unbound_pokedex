@@ -43,6 +43,7 @@
     ],
     "blurb": "When it and Karrablast are together, and both receive electrical stimulation, they both evolve.",
     "name": "Shelmet",
+    "evolve_from": [],
     "learnset": [
         {
             "level": 1,
@@ -105,7 +106,6 @@
             "move": "MOVE_FINALGAMBIT"
         }
     ],
-    "evolve_from": [],
     "tm": [
         "MOVE_TOXIC",
         "MOVE_HIDDENPOWER",

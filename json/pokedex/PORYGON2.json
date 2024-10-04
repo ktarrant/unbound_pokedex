@@ -29,6 +29,7 @@
     "hiddenAbility": "ABILITY_ANALYTIC",
     "noFlip": true,
     "name": "Porygon2",
+    "evolve_from": [],
     "learnset": [
         {
             "level": 1,
@@ -107,7 +108,6 @@
             "move": "MOVE_HYPERBEAM"
         }
     ],
-    "evolve_from": [],
     "tm": [
         "MOVE_TOXIC",
         "MOVE_HIDDENPOWER",

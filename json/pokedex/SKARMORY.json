@@ -45,6 +45,7 @@
         "MOVE_COUNTER"
     ],
     "name": "Skarmory",
+    "evolve_from": [],
     "learnset": [
         {
             "level": 1,
@@ -111,7 +112,6 @@
             "move": "MOVE_BRAVEBIRD"
         }
     ],
-    "evolve_from": [],
     "tm": [
         "MOVE_ROAR",
         "MOVE_TOXIC",

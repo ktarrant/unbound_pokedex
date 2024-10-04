@@ -30,6 +30,7 @@
     "noFlip": true,
     "blurb": "It sometimes summons unknown powers and life-forms to this world from holes that lead to other worlds.",
     "name": "Lunala",
+    "evolve_from": [],
     "learnset": [
         {
             "level": 0,
@@ -104,7 +105,6 @@
             "move": "MOVE_HYPERBEAM"
         }
     ],
-    "evolve_from": [],
     "tm": [
         "MOVE_CALMMIND",
         "MOVE_ROAR",

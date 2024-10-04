@@ -30,6 +30,9 @@
     "noFlip": true,
     "blurb": "Patient by nature, it loses control of itself and pounces when it spots its favorite meal-Rattata!",
     "name": "Gumshoos",
+    "evolve_from": [
+        "YUNGOOS"
+    ],
     "learnset": [
         {
             "level": 1,
@@ -95,9 +98,6 @@
             "level": 55,
             "move": "MOVE_REST"
         }
-    ],
-    "evolve_from": [
-        "YUNGOOS"
     ],
     "tm": [
         "MOVE_ROAR",

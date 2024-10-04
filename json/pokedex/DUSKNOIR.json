@@ -30,6 +30,7 @@
     "noFlip": true,
     "blurb": "It is said to take lost spirits into its pliant body and guide them home.",
     "name": "Dusknoir",
+    "evolve_from": [],
     "learnset": [
         {
             "level": 1,
@@ -132,7 +133,6 @@
             "move": "MOVE_POLTERGEIST"
         }
     ],
-    "evolve_from": [],
     "tm": [
         "MOVE_FOCUSPUNCH",
         "MOVE_CALMMIND",

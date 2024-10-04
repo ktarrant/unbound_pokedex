@@ -29,6 +29,7 @@
     "hiddenAbility": "ABILITY_NONE",
     "noFlip": true,
     "blurb": "This strange form is the result of it evolving at dusk. An intense fighting spirit underlies its calmness.",
+    "evolve_from": [],
     "learnset": [
         {
             "level": 0,
@@ -151,7 +152,6 @@
             "move": "MOVE_CLOSECOMBAT"
         }
     ],
-    "evolve_from": [],
     "tm": [
         "MOVE_ROAR",
         "MOVE_TOXIC",

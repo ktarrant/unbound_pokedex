@@ -29,6 +29,9 @@
     "hiddenAbility": "ABILITY_HUGEPOWER",
     "noFlip": true,
     "name": "Ledian",
+    "evolve_from": [
+        "LEDYBA"
+    ],
     "learnset": [
         {
             "level": 1,
@@ -98,9 +101,6 @@
             "level": 56,
             "move": "MOVE_CLOSECOMBAT"
         }
-    ],
-    "evolve_from": [
-        "LEDYBA"
     ],
     "tm": [
         "MOVE_FOCUSPUNCH",

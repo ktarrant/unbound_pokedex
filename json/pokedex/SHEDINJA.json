@@ -29,6 +29,7 @@
     "hiddenAbility": "ABILITY_NONE",
     "noFlip": true,
     "name": "Shedinja",
+    "evolve_from": [],
     "learnset": [
         {
             "level": 1,
@@ -111,7 +112,6 @@
             "move": "MOVE_HEALBLOCK"
         }
     ],
-    "evolve_from": [],
     "tm": [
         "MOVE_TOXIC",
         "MOVE_HIDDENPOWER",

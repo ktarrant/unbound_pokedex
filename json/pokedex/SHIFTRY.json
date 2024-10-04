@@ -29,6 +29,9 @@
     "hiddenAbility": "ABILITY_PICKPOCKET",
     "noFlip": true,
     "name": "Shiftry",
+    "evolve_from": [
+        "NUZLEAF"
+    ],
     "learnset": [
         {
             "level": 0,
@@ -146,9 +149,6 @@
             "level": 57,
             "move": "MOVE_LEAFBLADE"
         }
-    ],
-    "evolve_from": [
-        "NUZLEAF"
     ],
     "tm": [
         "MOVE_TOXIC",

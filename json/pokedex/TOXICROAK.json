@@ -30,6 +30,9 @@
     "noFlip": true,
     "blurb": "Its knuckle claws secrete a toxin so vile that even a scratch could prove fatal.",
     "name": "Toxicroak",
+    "evolve_from": [
+        "CROAGUNK"
+    ],
     "learnset": [
         {
             "level": 1,
@@ -99,9 +102,6 @@
             "level": 65,
             "move": "MOVE_CROSSCHOP"
         }
-    ],
-    "evolve_from": [
-        "CROAGUNK"
     ],
     "tm": [
         "MOVE_FOCUSPUNCH",

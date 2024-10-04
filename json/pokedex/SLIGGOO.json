@@ -28,8 +28,17 @@
     "safariZoneFleeRate": 0,
     "hiddenAbility": "ABILITY_GOOEY",
     "noFlip": true,
+    "evolve_to": [
+        {
+            "method": "EVO_RAINY_FOGGY_OW",
+            "condition": "50",
+            "target": "GOODRA",
+            "extra": "0"
+        }
+    ],
     "blurb": "It crawls along sluggishly. The swirly protrusion on its back is filled with its brain and other organs.",
     "name": "Sliggoo",
+    "evolve_from": [],
     "learnset": [
         {
             "level": 1,
@@ -80,15 +89,6 @@
             "move": "MOVE_MUDDYWATER"
         }
     ],
-    "evolve_to": [
-        {
-            "method": "EVO_RAINY_FOGGY_OW",
-            "condition": "50",
-            "target": "GOODRA",
-            "extra": "0"
-        }
-    ],
-    "evolve_from": [],
     "tm": [
         "MOVE_WATERPULSE",
         "MOVE_TOXIC",

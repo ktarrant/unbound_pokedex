@@ -29,6 +29,9 @@
     "hiddenAbility": "ABILITY_WEAKARMOR",
     "noFlip": true,
     "name": "Omastar",
+    "evolve_from": [
+        "OMANYTE"
+    ],
     "learnset": [
         {
             "level": 0,
@@ -102,9 +105,6 @@
             "level": 70,
             "move": "MOVE_HYDROPUMP"
         }
-    ],
-    "evolve_from": [
-        "OMANYTE"
     ],
     "tm": [
         "MOVE_WATERPULSE",

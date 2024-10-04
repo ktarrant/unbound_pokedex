@@ -28,6 +28,7 @@
     "safariZoneFleeRate": 0,
     "hiddenAbility": "ABILITY_TELEPATHY",
     "noFlip": true,
+    "evolve_from": [],
     "learnset": [
         {
             "level": 1,
@@ -90,7 +91,6 @@
             "move": "MOVE_ORIGINPULSE"
         }
     ],
-    "evolve_from": [],
     "tm": [
         "MOVE_FOCUSPUNCH",
         "MOVE_DRAGONCLAW",

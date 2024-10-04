@@ -29,6 +29,9 @@
     "hiddenAbility": "ABILITY_MERCILESS",
     "noFlip": true,
     "name": "Arbok",
+    "evolve_from": [
+        "EKANS"
+    ],
     "learnset": [
         {
             "level": 0,
@@ -126,9 +129,6 @@
             "level": 59,
             "move": "MOVE_GUNKSHOT"
         }
-    ],
-    "evolve_from": [
-        "EKANS"
     ],
     "tm": [
         "MOVE_TOXIC",

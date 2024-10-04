@@ -28,8 +28,17 @@
     "safariZoneFleeRate": 0,
     "hiddenAbility": "ABILITY_CURSEDBODY",
     "noFlip": true,
+    "evolve_to": [
+        {
+            "method": "EVO_ITEM",
+            "condition": "ITEM_CHIPPED_POT",
+            "target": "POLTEAGEIST_CHIPPED",
+            "extra": "0"
+        }
+    ],
     "blurb": "The swirl pattern in its body is its weakness. If it gets stirred, the swirl loses its shape, and it gets dizzy.",
     "name": "Sinistea",
+    "evolve_from": [],
     "learnset": [
         {
             "level": 1,
@@ -80,15 +89,6 @@
             "move": "MOVE_SHELLSMASH"
         }
     ],
-    "evolve_to": [
-        {
-            "method": "EVO_ITEM",
-            "condition": "ITEM_CHIPPED_POT",
-            "target": "POLTEAGEIST_CHIPPED",
-            "extra": "0"
-        }
-    ],
-    "evolve_from": [],
     "tm": [
         "MOVE_TOXIC",
         "MOVE_HIDDENPOWER",

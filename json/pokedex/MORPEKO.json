@@ -40,64 +40,6 @@
     ],
     "blurb": "As it eats the seeds stored up in its pouches, it generates electricity while satisfying its constant hunger.",
     "name": "Morpeko",
-    "learnset": [
-        {
-            "level": 1,
-            "move": "MOVE_TAILWHIP"
-        },
-        {
-            "level": 1,
-            "move": "MOVE_THUNDERSHOCK"
-        },
-        {
-            "level": 5,
-            "move": "MOVE_LEER"
-        },
-        {
-            "level": 10,
-            "move": "MOVE_POWERTRIP"
-        },
-        {
-            "level": 15,
-            "move": "MOVE_QUICKATTACK"
-        },
-        {
-            "level": 20,
-            "move": "MOVE_SPARK"
-        },
-        {
-            "level": 25,
-            "move": "MOVE_FLATTER"
-        },
-        {
-            "level": 30,
-            "move": "MOVE_BITE"
-        },
-        {
-            "level": 35,
-            "move": "MOVE_TORMENT"
-        },
-        {
-            "level": 40,
-            "move": "MOVE_AGILITY"
-        },
-        {
-            "level": 45,
-            "move": "MOVE_BULLETSEED"
-        },
-        {
-            "level": 50,
-            "move": "MOVE_CRUNCH"
-        },
-        {
-            "level": 55,
-            "move": "MOVE_AURAWHEEL"
-        },
-        {
-            "level": 60,
-            "move": "MOVE_THRASH"
-        }
-    ],
     "evolve_from": [],
     "tm": [
         "MOVE_TOXIC",
@@ -164,5 +106,63 @@
         "MOVE_PSYCHICFANGS",
         "MOVE_RISINGVOLTAGE",
         "MOVE_LASHOUT"
+    ],
+    "learnset": [
+        {
+            "level": 1,
+            "move": "MOVE_TAILWHIP"
+        },
+        {
+            "level": 1,
+            "move": "MOVE_THUNDERSHOCK"
+        },
+        {
+            "level": 5,
+            "move": "MOVE_LEER"
+        },
+        {
+            "level": 10,
+            "move": "MOVE_POWERTRIP"
+        },
+        {
+            "level": 15,
+            "move": "MOVE_QUICKATTACK"
+        },
+        {
+            "level": 20,
+            "move": "MOVE_SPARK"
+        },
+        {
+            "level": 25,
+            "move": "MOVE_FLATTER"
+        },
+        {
+            "level": 30,
+            "move": "MOVE_BITE"
+        },
+        {
+            "level": 35,
+            "move": "MOVE_TORMENT"
+        },
+        {
+            "level": 40,
+            "move": "MOVE_AGILITY"
+        },
+        {
+            "level": 45,
+            "move": "MOVE_BULLETSEED"
+        },
+        {
+            "level": 50,
+            "move": "MOVE_CRUNCH"
+        },
+        {
+            "level": 55,
+            "move": "MOVE_AURAWHEEL"
+        },
+        {
+            "level": 60,
+            "move": "MOVE_THRASH"
+        }
     ]
 }

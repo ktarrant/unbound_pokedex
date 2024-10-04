@@ -30,6 +30,9 @@
     "noFlip": true,
     "blurb": "It makes its nest by damming streams with bark and mud. It is known as an industrious worker.",
     "name": "Bibarel",
+    "evolve_from": [
+        "BIDOOF"
+    ],
     "learnset": [
         {
             "level": 0,
@@ -111,9 +114,6 @@
             "level": 63,
             "move": "MOVE_CURSE"
         }
-    ],
-    "evolve_from": [
-        "BIDOOF"
     ],
     "tm": [
         "MOVE_FOCUSPUNCH",

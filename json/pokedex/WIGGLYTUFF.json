@@ -29,6 +29,9 @@
     "hiddenAbility": "ABILITY_HUGEPOWER",
     "noFlip": true,
     "name": "Wigglytuff",
+    "evolve_from": [
+        "JIGGLYPUFF"
+    ],
     "learnset": [
         {
             "level": 1,
@@ -130,9 +133,6 @@
             "level": 48,
             "move": "MOVE_DOUBLEEDGE"
         }
-    ],
-    "evolve_from": [
-        "JIGGLYPUFF"
     ],
     "tm": [
         "MOVE_FOCUSPUNCH",

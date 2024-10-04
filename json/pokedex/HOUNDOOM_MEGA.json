@@ -28,6 +28,17 @@
     "safariZoneFleeRate": 0,
     "hiddenAbility": "ABILITY_NONE",
     "noFlip": true,
+    "evolve_to": [
+        {
+            "method": "EVO_MEGA",
+            "condition": "ITEM_NONE",
+            "target": "HOUNDOOM",
+            "extra": "MEGA_VARIANT_STANDARD"
+        }
+    ],
+    "evolve_from": [
+        "HOUNDOOM"
+    ],
     "learnset": [
         {
             "level": 1,
@@ -106,17 +117,70 @@
             "move": "MOVE_INFERNO"
         }
     ],
-    "evolve_to": [
-        {
-            "method": "EVO_MEGA",
-            "condition": "ITEM_NONE",
-            "target": "HOUNDOOM",
-            "extra": "MEGA_VARIANT_STANDARD"
-        }
+    "tm": [
+        "MOVE_ROAR",
+        "MOVE_TOXIC",
+        "MOVE_HIDDENPOWER",
+        "MOVE_SUNNYDAY",
+        "MOVE_TAUNT",
+        "MOVE_HYPERBEAM",
+        "MOVE_PROTECT",
+        "MOVE_FRUSTRATION",
+        "MOVE_SOLARBEAM",
+        "MOVE_IRONTAIL",
+        "MOVE_RETURN",
+        "MOVE_SHADOWBALL",
+        "MOVE_DOUBLETEAM",
+        "MOVE_FLAMETHROWER",
+        "MOVE_SLUDGEBOMB",
+        "MOVE_FIREBLAST",
+        "MOVE_TORMENT",
+        "MOVE_FACADE",
+        "MOVE_SECRETPOWER",
+        "MOVE_REST",
+        "MOVE_ATTRACT",
+        "MOVE_THIEF",
+        "MOVE_OVERHEAT",
+        "MOVE_ENDURE",
+        "MOVE_WILLOWISP",
+        "MOVE_PAYBACK",
+        "MOVE_GIGAIMPACT",
+        "MOVE_FLAMECHARGE",
+        "MOVE_DARKPULSE",
+        "MOVE_SLEEPTALK",
+        "MOVE_DREAMEATER",
+        "MOVE_SWAGGER",
+        "MOVE_SUBSTITUTE",
+        "MOVE_INCINERATE",
+        "MOVE_SNARL",
+        "MOVE_ROUND",
+        "MOVE_NATURALGIFT",
+        "MOVE_STRENGTH",
+        "MOVE_ROCKSMASH"
     ],
-    "evolve_from": [
-        "HOUNDOOM"
-    ],
-    "tm": [],
-    "tutor": []
+    "tutor": [
+        "MOVE_SNORE",
+        "MOVE_UPROAR",
+        "MOVE_SNATCH",
+        "MOVE_SPITE",
+        "MOVE_ROLEPLAY",
+        "MOVE_LASERFOCUS",
+        "MOVE_FOULPLAY",
+        "MOVE_SUPERFANG",
+        "MOVE_THROATCHOP",
+        "MOVE_HEATWAVE",
+        "MOVE_HYPERVOICE",
+        "MOVE_CONFIDE",
+        "MOVE_SCARYFACE",
+        "MOVE_NASTYPLOT",
+        "MOVE_FIRESPIN",
+        "MOVE_THUNDERFANG",
+        "MOVE_FIREFANG",
+        "MOVE_BODYSLAM",
+        "MOVE_REVERSAL",
+        "MOVE_CRUNCH",
+        "MOVE_BURNINGJEALOUSY",
+        "MOVE_LASHOUT",
+        "MOVE_SCORCHINGSANDS"
+    ]
 }

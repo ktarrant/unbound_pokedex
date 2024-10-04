@@ -36,8 +36,17 @@
         "MOVE_STUNSPORE",
         "MOVE_SLEEPPOWDER"
     ],
+    "evolve_to": [
+        {
+            "method": "EVO_LEVEL",
+            "condition": "20",
+            "target": "ELDEGOSS",
+            "extra": "0"
+        }
+    ],
     "blurb": "It anchors itself in the ground and basks in the sun. After absorbing enough sunlight, it blooms vividly.",
     "name": "Gossifleur",
+    "evolve_from": [],
     "learnset": [
         {
             "level": 1,
@@ -84,15 +93,6 @@
             "move": "MOVE_LEAFSTORM"
         }
     ],
-    "evolve_to": [
-        {
-            "method": "EVO_LEVEL",
-            "condition": "20",
-            "target": "ELDEGOSS",
-            "extra": "0"
-        }
-    ],
-    "evolve_from": [],
     "tm": [
         "MOVE_TOXIC",
         "MOVE_BULLETSEED",

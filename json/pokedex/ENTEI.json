@@ -29,6 +29,7 @@
     "hiddenAbility": "ABILITY_FLASHFIRE",
     "noFlip": true,
     "name": "Entei",
+    "evolve_from": [],
     "learnset": [
         {
             "level": 1,
@@ -111,7 +112,6 @@
             "move": "MOVE_ERUPTION"
         }
     ],
-    "evolve_from": [],
     "tm": [
         "MOVE_CALMMIND",
         "MOVE_ROAR",

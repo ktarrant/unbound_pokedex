@@ -30,6 +30,7 @@
     "noFlip": true,
     "blurb": "Its entire body is made of an organ that generates electricity. It is capable of generating a region's worth of electricity.",
     "name": "Regieleki",
+    "evolve_from": [],
     "learnset": [
         {
             "level": 1,
@@ -92,7 +93,6 @@
             "move": "MOVE_EXPLOSION"
         }
     ],
-    "evolve_from": [],
     "tm": [
         "MOVE_TOXIC",
         "MOVE_HIDDENPOWER",

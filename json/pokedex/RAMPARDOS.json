@@ -30,6 +30,9 @@
     "noFlip": true,
     "blurb": "Its powerful headbutt has enough power to shatter even the most durable things upon impact.",
     "name": "Rampardos",
+    "evolve_from": [
+        "CRANIDOS"
+    ],
     "learnset": [
         {
             "level": 0,
@@ -87,9 +90,6 @@
             "level": 58,
             "move": "MOVE_HEADSMASH"
         }
-    ],
-    "evolve_from": [
-        "CRANIDOS"
     ],
     "tm": [
         "MOVE_FOCUSPUNCH",

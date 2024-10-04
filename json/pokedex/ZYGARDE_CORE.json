@@ -28,6 +28,31 @@
     "safariZoneFleeRate": 0,
     "hiddenAbility": "ABILITY_NONE",
     "noFlip": true,
+    "evolve_from": [],
+    "tm": [
+        "MOVE_TOXIC",
+        "MOVE_HIDDENPOWER",
+        "MOVE_FRUSTRATION",
+        "MOVE_RETURN",
+        "MOVE_DOUBLETEAM",
+        "MOVE_SHOCKWAVE",
+        "MOVE_FACADE",
+        "MOVE_SECRETPOWER",
+        "MOVE_SILVERWIND",
+        "MOVE_SWAGGER",
+        "MOVE_DRAGONTAIL",
+        "MOVE_NATURALGIFT",
+        "MOVE_STRENGTH",
+        "MOVE_ROCKSMASH",
+        "MOVE_ROCKCLIMB"
+    ],
+    "tutor": [
+        "MOVE_BIND",
+        "MOVE_BLOCK",
+        "MOVE_SPITE",
+        "MOVE_PAINSPLIT",
+        "MOVE_CONFIDE"
+    ],
     "learnset": [
         {
             "level": 1,
@@ -105,30 +130,5 @@
             "level": 89,
             "move": "MOVE_OUTRAGE"
         }
-    ],
-    "evolve_from": [],
-    "tm": [
-        "MOVE_TOXIC",
-        "MOVE_HIDDENPOWER",
-        "MOVE_FRUSTRATION",
-        "MOVE_RETURN",
-        "MOVE_DOUBLETEAM",
-        "MOVE_SHOCKWAVE",
-        "MOVE_FACADE",
-        "MOVE_SECRETPOWER",
-        "MOVE_SILVERWIND",
-        "MOVE_SWAGGER",
-        "MOVE_DRAGONTAIL",
-        "MOVE_NATURALGIFT",
-        "MOVE_STRENGTH",
-        "MOVE_ROCKSMASH",
-        "MOVE_ROCKCLIMB"
-    ],
-    "tutor": [
-        "MOVE_BIND",
-        "MOVE_BLOCK",
-        "MOVE_SPITE",
-        "MOVE_PAINSPLIT",
-        "MOVE_CONFIDE"
     ]
 }

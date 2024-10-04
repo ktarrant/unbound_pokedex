@@ -29,6 +29,9 @@
     "hiddenAbility": "ABILITY_SWIFTSWIM",
     "noFlip": true,
     "name": "Armaldo",
+    "evolve_from": [
+        "ANORITH"
+    ],
     "learnset": [
         {
             "level": 0,
@@ -98,9 +101,6 @@
             "level": 48,
             "move": "MOVE_XSCISSOR"
         }
-    ],
-    "evolve_from": [
-        "ANORITH"
     ],
     "tm": [
         "MOVE_WATERPULSE",

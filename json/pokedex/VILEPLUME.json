@@ -29,6 +29,7 @@
     "hiddenAbility": "ABILITY_EFFECTSPORE",
     "noFlip": true,
     "name": "Vileplume",
+    "evolve_from": [],
     "learnset": [
         {
             "level": 0,
@@ -111,7 +112,6 @@
             "move": "MOVE_PETALDANCE"
         }
     ],
-    "evolve_from": [],
     "tm": [
         "MOVE_TOXIC",
         "MOVE_BULLETSEED",

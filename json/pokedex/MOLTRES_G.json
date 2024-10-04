@@ -30,6 +30,7 @@
     "noFlip": true,
     "blurb": "Its sinister, flame-like aura consumes the spirit of any creature it hits. Victims become burned-out shadows of themselves.",
     "name": "Moltres",
+    "evolve_from": [],
     "learnset": [
         {
             "level": 1,
@@ -96,7 +97,6 @@
             "move": "MOVE_SKYATTACK"
         }
     ],
-    "evolve_from": [],
     "tm": [
         "MOVE_ROAR",
         "MOVE_TOXIC",

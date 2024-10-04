@@ -30,6 +30,7 @@
     "noFlip": true,
     "blurb": "This Zarude left its pack to raise a human child. It would wrap the child with its cloth to calm the child's crying.",
     "name": "Zarude",
+    "evolve_from": [],
     "learnset": [
         {
             "level": 1,
@@ -100,7 +101,6 @@
             "move": "MOVE_JUNGLEHEALING"
         }
     ],
-    "evolve_from": [],
     "tm": [
         "MOVE_FOCUSPUNCH",
         "MOVE_ROAR",

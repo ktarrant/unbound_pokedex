@@ -35,8 +35,17 @@
         "MOVE_ENDURE",
         "MOVE_DISCHARGE"
     ],
+    "evolve_to": [
+        {
+            "method": "EVO_LEVEL",
+            "condition": "20",
+            "target": "CHARJABUG",
+            "extra": "0"
+        }
+    ],
     "blurb": "Its strong jaw enables it to scrape trees and slurp out the sap. It normally lives underground.",
     "name": "Grubbin",
+    "evolve_from": [],
     "learnset": [
         {
             "level": 1,
@@ -83,15 +92,6 @@
             "move": "MOVE_DIG"
         }
     ],
-    "evolve_to": [
-        {
-            "method": "EVO_LEVEL",
-            "condition": "20",
-            "target": "CHARJABUG",
-            "extra": "0"
-        }
-    ],
-    "evolve_from": [],
     "tm": [
         "MOVE_TOXIC",
         "MOVE_HIDDENPOWER",

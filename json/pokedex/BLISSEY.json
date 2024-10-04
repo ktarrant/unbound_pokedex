@@ -29,6 +29,9 @@
     "hiddenAbility": "ABILITY_HEALER",
     "noFlip": true,
     "name": "Blissey",
+    "evolve_from": [
+        "CHANSEY"
+    ],
     "learnset": [
         {
             "level": 1,
@@ -146,9 +149,6 @@
             "level": 76,
             "move": "MOVE_SOFTBOILED"
         }
-    ],
-    "evolve_from": [
-        "CHANSEY"
     ],
     "tm": [
         "MOVE_FOCUSPUNCH",

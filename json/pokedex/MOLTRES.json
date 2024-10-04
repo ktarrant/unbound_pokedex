@@ -29,6 +29,7 @@
     "hiddenAbility": "ABILITY_BERSERK",
     "noFlip": true,
     "name": "Moltres",
+    "evolve_from": [],
     "learnset": [
         {
             "level": 1,
@@ -107,7 +108,6 @@
             "move": "MOVE_SKYATTACK"
         }
     ],
-    "evolve_from": [],
     "tm": [
         "MOVE_ROAR",
         "MOVE_TOXIC",

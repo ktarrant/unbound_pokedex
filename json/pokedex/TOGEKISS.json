@@ -30,6 +30,9 @@
     "noFlip": true,
     "blurb": "It will never appear where there is strife. Its sightings have become rare recently.",
     "name": "Togekiss",
+    "evolve_from": [
+        "TOGETIC"
+    ],
     "learnset": [
         {
             "level": 0,
@@ -139,9 +142,6 @@
             "level": 44,
             "move": "MOVE_MOONBLAST"
         }
-    ],
-    "evolve_from": [
-        "TOGETIC"
     ],
     "tm": [
         "MOVE_FOCUSPUNCH",

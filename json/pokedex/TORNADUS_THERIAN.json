@@ -28,6 +28,7 @@
     "safariZoneFleeRate": 0,
     "hiddenAbility": "ABILITY_NONE",
     "noFlip": true,
+    "evolve_from": [],
     "learnset": [
         {
             "level": 1,
@@ -110,7 +111,6 @@
             "move": "MOVE_THRASH"
         }
     ],
-    "evolve_from": [],
     "tm": [
         "MOVE_TOXIC",
         "MOVE_BULKUP",

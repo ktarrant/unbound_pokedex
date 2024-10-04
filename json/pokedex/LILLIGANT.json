@@ -30,6 +30,7 @@
     "noFlip": true,
     "blurb": "The fragrance of the garland on its head has a relaxing effect, but taking care of it is very difficult.",
     "name": "Lilligant",
+    "evolve_from": [],
     "learnset": [
         {
             "level": 0,
@@ -116,7 +117,6 @@
             "move": "MOVE_LEAFSTORM"
         }
     ],
-    "evolve_from": [],
     "tm": [
         "MOVE_TOXIC",
         "MOVE_HIDDENPOWER",

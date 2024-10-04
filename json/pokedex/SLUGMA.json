@@ -41,7 +41,16 @@
         "MOVE_INFERNO",
         "MOVE_GUARDSWAP"
     ],
+    "evolve_to": [
+        {
+            "method": "EVO_LEVEL",
+            "condition": "30",
+            "target": "MAGCARGO",
+            "extra": "0"
+        }
+    ],
     "name": "Slugma",
+    "evolve_from": [],
     "learnset": [
         {
             "level": 1,
@@ -116,15 +125,6 @@
             "move": "MOVE_MAGMASTORM"
         }
     ],
-    "evolve_to": [
-        {
-            "method": "EVO_LEVEL",
-            "condition": "30",
-            "target": "MAGCARGO",
-            "extra": "0"
-        }
-    ],
-    "evolve_from": [],
     "tm": [
         "MOVE_TOXIC",
         "MOVE_HIDDENPOWER",

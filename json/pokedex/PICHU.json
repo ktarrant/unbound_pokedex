@@ -48,7 +48,6 @@
         "MOVE_CELEBRATE",
         "MOVE_EXTREMESPEED"
     ],
-    "name": "Pichu",
     "evolve_to": [
         {
             "method": "EVO_FRIENDSHIP",
@@ -57,40 +56,7 @@
             "extra": "0"
         }
     ],
-    "learnset": [
-        {
-            "level": 1,
-            "move": "MOVE_THUNDERSHOCK"
-        },
-        {
-            "level": 1,
-            "move": "MOVE_TAILWHIP"
-        },
-        {
-            "level": 4,
-            "move": "MOVE_PLAYNICE"
-        },
-        {
-            "level": 8,
-            "move": "MOVE_SWEETKISS"
-        },
-        {
-            "level": 12,
-            "move": "MOVE_NUZZLE"
-        },
-        {
-            "level": 16,
-            "move": "MOVE_NASTYPLOT"
-        },
-        {
-            "level": 20,
-            "move": "MOVE_CHARM"
-        },
-        {
-            "level": 24,
-            "move": "MOVE_SPARK"
-        }
-    ],
+    "name": "Pichu",
     "evolve_from": [],
     "tm": [
         "MOVE_TOXIC",
@@ -143,5 +109,39 @@
         "MOVE_BODYSLAM",
         "MOVE_REVERSAL",
         "MOVE_PLAYROUGH"
+    ],
+    "learnset": [
+        {
+            "level": 1,
+            "move": "MOVE_THUNDERSHOCK"
+        },
+        {
+            "level": 1,
+            "move": "MOVE_TAILWHIP"
+        },
+        {
+            "level": 4,
+            "move": "MOVE_PLAYNICE"
+        },
+        {
+            "level": 8,
+            "move": "MOVE_SWEETKISS"
+        },
+        {
+            "level": 12,
+            "move": "MOVE_NUZZLE"
+        },
+        {
+            "level": 16,
+            "move": "MOVE_NASTYPLOT"
+        },
+        {
+            "level": 20,
+            "move": "MOVE_CHARM"
+        },
+        {
+            "level": 24,
+            "move": "MOVE_SPARK"
+        }
     ]
 }

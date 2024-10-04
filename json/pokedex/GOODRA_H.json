@@ -30,6 +30,9 @@
     "noFlip": true,
     "blurb": "Able to freely control the hardness of its metallic shell. It loathes solitude and is extremely clingy.",
     "name": "Goodra",
+    "evolve_from": [
+        "SLIGGOO_H"
+    ],
     "learnset": [
         {
             "level": 0,
@@ -115,9 +118,6 @@
             "level": 61,
             "move": "MOVE_IRONTAIL"
         }
-    ],
-    "evolve_from": [
-        "SLIGGOO_H"
     ],
     "tm": [
         "MOVE_FOCUSPUNCH",

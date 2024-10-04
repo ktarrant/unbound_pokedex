@@ -28,7 +28,6 @@
     "safariZoneFleeRate": 0,
     "hiddenAbility": "ABILITY_UNNERVE",
     "noFlip": true,
-    "name": "Tyranitar",
     "evolve_to": [
         {
             "method": "EVO_MEGA",
@@ -37,104 +36,7 @@
             "extra": "MEGA_VARIANT_STANDARD"
         }
     ],
-    "learnset": [
-        {
-            "level": 1,
-            "move": "MOVE_BREAKINGSWIPE"
-        },
-        {
-            "level": 1,
-            "move": "MOVE_THUNDERFANG"
-        },
-        {
-            "level": 1,
-            "move": "MOVE_ICEFANG"
-        },
-        {
-            "level": 1,
-            "move": "MOVE_FIREFANG"
-        },
-        {
-            "level": 1,
-            "move": "MOVE_TACKLE"
-        },
-        {
-            "level": 1,
-            "move": "MOVE_LEER"
-        },
-        {
-            "level": 1,
-            "move": "MOVE_ROCKTHROW"
-        },
-        {
-            "level": 1,
-            "move": "MOVE_SANDSTORM"
-        },
-        {
-            "level": 9,
-            "move": "MOVE_BITE"
-        },
-        {
-            "level": 12,
-            "move": "MOVE_SCARYFACE"
-        },
-        {
-            "level": 15,
-            "move": "MOVE_ROCKTOMB"
-        },
-        {
-            "level": 17,
-            "move": "MOVE_SCREECH"
-        },
-        {
-            "level": 20,
-            "move": "MOVE_CHIPAWAY"
-        },
-        {
-            "level": 23,
-            "move": "MOVE_BULLDOZE"
-        },
-        {
-            "level": 26,
-            "move": "MOVE_DARKPULSE"
-        },
-        {
-            "level": 29,
-            "move": "MOVE_ROCKSLIDE"
-        },
-        {
-            "level": 29,
-            "move": "MOVE_IRONDEFENSE"
-        },
-        {
-            "level": 34,
-            "move": "MOVE_STOMPINGTANTRUM"
-        },
-        {
-            "level": 39,
-            "move": "MOVE_CRUNCH"
-        },
-        {
-            "level": 43,
-            "move": "MOVE_THRASH"
-        },
-        {
-            "level": 47,
-            "move": "MOVE_STONEEDGE"
-        },
-        {
-            "level": 53,
-            "move": "MOVE_EARTHQUAKE"
-        },
-        {
-            "level": 59,
-            "move": "MOVE_HYPERBEAM"
-        },
-        {
-            "level": 65,
-            "move": "MOVE_GIGAIMPACT"
-        }
-    ],
+    "name": "Tyranitar",
     "evolve_from": [
         "PUPITAR",
         "TYRANITAR_MEGA"
@@ -243,5 +145,103 @@
         "MOVE_MUDDYWATER",
         "MOVE_HYDROPUMP",
         "MOVE_LASHOUT"
+    ],
+    "learnset": [
+        {
+            "level": 1,
+            "move": "MOVE_BREAKINGSWIPE"
+        },
+        {
+            "level": 1,
+            "move": "MOVE_THUNDERFANG"
+        },
+        {
+            "level": 1,
+            "move": "MOVE_ICEFANG"
+        },
+        {
+            "level": 1,
+            "move": "MOVE_FIREFANG"
+        },
+        {
+            "level": 1,
+            "move": "MOVE_TACKLE"
+        },
+        {
+            "level": 1,
+            "move": "MOVE_LEER"
+        },
+        {
+            "level": 1,
+            "move": "MOVE_ROCKTHROW"
+        },
+        {
+            "level": 1,
+            "move": "MOVE_SANDSTORM"
+        },
+        {
+            "level": 9,
+            "move": "MOVE_BITE"
+        },
+        {
+            "level": 12,
+            "move": "MOVE_SCARYFACE"
+        },
+        {
+            "level": 15,
+            "move": "MOVE_ROCKTOMB"
+        },
+        {
+            "level": 17,
+            "move": "MOVE_SCREECH"
+        },
+        {
+            "level": 20,
+            "move": "MOVE_CHIPAWAY"
+        },
+        {
+            "level": 23,
+            "move": "MOVE_BULLDOZE"
+        },
+        {
+            "level": 26,
+            "move": "MOVE_DARKPULSE"
+        },
+        {
+            "level": 29,
+            "move": "MOVE_ROCKSLIDE"
+        },
+        {
+            "level": 29,
+            "move": "MOVE_IRONDEFENSE"
+        },
+        {
+            "level": 34,
+            "move": "MOVE_STOMPINGTANTRUM"
+        },
+        {
+            "level": 39,
+            "move": "MOVE_CRUNCH"
+        },
+        {
+            "level": 43,
+            "move": "MOVE_THRASH"
+        },
+        {
+            "level": 47,
+            "move": "MOVE_STONEEDGE"
+        },
+        {
+            "level": 53,
+            "move": "MOVE_EARTHQUAKE"
+        },
+        {
+            "level": 59,
+            "move": "MOVE_HYPERBEAM"
+        },
+        {
+            "level": 65,
+            "move": "MOVE_GIGAIMPACT"
+        }
     ]
 }

@@ -29,6 +29,7 @@
     "hiddenAbility": "ABILITY_GORILLATACTICS",
     "noFlip": true,
     "blurb": "It stores coldness in its pincers and pummels its foes. It can even smash thick walls of ice to bits!",
+    "evolve_from": [],
     "learnset": [
         {
             "level": 0,
@@ -91,7 +92,6 @@
             "move": "MOVE_CLOSECOMBAT"
         }
     ],
-    "evolve_from": [],
     "tm": [
         "MOVE_FOCUSPUNCH",
         "MOVE_TOXIC",

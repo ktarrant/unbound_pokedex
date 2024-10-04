@@ -30,64 +30,6 @@
     "noFlip": true,
     "blurb": "It has slumbered for many years. Some say it is Zamazenta's elder sister, others say the two are rivals.",
     "name": "Zacian",
-    "learnset": [
-        {
-            "level": 1,
-            "move": "MOVE_QUICKGUARD"
-        },
-        {
-            "level": 1,
-            "move": "MOVE_BITE"
-        },
-        {
-            "level": 1,
-            "move": "MOVE_HOWL"
-        },
-        {
-            "level": 8,
-            "move": "MOVE_QUICKATTACK"
-        },
-        {
-            "level": 16,
-            "move": "MOVE_METALCLAW"
-        },
-        {
-            "level": 24,
-            "move": "MOVE_MOONBLAST"
-        },
-        {
-            "level": 32,
-            "move": "MOVE_SLASH"
-        },
-        {
-            "level": 40,
-            "move": "MOVE_CRUNCH"
-        },
-        {
-            "level": 48,
-            "move": "MOVE_SACREDSWORD"
-        },
-        {
-            "level": 56,
-            "move": "MOVE_LASERFOCUS"
-        },
-        {
-            "level": 64,
-            "move": "MOVE_IRONHEAD"
-        },
-        {
-            "level": 72,
-            "move": "MOVE_SWORDSDANCE"
-        },
-        {
-            "level": 80,
-            "move": "MOVE_CLOSECOMBAT"
-        },
-        {
-            "level": 88,
-            "move": "MOVE_PLAYROUGH"
-        }
-    ],
     "evolve_from": [],
     "tm": [
         "MOVE_ROAR",
@@ -145,5 +87,63 @@
         "MOVE_PSYCHOCUT",
         "MOVE_CLOSECOMBAT",
         "MOVE_SOLARBLADE"
+    ],
+    "learnset": [
+        {
+            "level": 1,
+            "move": "MOVE_QUICKGUARD"
+        },
+        {
+            "level": 1,
+            "move": "MOVE_BITE"
+        },
+        {
+            "level": 1,
+            "move": "MOVE_HOWL"
+        },
+        {
+            "level": 8,
+            "move": "MOVE_QUICKATTACK"
+        },
+        {
+            "level": 16,
+            "move": "MOVE_METALCLAW"
+        },
+        {
+            "level": 24,
+            "move": "MOVE_MOONBLAST"
+        },
+        {
+            "level": 32,
+            "move": "MOVE_SLASH"
+        },
+        {
+            "level": 40,
+            "move": "MOVE_CRUNCH"
+        },
+        {
+            "level": 48,
+            "move": "MOVE_SACREDSWORD"
+        },
+        {
+            "level": 56,
+            "move": "MOVE_LASERFOCUS"
+        },
+        {
+            "level": 64,
+            "move": "MOVE_IRONHEAD"
+        },
+        {
+            "level": 72,
+            "move": "MOVE_SWORDSDANCE"
+        },
+        {
+            "level": 80,
+            "move": "MOVE_CLOSECOMBAT"
+        },
+        {
+            "level": 88,
+            "move": "MOVE_PLAYROUGH"
+        }
     ]
 }

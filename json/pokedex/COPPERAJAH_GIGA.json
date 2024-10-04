@@ -28,7 +28,18 @@
     "safariZoneFleeRate": 0,
     "hiddenAbility": "ABILITY_HEAVYMETAL",
     "noFlip": true,
+    "evolve_to": [
+        {
+            "method": "EVO_GIGANTAMAX",
+            "condition": "FALSE",
+            "target": "COPPERAJAH",
+            "extra": "0"
+        }
+    ],
     "name": "Copperajah",
+    "evolve_from": [
+        "COPPERAJAH"
+    ],
     "learnset": [
         {
             "level": 0,
@@ -91,17 +102,66 @@
             "move": "MOVE_SUPERPOWER"
         }
     ],
-    "evolve_to": [
-        {
-            "method": "EVO_GIGANTAMAX",
-            "condition": "FALSE",
-            "target": "COPPERAJAH",
-            "extra": "0"
-        }
+    "tm": [
+        "MOVE_ROAR",
+        "MOVE_TOXIC",
+        "MOVE_HIDDENPOWER",
+        "MOVE_TAUNT",
+        "MOVE_HYPERBEAM",
+        "MOVE_PROTECT",
+        "MOVE_FRUSTRATION",
+        "MOVE_EARTHQUAKE",
+        "MOVE_RETURN",
+        "MOVE_DIG",
+        "MOVE_BRICKBREAK",
+        "MOVE_DOUBLETEAM",
+        "MOVE_ROCKTOMB",
+        "MOVE_FACADE",
+        "MOVE_SECRETPOWER",
+        "MOVE_REST",
+        "MOVE_ATTRACT",
+        "MOVE_ENDURE",
+        "MOVE_PAYBACK",
+        "MOVE_GIGAIMPACT",
+        "MOVE_STONEEDGE",
+        "MOVE_STEALTHROCK",
+        "MOVE_ROCKSLIDE",
+        "MOVE_SLEEPTALK",
+        "MOVE_SWAGGER",
+        "MOVE_SUBSTITUTE",
+        "MOVE_FLASHCANNON",
+        "MOVE_BULLDOZE",
+        "MOVE_WORKUP",
+        "MOVE_BRUTALSWING",
+        "MOVE_SNARL",
+        "MOVE_ROUND",
+        "MOVE_ECHOEDVOICE",
+        "MOVE_NATURALGIFT",
+        "MOVE_FLING",
+        "MOVE_STRENGTH",
+        "MOVE_ROCKSMASH",
+        "MOVE_ROCKCLIMB"
     ],
-    "evolve_from": [
-        "COPPERAJAH"
-    ],
-    "tm": [],
-    "tutor": []
+    "tutor": [
+        "MOVE_SNORE",
+        "MOVE_IRONDEFENSE",
+        "MOVE_IRONHEAD",
+        "MOVE_ZENHEADBUTT",
+        "MOVE_OUTRAGE",
+        "MOVE_STOMPINGTANTRUM",
+        "MOVE_EARTHPOWER",
+        "MOVE_SUPERPOWER",
+        "MOVE_CONFIDE",
+        "MOVE_SCREECH",
+        "MOVE_SCARYFACE",
+        "MOVE_ROCKBLAST",
+        "MOVE_BODYSLAM",
+        "MOVE_BODYPRESS",
+        "MOVE_HEATCRASH",
+        "MOVE_HEAVYSLAM",
+        "MOVE_HIGHHORSEPOWER",
+        "MOVE_PLAYROUGH",
+        "MOVE_POWERWHIP",
+        "MOVE_POLTERGEIST"
+    ]
 }

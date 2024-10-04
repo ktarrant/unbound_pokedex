@@ -30,6 +30,9 @@
     "noFlip": true,
     "blurb": "Using luminescent matter, it makes its eyes and body glow and stuns attacking opponents.",
     "name": "Watchog",
+    "evolve_from": [
+        "PATRAT"
+    ],
     "learnset": [
         {
             "level": 0,
@@ -115,9 +118,6 @@
             "level": 49,
             "move": "MOVE_SUPERFANG"
         }
-    ],
-    "evolve_from": [
-        "PATRAT"
     ],
     "tm": [
         "MOVE_FOCUSPUNCH",

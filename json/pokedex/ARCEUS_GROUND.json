@@ -28,76 +28,6 @@
     "safariZoneFleeRate": 0,
     "hiddenAbility": "ABILITY_NONE",
     "noFlip": true,
-    "learnset": [
-        {
-            "level": 1,
-            "move": "MOVE_ROAROFTIME"
-        },
-        {
-            "level": 1,
-            "move": "MOVE_SPACIALREND"
-        },
-        {
-            "level": 1,
-            "move": "MOVE_SHADOWFORCE"
-        },
-        {
-            "level": 1,
-            "move": "MOVE_SEISMICTOSS"
-        },
-        {
-            "level": 1,
-            "move": "MOVE_COSMICPOWER"
-        },
-        {
-            "level": 1,
-            "move": "MOVE_NATURALGIFT"
-        },
-        {
-            "level": 1,
-            "move": "MOVE_PUNISHMENT"
-        },
-        {
-            "level": 10,
-            "move": "MOVE_GRAVITY"
-        },
-        {
-            "level": 20,
-            "move": "MOVE_EARTHPOWER"
-        },
-        {
-            "level": 30,
-            "move": "MOVE_HYPERVOICE"
-        },
-        {
-            "level": 40,
-            "move": "MOVE_EXTREMESPEED"
-        },
-        {
-            "level": 50,
-            "move": "MOVE_REFRESH"
-        },
-        {
-            "level": 60,
-            "move": "MOVE_FUTURESIGHT"
-        },
-        {
-            "level": 70,
-            "move": "MOVE_RECOVER"
-        },
-        {
-            "level": 80,
-            "move": "MOVE_HYPERBEAM"
-        },
-        {
-            "level": 90,
-            "move": "MOVE_PERISHSONG"
-        },
-        {
-            "level": 100,
-            "move": "MOVE_JUDGMENT"
-        }
-    ],
     "evolve_from": [],
     "tm": [
         "MOVE_DRAGONCLAW",
@@ -218,5 +148,75 @@
         "MOVE_WHIRLPOOL",
         "MOVE_MYSTICALFIRE",
         "MOVE_TERRAINPULSE"
+    ],
+    "learnset": [
+        {
+            "level": 1,
+            "move": "MOVE_ROAROFTIME"
+        },
+        {
+            "level": 1,
+            "move": "MOVE_SPACIALREND"
+        },
+        {
+            "level": 1,
+            "move": "MOVE_SHADOWFORCE"
+        },
+        {
+            "level": 1,
+            "move": "MOVE_SEISMICTOSS"
+        },
+        {
+            "level": 1,
+            "move": "MOVE_COSMICPOWER"
+        },
+        {
+            "level": 1,
+            "move": "MOVE_NATURALGIFT"
+        },
+        {
+            "level": 1,
+            "move": "MOVE_PUNISHMENT"
+        },
+        {
+            "level": 10,
+            "move": "MOVE_GRAVITY"
+        },
+        {
+            "level": 20,
+            "move": "MOVE_EARTHPOWER"
+        },
+        {
+            "level": 30,
+            "move": "MOVE_HYPERVOICE"
+        },
+        {
+            "level": 40,
+            "move": "MOVE_EXTREMESPEED"
+        },
+        {
+            "level": 50,
+            "move": "MOVE_REFRESH"
+        },
+        {
+            "level": 60,
+            "move": "MOVE_FUTURESIGHT"
+        },
+        {
+            "level": 70,
+            "move": "MOVE_RECOVER"
+        },
+        {
+            "level": 80,
+            "move": "MOVE_HYPERBEAM"
+        },
+        {
+            "level": 90,
+            "move": "MOVE_PERISHSONG"
+        },
+        {
+            "level": 100,
+            "move": "MOVE_JUDGMENT"
+        }
     ]
 }

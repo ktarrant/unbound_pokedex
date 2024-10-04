@@ -43,7 +43,18 @@
         "MOVE_WISH",
         "MOVE_SWEETKISS"
     ],
+    "evolve_to": [
+        {
+            "method": "EVO_FRIENDSHIP",
+            "condition": "0",
+            "target": "BLISSEY",
+            "extra": "0"
+        }
+    ],
     "name": "Chansey",
+    "evolve_from": [
+        "HAPPINY"
+    ],
     "learnset": [
         {
             "level": 1,
@@ -157,17 +168,6 @@
             "level": 76,
             "move": "MOVE_SOFTBOILED"
         }
-    ],
-    "evolve_to": [
-        {
-            "method": "EVO_FRIENDSHIP",
-            "condition": "0",
-            "target": "BLISSEY",
-            "extra": "0"
-        }
-    ],
-    "evolve_from": [
-        "HAPPINY"
     ],
     "tm": [
         "MOVE_FOCUSPUNCH",

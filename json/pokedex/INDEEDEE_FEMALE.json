@@ -36,6 +36,7 @@
     ],
     "blurb": "These intelligent Pok\u00e9mon touch horns with each other to share information between them.",
     "name": "Indeedee",
+    "evolve_from": [],
     "learnset": [
         {
             "level": 1,
@@ -90,7 +91,6 @@
             "move": "MOVE_HEALINGWISH"
         }
     ],
-    "evolve_from": [],
     "tm": [
         "MOVE_FOCUSPUNCH",
         "MOVE_CALMMIND",

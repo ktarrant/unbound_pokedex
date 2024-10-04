@@ -29,6 +29,7 @@
     "hiddenAbility": "ABILITY_TECHNICIAN",
     "noFlip": true,
     "name": "Wurmple",
+    "evolve_from": [],
     "learnset": [
         {
             "level": 1,
@@ -47,8 +48,6 @@
             "move": "MOVE_BUGBITE"
         }
     ],
-    "evolve_from": [],
-    "tm": [],
     "tutor": [
         "MOVE_ELECTROWEB",
         "MOVE_BUGBITE"

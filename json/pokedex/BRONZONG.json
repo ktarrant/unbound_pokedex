@@ -30,6 +30,9 @@
     "noFlip": true,
     "blurb": "Ancient people believed that petitioning Bronzong for rain was the way to make crops grow.",
     "name": "Bronzong",
+    "evolve_from": [
+        "BRONZOR"
+    ],
     "learnset": [
         {
             "level": 0,
@@ -123,9 +126,6 @@
             "level": 62,
             "move": "MOVE_DOOMDESIRE"
         }
-    ],
-    "evolve_from": [
-        "BRONZOR"
     ],
     "tm": [
         "MOVE_CALMMIND",

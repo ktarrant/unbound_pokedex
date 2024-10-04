@@ -42,7 +42,16 @@
         "MOVE_SNATCH",
         "MOVE_TOXICSPIKES"
     ],
+    "evolve_to": [
+        {
+            "method": "EVO_LEVEL",
+            "condition": "22",
+            "target": "ARBOK",
+            "extra": "0"
+        }
+    ],
     "name": "Ekans",
+    "evolve_from": [],
     "learnset": [
         {
             "level": 1,
@@ -117,15 +126,6 @@
             "move": "MOVE_GUNKSHOT"
         }
     ],
-    "evolve_to": [
-        {
-            "method": "EVO_LEVEL",
-            "condition": "22",
-            "target": "ARBOK",
-            "extra": "0"
-        }
-    ],
-    "evolve_from": [],
     "tm": [
         "MOVE_TOXIC",
         "MOVE_HIDDENPOWER",

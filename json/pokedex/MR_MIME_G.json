@@ -34,8 +34,19 @@
         "MOVE_POWERSPLIT",
         "MOVE_TICKLE"
     ],
+    "evolve_to": [
+        {
+            "method": "EVO_LEVEL",
+            "condition": "42",
+            "target": "MR_RIME",
+            "extra": "0"
+        }
+    ],
     "blurb": "It can radiate chilliness from the bottoms of its feet. It'll spend its day tap dancing on a frozen floor.",
     "name": "Mr. Mime",
+    "evolve_from": [
+        "MIME_JR_G"
+    ],
     "learnset": [
         {
             "level": 0,
@@ -165,17 +176,6 @@
             "level": 55,
             "move": "MOVE_TEETERDANCE"
         }
-    ],
-    "evolve_to": [
-        {
-            "method": "EVO_LEVEL",
-            "condition": "42",
-            "target": "MR_RIME",
-            "extra": "0"
-        }
-    ],
-    "evolve_from": [
-        "MIME_JR_G"
     ],
     "tm": [
         "MOVE_FOCUSPUNCH",

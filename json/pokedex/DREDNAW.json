@@ -28,8 +28,6 @@
     "safariZoneFleeRate": 0,
     "hiddenAbility": "ABILITY_SWIFTSWIM",
     "noFlip": true,
-    "blurb": "With jaws that can shear through steel rods, this highly aggressive Pok\u00e9mon chomps down on its unfortunate prey.",
-    "name": "Drednaw",
     "evolve_to": [
         {
             "method": "EVO_GIGANTAMAX",
@@ -38,76 +36,8 @@
             "extra": "0"
         }
     ],
-    "learnset": [
-        {
-            "level": 0,
-            "move": "MOVE_ROCKTOMB"
-        },
-        {
-            "level": 0,
-            "move": "MOVE_RAZORSHELL"
-        },
-        {
-            "level": 1,
-            "move": "MOVE_ICEFANG"
-        },
-        {
-            "level": 1,
-            "move": "MOVE_CRUNCH"
-        },
-        {
-            "level": 1,
-            "move": "MOVE_ROCKPOLISH"
-        },
-        {
-            "level": 1,
-            "move": "MOVE_TACKLE"
-        },
-        {
-            "level": 1,
-            "move": "MOVE_WATERGUN"
-        },
-        {
-            "level": 1,
-            "move": "MOVE_BITE"
-        },
-        {
-            "level": 1,
-            "move": "MOVE_PROTECT"
-        },
-        {
-            "level": 21,
-            "move": "MOVE_HEADBUTT"
-        },
-        {
-            "level": 21,
-            "move": "MOVE_RAZORSHELL"
-        },
-        {
-            "level": 21,
-            "move": "MOVE_ROCKTOMB"
-        },
-        {
-            "level": 30,
-            "move": "MOVE_COUNTER"
-        },
-        {
-            "level": 39,
-            "move": "MOVE_JAWLOCK"
-        },
-        {
-            "level": 48,
-            "move": "MOVE_LIQUIDATION"
-        },
-        {
-            "level": 57,
-            "move": "MOVE_BODYSLAM"
-        },
-        {
-            "level": 66,
-            "move": "MOVE_HEADSMASH"
-        }
-    ],
+    "blurb": "With jaws that can shear through steel rods, this highly aggressive Pok\u00e9mon chomps down on its unfortunate prey.",
+    "name": "Drednaw",
     "evolve_from": [
         "CHEWTLE",
         "DREDNAW_GIGA"
@@ -189,5 +119,75 @@
         "MOVE_SCALESHOT",
         "MOVE_METEORBEAM",
         "MOVE_SKITTERSMACK"
+    ],
+    "learnset": [
+        {
+            "level": 0,
+            "move": "MOVE_ROCKTOMB"
+        },
+        {
+            "level": 0,
+            "move": "MOVE_RAZORSHELL"
+        },
+        {
+            "level": 1,
+            "move": "MOVE_ICEFANG"
+        },
+        {
+            "level": 1,
+            "move": "MOVE_CRUNCH"
+        },
+        {
+            "level": 1,
+            "move": "MOVE_ROCKPOLISH"
+        },
+        {
+            "level": 1,
+            "move": "MOVE_TACKLE"
+        },
+        {
+            "level": 1,
+            "move": "MOVE_WATERGUN"
+        },
+        {
+            "level": 1,
+            "move": "MOVE_BITE"
+        },
+        {
+            "level": 1,
+            "move": "MOVE_PROTECT"
+        },
+        {
+            "level": 21,
+            "move": "MOVE_HEADBUTT"
+        },
+        {
+            "level": 21,
+            "move": "MOVE_RAZORSHELL"
+        },
+        {
+            "level": 21,
+            "move": "MOVE_ROCKTOMB"
+        },
+        {
+            "level": 30,
+            "move": "MOVE_COUNTER"
+        },
+        {
+            "level": 39,
+            "move": "MOVE_JAWLOCK"
+        },
+        {
+            "level": 48,
+            "move": "MOVE_LIQUIDATION"
+        },
+        {
+            "level": 57,
+            "move": "MOVE_BODYSLAM"
+        },
+        {
+            "level": 66,
+            "move": "MOVE_HEADSMASH"
+        }
     ]
 }

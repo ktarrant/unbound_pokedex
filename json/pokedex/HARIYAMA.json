@@ -29,6 +29,9 @@
     "hiddenAbility": "ABILITY_SHEERFORCE",
     "noFlip": true,
     "name": "Hariyama",
+    "evolve_from": [
+        "MAKUHITA"
+    ],
     "learnset": [
         {
             "level": 1,
@@ -106,9 +109,6 @@
             "level": 57,
             "move": "MOVE_CLOSECOMBAT"
         }
-    ],
-    "evolve_from": [
-        "MAKUHITA"
     ],
     "tm": [
         "MOVE_FOCUSPUNCH",

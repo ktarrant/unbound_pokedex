@@ -30,6 +30,9 @@
     "noFlip": true,
     "blurb": "They use the long fur on their arms as a whip to strike their opponents.",
     "name": "Mienshao",
+    "evolve_from": [
+        "MIENFOO"
+    ],
     "learnset": [
         {
             "level": 1,
@@ -107,9 +110,6 @@
             "level": 67,
             "move": "MOVE_HIGHJUMPKICK"
         }
-    ],
-    "evolve_from": [
-        "MIENFOO"
     ],
     "tm": [
         "MOVE_FOCUSPUNCH",

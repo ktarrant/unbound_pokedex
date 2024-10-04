@@ -30,6 +30,9 @@
     "noFlip": true,
     "blurb": "This Pok\u00e9mon consumes particles that contaminate the air. Instead of leaving droppings, it expels clean air.",
     "name": "Weezing",
+    "evolve_from": [
+        "KOFFING_G"
+    ],
     "learnset": [
         {
             "level": 0,
@@ -131,9 +134,6 @@
             "level": 68,
             "move": "MOVE_MISTYTERRAIN"
         }
-    ],
-    "evolve_from": [
-        "KOFFING_G"
     ],
     "tm": [
         "MOVE_TOXIC",

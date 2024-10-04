@@ -30,6 +30,9 @@
     "noFlip": true,
     "blurb": "When attacked, they form a wall with their shield like faces to protect their young.",
     "name": "Bastiodon",
+    "evolve_from": [
+        "SHIELDON"
+    ],
     "learnset": [
         {
             "level": 0,
@@ -91,9 +94,6 @@
             "level": 58,
             "move": "MOVE_HEAVYSLAM"
         }
-    ],
-    "evolve_from": [
-        "SHIELDON"
     ],
     "tm": [
         "MOVE_ROAR",

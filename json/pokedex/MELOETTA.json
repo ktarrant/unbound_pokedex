@@ -30,76 +30,6 @@
     "noFlip": true,
     "blurb": "Many famous songs have been inspired by the melodies that Meloetta plays.",
     "name": "Meloetta",
-    "learnset": [
-        {
-            "level": 1,
-            "move": "MOVE_CELEBRATE"
-        },
-        {
-            "level": 1,
-            "move": "MOVE_ROUND"
-        },
-        {
-            "level": 1,
-            "move": "MOVE_QUICKATTACK"
-        },
-        {
-            "level": 1,
-            "move": "MOVE_CONFUSION"
-        },
-        {
-            "level": 1,
-            "move": "MOVE_SING"
-        },
-        {
-            "level": 21,
-            "move": "MOVE_TEETERDANCE"
-        },
-        {
-            "level": 26,
-            "move": "MOVE_ACROBATICS"
-        },
-        {
-            "level": 31,
-            "move": "MOVE_PSYBEAM"
-        },
-        {
-            "level": 36,
-            "move": "MOVE_ECHOEDVOICE"
-        },
-        {
-            "level": 43,
-            "move": "MOVE_UTURN"
-        },
-        {
-            "level": 50,
-            "move": "MOVE_WAKEUPSLAP"
-        },
-        {
-            "level": 57,
-            "move": "MOVE_LUSTERPURGE"
-        },
-        {
-            "level": 64,
-            "move": "MOVE_HYPERVOICE"
-        },
-        {
-            "level": 71,
-            "move": "MOVE_ROLEPLAY"
-        },
-        {
-            "level": 78,
-            "move": "MOVE_CLOSECOMBAT"
-        },
-        {
-            "level": 85,
-            "move": "MOVE_PSYCHIC"
-        },
-        {
-            "level": 92,
-            "move": "MOVE_PERISHSONG"
-        }
-    ],
     "evolve_from": [],
     "tm": [
         "MOVE_FOCUSPUNCH",
@@ -189,5 +119,75 @@
         "MOVE_EXPANDINGFORCE",
         "MOVE_COACHING",
         "MOVE_TRIPLEAXEL"
+    ],
+    "learnset": [
+        {
+            "level": 1,
+            "move": "MOVE_CELEBRATE"
+        },
+        {
+            "level": 1,
+            "move": "MOVE_ROUND"
+        },
+        {
+            "level": 1,
+            "move": "MOVE_QUICKATTACK"
+        },
+        {
+            "level": 1,
+            "move": "MOVE_CONFUSION"
+        },
+        {
+            "level": 1,
+            "move": "MOVE_SING"
+        },
+        {
+            "level": 21,
+            "move": "MOVE_TEETERDANCE"
+        },
+        {
+            "level": 26,
+            "move": "MOVE_ACROBATICS"
+        },
+        {
+            "level": 31,
+            "move": "MOVE_PSYBEAM"
+        },
+        {
+            "level": 36,
+            "move": "MOVE_ECHOEDVOICE"
+        },
+        {
+            "level": 43,
+            "move": "MOVE_UTURN"
+        },
+        {
+            "level": 50,
+            "move": "MOVE_WAKEUPSLAP"
+        },
+        {
+            "level": 57,
+            "move": "MOVE_LUSTERPURGE"
+        },
+        {
+            "level": 64,
+            "move": "MOVE_HYPERVOICE"
+        },
+        {
+            "level": 71,
+            "move": "MOVE_ROLEPLAY"
+        },
+        {
+            "level": 78,
+            "move": "MOVE_CLOSECOMBAT"
+        },
+        {
+            "level": 85,
+            "move": "MOVE_PSYCHIC"
+        },
+        {
+            "level": 92,
+            "move": "MOVE_PERISHSONG"
+        }
     ]
 }

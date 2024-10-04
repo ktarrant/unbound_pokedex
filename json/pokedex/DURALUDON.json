@@ -33,8 +33,6 @@
         "MOVE_NIGHTSLASH",
         "MOVE_MIRRORCOAT"
     ],
-    "blurb": "Its body resembles polished metal, and it's both lightweight and strong. However, its body rusts easily.",
-    "name": "Duraludon",
     "evolve_to": [
         {
             "method": "EVO_GIGANTAMAX",
@@ -43,60 +41,8 @@
             "extra": "0"
         }
     ],
-    "learnset": [
-        {
-            "level": 1,
-            "move": "MOVE_LEER"
-        },
-        {
-            "level": 1,
-            "move": "MOVE_METALCLAW"
-        },
-        {
-            "level": 6,
-            "move": "MOVE_ROCKSMASH"
-        },
-        {
-            "level": 12,
-            "move": "MOVE_HONECLAWS"
-        },
-        {
-            "level": 18,
-            "move": "MOVE_METALSOUND"
-        },
-        {
-            "level": 24,
-            "move": "MOVE_BREAKINGSWIPE"
-        },
-        {
-            "level": 30,
-            "move": "MOVE_DRAGONTAIL"
-        },
-        {
-            "level": 36,
-            "move": "MOVE_IRONDEFENSE"
-        },
-        {
-            "level": 42,
-            "move": "MOVE_LASERFOCUS"
-        },
-        {
-            "level": 48,
-            "move": "MOVE_DRAGONCLAW"
-        },
-        {
-            "level": 54,
-            "move": "MOVE_FLASHCANNON"
-        },
-        {
-            "level": 60,
-            "move": "MOVE_METALBURST"
-        },
-        {
-            "level": 66,
-            "move": "MOVE_HYPERBEAM"
-        }
-    ],
+    "blurb": "Its body resembles polished metal, and it's both lightweight and strong. However, its body rusts easily.",
+    "name": "Duraludon",
     "evolve_from": [
         "DURALUDON_GIGA"
     ],
@@ -168,5 +114,59 @@
         "MOVE_HEAVYSLAM",
         "MOVE_BREAKINGSWIPE",
         "MOVE_POLTERGEIST"
+    ],
+    "learnset": [
+        {
+            "level": 1,
+            "move": "MOVE_LEER"
+        },
+        {
+            "level": 1,
+            "move": "MOVE_METALCLAW"
+        },
+        {
+            "level": 6,
+            "move": "MOVE_ROCKSMASH"
+        },
+        {
+            "level": 12,
+            "move": "MOVE_HONECLAWS"
+        },
+        {
+            "level": 18,
+            "move": "MOVE_METALSOUND"
+        },
+        {
+            "level": 24,
+            "move": "MOVE_BREAKINGSWIPE"
+        },
+        {
+            "level": 30,
+            "move": "MOVE_DRAGONTAIL"
+        },
+        {
+            "level": 36,
+            "move": "MOVE_IRONDEFENSE"
+        },
+        {
+            "level": 42,
+            "move": "MOVE_LASERFOCUS"
+        },
+        {
+            "level": 48,
+            "move": "MOVE_DRAGONCLAW"
+        },
+        {
+            "level": 54,
+            "move": "MOVE_FLASHCANNON"
+        },
+        {
+            "level": 60,
+            "move": "MOVE_METALBURST"
+        },
+        {
+            "level": 66,
+            "move": "MOVE_HYPERBEAM"
+        }
     ]
 }

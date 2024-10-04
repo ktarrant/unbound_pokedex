@@ -30,6 +30,9 @@
     "noFlip": true,
     "blurb": "Its jaw power is incredible. It is adept at biting apart foes while flying by at high speed.",
     "name": "Yanmega",
+    "evolve_from": [
+        "YANMA"
+    ],
     "learnset": [
         {
             "level": 0,
@@ -123,9 +126,6 @@
             "level": 63,
             "move": "MOVE_BUGBUZZ"
         }
-    ],
-    "evolve_from": [
-        "YANMA"
     ],
     "tm": [
         "MOVE_TOXIC",

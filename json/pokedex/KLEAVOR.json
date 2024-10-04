@@ -30,6 +30,7 @@
     "noFlip": true,
     "blurb": "A violent creature that fells towering trees with its crude axes and shields itself with hard stone.",
     "name": "Kleavor",
+    "evolve_from": [],
     "learnset": [
         {
             "level": 0,
@@ -112,7 +113,6 @@
             "move": "MOVE_STONEEDGE"
         }
     ],
-    "evolve_from": [],
     "tm": [
         "MOVE_CALMMIND",
         "MOVE_TOXIC",

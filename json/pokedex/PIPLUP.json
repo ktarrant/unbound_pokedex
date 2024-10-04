@@ -42,8 +42,17 @@
         "MOVE_ICYWIND",
         "MOVE_POWERTRIP"
     ],
+    "evolve_to": [
+        {
+            "method": "EVO_LEVEL",
+            "condition": "16",
+            "target": "PRINPLUP",
+            "extra": "0"
+        }
+    ],
     "blurb": "Because it is very proud, it hates accepting food from people. Its thick down guards it from cold.",
     "name": "Piplup",
+    "evolve_from": [],
     "learnset": [
         {
             "level": 1,
@@ -98,15 +107,6 @@
             "move": "MOVE_HYDROPUMP"
         }
     ],
-    "evolve_to": [
-        {
-            "method": "EVO_LEVEL",
-            "condition": "16",
-            "target": "PRINPLUP",
-            "extra": "0"
-        }
-    ],
-    "evolve_from": [],
     "tm": [
         "MOVE_WATERPULSE",
         "MOVE_TOXIC",

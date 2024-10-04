@@ -29,6 +29,9 @@
     "hiddenAbility": "ABILITY_PUNKROCK",
     "noFlip": true,
     "name": "Flygon",
+    "evolve_from": [
+        "VIBRAVA"
+    ],
     "learnset": [
         {
             "level": 0,
@@ -158,9 +161,6 @@
             "level": 69,
             "move": "MOVE_BOOMBURST"
         }
-    ],
-    "evolve_from": [
-        "VIBRAVA"
     ],
     "tm": [
         "MOVE_DRAGONCLAW",

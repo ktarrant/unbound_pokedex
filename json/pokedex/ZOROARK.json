@@ -30,6 +30,9 @@
     "noFlip": true,
     "blurb": "Stories say those who tried to catch Zoroark were trapped in an illusion and punished.",
     "name": "Zoroark",
+    "evolve_from": [
+        "ZORUA"
+    ],
     "learnset": [
         {
             "level": 0,
@@ -107,9 +110,6 @@
             "level": 58,
             "move": "MOVE_FOULPLAY"
         }
-    ],
-    "evolve_from": [
-        "ZORUA"
     ],
     "tm": [
         "MOVE_CALMMIND",

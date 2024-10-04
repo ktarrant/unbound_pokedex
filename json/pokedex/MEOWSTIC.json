@@ -30,6 +30,7 @@
     "noFlip": true,
     "blurb": "When in danger, it raises its ears and releases enough psychic power to grind a 10-ton truck to dust.",
     "name": "Meowstic",
+    "evolve_from": [],
     "learnset": [
         {
             "level": 1,
@@ -112,7 +113,6 @@
             "move": "MOVE_MISTYTERRAIN"
         }
     ],
-    "evolve_from": [],
     "tm": [
         "MOVE_CALMMIND",
         "MOVE_TOXIC",

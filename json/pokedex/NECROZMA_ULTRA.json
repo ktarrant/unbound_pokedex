@@ -29,6 +29,10 @@
     "hiddenAbility": "ABILITY_NONE",
     "noFlip": true,
     "blurb": "This is its form when it has absorbed overwhelming light energy. It fires laser beams from all over its body.",
+    "evolve_from": [
+        "NECROZMA_DUSK_MANE",
+        "NECROZMA_DAWN_WINGS"
+    ],
     "learnset": [
         {
             "level": 1,
@@ -106,10 +110,6 @@
             "level": 88,
             "move": "MOVE_PRISMATICLASER"
         }
-    ],
-    "evolve_from": [
-        "NECROZMA_DUSK_MANE",
-        "NECROZMA_DAWN_WINGS"
     ],
     "tm": [
         "MOVE_TOXIC",

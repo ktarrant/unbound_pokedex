@@ -30,68 +30,6 @@
     "noFlip": true,
     "blurb": "A legendary Pok\u00e9mon of Sinnoh. It is said that time flows when Dialga's heart beats.",
     "name": "Dialga",
-    "learnset": [
-        {
-            "level": 1,
-            "move": "MOVE_SCARYFACE"
-        },
-        {
-            "level": 1,
-            "move": "MOVE_HEALBLOCK"
-        },
-        {
-            "level": 1,
-            "move": "MOVE_METALCLAW"
-        },
-        {
-            "level": 8,
-            "move": "MOVE_DRAGONBREATH"
-        },
-        {
-            "level": 16,
-            "move": "MOVE_ANCIENTPOWER"
-        },
-        {
-            "level": 24,
-            "move": "MOVE_SLASH"
-        },
-        {
-            "level": 32,
-            "move": "MOVE_FLASHCANNON"
-        },
-        {
-            "level": 40,
-            "move": "MOVE_DRAGONCLAW"
-        },
-        {
-            "level": 48,
-            "move": "MOVE_AURASPHERE"
-        },
-        {
-            "level": 56,
-            "move": "MOVE_POWERGEM"
-        },
-        {
-            "level": 64,
-            "move": "MOVE_METALBURST"
-        },
-        {
-            "level": 72,
-            "move": "MOVE_EARTHPOWER"
-        },
-        {
-            "level": 80,
-            "move": "MOVE_CLANGINGSCALES"
-        },
-        {
-            "level": 88,
-            "move": "MOVE_IRONTAIL"
-        },
-        {
-            "level": 96,
-            "move": "MOVE_ROAROFTIME"
-        }
-    ],
     "evolve_from": [],
     "tm": [
         "MOVE_DRAGONCLAW",
@@ -169,5 +107,67 @@
         "MOVE_AURASPHERE",
         "MOVE_POWERGEM",
         "MOVE_SCALESHOT"
+    ],
+    "learnset": [
+        {
+            "level": 1,
+            "move": "MOVE_SCARYFACE"
+        },
+        {
+            "level": 1,
+            "move": "MOVE_HEALBLOCK"
+        },
+        {
+            "level": 1,
+            "move": "MOVE_METALCLAW"
+        },
+        {
+            "level": 8,
+            "move": "MOVE_DRAGONBREATH"
+        },
+        {
+            "level": 16,
+            "move": "MOVE_ANCIENTPOWER"
+        },
+        {
+            "level": 24,
+            "move": "MOVE_SLASH"
+        },
+        {
+            "level": 32,
+            "move": "MOVE_FLASHCANNON"
+        },
+        {
+            "level": 40,
+            "move": "MOVE_DRAGONCLAW"
+        },
+        {
+            "level": 48,
+            "move": "MOVE_AURASPHERE"
+        },
+        {
+            "level": 56,
+            "move": "MOVE_POWERGEM"
+        },
+        {
+            "level": 64,
+            "move": "MOVE_METALBURST"
+        },
+        {
+            "level": 72,
+            "move": "MOVE_EARTHPOWER"
+        },
+        {
+            "level": 80,
+            "move": "MOVE_CLANGINGSCALES"
+        },
+        {
+            "level": 88,
+            "move": "MOVE_IRONTAIL"
+        },
+        {
+            "level": 96,
+            "move": "MOVE_ROAROFTIME"
+        }
     ]
 }

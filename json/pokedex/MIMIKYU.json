@@ -36,72 +36,6 @@
     ],
     "blurb": "It conceals its terrifying appearance beneath an old rag so it can get closer to people and Pok\u00e9mon.",
     "name": "Mimikyu",
-    "learnset": [
-        {
-            "level": 1,
-            "move": "MOVE_WOODHAMMER"
-        },
-        {
-            "level": 1,
-            "move": "MOVE_SPLASH"
-        },
-        {
-            "level": 1,
-            "move": "MOVE_ASTONISH"
-        },
-        {
-            "level": 1,
-            "move": "MOVE_SCRATCH"
-        },
-        {
-            "level": 1,
-            "move": "MOVE_COPYCAT"
-        },
-        {
-            "level": 6,
-            "move": "MOVE_SHADOWSNEAK"
-        },
-        {
-            "level": 11,
-            "move": "MOVE_DOUBLETEAM"
-        },
-        {
-            "level": 16,
-            "move": "MOVE_BABYDOLLEYES"
-        },
-        {
-            "level": 21,
-            "move": "MOVE_MIMIC"
-        },
-        {
-            "level": 26,
-            "move": "MOVE_FEINTATTACK"
-        },
-        {
-            "level": 31,
-            "move": "MOVE_HONECLAWS"
-        },
-        {
-            "level": 36,
-            "move": "MOVE_SLASH"
-        },
-        {
-            "level": 41,
-            "move": "MOVE_SHADOWCLAW"
-        },
-        {
-            "level": 47,
-            "move": "MOVE_CHARM"
-        },
-        {
-            "level": 53,
-            "move": "MOVE_PLAYROUGH"
-        },
-        {
-            "level": 59,
-            "move": "MOVE_PAINSPLIT"
-        }
-    ],
     "evolve_from": [],
     "tm": [
         "MOVE_TOXIC",
@@ -171,5 +105,71 @@
         "MOVE_PHANTOMFORCE",
         "MOVE_PLAYROUGH",
         "MOVE_BURNINGJEALOUSY"
+    ],
+    "learnset": [
+        {
+            "level": 1,
+            "move": "MOVE_WOODHAMMER"
+        },
+        {
+            "level": 1,
+            "move": "MOVE_SPLASH"
+        },
+        {
+            "level": 1,
+            "move": "MOVE_ASTONISH"
+        },
+        {
+            "level": 1,
+            "move": "MOVE_SCRATCH"
+        },
+        {
+            "level": 1,
+            "move": "MOVE_COPYCAT"
+        },
+        {
+            "level": 6,
+            "move": "MOVE_SHADOWSNEAK"
+        },
+        {
+            "level": 11,
+            "move": "MOVE_DOUBLETEAM"
+        },
+        {
+            "level": 16,
+            "move": "MOVE_BABYDOLLEYES"
+        },
+        {
+            "level": 21,
+            "move": "MOVE_MIMIC"
+        },
+        {
+            "level": 26,
+            "move": "MOVE_FEINTATTACK"
+        },
+        {
+            "level": 31,
+            "move": "MOVE_HONECLAWS"
+        },
+        {
+            "level": 36,
+            "move": "MOVE_SLASH"
+        },
+        {
+            "level": 41,
+            "move": "MOVE_SHADOWCLAW"
+        },
+        {
+            "level": 47,
+            "move": "MOVE_CHARM"
+        },
+        {
+            "level": 53,
+            "move": "MOVE_PLAYROUGH"
+        },
+        {
+            "level": 59,
+            "move": "MOVE_PAINSPLIT"
+        }
     ]
 }

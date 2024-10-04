@@ -33,8 +33,17 @@
         "MOVE_QUICKGUARD",
         "MOVE_KNOCKOFF"
     ],
+    "evolve_to": [
+        {
+            "method": "EVO_LEVEL",
+            "condition": "20",
+            "target": "LINOONE_G",
+            "extra": "0"
+        }
+    ],
     "blurb": "It moves in zigzags and wreaks havoc upon its surroundings. It is thought to be the oldest form of Zigzagoon.",
     "name": "Zigzagoon",
+    "evolve_from": [],
     "learnset": [
         {
             "level": 1,
@@ -101,15 +110,6 @@
             "move": "MOVE_DOUBLEEDGE"
         }
     ],
-    "evolve_to": [
-        {
-            "method": "EVO_LEVEL",
-            "condition": "20",
-            "target": "LINOONE_G",
-            "extra": "0"
-        }
-    ],
-    "evolve_from": [],
     "tm": [
         "MOVE_ROAR",
         "MOVE_TOXIC",

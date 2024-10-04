@@ -30,6 +30,7 @@
     "noFlip": true,
     "blurb": "Desiring the strongest karate chop, they seclude themselves in mountains and train without sleeping.",
     "name": "Sawk",
+    "evolve_from": [],
     "learnset": [
         {
             "level": 1,
@@ -92,7 +93,6 @@
             "move": "MOVE_CLOSECOMBAT"
         }
     ],
-    "evolve_from": [],
     "tm": [
         "MOVE_FOCUSPUNCH",
         "MOVE_TOXIC",

@@ -29,6 +29,9 @@
     "hiddenAbility": "ABILITY_ANALYTIC",
     "noFlip": true,
     "name": "Magneton",
+    "evolve_from": [
+        "MAGNEMITE"
+    ],
     "learnset": [
         {
             "level": 0,
@@ -114,9 +117,6 @@
             "level": 66,
             "move": "MOVE_ZAPCANNON"
         }
-    ],
-    "evolve_from": [
-        "MAGNEMITE"
     ],
     "tm": [
         "MOVE_TOXIC",

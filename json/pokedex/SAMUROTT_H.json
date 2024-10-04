@@ -30,6 +30,7 @@
     "noFlip": true,
     "blurb": "Hard of heart and deft of blade, its turbulent blows crash into foes like ceaseless pounding waves.",
     "name": "Samurott",
+    "evolve_from": [],
     "learnset": [
         {
             "level": 0,
@@ -108,7 +109,6 @@
             "move": "MOVE_HYDROPUMP"
         }
     ],
-    "evolve_from": [],
     "tm": [
         "MOVE_WATERPULSE",
         "MOVE_TOXIC",

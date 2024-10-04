@@ -42,7 +42,16 @@
         "MOVE_FLAMEBURST",
         "MOVE_TELEPORT"
     ],
+    "evolve_to": [
+        {
+            "method": "EVO_ITEM",
+            "condition": "ITEM_FIRE_STONE",
+            "target": "ARCANINE",
+            "extra": "0"
+        }
+    ],
     "name": "Growlithe",
+    "evolve_from": [],
     "learnset": [
         {
             "level": 1,
@@ -121,15 +130,6 @@
             "move": "MOVE_FLAREBLITZ"
         }
     ],
-    "evolve_to": [
-        {
-            "method": "EVO_ITEM",
-            "condition": "ITEM_FIRE_STONE",
-            "target": "ARCANINE",
-            "extra": "0"
-        }
-    ],
-    "evolve_from": [],
     "tm": [
         "MOVE_ROAR",
         "MOVE_TOXIC",

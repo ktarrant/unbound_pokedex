@@ -38,8 +38,17 @@
         "MOVE_CURSE",
         "MOVE_STRENGTHSAP"
     ],
+    "evolve_to": [
+        {
+            "method": "EVO_LEVEL",
+            "condition": "42",
+            "target": "PALOSSAND",
+            "extra": "0"
+        }
+    ],
     "blurb": "Born from a sand mound playfully built by a child, this Pok\u00e9mon embodies the grudges of the departed.",
     "name": "Sandygast",
+    "evolve_from": [],
     "learnset": [
         {
             "level": 1,
@@ -102,15 +111,6 @@
             "move": "MOVE_SANDSTORM"
         }
     ],
-    "evolve_to": [
-        {
-            "method": "EVO_LEVEL",
-            "condition": "42",
-            "target": "PALOSSAND",
-            "extra": "0"
-        }
-    ],
-    "evolve_from": [],
     "tm": [
         "MOVE_TOXIC",
         "MOVE_HIDDENPOWER",

@@ -44,7 +44,16 @@
         "MOVE_BESTOW",
         "MOVE_SOFTBOILED"
     ],
+    "evolve_to": [
+        {
+            "method": "EVO_FRIENDSHIP",
+            "condition": "0",
+            "target": "TOGETIC",
+            "extra": "0"
+        }
+    ],
     "name": "Togepi",
+    "evolve_from": [],
     "learnset": [
         {
             "level": 1,
@@ -119,15 +128,6 @@
             "move": "MOVE_WISH"
         }
     ],
-    "evolve_to": [
-        {
-            "method": "EVO_FRIENDSHIP",
-            "condition": "0",
-            "target": "TOGETIC",
-            "extra": "0"
-        }
-    ],
-    "evolve_from": [],
     "tm": [
         "MOVE_WATERPULSE",
         "MOVE_CALMMIND",

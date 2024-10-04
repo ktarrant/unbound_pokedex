@@ -34,7 +34,16 @@
         "MOVE_DRAGONBREATH",
         "MOVE_FOCUSPUNCH"
     ],
+    "evolve_to": [
+        {
+            "method": "EVO_LEVEL",
+            "condition": "35",
+            "target": "HAKAMO_O",
+            "extra": "0"
+        }
+    ],
     "blurb": "They live in mountains where no trace of humans can be detected. It grows as it battles others.",
+    "evolve_from": [],
     "learnset": [
         {
             "level": 1,
@@ -93,15 +102,6 @@
             "move": "MOVE_CLANGINGSCALES"
         }
     ],
-    "evolve_to": [
-        {
-            "method": "EVO_LEVEL",
-            "condition": "35",
-            "target": "HAKAMO_O",
-            "extra": "0"
-        }
-    ],
-    "evolve_from": [],
     "tm": [
         "MOVE_DRAGONCLAW",
         "MOVE_ROAR",

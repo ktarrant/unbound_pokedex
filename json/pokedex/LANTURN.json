@@ -29,6 +29,9 @@
     "hiddenAbility": "ABILITY_LIGHTNINGROD",
     "noFlip": true,
     "name": "Lanturn",
+    "evolve_from": [
+        "CHINCHOU"
+    ],
     "learnset": [
         {
             "level": 0,
@@ -122,9 +125,6 @@
             "level": 58,
             "move": "MOVE_IONDELUGE"
         }
-    ],
-    "evolve_from": [
-        "CHINCHOU"
     ],
     "tm": [
         "MOVE_WATERPULSE",

@@ -41,6 +41,7 @@
         "MOVE_COSMICPOWER"
     ],
     "name": "Castform",
+    "evolve_from": [],
     "learnset": [
         {
             "level": 1,
@@ -95,7 +96,6 @@
             "move": "MOVE_HURRICANE"
         }
     ],
-    "evolve_from": [],
     "tm": [
         "MOVE_WATERPULSE",
         "MOVE_TOXIC",

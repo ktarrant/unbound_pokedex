@@ -30,6 +30,9 @@
     "noFlip": true,
     "blurb": "From the food it digests, it generates electricity, and it stores this energy in its electric sac.",
     "name": "Charjabug",
+    "evolve_from": [
+        "GRUBBIN"
+    ],
     "learnset": [
         {
             "level": 0,
@@ -91,9 +94,6 @@
             "level": 64,
             "move": "MOVE_DISCHARGE"
         }
-    ],
-    "evolve_from": [
-        "GRUBBIN"
     ],
     "tm": [
         "MOVE_TOXIC",

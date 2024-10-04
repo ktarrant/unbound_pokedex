@@ -30,6 +30,7 @@
     "noFlip": true,
     "blurb": "This Pok\u00e9mon appears in legends. In its tail, it has a giant generator that creates electricity.",
     "name": "Zekrom",
+    "evolve_from": [],
     "learnset": [
         {
             "level": 1,
@@ -100,7 +101,6 @@
             "move": "MOVE_BOLTSTRIKE"
         }
     ],
-    "evolve_from": [],
     "tm": [
         "MOVE_DRAGONCLAW",
         "MOVE_TOXIC",

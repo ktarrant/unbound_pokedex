@@ -42,7 +42,16 @@
         "MOVE_ICICLECRASH",
         "MOVE_FREEZEDRY"
     ],
+    "evolve_to": [
+        {
+            "method": "EVO_LEVEL",
+            "condition": "33",
+            "target": "PILOSWINE",
+            "extra": "0"
+        }
+    ],
     "name": "Swinub",
+    "evolve_from": [],
     "learnset": [
         {
             "level": 1,
@@ -109,15 +118,6 @@
             "move": "MOVE_BLIZZARD"
         }
     ],
-    "evolve_to": [
-        {
-            "method": "EVO_LEVEL",
-            "condition": "33",
-            "target": "PILOSWINE",
-            "extra": "0"
-        }
-    ],
-    "evolve_from": [],
     "tm": [
         "MOVE_ROAR",
         "MOVE_TOXIC",

@@ -29,6 +29,9 @@
     "hiddenAbility": "ABILITY_STENCH",
     "noFlip": true,
     "name": "Gloom",
+    "evolve_from": [
+        "ODDISH"
+    ],
     "learnset": [
         {
             "level": 1,
@@ -98,9 +101,6 @@
             "level": 78,
             "move": "MOVE_STRENGTHSAP"
         }
-    ],
-    "evolve_from": [
-        "ODDISH"
     ],
     "tm": [
         "MOVE_TOXIC",

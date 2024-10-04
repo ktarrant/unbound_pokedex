@@ -30,6 +30,7 @@
     "noFlip": true,
     "blurb": "It can distinguish the faintest of scents. It puts its sense of smell to use by helping pastry chefs.",
     "name": "Slurpuff",
+    "evolve_from": [],
     "learnset": [
         {
             "level": 1,
@@ -96,7 +97,6 @@
             "move": "MOVE_STICKYWEB"
         }
     ],
-    "evolve_from": [],
     "tm": [
         "MOVE_CALMMIND",
         "MOVE_TOXIC",

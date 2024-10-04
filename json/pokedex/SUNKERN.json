@@ -39,7 +39,16 @@
         "MOVE_MORNINGSUN",
         "MOVE_GRASSYTERRAIN"
     ],
+    "evolve_to": [
+        {
+            "method": "EVO_ITEM",
+            "condition": "ITEM_SUN_STONE",
+            "target": "SUNFLORA",
+            "extra": "0"
+        }
+    ],
     "name": "Sunkern",
+    "evolve_from": [],
     "learnset": [
         {
             "level": 1,
@@ -110,15 +119,6 @@
             "move": "MOVE_SEEDFLARE"
         }
     ],
-    "evolve_to": [
-        {
-            "method": "EVO_ITEM",
-            "condition": "ITEM_SUN_STONE",
-            "target": "SUNFLORA",
-            "extra": "0"
-        }
-    ],
-    "evolve_from": [],
     "tm": [
         "MOVE_TOXIC",
         "MOVE_BULLETSEED",

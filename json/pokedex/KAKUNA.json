@@ -28,7 +28,18 @@
     "safariZoneFleeRate": 0,
     "hiddenAbility": "ABILITY_SHEDSKIN",
     "noFlip": true,
+    "evolve_to": [
+        {
+            "method": "EVO_LEVEL",
+            "condition": "10",
+            "target": "BEEDRILL",
+            "extra": "0"
+        }
+    ],
     "name": "Kakuna",
+    "evolve_from": [
+        "WEEDLE"
+    ],
     "learnset": [
         {
             "level": 0,
@@ -39,18 +50,6 @@
             "move": "MOVE_HARDEN"
         }
     ],
-    "evolve_to": [
-        {
-            "method": "EVO_LEVEL",
-            "condition": "10",
-            "target": "BEEDRILL",
-            "extra": "0"
-        }
-    ],
-    "evolve_from": [
-        "WEEDLE"
-    ],
-    "tm": [],
     "tutor": [
         "MOVE_ELECTROWEB",
         "MOVE_BUGBITE",

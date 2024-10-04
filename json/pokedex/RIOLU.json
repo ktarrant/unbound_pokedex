@@ -48,8 +48,17 @@
         "MOVE_METEORMASH",
         "MOVE_HOWL"
     ],
+    "evolve_to": [
+        {
+            "method": "EVO_FRIENDSHIP_DAY",
+            "condition": "0",
+            "target": "LUCARIO",
+            "extra": "0"
+        }
+    ],
     "blurb": "The aura that emanates from its body intensifies to alert others if it is afraid or sad.",
     "name": "Riolu",
+    "evolve_from": [],
     "learnset": [
         {
             "level": 1,
@@ -120,15 +129,6 @@
             "move": "MOVE_CLOSECOMBAT"
         }
     ],
-    "evolve_to": [
-        {
-            "method": "EVO_FRIENDSHIP_DAY",
-            "condition": "0",
-            "target": "LUCARIO",
-            "extra": "0"
-        }
-    ],
-    "evolve_from": [],
     "tm": [
         "MOVE_FOCUSPUNCH",
         "MOVE_ROAR",

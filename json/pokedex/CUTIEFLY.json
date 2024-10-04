@@ -38,8 +38,17 @@
         "MOVE_STICKYWEB",
         "MOVE_AROMATICMIST"
     ],
+    "evolve_to": [
+        {
+            "method": "EVO_LEVEL",
+            "condition": "25",
+            "target": "RIBOMBEE",
+            "extra": "0"
+        }
+    ],
     "blurb": "Myriads of Cutiefly flutter above the heads of people who have auras resembling those of flowers.",
     "name": "Cutiefly",
+    "evolve_from": [],
     "learnset": [
         {
             "level": 1,
@@ -94,15 +103,6 @@
             "move": "MOVE_QUIVERDANCE"
         }
     ],
-    "evolve_to": [
-        {
-            "method": "EVO_LEVEL",
-            "condition": "25",
-            "target": "RIBOMBEE",
-            "extra": "0"
-        }
-    ],
-    "evolve_from": [],
     "tm": [
         "MOVE_CALMMIND",
         "MOVE_TOXIC",

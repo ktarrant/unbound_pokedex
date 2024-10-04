@@ -30,6 +30,7 @@
     "noFlip": true,
     "blurb": "If it pulls the long white hair on its head, its fighting spirit heightens and power wells up from deep in its belly.",
     "name": "Kubfu",
+    "evolve_from": [],
     "learnset": [
         {
             "level": 1,
@@ -92,7 +93,6 @@
             "move": "MOVE_FOCUSPUNCH"
         }
     ],
-    "evolve_from": [],
     "tm": [
         "MOVE_FOCUSPUNCH",
         "MOVE_TOXIC",

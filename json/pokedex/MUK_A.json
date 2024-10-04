@@ -29,6 +29,9 @@
     "hiddenAbility": "ABILITY_RECEIVER",
     "noFlip": true,
     "blurb": "The garbage it eats causes continuous chemical changes in its body, which produce its vivid coloration.",
+    "evolve_from": [
+        "GRIMER_A"
+    ],
     "learnset": [
         {
             "level": 0,
@@ -106,9 +109,6 @@
             "level": 57,
             "move": "MOVE_MEMENTO"
         }
-    ],
-    "evolve_from": [
-        "GRIMER_A"
     ],
     "tm": [
         "MOVE_FOCUSPUNCH",

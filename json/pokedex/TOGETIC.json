@@ -28,7 +28,18 @@
     "safariZoneFleeRate": 0,
     "hiddenAbility": "ABILITY_SUPERLUCK",
     "noFlip": true,
+    "evolve_to": [
+        {
+            "method": "EVO_ITEM",
+            "condition": "ITEM_SHINY_STONE",
+            "target": "TOGEKISS",
+            "extra": "0"
+        }
+    ],
     "name": "Togetic",
+    "evolve_from": [
+        "TOGEPI"
+    ],
     "learnset": [
         {
             "level": 0,
@@ -114,17 +125,6 @@
             "level": 56,
             "move": "MOVE_WISH"
         }
-    ],
-    "evolve_to": [
-        {
-            "method": "EVO_ITEM",
-            "condition": "ITEM_SHINY_STONE",
-            "target": "TOGEKISS",
-            "extra": "0"
-        }
-    ],
-    "evolve_from": [
-        "TOGEPI"
     ],
     "tm": [
         "MOVE_FOCUSPUNCH",

@@ -40,7 +40,16 @@
         "MOVE_CAPTIVATE",
         "MOVE_HIGHHORSEPOWER"
     ],
+    "evolve_to": [
+        {
+            "method": "EVO_LEVEL",
+            "condition": "40",
+            "target": "RAPIDASH",
+            "extra": "0"
+        }
+    ],
     "name": "Ponyta",
+    "evolve_from": [],
     "learnset": [
         {
             "level": 1,
@@ -103,15 +112,6 @@
             "move": "MOVE_FLAREBLITZ"
         }
     ],
-    "evolve_to": [
-        {
-            "method": "EVO_LEVEL",
-            "condition": "40",
-            "target": "RAPIDASH",
-            "extra": "0"
-        }
-    ],
-    "evolve_from": [],
     "tm": [
         "MOVE_TOXIC",
         "MOVE_HIDDENPOWER",

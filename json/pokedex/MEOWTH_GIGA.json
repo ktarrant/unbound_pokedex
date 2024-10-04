@@ -28,7 +28,16 @@
     "safariZoneFleeRate": 0,
     "hiddenAbility": "ABILITY_UNNERVE",
     "noFlip": true,
+    "evolve_to": [
+        {
+            "method": "EVO_GIGANTAMAX",
+            "condition": "FALSE",
+            "target": "MEOWTH",
+            "extra": "0"
+        }
+    ],
     "name": "Meowth",
+    "evolve_from": [],
     "learnset": [
         {
             "level": 1,
@@ -87,15 +96,70 @@
             "move": "MOVE_PLAYROUGH"
         }
     ],
-    "evolve_to": [
-        {
-            "method": "EVO_GIGANTAMAX",
-            "condition": "FALSE",
-            "target": "MEOWTH",
-            "extra": "0"
-        }
+    "tm": [
+        "MOVE_TOXIC",
+        "MOVE_HIDDENPOWER",
+        "MOVE_SUNNYDAY",
+        "MOVE_TAUNT",
+        "MOVE_PROTECT",
+        "MOVE_RAINDANCE",
+        "MOVE_FRUSTRATION",
+        "MOVE_IRONTAIL",
+        "MOVE_THUNDERBOLT",
+        "MOVE_THUNDER",
+        "MOVE_RETURN",
+        "MOVE_DIG",
+        "MOVE_SHADOWBALL",
+        "MOVE_DOUBLETEAM",
+        "MOVE_SHOCKWAVE",
+        "MOVE_AERIALACE",
+        "MOVE_TORMENT",
+        "MOVE_FACADE",
+        "MOVE_SECRETPOWER",
+        "MOVE_REST",
+        "MOVE_ATTRACT",
+        "MOVE_THIEF",
+        "MOVE_HONECLAWS",
+        "MOVE_ENDURE",
+        "MOVE_SHADOWCLAW",
+        "MOVE_PAYBACK",
+        "MOVE_FLASH",
+        "MOVE_GYROBALL",
+        "MOVE_SWORDSDANCE",
+        "MOVE_DARKPULSE",
+        "MOVE_SLEEPTALK",
+        "MOVE_SWAGGER",
+        "MOVE_UTURN",
+        "MOVE_SUBSTITUTE",
+        "MOVE_WORKUP",
+        "MOVE_ROUND",
+        "MOVE_ECHOEDVOICE",
+        "MOVE_NATURALGIFT",
+        "MOVE_CUT",
+        "MOVE_STRENGTH"
     ],
-    "evolve_from": [],
-    "tm": [],
-    "tutor": []
+    "tutor": [
+        "MOVE_SNORE",
+        "MOVE_UPROAR",
+        "MOVE_COVET",
+        "MOVE_SNATCH",
+        "MOVE_SPITE",
+        "MOVE_IRONDEFENSE",
+        "MOVE_IRONHEAD",
+        "MOVE_SEEDBOMB",
+        "MOVE_FOULPLAY",
+        "MOVE_THROATCHOP",
+        "MOVE_GUNKSHOT",
+        "MOVE_HYPERVOICE",
+        "MOVE_KNOCKOFF",
+        "MOVE_PSYCHUP",
+        "MOVE_LASTRESORT",
+        "MOVE_CONFIDE",
+        "MOVE_SCREECH",
+        "MOVE_NASTYPLOT",
+        "MOVE_BODYSLAM",
+        "MOVE_CRUNCH",
+        "MOVE_PLAYROUGH",
+        "MOVE_LASHOUT"
+    ]
 }

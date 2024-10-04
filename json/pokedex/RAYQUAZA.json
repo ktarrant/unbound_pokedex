@@ -28,7 +28,6 @@
     "safariZoneFleeRate": 0,
     "hiddenAbility": "ABILITY_SHEDSKIN",
     "noFlip": true,
-    "name": "Rayquaza",
     "evolve_to": [
         {
             "method": "EVO_MEGA",
@@ -37,72 +36,7 @@
             "extra": "MEGA_VARIANT_WISH"
         }
     ],
-    "learnset": [
-        {
-            "level": 1,
-            "move": "MOVE_DRAGONASCENT"
-        },
-        {
-            "level": 1,
-            "move": "MOVE_TWISTER"
-        },
-        {
-            "level": 1,
-            "move": "MOVE_ANCIENTPOWER"
-        },
-        {
-            "level": 1,
-            "move": "MOVE_AIRSLASH"
-        },
-        {
-            "level": 1,
-            "move": "MOVE_SCARYFACE"
-        },
-        {
-            "level": 9,
-            "move": "MOVE_CRUNCH"
-        },
-        {
-            "level": 18,
-            "move": "MOVE_DRAGONDANCE"
-        },
-        {
-            "level": 27,
-            "move": "MOVE_EXTREMESPEED"
-        },
-        {
-            "level": 36,
-            "move": "MOVE_DRAGONPULSE"
-        },
-        {
-            "level": 45,
-            "move": "MOVE_HYPERVOICE"
-        },
-        {
-            "level": 54,
-            "move": "MOVE_REST"
-        },
-        {
-            "level": 63,
-            "move": "MOVE_FLY"
-        },
-        {
-            "level": 72,
-            "move": "MOVE_HURRICANE"
-        },
-        {
-            "level": 81,
-            "move": "MOVE_OUTRAGE"
-        },
-        {
-            "level": 90,
-            "move": "MOVE_HYPERBEAM"
-        },
-        {
-            "level": 100,
-            "move": "MOVE_VCREATE"
-        }
-    ],
+    "name": "Rayquaza",
     "evolve_from": [
         "RAYQUAZA_MEGA"
     ],
@@ -195,5 +129,71 @@
         "MOVE_HYDROPUMP",
         "MOVE_SCALESHOT",
         "MOVE_METEORBEAM"
+    ],
+    "learnset": [
+        {
+            "level": 1,
+            "move": "MOVE_DRAGONASCENT"
+        },
+        {
+            "level": 1,
+            "move": "MOVE_TWISTER"
+        },
+        {
+            "level": 1,
+            "move": "MOVE_ANCIENTPOWER"
+        },
+        {
+            "level": 1,
+            "move": "MOVE_AIRSLASH"
+        },
+        {
+            "level": 1,
+            "move": "MOVE_SCARYFACE"
+        },
+        {
+            "level": 9,
+            "move": "MOVE_CRUNCH"
+        },
+        {
+            "level": 18,
+            "move": "MOVE_DRAGONDANCE"
+        },
+        {
+            "level": 27,
+            "move": "MOVE_EXTREMESPEED"
+        },
+        {
+            "level": 36,
+            "move": "MOVE_DRAGONPULSE"
+        },
+        {
+            "level": 45,
+            "move": "MOVE_HYPERVOICE"
+        },
+        {
+            "level": 54,
+            "move": "MOVE_REST"
+        },
+        {
+            "level": 63,
+            "move": "MOVE_FLY"
+        },
+        {
+            "level": 72,
+            "move": "MOVE_HURRICANE"
+        },
+        {
+            "level": 81,
+            "move": "MOVE_OUTRAGE"
+        },
+        {
+            "level": 90,
+            "move": "MOVE_HYPERBEAM"
+        },
+        {
+            "level": 100,
+            "move": "MOVE_VCREATE"
+        }
     ]
 }

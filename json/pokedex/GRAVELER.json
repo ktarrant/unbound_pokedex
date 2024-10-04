@@ -29,6 +29,9 @@
     "hiddenAbility": "ABILITY_SANDSPIT",
     "noFlip": true,
     "name": "Graveler",
+    "evolve_from": [
+        "GEODUDE"
+    ],
     "learnset": [
         {
             "level": 1,
@@ -98,9 +101,6 @@
             "level": 63,
             "move": "MOVE_EXPLOSION"
         }
-    ],
-    "evolve_from": [
-        "GEODUDE"
     ],
     "tm": [
         "MOVE_FOCUSPUNCH",

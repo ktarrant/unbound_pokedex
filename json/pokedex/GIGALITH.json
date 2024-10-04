@@ -30,6 +30,7 @@
     "noFlip": true,
     "blurb": "The solar rays it absorbs are processed in its energy core and fired as a ball of light.",
     "name": "Gigalith",
+    "evolve_from": [],
     "learnset": [
         {
             "level": 1,
@@ -92,7 +93,6 @@
             "move": "MOVE_EXPLOSION"
         }
     ],
-    "evolve_from": [],
     "tm": [
         "MOVE_TOXIC",
         "MOVE_HIDDENPOWER",

@@ -42,8 +42,17 @@
         "MOVE_SUCKERPUNCH",
         "MOVE_BURNUP"
     ],
+    "evolve_to": [
+        {
+            "method": "EVO_LEVEL",
+            "condition": "17",
+            "target": "PIGNITE",
+            "extra": "0"
+        }
+    ],
     "blurb": "It loves to eat roasted berries, but sometimes it gets too excited and burns them to a crisp.",
     "name": "Tepig",
+    "evolve_from": [],
     "learnset": [
         {
             "level": 1,
@@ -106,15 +115,6 @@
             "move": "MOVE_FLAREBLITZ"
         }
     ],
-    "evolve_to": [
-        {
-            "method": "EVO_LEVEL",
-            "condition": "17",
-            "target": "PIGNITE",
-            "extra": "0"
-        }
-    ],
-    "evolve_from": [],
     "tm": [
         "MOVE_ROAR",
         "MOVE_TOXIC",

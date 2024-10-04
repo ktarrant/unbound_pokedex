@@ -29,6 +29,9 @@
     "hiddenAbility": "ABILITY_SAPSIPPER",
     "noFlip": true,
     "name": "Azumarill",
+    "evolve_from": [
+        "MARILL"
+    ],
     "learnset": [
         {
             "level": 1,
@@ -114,9 +117,6 @@
             "level": 48,
             "move": "MOVE_SUPERPOWER"
         }
-    ],
-    "evolve_from": [
-        "MARILL"
     ],
     "tm": [
         "MOVE_FOCUSPUNCH",

@@ -40,8 +40,17 @@
         "MOVE_SACREDSWORD",
         "MOVE_SECRETSWORD"
     ],
+    "evolve_to": [
+        {
+            "method": "EVO_LEVEL",
+            "condition": "17",
+            "target": "DEWOTT",
+            "extra": "0"
+        }
+    ],
     "blurb": "The scalchop on its stomach isn't just used for battle--it is also used to break open hard berries.",
     "name": "Oshawott",
+    "evolve_from": [],
     "learnset": [
         {
             "level": 1,
@@ -104,15 +113,6 @@
             "move": "MOVE_HYDROPUMP"
         }
     ],
-    "evolve_to": [
-        {
-            "method": "EVO_LEVEL",
-            "condition": "17",
-            "target": "DEWOTT",
-            "extra": "0"
-        }
-    ],
-    "evolve_from": [],
     "tm": [
         "MOVE_WATERPULSE",
         "MOVE_TOXIC",

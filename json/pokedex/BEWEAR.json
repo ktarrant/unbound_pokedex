@@ -30,6 +30,9 @@
     "noFlip": true,
     "blurb": "It boasts tremendous physical strength. Many people call it the most dangerous Pok\u00e9mon in Alola region.",
     "name": "Bewear",
+    "evolve_from": [
+        "STUFFUL"
+    ],
     "learnset": [
         {
             "level": 0,
@@ -99,9 +102,6 @@
             "level": 60,
             "move": "MOVE_SUPERPOWER"
         }
-    ],
-    "evolve_from": [
-        "STUFFUL"
     ],
     "tm": [
         "MOVE_FOCUSPUNCH",

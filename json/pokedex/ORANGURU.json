@@ -38,6 +38,7 @@
     ],
     "blurb": "Known for its extreme intelligence, it will look down on inexperienced Trainers.",
     "name": "Oranguru",
+    "evolve_from": [],
     "learnset": [
         {
             "level": 1,
@@ -100,7 +101,6 @@
             "move": "MOVE_FUTURESIGHT"
         }
     ],
-    "evolve_from": [],
     "tm": [
         "MOVE_CALMMIND",
         "MOVE_TOXIC",

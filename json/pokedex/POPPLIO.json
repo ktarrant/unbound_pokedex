@@ -37,8 +37,17 @@
         "MOVE_WONDERROOM",
         "MOVE_LIFEDEW"
     ],
+    "evolve_to": [
+        {
+            "method": "EVO_LEVEL",
+            "condition": "17",
+            "target": "BRIONNE",
+            "extra": "0"
+        }
+    ],
     "blurb": "The balloons it inflates with its nose grow larger and larger as it practices day by day.",
     "name": "Popplio",
+    "evolve_from": [],
     "learnset": [
         {
             "level": 1,
@@ -109,15 +118,6 @@
             "move": "MOVE_RELICSONG"
         }
     ],
-    "evolve_to": [
-        {
-            "method": "EVO_LEVEL",
-            "condition": "17",
-            "target": "BRIONNE",
-            "extra": "0"
-        }
-    ],
-    "evolve_from": [],
     "tm": [
         "MOVE_WATERPULSE",
         "MOVE_TOXIC",

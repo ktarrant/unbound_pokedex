@@ -30,6 +30,9 @@
     "noFlip": true,
     "blurb": "It loves sweets because they become energy for the fire burning inside its body.",
     "name": "Simisear",
+    "evolve_from": [
+        "PANSEAR"
+    ],
     "learnset": [
         {
             "level": 0,
@@ -99,9 +102,6 @@
             "level": 34,
             "move": "MOVE_FIREBLAST"
         }
-    ],
-    "evolve_from": [
-        "PANSEAR"
     ],
     "tm": [
         "MOVE_FOCUSPUNCH",

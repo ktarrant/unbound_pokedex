@@ -29,6 +29,9 @@
     "hiddenAbility": "ABILITY_DROUGHT",
     "noFlip": true,
     "name": "Ninetales",
+    "evolve_from": [
+        "VULPIX"
+    ],
     "learnset": [
         {
             "level": 1,
@@ -106,9 +109,6 @@
             "level": 58,
             "move": "MOVE_FIREBLAST"
         }
-    ],
-    "evolve_from": [
-        "VULPIX"
     ],
     "tm": [
         "MOVE_CALMMIND",

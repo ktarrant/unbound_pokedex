@@ -28,8 +28,19 @@
     "safariZoneFleeRate": 0,
     "hiddenAbility": "ABILITY_GRASSYSURGE",
     "noFlip": true,
+    "evolve_to": [
+        {
+            "method": "EVO_LEVEL",
+            "condition": "35",
+            "target": "RILLABOOM",
+            "extra": "0"
+        }
+    ],
     "blurb": "The faster a Thwackey can beat out a rhythm with its two sticks, the more respect it wins from its peers.",
     "name": "Thwackey",
+    "evolve_from": [
+        "GROOKEY"
+    ],
     "learnset": [
         {
             "level": 0,
@@ -83,17 +94,6 @@
             "level": 48,
             "move": "MOVE_ENDEAVOR"
         }
-    ],
-    "evolve_to": [
-        {
-            "method": "EVO_LEVEL",
-            "condition": "35",
-            "target": "RILLABOOM",
-            "extra": "0"
-        }
-    ],
-    "evolve_from": [
-        "GROOKEY"
     ],
     "tm": [
         "MOVE_FOCUSPUNCH",

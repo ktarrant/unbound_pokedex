@@ -35,8 +35,17 @@
         "MOVE_GROWTH",
         "MOVE_LEECHSEED"
     ],
+    "evolve_to": [
+        {
+            "method": "EVO_LEVEL",
+            "condition": "24",
+            "target": "SHIINOTIC",
+            "extra": "0"
+        }
+    ],
     "blurb": "It scatters spores that flicker and glow. Anyone seeing these lights falls into a deep slumber.",
     "name": "Morelull",
+    "evolve_from": [],
     "learnset": [
         {
             "level": 1,
@@ -95,15 +104,6 @@
             "move": "MOVE_SPOTLIGHT"
         }
     ],
-    "evolve_to": [
-        {
-            "method": "EVO_LEVEL",
-            "condition": "24",
-            "target": "SHIINOTIC",
-            "extra": "0"
-        }
-    ],
-    "evolve_from": [],
     "tm": [
         "MOVE_TOXIC",
         "MOVE_HIDDENPOWER",

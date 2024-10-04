@@ -41,7 +41,6 @@
         "MOVE_WIDEGUARD",
         "MOVE_DUALWINGBEAT"
     ],
-    "name": "Aerodactyl",
     "evolve_to": [
         {
             "method": "EVO_MEGA",
@@ -50,76 +49,7 @@
             "extra": "MEGA_VARIANT_STANDARD"
         }
     ],
-    "learnset": [
-        {
-            "level": 1,
-            "move": "MOVE_ICEFANG"
-        },
-        {
-            "level": 1,
-            "move": "MOVE_FIREFANG"
-        },
-        {
-            "level": 1,
-            "move": "MOVE_THUNDERFANG"
-        },
-        {
-            "level": 1,
-            "move": "MOVE_BITE"
-        },
-        {
-            "level": 1,
-            "move": "MOVE_ANCIENTPOWER"
-        },
-        {
-            "level": 5,
-            "move": "MOVE_SUPERSONIC"
-        },
-        {
-            "level": 10,
-            "move": "MOVE_WINGATTACK"
-        },
-        {
-            "level": 15,
-            "move": "MOVE_SCARYFACE"
-        },
-        {
-            "level": 20,
-            "move": "MOVE_ROCKSLIDE"
-        },
-        {
-            "level": 25,
-            "move": "MOVE_ROAR"
-        },
-        {
-            "level": 30,
-            "move": "MOVE_CRUNCH"
-        },
-        {
-            "level": 35,
-            "move": "MOVE_IRONHEAD"
-        },
-        {
-            "level": 40,
-            "move": "MOVE_TAKEDOWN"
-        },
-        {
-            "level": 45,
-            "move": "MOVE_STONEEDGE"
-        },
-        {
-            "level": 50,
-            "move": "MOVE_AGILITY"
-        },
-        {
-            "level": 55,
-            "move": "MOVE_SKYDROP"
-        },
-        {
-            "level": 60,
-            "move": "MOVE_GIGAIMPACT"
-        }
-    ],
+    "name": "Aerodactyl",
     "evolve_from": [
         "AERODACTYL_MEGA"
     ],
@@ -197,5 +127,75 @@
         "MOVE_HURRICANE",
         "MOVE_METEORBEAM",
         "MOVE_DUALWINGBEAT"
+    ],
+    "learnset": [
+        {
+            "level": 1,
+            "move": "MOVE_ICEFANG"
+        },
+        {
+            "level": 1,
+            "move": "MOVE_FIREFANG"
+        },
+        {
+            "level": 1,
+            "move": "MOVE_THUNDERFANG"
+        },
+        {
+            "level": 1,
+            "move": "MOVE_BITE"
+        },
+        {
+            "level": 1,
+            "move": "MOVE_ANCIENTPOWER"
+        },
+        {
+            "level": 5,
+            "move": "MOVE_SUPERSONIC"
+        },
+        {
+            "level": 10,
+            "move": "MOVE_WINGATTACK"
+        },
+        {
+            "level": 15,
+            "move": "MOVE_SCARYFACE"
+        },
+        {
+            "level": 20,
+            "move": "MOVE_ROCKSLIDE"
+        },
+        {
+            "level": 25,
+            "move": "MOVE_ROAR"
+        },
+        {
+            "level": 30,
+            "move": "MOVE_CRUNCH"
+        },
+        {
+            "level": 35,
+            "move": "MOVE_IRONHEAD"
+        },
+        {
+            "level": 40,
+            "move": "MOVE_TAKEDOWN"
+        },
+        {
+            "level": 45,
+            "move": "MOVE_STONEEDGE"
+        },
+        {
+            "level": 50,
+            "move": "MOVE_AGILITY"
+        },
+        {
+            "level": 55,
+            "move": "MOVE_SKYDROP"
+        },
+        {
+            "level": 60,
+            "move": "MOVE_GIGAIMPACT"
+        }
     ]
 }

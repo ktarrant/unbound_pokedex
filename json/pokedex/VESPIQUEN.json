@@ -30,6 +30,9 @@
     "noFlip": true,
     "blurb": "It raises grubs in the holes in its body. It secretes pheromones to control Combee.",
     "name": "Vespiquen",
+    "evolve_from": [
+        "COMBEE"
+    ],
     "learnset": [
         {
             "level": 0,
@@ -127,9 +130,6 @@
             "level": 53,
             "move": "MOVE_DESTINYBOND"
         }
-    ],
-    "evolve_from": [
-        "COMBEE"
     ],
     "tm": [
         "MOVE_TOXIC",

@@ -30,6 +30,7 @@
     "noFlip": true,
     "blurb": "While chanting strange spells, Slowking combines its internal toxins with what it's eaten, creating strange potions.",
     "name": "Slowking",
+    "evolve_from": [],
     "learnset": [
         {
             "level": 0,
@@ -116,7 +117,6 @@
             "move": "MOVE_HEALPULSE"
         }
     ],
-    "evolve_from": [],
     "tm": [
         "MOVE_FOCUSPUNCH",
         "MOVE_WATERPULSE",

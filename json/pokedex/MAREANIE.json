@@ -35,8 +35,17 @@
         "MOVE_HAZE",
         "MOVE_INFESTATION"
     ],
+    "evolve_to": [
+        {
+            "method": "EVO_LEVEL",
+            "condition": "38",
+            "target": "TOXAPEX",
+            "extra": "0"
+        }
+    ],
     "blurb": "Aside from its head, its body parts regenerate quickly if they're cut off.",
     "name": "Mareanie",
+    "evolve_from": [],
     "learnset": [
         {
             "level": 1,
@@ -91,15 +100,6 @@
             "move": "MOVE_TOXIC"
         }
     ],
-    "evolve_to": [
-        {
-            "method": "EVO_LEVEL",
-            "condition": "38",
-            "target": "TOXAPEX",
-            "extra": "0"
-        }
-    ],
-    "evolve_from": [],
     "tm": [
         "MOVE_WATERPULSE",
         "MOVE_TOXIC",

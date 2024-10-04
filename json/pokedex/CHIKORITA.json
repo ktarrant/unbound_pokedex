@@ -42,7 +42,16 @@
         "MOVE_HEALPULSE",
         "MOVE_GRASSYTERRAIN"
     ],
+    "evolve_to": [
+        {
+            "method": "EVO_LEVEL",
+            "condition": "16",
+            "target": "BAYLEEF",
+            "extra": "0"
+        }
+    ],
     "name": "Chikorita",
+    "evolve_from": [],
     "learnset": [
         {
             "level": 1,
@@ -109,15 +118,6 @@
             "move": "MOVE_LEAFSTORM"
         }
     ],
-    "evolve_to": [
-        {
-            "method": "EVO_LEVEL",
-            "condition": "16",
-            "target": "BAYLEEF",
-            "extra": "0"
-        }
-    ],
-    "evolve_from": [],
     "tm": [
         "MOVE_TOXIC",
         "MOVE_BULLETSEED",

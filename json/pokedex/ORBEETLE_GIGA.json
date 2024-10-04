@@ -28,7 +28,18 @@
     "safariZoneFleeRate": 0,
     "hiddenAbility": "ABILITY_TELEPATHY",
     "noFlip": true,
+    "evolve_to": [
+        {
+            "method": "EVO_GIGANTAMAX",
+            "condition": "FALSE",
+            "target": "ORBEETLE",
+            "extra": "0"
+        }
+    ],
     "name": "Orbeetle",
+    "evolve_from": [
+        "ORBEETLE"
+    ],
     "learnset": [
         {
             "level": 0,
@@ -99,17 +110,73 @@
             "move": "MOVE_PSYCHICTERRAIN"
         }
     ],
-    "evolve_to": [
-        {
-            "method": "EVO_GIGANTAMAX",
-            "condition": "FALSE",
-            "target": "ORBEETLE",
-            "extra": "0"
-        }
+    "tm": [
+        "MOVE_CALMMIND",
+        "MOVE_TOXIC",
+        "MOVE_HIDDENPOWER",
+        "MOVE_HYPERBEAM",
+        "MOVE_LIGHTSCREEN",
+        "MOVE_PROTECT",
+        "MOVE_GIGADRAIN",
+        "MOVE_SAFEGUARD",
+        "MOVE_FRUSTRATION",
+        "MOVE_SOLARBEAM",
+        "MOVE_RETURN",
+        "MOVE_PSYCHIC",
+        "MOVE_SHADOWBALL",
+        "MOVE_DOUBLETEAM",
+        "MOVE_REFLECT",
+        "MOVE_SHOCKWAVE",
+        "MOVE_AERIALACE",
+        "MOVE_FACADE",
+        "MOVE_SECRETPOWER",
+        "MOVE_REST",
+        "MOVE_ATTRACT",
+        "MOVE_SKILLSWAP",
+        "MOVE_LEECHFANG",
+        "MOVE_ROOST",
+        "MOVE_ENERGYBALL",
+        "MOVE_CHARGEBEAM",
+        "MOVE_ENDURE",
+        "MOVE_SILVERWIND",
+        "MOVE_PAYBACK",
+        "MOVE_GIGAIMPACT",
+        "MOVE_FLASH",
+        "MOVE_SLEEPTALK",
+        "MOVE_DREAMEATER",
+        "MOVE_SWAGGER",
+        "MOVE_UTURN",
+        "MOVE_SUBSTITUTE",
+        "MOVE_STRUGGLEBUG",
+        "MOVE_INFESTATION",
+        "MOVE_PSYSHOCK",
+        "MOVE_ROUND",
+        "MOVE_NATURALGIFT",
+        "MOVE_TRICKROOM"
     ],
-    "evolve_from": [
-        "ORBEETLE"
-    ],
-    "tm": [],
-    "tutor": []
+    "tutor": [
+        "MOVE_SNORE",
+        "MOVE_HELPINGHAND",
+        "MOVE_BUGBITE",
+        "MOVE_AFTERYOU",
+        "MOVE_SIGNALBEAM",
+        "MOVE_GRAVITY",
+        "MOVE_IRONDEFENSE",
+        "MOVE_TELEKINESIS",
+        "MOVE_ROLEPLAY",
+        "MOVE_ZENHEADBUTT",
+        "MOVE_TRICK",
+        "MOVE_MAGICCOAT",
+        "MOVE_MAGICROOM",
+        "MOVE_WONDERROOM",
+        "MOVE_CONFIDE",
+        "MOVE_BATONPASS",
+        "MOVE_AGILITY",
+        "MOVE_PSYCHICTERRAIN",
+        "MOVE_BODYPRESS",
+        "MOVE_STOREDPOWER",
+        "MOVE_BUGBUZZ",
+        "MOVE_PSYCHOCUT",
+        "MOVE_EXPANDINGFORCE"
+    ]
 }

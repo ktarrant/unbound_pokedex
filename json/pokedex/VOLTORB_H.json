@@ -28,8 +28,17 @@
     "safariZoneFleeRate": 0,
     "hiddenAbility": "ABILITY_AFTERMATH",
     "noFlip": true,
+    "evolve_to": [
+        {
+            "method": "EVO_ITEM",
+            "condition": "ITEM_LEAF_STONE",
+            "target": "ELECTRODE_H",
+            "extra": "0"
+        }
+    ],
     "blurb": "When excited, Voltorb discharges the electric current it has stored in its belly, then lets out a great laugh.",
     "name": "Voltorb",
+    "evolve_from": [],
     "learnset": [
         {
             "level": 1,
@@ -100,15 +109,6 @@
             "move": "MOVE_MIRRORCOAT"
         }
     ],
-    "evolve_to": [
-        {
-            "method": "EVO_ITEM",
-            "condition": "ITEM_LEAF_STONE",
-            "target": "ELECTRODE_H",
-            "extra": "0"
-        }
-    ],
-    "evolve_from": [],
     "tm": [
         "MOVE_TOXIC",
         "MOVE_BULLETSEED",

@@ -41,6 +41,7 @@
         "MOVE_DRAGONHAMMER"
     ],
     "name": "Tropius",
+    "evolve_from": [],
     "learnset": [
         {
             "level": 1,
@@ -115,7 +116,6 @@
             "move": "MOVE_LEAFSTORM"
         }
     ],
-    "evolve_from": [],
     "tm": [
         "MOVE_ROAR",
         "MOVE_TOXIC",

@@ -29,6 +29,9 @@
     "hiddenAbility": "ABILITY_MAGICBOUNCE",
     "noFlip": true,
     "name": "Grumpig",
+    "evolve_from": [
+        "SPOINK"
+    ],
     "learnset": [
         {
             "level": 0,
@@ -102,9 +105,6 @@
             "level": 54,
             "move": "MOVE_EERIESPELL"
         }
-    ],
-    "evolve_from": [
-        "SPOINK"
     ],
     "tm": [
         "MOVE_FOCUSPUNCH",

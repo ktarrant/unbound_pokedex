@@ -37,6 +37,7 @@
     ],
     "blurb": "Because it eats nothing but sweets, its fur is as sticky sweet as cotton candy.",
     "name": "Swirlix",
+    "evolve_from": [],
     "learnset": [
         {
             "level": 1,
@@ -99,7 +100,6 @@
             "move": "MOVE_ENDEAVOR"
         }
     ],
-    "evolve_from": [],
     "tm": [
         "MOVE_CALMMIND",
         "MOVE_TOXIC",

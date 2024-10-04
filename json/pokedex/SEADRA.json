@@ -29,6 +29,9 @@
     "hiddenAbility": "ABILITY_DAMP",
     "noFlip": true,
     "name": "Seadra",
+    "evolve_from": [
+        "HORSEA"
+    ],
     "learnset": [
         {
             "level": 1,
@@ -90,9 +93,6 @@
             "level": 65,
             "move": "MOVE_RAINDANCE"
         }
-    ],
-    "evolve_from": [
-        "HORSEA"
     ],
     "tm": [
         "MOVE_WATERPULSE",

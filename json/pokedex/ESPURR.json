@@ -38,6 +38,7 @@
     ],
     "blurb": "The organ that emits its intense psychic power is sheltered by its ears to keep power from leaking out.",
     "name": "Espurr",
+    "evolve_from": [],
     "learnset": [
         {
             "level": 1,
@@ -80,7 +81,6 @@
             "move": "MOVE_PSYSHOCK"
         }
     ],
-    "evolve_from": [],
     "tm": [
         "MOVE_CALMMIND",
         "MOVE_TOXIC",

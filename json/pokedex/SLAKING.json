@@ -29,6 +29,9 @@
     "hiddenAbility": "ABILITY_NONE",
     "noFlip": true,
     "name": "Slaking",
+    "evolve_from": [
+        "VIGOROTH"
+    ],
     "learnset": [
         {
             "level": 0,
@@ -126,9 +129,6 @@
             "level": 65,
             "move": "MOVE_GIGAIMPACT"
         }
-    ],
-    "evolve_from": [
-        "VIGOROTH"
     ],
     "tm": [
         "MOVE_FOCUSPUNCH",

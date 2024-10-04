@@ -28,6 +28,7 @@
     "safariZoneFleeRate": 0,
     "hiddenAbility": "ABILITY_DEFIANT",
     "noFlip": true,
+    "evolve_from": [],
     "learnset": [
         {
             "level": 1,
@@ -98,7 +99,6 @@
             "move": "MOVE_PERISHSONG"
         }
     ],
-    "evolve_from": [],
     "tm": [
         "MOVE_FOCUSPUNCH",
         "MOVE_CALMMIND",

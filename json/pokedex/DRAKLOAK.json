@@ -28,8 +28,19 @@
     "safariZoneFleeRate": 0,
     "hiddenAbility": "ABILITY_CURSEDBODY",
     "noFlip": true,
+    "evolve_to": [
+        {
+            "method": "EVO_LEVEL",
+            "condition": "60",
+            "target": "DRAGAPULT",
+            "extra": "0"
+        }
+    ],
     "blurb": "It's capable of flying faster than 120 mph. It battles alongside Dreepy and dotes on them until they evolve.",
     "name": "Drakloak",
+    "evolve_from": [
+        "DREEPY"
+    ],
     "learnset": [
         {
             "level": 0,
@@ -103,17 +114,6 @@
             "level": 72,
             "move": "MOVE_DRAGONDANCE"
         }
-    ],
-    "evolve_to": [
-        {
-            "method": "EVO_LEVEL",
-            "condition": "60",
-            "target": "DRAGAPULT",
-            "extra": "0"
-        }
-    ],
-    "evolve_from": [
-        "DREEPY"
     ],
     "tm": [
         "MOVE_WATERPULSE",

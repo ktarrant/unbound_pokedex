@@ -28,7 +28,18 @@
     "safariZoneFleeRate": 0,
     "hiddenAbility": "ABILITY_SHEERFORCE",
     "noFlip": true,
+    "evolve_to": [
+        {
+            "method": "EVO_GIGANTAMAX",
+            "condition": "FALSE",
+            "target": "KINGLER",
+            "extra": "0"
+        }
+    ],
     "name": "Kingler",
+    "evolve_from": [
+        "KINGLER"
+    ],
     "learnset": [
         {
             "level": 1,
@@ -107,17 +118,64 @@
             "move": "MOVE_GUILLOTINE"
         }
     ],
-    "evolve_to": [
-        {
-            "method": "EVO_GIGANTAMAX",
-            "condition": "FALSE",
-            "target": "KINGLER",
-            "extra": "0"
-        }
+    "tm": [
+        "MOVE_WATERPULSE",
+        "MOVE_TOXIC",
+        "MOVE_HAIL",
+        "MOVE_HIDDENPOWER",
+        "MOVE_ICEBEAM",
+        "MOVE_BLIZZARD",
+        "MOVE_HYPERBEAM",
+        "MOVE_PROTECT",
+        "MOVE_RAINDANCE",
+        "MOVE_FRUSTRATION",
+        "MOVE_RETURN",
+        "MOVE_DIG",
+        "MOVE_BRICKBREAK",
+        "MOVE_DOUBLETEAM",
+        "MOVE_ROCKTOMB",
+        "MOVE_FACADE",
+        "MOVE_SECRETPOWER",
+        "MOVE_REST",
+        "MOVE_ATTRACT",
+        "MOVE_THIEF",
+        "MOVE_FALSESWIPE",
+        "MOVE_BRINE",
+        "MOVE_HONECLAWS",
+        "MOVE_ENDURE",
+        "MOVE_GIGAIMPACT",
+        "MOVE_SWORDSDANCE",
+        "MOVE_ROCKSLIDE",
+        "MOVE_XSCISSOR",
+        "MOVE_SLEEPTALK",
+        "MOVE_SCALD",
+        "MOVE_SWAGGER",
+        "MOVE_SUBSTITUTE",
+        "MOVE_BRUTALSWING",
+        "MOVE_ROUND",
+        "MOVE_NATURALGIFT",
+        "MOVE_QUASH",
+        "MOVE_FLING",
+        "MOVE_CUT",
+        "MOVE_SURF",
+        "MOVE_STRENGTH",
+        "MOVE_DIVE",
+        "MOVE_ROCKSMASH"
     ],
-    "evolve_from": [
-        "KINGLER"
-    ],
-    "tm": [],
-    "tutor": []
+    "tutor": [
+        "MOVE_SNORE",
+        "MOVE_IRONDEFENSE",
+        "MOVE_ICYWIND",
+        "MOVE_LIQUIDATION",
+        "MOVE_STOMPINGTANTRUM",
+        "MOVE_SUPERPOWER",
+        "MOVE_KNOCKOFF",
+        "MOVE_CONFIDE",
+        "MOVE_AGILITY",
+        "MOVE_WHIRLPOOL",
+        "MOVE_BODYSLAM",
+        "MOVE_RAZORSHELL",
+        "MOVE_HIGHHORSEPOWER",
+        "MOVE_HYDROPUMP"
+    ]
 }

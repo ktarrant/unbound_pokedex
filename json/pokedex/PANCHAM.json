@@ -39,8 +39,17 @@
         "MOVE_KARATECHOP",
         "MOVE_VITALTHROW"
     ],
+    "evolve_to": [
+        {
+            "method": "EVO_TYPE_IN_PARTY",
+            "condition": "32",
+            "target": "PANGORO",
+            "extra": "TYPE_DARK"
+        }
+    ],
     "blurb": "It grows up imitating the behavior of Pangoro, which it looks up to as a leader.",
     "name": "Pancham",
+    "evolve_from": [],
     "learnset": [
         {
             "level": 1,
@@ -99,15 +108,6 @@
             "move": "MOVE_SKYUPPERCUT"
         }
     ],
-    "evolve_to": [
-        {
-            "method": "EVO_TYPE_IN_PARTY",
-            "condition": "32",
-            "target": "PANGORO",
-            "extra": "TYPE_DARK"
-        }
-    ],
-    "evolve_from": [],
     "tm": [
         "MOVE_FOCUSPUNCH",
         "MOVE_ROAR",

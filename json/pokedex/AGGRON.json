@@ -28,7 +28,6 @@
     "safariZoneFleeRate": 0,
     "hiddenAbility": "ABILITY_HEAVYMETAL",
     "noFlip": true,
-    "name": "Aggron",
     "evolve_to": [
         {
             "method": "EVO_MEGA",
@@ -37,80 +36,7 @@
             "extra": "MEGA_VARIANT_STANDARD"
         }
     ],
-    "learnset": [
-        {
-            "level": 1,
-            "move": "MOVE_TACKLE"
-        },
-        {
-            "level": 1,
-            "move": "MOVE_HARDEN"
-        },
-        {
-            "level": 1,
-            "move": "MOVE_MUDSLAP"
-        },
-        {
-            "level": 1,
-            "move": "MOVE_METALCLAW"
-        },
-        {
-            "level": 8,
-            "move": "MOVE_ROCKTOMB"
-        },
-        {
-            "level": 12,
-            "move": "MOVE_ROAR"
-        },
-        {
-            "level": 15,
-            "move": "MOVE_HEADBUTT"
-        },
-        {
-            "level": 19,
-            "move": "MOVE_PROTECT"
-        },
-        {
-            "level": 22,
-            "move": "MOVE_ROCKSLIDE"
-        },
-        {
-            "level": 26,
-            "move": "MOVE_IRONHEAD"
-        },
-        {
-            "level": 30,
-            "move": "MOVE_METALSOUND"
-        },
-        {
-            "level": 35,
-            "move": "MOVE_TAKEDOWN"
-        },
-        {
-            "level": 40,
-            "move": "MOVE_AUTOTOMIZE"
-        },
-        {
-            "level": 46,
-            "move": "MOVE_IRONTAIL"
-        },
-        {
-            "level": 52,
-            "move": "MOVE_IRONDEFENSE"
-        },
-        {
-            "level": 57,
-            "move": "MOVE_HEAVYSLAM"
-        },
-        {
-            "level": 63,
-            "move": "MOVE_DOUBLEEDGE"
-        },
-        {
-            "level": 69,
-            "move": "MOVE_METALBURST"
-        }
-    ],
+    "name": "Aggron",
     "evolve_from": [
         "LAIRON",
         "AGGRON_MEGA"
@@ -217,5 +143,79 @@
         "MOVE_HYDROPUMP",
         "MOVE_POLTERGEIST",
         "MOVE_METEORBEAM"
+    ],
+    "learnset": [
+        {
+            "level": 1,
+            "move": "MOVE_TACKLE"
+        },
+        {
+            "level": 1,
+            "move": "MOVE_HARDEN"
+        },
+        {
+            "level": 1,
+            "move": "MOVE_MUDSLAP"
+        },
+        {
+            "level": 1,
+            "move": "MOVE_METALCLAW"
+        },
+        {
+            "level": 8,
+            "move": "MOVE_ROCKTOMB"
+        },
+        {
+            "level": 12,
+            "move": "MOVE_ROAR"
+        },
+        {
+            "level": 15,
+            "move": "MOVE_HEADBUTT"
+        },
+        {
+            "level": 19,
+            "move": "MOVE_PROTECT"
+        },
+        {
+            "level": 22,
+            "move": "MOVE_ROCKSLIDE"
+        },
+        {
+            "level": 26,
+            "move": "MOVE_IRONHEAD"
+        },
+        {
+            "level": 30,
+            "move": "MOVE_METALSOUND"
+        },
+        {
+            "level": 35,
+            "move": "MOVE_TAKEDOWN"
+        },
+        {
+            "level": 40,
+            "move": "MOVE_AUTOTOMIZE"
+        },
+        {
+            "level": 46,
+            "move": "MOVE_IRONTAIL"
+        },
+        {
+            "level": 52,
+            "move": "MOVE_IRONDEFENSE"
+        },
+        {
+            "level": 57,
+            "move": "MOVE_HEAVYSLAM"
+        },
+        {
+            "level": 63,
+            "move": "MOVE_DOUBLEEDGE"
+        },
+        {
+            "level": 69,
+            "move": "MOVE_METALBURST"
+        }
     ]
 }

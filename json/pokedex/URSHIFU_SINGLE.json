@@ -28,8 +28,6 @@
     "safariZoneFleeRate": 0,
     "hiddenAbility": "ABILITY_NONE",
     "noFlip": true,
-    "blurb": "Inhabiting the mountains of a distant region, it races across sheer cliffs, training its legs and refining its moves.",
-    "name": "Urshifu",
     "evolve_to": [
         {
             "method": "EVO_GIGANTAMAX",
@@ -38,76 +36,8 @@
             "extra": "0"
         }
     ],
-    "learnset": [
-        {
-            "level": 0,
-            "move": "MOVE_SURGINGSTRIKES"
-        },
-        {
-            "level": 1,
-            "move": "MOVE_AQUAJET"
-        },
-        {
-            "level": 1,
-            "move": "MOVE_ROCKSMASH"
-        },
-        {
-            "level": 1,
-            "move": "MOVE_LEER"
-        },
-        {
-            "level": 4,
-            "move": "MOVE_ENDURE"
-        },
-        {
-            "level": 8,
-            "move": "MOVE_FOCUSENERGY"
-        },
-        {
-            "level": 12,
-            "move": "MOVE_AERIALACE"
-        },
-        {
-            "level": 16,
-            "move": "MOVE_SCARYFACE"
-        },
-        {
-            "level": 20,
-            "move": "MOVE_HEADBUTT"
-        },
-        {
-            "level": 24,
-            "move": "MOVE_BRICKBREAK"
-        },
-        {
-            "level": 28,
-            "move": "MOVE_DETECT"
-        },
-        {
-            "level": 32,
-            "move": "MOVE_BULKUP"
-        },
-        {
-            "level": 36,
-            "move": "MOVE_IRONHEAD"
-        },
-        {
-            "level": 40,
-            "move": "MOVE_DYNAMICPUNCH"
-        },
-        {
-            "level": 44,
-            "move": "MOVE_COUNTER"
-        },
-        {
-            "level": 48,
-            "move": "MOVE_CLOSECOMBAT"
-        },
-        {
-            "level": 52,
-            "move": "MOVE_FOCUSPUNCH"
-        }
-    ],
+    "blurb": "Inhabiting the mountains of a distant region, it races across sheer cliffs, training its legs and refining its moves.",
+    "name": "Urshifu",
     "evolve_from": [
         "URSHIFU_SINGLE_GIGA"
     ],
@@ -189,5 +119,75 @@
         "MOVE_CLOSECOMBAT",
         "MOVE_LASHOUT",
         "MOVE_COACHING"
+    ],
+    "learnset": [
+        {
+            "level": 0,
+            "move": "MOVE_SURGINGSTRIKES"
+        },
+        {
+            "level": 1,
+            "move": "MOVE_AQUAJET"
+        },
+        {
+            "level": 1,
+            "move": "MOVE_ROCKSMASH"
+        },
+        {
+            "level": 1,
+            "move": "MOVE_LEER"
+        },
+        {
+            "level": 4,
+            "move": "MOVE_ENDURE"
+        },
+        {
+            "level": 8,
+            "move": "MOVE_FOCUSENERGY"
+        },
+        {
+            "level": 12,
+            "move": "MOVE_AERIALACE"
+        },
+        {
+            "level": 16,
+            "move": "MOVE_SCARYFACE"
+        },
+        {
+            "level": 20,
+            "move": "MOVE_HEADBUTT"
+        },
+        {
+            "level": 24,
+            "move": "MOVE_BRICKBREAK"
+        },
+        {
+            "level": 28,
+            "move": "MOVE_DETECT"
+        },
+        {
+            "level": 32,
+            "move": "MOVE_BULKUP"
+        },
+        {
+            "level": 36,
+            "move": "MOVE_IRONHEAD"
+        },
+        {
+            "level": 40,
+            "move": "MOVE_DYNAMICPUNCH"
+        },
+        {
+            "level": 44,
+            "move": "MOVE_COUNTER"
+        },
+        {
+            "level": 48,
+            "move": "MOVE_CLOSECOMBAT"
+        },
+        {
+            "level": 52,
+            "move": "MOVE_FOCUSPUNCH"
+        }
     ]
 }

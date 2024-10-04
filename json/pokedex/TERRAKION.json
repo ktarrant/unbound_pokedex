@@ -30,6 +30,7 @@
     "noFlip": true,
     "blurb": "This Pok\u00e9mon came to the defense of Pok\u00e9mon that had lost their homes in a war among humans.",
     "name": "Terrakion",
+    "evolve_from": [],
     "learnset": [
         {
             "level": 1,
@@ -88,7 +89,6 @@
             "move": "MOVE_CLOSECOMBAT"
         }
     ],
-    "evolve_from": [],
     "tm": [
         "MOVE_CALMMIND",
         "MOVE_ROAR",

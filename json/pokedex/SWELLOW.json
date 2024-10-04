@@ -29,6 +29,9 @@
     "hiddenAbility": "ABILITY_SCRAPPY",
     "noFlip": true,
     "name": "Swellow",
+    "evolve_from": [
+        "TAILLOW"
+    ],
     "learnset": [
         {
             "level": 1,
@@ -98,9 +101,6 @@
             "level": 71,
             "move": "MOVE_BOOMBURST"
         }
-    ],
-    "evolve_from": [
-        "TAILLOW"
     ],
     "tm": [
         "MOVE_TOXIC",

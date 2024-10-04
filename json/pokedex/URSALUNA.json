@@ -30,6 +30,9 @@
     "noFlip": true,
     "blurb": "Swampy terrain gave Ursaluna its burly physique and newfound capacity to manipulate peat at will.",
     "name": "Ursaluna",
+    "evolve_from": [
+        "URSARING"
+    ],
     "learnset": [
         {
             "level": 1,
@@ -119,9 +122,6 @@
             "level": 70,
             "move": "MOVE_HEADLONGRUSH"
         }
-    ],
-    "evolve_from": [
-        "URSARING"
     ],
     "tm": [
         "MOVE_FOCUSPUNCH",

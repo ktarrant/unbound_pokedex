@@ -30,6 +30,9 @@
     "noFlip": true,
     "blurb": "As it absorbs light, Cosmoem continues to grow. Its golden shell is surprisingly solid.",
     "name": "Cosmoem",
+    "evolve_from": [
+        "COSMOG"
+    ],
     "learnset": [
         {
             "level": 0,
@@ -44,10 +47,6 @@
             "move": "MOVE_COSMICPOWER"
         }
     ],
-    "evolve_from": [
-        "COSMOG"
-    ],
-    "tm": [],
     "tutor": [
         "MOVE_COSMICPOWER"
     ]

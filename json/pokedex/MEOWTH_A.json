@@ -45,7 +45,16 @@
         "MOVE_CAPTIVATE",
         "MOVE_NIGHTDAZE"
     ],
+    "evolve_to": [
+        {
+            "method": "EVO_FRIENDSHIP",
+            "condition": "0",
+            "target": "PERSIAN_A",
+            "extra": "0"
+        }
+    ],
     "blurb": "It's impulsive, selfish, and fickle. It's very popular with Trainers who like giving it the attention it needs.",
+    "evolve_from": [],
     "learnset": [
         {
             "level": 1,
@@ -108,15 +117,6 @@
             "move": "MOVE_DARKPULSE"
         }
     ],
-    "evolve_to": [
-        {
-            "method": "EVO_FRIENDSHIP",
-            "condition": "0",
-            "target": "PERSIAN_A",
-            "extra": "0"
-        }
-    ],
-    "evolve_from": [],
     "tm": [
         "MOVE_WATERPULSE",
         "MOVE_TOXIC",

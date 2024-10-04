@@ -41,8 +41,6 @@
         "MOVE_AMNESIA",
         "MOVE_DRAININGKISS"
     ],
-    "blurb": "Using the feelers on its ears, it can tell how someone is feeling or when an egg might hatch.",
-    "name": "Audino",
     "evolve_to": [
         {
             "method": "EVO_MEGA",
@@ -51,88 +49,8 @@
             "extra": "MEGA_VARIANT_STANDARD"
         }
     ],
-    "learnset": [
-        {
-            "level": 1,
-            "move": "MOVE_POUND"
-        },
-        {
-            "level": 1,
-            "move": "MOVE_PLAYNICE"
-        },
-        {
-            "level": 4,
-            "move": "MOVE_DISARMINGVOICE"
-        },
-        {
-            "level": 9,
-            "move": "MOVE_BABYDOLLEYES"
-        },
-        {
-            "level": 12,
-            "move": "MOVE_HELPINGHAND"
-        },
-        {
-            "level": 15,
-            "move": "MOVE_GROWL"
-        },
-        {
-            "level": 18,
-            "move": "MOVE_SECRETPOWER"
-        },
-        {
-            "level": 22,
-            "move": "MOVE_REFRESH"
-        },
-        {
-            "level": 25,
-            "move": "MOVE_ZENHEADBUTT"
-        },
-        {
-            "level": 29,
-            "move": "MOVE_LIFEDEW"
-        },
-        {
-            "level": 32,
-            "move": "MOVE_AFTERYOU"
-        },
-        {
-            "level": 35,
-            "move": "MOVE_TAKEDOWN"
-        },
-        {
-            "level": 39,
-            "move": "MOVE_SIMPLEBEAM"
-        },
-        {
-            "level": 42,
-            "move": "MOVE_HYPERVOICE"
-        },
-        {
-            "level": 46,
-            "move": "MOVE_HEALPULSE"
-        },
-        {
-            "level": 49,
-            "move": "MOVE_DECORATE"
-        },
-        {
-            "level": 52,
-            "move": "MOVE_DOUBLEEDGE"
-        },
-        {
-            "level": 56,
-            "move": "MOVE_ENTRAINMENT"
-        },
-        {
-            "level": 59,
-            "move": "MOVE_MISTYTERRAIN"
-        },
-        {
-            "level": 62,
-            "move": "MOVE_LASTRESORT"
-        }
-    ],
+    "blurb": "Using the feelers on its ears, it can tell how someone is feeling or when an egg might hatch.",
+    "name": "Audino",
     "evolve_from": [
         "AUDINO_MEGA"
     ],
@@ -223,5 +141,87 @@
         "MOVE_ENCORE",
         "MOVE_MISTYTERRAIN",
         "MOVE_BODYSLAM"
+    ],
+    "learnset": [
+        {
+            "level": 1,
+            "move": "MOVE_POUND"
+        },
+        {
+            "level": 1,
+            "move": "MOVE_PLAYNICE"
+        },
+        {
+            "level": 4,
+            "move": "MOVE_DISARMINGVOICE"
+        },
+        {
+            "level": 9,
+            "move": "MOVE_BABYDOLLEYES"
+        },
+        {
+            "level": 12,
+            "move": "MOVE_HELPINGHAND"
+        },
+        {
+            "level": 15,
+            "move": "MOVE_GROWL"
+        },
+        {
+            "level": 18,
+            "move": "MOVE_SECRETPOWER"
+        },
+        {
+            "level": 22,
+            "move": "MOVE_REFRESH"
+        },
+        {
+            "level": 25,
+            "move": "MOVE_ZENHEADBUTT"
+        },
+        {
+            "level": 29,
+            "move": "MOVE_LIFEDEW"
+        },
+        {
+            "level": 32,
+            "move": "MOVE_AFTERYOU"
+        },
+        {
+            "level": 35,
+            "move": "MOVE_TAKEDOWN"
+        },
+        {
+            "level": 39,
+            "move": "MOVE_SIMPLEBEAM"
+        },
+        {
+            "level": 42,
+            "move": "MOVE_HYPERVOICE"
+        },
+        {
+            "level": 46,
+            "move": "MOVE_HEALPULSE"
+        },
+        {
+            "level": 49,
+            "move": "MOVE_DECORATE"
+        },
+        {
+            "level": 52,
+            "move": "MOVE_DOUBLEEDGE"
+        },
+        {
+            "level": 56,
+            "move": "MOVE_ENTRAINMENT"
+        },
+        {
+            "level": 59,
+            "move": "MOVE_MISTYTERRAIN"
+        },
+        {
+            "level": 62,
+            "move": "MOVE_LASTRESORT"
+        }
     ]
 }

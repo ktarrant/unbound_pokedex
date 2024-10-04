@@ -29,6 +29,7 @@
     "hiddenAbility": "ABILITY_GUTS",
     "noFlip": true,
     "name": "Flareon",
+    "evolve_from": [],
     "learnset": [
         {
             "level": 0,
@@ -139,7 +140,6 @@
             "move": "MOVE_FLAREBLITZ"
         }
     ],
-    "evolve_from": [],
     "tm": [
         "MOVE_CALMMIND",
         "MOVE_ROAR",

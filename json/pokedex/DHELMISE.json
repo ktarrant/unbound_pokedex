@@ -30,6 +30,7 @@
     "noFlip": true,
     "blurb": "It wraps its prey in green seaweed and sucks away their vitality. It only likes to go after big prey.",
     "name": "Dhelmise",
+    "evolve_from": [],
     "learnset": [
         {
             "level": 1,
@@ -104,7 +105,6 @@
             "move": "MOVE_POWERWHIP"
         }
     ],
-    "evolve_from": [],
     "tm": [
         "MOVE_TOXIC",
         "MOVE_HIDDENPOWER",

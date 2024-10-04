@@ -37,8 +37,17 @@
         "MOVE_BODYSLAM",
         "MOVE_WORRYSEED"
     ],
+    "evolve_to": [
+        {
+            "method": "EVO_LEVEL",
+            "condition": "39",
+            "target": "AMOONGUSS",
+            "extra": "0"
+        }
+    ],
     "blurb": "It lures Pok\u00e9mon with its pattern that looks just like a Pok\\e Ball then releases poison spores.",
     "name": "Foongus",
+    "evolve_from": [],
     "learnset": [
         {
             "level": 1,
@@ -105,15 +114,6 @@
             "move": "MOVE_SPORE"
         }
     ],
-    "evolve_to": [
-        {
-            "method": "EVO_LEVEL",
-            "condition": "39",
-            "target": "AMOONGUSS",
-            "extra": "0"
-        }
-    ],
-    "evolve_from": [],
     "tm": [
         "MOVE_TOXIC",
         "MOVE_HIDDENPOWER",

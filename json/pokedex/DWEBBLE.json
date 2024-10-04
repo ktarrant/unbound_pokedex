@@ -42,8 +42,17 @@
         "MOVE_KNOCKOFF",
         "MOVE_FIRSTIMPRESSION"
     ],
+    "evolve_to": [
+        {
+            "method": "EVO_LEVEL",
+            "condition": "34",
+            "target": "CRUSTLE",
+            "extra": "0"
+        }
+    ],
     "blurb": "This Pok\u00e9mon can easily melt holes in hard rocks with a liquid secreted from its mouth.",
     "name": "Dwebble",
+    "evolve_from": [],
     "learnset": [
         {
             "level": 1,
@@ -106,15 +115,6 @@
             "move": "MOVE_ROCKWRECKER"
         }
     ],
-    "evolve_to": [
-        {
-            "method": "EVO_LEVEL",
-            "condition": "34",
-            "target": "CRUSTLE",
-            "extra": "0"
-        }
-    ],
-    "evolve_from": [],
     "tm": [
         "MOVE_TOXIC",
         "MOVE_HIDDENPOWER",

@@ -29,6 +29,9 @@
     "hiddenAbility": "ABILITY_INSOMNIA",
     "noFlip": true,
     "name": "Electabuzz",
+    "evolve_from": [
+        "ELEKID"
+    ],
     "learnset": [
         {
             "level": 1,
@@ -94,9 +97,6 @@
             "level": 64,
             "move": "MOVE_GIGAIMPACT"
         }
-    ],
-    "evolve_from": [
-        "ELEKID"
     ],
     "tm": [
         "MOVE_FOCUSPUNCH",

@@ -28,8 +28,19 @@
     "safariZoneFleeRate": 0,
     "hiddenAbility": "ABILITY_NONE",
     "noFlip": true,
+    "evolve_to": [
+        {
+            "method": "EVO_ITEM",
+            "condition": "ITEM_THUNDER_STONE",
+            "target": "EELEKTROSS",
+            "extra": "0"
+        }
+    ],
     "blurb": "This Pok\u00e9mon has a big appetite. When it spots its prey, it attacks it and paralyzes it with electricity.",
     "name": "Eelektrik",
+    "evolve_from": [
+        "TYNAMO"
+    ],
     "learnset": [
         {
             "level": 0,
@@ -103,17 +114,6 @@
             "level": 70,
             "move": "MOVE_THUNDERCAGE"
         }
-    ],
-    "evolve_to": [
-        {
-            "method": "EVO_ITEM",
-            "condition": "ITEM_THUNDER_STONE",
-            "target": "EELEKTROSS",
-            "extra": "0"
-        }
-    ],
-    "evolve_from": [
-        "TYNAMO"
     ],
     "tm": [
         "MOVE_TOXIC",

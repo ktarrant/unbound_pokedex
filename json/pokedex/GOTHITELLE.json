@@ -30,6 +30,9 @@
     "noFlip": true,
     "blurb": "Starry skies thousands of light-years away are visible in the space distorted by their psychic power.",
     "name": "Gothitelle",
+    "evolve_from": [
+        "GOTHORITA"
+    ],
     "learnset": [
         {
             "level": 1,
@@ -99,9 +102,6 @@
             "level": 59,
             "move": "MOVE_MAGICROOM"
         }
-    ],
-    "evolve_from": [
-        "GOTHORITA"
     ],
     "tm": [
         "MOVE_CALMMIND",

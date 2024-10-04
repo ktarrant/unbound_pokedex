@@ -30,6 +30,9 @@
     "noFlip": true,
     "blurb": "It can stop its opponents' movements with just a glare. It takes in solar energy and boosts it.",
     "name": "Serperior",
+    "evolve_from": [
+        "SERVINE"
+    ],
     "learnset": [
         {
             "level": 1,
@@ -95,9 +98,6 @@
             "level": 62,
             "move": "MOVE_LEAFSTORM"
         }
-    ],
-    "evolve_from": [
-        "SERVINE"
     ],
     "tm": [
         "MOVE_CALMMIND",

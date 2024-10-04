@@ -30,6 +30,9 @@
     "noFlip": true,
     "blurb": "A master of grand and beautiful kicks, it can knock out even kickboxing champions with a single blow.",
     "name": "Tsareena",
+    "evolve_from": [
+        "STEENEE"
+    ],
     "learnset": [
         {
             "level": 0,
@@ -111,9 +114,6 @@
             "level": 64,
             "move": "MOVE_POWERWHIP"
         }
-    ],
-    "evolve_from": [
-        "STEENEE"
     ],
     "tm": [
         "MOVE_TOXIC",

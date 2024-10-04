@@ -29,6 +29,9 @@
     "hiddenAbility": "ABILITY_TELEPATHY",
     "noFlip": true,
     "name": "Kirlia",
+    "evolve_from": [
+        "RALTS"
+    ],
     "learnset": [
         {
             "level": 1,
@@ -102,9 +105,6 @@
             "level": 53,
             "move": "MOVE_DREAMEATER"
         }
-    ],
-    "evolve_from": [
-        "RALTS"
     ],
     "tm": [
         "MOVE_CALMMIND",

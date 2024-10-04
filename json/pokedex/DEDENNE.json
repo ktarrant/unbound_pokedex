@@ -38,6 +38,7 @@
     ],
     "blurb": "Its upper whiskers are sensors that survey its surroundings. Its lower whiskers shoot electricity.",
     "name": "Dedenne",
+    "evolve_from": [],
     "learnset": [
         {
             "level": 1,
@@ -112,7 +113,6 @@
             "move": "MOVE_THUNDER"
         }
     ],
-    "evolve_from": [],
     "tm": [
         "MOVE_TOXIC",
         "MOVE_HIDDENPOWER",

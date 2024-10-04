@@ -29,6 +29,9 @@
     "hiddenAbility": "ABILITY_SLUSHRUSH",
     "noFlip": true,
     "blurb": "It runs across snow-covered plains at high speeds. It developed thick, sharp claws to plow through the snow.",
+    "evolve_from": [
+        "SANDSHREW_A"
+    ],
     "learnset": [
         {
             "level": 0,
@@ -122,9 +125,6 @@
             "level": 48,
             "move": "MOVE_ICICLECRASH"
         }
-    ],
-    "evolve_from": [
-        "SANDSHREW_A"
     ],
     "tm": [
         "MOVE_FOCUSPUNCH",

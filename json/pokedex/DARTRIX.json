@@ -30,6 +30,9 @@
     "noFlip": true,
     "blurb": "It throws sharp feathers called blade quills at enemies or prey. It seldom misses.",
     "name": "Dartrix",
+    "evolve_from": [
+        "ROWLET"
+    ],
     "learnset": [
         {
             "level": 1,
@@ -99,9 +102,6 @@
             "level": 50,
             "move": "MOVE_BRAVEBIRD"
         }
-    ],
-    "evolve_from": [
-        "ROWLET"
     ],
     "tm": [
         "MOVE_TOXIC",

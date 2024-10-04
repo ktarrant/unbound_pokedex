@@ -28,7 +28,18 @@
     "safariZoneFleeRate": 0,
     "hiddenAbility": "ABILITY_TOUGHCLAWS",
     "noFlip": true,
+    "evolve_to": [
+        {
+            "method": "EVO_ITEM_NIGHT",
+            "condition": "ITEM_PEAT_BLOCK",
+            "target": "URSALUNA",
+            "extra": "0"
+        }
+    ],
     "name": "Ursaring",
+    "evolve_from": [
+        "TEDDIURSA"
+    ],
     "learnset": [
         {
             "level": 1,
@@ -110,17 +121,6 @@
             "level": 64,
             "move": "MOVE_THRASH"
         }
-    ],
-    "evolve_to": [
-        {
-            "method": "EVO_ITEM_NIGHT",
-            "condition": "ITEM_PEAT_BLOCK",
-            "target": "URSALUNA",
-            "extra": "0"
-        }
-    ],
-    "evolve_from": [
-        "TEDDIURSA"
     ],
     "tm": [
         "MOVE_FOCUSPUNCH",

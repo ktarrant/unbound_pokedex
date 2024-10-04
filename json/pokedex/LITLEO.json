@@ -37,8 +37,17 @@
         "MOVE_FLAREBLITZ",
         "MOVE_EXTREMESPEED"
     ],
+    "evolve_to": [
+        {
+            "method": "EVO_LEVEL",
+            "condition": "35",
+            "target": "PYROAR",
+            "extra": "0"
+        }
+    ],
     "blurb": "The stronger the opponent it faces, the more heat and power flow through its body.",
     "name": "Litleo",
+    "evolve_from": [],
     "learnset": [
         {
             "level": 1,
@@ -101,15 +110,6 @@
             "move": "MOVE_OVERHEAT"
         }
     ],
-    "evolve_to": [
-        {
-            "method": "EVO_LEVEL",
-            "condition": "35",
-            "target": "PYROAR",
-            "extra": "0"
-        }
-    ],
-    "evolve_from": [],
     "tm": [
         "MOVE_ROAR",
         "MOVE_TOXIC",

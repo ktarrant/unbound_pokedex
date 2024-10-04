@@ -38,8 +38,17 @@
         "MOVE_CLEARSMOG",
         "MOVE_DEFOG"
     ],
+    "evolve_to": [
+        {
+            "method": "EVO_LEVEL",
+            "condition": "28",
+            "target": "DRIFBLIM",
+            "extra": "0"
+        }
+    ],
     "blurb": "Stories go that it grabs the hands of small children and drags them away to the afterlife.",
     "name": "Drifloon",
+    "evolve_from": [],
     "learnset": [
         {
             "level": 1,
@@ -114,15 +123,6 @@
             "move": "MOVE_EXPLOSION"
         }
     ],
-    "evolve_to": [
-        {
-            "method": "EVO_LEVEL",
-            "condition": "28",
-            "target": "DRIFBLIM",
-            "extra": "0"
-        }
-    ],
-    "evolve_from": [],
     "tm": [
         "MOVE_CALMMIND",
         "MOVE_TOXIC",

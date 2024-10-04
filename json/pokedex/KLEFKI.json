@@ -37,6 +37,7 @@
     ],
     "blurb": "These key collectors threaten any attackers by fiercely jingling their keys at them.",
     "name": "Klefki",
+    "evolve_from": [],
     "learnset": [
         {
             "level": 1,
@@ -111,7 +112,6 @@
             "move": "MOVE_HEALBLOCK"
         }
     ],
-    "evolve_from": [],
     "tm": [
         "MOVE_CALMMIND",
         "MOVE_TOXIC",

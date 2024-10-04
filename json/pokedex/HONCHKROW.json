@@ -30,6 +30,9 @@
     "noFlip": true,
     "blurb": "Becoming active at night, it is known to swarm with numerous Murkrow in tow.",
     "name": "Honchkrow",
+    "evolve_from": [
+        "MURKROW"
+    ],
     "learnset": [
         {
             "level": 1,
@@ -119,9 +122,6 @@
             "level": 70,
             "move": "MOVE_BRAVEBIRD"
         }
-    ],
-    "evolve_from": [
-        "MURKROW"
     ],
     "tm": [
         "MOVE_CALMMIND",

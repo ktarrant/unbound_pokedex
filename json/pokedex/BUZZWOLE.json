@@ -30,6 +30,7 @@
     "noFlip": true,
     "blurb": "Buzzwole goes around showing off its abnormally swollen muscles. It is one kind of Ultra Beast.",
     "name": "Buzzwole",
+    "evolve_from": [],
     "learnset": [
         {
             "level": 1,
@@ -112,7 +113,6 @@
             "move": "MOVE_FOCUSPUNCH"
         }
     ],
-    "evolve_from": [],
     "tm": [
         "MOVE_FOCUSPUNCH",
         "MOVE_TOXIC",

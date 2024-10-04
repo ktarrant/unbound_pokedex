@@ -29,6 +29,7 @@
     "hiddenAbility": "ABILITY_SUPERLUCK",
     "noFlip": true,
     "name": "Jirachi",
+    "evolve_from": [],
     "learnset": [
         {
             "level": 1,
@@ -115,7 +116,6 @@
             "move": "MOVE_DOOMDESIRE"
         }
     ],
-    "evolve_from": [],
     "tm": [
         "MOVE_WATERPULSE",
         "MOVE_CALMMIND",

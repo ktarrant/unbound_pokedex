@@ -30,6 +30,7 @@
     "noFlip": true,
     "blurb": "It causes small ice crystals to form by lowering the temperature of the surrounding atmosphere.",
     "name": "Glaceon",
+    "evolve_from": [],
     "learnset": [
         {
             "level": 0,
@@ -140,7 +141,6 @@
             "move": "MOVE_BLIZZARD"
         }
     ],
-    "evolve_from": [],
     "tm": [
         "MOVE_WATERPULSE",
         "MOVE_CALMMIND",

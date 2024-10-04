@@ -29,6 +29,7 @@
     "hiddenAbility": "ABILITY_TRIAGE",
     "noFlip": true,
     "name": "Bellossom",
+    "evolve_from": [],
     "learnset": [
         {
             "level": 0,
@@ -103,7 +104,6 @@
             "move": "MOVE_STRENGTHSAP"
         }
     ],
-    "evolve_from": [],
     "tm": [
         "MOVE_TOXIC",
         "MOVE_BULLETSEED",

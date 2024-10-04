@@ -40,6 +40,7 @@
     ],
     "blurb": "Its conspicuous lips lure prey in as it lies in wait in the mud. When prey gets close, it will clamp down hard.",
     "name": "Stunfisk",
+    "evolve_from": [],
     "learnset": [
         {
             "level": 1,
@@ -102,7 +103,6 @@
             "move": "MOVE_FISSURE"
         }
     ],
-    "evolve_from": [],
     "tm": [
         "MOVE_TOXIC",
         "MOVE_HIDDENPOWER",

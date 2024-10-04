@@ -36,8 +36,17 @@
         "MOVE_AQUAJET",
         "MOVE_ROLLOUT"
     ],
+    "evolve_to": [
+        {
+            "method": "EVO_LEVEL",
+            "condition": "30",
+            "target": "GOLISOPOD",
+            "extra": "0"
+        }
+    ],
     "blurb": "An astonishingly cowardly Pok\u00e9mon, it whirs its legs at high speed to run away if anything comes near it.",
     "name": "Wimpod",
+    "evolve_from": [],
     "learnset": [
         {
             "level": 1,
@@ -52,15 +61,6 @@
             "move": "MOVE_DEFENSECURL"
         }
     ],
-    "evolve_to": [
-        {
-            "method": "EVO_LEVEL",
-            "condition": "30",
-            "target": "GOLISOPOD",
-            "extra": "0"
-        }
-    ],
-    "evolve_from": [],
     "tm": [
         "MOVE_TOXIC",
         "MOVE_HAIL",

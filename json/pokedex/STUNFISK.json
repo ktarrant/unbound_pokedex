@@ -43,6 +43,7 @@
     ],
     "blurb": "When its opponent can't be paralyzed, it contorts itself with unexpected speed and flops away.",
     "name": "Stunfisk",
+    "evolve_from": [],
     "learnset": [
         {
             "level": 1,
@@ -133,7 +134,6 @@
             "move": "MOVE_FISSURE"
         }
     ],
-    "evolve_from": [],
     "tm": [
         "MOVE_WATERPULSE",
         "MOVE_TOXIC",

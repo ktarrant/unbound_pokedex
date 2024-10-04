@@ -29,6 +29,9 @@
     "hiddenAbility": "ABILITY_MAGICBOUNCE",
     "noFlip": true,
     "name": "Xatu",
+    "evolve_from": [
+        "NATU"
+    ],
     "learnset": [
         {
             "level": 0,
@@ -106,9 +109,6 @@
             "level": 58,
             "move": "MOVE_MEFIRST"
         }
-    ],
-    "evolve_from": [
-        "NATU"
     ],
     "tm": [
         "MOVE_CALMMIND",

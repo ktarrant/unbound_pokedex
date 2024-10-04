@@ -30,6 +30,9 @@
     "noFlip": true,
     "blurb": "The seeds attached to its cotton fluff are full of nutrients. It spreads them on the wind so that others can benefit.",
     "name": "Eldegoss",
+    "evolve_from": [
+        "GOSSIFLEUR"
+    ],
     "learnset": [
         {
             "level": 0,
@@ -87,9 +90,6 @@
             "level": 52,
             "move": "MOVE_COTTONGUARD"
         }
-    ],
-    "evolve_from": [
-        "GOSSIFLEUR"
     ],
     "tm": [
         "MOVE_TOXIC",

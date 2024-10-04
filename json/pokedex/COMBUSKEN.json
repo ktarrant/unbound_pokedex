@@ -28,7 +28,18 @@
     "safariZoneFleeRate": 0,
     "hiddenAbility": "ABILITY_SPEEDBOOST",
     "noFlip": true,
+    "evolve_to": [
+        {
+            "method": "EVO_LEVEL",
+            "condition": "36",
+            "target": "BLAZIKEN",
+            "extra": "0"
+        }
+    ],
     "name": "Combusken",
+    "evolve_from": [
+        "TORCHIC"
+    ],
     "learnset": [
         {
             "level": 0,
@@ -114,17 +125,6 @@
             "level": 58,
             "move": "MOVE_FLAREBLITZ"
         }
-    ],
-    "evolve_to": [
-        {
-            "method": "EVO_LEVEL",
-            "condition": "36",
-            "target": "BLAZIKEN",
-            "extra": "0"
-        }
-    ],
-    "evolve_from": [
-        "TORCHIC"
     ],
     "tm": [
         "MOVE_FOCUSPUNCH",

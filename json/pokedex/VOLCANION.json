@@ -30,6 +30,7 @@
     "noFlip": true,
     "blurb": "It expels its internal steam from the arms on its back. It has enough power to blow away a mountain.",
     "name": "Volcanion",
+    "evolve_from": [],
     "learnset": [
         {
             "level": 1,
@@ -108,7 +109,6 @@
             "move": "MOVE_EXPLOSION"
         }
     ],
-    "evolve_from": [],
     "tm": [
         "MOVE_WATERPULSE",
         "MOVE_ROAR",

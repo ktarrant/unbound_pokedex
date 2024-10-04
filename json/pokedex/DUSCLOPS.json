@@ -29,6 +29,9 @@
     "hiddenAbility": "ABILITY_FRISK",
     "noFlip": true,
     "name": "Dusclops",
+    "evolve_from": [
+        "DUSKULL"
+    ],
     "learnset": [
         {
             "level": 0,
@@ -118,9 +121,6 @@
             "level": 48,
             "move": "MOVE_FUTURESIGHT"
         }
-    ],
-    "evolve_from": [
-        "DUSKULL"
     ],
     "tm": [
         "MOVE_FOCUSPUNCH",

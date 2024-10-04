@@ -38,8 +38,17 @@
         "MOVE_POWERUPPUNCH",
         "MOVE_HAPPYHOUR"
     ],
+    "evolve_to": [
+        {
+            "method": "EVO_LEVEL",
+            "condition": "16",
+            "target": "FROGADIER",
+            "extra": "0"
+        }
+    ],
     "blurb": "It secretes bubbles from its chest and back. The bubbles reduce the damage it would take when attacked.",
     "name": "Froakie",
+    "evolve_from": [],
     "learnset": [
         {
             "level": 1,
@@ -102,15 +111,6 @@
             "move": "MOVE_HYDROPUMP"
         }
     ],
-    "evolve_to": [
-        {
-            "method": "EVO_LEVEL",
-            "condition": "16",
-            "target": "FROGADIER",
-            "extra": "0"
-        }
-    ],
-    "evolve_from": [],
     "tm": [
         "MOVE_WATERPULSE",
         "MOVE_TOXIC",

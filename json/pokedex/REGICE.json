@@ -29,6 +29,7 @@
     "hiddenAbility": "ABILITY_FILTER",
     "noFlip": true,
     "name": "Regice",
+    "evolve_from": [],
     "learnset": [
         {
             "level": 1,
@@ -91,7 +92,6 @@
             "move": "MOVE_EXPLOSION"
         }
     ],
-    "evolve_from": [],
     "tm": [
         "MOVE_FOCUSPUNCH",
         "MOVE_TOXIC",

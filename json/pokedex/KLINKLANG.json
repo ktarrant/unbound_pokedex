@@ -30,6 +30,9 @@
     "noFlip": true,
     "blurb": "The gear with the red core is rotated at high speed for a rapid energy charge.",
     "name": "Klinklang",
+    "evolve_from": [
+        "KLANG"
+    ],
     "learnset": [
         {
             "level": 0,
@@ -115,9 +118,6 @@
             "level": 65,
             "move": "MOVE_STEELBEAM"
         }
-    ],
-    "evolve_from": [
-        "KLANG"
     ],
     "tm": [
         "MOVE_TOXIC",

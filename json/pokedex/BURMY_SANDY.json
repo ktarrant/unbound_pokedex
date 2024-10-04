@@ -28,6 +28,17 @@
     "safariZoneFleeRate": 0,
     "hiddenAbility": "ABILITY_OVERCOAT",
     "noFlip": true,
+    "evolve_from": [],
+    "tm": [
+        "MOVE_HIDDENPOWER",
+        "MOVE_PROTECT",
+        "MOVE_STRUGGLEBUG",
+        "MOVE_NATURALGIFT"
+    ],
+    "tutor": [
+        "MOVE_ELECTROWEB",
+        "MOVE_BUGBITE"
+    ],
     "learnset": [
         {
             "level": 1,
@@ -45,16 +56,5 @@
             "level": 20,
             "move": "MOVE_HIDDENPOWER"
         }
-    ],
-    "evolve_from": [],
-    "tm": [
-        "MOVE_HIDDENPOWER",
-        "MOVE_PROTECT",
-        "MOVE_STRUGGLEBUG",
-        "MOVE_NATURALGIFT"
-    ],
-    "tutor": [
-        "MOVE_ELECTROWEB",
-        "MOVE_BUGBITE"
     ]
 }

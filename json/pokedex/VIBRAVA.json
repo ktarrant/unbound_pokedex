@@ -28,7 +28,18 @@
     "safariZoneFleeRate": 0,
     "hiddenAbility": "ABILITY_PUNKROCK",
     "noFlip": true,
+    "evolve_to": [
+        {
+            "method": "EVO_LEVEL",
+            "condition": "45",
+            "target": "FLYGON",
+            "extra": "0"
+        }
+    ],
     "name": "Vibrava",
+    "evolve_from": [
+        "TRAPINCH"
+    ],
     "learnset": [
         {
             "level": 0,
@@ -146,17 +157,6 @@
             "level": 64,
             "move": "MOVE_BOOMBURST"
         }
-    ],
-    "evolve_to": [
-        {
-            "method": "EVO_LEVEL",
-            "condition": "45",
-            "target": "FLYGON",
-            "extra": "0"
-        }
-    ],
-    "evolve_from": [
-        "TRAPINCH"
     ],
     "tm": [
         "MOVE_TOXIC",

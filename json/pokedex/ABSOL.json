@@ -44,7 +44,6 @@
         "MOVE_PLAYROUGH",
         "MOVE_WISH"
     ],
-    "name": "Absol",
     "evolve_to": [
         {
             "method": "EVO_MEGA",
@@ -53,84 +52,7 @@
             "extra": "MEGA_VARIANT_STANDARD"
         }
     ],
-    "learnset": [
-        {
-            "level": 1,
-            "move": "MOVE_FEINT"
-        },
-        {
-            "level": 1,
-            "move": "MOVE_SCRATCH"
-        },
-        {
-            "level": 1,
-            "move": "MOVE_PURSUIT"
-        },
-        {
-            "level": 1,
-            "move": "MOVE_LEER"
-        },
-        {
-            "level": 1,
-            "move": "MOVE_DOUBLETEAM"
-        },
-        {
-            "level": 8,
-            "move": "MOVE_QUICKATTACK"
-        },
-        {
-            "level": 12,
-            "move": "MOVE_ASSURANCE"
-        },
-        {
-            "level": 16,
-            "move": "MOVE_DETECT"
-        },
-        {
-            "level": 19,
-            "move": "MOVE_KNOCKOFF"
-        },
-        {
-            "level": 22,
-            "move": "MOVE_TAUNT"
-        },
-        {
-            "level": 25,
-            "move": "MOVE_SLASH"
-        },
-        {
-            "level": 30,
-            "move": "MOVE_FOCUSENERGY"
-        },
-        {
-            "level": 35,
-            "move": "MOVE_NIGHTSLASH"
-        },
-        {
-            "level": 40,
-            "move": "MOVE_PSYCHOCUT"
-        },
-        {
-            "level": 45,
-            "move": "MOVE_FUTURESIGHT"
-        },
-        {
-            "level": 50,
-            "move": "MOVE_MEFIRST"
-        },
-        {
-            "level": 55,
-            "move": "MOVE_SUCKERPUNCH"
-        },
-        {
-            "level": 60,
-            "move": "MOVE_SWORDSDANCE"
-        },
-        {
-            "level": 65,
-            "move": "MOVE_PERISHSONG"
-        }
-    ],
+    "name": "Absol",
     "evolve_from": [
         "ABSOL_MEGA"
     ],
@@ -219,5 +141,83 @@
         "MOVE_PSYCHOCUT",
         "MOVE_CLOSECOMBAT",
         "MOVE_MEGAHORN"
+    ],
+    "learnset": [
+        {
+            "level": 1,
+            "move": "MOVE_FEINT"
+        },
+        {
+            "level": 1,
+            "move": "MOVE_SCRATCH"
+        },
+        {
+            "level": 1,
+            "move": "MOVE_PURSUIT"
+        },
+        {
+            "level": 1,
+            "move": "MOVE_LEER"
+        },
+        {
+            "level": 1,
+            "move": "MOVE_DOUBLETEAM"
+        },
+        {
+            "level": 8,
+            "move": "MOVE_QUICKATTACK"
+        },
+        {
+            "level": 12,
+            "move": "MOVE_ASSURANCE"
+        },
+        {
+            "level": 16,
+            "move": "MOVE_DETECT"
+        },
+        {
+            "level": 19,
+            "move": "MOVE_KNOCKOFF"
+        },
+        {
+            "level": 22,
+            "move": "MOVE_TAUNT"
+        },
+        {
+            "level": 25,
+            "move": "MOVE_SLASH"
+        },
+        {
+            "level": 30,
+            "move": "MOVE_FOCUSENERGY"
+        },
+        {
+            "level": 35,
+            "move": "MOVE_NIGHTSLASH"
+        },
+        {
+            "level": 40,
+            "move": "MOVE_PSYCHOCUT"
+        },
+        {
+            "level": 45,
+            "move": "MOVE_FUTURESIGHT"
+        },
+        {
+            "level": 50,
+            "move": "MOVE_MEFIRST"
+        },
+        {
+            "level": 55,
+            "move": "MOVE_SUCKERPUNCH"
+        },
+        {
+            "level": 60,
+            "move": "MOVE_SWORDSDANCE"
+        },
+        {
+            "level": 65,
+            "move": "MOVE_PERISHSONG"
+        }
     ]
 }

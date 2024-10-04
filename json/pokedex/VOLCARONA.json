@@ -30,6 +30,9 @@
     "noFlip": true,
     "blurb": "When volcanic ash darkened the atmosphere, Volcarona's fire provided a replacement for the sun.",
     "name": "Volcarona",
+    "evolve_from": [
+        "LARVESTA"
+    ],
     "learnset": [
         {
             "level": 0,
@@ -135,9 +138,6 @@
             "level": 79,
             "move": "MOVE_FIERYDANCE"
         }
-    ],
-    "evolve_from": [
-        "LARVESTA"
     ],
     "tm": [
         "MOVE_CALMMIND",

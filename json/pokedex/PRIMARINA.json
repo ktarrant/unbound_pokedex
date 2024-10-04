@@ -30,6 +30,9 @@
     "noFlip": true,
     "blurb": "To Primarina, every battle is a stage. It takes down its prey with beautiful singing and dancing.",
     "name": "Primarina",
+    "evolve_from": [
+        "BRIONNE"
+    ],
     "learnset": [
         {
             "level": 0,
@@ -107,9 +110,6 @@
             "level": 72,
             "move": "MOVE_RELICSONG"
         }
-    ],
-    "evolve_from": [
-        "BRIONNE"
     ],
     "tm": [
         "MOVE_WATERPULSE",

@@ -42,7 +42,16 @@
         "MOVE_FIRESPIN",
         "MOVE_SANDATTACK"
     ],
+    "evolve_to": [
+        {
+            "method": "EVO_LEVEL",
+            "condition": "16",
+            "target": "COMBUSKEN",
+            "extra": "0"
+        }
+    ],
     "name": "Torchic",
+    "evolve_from": [],
     "learnset": [
         {
             "level": 1,
@@ -109,15 +118,6 @@
             "move": "MOVE_FLAREBLITZ"
         }
     ],
-    "evolve_to": [
-        {
-            "method": "EVO_LEVEL",
-            "condition": "16",
-            "target": "COMBUSKEN",
-            "extra": "0"
-        }
-    ],
-    "evolve_from": [],
     "tm": [
         "MOVE_TOXIC",
         "MOVE_HIDDENPOWER",

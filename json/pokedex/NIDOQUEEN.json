@@ -29,6 +29,9 @@
     "hiddenAbility": "ABILITY_SHEERFORCE",
     "noFlip": true,
     "name": "Nidoqueen",
+    "evolve_from": [
+        "NIDORINA"
+    ],
     "learnset": [
         {
             "level": 0,
@@ -110,9 +113,6 @@
             "level": 57,
             "move": "MOVE_EARTHPOWER"
         }
-    ],
-    "evolve_from": [
-        "NIDORINA"
     ],
     "tm": [
         "MOVE_FOCUSPUNCH",

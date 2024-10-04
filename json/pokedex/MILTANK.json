@@ -45,6 +45,7 @@
         "MOVE_FOCUSPUNCH"
     ],
     "name": "Miltank",
+    "evolve_from": [],
     "learnset": [
         {
             "level": 1,
@@ -119,7 +120,6 @@
             "move": "MOVE_DOUBLEEDGE"
         }
     ],
-    "evolve_from": [],
     "tm": [
         "MOVE_FOCUSPUNCH",
         "MOVE_WATERPULSE",

@@ -29,6 +29,7 @@
     "hiddenAbility": "ABILITY_MOXIE",
     "noFlip": true,
     "name": "Unfezant",
+    "evolve_from": [],
     "learnset": [
         {
             "level": 1,
@@ -95,7 +96,6 @@
             "move": "MOVE_SKYATTACK"
         }
     ],
-    "evolve_from": [],
     "tm": [
         "MOVE_TOXIC",
         "MOVE_HIDDENPOWER",

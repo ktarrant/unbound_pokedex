@@ -44,8 +44,17 @@
         "MOVE_PLAYROUGH",
         "MOVE_MEMENTO"
     ],
+    "evolve_to": [
+        {
+            "method": "EVO_LEVEL",
+            "condition": "34",
+            "target": "SKUNTANK",
+            "extra": "0"
+        }
+    ],
     "blurb": "It sprays a nose-curling, stinky fluid from its rear to repel attackers.",
     "name": "Stunky",
+    "evolve_from": [],
     "learnset": [
         {
             "level": 1,
@@ -124,15 +133,6 @@
             "move": "MOVE_EXPLOSION"
         }
     ],
-    "evolve_to": [
-        {
-            "method": "EVO_LEVEL",
-            "condition": "34",
-            "target": "SKUNTANK",
-            "extra": "0"
-        }
-    ],
-    "evolve_from": [],
     "tm": [
         "MOVE_ROAR",
         "MOVE_TOXIC",

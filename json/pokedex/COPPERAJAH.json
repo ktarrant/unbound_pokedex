@@ -28,8 +28,6 @@
     "safariZoneFleeRate": 0,
     "hiddenAbility": "ABILITY_HEAVYMETAL",
     "noFlip": true,
-    "blurb": "These Pok\u00e9mon live in herds. Their trunks have incredible grip strength, strong enough to crush giant rocks.",
-    "name": "Copperajah",
     "evolve_to": [
         {
             "method": "EVO_GIGANTAMAX",
@@ -38,68 +36,8 @@
             "extra": "0"
         }
     ],
-    "learnset": [
-        {
-            "level": 0,
-            "move": "MOVE_HEAVYSLAM"
-        },
-        {
-            "level": 1,
-            "move": "MOVE_GROWL"
-        },
-        {
-            "level": 1,
-            "move": "MOVE_TACKLE"
-        },
-        {
-            "level": 1,
-            "move": "MOVE_ROLLOUT"
-        },
-        {
-            "level": 1,
-            "move": "MOVE_ROCKSMASH"
-        },
-        {
-            "level": 15,
-            "move": "MOVE_BULLDOZE"
-        },
-        {
-            "level": 20,
-            "move": "MOVE_STOMP"
-        },
-        {
-            "level": 25,
-            "move": "MOVE_IRONDEFENSE"
-        },
-        {
-            "level": 30,
-            "move": "MOVE_DIG"
-        },
-        {
-            "level": 33,
-            "move": "MOVE_HEAVYSLAM"
-        },
-        {
-            "level": 37,
-            "move": "MOVE_STRENGTH"
-        },
-        {
-            "level": 44,
-            "move": "MOVE_IRONHEAD"
-        },
-        {
-            "level": 51,
-            "move": "MOVE_PLAYROUGH"
-        },
-        {
-            "level": 58,
-            "move": "MOVE_HIGHHORSEPOWER"
-        },
-        {
-            "level": 65,
-            "move": "MOVE_SUPERPOWER"
-        }
-    ],
+    "blurb": "These Pok\u00e9mon live in herds. Their trunks have incredible grip strength, strong enough to crush giant rocks.",
+    "name": "Copperajah",
     "evolve_from": [
         "CUFANT",
         "COPPERAJAH_GIGA"
@@ -165,5 +103,67 @@
         "MOVE_PLAYROUGH",
         "MOVE_POWERWHIP",
         "MOVE_POLTERGEIST"
+    ],
+    "learnset": [
+        {
+            "level": 0,
+            "move": "MOVE_HEAVYSLAM"
+        },
+        {
+            "level": 1,
+            "move": "MOVE_GROWL"
+        },
+        {
+            "level": 1,
+            "move": "MOVE_TACKLE"
+        },
+        {
+            "level": 1,
+            "move": "MOVE_ROLLOUT"
+        },
+        {
+            "level": 1,
+            "move": "MOVE_ROCKSMASH"
+        },
+        {
+            "level": 15,
+            "move": "MOVE_BULLDOZE"
+        },
+        {
+            "level": 20,
+            "move": "MOVE_STOMP"
+        },
+        {
+            "level": 25,
+            "move": "MOVE_IRONDEFENSE"
+        },
+        {
+            "level": 30,
+            "move": "MOVE_DIG"
+        },
+        {
+            "level": 33,
+            "move": "MOVE_HEAVYSLAM"
+        },
+        {
+            "level": 37,
+            "move": "MOVE_STRENGTH"
+        },
+        {
+            "level": 44,
+            "move": "MOVE_IRONHEAD"
+        },
+        {
+            "level": 51,
+            "move": "MOVE_PLAYROUGH"
+        },
+        {
+            "level": 58,
+            "move": "MOVE_HIGHHORSEPOWER"
+        },
+        {
+            "level": 65,
+            "move": "MOVE_SUPERPOWER"
+        }
     ]
 }

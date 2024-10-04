@@ -30,6 +30,7 @@
     "noFlip": true,
     "blurb": "From holes in its palms, it fires out Geodude. Its carapace can withstand volcanic eruptions.",
     "name": "Rhyperior",
+    "evolve_from": [],
     "learnset": [
         {
             "level": 1,
@@ -104,7 +105,6 @@
             "move": "MOVE_ROCKWRECKER"
         }
     ],
-    "evolve_from": [],
     "tm": [
         "MOVE_FOCUSPUNCH",
         "MOVE_ROAR",

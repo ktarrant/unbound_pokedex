@@ -30,6 +30,7 @@
     "noFlip": true,
     "blurb": "When stone walls started moving and attacking, the brute's true identity was this mysterious life-form.",
     "name": "Stakataka",
+    "evolve_from": [],
     "learnset": [
         {
             "level": 1,
@@ -100,7 +101,6 @@
             "move": "MOVE_DOUBLEEDGE"
         }
     ],
-    "evolve_from": [],
     "tm": [
         "MOVE_TOXIC",
         "MOVE_HIDDENPOWER",

@@ -28,6 +28,9 @@
     "safariZoneFleeRate": 0,
     "hiddenAbility": "ABILITY_SANDFORCE",
     "noFlip": true,
+    "evolve_from": [
+        "HIPPOPOTAS_F"
+    ],
     "learnset": [
         {
             "level": 1,
@@ -101,9 +104,6 @@
             "level": 62,
             "move": "MOVE_SLACKOFF"
         }
-    ],
-    "evolve_from": [
-        "HIPPOPOTAS_F"
     ],
     "tm": [
         "MOVE_WATERPULSE",

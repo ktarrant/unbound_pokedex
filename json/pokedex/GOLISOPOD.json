@@ -30,6 +30,9 @@
     "noFlip": true,
     "blurb": "With a flashing slash of its giant sharp claws, it cleaves seawater-or even air-right in two.",
     "name": "Golisopod",
+    "evolve_from": [
+        "WIMPOD"
+    ],
     "learnset": [
         {
             "level": 0,
@@ -99,9 +102,6 @@
             "level": 44,
             "move": "MOVE_LIQUIDATION"
         }
-    ],
-    "evolve_from": [
-        "WIMPOD"
     ],
     "tm": [
         "MOVE_WATERPULSE",

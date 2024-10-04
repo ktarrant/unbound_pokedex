@@ -29,6 +29,9 @@
     "hiddenAbility": "ABILITY_INSOMNIA",
     "noFlip": true,
     "name": "Magmar",
+    "evolve_from": [
+        "MAGBY"
+    ],
     "learnset": [
         {
             "level": 1,
@@ -98,9 +101,6 @@
             "level": 65,
             "move": "MOVE_HYPERBEAM"
         }
-    ],
-    "evolve_from": [
-        "MAGBY"
     ],
     "tm": [
         "MOVE_FOCUSPUNCH",

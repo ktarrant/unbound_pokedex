@@ -47,6 +47,15 @@
         "MOVE_TELEPORT",
         "MOVE_WISH"
     ],
+    "evolve_to": [
+        {
+            "method": "EVO_ITEM",
+            "condition": "ITEM_LEAF_STONE",
+            "target": "EXEGGUTOR_A",
+            "extra": "0"
+        }
+    ],
+    "evolve_from": [],
     "learnset": [
         {
             "level": 1,
@@ -109,15 +118,6 @@
             "move": "MOVE_SOLARBEAM"
         }
     ],
-    "evolve_to": [
-        {
-            "method": "EVO_ITEM",
-            "condition": "ITEM_LEAF_STONE",
-            "target": "EXEGGUTOR_A",
-            "extra": "0"
-        }
-    ],
-    "evolve_from": [],
     "tm": [
         "MOVE_TOXIC",
         "MOVE_BULLETSEED",

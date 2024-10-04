@@ -30,6 +30,7 @@
     "noFlip": true,
     "blurb": "There is an enduring legend that states this Pok\u00e9mon towed continents with ropes.",
     "name": "Regigigas",
+    "evolve_from": [],
     "learnset": [
         {
             "level": 1,
@@ -116,7 +117,6 @@
             "move": "MOVE_CRUSHGRIP"
         }
     ],
-    "evolve_from": [],
     "tm": [
         "MOVE_FOCUSPUNCH",
         "MOVE_TOXIC",

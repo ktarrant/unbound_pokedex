@@ -39,8 +39,17 @@
         "MOVE_MUDSPORT",
         "MOVE_AQUAJET"
     ],
+    "evolve_to": [
+        {
+            "method": "EVO_LEVEL",
+            "condition": "30",
+            "target": "SWANNA",
+            "extra": "0"
+        }
+    ],
     "blurb": "When attacked, it uses its feathers to splash water, escaping under cover of the spray.",
     "name": "Ducklett",
+    "evolve_from": [],
     "learnset": [
         {
             "level": 1,
@@ -111,15 +120,6 @@
             "move": "MOVE_HURRICANE"
         }
     ],
-    "evolve_to": [
-        {
-            "method": "EVO_LEVEL",
-            "condition": "30",
-            "target": "SWANNA",
-            "extra": "0"
-        }
-    ],
-    "evolve_from": [],
     "tm": [
         "MOVE_WATERPULSE",
         "MOVE_TOXIC",

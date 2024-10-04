@@ -41,8 +41,17 @@
         "MOVE_IRONTAIL",
         "MOVE_IRONHEAD"
     ],
+    "evolve_to": [
+        {
+            "method": "EVO_LEVEL",
+            "condition": "30",
+            "target": "RAMPARDOS",
+            "extra": "0"
+        }
+    ],
     "blurb": "It lived in jungles around 100 million years ago. Its skull is as hard as iron.",
     "name": "Cranidos",
+    "evolve_from": [],
     "learnset": [
         {
             "level": 1,
@@ -93,15 +102,6 @@
             "move": "MOVE_HEADSMASH"
         }
     ],
-    "evolve_to": [
-        {
-            "method": "EVO_LEVEL",
-            "condition": "30",
-            "target": "RAMPARDOS",
-            "extra": "0"
-        }
-    ],
-    "evolve_from": [],
     "tm": [
         "MOVE_ROAR",
         "MOVE_TOXIC",

@@ -29,6 +29,9 @@
     "hiddenAbility": "ABILITY_MAGICGUARD",
     "noFlip": true,
     "name": "Kadabra",
+    "evolve_from": [
+        "ABRA"
+    ],
     "learnset": [
         {
             "level": 0,
@@ -110,9 +113,6 @@
             "level": 62,
             "move": "MOVE_CALMMIND"
         }
-    ],
-    "evolve_from": [
-        "ABRA"
     ],
     "tm": [
         "MOVE_FOCUSPUNCH",

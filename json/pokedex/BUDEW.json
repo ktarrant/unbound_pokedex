@@ -44,8 +44,17 @@
         "MOVE_GRASSWHISTLE",
         "MOVE_LIFEDEW"
     ],
+    "evolve_to": [
+        {
+            "method": "EVO_FRIENDSHIP_DAY",
+            "condition": "0",
+            "target": "ROSELIA",
+            "extra": "0"
+        }
+    ],
     "blurb": "It lives alongside clear ponds. It scatters pollen that induces harsh sneezing and runny noses.",
     "name": "Budew",
+    "evolve_from": [],
     "learnset": [
         {
             "level": 1,
@@ -76,15 +85,6 @@
             "move": "MOVE_POISONPOWDER"
         }
     ],
-    "evolve_to": [
-        {
-            "method": "EVO_FRIENDSHIP_DAY",
-            "condition": "0",
-            "target": "ROSELIA",
-            "extra": "0"
-        }
-    ],
-    "evolve_from": [],
     "tm": [
         "MOVE_TOXIC",
         "MOVE_BULLETSEED",

@@ -28,8 +28,19 @@
     "safariZoneFleeRate": 0,
     "hiddenAbility": "ABILITY_WEAKARMOR",
     "noFlip": true,
+    "evolve_to": [
+        {
+            "method": "EVO_LEVEL",
+            "condition": "42",
+            "target": "VANILLUXE",
+            "extra": "0"
+        }
+    ],
     "blurb": "This hearty Pok\u00e9mon survived the Ice Age. It's incredibly popular in very hot regions.",
     "name": "Vanillish",
+    "evolve_from": [
+        "VANILLITE"
+    ],
     "learnset": [
         {
             "level": 1,
@@ -95,17 +106,6 @@
             "level": 62,
             "move": "MOVE_SHEERCOLD"
         }
-    ],
-    "evolve_to": [
-        {
-            "method": "EVO_LEVEL",
-            "condition": "42",
-            "target": "VANILLUXE",
-            "extra": "0"
-        }
-    ],
-    "evolve_from": [
-        "VANILLITE"
     ],
     "tm": [
         "MOVE_WATERPULSE",

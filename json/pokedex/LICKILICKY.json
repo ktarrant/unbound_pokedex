@@ -30,6 +30,9 @@
     "noFlip": true,
     "blurb": "The long tongue is always soggy with slobber. The saliva contains a solvent that causes numbness.",
     "name": "Lickilicky",
+    "evolve_from": [
+        "LICKITUNG"
+    ],
     "learnset": [
         {
             "level": 1,
@@ -99,9 +102,6 @@
             "level": 62,
             "move": "MOVE_BELLYDRUM"
         }
-    ],
-    "evolve_from": [
-        "LICKITUNG"
     ],
     "tm": [
         "MOVE_FOCUSPUNCH",

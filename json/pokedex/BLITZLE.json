@@ -40,8 +40,17 @@
         "MOVE_SNATCH",
         "MOVE_FEINT"
     ],
+    "evolve_to": [
+        {
+            "method": "EVO_LEVEL",
+            "condition": "27",
+            "target": "ZEBSTRIKA",
+            "extra": "0"
+        }
+    ],
     "blurb": "Its mane shines when discharging electricity. It uses flashing manes to communicate with others.",
     "name": "Blitzle",
+    "evolve_from": [],
     "learnset": [
         {
             "level": 1,
@@ -104,15 +113,6 @@
             "move": "MOVE_VOLTTACKLE"
         }
     ],
-    "evolve_to": [
-        {
-            "method": "EVO_LEVEL",
-            "condition": "27",
-            "target": "ZEBSTRIKA",
-            "extra": "0"
-        }
-    ],
-    "evolve_from": [],
     "tm": [
         "MOVE_TOXIC",
         "MOVE_HIDDENPOWER",

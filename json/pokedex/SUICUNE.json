@@ -29,6 +29,7 @@
     "hiddenAbility": "ABILITY_WATERABSORB",
     "noFlip": true,
     "name": "Suicune",
+    "evolve_from": [],
     "learnset": [
         {
             "level": 1,
@@ -115,7 +116,6 @@
             "move": "MOVE_BLIZZARD"
         }
     ],
-    "evolve_from": [],
     "tm": [
         "MOVE_WATERPULSE",
         "MOVE_CALMMIND",

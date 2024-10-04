@@ -29,6 +29,9 @@
     "hiddenAbility": "ABILITY_CORROSION",
     "noFlip": true,
     "name": "Victreebel",
+    "evolve_from": [
+        "WEEPINBELL"
+    ],
     "learnset": [
         {
             "level": 0,
@@ -126,9 +129,6 @@
             "level": 59,
             "move": "MOVE_WRINGOUT"
         }
-    ],
-    "evolve_from": [
-        "WEEPINBELL"
     ],
     "tm": [
         "MOVE_TOXIC",

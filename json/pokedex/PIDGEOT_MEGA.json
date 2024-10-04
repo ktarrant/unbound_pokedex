@@ -28,6 +28,17 @@
     "safariZoneFleeRate": 0,
     "hiddenAbility": "ABILITY_NONE",
     "noFlip": true,
+    "evolve_to": [
+        {
+            "method": "EVO_MEGA",
+            "condition": "ITEM_NONE",
+            "target": "PIDGEOT",
+            "extra": "MEGA_VARIANT_STANDARD"
+        }
+    ],
+    "evolve_from": [
+        "PIDGEOT"
+    ],
     "learnset": [
         {
             "level": 1,
@@ -98,17 +109,49 @@
             "move": "MOVE_BRAVEBIRD"
         }
     ],
-    "evolve_to": [
-        {
-            "method": "EVO_MEGA",
-            "condition": "ITEM_NONE",
-            "target": "PIDGEOT",
-            "extra": "MEGA_VARIANT_STANDARD"
-        }
+    "tm": [
+        "MOVE_TOXIC",
+        "MOVE_HIDDENPOWER",
+        "MOVE_SUNNYDAY",
+        "MOVE_HYPERBEAM",
+        "MOVE_PROTECT",
+        "MOVE_RAINDANCE",
+        "MOVE_FRUSTRATION",
+        "MOVE_RETURN",
+        "MOVE_DOUBLETEAM",
+        "MOVE_AERIALACE",
+        "MOVE_FACADE",
+        "MOVE_SECRETPOWER",
+        "MOVE_REST",
+        "MOVE_ATTRACT",
+        "MOVE_THIEF",
+        "MOVE_STEELWING",
+        "MOVE_ROOST",
+        "MOVE_ENDURE",
+        "MOVE_GIGAIMPACT",
+        "MOVE_SLEEPTALK",
+        "MOVE_SWAGGER",
+        "MOVE_PLUCK",
+        "MOVE_UTURN",
+        "MOVE_SUBSTITUTE",
+        "MOVE_WORKUP",
+        "MOVE_DEFOG",
+        "MOVE_ROUND",
+        "MOVE_NATURALGIFT",
+        "MOVE_FLY"
     ],
-    "evolve_from": [
-        "PIDGEOT"
-    ],
-    "tm": [],
-    "tutor": []
+    "tutor": [
+        "MOVE_SNORE",
+        "MOVE_UPROAR",
+        "MOVE_TAILWIND",
+        "MOVE_LASERFOCUS",
+        "MOVE_SKYATTACK",
+        "MOVE_HEATWAVE",
+        "MOVE_CONFIDE",
+        "MOVE_AGILITY",
+        "MOVE_AIRSLASH",
+        "MOVE_BRAVEBIRD",
+        "MOVE_HURRICANE",
+        "MOVE_DUALWINGBEAT"
+    ]
 }

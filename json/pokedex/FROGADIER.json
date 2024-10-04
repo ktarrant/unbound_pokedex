@@ -28,8 +28,19 @@
     "safariZoneFleeRate": 0,
     "hiddenAbility": "ABILITY_PROTEAN",
     "noFlip": true,
+    "evolve_to": [
+        {
+            "method": "EVO_LEVEL",
+            "condition": "36",
+            "target": "GRENINJA",
+            "extra": "0"
+        }
+    ],
     "blurb": "Its swiftness is unparalleled. It can scale a tower of more than 2,000 feet in a minute's time.",
     "name": "Frogadier",
+    "evolve_from": [
+        "FROAKIE"
+    ],
     "learnset": [
         {
             "level": 1,
@@ -91,17 +102,6 @@
             "level": 50,
             "move": "MOVE_HYDROPUMP"
         }
-    ],
-    "evolve_to": [
-        {
-            "method": "EVO_LEVEL",
-            "condition": "36",
-            "target": "GRENINJA",
-            "extra": "0"
-        }
-    ],
-    "evolve_from": [
-        "FROAKIE"
     ],
     "tm": [
         "MOVE_WATERPULSE",

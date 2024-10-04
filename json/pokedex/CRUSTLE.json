@@ -30,6 +30,9 @@
     "noFlip": true,
     "blurb": "When its boulder is broken in battles for territory, it feels unsure and begins to weaken.",
     "name": "Crustle",
+    "evolve_from": [
+        "DWEBBLE"
+    ],
     "learnset": [
         {
             "level": 1,
@@ -91,9 +94,6 @@
             "level": 57,
             "move": "MOVE_ROCKWRECKER"
         }
-    ],
-    "evolve_from": [
-        "DWEBBLE"
     ],
     "tm": [
         "MOVE_TOXIC",

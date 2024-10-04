@@ -28,7 +28,18 @@
     "safariZoneFleeRate": 75,
     "hiddenAbility": "ABILITY_HUSTLE",
     "noFlip": true,
+    "evolve_to": [
+        {
+            "method": "EVO_ITEM",
+            "condition": "ITEM_MOON_STONE",
+            "target": "NIDOKING",
+            "extra": "0"
+        }
+    ],
     "name": "Nidorino",
+    "evolve_from": [
+        "NIDORAN_M"
+    ],
     "learnset": [
         {
             "level": 1,
@@ -94,17 +105,6 @@
             "level": 62,
             "move": "MOVE_HORNDRILL"
         }
-    ],
-    "evolve_to": [
-        {
-            "method": "EVO_ITEM",
-            "condition": "ITEM_MOON_STONE",
-            "target": "NIDOKING",
-            "extra": "0"
-        }
-    ],
-    "evolve_from": [
-        "NIDORAN_M"
     ],
     "tm": [
         "MOVE_WATERPULSE",

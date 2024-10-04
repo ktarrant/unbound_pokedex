@@ -30,6 +30,9 @@
     "noFlip": true,
     "blurb": "Its amusing movements make it very popular. It releases its psychic power from the pattern on its belly.",
     "name": "Mr. Rime",
+    "evolve_from": [
+        "MR_MIME_G"
+    ],
     "learnset": [
         {
             "level": 0,
@@ -179,9 +182,6 @@
             "level": 57,
             "move": "MOVE_TEETERDANCE"
         }
-    ],
-    "evolve_from": [
-        "MR_MIME_G"
     ],
     "tm": [
         "MOVE_FOCUSPUNCH",

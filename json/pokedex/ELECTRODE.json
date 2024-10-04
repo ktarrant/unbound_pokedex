@@ -29,6 +29,9 @@
     "hiddenAbility": "ABILITY_AFTERMATH",
     "noFlip": true,
     "name": "Electrode",
+    "evolve_from": [
+        "VOLTORB"
+    ],
     "learnset": [
         {
             "level": 1,
@@ -102,9 +105,6 @@
             "level": 57,
             "move": "MOVE_MIRRORCOAT"
         }
-    ],
-    "evolve_from": [
-        "VOLTORB"
     ],
     "tm": [
         "MOVE_TOXIC",

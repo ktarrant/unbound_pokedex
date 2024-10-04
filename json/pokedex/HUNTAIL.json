@@ -29,6 +29,7 @@
     "hiddenAbility": "ABILITY_WATERVEIL",
     "noFlip": true,
     "name": "Huntail",
+    "evolve_from": [],
     "learnset": [
         {
             "level": 1,
@@ -107,7 +108,6 @@
             "move": "MOVE_HYDROPUMP"
         }
     ],
-    "evolve_from": [],
     "tm": [
         "MOVE_WATERPULSE",
         "MOVE_TOXIC",

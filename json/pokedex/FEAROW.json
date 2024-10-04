@@ -29,6 +29,9 @@
     "hiddenAbility": "ABILITY_MERCILESS",
     "noFlip": true,
     "name": "Fearow",
+    "evolve_from": [
+        "SPEAROW"
+    ],
     "learnset": [
         {
             "level": 0,
@@ -102,9 +105,6 @@
             "level": 54,
             "move": "MOVE_DOUBLEEDGE"
         }
-    ],
-    "evolve_from": [
-        "SPEAROW"
     ],
     "tm": [
         "MOVE_TOXIC",

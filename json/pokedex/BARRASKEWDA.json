@@ -30,6 +30,9 @@
     "noFlip": true,
     "blurb": "Its jaw that's as sharp as a spear and as strong as steel. It spins its tail fins to surge forward at over 100 knots.",
     "name": "Baraskewda",
+    "evolve_from": [
+        "ARROKUDA"
+    ],
     "learnset": [
         {
             "level": 1,
@@ -75,9 +78,6 @@
             "level": 58,
             "move": "MOVE_LIQUIDATION"
         }
-    ],
-    "evolve_from": [
-        "ARROKUDA"
     ],
     "tm": [
         "MOVE_WATERPULSE",

@@ -29,6 +29,7 @@
     "hiddenAbility": "ABILITY_OVERCOAT",
     "noFlip": true,
     "blurb": "It is said that a Wormadam that evolves on a cold day will have a thicker cloak.",
+    "evolve_from": [],
     "learnset": [
         {
             "level": 0,
@@ -103,7 +104,6 @@
             "move": "MOVE_LEAFSTORM"
         }
     ],
-    "evolve_from": [],
     "tm": [
         "MOVE_TOXIC",
         "MOVE_BULLETSEED",

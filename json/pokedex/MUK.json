@@ -29,6 +29,9 @@
     "hiddenAbility": "ABILITY_POISONTOUCH",
     "noFlip": true,
     "name": "Muk",
+    "evolve_from": [
+        "GRIMER"
+    ],
     "learnset": [
         {
             "level": 0,
@@ -106,9 +109,6 @@
             "level": 57,
             "move": "MOVE_MEMENTO"
         }
-    ],
-    "evolve_from": [
-        "GRIMER"
     ],
     "tm": [
         "MOVE_FOCUSPUNCH",

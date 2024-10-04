@@ -29,6 +29,9 @@
     "hiddenAbility": "ABILITY_STURDY",
     "noFlip": true,
     "name": "Machoke",
+    "evolve_from": [
+        "MACHOP"
+    ],
     "learnset": [
         {
             "level": 1,
@@ -106,9 +109,6 @@
             "level": 71,
             "move": "MOVE_CLOSECOMBAT"
         }
-    ],
-    "evolve_from": [
-        "MACHOP"
     ],
     "tm": [
         "MOVE_FOCUSPUNCH",

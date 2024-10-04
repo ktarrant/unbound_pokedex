@@ -30,6 +30,7 @@
     "noFlip": true,
     "blurb": "It can produce ultracold air. Its body is frozen.",
     "name": "Kyurem",
+    "evolve_from": [],
     "learnset": [
         {
             "level": 1,
@@ -100,7 +101,6 @@
             "move": "MOVE_SHEERCOLD"
         }
     ],
-    "evolve_from": [],
     "tm": [
         "MOVE_DRAGONCLAW",
         "MOVE_TOXIC",

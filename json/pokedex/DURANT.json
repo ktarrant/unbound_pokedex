@@ -43,6 +43,7 @@
     ],
     "blurb": "Durant dig nests in mountains. They build their complicated, interconnected tunnels in mazes.",
     "name": "Durant",
+    "evolve_from": [],
     "learnset": [
         {
             "level": 1,
@@ -109,7 +110,6 @@
             "move": "MOVE_GUILLOTINE"
         }
     ],
-    "evolve_from": [],
     "tm": [
         "MOVE_TOXIC",
         "MOVE_HIDDENPOWER",

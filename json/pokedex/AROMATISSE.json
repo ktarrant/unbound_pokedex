@@ -30,6 +30,7 @@
     "noFlip": true,
     "blurb": "It devises various scents and emits scents that its enemies dislike in order to gain an edge in battle.",
     "name": "Aromatisse",
+    "evolve_from": [],
     "learnset": [
         {
             "level": 1,
@@ -112,7 +113,6 @@
             "move": "MOVE_PSYCHUP"
         }
     ],
-    "evolve_from": [],
     "tm": [
         "MOVE_CALMMIND",
         "MOVE_TOXIC",

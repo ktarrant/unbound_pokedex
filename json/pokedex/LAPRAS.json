@@ -45,7 +45,6 @@
         "MOVE_FREEZEDRY",
         "MOVE_SPARKLINGARIA"
     ],
-    "name": "Lapras",
     "evolve_to": [
         {
             "method": "EVO_GIGANTAMAX",
@@ -54,72 +53,7 @@
             "extra": "0"
         }
     ],
-    "learnset": [
-        {
-            "level": 1,
-            "move": "MOVE_GROWL"
-        },
-        {
-            "level": 1,
-            "move": "MOVE_WATERGUN"
-        },
-        {
-            "level": 5,
-            "move": "MOVE_SING"
-        },
-        {
-            "level": 10,
-            "move": "MOVE_MIST"
-        },
-        {
-            "level": 14,
-            "move": "MOVE_LIFEDEW"
-        },
-        {
-            "level": 18,
-            "move": "MOVE_ICESHARD"
-        },
-        {
-            "level": 23,
-            "move": "MOVE_CONFUSERAY"
-        },
-        {
-            "level": 27,
-            "move": "MOVE_WATERPULSE"
-        },
-        {
-            "level": 32,
-            "move": "MOVE_BRINE"
-        },
-        {
-            "level": 37,
-            "move": "MOVE_BODYSLAM"
-        },
-        {
-            "level": 42,
-            "move": "MOVE_ICEBEAM"
-        },
-        {
-            "level": 47,
-            "move": "MOVE_RAINDANCE"
-        },
-        {
-            "level": 51,
-            "move": "MOVE_HYDROPUMP"
-        },
-        {
-            "level": 56,
-            "move": "MOVE_SAFEGUARD"
-        },
-        {
-            "level": 60,
-            "move": "MOVE_PERISHSONG"
-        },
-        {
-            "level": 64,
-            "move": "MOVE_SHEERCOLD"
-        }
-    ],
+    "name": "Lapras",
     "evolve_from": [
         "LAPRAS_GIGA"
     ],
@@ -191,5 +125,71 @@
         "MOVE_WEATHERBALL",
         "MOVE_HYDROPUMP",
         "MOVE_MEGAHORN"
+    ],
+    "learnset": [
+        {
+            "level": 1,
+            "move": "MOVE_GROWL"
+        },
+        {
+            "level": 1,
+            "move": "MOVE_WATERGUN"
+        },
+        {
+            "level": 5,
+            "move": "MOVE_SING"
+        },
+        {
+            "level": 10,
+            "move": "MOVE_MIST"
+        },
+        {
+            "level": 14,
+            "move": "MOVE_LIFEDEW"
+        },
+        {
+            "level": 18,
+            "move": "MOVE_ICESHARD"
+        },
+        {
+            "level": 23,
+            "move": "MOVE_CONFUSERAY"
+        },
+        {
+            "level": 27,
+            "move": "MOVE_WATERPULSE"
+        },
+        {
+            "level": 32,
+            "move": "MOVE_BRINE"
+        },
+        {
+            "level": 37,
+            "move": "MOVE_BODYSLAM"
+        },
+        {
+            "level": 42,
+            "move": "MOVE_ICEBEAM"
+        },
+        {
+            "level": 47,
+            "move": "MOVE_RAINDANCE"
+        },
+        {
+            "level": 51,
+            "move": "MOVE_HYDROPUMP"
+        },
+        {
+            "level": 56,
+            "move": "MOVE_SAFEGUARD"
+        },
+        {
+            "level": 60,
+            "move": "MOVE_PERISHSONG"
+        },
+        {
+            "level": 64,
+            "move": "MOVE_SHEERCOLD"
+        }
     ]
 }

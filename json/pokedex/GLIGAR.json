@@ -45,7 +45,16 @@
         "MOVE_POISONTAIL",
         "MOVE_MUDBOMB"
     ],
+    "evolve_to": [
+        {
+            "method": "EVO_HOLD_ITEM_NIGHT",
+            "condition": "ITEM_RAZOR_FANG",
+            "target": "GLISCOR",
+            "extra": "0"
+        }
+    ],
     "name": "Gligar",
+    "evolve_from": [],
     "learnset": [
         {
             "level": 1,
@@ -116,15 +125,6 @@
             "move": "MOVE_GUILLOTINE"
         }
     ],
-    "evolve_to": [
-        {
-            "method": "EVO_HOLD_ITEM_NIGHT",
-            "condition": "ITEM_RAZOR_FANG",
-            "target": "GLISCOR",
-            "extra": "0"
-        }
-    ],
-    "evolve_from": [],
     "tm": [
         "MOVE_TOXIC",
         "MOVE_HIDDENPOWER",

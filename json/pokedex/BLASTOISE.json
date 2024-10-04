@@ -29,76 +29,6 @@
     "hiddenAbility": "ABILITY_RAINDISH",
     "noFlip": true,
     "name": "Blastoise",
-    "learnset": [
-        {
-            "level": 0,
-            "move": "MOVE_FLASHCANNON"
-        },
-        {
-            "level": 1,
-            "move": "MOVE_TACKLE"
-        },
-        {
-            "level": 1,
-            "move": "MOVE_TAILWHIP"
-        },
-        {
-            "level": 1,
-            "move": "MOVE_BUBBLE"
-        },
-        {
-            "level": 1,
-            "move": "MOVE_WITHDRAW"
-        },
-        {
-            "level": 9,
-            "move": "MOVE_WATERGUN"
-        },
-        {
-            "level": 12,
-            "move": "MOVE_BITE"
-        },
-        {
-            "level": 13,
-            "move": "MOVE_RAPIDSPIN"
-        },
-        {
-            "level": 15,
-            "move": "MOVE_WATERPULSE"
-        },
-        {
-            "level": 20,
-            "move": "MOVE_PROTECT"
-        },
-        {
-            "level": 24,
-            "move": "MOVE_RAINDANCE"
-        },
-        {
-            "level": 29,
-            "move": "MOVE_AQUATAIL"
-        },
-        {
-            "level": 34,
-            "move": "MOVE_SHELLSMASH"
-        },
-        {
-            "level": 35,
-            "move": "MOVE_FLASHCANNON"
-        },
-        {
-            "level": 42,
-            "move": "MOVE_IRONDEFENSE"
-        },
-        {
-            "level": 49,
-            "move": "MOVE_HYDROPUMP"
-        },
-        {
-            "level": 56,
-            "move": "MOVE_SKULLBASH"
-        }
-    ],
     "evolve_from": [
         "WARTORTLE",
         "BLASTOISE_MEGA",
@@ -182,5 +112,75 @@
         "MOVE_HYDROPUMP",
         "MOVE_TERRAINPULSE",
         "MOVE_FLIPTURN"
+    ],
+    "learnset": [
+        {
+            "level": 0,
+            "move": "MOVE_FLASHCANNON"
+        },
+        {
+            "level": 1,
+            "move": "MOVE_TACKLE"
+        },
+        {
+            "level": 1,
+            "move": "MOVE_TAILWHIP"
+        },
+        {
+            "level": 1,
+            "move": "MOVE_BUBBLE"
+        },
+        {
+            "level": 1,
+            "move": "MOVE_WITHDRAW"
+        },
+        {
+            "level": 9,
+            "move": "MOVE_WATERGUN"
+        },
+        {
+            "level": 12,
+            "move": "MOVE_BITE"
+        },
+        {
+            "level": 13,
+            "move": "MOVE_RAPIDSPIN"
+        },
+        {
+            "level": 15,
+            "move": "MOVE_WATERPULSE"
+        },
+        {
+            "level": 20,
+            "move": "MOVE_PROTECT"
+        },
+        {
+            "level": 24,
+            "move": "MOVE_RAINDANCE"
+        },
+        {
+            "level": 29,
+            "move": "MOVE_AQUATAIL"
+        },
+        {
+            "level": 34,
+            "move": "MOVE_SHELLSMASH"
+        },
+        {
+            "level": 35,
+            "move": "MOVE_FLASHCANNON"
+        },
+        {
+            "level": 42,
+            "move": "MOVE_IRONDEFENSE"
+        },
+        {
+            "level": 49,
+            "move": "MOVE_HYDROPUMP"
+        },
+        {
+            "level": 56,
+            "move": "MOVE_SKULLBASH"
+        }
     ]
 }

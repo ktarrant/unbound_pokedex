@@ -29,6 +29,7 @@
     "hiddenAbility": "ABILITY_DRIZZLE",
     "noFlip": true,
     "name": "Politoed",
+    "evolve_from": [],
     "learnset": [
         {
             "level": 0,
@@ -119,7 +120,6 @@
             "move": "MOVE_BUBBLEBEAM"
         }
     ],
-    "evolve_from": [],
     "tm": [
         "MOVE_FOCUSPUNCH",
         "MOVE_WATERPULSE",

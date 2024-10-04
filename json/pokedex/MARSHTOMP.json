@@ -28,7 +28,18 @@
     "safariZoneFleeRate": 0,
     "hiddenAbility": "ABILITY_DAMP",
     "noFlip": true,
+    "evolve_to": [
+        {
+            "method": "EVO_LEVEL",
+            "condition": "36",
+            "target": "SWAMPERT",
+            "extra": "0"
+        }
+    ],
     "name": "Marshtomp",
+    "evolve_from": [
+        "MUDKIP"
+    ],
     "learnset": [
         {
             "level": 0,
@@ -106,17 +117,6 @@
             "level": 58,
             "move": "MOVE_HYDROPUMP"
         }
-    ],
-    "evolve_to": [
-        {
-            "method": "EVO_LEVEL",
-            "condition": "36",
-            "target": "SWAMPERT",
-            "extra": "0"
-        }
-    ],
-    "evolve_from": [
-        "MUDKIP"
     ],
     "tm": [
         "MOVE_WATERPULSE",

@@ -28,8 +28,6 @@
     "safariZoneFleeRate": 0,
     "hiddenAbility": "ABILITY_PICKPOCKET",
     "noFlip": true,
-    "blurb": "Its hairs work like muscle fibers. When its hairs unfurl, they latch on to foes, ensnaring them like tentacles.",
-    "name": "Grimmsnarl",
     "evolve_to": [
         {
             "method": "EVO_GIGANTAMAX",
@@ -38,84 +36,8 @@
             "extra": "0"
         }
     ],
-    "learnset": [
-        {
-            "level": 0,
-            "move": "MOVE_SPIRITBREAK"
-        },
-        {
-            "level": 1,
-            "move": "MOVE_BULKUP"
-        },
-        {
-            "level": 1,
-            "move": "MOVE_POWERUPPUNCH"
-        },
-        {
-            "level": 1,
-            "move": "MOVE_CONFIDE"
-        },
-        {
-            "level": 1,
-            "move": "MOVE_FAKEOUT"
-        },
-        {
-            "level": 1,
-            "move": "MOVE_BITE"
-        },
-        {
-            "level": 1,
-            "move": "MOVE_FLATTER"
-        },
-        {
-            "level": 12,
-            "move": "MOVE_FAKETEARS"
-        },
-        {
-            "level": 16,
-            "move": "MOVE_ASSURANCE"
-        },
-        {
-            "level": 20,
-            "move": "MOVE_SWAGGER"
-        },
-        {
-            "level": 24,
-            "move": "MOVE_SUCKERPUNCH"
-        },
-        {
-            "level": 28,
-            "move": "MOVE_TORMENT"
-        },
-        {
-            "level": 31,
-            "move": "MOVE_FALSESURRENDER"
-        },
-        {
-            "level": 35,
-            "move": "MOVE_DARKPULSE"
-        },
-        {
-            "level": 40,
-            "move": "MOVE_NASTYPLOT"
-        },
-        {
-            "level": 41,
-            "move": "MOVE_SPIRITBREAK"
-        },
-        {
-            "level": 48,
-            "move": "MOVE_PLAYROUGH"
-        },
-        {
-            "level": 56,
-            "move": "MOVE_FOULPLAY"
-        },
-        {
-            "level": 64,
-            "move": "MOVE_HAMMERARM"
-        }
-    ],
+    "blurb": "Its hairs work like muscle fibers. When its hairs unfurl, they latch on to foes, ensnaring them like tentacles.",
+    "name": "Grimmsnarl",
     "evolve_from": [
         "MORGREM",
         "GRIMMSNARL_GIGA"
@@ -201,5 +123,83 @@
         "MOVE_POWERWHIP",
         "MOVE_BURNINGJEALOUSY",
         "MOVE_LASHOUT"
+    ],
+    "learnset": [
+        {
+            "level": 0,
+            "move": "MOVE_SPIRITBREAK"
+        },
+        {
+            "level": 1,
+            "move": "MOVE_BULKUP"
+        },
+        {
+            "level": 1,
+            "move": "MOVE_POWERUPPUNCH"
+        },
+        {
+            "level": 1,
+            "move": "MOVE_CONFIDE"
+        },
+        {
+            "level": 1,
+            "move": "MOVE_FAKEOUT"
+        },
+        {
+            "level": 1,
+            "move": "MOVE_BITE"
+        },
+        {
+            "level": 1,
+            "move": "MOVE_FLATTER"
+        },
+        {
+            "level": 12,
+            "move": "MOVE_FAKETEARS"
+        },
+        {
+            "level": 16,
+            "move": "MOVE_ASSURANCE"
+        },
+        {
+            "level": 20,
+            "move": "MOVE_SWAGGER"
+        },
+        {
+            "level": 24,
+            "move": "MOVE_SUCKERPUNCH"
+        },
+        {
+            "level": 28,
+            "move": "MOVE_TORMENT"
+        },
+        {
+            "level": 31,
+            "move": "MOVE_FALSESURRENDER"
+        },
+        {
+            "level": 35,
+            "move": "MOVE_DARKPULSE"
+        },
+        {
+            "level": 40,
+            "move": "MOVE_NASTYPLOT"
+        },
+        {
+            "level": 41,
+            "move": "MOVE_SPIRITBREAK"
+        },
+        {
+            "level": 48,
+            "move": "MOVE_PLAYROUGH"
+        },
+        {
+            "level": 56,
+            "move": "MOVE_FOULPLAY"
+        },
+        {
+            "level": 64,
+            "move": "MOVE_HAMMERARM"
+        }
     ]
 }

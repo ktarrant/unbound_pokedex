@@ -28,8 +28,19 @@
     "safariZoneFleeRate": 0,
     "hiddenAbility": "ABILITY_QUICKFEET",
     "noFlip": true,
+    "evolve_to": [
+        {
+            "method": "EVO_LEVEL_NIGHT",
+            "condition": "35",
+            "target": "OBSTAGOON",
+            "extra": "0"
+        }
+    ],
     "blurb": "It uses its long tongue to taunt foes. Once the opposition is enraged, it hurls itself, tackling them forcefully.",
     "name": "Linoone",
+    "evolve_from": [
+        "ZIGZAGOON_G"
+    ],
     "learnset": [
         {
             "level": 0,
@@ -115,17 +126,6 @@
             "level": 55,
             "move": "MOVE_DOUBLEEDGE"
         }
-    ],
-    "evolve_to": [
-        {
-            "method": "EVO_LEVEL_NIGHT",
-            "condition": "35",
-            "target": "OBSTAGOON",
-            "extra": "0"
-        }
-    ],
-    "evolve_from": [
-        "ZIGZAGOON_G"
     ],
     "tm": [
         "MOVE_ROAR",

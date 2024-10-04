@@ -28,6 +28,7 @@
     "safariZoneFleeRate": 0,
     "hiddenAbility": "ABILITY_PORTALPOWER",
     "noFlip": true,
+    "evolve_from": [],
     "learnset": [
         {
             "level": 1,
@@ -106,7 +107,6 @@
             "move": "MOVE_HYPERSPACEFURY"
         }
     ],
-    "evolve_from": [],
     "tm": [
         "MOVE_FOCUSPUNCH",
         "MOVE_CALMMIND",

@@ -48,6 +48,7 @@
         "MOVE_SPOTLIGHT"
     ],
     "name": "Spinda",
+    "evolve_from": [],
     "learnset": [
         {
             "level": 1,
@@ -102,7 +103,6 @@
             "move": "MOVE_THRASH"
         }
     ],
-    "evolve_from": [],
     "tm": [
         "MOVE_FOCUSPUNCH",
         "MOVE_WATERPULSE",

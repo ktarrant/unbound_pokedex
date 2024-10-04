@@ -28,8 +28,6 @@
     "safariZoneFleeRate": 0,
     "hiddenAbility": "ABILITY_MIRRORARMOR",
     "noFlip": true,
-    "blurb": "The black luster of its steel body could drive terror into the heart of any foe.",
-    "name": "Corvknight",
     "evolve_to": [
         {
             "method": "EVO_GIGANTAMAX",
@@ -38,68 +36,8 @@
             "extra": "0"
         }
     ],
-    "learnset": [
-        {
-            "level": 0,
-            "move": "MOVE_STEELWING"
-        },
-        {
-            "level": 1,
-            "move": "MOVE_IRONDEFENSE"
-        },
-        {
-            "level": 1,
-            "move": "MOVE_METALSOUND"
-        },
-        {
-            "level": 1,
-            "move": "MOVE_LEER"
-        },
-        {
-            "level": 1,
-            "move": "MOVE_PECK"
-        },
-        {
-            "level": 1,
-            "move": "MOVE_POWERTRIP"
-        },
-        {
-            "level": 1,
-            "move": "MOVE_HONECLAWS"
-        },
-        {
-            "level": 12,
-            "move": "MOVE_FURYATTACK"
-        },
-        {
-            "level": 16,
-            "move": "MOVE_PLUCK"
-        },
-        {
-            "level": 22,
-            "move": "MOVE_TAUNT"
-        },
-        {
-            "level": 28,
-            "move": "MOVE_SCARYFACE"
-        },
-        {
-            "level": 34,
-            "move": "MOVE_DRILLPECK"
-        },
-        {
-            "level": 37,
-            "move": "MOVE_STEELWING"
-        },
-        {
-            "level": 42,
-            "move": "MOVE_SWAGGER"
-        },
-        {
-            "level": 50,
-            "move": "MOVE_BRAVEBIRD"
-        }
-    ],
+    "blurb": "The black luster of its steel body could drive terror into the heart of any foe.",
+    "name": "Corvknight",
     "evolve_from": [
         "CORVISQUIRE",
         "CORVIKNIGHT_GIGA"
@@ -167,5 +105,67 @@
         "MOVE_BRAVEBIRD",
         "MOVE_HURRICANE",
         "MOVE_DUALWINGBEAT"
+    ],
+    "learnset": [
+        {
+            "level": 0,
+            "move": "MOVE_STEELWING"
+        },
+        {
+            "level": 1,
+            "move": "MOVE_IRONDEFENSE"
+        },
+        {
+            "level": 1,
+            "move": "MOVE_METALSOUND"
+        },
+        {
+            "level": 1,
+            "move": "MOVE_LEER"
+        },
+        {
+            "level": 1,
+            "move": "MOVE_PECK"
+        },
+        {
+            "level": 1,
+            "move": "MOVE_POWERTRIP"
+        },
+        {
+            "level": 1,
+            "move": "MOVE_HONECLAWS"
+        },
+        {
+            "level": 12,
+            "move": "MOVE_FURYATTACK"
+        },
+        {
+            "level": 16,
+            "move": "MOVE_PLUCK"
+        },
+        {
+            "level": 22,
+            "move": "MOVE_TAUNT"
+        },
+        {
+            "level": 28,
+            "move": "MOVE_SCARYFACE"
+        },
+        {
+            "level": 34,
+            "move": "MOVE_DRILLPECK"
+        },
+        {
+            "level": 37,
+            "move": "MOVE_STEELWING"
+        },
+        {
+            "level": 42,
+            "move": "MOVE_SWAGGER"
+        },
+        {
+            "level": 50,
+            "move": "MOVE_BRAVEBIRD"
+        }
     ]
 }

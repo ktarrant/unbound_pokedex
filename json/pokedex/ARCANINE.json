@@ -29,6 +29,9 @@
     "hiddenAbility": "ABILITY_JUSTIFIED",
     "noFlip": true,
     "name": "Arcanine",
+    "evolve_from": [
+        "GROWLITHE"
+    ],
     "learnset": [
         {
             "level": 0,
@@ -122,9 +125,6 @@
             "level": 60,
             "move": "MOVE_FLAREBLITZ"
         }
-    ],
-    "evolve_from": [
-        "GROWLITHE"
     ],
     "tm": [
         "MOVE_ROAR",

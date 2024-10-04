@@ -33,8 +33,17 @@
         "MOVE_SWAGGER",
         "MOVE_COUNTER"
     ],
+    "evolve_to": [
+        {
+            "method": "EVO_LEVEL",
+            "condition": "24",
+            "target": "DUBWOOL",
+            "extra": "0"
+        }
+    ],
     "blurb": "If its fleece grows too long, it won't be able to move. Cloth made with its wool is surprisingly durable.",
     "name": "Wooloo",
+    "evolve_from": [],
     "learnset": [
         {
             "level": 1,
@@ -85,15 +94,6 @@
             "move": "MOVE_DOUBLEEDGE"
         }
     ],
-    "evolve_to": [
-        {
-            "method": "EVO_LEVEL",
-            "condition": "24",
-            "target": "DUBWOOL",
-            "extra": "0"
-        }
-    ],
-    "evolve_from": [],
     "tm": [
         "MOVE_TOXIC",
         "MOVE_HIDDENPOWER",

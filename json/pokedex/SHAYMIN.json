@@ -30,6 +30,7 @@
     "noFlip": true,
     "blurb": "The flowers all over its body burst into bloom if it is lovingly hugged and senses gratitude.",
     "name": "Shaymin",
+    "evolve_from": [],
     "learnset": [
         {
             "level": 1,
@@ -88,7 +89,6 @@
             "move": "MOVE_SEEDFLARE"
         }
     ],
-    "evolve_from": [],
     "tm": [
         "MOVE_TOXIC",
         "MOVE_BULLETSEED",

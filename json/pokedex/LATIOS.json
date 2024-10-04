@@ -28,7 +28,6 @@
     "safariZoneFleeRate": 0,
     "hiddenAbility": "ABILITY_SERENEGRACE",
     "noFlip": true,
-    "name": "Latios",
     "evolve_to": [
         {
             "method": "EVO_MEGA",
@@ -37,92 +36,7 @@
             "extra": "MEGA_VARIANT_STANDARD"
         }
     ],
-    "learnset": [
-        {
-            "level": 1,
-            "move": "MOVE_HEALBLOCK"
-        },
-        {
-            "level": 1,
-            "move": "MOVE_STOREDPOWER"
-        },
-        {
-            "level": 1,
-            "move": "MOVE_PROTECT"
-        },
-        {
-            "level": 1,
-            "move": "MOVE_DRAGONDANCE"
-        },
-        {
-            "level": 1,
-            "move": "MOVE_REFRESH"
-        },
-        {
-            "level": 1,
-            "move": "MOVE_PSYWAVE"
-        },
-        {
-            "level": 5,
-            "move": "MOVE_HELPINGHAND"
-        },
-        {
-            "level": 10,
-            "move": "MOVE_RECOVER"
-        },
-        {
-            "level": 15,
-            "move": "MOVE_CONFUSION"
-        },
-        {
-            "level": 20,
-            "move": "MOVE_TAILWIND"
-        },
-        {
-            "level": 25,
-            "move": "MOVE_DRAGONBREATH"
-        },
-        {
-            "level": 30,
-            "move": "MOVE_TELEKINESIS"
-        },
-        {
-            "level": 35,
-            "move": "MOVE_LUSTERPURGE"
-        },
-        {
-            "level": 40,
-            "move": "MOVE_ZENHEADBUTT"
-        },
-        {
-            "level": 45,
-            "move": "MOVE_DRAGONPULSE"
-        },
-        {
-            "level": 50,
-            "move": "MOVE_HEALPULSE"
-        },
-        {
-            "level": 55,
-            "move": "MOVE_SIMPLEBEAM"
-        },
-        {
-            "level": 60,
-            "move": "MOVE_PSYCHIC"
-        },
-        {
-            "level": 65,
-            "move": "MOVE_POWERSPLIT"
-        },
-        {
-            "level": 70,
-            "move": "MOVE_MEMENTO"
-        },
-        {
-            "level": 75,
-            "move": "MOVE_PSYCHOSHIFT"
-        }
-    ],
+    "name": "Latios",
     "evolve_from": [
         "LATIOS_MEGA"
     ],
@@ -212,5 +126,91 @@
         "MOVE_PSYCHOCUT",
         "MOVE_SCALESHOT",
         "MOVE_DUALWINGBEAT"
+    ],
+    "learnset": [
+        {
+            "level": 1,
+            "move": "MOVE_HEALBLOCK"
+        },
+        {
+            "level": 1,
+            "move": "MOVE_STOREDPOWER"
+        },
+        {
+            "level": 1,
+            "move": "MOVE_PROTECT"
+        },
+        {
+            "level": 1,
+            "move": "MOVE_DRAGONDANCE"
+        },
+        {
+            "level": 1,
+            "move": "MOVE_REFRESH"
+        },
+        {
+            "level": 1,
+            "move": "MOVE_PSYWAVE"
+        },
+        {
+            "level": 5,
+            "move": "MOVE_HELPINGHAND"
+        },
+        {
+            "level": 10,
+            "move": "MOVE_RECOVER"
+        },
+        {
+            "level": 15,
+            "move": "MOVE_CONFUSION"
+        },
+        {
+            "level": 20,
+            "move": "MOVE_TAILWIND"
+        },
+        {
+            "level": 25,
+            "move": "MOVE_DRAGONBREATH"
+        },
+        {
+            "level": 30,
+            "move": "MOVE_TELEKINESIS"
+        },
+        {
+            "level": 35,
+            "move": "MOVE_LUSTERPURGE"
+        },
+        {
+            "level": 40,
+            "move": "MOVE_ZENHEADBUTT"
+        },
+        {
+            "level": 45,
+            "move": "MOVE_DRAGONPULSE"
+        },
+        {
+            "level": 50,
+            "move": "MOVE_HEALPULSE"
+        },
+        {
+            "level": 55,
+            "move": "MOVE_SIMPLEBEAM"
+        },
+        {
+            "level": 60,
+            "move": "MOVE_PSYCHIC"
+        },
+        {
+            "level": 65,
+            "move": "MOVE_POWERSPLIT"
+        },
+        {
+            "level": 70,
+            "move": "MOVE_MEMENTO"
+        },
+        {
+            "level": 75,
+            "move": "MOVE_PSYCHOSHIFT"
+        }
     ]
 }

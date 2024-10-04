@@ -39,7 +39,16 @@
         "MOVE_PSYCHICFANGS",
         "MOVE_WATERPULSE"
     ],
+    "evolve_to": [
+        {
+            "method": "EVO_LEVEL",
+            "condition": "30",
+            "target": "SHARPEDO",
+            "extra": "0"
+        }
+    ],
     "name": "Carvanha",
+    "evolve_from": [],
     "learnset": [
         {
             "level": 1,
@@ -102,15 +111,6 @@
             "move": "MOVE_TAKEDOWN"
         }
     ],
-    "evolve_to": [
-        {
-            "method": "EVO_LEVEL",
-            "condition": "30",
-            "target": "SHARPEDO",
-            "extra": "0"
-        }
-    ],
-    "evolve_from": [],
     "tm": [
         "MOVE_WATERPULSE",
         "MOVE_TOXIC",

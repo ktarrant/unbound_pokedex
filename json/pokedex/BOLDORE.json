@@ -30,6 +30,9 @@
     "noFlip": true,
     "blurb": "Because its energy was too great to be contained, the energy leaked and formed orange crystals.",
     "name": "Boldore",
+    "evolve_from": [
+        "ROGGENROLA"
+    ],
     "learnset": [
         {
             "level": 0,
@@ -95,9 +98,6 @@
             "level": 60,
             "move": "MOVE_EXPLOSION"
         }
-    ],
-    "evolve_from": [
-        "ROGGENROLA"
     ],
     "tm": [
         "MOVE_TOXIC",

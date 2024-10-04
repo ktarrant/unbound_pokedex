@@ -30,6 +30,9 @@
     "noFlip": true,
     "blurb": "Its body is encased in a sturdy shell. Its head rotates 180 degrees, eliminating blind spots.",
     "name": "Drapion",
+    "evolve_from": [
+        "SKORUPI"
+    ],
     "learnset": [
         {
             "level": 1,
@@ -123,9 +126,6 @@
             "level": 61,
             "move": "MOVE_CRUNCH"
         }
-    ],
-    "evolve_from": [
-        "SKORUPI"
     ],
     "tm": [
         "MOVE_ROAR",

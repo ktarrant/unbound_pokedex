@@ -28,6 +28,7 @@
     "safariZoneFleeRate": 0,
     "hiddenAbility": "ABILITY_ANALYTIC",
     "noFlip": true,
+    "evolve_from": [],
     "learnset": [
         {
             "level": 1,
@@ -122,7 +123,6 @@
             "move": "MOVE_SELFDESTRUCT"
         }
     ],
-    "evolve_from": [],
     "tm": [
         "MOVE_TOXIC",
         "MOVE_HIDDENPOWER",

@@ -28,7 +28,18 @@
     "safariZoneFleeRate": 0,
     "hiddenAbility": "ABILITY_NONE",
     "noFlip": true,
+    "evolve_to": [
+        {
+            "method": "EVO_LEVEL",
+            "condition": "48",
+            "target": "TYRANITAR",
+            "extra": "0"
+        }
+    ],
     "name": "Pupitar",
+    "evolve_from": [
+        "LARVITAR"
+    ],
     "learnset": [
         {
             "level": 0,
@@ -110,17 +121,6 @@
             "level": 56,
             "move": "MOVE_HYPERBEAM"
         }
-    ],
-    "evolve_to": [
-        {
-            "method": "EVO_LEVEL",
-            "condition": "48",
-            "target": "TYRANITAR",
-            "extra": "0"
-        }
-    ],
-    "evolve_from": [
-        "LARVITAR"
     ],
     "tm": [
         "MOVE_TOXIC",

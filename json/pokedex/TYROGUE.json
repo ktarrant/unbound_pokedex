@@ -41,6 +41,7 @@
         "MOVE_FEINT"
     ],
     "name": "Tyrogue",
+    "evolve_from": [],
     "learnset": [
         {
             "level": 1,
@@ -59,7 +60,6 @@
             "move": "MOVE_FORESIGHT"
         }
     ],
-    "evolve_from": [],
     "tm": [
         "MOVE_TOXIC",
         "MOVE_BULKUP",

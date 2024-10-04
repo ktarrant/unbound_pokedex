@@ -42,6 +42,7 @@
         "MOVE_UPROAR",
         "MOVE_WAVECRASH"
     ],
+    "evolve_from": [],
     "learnset": [
         {
             "level": 1,
@@ -112,7 +113,6 @@
             "move": "MOVE_HEADSMASH"
         }
     ],
-    "evolve_from": [],
     "tm": [
         "MOVE_TOXIC",
         "MOVE_HAIL",

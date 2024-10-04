@@ -29,6 +29,9 @@
     "hiddenAbility": "ABILITY_SANDRUSH",
     "noFlip": true,
     "name": "Sandslash",
+    "evolve_from": [
+        "SANDSHREW"
+    ],
     "learnset": [
         {
             "level": 0,
@@ -114,9 +117,6 @@
             "level": 61,
             "move": "MOVE_EARTHQUAKE"
         }
-    ],
-    "evolve_from": [
-        "SANDSHREW"
     ],
     "tm": [
         "MOVE_FOCUSPUNCH",

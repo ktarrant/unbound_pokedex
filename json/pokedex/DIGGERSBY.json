@@ -30,6 +30,9 @@
     "noFlip": true,
     "blurb": "As powerful as an excavator, its ears can reduce dense bedrock to rubble.",
     "name": "Diggersby",
+    "evolve_from": [
+        "BUNNELBY"
+    ],
     "learnset": [
         {
             "level": 1,
@@ -115,9 +118,6 @@
             "level": 60,
             "move": "MOVE_SUPERFANG"
         }
-    ],
-    "evolve_from": [
-        "BUNNELBY"
     ],
     "tm": [
         "MOVE_FOCUSPUNCH",

@@ -29,6 +29,7 @@
     "hiddenAbility": "ABILITY_LIGHTNINGROD",
     "noFlip": true,
     "name": "Raichu",
+    "evolve_from": [],
     "learnset": [
         {
             "level": 0,
@@ -123,7 +124,6 @@
             "move": "MOVE_THUNDER"
         }
     ],
-    "evolve_from": [],
     "tm": [
         "MOVE_FOCUSPUNCH",
         "MOVE_CALMMIND",

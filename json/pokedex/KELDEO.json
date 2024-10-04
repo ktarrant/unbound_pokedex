@@ -30,72 +30,6 @@
     "noFlip": true,
     "blurb": "It crosses the world, running over the surfaces of oceans and rivers. It appears at scenic waterfronts.",
     "name": "Keldeo",
-    "learnset": [
-        {
-            "level": 1,
-            "move": "MOVE_SECRETSWORD"
-        },
-        {
-            "level": 1,
-            "move": "MOVE_AURORABEAM"
-        },
-        {
-            "level": 1,
-            "move": "MOVE_AQUAJET"
-        },
-        {
-            "level": 1,
-            "move": "MOVE_LEER"
-        },
-        {
-            "level": 1,
-            "move": "MOVE_HELPINGHAND"
-        },
-        {
-            "level": 1,
-            "move": "MOVE_WORKUP"
-        },
-        {
-            "level": 7,
-            "move": "MOVE_BUBBLEBEAM"
-        },
-        {
-            "level": 14,
-            "move": "MOVE_QUICKGUARD"
-        },
-        {
-            "level": 21,
-            "move": "MOVE_DOUBLEKICK"
-        },
-        {
-            "level": 28,
-            "move": "MOVE_RETALIATE"
-        },
-        {
-            "level": 35,
-            "move": "MOVE_AQUATAIL"
-        },
-        {
-            "level": 42,
-            "move": "MOVE_TAKEDOWN"
-        },
-        {
-            "level": 49,
-            "move": "MOVE_SACREDSWORD"
-        },
-        {
-            "level": 56,
-            "move": "MOVE_SWORDSDANCE"
-        },
-        {
-            "level": 63,
-            "move": "MOVE_HYDROPUMP"
-        },
-        {
-            "level": 70,
-            "move": "MOVE_CLOSECOMBAT"
-        }
-    ],
     "evolve_from": [],
     "tm": [
         "MOVE_WATERPULSE",
@@ -164,5 +98,71 @@
         "MOVE_MEGAHORN",
         "MOVE_COACHING",
         "MOVE_FLIPTURN"
+    ],
+    "learnset": [
+        {
+            "level": 1,
+            "move": "MOVE_SECRETSWORD"
+        },
+        {
+            "level": 1,
+            "move": "MOVE_AURORABEAM"
+        },
+        {
+            "level": 1,
+            "move": "MOVE_AQUAJET"
+        },
+        {
+            "level": 1,
+            "move": "MOVE_LEER"
+        },
+        {
+            "level": 1,
+            "move": "MOVE_HELPINGHAND"
+        },
+        {
+            "level": 1,
+            "move": "MOVE_WORKUP"
+        },
+        {
+            "level": 7,
+            "move": "MOVE_BUBBLEBEAM"
+        },
+        {
+            "level": 14,
+            "move": "MOVE_QUICKGUARD"
+        },
+        {
+            "level": 21,
+            "move": "MOVE_DOUBLEKICK"
+        },
+        {
+            "level": 28,
+            "move": "MOVE_RETALIATE"
+        },
+        {
+            "level": 35,
+            "move": "MOVE_AQUATAIL"
+        },
+        {
+            "level": 42,
+            "move": "MOVE_TAKEDOWN"
+        },
+        {
+            "level": 49,
+            "move": "MOVE_SACREDSWORD"
+        },
+        {
+            "level": 56,
+            "move": "MOVE_SWORDSDANCE"
+        },
+        {
+            "level": 63,
+            "move": "MOVE_HYDROPUMP"
+        },
+        {
+            "level": 70,
+            "move": "MOVE_CLOSECOMBAT"
+        }
     ]
 }

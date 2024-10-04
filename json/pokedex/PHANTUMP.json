@@ -39,6 +39,7 @@
     ],
     "blurb": "It is created when a spirit possesses rotten tree stumps. It prefers to live in abandoned forests.",
     "name": "Phantump",
+    "evolve_from": [],
     "learnset": [
         {
             "level": 1,
@@ -105,7 +106,6 @@
             "move": "MOVE_FORESTSCURSE"
         }
     ],
-    "evolve_from": [],
     "tm": [
         "MOVE_TOXIC",
         "MOVE_HIDDENPOWER",

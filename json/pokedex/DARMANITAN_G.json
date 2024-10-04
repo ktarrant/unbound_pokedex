@@ -30,68 +30,6 @@
     "noFlip": true,
     "blurb": "Though it has a gentle disposition, it's also very strong. It stashes food in the snowball on its head.",
     "name": "Darmanitan",
-    "learnset": [
-        {
-            "level": 1,
-            "move": "MOVE_ICICLECRASH"
-        },
-        {
-            "level": 1,
-            "move": "MOVE_POWDERSNOW"
-        },
-        {
-            "level": 1,
-            "move": "MOVE_TACKLE"
-        },
-        {
-            "level": 4,
-            "move": "MOVE_TAUNT"
-        },
-        {
-            "level": 8,
-            "move": "MOVE_UPROAR"
-        },
-        {
-            "level": 12,
-            "move": "MOVE_BLIZZARD"
-        },
-        {
-            "level": 17,
-            "move": "MOVE_WORKUP"
-        },
-        {
-            "level": 21,
-            "move": "MOVE_BITE"
-        },
-        {
-            "level": 26,
-            "move": "MOVE_AVALANCHE"
-        },
-        {
-            "level": 31,
-            "move": "MOVE_HEADBUTT"
-        },
-        {
-            "level": 36,
-            "move": "MOVE_ICEFANG"
-        },
-        {
-            "level": 43,
-            "move": "MOVE_BELLYDRUM"
-        },
-        {
-            "level": 49,
-            "move": "MOVE_ICEPUNCH"
-        },
-        {
-            "level": 56,
-            "move": "MOVE_THRASH"
-        },
-        {
-            "level": 63,
-            "move": "MOVE_SUPERPOWER"
-        }
-    ],
     "evolve_from": [
         "DARUMAKA_G"
     ],
@@ -178,5 +116,67 @@
         "MOVE_FLAREBLITZ",
         "MOVE_BURNINGJEALOUSY",
         "MOVE_LASHOUT"
+    ],
+    "learnset": [
+        {
+            "level": 1,
+            "move": "MOVE_ICICLECRASH"
+        },
+        {
+            "level": 1,
+            "move": "MOVE_POWDERSNOW"
+        },
+        {
+            "level": 1,
+            "move": "MOVE_TACKLE"
+        },
+        {
+            "level": 4,
+            "move": "MOVE_TAUNT"
+        },
+        {
+            "level": 8,
+            "move": "MOVE_UPROAR"
+        },
+        {
+            "level": 12,
+            "move": "MOVE_BLIZZARD"
+        },
+        {
+            "level": 17,
+            "move": "MOVE_WORKUP"
+        },
+        {
+            "level": 21,
+            "move": "MOVE_BITE"
+        },
+        {
+            "level": 26,
+            "move": "MOVE_AVALANCHE"
+        },
+        {
+            "level": 31,
+            "move": "MOVE_HEADBUTT"
+        },
+        {
+            "level": 36,
+            "move": "MOVE_ICEFANG"
+        },
+        {
+            "level": 43,
+            "move": "MOVE_BELLYDRUM"
+        },
+        {
+            "level": 49,
+            "move": "MOVE_ICEPUNCH"
+        },
+        {
+            "level": 56,
+            "move": "MOVE_THRASH"
+        },
+        {
+            "level": 63,
+            "move": "MOVE_SUPERPOWER"
+        }
     ]
 }

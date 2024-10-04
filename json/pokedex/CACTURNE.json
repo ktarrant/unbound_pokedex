@@ -29,6 +29,9 @@
     "hiddenAbility": "ABILITY_WATERABSORB",
     "noFlip": true,
     "name": "Cacturne",
+    "evolve_from": [
+        "CACNEA"
+    ],
     "learnset": [
         {
             "level": 0,
@@ -114,9 +117,6 @@
             "level": 76,
             "move": "MOVE_DESTINYBOND"
         }
-    ],
-    "evolve_from": [
-        "CACNEA"
     ],
     "tm": [
         "MOVE_FOCUSPUNCH",

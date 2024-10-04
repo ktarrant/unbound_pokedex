@@ -28,8 +28,19 @@
     "safariZoneFleeRate": 0,
     "hiddenAbility": "ABILITY_DEFIANT",
     "noFlip": true,
+    "evolve_to": [
+        {
+            "method": "EVO_LEVEL",
+            "condition": "36",
+            "target": "EMPOLEON",
+            "extra": "0"
+        }
+    ],
     "blurb": "Because every Prinplup considers itself to be the most important, they can never form a group.",
     "name": "Prinplup",
+    "evolve_from": [
+        "PIPLUP"
+    ],
     "learnset": [
         {
             "level": 0,
@@ -95,17 +106,6 @@
             "level": 50,
             "move": "MOVE_HYDROPUMP"
         }
-    ],
-    "evolve_to": [
-        {
-            "method": "EVO_LEVEL",
-            "condition": "36",
-            "target": "EMPOLEON",
-            "extra": "0"
-        }
-    ],
-    "evolve_from": [
-        "PIPLUP"
     ],
     "tm": [
         "MOVE_WATERPULSE",

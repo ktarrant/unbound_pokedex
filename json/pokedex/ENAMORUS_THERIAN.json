@@ -29,6 +29,7 @@
     "hiddenAbility": "ABILITY_NONE",
     "noFlip": true,
     "name": "Enamorus",
+    "evolve_from": [],
     "learnset": [
         {
             "level": 1,
@@ -119,7 +120,6 @@
             "move": "MOVE_THRASH"
         }
     ],
-    "evolve_from": [],
     "tm": [
         "MOVE_CALMMIND",
         "MOVE_TOXIC",

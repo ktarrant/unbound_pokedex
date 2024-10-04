@@ -30,6 +30,7 @@
     "noFlip": true,
     "blurb": "This Ultra Beast's body, which is as thin as paper, is like a sharpened sword.",
     "name": "Kartana",
+    "evolve_from": [],
     "learnset": [
         {
             "level": 1,
@@ -108,7 +109,6 @@
             "move": "MOVE_GUILLOTINE"
         }
     ],
-    "evolve_from": [],
     "tm": [
         "MOVE_CALMMIND",
         "MOVE_TOXIC",

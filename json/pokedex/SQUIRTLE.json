@@ -49,7 +49,16 @@
         "MOVE_FOLLOWME",
         "MOVE_CELEBRATE"
     ],
+    "evolve_to": [
+        {
+            "method": "EVO_LEVEL",
+            "condition": "16",
+            "target": "WARTORTLE",
+            "extra": "0"
+        }
+    ],
     "name": "Squirtle",
+    "evolve_from": [],
     "learnset": [
         {
             "level": 1,
@@ -112,15 +121,6 @@
             "move": "MOVE_SKULLBASH"
         }
     ],
-    "evolve_to": [
-        {
-            "method": "EVO_LEVEL",
-            "condition": "16",
-            "target": "WARTORTLE",
-            "extra": "0"
-        }
-    ],
-    "evolve_from": [],
     "tm": [
         "MOVE_FOCUSPUNCH",
         "MOVE_WATERPULSE",

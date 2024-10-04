@@ -28,8 +28,6 @@
     "safariZoneFleeRate": 0,
     "hiddenAbility": "ABILITY_TELEPATHY",
     "noFlip": true,
-    "blurb": "It's famous for its high intelligence, and the large size of its brain is proof that it has immense psychic power.",
-    "name": "Orbeetle",
     "evolve_to": [
         {
             "method": "EVO_GIGANTAMAX",
@@ -38,76 +36,8 @@
             "extra": "0"
         }
     ],
-    "learnset": [
-        {
-            "level": 0,
-            "move": "MOVE_BUGBUZZ"
-        },
-        {
-            "level": 1,
-            "move": "MOVE_STRUGGLEBUG"
-        },
-        {
-            "level": 1,
-            "move": "MOVE_CONFUSION"
-        },
-        {
-            "level": 1,
-            "move": "MOVE_REFLECT"
-        },
-        {
-            "level": 1,
-            "move": "MOVE_LIGHTSCREEN"
-        },
-        {
-            "level": 4,
-            "move": "MOVE_CONFUSERAY"
-        },
-        {
-            "level": 8,
-            "move": "MOVE_MAGICCOAT"
-        },
-        {
-            "level": 12,
-            "move": "MOVE_AGILITY"
-        },
-        {
-            "level": 16,
-            "move": "MOVE_PSYBEAM"
-        },
-        {
-            "level": 20,
-            "move": "MOVE_HYPNOSIS"
-        },
-        {
-            "level": 24,
-            "move": "MOVE_SKILLSWAP"
-        },
-        {
-            "level": 29,
-            "move": "MOVE_BUGBUZZ"
-        },
-        {
-            "level": 32,
-            "move": "MOVE_MIRRORCOAT"
-        },
-        {
-            "level": 36,
-            "move": "MOVE_PSYCHIC"
-        },
-        {
-            "level": 40,
-            "move": "MOVE_AFTERYOU"
-        },
-        {
-            "level": 44,
-            "move": "MOVE_CALMMIND"
-        },
-        {
-            "level": 48,
-            "move": "MOVE_PSYCHICTERRAIN"
-        }
-    ],
+    "blurb": "It's famous for its high intelligence, and the large size of its brain is proof that it has immense psychic power.",
+    "name": "Orbeetle",
     "evolve_from": [
         "DOTTLER",
         "ORBEETLE_GIGA"
@@ -180,5 +110,75 @@
         "MOVE_BUGBUZZ",
         "MOVE_PSYCHOCUT",
         "MOVE_EXPANDINGFORCE"
+    ],
+    "learnset": [
+        {
+            "level": 0,
+            "move": "MOVE_BUGBUZZ"
+        },
+        {
+            "level": 1,
+            "move": "MOVE_STRUGGLEBUG"
+        },
+        {
+            "level": 1,
+            "move": "MOVE_CONFUSION"
+        },
+        {
+            "level": 1,
+            "move": "MOVE_REFLECT"
+        },
+        {
+            "level": 1,
+            "move": "MOVE_LIGHTSCREEN"
+        },
+        {
+            "level": 4,
+            "move": "MOVE_CONFUSERAY"
+        },
+        {
+            "level": 8,
+            "move": "MOVE_MAGICCOAT"
+        },
+        {
+            "level": 12,
+            "move": "MOVE_AGILITY"
+        },
+        {
+            "level": 16,
+            "move": "MOVE_PSYBEAM"
+        },
+        {
+            "level": 20,
+            "move": "MOVE_HYPNOSIS"
+        },
+        {
+            "level": 24,
+            "move": "MOVE_SKILLSWAP"
+        },
+        {
+            "level": 29,
+            "move": "MOVE_BUGBUZZ"
+        },
+        {
+            "level": 32,
+            "move": "MOVE_MIRRORCOAT"
+        },
+        {
+            "level": 36,
+            "move": "MOVE_PSYCHIC"
+        },
+        {
+            "level": 40,
+            "move": "MOVE_AFTERYOU"
+        },
+        {
+            "level": 44,
+            "move": "MOVE_CALMMIND"
+        },
+        {
+            "level": 48,
+            "move": "MOVE_PSYCHICTERRAIN"
+        }
     ]
 }

@@ -30,6 +30,9 @@
     "noFlip": true,
     "blurb": "It shakes its tail vigorously when it emits ultrasonic waves strong enough to reduce concrete to rubble.",
     "name": "Swoobat",
+    "evolve_from": [
+        "WOOBAT"
+    ],
     "learnset": [
         {
             "level": 1,
@@ -95,9 +98,6 @@
             "level": 54,
             "move": "MOVE_FUTURESIGHT"
         }
-    ],
-    "evolve_from": [
-        "WOOBAT"
     ],
     "tm": [
         "MOVE_CALMMIND",

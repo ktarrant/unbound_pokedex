@@ -30,6 +30,9 @@
     "noFlip": true,
     "blurb": "By putting power into its bumps, it creates vibrations and increases the power of its punches.",
     "name": "Seismitoad",
+    "evolve_from": [
+        "PALPITOAD"
+    ],
     "learnset": [
         {
             "level": 0,
@@ -115,9 +118,6 @@
             "level": 62,
             "move": "MOVE_HYDROPUMP"
         }
-    ],
-    "evolve_from": [
-        "PALPITOAD"
     ],
     "tm": [
         "MOVE_FOCUSPUNCH",

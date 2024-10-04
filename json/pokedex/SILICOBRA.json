@@ -35,8 +35,17 @@
         "MOVE_BELCH",
         "MOVE_POISONTAIL"
     ],
+    "evolve_to": [
+        {
+            "method": "EVO_LEVEL",
+            "condition": "36",
+            "target": "SANDACONDA",
+            "extra": "0"
+        }
+    ],
     "blurb": "It spews sand from its nostrils. While the enemy is blinded, it burrows into the ground to hide.",
     "name": "Silicobra",
+    "evolve_from": [],
     "learnset": [
         {
             "level": 1,
@@ -87,15 +96,6 @@
             "move": "MOVE_MINIMIZE"
         }
     ],
-    "evolve_to": [
-        {
-            "method": "EVO_LEVEL",
-            "condition": "36",
-            "target": "SANDACONDA",
-            "extra": "0"
-        }
-    ],
-    "evolve_from": [],
     "tm": [
         "MOVE_TOXIC",
         "MOVE_HIDDENPOWER",

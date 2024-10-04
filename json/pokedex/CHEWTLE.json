@@ -33,8 +33,17 @@
         "MOVE_GASTROACID",
         "MOVE_DRAGONTAIL"
     ],
+    "evolve_to": [
+        {
+            "method": "EVO_LEVEL",
+            "condition": "22",
+            "target": "DREDNAW",
+            "extra": "0"
+        }
+    ],
     "blurb": "Apparently the itch of its teething impels it to snap its jaws at anything in front of it.",
     "name": "Chewtle",
+    "evolve_from": [],
     "learnset": [
         {
             "level": 1,
@@ -73,15 +82,6 @@
             "move": "MOVE_BODYSLAM"
         }
     ],
-    "evolve_to": [
-        {
-            "method": "EVO_LEVEL",
-            "condition": "22",
-            "target": "DREDNAW",
-            "extra": "0"
-        }
-    ],
-    "evolve_from": [],
     "tm": [
         "MOVE_WATERPULSE",
         "MOVE_TOXIC",

@@ -46,7 +46,16 @@
         "MOVE_TELEPORT",
         "MOVE_SOFTBOILED"
     ],
+    "evolve_to": [
+        {
+            "method": "EVO_FRIENDSHIP",
+            "condition": "0",
+            "target": "CLEFAIRY",
+            "extra": "0"
+        }
+    ],
     "name": "Cleffa",
+    "evolve_from": [],
     "learnset": [
         {
             "level": 1,
@@ -85,15 +94,6 @@
             "move": "MOVE_MAGICALLEAF"
         }
     ],
-    "evolve_to": [
-        {
-            "method": "EVO_FRIENDSHIP",
-            "condition": "0",
-            "target": "CLEFAIRY",
-            "extra": "0"
-        }
-    ],
-    "evolve_from": [],
     "tm": [
         "MOVE_WATERPULSE",
         "MOVE_CALMMIND",

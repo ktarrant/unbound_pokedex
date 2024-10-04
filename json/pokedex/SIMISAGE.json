@@ -30,6 +30,9 @@
     "noFlip": true,
     "blurb": "It strikes its enemies with a thorn-covered tail. The leaf on its head is bitter.",
     "name": "Simisage",
+    "evolve_from": [
+        "PANSAGE"
+    ],
     "learnset": [
         {
             "level": 0,
@@ -99,9 +102,6 @@
             "level": 34,
             "move": "MOVE_SEEDBOMB"
         }
-    ],
-    "evolve_from": [
-        "PANSAGE"
     ],
     "tm": [
         "MOVE_FOCUSPUNCH",

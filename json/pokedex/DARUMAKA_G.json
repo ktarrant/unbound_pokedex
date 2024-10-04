@@ -38,8 +38,17 @@
         "MOVE_INCINERATE",
         "MOVE_POWERUPPUNCH"
     ],
+    "evolve_to": [
+        {
+            "method": "EVO_ITEM",
+            "condition": "ITEM_ICE_STONE",
+            "target": "DARMANITAN_G",
+            "extra": "0"
+        }
+    ],
     "blurb": "They freeze their breath to make snowballs, using them as ammo for playful snowball fights.",
     "name": "Darumaka",
+    "evolve_from": [],
     "learnset": [
         {
             "level": 1,
@@ -98,15 +107,6 @@
             "move": "MOVE_SUPERPOWER"
         }
     ],
-    "evolve_to": [
-        {
-            "method": "EVO_ITEM",
-            "condition": "ITEM_ICE_STONE",
-            "target": "DARMANITAN_G",
-            "extra": "0"
-        }
-    ],
-    "evolve_from": [],
     "tm": [
         "MOVE_FOCUSPUNCH",
         "MOVE_ROAR",

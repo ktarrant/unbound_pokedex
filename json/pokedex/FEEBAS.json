@@ -43,6 +43,7 @@
         "MOVE_CAPTIVATE"
     ],
     "name": "Feebas",
+    "evolve_from": [],
     "learnset": [
         {
             "level": 1,
@@ -57,7 +58,6 @@
             "move": "MOVE_FLAIL"
         }
     ],
-    "evolve_from": [],
     "tm": [
         "MOVE_WATERPULSE",
         "MOVE_TOXIC",

@@ -30,6 +30,7 @@
     "noFlip": true,
     "blurb": "It dwells in volcanic caves. It digs in with its cross-shaped feet to crawl on ceilings and walls.",
     "name": "Heatran",
+    "evolve_from": [],
     "learnset": [
         {
             "level": 1,
@@ -92,7 +93,6 @@
             "move": "MOVE_ERUPTION"
         }
     ],
-    "evolve_from": [],
     "tm": [
         "MOVE_ROAR",
         "MOVE_TOXIC",

@@ -43,6 +43,7 @@
     ],
     "blurb": "Their fluffy fur absorbs damage, even if they strike foes with a fierce headbutt.",
     "name": "Bouffalant",
+    "evolve_from": [],
     "learnset": [
         {
             "level": 1,
@@ -109,7 +110,6 @@
             "move": "MOVE_GIGAIMPACT"
         }
     ],
-    "evolve_from": [],
     "tm": [
         "MOVE_TOXIC",
         "MOVE_HIDDENPOWER",

@@ -28,7 +28,18 @@
     "safariZoneFleeRate": 0,
     "hiddenAbility": "ABILITY_OWNTEMPO",
     "noFlip": true,
+    "evolve_to": [
+        {
+            "method": "EVO_ITEM",
+            "condition": "ITEM_WATER_STONE",
+            "target": "LUDICOLO",
+            "extra": "0"
+        }
+    ],
     "name": "Lombre",
+    "evolve_from": [
+        "LOTAD"
+    ],
     "learnset": [
         {
             "level": 1,
@@ -110,17 +121,6 @@
             "level": 66,
             "move": "MOVE_HYDROPUMP"
         }
-    ],
-    "evolve_to": [
-        {
-            "method": "EVO_ITEM",
-            "condition": "ITEM_WATER_STONE",
-            "target": "LUDICOLO",
-            "extra": "0"
-        }
-    ],
-    "evolve_from": [
-        "LOTAD"
     ],
     "tm": [
         "MOVE_WATERPULSE",

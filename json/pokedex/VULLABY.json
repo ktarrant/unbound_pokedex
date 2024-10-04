@@ -38,8 +38,17 @@
         "MOVE_TOXIC",
         "MOVE_FEINTATTACK"
     ],
+    "evolve_to": [
+        {
+            "method": "EVO_LEVEL",
+            "condition": "50",
+            "target": "MANDIBUZZ",
+            "extra": "0"
+        }
+    ],
     "blurb": "They tend to guard their posteriors with suitable bones they have found. They pursue weak Pok\u00e9mon.",
     "name": "Vullaby",
+    "evolve_from": [],
     "learnset": [
         {
             "level": 1,
@@ -110,15 +119,6 @@
             "move": "MOVE_BRAVEBIRD"
         }
     ],
-    "evolve_to": [
-        {
-            "method": "EVO_LEVEL",
-            "condition": "50",
-            "target": "MANDIBUZZ",
-            "extra": "0"
-        }
-    ],
-    "evolve_from": [],
     "tm": [
         "MOVE_TOXIC",
         "MOVE_HIDDENPOWER",

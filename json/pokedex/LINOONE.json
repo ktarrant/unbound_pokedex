@@ -29,6 +29,9 @@
     "hiddenAbility": "ABILITY_QUICKFEET",
     "noFlip": true,
     "name": "Linoone",
+    "evolve_from": [
+        "ZIGZAGOON"
+    ],
     "learnset": [
         {
             "level": 0,
@@ -126,9 +129,6 @@
             "level": 60,
             "move": "MOVE_EXTREMESPEED"
         }
-    ],
-    "evolve_from": [
-        "ZIGZAGOON"
     ],
     "tm": [
         "MOVE_WATERPULSE",

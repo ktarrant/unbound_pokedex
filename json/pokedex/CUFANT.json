@@ -38,8 +38,17 @@
         "MOVE_WHIRLWIND",
         "MOVE_DEFENSECURL"
     ],
+    "evolve_to": [
+        {
+            "method": "EVO_LEVEL",
+            "condition": "34",
+            "target": "COPPERAJAH",
+            "extra": "0"
+        }
+    ],
     "blurb": "If a job requires serious strength, Cufant will excel at it. Its copper body tarnishes in the rain, turning green.",
     "name": "Cufant",
+    "evolve_from": [],
     "learnset": [
         {
             "level": 1,
@@ -94,15 +103,6 @@
             "move": "MOVE_SUPERPOWER"
         }
     ],
-    "evolve_to": [
-        {
-            "method": "EVO_LEVEL",
-            "condition": "34",
-            "target": "COPPERAJAH",
-            "extra": "0"
-        }
-    ],
-    "evolve_from": [],
     "tm": [
         "MOVE_ROAR",
         "MOVE_TOXIC",

@@ -28,8 +28,19 @@
     "safariZoneFleeRate": 0,
     "hiddenAbility": "ABILITY_BULLETPROOF",
     "noFlip": true,
+    "evolve_to": [
+        {
+            "method": "EVO_LEVEL",
+            "condition": "36",
+            "target": "CHESNAUGHT",
+            "extra": "0"
+        }
+    ],
     "blurb": "It relies on its sturdy shell to deflect predators' attacks. It counterattacks with its sharp quills.",
     "name": "Quilladin",
+    "evolve_from": [
+        "CHESPIN"
+    ],
     "learnset": [
         {
             "level": 0,
@@ -95,17 +106,6 @@
             "level": 53,
             "move": "MOVE_WOODHAMMER"
         }
-    ],
-    "evolve_to": [
-        {
-            "method": "EVO_LEVEL",
-            "condition": "36",
-            "target": "CHESNAUGHT",
-            "extra": "0"
-        }
-    ],
-    "evolve_from": [
-        "CHESPIN"
     ],
     "tm": [
         "MOVE_FOCUSPUNCH",

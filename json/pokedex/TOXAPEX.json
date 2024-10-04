@@ -30,6 +30,9 @@
     "noFlip": true,
     "blurb": "It crawls along the ocean floor on its 12 legs. It leaves a trail of Corsola bits scattered in its wake.",
     "name": "Toxapex",
+    "evolve_from": [
+        "MAREANIE"
+    ],
     "learnset": [
         {
             "level": 0,
@@ -91,9 +94,6 @@
             "level": 56,
             "move": "MOVE_TOXIC"
         }
-    ],
-    "evolve_from": [
-        "MAREANIE"
     ],
     "tm": [
         "MOVE_WATERPULSE",

@@ -37,60 +37,6 @@
     ],
     "blurb": "This hungry Pok\u00e9mon swallows Arrokuda whole. Occasionally, it makes a mistake and tries to swallow other Pok\u00e9mon.",
     "name": "Cramorant",
-    "learnset": [
-        {
-            "level": 1,
-            "move": "MOVE_BELCH"
-        },
-        {
-            "level": 1,
-            "move": "MOVE_STOCKPILE"
-        },
-        {
-            "level": 1,
-            "move": "MOVE_SWALLOW"
-        },
-        {
-            "level": 1,
-            "move": "MOVE_SPITUP"
-        },
-        {
-            "level": 1,
-            "move": "MOVE_PECK"
-        },
-        {
-            "level": 7,
-            "move": "MOVE_WATERGUN"
-        },
-        {
-            "level": 14,
-            "move": "MOVE_FURYATTACK"
-        },
-        {
-            "level": 21,
-            "move": "MOVE_PLUCK"
-        },
-        {
-            "level": 28,
-            "move": "MOVE_DIVE"
-        },
-        {
-            "level": 35,
-            "move": "MOVE_DRILLPECK"
-        },
-        {
-            "level": 42,
-            "move": "MOVE_AMNESIA"
-        },
-        {
-            "level": 49,
-            "move": "MOVE_THRASH"
-        },
-        {
-            "level": 56,
-            "move": "MOVE_HYDROPUMP"
-        }
-    ],
     "evolve_from": [],
     "tm": [
         "MOVE_WATERPULSE",
@@ -146,5 +92,59 @@
         "MOVE_HURRICANE",
         "MOVE_HYDROPUMP",
         "MOVE_DUALWINGBEAT"
+    ],
+    "learnset": [
+        {
+            "level": 1,
+            "move": "MOVE_BELCH"
+        },
+        {
+            "level": 1,
+            "move": "MOVE_STOCKPILE"
+        },
+        {
+            "level": 1,
+            "move": "MOVE_SWALLOW"
+        },
+        {
+            "level": 1,
+            "move": "MOVE_SPITUP"
+        },
+        {
+            "level": 1,
+            "move": "MOVE_PECK"
+        },
+        {
+            "level": 7,
+            "move": "MOVE_WATERGUN"
+        },
+        {
+            "level": 14,
+            "move": "MOVE_FURYATTACK"
+        },
+        {
+            "level": 21,
+            "move": "MOVE_PLUCK"
+        },
+        {
+            "level": 28,
+            "move": "MOVE_DIVE"
+        },
+        {
+            "level": 35,
+            "move": "MOVE_DRILLPECK"
+        },
+        {
+            "level": 42,
+            "move": "MOVE_AMNESIA"
+        },
+        {
+            "level": 49,
+            "move": "MOVE_THRASH"
+        },
+        {
+            "level": 56,
+            "move": "MOVE_HYDROPUMP"
+        }
     ]
 }

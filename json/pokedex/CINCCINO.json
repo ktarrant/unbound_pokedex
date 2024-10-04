@@ -30,6 +30,9 @@
     "noFlip": true,
     "blurb": "Their white fur is coated in a special oil that makes it easy for them to deflect attacks.",
     "name": "Cinccino",
+    "evolve_from": [
+        "MINCCINO"
+    ],
     "learnset": [
         {
             "level": 1,
@@ -111,9 +114,6 @@
             "level": 52,
             "move": "MOVE_PLAYROUGH"
         }
-    ],
-    "evolve_from": [
-        "MINCCINO"
     ],
     "tm": [
         "MOVE_CALMMIND",

@@ -28,7 +28,6 @@
     "safariZoneFleeRate": 0,
     "hiddenAbility": "ABILITY_NONE",
     "noFlip": true,
-    "blurb": "This is Necrozma while it's absorbing the power of Solgaleo, making it very ferocious and impossible to control.",
     "evolve_to": [
         {
             "method": "EVO_MEGA",
@@ -37,84 +36,7 @@
             "extra": "MEGA_VARIANT_ULTRA_BURST"
         }
     ],
-    "learnset": [
-        {
-            "level": 1,
-            "move": "MOVE_MOONLIGHT"
-        },
-        {
-            "level": 1,
-            "move": "MOVE_MORNINGSUN"
-        },
-        {
-            "level": 1,
-            "move": "MOVE_CHARGEBEAM"
-        },
-        {
-            "level": 1,
-            "move": "MOVE_MIRRORSHOT"
-        },
-        {
-            "level": 1,
-            "move": "MOVE_GRAVITY"
-        },
-        {
-            "level": 1,
-            "move": "MOVE_METALCLAW"
-        },
-        {
-            "level": 1,
-            "move": "MOVE_CONFUSION"
-        },
-        {
-            "level": 8,
-            "move": "MOVE_STEALTHROCK"
-        },
-        {
-            "level": 16,
-            "move": "MOVE_SLASH"
-        },
-        {
-            "level": 24,
-            "move": "MOVE_NIGHTSLASH"
-        },
-        {
-            "level": 32,
-            "move": "MOVE_PSYCHOCUT"
-        },
-        {
-            "level": 40,
-            "move": "MOVE_STOREDPOWER"
-        },
-        {
-            "level": 48,
-            "move": "MOVE_ROCKBLAST"
-        },
-        {
-            "level": 56,
-            "move": "MOVE_IRONDEFENSE"
-        },
-        {
-            "level": 64,
-            "move": "MOVE_POWERGEM"
-        },
-        {
-            "level": 72,
-            "move": "MOVE_PHOTONGEYSER"
-        },
-        {
-            "level": 80,
-            "move": "MOVE_AUTOTOMIZE"
-        },
-        {
-            "level": 84,
-            "move": "MOVE_WRINGOUT"
-        },
-        {
-            "level": 88,
-            "move": "MOVE_PRISMATICLASER"
-        }
-    ],
+    "blurb": "This is Necrozma while it's absorbing the power of Solgaleo, making it very ferocious and impossible to control.",
     "evolve_from": [],
     "tm": [
         "MOVE_CALMMIND",
@@ -195,5 +117,83 @@
         "MOVE_PSYCHOCUT",
         "MOVE_EXPANDINGFORCE",
         "MOVE_METEORBEAM"
+    ],
+    "learnset": [
+        {
+            "level": 1,
+            "move": "MOVE_MOONLIGHT"
+        },
+        {
+            "level": 1,
+            "move": "MOVE_MORNINGSUN"
+        },
+        {
+            "level": 1,
+            "move": "MOVE_CHARGEBEAM"
+        },
+        {
+            "level": 1,
+            "move": "MOVE_MIRRORSHOT"
+        },
+        {
+            "level": 1,
+            "move": "MOVE_GRAVITY"
+        },
+        {
+            "level": 1,
+            "move": "MOVE_METALCLAW"
+        },
+        {
+            "level": 1,
+            "move": "MOVE_CONFUSION"
+        },
+        {
+            "level": 8,
+            "move": "MOVE_STEALTHROCK"
+        },
+        {
+            "level": 16,
+            "move": "MOVE_SLASH"
+        },
+        {
+            "level": 24,
+            "move": "MOVE_NIGHTSLASH"
+        },
+        {
+            "level": 32,
+            "move": "MOVE_PSYCHOCUT"
+        },
+        {
+            "level": 40,
+            "move": "MOVE_STOREDPOWER"
+        },
+        {
+            "level": 48,
+            "move": "MOVE_ROCKBLAST"
+        },
+        {
+            "level": 56,
+            "move": "MOVE_IRONDEFENSE"
+        },
+        {
+            "level": 64,
+            "move": "MOVE_POWERGEM"
+        },
+        {
+            "level": 72,
+            "move": "MOVE_PHOTONGEYSER"
+        },
+        {
+            "level": 80,
+            "move": "MOVE_AUTOTOMIZE"
+        },
+        {
+            "level": 84,
+            "move": "MOVE_WRINGOUT"
+        },
+        {
+            "level": 88,
+            "move": "MOVE_PRISMATICLASER"
+        }
     ]
 }

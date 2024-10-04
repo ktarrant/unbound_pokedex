@@ -30,6 +30,9 @@
     "noFlip": true,
     "blurb": "It can see clearly through walls to track down its prey and seek its lost young.",
     "name": "Luxray",
+    "evolve_from": [
+        "LUXIO"
+    ],
     "learnset": [
         {
             "level": 0,
@@ -103,9 +106,6 @@
             "level": 58,
             "move": "MOVE_VOLTTACKLE"
         }
-    ],
-    "evolve_from": [
-        "LUXIO"
     ],
     "tm": [
         "MOVE_ROAR",

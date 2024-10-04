@@ -45,7 +45,16 @@
         "MOVE_VITALTHROW",
         "MOVE_MACHPUNCH"
     ],
+    "evolve_to": [
+        {
+            "method": "EVO_LEVEL",
+            "condition": "28",
+            "target": "MACHOKE",
+            "extra": "0"
+        }
+    ],
     "name": "Machop",
+    "evolve_from": [],
     "learnset": [
         {
             "level": 1,
@@ -124,15 +133,6 @@
             "move": "MOVE_CLOSECOMBAT"
         }
     ],
-    "evolve_to": [
-        {
-            "method": "EVO_LEVEL",
-            "condition": "28",
-            "target": "MACHOKE",
-            "extra": "0"
-        }
-    ],
-    "evolve_from": [],
     "tm": [
         "MOVE_FOCUSPUNCH",
         "MOVE_TOXIC",

@@ -38,6 +38,7 @@
     ],
     "blurb": "Baths prepared with the flowers from its vine have a relaxing effect so it is a hit to many people.",
     "name": "Comfey",
+    "evolve_from": [],
     "learnset": [
         {
             "level": 1,
@@ -116,7 +117,6 @@
             "move": "MOVE_GRASSYTERRAIN"
         }
     ],
-    "evolve_from": [],
     "tm": [
         "MOVE_CALMMIND",
         "MOVE_TOXIC",

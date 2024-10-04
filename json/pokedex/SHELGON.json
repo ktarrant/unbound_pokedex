@@ -28,7 +28,18 @@
     "safariZoneFleeRate": 0,
     "hiddenAbility": "ABILITY_OVERCOAT",
     "noFlip": true,
+    "evolve_to": [
+        {
+            "method": "EVO_LEVEL",
+            "condition": "50",
+            "target": "SALAMENCE",
+            "extra": "0"
+        }
+    ],
     "name": "Shelgon",
+    "evolve_from": [
+        "BAGON"
+    ],
     "learnset": [
         {
             "level": 0,
@@ -94,17 +105,6 @@
             "level": 67,
             "move": "MOVE_DOUBLEEDGE"
         }
-    ],
-    "evolve_to": [
-        {
-            "method": "EVO_LEVEL",
-            "condition": "50",
-            "target": "SALAMENCE",
-            "extra": "0"
-        }
-    ],
-    "evolve_from": [
-        "BAGON"
     ],
     "tm": [
         "MOVE_DRAGONCLAW",

@@ -39,6 +39,7 @@
     ],
     "blurb": "It emits a scent that delights those who smell it. The fragrance changes depending on what it has eaten.",
     "name": "Spritzee",
+    "evolve_from": [],
     "learnset": [
         {
             "level": 1,
@@ -105,7 +106,6 @@
             "move": "MOVE_SKILLSWAP"
         }
     ],
-    "evolve_from": [],
     "tm": [
         "MOVE_CALMMIND",
         "MOVE_TOXIC",

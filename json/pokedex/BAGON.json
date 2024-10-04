@@ -41,7 +41,16 @@
         "MOVE_WISH",
         "MOVE_HEALBELL"
     ],
+    "evolve_to": [
+        {
+            "method": "EVO_LEVEL",
+            "condition": "30",
+            "target": "SHELGON",
+            "extra": "0"
+        }
+    ],
     "name": "Bagon",
+    "evolve_from": [],
     "learnset": [
         {
             "level": 1,
@@ -100,15 +109,6 @@
             "move": "MOVE_DOUBLEEDGE"
         }
     ],
-    "evolve_to": [
-        {
-            "method": "EVO_LEVEL",
-            "condition": "30",
-            "target": "SHELGON",
-            "extra": "0"
-        }
-    ],
-    "evolve_from": [],
     "tm": [
         "MOVE_DRAGONCLAW",
         "MOVE_ROAR",

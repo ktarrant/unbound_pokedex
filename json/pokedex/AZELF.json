@@ -30,6 +30,7 @@
     "noFlip": true,
     "blurb": "Known as \"The Being of Willpower.\\\" It sleeps at the bottom of a lake to keep the world in balance.",
     "name": "Azelf",
+    "evolve_from": [],
     "learnset": [
         {
             "level": 1,
@@ -96,7 +97,6 @@
             "move": "MOVE_EXPLOSION"
         }
     ],
-    "evolve_from": [],
     "tm": [
         "MOVE_WATERPULSE",
         "MOVE_CALMMIND",

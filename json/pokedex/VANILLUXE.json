@@ -30,6 +30,9 @@
     "noFlip": true,
     "blurb": "If both heads get angry simultaneously, this Pok\u00e9mon expels a blizzard, burying everything in snow.",
     "name": "Vanilluxe",
+    "evolve_from": [
+        "VANILLISH"
+    ],
     "learnset": [
         {
             "level": 1,
@@ -107,9 +110,6 @@
             "level": 68,
             "move": "MOVE_SHEERCOLD"
         }
-    ],
-    "evolve_from": [
-        "VANILLISH"
     ],
     "tm": [
         "MOVE_WATERPULSE",

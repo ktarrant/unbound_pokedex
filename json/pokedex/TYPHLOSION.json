@@ -29,6 +29,7 @@
     "hiddenAbility": "ABILITY_DROUGHT",
     "noFlip": true,
     "name": "Typhlosion",
+    "evolve_from": [],
     "learnset": [
         {
             "level": 1,
@@ -99,7 +100,6 @@
             "move": "MOVE_ERUPTION"
         }
     ],
-    "evolve_from": [],
     "tm": [
         "MOVE_FOCUSPUNCH",
         "MOVE_ROAR",

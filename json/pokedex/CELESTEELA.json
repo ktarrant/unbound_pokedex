@@ -30,6 +30,7 @@
     "noFlip": true,
     "blurb": "It appeared from the Ultra Wormhole. Witnesses observed it flying across the sky at high speed.",
     "name": "Celesteela",
+    "evolve_from": [],
     "learnset": [
         {
             "level": 1,
@@ -108,7 +109,6 @@
             "move": "MOVE_SKULLBASH"
         }
     ],
-    "evolve_from": [],
     "tm": [
         "MOVE_TOXIC",
         "MOVE_HIDDENPOWER",

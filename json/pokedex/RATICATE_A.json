@@ -29,6 +29,9 @@
     "hiddenAbility": "ABILITY_THICKFAT",
     "noFlip": true,
     "blurb": "It makes its Rattata underlings gather food for it, dining solely on the most nutritious and delicious fare.",
+    "evolve_from": [
+        "RATTATA_A"
+    ],
     "learnset": [
         {
             "level": 0,
@@ -98,9 +101,6 @@
             "level": 49,
             "move": "MOVE_ENDEAVOR"
         }
-    ],
-    "evolve_from": [
-        "RATTATA_A"
     ],
     "tm": [
         "MOVE_ROAR",

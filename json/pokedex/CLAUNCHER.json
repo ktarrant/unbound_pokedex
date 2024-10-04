@@ -34,8 +34,17 @@
         "MOVE_HELPINGHAND",
         "MOVE_AQUATAIL"
     ],
+    "evolve_to": [
+        {
+            "method": "EVO_LEVEL",
+            "condition": "37",
+            "target": "CLAWITZER",
+            "extra": "0"
+        }
+    ],
     "blurb": "They knock down flying prey by firing compressed water from their massive claws like shooting a pistol.",
     "name": "Clauncher",
+    "evolve_from": [],
     "learnset": [
         {
             "level": 1,
@@ -102,15 +111,6 @@
             "move": "MOVE_CRABHAMMER"
         }
     ],
-    "evolve_to": [
-        {
-            "method": "EVO_LEVEL",
-            "condition": "37",
-            "target": "CLAWITZER",
-            "extra": "0"
-        }
-    ],
-    "evolve_from": [],
     "tm": [
         "MOVE_WATERPULSE",
         "MOVE_TOXIC",

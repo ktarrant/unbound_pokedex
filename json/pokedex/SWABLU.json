@@ -40,7 +40,16 @@
         "MOVE_STEELWING",
         "MOVE_PLAYROUGH"
     ],
+    "evolve_to": [
+        {
+            "method": "EVO_LEVEL",
+            "condition": "35",
+            "target": "ALTARIA",
+            "extra": "0"
+        }
+    ],
     "name": "Swablu",
+    "evolve_from": [],
     "learnset": [
         {
             "level": 1,
@@ -115,15 +124,6 @@
             "move": "MOVE_PERISHSONG"
         }
     ],
-    "evolve_to": [
-        {
-            "method": "EVO_LEVEL",
-            "condition": "35",
-            "target": "ALTARIA",
-            "extra": "0"
-        }
-    ],
-    "evolve_from": [],
     "tm": [
         "MOVE_TOXIC",
         "MOVE_HIDDENPOWER",

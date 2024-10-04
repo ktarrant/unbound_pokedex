@@ -28,7 +28,6 @@
     "safariZoneFleeRate": 0,
     "hiddenAbility": "ABILITY_HYDRATION",
     "noFlip": true,
-    "name": "Kyogre",
     "evolve_to": [
         {
             "method": "EVO_MEGA",
@@ -37,64 +36,7 @@
             "extra": "MEGA_VARIANT_PRIMAL"
         }
     ],
-    "learnset": [
-        {
-            "level": 1,
-            "move": "MOVE_WATERPULSE"
-        },
-        {
-            "level": 1,
-            "move": "MOVE_ANCIENTPOWER"
-        },
-        {
-            "level": 1,
-            "move": "MOVE_BODYSLAM"
-        },
-        {
-            "level": 1,
-            "move": "MOVE_SCARYFACE"
-        },
-        {
-            "level": 9,
-            "move": "MOVE_AQUATAIL"
-        },
-        {
-            "level": 18,
-            "move": "MOVE_CALMMIND"
-        },
-        {
-            "level": 27,
-            "move": "MOVE_MUDDYWATER"
-        },
-        {
-            "level": 36,
-            "move": "MOVE_ICEBEAM"
-        },
-        {
-            "level": 45,
-            "move": "MOVE_SHEERCOLD"
-        },
-        {
-            "level": 54,
-            "move": "MOVE_AQUARING"
-        },
-        {
-            "level": 63,
-            "move": "MOVE_ORIGINPULSE"
-        },
-        {
-            "level": 72,
-            "move": "MOVE_HYDROPUMP"
-        },
-        {
-            "level": 81,
-            "move": "MOVE_DOUBLEEDGE"
-        },
-        {
-            "level": 90,
-            "move": "MOVE_WATERSPOUT"
-        }
-    ],
+    "name": "Kyogre",
     "evolve_from": [
         "KYOGRE_PRIMAL"
     ],
@@ -159,5 +101,63 @@
         "MOVE_HEAVYSLAM",
         "MOVE_MUDDYWATER",
         "MOVE_HYDROPUMP"
+    ],
+    "learnset": [
+        {
+            "level": 1,
+            "move": "MOVE_WATERPULSE"
+        },
+        {
+            "level": 1,
+            "move": "MOVE_ANCIENTPOWER"
+        },
+        {
+            "level": 1,
+            "move": "MOVE_BODYSLAM"
+        },
+        {
+            "level": 1,
+            "move": "MOVE_SCARYFACE"
+        },
+        {
+            "level": 9,
+            "move": "MOVE_AQUATAIL"
+        },
+        {
+            "level": 18,
+            "move": "MOVE_CALMMIND"
+        },
+        {
+            "level": 27,
+            "move": "MOVE_MUDDYWATER"
+        },
+        {
+            "level": 36,
+            "move": "MOVE_ICEBEAM"
+        },
+        {
+            "level": 45,
+            "move": "MOVE_SHEERCOLD"
+        },
+        {
+            "level": 54,
+            "move": "MOVE_AQUARING"
+        },
+        {
+            "level": 63,
+            "move": "MOVE_ORIGINPULSE"
+        },
+        {
+            "level": 72,
+            "move": "MOVE_HYDROPUMP"
+        },
+        {
+            "level": 81,
+            "move": "MOVE_DOUBLEEDGE"
+        },
+        {
+            "level": 90,
+            "move": "MOVE_WATERSPOUT"
+        }
     ]
 }

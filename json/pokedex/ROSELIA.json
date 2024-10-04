@@ -44,7 +44,18 @@
         "MOVE_LIFEDEW",
         "MOVE_SWEETKISS"
     ],
+    "evolve_to": [
+        {
+            "method": "EVO_ITEM",
+            "condition": "ITEM_SHINY_STONE",
+            "target": "ROSERADE",
+            "extra": "0"
+        }
+    ],
     "name": "Roselia",
+    "evolve_from": [
+        "BUDEW"
+    ],
     "learnset": [
         {
             "level": 0,
@@ -126,17 +137,6 @@
             "level": 60,
             "move": "MOVE_PETALDANCE"
         }
-    ],
-    "evolve_to": [
-        {
-            "method": "EVO_ITEM",
-            "condition": "ITEM_SHINY_STONE",
-            "target": "ROSERADE",
-            "extra": "0"
-        }
-    ],
-    "evolve_from": [
-        "BUDEW"
     ],
     "tm": [
         "MOVE_TOXIC",

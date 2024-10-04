@@ -47,7 +47,16 @@
         "MOVE_HEAVYSLAM",
         "MOVE_FLAMEWHEEL"
     ],
+    "evolve_to": [
+        {
+            "method": "EVO_LEVEL",
+            "condition": "33",
+            "target": "CAMERUPT",
+            "extra": "0"
+        }
+    ],
     "name": "Numel",
+    "evolve_from": [],
     "learnset": [
         {
             "level": 1,
@@ -114,15 +123,6 @@
             "move": "MOVE_DOUBLEEDGE"
         }
     ],
-    "evolve_to": [
-        {
-            "method": "EVO_LEVEL",
-            "condition": "33",
-            "target": "CAMERUPT",
-            "extra": "0"
-        }
-    ],
-    "evolve_from": [],
     "tm": [
         "MOVE_TOXIC",
         "MOVE_HIDDENPOWER",

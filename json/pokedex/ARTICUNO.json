@@ -29,6 +29,7 @@
     "hiddenAbility": "ABILITY_COMPETITIVE",
     "noFlip": true,
     "name": "Articuno",
+    "evolve_from": [],
     "learnset": [
         {
             "level": 1,
@@ -103,7 +104,6 @@
             "move": "MOVE_SHEERCOLD"
         }
     ],
-    "evolve_from": [],
     "tm": [
         "MOVE_WATERPULSE",
         "MOVE_ROAR",

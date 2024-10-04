@@ -30,6 +30,9 @@
     "noFlip": true,
     "blurb": "This Pok\u00e9mon may be rude, but it takes very good care of its family, its friends, and its turf.",
     "name": "Scrafty",
+    "evolve_from": [
+        "SCRAGGY"
+    ],
     "learnset": [
         {
             "level": 1,
@@ -99,9 +102,6 @@
             "level": 58,
             "move": "MOVE_HEADSMASH"
         }
-    ],
-    "evolve_from": [
-        "SCRAGGY"
     ],
     "tm": [
         "MOVE_FOCUSPUNCH",

@@ -30,6 +30,9 @@
     "noFlip": true,
     "blurb": "Tales are told of ships that wander into seas where Dragalge live, never to return.",
     "name": "Dragalge",
+    "evolve_from": [
+        "SKRELP"
+    ],
     "learnset": [
         {
             "level": 0,
@@ -111,9 +114,6 @@
             "level": 66,
             "move": "MOVE_OUTRAGE"
         }
-    ],
-    "evolve_from": [
-        "SKRELP"
     ],
     "tm": [
         "MOVE_WATERPULSE",

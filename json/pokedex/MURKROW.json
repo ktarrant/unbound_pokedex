@@ -45,7 +45,16 @@
         "MOVE_AIRCUTTER",
         "MOVE_NIGHTSLASH"
     ],
+    "evolve_to": [
+        {
+            "method": "EVO_ITEM",
+            "condition": "ITEM_DUSK_STONE",
+            "target": "HONCHKROW",
+            "extra": "0"
+        }
+    ],
     "name": "Murkrow",
+    "evolve_from": [],
     "learnset": [
         {
             "level": 1,
@@ -112,15 +121,6 @@
             "move": "MOVE_QUASH"
         }
     ],
-    "evolve_to": [
-        {
-            "method": "EVO_ITEM",
-            "condition": "ITEM_DUSK_STONE",
-            "target": "HONCHKROW",
-            "extra": "0"
-        }
-    ],
-    "evolve_from": [],
     "tm": [
         "MOVE_CALMMIND",
         "MOVE_TOXIC",

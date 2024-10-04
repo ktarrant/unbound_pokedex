@@ -29,6 +29,7 @@
     "hiddenAbility": "ABILITY_DEFIANT",
     "noFlip": true,
     "name": "Zapdos",
+    "evolve_from": [],
     "learnset": [
         {
             "level": 1,
@@ -99,7 +100,6 @@
             "move": "MOVE_ZAPCANNON"
         }
     ],
-    "evolve_from": [],
     "tm": [
         "MOVE_ROAR",
         "MOVE_TOXIC",

@@ -28,6 +28,17 @@
     "safariZoneFleeRate": 0,
     "hiddenAbility": "ABILITY_NONE",
     "noFlip": true,
+    "evolve_to": [
+        {
+            "method": "EVO_MEGA",
+            "condition": "ITEM_NONE",
+            "target": "BANETTE",
+            "extra": "MEGA_VARIANT_STANDARD"
+        }
+    ],
+    "evolve_from": [
+        "BANETTE"
+    ],
     "learnset": [
         {
             "level": 0,
@@ -106,17 +117,72 @@
             "move": "MOVE_POLTERGEIST"
         }
     ],
-    "evolve_to": [
-        {
-            "method": "EVO_MEGA",
-            "condition": "ITEM_NONE",
-            "target": "BANETTE",
-            "extra": "MEGA_VARIANT_STANDARD"
-        }
+    "tm": [
+        "MOVE_CALMMIND",
+        "MOVE_TOXIC",
+        "MOVE_HIDDENPOWER",
+        "MOVE_SUNNYDAY",
+        "MOVE_TAUNT",
+        "MOVE_HYPERBEAM",
+        "MOVE_PROTECT",
+        "MOVE_RAINDANCE",
+        "MOVE_FRUSTRATION",
+        "MOVE_THUNDERBOLT",
+        "MOVE_THUNDER",
+        "MOVE_RETURN",
+        "MOVE_PSYCHIC",
+        "MOVE_SHADOWBALL",
+        "MOVE_DOUBLETEAM",
+        "MOVE_SHOCKWAVE",
+        "MOVE_TORMENT",
+        "MOVE_FACADE",
+        "MOVE_SECRETPOWER",
+        "MOVE_REST",
+        "MOVE_ATTRACT",
+        "MOVE_THIEF",
+        "MOVE_SKILLSWAP",
+        "MOVE_CHARGEBEAM",
+        "MOVE_ENDURE",
+        "MOVE_WILLOWISP",
+        "MOVE_SHADOWCLAW",
+        "MOVE_PAYBACK",
+        "MOVE_GIGAIMPACT",
+        "MOVE_FLASH",
+        "MOVE_THUNDERWAVE",
+        "MOVE_DARKPULSE",
+        "MOVE_SLEEPTALK",
+        "MOVE_DREAMEATER",
+        "MOVE_SWAGGER",
+        "MOVE_SUBSTITUTE",
+        "MOVE_INFESTATION",
+        "MOVE_DAZZLINGGLEAM",
+        "MOVE_ROUND",
+        "MOVE_NATURALGIFT",
+        "MOVE_TRICKROOM",
+        "MOVE_FLING"
     ],
-    "evolve_from": [
-        "BANETTE"
-    ],
-    "tm": [],
-    "tutor": []
+    "tutor": [
+        "MOVE_SNORE",
+        "MOVE_HELPINGHAND",
+        "MOVE_SNATCH",
+        "MOVE_SPITE",
+        "MOVE_TELEKINESIS",
+        "MOVE_ROLEPLAY",
+        "MOVE_PAINSPLIT",
+        "MOVE_ICYWIND",
+        "MOVE_TRICK",
+        "MOVE_MAGICCOAT",
+        "MOVE_MAGICROOM",
+        "MOVE_FOULPLAY",
+        "MOVE_THROATCHOP",
+        "MOVE_GUNKSHOT",
+        "MOVE_KNOCKOFF",
+        "MOVE_PSYCHUP",
+        "MOVE_CONFIDE",
+        "MOVE_SCREECH",
+        "MOVE_BODYSLAM",
+        "MOVE_HEX",
+        "MOVE_PHANTOMFORCE",
+        "MOVE_SKITTERSMACK"
+    ]
 }

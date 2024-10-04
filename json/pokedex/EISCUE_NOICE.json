@@ -30,6 +30,7 @@
     "noFlip": true,
     "blurb": "The ice covering this Pok\u00e9mon's face has shattered, revealing a worried expression that many are enamored with.",
     "name": "Eiscue",
+    "evolve_from": [],
     "learnset": [
         {
             "level": 1,
@@ -80,7 +81,51 @@
             "move": "MOVE_ICICLECRASH"
         }
     ],
-    "evolve_from": [],
-    "tm": [],
-    "tutor": []
+    "tm": [
+        "MOVE_WATERPULSE",
+        "MOVE_TOXIC",
+        "MOVE_HAIL",
+        "MOVE_HIDDENPOWER",
+        "MOVE_ICEBEAM",
+        "MOVE_BLIZZARD",
+        "MOVE_PROTECT",
+        "MOVE_FRUSTRATION",
+        "MOVE_RETURN",
+        "MOVE_DOUBLETEAM",
+        "MOVE_REFLECT",
+        "MOVE_FACADE",
+        "MOVE_SECRETPOWER",
+        "MOVE_REST",
+        "MOVE_ATTRACT",
+        "MOVE_BRINE",
+        "MOVE_ENDURE",
+        "MOVE_AVALANCHE",
+        "MOVE_SLEEPTALK",
+        "MOVE_SWAGGER",
+        "MOVE_PLUCK",
+        "MOVE_SUBSTITUTE",
+        "MOVE_FROSTBREATH",
+        "MOVE_ROUND",
+        "MOVE_NATURALGIFT",
+        "MOVE_AURORAVEIL",
+        "MOVE_SURF",
+        "MOVE_DIVE",
+        "MOVE_WATERFALL"
+    ],
+    "tutor": [
+        "MOVE_ICEPUNCH",
+        "MOVE_SNORE",
+        "MOVE_IRONDEFENSE",
+        "MOVE_IRONHEAD",
+        "MOVE_ICYWIND",
+        "MOVE_ZENHEADBUTT",
+        "MOVE_LIQUIDATION",
+        "MOVE_CONFIDE",
+        "MOVE_AGILITY",
+        "MOVE_WHIRLPOOL",
+        "MOVE_ICICLESPEAR",
+        "MOVE_REVERSAL",
+        "MOVE_WEATHERBALL",
+        "MOVE_HYDROPUMP"
+    ]
 }

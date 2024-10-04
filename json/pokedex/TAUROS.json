@@ -29,6 +29,7 @@
     "hiddenAbility": "ABILITY_SHEERFORCE",
     "noFlip": true,
     "name": "Tauros",
+    "evolve_from": [],
     "learnset": [
         {
             "level": 1,
@@ -99,7 +100,6 @@
             "move": "MOVE_GIGAIMPACT"
         }
     ],
-    "evolve_from": [],
     "tm": [
         "MOVE_WATERPULSE",
         "MOVE_TOXIC",

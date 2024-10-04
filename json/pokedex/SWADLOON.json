@@ -28,8 +28,19 @@
     "safariZoneFleeRate": 0,
     "hiddenAbility": "ABILITY_OVERCOAT",
     "noFlip": true,
+    "evolve_to": [
+        {
+            "method": "EVO_FRIENDSHIP",
+            "condition": "0",
+            "target": "LEAVANNY",
+            "extra": "0"
+        }
+    ],
     "blurb": "Preferring dark, damp places, it spends the entire day eating fallen leaves that lie around it.",
     "name": "Swadloon",
+    "evolve_from": [
+        "SEWADDLE"
+    ],
     "learnset": [
         {
             "level": 0,
@@ -79,17 +90,6 @@
             "level": 1,
             "move": "MOVE_BUGBITE"
         }
-    ],
-    "evolve_to": [
-        {
-            "method": "EVO_FRIENDSHIP",
-            "condition": "0",
-            "target": "LEAVANNY",
-            "extra": "0"
-        }
-    ],
-    "evolve_from": [
-        "SEWADDLE"
     ],
     "tm": [
         "MOVE_CALMMIND",

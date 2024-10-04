@@ -33,8 +33,17 @@
         "MOVE_MUDSLAP",
         "MOVE_BLOCK"
     ],
+    "evolve_to": [
+        {
+            "method": "EVO_LEVEL",
+            "condition": "18",
+            "target": "CARKOL",
+            "extra": "0"
+        }
+    ],
     "blurb": "It can race around like a unicycle, even on rough, rocky terrain. Burning coal sustains it.",
     "name": "Rolycoly",
+    "evolve_from": [],
     "learnset": [
         {
             "level": 1,
@@ -77,15 +86,6 @@
             "move": "MOVE_ROCKBLAST"
         }
     ],
-    "evolve_to": [
-        {
-            "method": "EVO_LEVEL",
-            "condition": "18",
-            "target": "CARKOL",
-            "extra": "0"
-        }
-    ],
-    "evolve_from": [],
     "tm": [
         "MOVE_TOXIC",
         "MOVE_HIDDENPOWER",

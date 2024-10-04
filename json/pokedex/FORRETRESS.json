@@ -29,6 +29,9 @@
     "hiddenAbility": "ABILITY_OVERCOAT",
     "noFlip": true,
     "name": "Forretress",
+    "evolve_from": [
+        "PINECO"
+    ],
     "learnset": [
         {
             "level": 0,
@@ -118,9 +121,6 @@
             "level": 68,
             "move": "MOVE_EXPLOSION"
         }
-    ],
-    "evolve_from": [
-        "PINECO"
     ],
     "tm": [
         "MOVE_TOXIC",

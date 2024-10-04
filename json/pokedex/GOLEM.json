@@ -29,6 +29,7 @@
     "hiddenAbility": "ABILITY_SANDSPIT",
     "noFlip": true,
     "name": "Golem",
+    "evolve_from": [],
     "learnset": [
         {
             "level": 0,
@@ -107,7 +108,6 @@
             "move": "MOVE_HEAVYSLAM"
         }
     ],
-    "evolve_from": [],
     "tm": [
         "MOVE_FOCUSPUNCH",
         "MOVE_ROAR",

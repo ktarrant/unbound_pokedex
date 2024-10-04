@@ -29,6 +29,9 @@
     "hiddenAbility": "ABILITY_LIGHTNINGROD",
     "noFlip": true,
     "name": "Seaking",
+    "evolve_from": [
+        "GOLDEEN"
+    ],
     "learnset": [
         {
             "level": 1,
@@ -98,9 +101,6 @@
             "level": 65,
             "move": "MOVE_FISHIOUSREND"
         }
-    ],
-    "evolve_from": [
-        "GOLDEEN"
     ],
     "tm": [
         "MOVE_WATERPULSE",

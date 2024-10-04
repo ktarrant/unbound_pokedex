@@ -41,7 +41,16 @@
         "MOVE_AMNESIA",
         "MOVE_HONECLAWS"
     ],
+    "evolve_to": [
+        {
+            "method": "EVO_ITEM",
+            "condition": "ITEM_ICE_STONE",
+            "target": "SANDSLASH_A",
+            "extra": "0"
+        }
+    ],
     "blurb": "It lives on snowy mountains. Its steel shell is very hard-so much so, it can't roll its body up into a ball.",
+    "evolve_from": [],
     "learnset": [
         {
             "level": 1,
@@ -120,15 +129,6 @@
             "move": "MOVE_BLIZZARD"
         }
     ],
-    "evolve_to": [
-        {
-            "method": "EVO_ITEM",
-            "condition": "ITEM_ICE_STONE",
-            "target": "SANDSLASH_A",
-            "extra": "0"
-        }
-    ],
-    "evolve_from": [],
     "tm": [
         "MOVE_FOCUSPUNCH",
         "MOVE_TOXIC",

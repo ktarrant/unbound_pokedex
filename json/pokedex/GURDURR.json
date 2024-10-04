@@ -30,6 +30,9 @@
     "noFlip": true,
     "blurb": "With strengthened bodies, they skillfully wield steel beams to take down buildings.",
     "name": "Gurdurr",
+    "evolve_from": [
+        "TIMBURR"
+    ],
     "learnset": [
         {
             "level": 1,
@@ -95,9 +98,6 @@
             "level": 60,
             "move": "MOVE_FOCUSPUNCH"
         }
-    ],
-    "evolve_from": [
-        "TIMBURR"
     ],
     "tm": [
         "MOVE_FOCUSPUNCH",

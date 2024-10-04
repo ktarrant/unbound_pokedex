@@ -28,8 +28,6 @@
     "safariZoneFleeRate": 0,
     "hiddenAbility": "ABILITY_PROTEAN",
     "noFlip": true,
-    "blurb": "It gets pumped up when cheered on. But if it starts showboating, it could put itself in a tough spot.",
-    "name": "Cinderace",
     "evolve_to": [
         {
             "method": "EVO_GIGANTAMAX",
@@ -38,72 +36,8 @@
             "extra": "0"
         }
     ],
-    "learnset": [
-        {
-            "level": 0,
-            "move": "MOVE_BLAZEKICK"
-        },
-        {
-            "level": 1,
-            "move": "MOVE_FEINT"
-        },
-        {
-            "level": 1,
-            "move": "MOVE_GROWL"
-        },
-        {
-            "level": 1,
-            "move": "MOVE_TACKLE"
-        },
-        {
-            "level": 1,
-            "move": "MOVE_EMBER"
-        },
-        {
-            "level": 1,
-            "move": "MOVE_QUICKATTACK"
-        },
-        {
-            "level": 12,
-            "move": "MOVE_DOUBLEKICK"
-        },
-        {
-            "level": 19,
-            "move": "MOVE_FLAMECHARGE"
-        },
-        {
-            "level": 24,
-            "move": "MOVE_AGILITY"
-        },
-        {
-            "level": 30,
-            "move": "MOVE_HEADBUTT"
-        },
-        {
-            "level": 34,
-            "move": "MOVE_BLAZEKICK"
-        },
-        {
-            "level": 38,
-            "move": "MOVE_COUNTER"
-        },
-        {
-            "level": 46,
-            "move": "MOVE_BOUNCE"
-        },
-        {
-            "level": 54,
-            "move": "MOVE_DOUBLEEDGE"
-        },
-        {
-            "level": 62,
-            "move": "MOVE_PYROBALL"
-        },
-        {
-            "level": 70,
-            "move": "MOVE_COURTCHANGE"
-        }
-    ],
+    "blurb": "It gets pumped up when cheered on. But if it starts showboating, it could put itself in a tough spot.",
+    "name": "Cinderace",
     "evolve_from": [
         "RABOOT",
         "CINDERACE_GIGA"
@@ -176,5 +110,71 @@
         "MOVE_FLAREBLITZ",
         "MOVE_COACHING",
         "MOVE_SCORCHINGSANDS"
+    ],
+    "learnset": [
+        {
+            "level": 0,
+            "move": "MOVE_BLAZEKICK"
+        },
+        {
+            "level": 1,
+            "move": "MOVE_FEINT"
+        },
+        {
+            "level": 1,
+            "move": "MOVE_GROWL"
+        },
+        {
+            "level": 1,
+            "move": "MOVE_TACKLE"
+        },
+        {
+            "level": 1,
+            "move": "MOVE_EMBER"
+        },
+        {
+            "level": 1,
+            "move": "MOVE_QUICKATTACK"
+        },
+        {
+            "level": 12,
+            "move": "MOVE_DOUBLEKICK"
+        },
+        {
+            "level": 19,
+            "move": "MOVE_FLAMECHARGE"
+        },
+        {
+            "level": 24,
+            "move": "MOVE_AGILITY"
+        },
+        {
+            "level": 30,
+            "move": "MOVE_HEADBUTT"
+        },
+        {
+            "level": 34,
+            "move": "MOVE_BLAZEKICK"
+        },
+        {
+            "level": 38,
+            "move": "MOVE_COUNTER"
+        },
+        {
+            "level": 46,
+            "move": "MOVE_BOUNCE"
+        },
+        {
+            "level": 54,
+            "move": "MOVE_DOUBLEEDGE"
+        },
+        {
+            "level": 62,
+            "move": "MOVE_PYROBALL"
+        },
+        {
+            "level": 70,
+            "move": "MOVE_COURTCHANGE"
+        }
     ]
 }

@@ -39,6 +39,7 @@
     ],
     "blurb": "Its body is covered with slime. If you accidentally step on it, you'll slip, and it will get mad at you!",
     "name": "Pyukumuku",
+    "evolve_from": [],
     "learnset": [
         {
             "level": 1,
@@ -109,7 +110,6 @@
             "move": "MOVE_MEMENTO"
         }
     ],
-    "evolve_from": [],
     "tm": [
         "MOVE_TOXIC",
         "MOVE_HAIL",

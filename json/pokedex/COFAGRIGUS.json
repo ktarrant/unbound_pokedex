@@ -30,6 +30,9 @@
     "noFlip": true,
     "blurb": "Grave robbers who mistake them for real coffins and get too close end up trapped inside their bodies.",
     "name": "Cofagrigus",
+    "evolve_from": [
+        "YAMASK"
+    ],
     "learnset": [
         {
             "level": 0,
@@ -107,9 +110,6 @@
             "level": 62,
             "move": "MOVE_DESTINYBOND"
         }
-    ],
-    "evolve_from": [
-        "YAMASK"
     ],
     "tm": [
         "MOVE_CALMMIND",

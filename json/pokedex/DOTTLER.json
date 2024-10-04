@@ -28,8 +28,19 @@
     "safariZoneFleeRate": 0,
     "hiddenAbility": "ABILITY_TELEPATHY",
     "noFlip": true,
+    "evolve_to": [
+        {
+            "method": "EVO_LEVEL",
+            "condition": "30",
+            "target": "ORBEETLE",
+            "extra": "0"
+        }
+    ],
     "blurb": "As it grows inside its shell, it uses its psychic abilities to monitor its surroundings and wait for evolution.",
     "name": "Dottler",
+    "evolve_from": [
+        "BLIPBUG"
+    ],
     "learnset": [
         {
             "level": 0,
@@ -59,17 +70,6 @@
             "level": 9,
             "move": "MOVE_LIGHTSCREEN"
         }
-    ],
-    "evolve_to": [
-        {
-            "method": "EVO_LEVEL",
-            "condition": "30",
-            "target": "ORBEETLE",
-            "extra": "0"
-        }
-    ],
-    "evolve_from": [
-        "BLIPBUG"
     ],
     "tm": [
         "MOVE_CALMMIND",

@@ -29,6 +29,9 @@
     "hiddenAbility": "ABILITY_UNNERVE",
     "noFlip": true,
     "name": "Masquerain",
+    "evolve_from": [
+        "SURSKIT"
+    ],
     "learnset": [
         {
             "level": 0,
@@ -130,9 +133,6 @@
             "level": 56,
             "move": "MOVE_HURRICANE"
         }
-    ],
-    "evolve_from": [
-        "SURSKIT"
     ],
     "tm": [
         "MOVE_WATERPULSE",

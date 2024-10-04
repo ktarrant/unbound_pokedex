@@ -39,8 +39,17 @@
         "MOVE_ROCKCLIMB",
         "MOVE_IRONTAIL"
     ],
+    "evolve_to": [
+        {
+            "method": "EVO_LEVEL",
+            "condition": "24",
+            "target": "GABITE",
+            "extra": "0"
+        }
+    ],
     "blurb": "It once lived in the tropics. To avoid the cold, it lives in caves warmed by geothermal heat.",
     "name": "Gible",
+    "evolve_from": [],
     "learnset": [
         {
             "level": 1,
@@ -111,15 +120,6 @@
             "move": "MOVE_OUTRAGE"
         }
     ],
-    "evolve_to": [
-        {
-            "method": "EVO_LEVEL",
-            "condition": "24",
-            "target": "GABITE",
-            "extra": "0"
-        }
-    ],
-    "evolve_from": [],
     "tm": [
         "MOVE_DRAGONCLAW",
         "MOVE_ROAR",

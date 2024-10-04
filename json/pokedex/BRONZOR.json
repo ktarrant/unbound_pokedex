@@ -28,8 +28,17 @@
     "safariZoneFleeRate": 0,
     "hiddenAbility": "ABILITY_HEAVYMETAL",
     "noFlip": true,
+    "evolve_to": [
+        {
+            "method": "EVO_LEVEL",
+            "condition": "33",
+            "target": "BRONZONG",
+            "extra": "0"
+        }
+    ],
     "blurb": "X-ray photos were taken to check its body structure. Nothing appeared, however.",
     "name": "Bronzor",
+    "evolve_from": [],
     "learnset": [
         {
             "level": 1,
@@ -100,15 +109,6 @@
             "move": "MOVE_DOOMDESIRE"
         }
     ],
-    "evolve_to": [
-        {
-            "method": "EVO_LEVEL",
-            "condition": "33",
-            "target": "BRONZONG",
-            "extra": "0"
-        }
-    ],
-    "evolve_from": [],
     "tm": [
         "MOVE_CALMMIND",
         "MOVE_TOXIC",

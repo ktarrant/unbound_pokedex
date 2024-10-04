@@ -30,6 +30,9 @@
     "noFlip": true,
     "blurb": "With its sucker mouth, it sucks in prey. Then it uses its fangs to shock the prey with electricity.",
     "name": "Eelektross",
+    "evolve_from": [
+        "EELEKTRIK"
+    ],
     "learnset": [
         {
             "level": 0,
@@ -111,9 +114,6 @@
             "level": 70,
             "move": "MOVE_THUNDERCAGE"
         }
-    ],
-    "evolve_from": [
-        "EELEKTRIK"
     ],
     "tm": [
         "MOVE_FOCUSPUNCH",

@@ -41,8 +41,17 @@
         "MOVE_AURORAVEIL",
         "MOVE_ICICLECRASH"
     ],
+    "evolve_to": [
+        {
+            "method": "EVO_LEVEL",
+            "condition": "24",
+            "target": "VANILLISH",
+            "extra": "0"
+        }
+    ],
     "blurb": "It feels pleasantly cool when embraced. This Pok\u00e9mon is treasured by households in warm regions.",
     "name": "Vanillite",
+    "evolve_from": [],
     "learnset": [
         {
             "level": 1,
@@ -109,15 +118,6 @@
             "move": "MOVE_SHEERCOLD"
         }
     ],
-    "evolve_to": [
-        {
-            "method": "EVO_LEVEL",
-            "condition": "24",
-            "target": "VANILLISH",
-            "extra": "0"
-        }
-    ],
-    "evolve_from": [],
     "tm": [
         "MOVE_WATERPULSE",
         "MOVE_TOXIC",

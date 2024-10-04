@@ -41,6 +41,9 @@
         "MOVE_ROCKPOLISH"
     ],
     "name": "Sudowoodo",
+    "evolve_from": [
+        "BONSLY"
+    ],
     "learnset": [
         {
             "level": 0,
@@ -122,9 +125,6 @@
             "level": 52,
             "move": "MOVE_HEADSMASH"
         }
-    ],
-    "evolve_from": [
-        "BONSLY"
     ],
     "tm": [
         "MOVE_FOCUSPUNCH",

@@ -30,6 +30,9 @@
     "noFlip": true,
     "blurb": "With a lithe body and sharp claws, it goes around stealing food and eggs. It secretly marks its future targets.",
     "name": "Thievul",
+    "evolve_from": [
+        "NICKIT"
+    ],
     "learnset": [
         {
             "level": 0,
@@ -87,9 +90,6 @@
             "level": 47,
             "move": "MOVE_PARTINGSHOT"
         }
-    ],
-    "evolve_from": [
-        "NICKIT"
     ],
     "tm": [
         "MOVE_ROAR",

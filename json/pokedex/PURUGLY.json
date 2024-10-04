@@ -30,6 +30,9 @@
     "noFlip": true,
     "blurb": "To make itself appear intimidatingly beefy, it tightly cinches its waist with its twin tails.",
     "name": "Purugly",
+    "evolve_from": [
+        "GLAMEOW"
+    ],
     "learnset": [
         {
             "level": 0,
@@ -115,9 +118,6 @@
             "level": 64,
             "move": "MOVE_PLAYROUGH"
         }
-    ],
-    "evolve_from": [
-        "GLAMEOW"
     ],
     "tm": [
         "MOVE_WATERPULSE",

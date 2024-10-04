@@ -29,6 +29,9 @@
     "hiddenAbility": "ABILITY_SCRAPPY",
     "noFlip": true,
     "name": "Exploud",
+    "evolve_from": [
+        "LOUDRED"
+    ],
     "learnset": [
         {
             "level": 0,
@@ -114,9 +117,6 @@
             "level": 78,
             "move": "MOVE_HYPERBEAM"
         }
-    ],
-    "evolve_from": [
-        "LOUDRED"
     ],
     "tm": [
         "MOVE_WATERPULSE",

@@ -30,6 +30,9 @@
     "noFlip": true,
     "blurb": "When attacked, they create an electric barrier by spitting out many electrically charged threads.",
     "name": "Galvantula",
+    "evolve_from": [
+        "JOLTIK"
+    ],
     "learnset": [
         {
             "level": 0,
@@ -99,9 +102,6 @@
             "level": 58,
             "move": "MOVE_BUGBUZZ"
         }
-    ],
-    "evolve_from": [
-        "JOLTIK"
     ],
     "tm": [
         "MOVE_TOXIC",

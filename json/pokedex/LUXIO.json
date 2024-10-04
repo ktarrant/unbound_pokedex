@@ -28,8 +28,19 @@
     "safariZoneFleeRate": 0,
     "hiddenAbility": "ABILITY_GUTS",
     "noFlip": true,
+    "evolve_to": [
+        {
+            "method": "EVO_LEVEL",
+            "condition": "30",
+            "target": "LUXRAY",
+            "extra": "0"
+        }
+    ],
     "blurb": "It rests its forelegs on others to communicate with rhythmic electric pulses from its claws.",
     "name": "Luxio",
+    "evolve_from": [
+        "SHINX"
+    ],
     "learnset": [
         {
             "level": 1,
@@ -95,17 +106,6 @@
             "level": 52,
             "move": "MOVE_VOLTTACKLE"
         }
-    ],
-    "evolve_to": [
-        {
-            "method": "EVO_LEVEL",
-            "condition": "30",
-            "target": "LUXRAY",
-            "extra": "0"
-        }
-    ],
-    "evolve_from": [
-        "SHINX"
     ],
     "tm": [
         "MOVE_ROAR",

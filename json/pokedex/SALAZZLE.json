@@ -30,6 +30,9 @@
     "noFlip": true,
     "blurb": "It punishes Salandit that couldn't bring it food with a fierce slap of its flame-spewing palm.",
     "name": "Salazzle",
+    "evolve_from": [
+        "SALANDIT"
+    ],
     "learnset": [
         {
             "level": 0,
@@ -143,9 +146,6 @@
             "level": 65,
             "move": "MOVE_TOXIC"
         }
-    ],
-    "evolve_from": [
-        "SALANDIT"
     ],
     "tm": [
         "MOVE_DRAGONCLAW",

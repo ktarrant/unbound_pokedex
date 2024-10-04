@@ -42,7 +42,16 @@
         "MOVE_SLASH",
         "MOVE_NIGHTSLASH"
     ],
+    "evolve_to": [
+        {
+            "method": "EVO_LEVEL",
+            "condition": "28",
+            "target": "KINGLER",
+            "extra": "0"
+        }
+    ],
     "name": "Krabby",
+    "evolve_from": [],
     "learnset": [
         {
             "level": 1,
@@ -109,15 +118,6 @@
             "move": "MOVE_GUILLOTINE"
         }
     ],
-    "evolve_to": [
-        {
-            "method": "EVO_LEVEL",
-            "condition": "28",
-            "target": "KINGLER",
-            "extra": "0"
-        }
-    ],
-    "evolve_from": [],
     "tm": [
         "MOVE_WATERPULSE",
         "MOVE_TOXIC",

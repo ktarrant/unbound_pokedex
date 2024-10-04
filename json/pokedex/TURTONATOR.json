@@ -38,6 +38,7 @@
     ],
     "blurb": "It gushes fire and poisonous gases from its nostrils. Its dung is an explosive substance.",
     "name": "Turtonator",
+    "evolve_from": [],
     "learnset": [
         {
             "level": 1,
@@ -100,7 +101,6 @@
             "move": "MOVE_EXPLOSION"
         }
     ],
-    "evolve_from": [],
     "tm": [
         "MOVE_DRAGONCLAW",
         "MOVE_ROAR",

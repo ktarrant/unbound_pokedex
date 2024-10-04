@@ -30,6 +30,9 @@
     "noFlip": true,
     "blurb": "When it takes a defensive posture with its fists guarding its face, it could withstand a bomb blast.",
     "name": "Chesnaught",
+    "evolve_from": [
+        "QUILLADIN"
+    ],
     "learnset": [
         {
             "level": 0,
@@ -123,9 +126,6 @@
             "level": 68,
             "move": "MOVE_GIGAIMPACT"
         }
-    ],
-    "evolve_from": [
-        "QUILLADIN"
     ],
     "tm": [
         "MOVE_FOCUSPUNCH",

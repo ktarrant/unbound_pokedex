@@ -29,15 +29,14 @@
     "hiddenAbility": "ABILITY_NONE",
     "noFlip": true,
     "name": "Unown ?",
+    "evolve_from": [],
+    "tm": [
+        "MOVE_HIDDENPOWER"
+    ],
     "learnset": [
         {
             "level": 1,
             "move": "MOVE_HIDDENPOWER"
         }
-    ],
-    "evolve_from": [],
-    "tm": [
-        "MOVE_HIDDENPOWER"
-    ],
-    "tutor": []
+    ]
 }

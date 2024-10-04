@@ -43,6 +43,7 @@
     ],
     "blurb": "It runs through the narrow tunnels formed by Excadrill and Onix. It uses its sharp claws to catch prey.",
     "name": "Druddigon",
+    "evolve_from": [],
     "learnset": [
         {
             "level": 1,
@@ -113,7 +114,6 @@
             "move": "MOVE_OUTRAGE"
         }
     ],
-    "evolve_from": [],
     "tm": [
         "MOVE_DRAGONCLAW",
         "MOVE_ROAR",

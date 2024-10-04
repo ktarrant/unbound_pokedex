@@ -30,6 +30,7 @@
     "noFlip": true,
     "blurb": "Glastrier has tremendous physical strength. The mask covering its face is 100 times stronger than diamond.",
     "name": "Glastrier",
+    "evolve_from": [],
     "learnset": [
         {
             "level": 1,
@@ -88,7 +89,6 @@
             "move": "MOVE_SWORDSDANCE"
         }
     ],
-    "evolve_from": [],
     "tm": [
         "MOVE_TOXIC",
         "MOVE_HAIL",

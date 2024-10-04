@@ -28,7 +28,18 @@
     "safariZoneFleeRate": 0,
     "hiddenAbility": "ABILITY_FRISK",
     "noFlip": true,
+    "evolve_to": [
+        {
+            "method": "EVO_ITEM",
+            "condition": "ITEM_MOON_STONE",
+            "target": "WIGGLYTUFF",
+            "extra": "0"
+        }
+    ],
     "name": "Jigglypuff",
+    "evolve_from": [
+        "IGGLYBUFF"
+    ],
     "learnset": [
         {
             "level": 1,
@@ -130,17 +141,6 @@
             "level": 48,
             "move": "MOVE_DOUBLEEDGE"
         }
-    ],
-    "evolve_to": [
-        {
-            "method": "EVO_ITEM",
-            "condition": "ITEM_MOON_STONE",
-            "target": "WIGGLYTUFF",
-            "extra": "0"
-        }
-    ],
-    "evolve_from": [
-        "IGGLYBUFF"
     ],
     "tm": [
         "MOVE_FOCUSPUNCH",

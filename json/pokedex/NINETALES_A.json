@@ -29,6 +29,9 @@
     "hiddenAbility": "ABILITY_SNOWWARNING",
     "noFlip": true,
     "blurb": "It lives on mountains perpetually covered in snow and is revered as a deity incarnate.",
+    "evolve_from": [
+        "VULPIX_A"
+    ],
     "learnset": [
         {
             "level": 0,
@@ -114,9 +117,6 @@
             "level": 58,
             "move": "MOVE_SHEERCOLD"
         }
-    ],
-    "evolve_from": [
-        "VULPIX_A"
     ],
     "tm": [
         "MOVE_CALMMIND",

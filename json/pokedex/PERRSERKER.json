@@ -30,6 +30,9 @@
     "noFlip": true,
     "blurb": "What appears to be an iron helmet is actually hardened hair. This Pok\u00e9mon lives for the thrill of battle.",
     "name": "Perrserker",
+    "evolve_from": [
+        "MEOWTH_G"
+    ],
     "learnset": [
         {
             "level": 0,
@@ -107,9 +110,6 @@
             "level": 60,
             "move": "MOVE_THRASH"
         }
-    ],
-    "evolve_from": [
-        "MEOWTH_G"
     ],
     "tm": [
         "MOVE_TOXIC",

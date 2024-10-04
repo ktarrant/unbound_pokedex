@@ -38,8 +38,17 @@
         "MOVE_FEINTATTACK",
         "MOVE_EMBARGO"
     ],
+    "evolve_to": [
+        {
+            "method": "EVO_LEVEL",
+            "condition": "52",
+            "target": "BISHARP",
+            "extra": "0"
+        }
+    ],
     "blurb": "Ignoring their injuries, groups attack by sinking the blades that cover their bodies into their prey.",
     "name": "Pawniard",
+    "evolve_from": [],
     "learnset": [
         {
             "level": 1,
@@ -110,15 +119,6 @@
             "move": "MOVE_GUILLOTINE"
         }
     ],
-    "evolve_to": [
-        {
-            "method": "EVO_LEVEL",
-            "condition": "52",
-            "target": "BISHARP",
-            "extra": "0"
-        }
-    ],
-    "evolve_from": [],
     "tm": [
         "MOVE_TOXIC",
         "MOVE_HIDDENPOWER",

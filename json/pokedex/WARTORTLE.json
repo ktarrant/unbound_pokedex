@@ -28,7 +28,18 @@
     "safariZoneFleeRate": 0,
     "hiddenAbility": "ABILITY_RAINDISH",
     "noFlip": true,
+    "evolve_to": [
+        {
+            "method": "EVO_LEVEL",
+            "condition": "36",
+            "target": "BLASTOISE",
+            "extra": "0"
+        }
+    ],
     "name": "Wartortle",
+    "evolve_from": [
+        "SQUIRTLE"
+    ],
     "learnset": [
         {
             "level": 1,
@@ -90,17 +101,6 @@
             "level": 49,
             "move": "MOVE_SKULLBASH"
         }
-    ],
-    "evolve_to": [
-        {
-            "method": "EVO_LEVEL",
-            "condition": "36",
-            "target": "BLASTOISE",
-            "extra": "0"
-        }
-    ],
-    "evolve_from": [
-        "SQUIRTLE"
     ],
     "tm": [
         "MOVE_FOCUSPUNCH",

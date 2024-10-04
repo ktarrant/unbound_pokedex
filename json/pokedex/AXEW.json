@@ -40,8 +40,17 @@
         "MOVE_BITE",
         "MOVE_FIRSTIMPRESSION"
     ],
+    "evolve_to": [
+        {
+            "method": "EVO_LEVEL",
+            "condition": "38",
+            "target": "FRAXURE",
+            "extra": "0"
+        }
+    ],
     "blurb": "Its large tusks have a tendency to break, but each time they grow back, they grow in harder and sturdier.",
     "name": "Axew",
+    "evolve_from": [],
     "learnset": [
         {
             "level": 1,
@@ -116,15 +125,6 @@
             "move": "MOVE_GIGAIMPACT"
         }
     ],
-    "evolve_to": [
-        {
-            "method": "EVO_LEVEL",
-            "condition": "38",
-            "target": "FRAXURE",
-            "extra": "0"
-        }
-    ],
-    "evolve_from": [],
     "tm": [
         "MOVE_DRAGONCLAW",
         "MOVE_ROAR",

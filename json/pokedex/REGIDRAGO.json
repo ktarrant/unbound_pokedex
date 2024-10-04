@@ -30,6 +30,7 @@
     "noFlip": true,
     "blurb": "Its body is composed of crystallized dragon energy. It is said to contain the power of every Dragon Pok\u00e9mon.",
     "name": "Regidrago",
+    "evolve_from": [],
     "learnset": [
         {
             "level": 1,
@@ -92,7 +93,6 @@
             "move": "MOVE_EXPLOSION"
         }
     ],
-    "evolve_from": [],
     "tm": [
         "MOVE_DRAGONCLAW",
         "MOVE_ROAR",

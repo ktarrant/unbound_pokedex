@@ -29,6 +29,9 @@
     "hiddenAbility": "ABILITY_HARVEST",
     "noFlip": true,
     "name": "Exeggutor",
+    "evolve_from": [
+        "EXEGGCUTE"
+    ],
     "learnset": [
         {
             "level": 0,
@@ -122,9 +125,6 @@
             "level": 54,
             "move": "MOVE_LEAFSTORM"
         }
-    ],
-    "evolve_from": [
-        "EXEGGCUTE"
     ],
     "tm": [
         "MOVE_CALMMIND",

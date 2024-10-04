@@ -29,6 +29,9 @@
     "hiddenAbility": "ABILITY_SANDVEIL",
     "noFlip": true,
     "name": "Donphan",
+    "evolve_from": [
+        "PHANPY"
+    ],
     "learnset": [
         {
             "level": 0,
@@ -134,9 +137,6 @@
             "level": 51,
             "move": "MOVE_GIGAIMPACT"
         }
-    ],
-    "evolve_from": [
-        "PHANPY"
     ],
     "tm": [
         "MOVE_ROAR",

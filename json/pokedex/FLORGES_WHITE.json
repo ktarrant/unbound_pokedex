@@ -28,6 +28,9 @@
     "safariZoneFleeRate": 0,
     "hiddenAbility": "ABILITY_SYMBIOSIS",
     "noFlip": true,
+    "evolve_from": [
+        "FLOETTE_WHITE"
+    ],
     "learnset": [
         {
             "level": 1,
@@ -101,9 +104,6 @@
             "level": 57,
             "move": "MOVE_MOONBLAST"
         }
-    ],
-    "evolve_from": [
-        "FLOETTE_WHITE"
     ],
     "tm": [
         "MOVE_CALMMIND",

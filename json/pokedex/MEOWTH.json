@@ -46,64 +46,6 @@
         "MOVE_ASSURANCE"
     ],
     "name": "Meowth",
-    "learnset": [
-        {
-            "level": 1,
-            "move": "MOVE_FAKEOUT"
-        },
-        {
-            "level": 1,
-            "move": "MOVE_GROWL"
-        },
-        {
-            "level": 4,
-            "move": "MOVE_FEINT"
-        },
-        {
-            "level": 8,
-            "move": "MOVE_SCRATCH"
-        },
-        {
-            "level": 12,
-            "move": "MOVE_PAYDAY"
-        },
-        {
-            "level": 16,
-            "move": "MOVE_BITE"
-        },
-        {
-            "level": 20,
-            "move": "MOVE_FURYSWIPES"
-        },
-        {
-            "level": 24,
-            "move": "MOVE_TAUNT"
-        },
-        {
-            "level": 29,
-            "move": "MOVE_FEINTATTACK"
-        },
-        {
-            "level": 32,
-            "move": "MOVE_SLASH"
-        },
-        {
-            "level": 36,
-            "move": "MOVE_SCREECH"
-        },
-        {
-            "level": 40,
-            "move": "MOVE_NIGHTSLASH"
-        },
-        {
-            "level": 44,
-            "move": "MOVE_NASTYPLOT"
-        },
-        {
-            "level": 48,
-            "move": "MOVE_PLAYROUGH"
-        }
-    ],
     "evolve_from": [
         "MEOWTH_GIGA"
     ],
@@ -169,5 +111,63 @@
         "MOVE_BODYSLAM",
         "MOVE_PLAYROUGH",
         "MOVE_LASHOUT"
+    ],
+    "learnset": [
+        {
+            "level": 1,
+            "move": "MOVE_FAKEOUT"
+        },
+        {
+            "level": 1,
+            "move": "MOVE_GROWL"
+        },
+        {
+            "level": 4,
+            "move": "MOVE_FEINT"
+        },
+        {
+            "level": 8,
+            "move": "MOVE_SCRATCH"
+        },
+        {
+            "level": 12,
+            "move": "MOVE_PAYDAY"
+        },
+        {
+            "level": 16,
+            "move": "MOVE_BITE"
+        },
+        {
+            "level": 20,
+            "move": "MOVE_FURYSWIPES"
+        },
+        {
+            "level": 24,
+            "move": "MOVE_TAUNT"
+        },
+        {
+            "level": 29,
+            "move": "MOVE_FEINTATTACK"
+        },
+        {
+            "level": 32,
+            "move": "MOVE_SLASH"
+        },
+        {
+            "level": 36,
+            "move": "MOVE_SCREECH"
+        },
+        {
+            "level": 40,
+            "move": "MOVE_NIGHTSLASH"
+        },
+        {
+            "level": 44,
+            "move": "MOVE_NASTYPLOT"
+        },
+        {
+            "level": 48,
+            "move": "MOVE_PLAYROUGH"
+        }
     ]
 }

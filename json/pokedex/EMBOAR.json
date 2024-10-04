@@ -30,6 +30,9 @@
     "noFlip": true,
     "blurb": "It has mastered fast and powerful fighting moves. It grows a beard of fire.",
     "name": "Emboar",
+    "evolve_from": [
+        "PIGNITE"
+    ],
     "learnset": [
         {
             "level": 0,
@@ -107,9 +110,6 @@
             "level": 62,
             "move": "MOVE_FLAREBLITZ"
         }
-    ],
-    "evolve_from": [
-        "PIGNITE"
     ],
     "tm": [
         "MOVE_FOCUSPUNCH",

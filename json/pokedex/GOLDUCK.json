@@ -29,6 +29,9 @@
     "hiddenAbility": "ABILITY_NEUROFORCE",
     "noFlip": true,
     "name": "Golduck",
+    "evolve_from": [
+        "PSYDUCK"
+    ],
     "learnset": [
         {
             "level": 0,
@@ -114,9 +117,6 @@
             "level": 56,
             "move": "MOVE_WONDERROOM"
         }
-    ],
-    "evolve_from": [
-        "PSYDUCK"
     ],
     "tm": [
         "MOVE_FOCUSPUNCH",

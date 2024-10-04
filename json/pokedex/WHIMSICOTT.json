@@ -30,6 +30,9 @@
     "noFlip": true,
     "blurb": "Like the wind, it can slip through any gap, no matter how small. It leaves balls of white fluff behind.",
     "name": "Whimsicott",
+    "evolve_from": [
+        "COTTONEE"
+    ],
     "learnset": [
         {
             "level": 0,
@@ -123,9 +126,6 @@
             "level": 48,
             "move": "MOVE_HURRICANE"
         }
-    ],
-    "evolve_from": [
-        "COTTONEE"
     ],
     "tm": [
         "MOVE_TOXIC",

@@ -39,8 +39,17 @@
         "MOVE_ACIDSPRAY",
         "MOVE_ICEBALL"
     ],
+    "evolve_to": [
+        {
+            "method": "EVO_MOVE",
+            "condition": "MOVE_BARBBARRAGE",
+            "target": "OVERQWIL",
+            "extra": "0"
+        }
+    ],
     "blurb": "Fisherman detest this troublesome Pok\u00e9mon because it sprays poison from its spines, getting it everywhere.",
     "name": "Qwilfish",
+    "evolve_from": [],
     "learnset": [
         {
             "level": 1,
@@ -131,15 +140,6 @@
             "move": "MOVE_SELFDESTRUCT"
         }
     ],
-    "evolve_to": [
-        {
-            "method": "EVO_MOVE",
-            "condition": "MOVE_BARBBARRAGE",
-            "target": "OVERQWIL",
-            "extra": "0"
-        }
-    ],
-    "evolve_from": [],
     "tm": [
         "MOVE_WATERPULSE",
         "MOVE_TOXIC",

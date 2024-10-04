@@ -29,6 +29,9 @@
     "hiddenAbility": "ABILITY_TELEPATHY",
     "noFlip": true,
     "name": "Wobbuffet",
+    "evolve_from": [
+        "WYNAUT"
+    ],
     "learnset": [
         {
             "level": 0,
@@ -78,9 +81,6 @@
             "level": 1,
             "move": "MOVE_DESTINYBOND"
         }
-    ],
-    "evolve_from": [
-        "WYNAUT"
     ],
     "tm": [
         "MOVE_SAFEGUARD"

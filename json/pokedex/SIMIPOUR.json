@@ -30,6 +30,9 @@
     "noFlip": true,
     "blurb": "The high-pressure water expelled from its tail is so powerful, it can destroy a concrete wall.",
     "name": "Simipour",
+    "evolve_from": [
+        "PANPOUR"
+    ],
     "learnset": [
         {
             "level": 0,
@@ -99,9 +102,6 @@
             "level": 34,
             "move": "MOVE_SCALD"
         }
-    ],
-    "evolve_from": [
-        "PANPOUR"
     ],
     "tm": [
         "MOVE_FOCUSPUNCH",

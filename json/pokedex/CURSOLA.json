@@ -30,6 +30,9 @@
     "noFlip": true,
     "blurb": "Be cautious of the ectoplasmic body surrounding its soul. You'll become stiff as stone if you touch it.",
     "name": "Cursola",
+    "evolve_from": [
+        "CORSOLA_G"
+    ],
     "learnset": [
         {
             "level": 1,
@@ -87,9 +90,6 @@
             "level": 55,
             "move": "MOVE_MIRRORCOAT"
         }
-    ],
-    "evolve_from": [
-        "CORSOLA_G"
     ],
     "tm": [
         "MOVE_WATERPULSE",

@@ -28,6 +28,9 @@
     "safariZoneFleeRate": 0,
     "hiddenAbility": "ABILITY_DAMP",
     "noFlip": true,
+    "evolve_from": [
+        "FRILLISH_F"
+    ],
     "learnset": [
         {
             "level": 1,
@@ -101,9 +104,6 @@
             "level": 63,
             "move": "MOVE_WATERSPOUT"
         }
-    ],
-    "evolve_from": [
-        "FRILLISH_F"
     ],
     "tm": [
         "MOVE_WATERPULSE",

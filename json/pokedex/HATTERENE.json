@@ -28,8 +28,6 @@
     "safariZoneFleeRate": 0,
     "hiddenAbility": "ABILITY_MAGICBOUNCE",
     "noFlip": true,
-    "blurb": "Known as the Forest Witch, if you are too loud around it, you risk being torn apart by the claws on its tentacle.",
-    "name": "Hatterene",
     "evolve_to": [
         {
             "method": "EVO_GIGANTAMAX",
@@ -38,60 +36,8 @@
             "extra": "0"
         }
     ],
-    "learnset": [
-        {
-            "level": 0,
-            "move": "MOVE_PSYCHOCUT"
-        },
-        {
-            "level": 1,
-            "move": "MOVE_MAGICPOWDER"
-        },
-        {
-            "level": 1,
-            "move": "MOVE_CONFUSION"
-        },
-        {
-            "level": 1,
-            "move": "MOVE_PLAYNICE"
-        },
-        {
-            "level": 1,
-            "move": "MOVE_LIFEDEW"
-        },
-        {
-            "level": 1,
-            "move": "MOVE_DISARMINGVOICE"
-        },
-        {
-            "level": 15,
-            "move": "MOVE_AROMATHERAPY"
-        },
-        {
-            "level": 20,
-            "move": "MOVE_PSYBEAM"
-        },
-        {
-            "level": 25,
-            "move": "MOVE_HEALPULSE"
-        },
-        {
-            "level": 30,
-            "move": "MOVE_DAZZLINGGLEAM"
-        },
-        {
-            "level": 37,
-            "move": "MOVE_CALMMIND"
-        },
-        {
-            "level": 46,
-            "move": "MOVE_PSYCHIC"
-        },
-        {
-            "level": 55,
-            "move": "MOVE_HEALINGWISH"
-        }
-    ],
+    "blurb": "Known as the Forest Witch, if you are too loud around it, you risk being torn apart by the claws on its tentacle.",
+    "name": "Hatterene",
     "evolve_from": [
         "HATTREM",
         "HATTERENE_GIGA"
@@ -159,5 +105,59 @@
         "MOVE_POWERWHIP",
         "MOVE_EXPANDINGFORCE",
         "MOVE_MISTYEXPLOSION"
+    ],
+    "learnset": [
+        {
+            "level": 0,
+            "move": "MOVE_PSYCHOCUT"
+        },
+        {
+            "level": 1,
+            "move": "MOVE_MAGICPOWDER"
+        },
+        {
+            "level": 1,
+            "move": "MOVE_CONFUSION"
+        },
+        {
+            "level": 1,
+            "move": "MOVE_PLAYNICE"
+        },
+        {
+            "level": 1,
+            "move": "MOVE_LIFEDEW"
+        },
+        {
+            "level": 1,
+            "move": "MOVE_DISARMINGVOICE"
+        },
+        {
+            "level": 15,
+            "move": "MOVE_AROMATHERAPY"
+        },
+        {
+            "level": 20,
+            "move": "MOVE_PSYBEAM"
+        },
+        {
+            "level": 25,
+            "move": "MOVE_HEALPULSE"
+        },
+        {
+            "level": 30,
+            "move": "MOVE_DAZZLINGGLEAM"
+        },
+        {
+            "level": 37,
+            "move": "MOVE_CALMMIND"
+        },
+        {
+            "level": 46,
+            "move": "MOVE_PSYCHIC"
+        },
+        {
+            "level": 55,
+            "move": "MOVE_HEALINGWISH"
+        }
     ]
 }

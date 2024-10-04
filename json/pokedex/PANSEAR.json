@@ -43,8 +43,17 @@
         "MOVE_BELCH",
         "MOVE_FLAREBLITZ"
     ],
+    "evolve_to": [
+        {
+            "method": "EVO_ITEM",
+            "condition": "ITEM_FIRE_STONE",
+            "target": "SIMISEAR",
+            "extra": "0"
+        }
+    ],
     "blurb": "Very intelligent, it roasts berries before eating them. It likes to help people.",
     "name": "Pansear",
+    "evolve_from": [],
     "learnset": [
         {
             "level": 1,
@@ -111,15 +120,6 @@
             "move": "MOVE_CRUNCH"
         }
     ],
-    "evolve_to": [
-        {
-            "method": "EVO_ITEM",
-            "condition": "ITEM_FIRE_STONE",
-            "target": "SIMISEAR",
-            "extra": "0"
-        }
-    ],
-    "evolve_from": [],
     "tm": [
         "MOVE_FOCUSPUNCH",
         "MOVE_TOXIC",

@@ -41,8 +41,17 @@
         "MOVE_TOXIC",
         "MOVE_MUDSLAP"
     ],
+    "evolve_to": [
+        {
+            "method": "EVO_LEVEL",
+            "condition": "25",
+            "target": "PALPITOAD",
+            "extra": "0"
+        }
+    ],
     "blurb": "They warn others of danger by vibrating their cheeks to create a high-pitched sound.",
     "name": "Tympole",
+    "evolve_from": [],
     "learnset": [
         {
             "level": 1,
@@ -109,15 +118,6 @@
             "move": "MOVE_HYDROPUMP"
         }
     ],
-    "evolve_to": [
-        {
-            "method": "EVO_LEVEL",
-            "condition": "25",
-            "target": "PALPITOAD",
-            "extra": "0"
-        }
-    ],
-    "evolve_from": [],
     "tm": [
         "MOVE_WATERPULSE",
         "MOVE_TOXIC",

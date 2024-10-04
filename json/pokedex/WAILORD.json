@@ -29,6 +29,9 @@
     "hiddenAbility": "ABILITY_REGENERATOR",
     "noFlip": true,
     "name": "Wailord",
+    "evolve_from": [
+        "WAILMER"
+    ],
     "learnset": [
         {
             "level": 1,
@@ -106,9 +109,6 @@
             "level": 59,
             "move": "MOVE_WATERSPOUT"
         }
-    ],
-    "evolve_from": [
-        "WAILMER"
     ],
     "tm": [
         "MOVE_WATERPULSE",

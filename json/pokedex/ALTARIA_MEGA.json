@@ -28,6 +28,17 @@
     "safariZoneFleeRate": 0,
     "hiddenAbility": "ABILITY_NONE",
     "noFlip": true,
+    "evolve_to": [
+        {
+            "method": "EVO_MEGA",
+            "condition": "ITEM_NONE",
+            "target": "ALTARIA",
+            "extra": "MEGA_VARIANT_STANDARD"
+        }
+    ],
+    "evolve_from": [
+        "ALTARIA"
+    ],
     "learnset": [
         {
             "level": 0,
@@ -126,17 +137,72 @@
             "move": "MOVE_SKYATTACK"
         }
     ],
-    "evolve_to": [
-        {
-            "method": "EVO_MEGA",
-            "condition": "ITEM_NONE",
-            "target": "ALTARIA",
-            "extra": "MEGA_VARIANT_STANDARD"
-        }
+    "tm": [
+        "MOVE_DRAGONCLAW",
+        "MOVE_ROAR",
+        "MOVE_TOXIC",
+        "MOVE_HIDDENPOWER",
+        "MOVE_SUNNYDAY",
+        "MOVE_ICEBEAM",
+        "MOVE_HYPERBEAM",
+        "MOVE_PROTECT",
+        "MOVE_RAINDANCE",
+        "MOVE_SAFEGUARD",
+        "MOVE_FRUSTRATION",
+        "MOVE_SOLARBEAM",
+        "MOVE_IRONTAIL",
+        "MOVE_EARTHQUAKE",
+        "MOVE_RETURN",
+        "MOVE_DOUBLETEAM",
+        "MOVE_FLAMETHROWER",
+        "MOVE_FIREBLAST",
+        "MOVE_AERIALACE",
+        "MOVE_FACADE",
+        "MOVE_SECRETPOWER",
+        "MOVE_REST",
+        "MOVE_ATTRACT",
+        "MOVE_THIEF",
+        "MOVE_STEELWING",
+        "MOVE_ROOST",
+        "MOVE_FALSESWIPE",
+        "MOVE_HONECLAWS",
+        "MOVE_ENDURE",
+        "MOVE_DRAGONPULSE",
+        "MOVE_GIGAIMPACT",
+        "MOVE_SLEEPTALK",
+        "MOVE_DREAMEATER",
+        "MOVE_SWAGGER",
+        "MOVE_PLUCK",
+        "MOVE_SUBSTITUTE",
+        "MOVE_INCINERATE",
+        "MOVE_BULLDOZE",
+        "MOVE_DAZZLINGGLEAM",
+        "MOVE_DEFOG",
+        "MOVE_ROUND",
+        "MOVE_ECHOEDVOICE",
+        "MOVE_NATURALGIFT",
+        "MOVE_FLY",
+        "MOVE_ROCKSMASH"
     ],
-    "evolve_from": [
-        "ALTARIA"
-    ],
-    "tm": [],
-    "tutor": []
+    "tutor": [
+        "MOVE_SNORE",
+        "MOVE_HEALBELL",
+        "MOVE_UPROAR",
+        "MOVE_TAILWIND",
+        "MOVE_WONDERROOM",
+        "MOVE_OUTRAGE",
+        "MOVE_SKYATTACK",
+        "MOVE_HEATWAVE",
+        "MOVE_HYPERVOICE",
+        "MOVE_PSYCHUP",
+        "MOVE_CONFIDE",
+        "MOVE_DRAGONDANCE",
+        "MOVE_AGILITY",
+        "MOVE_FIRESPIN",
+        "MOVE_BODYSLAM",
+        "MOVE_BREAKINGSWIPE",
+        "MOVE_PLAYROUGH",
+        "MOVE_HURRICANE",
+        "MOVE_DUALWINGBEAT"
+    ]
 }

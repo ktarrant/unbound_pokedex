@@ -30,6 +30,9 @@
     "noFlip": true,
     "blurb": "It avoids unnecessary disputes, but it will decimate anything that threatens its pride.",
     "name": "Empoleon",
+    "evolve_from": [
+        "PRINPLUP"
+    ],
     "learnset": [
         {
             "level": 0,
@@ -111,9 +114,6 @@
             "level": 59,
             "move": "MOVE_HYDROPUMP"
         }
-    ],
-    "evolve_from": [
-        "PRINPLUP"
     ],
     "tm": [
         "MOVE_WATERPULSE",

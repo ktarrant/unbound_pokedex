@@ -29,6 +29,7 @@
     "hiddenAbility": "ABILITY_MOODY",
     "noFlip": true,
     "name": "Smeargle",
+    "evolve_from": [],
     "learnset": [
         {
             "level": 1,
@@ -70,8 +71,5 @@
             "level": 91,
             "move": "MOVE_SKETCH"
         }
-    ],
-    "evolve_from": [],
-    "tm": [],
-    "tutor": []
+    ]
 }

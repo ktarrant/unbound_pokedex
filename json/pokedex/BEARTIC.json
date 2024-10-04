@@ -30,6 +30,9 @@
     "noFlip": true,
     "blurb": "It freezes its breath to create fangs and claws of ice. Cold northern areas are its habitat.",
     "name": "Beartic",
+    "evolve_from": [
+        "CUBCHOO"
+    ],
     "learnset": [
         {
             "level": 0,
@@ -107,9 +110,6 @@
             "level": 58,
             "move": "MOVE_SUPERPOWER"
         }
-    ],
-    "evolve_from": [
-        "CUBCHOO"
     ],
     "tm": [
         "MOVE_FOCUSPUNCH",

@@ -36,6 +36,7 @@
     ],
     "blurb": "Its hard pincers are well suited to both offense and defense.",
     "name": "Crabrawler",
+    "evolve_from": [],
     "learnset": [
         {
             "level": 1,
@@ -90,7 +91,6 @@
             "move": "MOVE_CLOSECOMBAT"
         }
     ],
-    "evolve_from": [],
     "tm": [
         "MOVE_FOCUSPUNCH",
         "MOVE_TOXIC",

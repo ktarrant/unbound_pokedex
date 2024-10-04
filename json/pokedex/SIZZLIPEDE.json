@@ -35,8 +35,17 @@
         "MOVE_DEFENSECURL",
         "MOVE_BURNUP"
     ],
+    "evolve_to": [
+        {
+            "method": "EVO_LEVEL",
+            "condition": "28",
+            "target": "CENTISKORCH",
+            "extra": "0"
+        }
+    ],
     "blurb": "It stores flammable gas in its body and uses it to generate heat. It then coils around its prey and cooks it.",
     "name": "Sizzlipede",
+    "evolve_from": [],
     "learnset": [
         {
             "level": 1,
@@ -91,15 +100,6 @@
             "move": "MOVE_RAGINGFURY"
         }
     ],
-    "evolve_to": [
-        {
-            "method": "EVO_LEVEL",
-            "condition": "28",
-            "target": "CENTISKORCH",
-            "extra": "0"
-        }
-    ],
-    "evolve_from": [],
     "tm": [
         "MOVE_TOXIC",
         "MOVE_HIDDENPOWER",

@@ -28,8 +28,19 @@
     "safariZoneFleeRate": 0,
     "hiddenAbility": "ABILITY_MAGICBOUNCE",
     "noFlip": true,
+    "evolve_to": [
+        {
+            "method": "EVO_LEVEL",
+            "condition": "42",
+            "target": "HATTERENE",
+            "extra": "0"
+        }
+    ],
     "blurb": "No matter who you are, if you bring strong emotions near this Pok\u00e9mon, it will silence you violently.",
     "name": "Hattrem",
+    "evolve_from": [
+        "HATENNA"
+    ],
     "learnset": [
         {
             "level": 0,
@@ -79,17 +90,6 @@
             "level": 51,
             "move": "MOVE_HEALINGWISH"
         }
-    ],
-    "evolve_to": [
-        {
-            "method": "EVO_LEVEL",
-            "condition": "42",
-            "target": "HATTERENE",
-            "extra": "0"
-        }
-    ],
-    "evolve_from": [
-        "HATENNA"
     ],
     "tm": [
         "MOVE_CALMMIND",

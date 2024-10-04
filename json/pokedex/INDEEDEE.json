@@ -35,6 +35,7 @@
     ],
     "blurb": "Through its horns, it can pick up on the emotions of creatures around it. Males will act as valets for those they serve.",
     "name": "Indeedee",
+    "evolve_from": [],
     "learnset": [
         {
             "level": 1,
@@ -89,7 +90,6 @@
             "move": "MOVE_LASTRESORT"
         }
     ],
-    "evolve_from": [],
     "tm": [
         "MOVE_FOCUSPUNCH",
         "MOVE_CALMMIND",

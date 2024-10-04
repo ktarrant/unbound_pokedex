@@ -43,7 +43,16 @@
         "MOVE_ACIDSPRAY",
         "MOVE_DOUBLEHIT"
     ],
+    "evolve_to": [
+        {
+            "method": "EVO_MOVE",
+            "condition": "MOVE_ANCIENTPOWER",
+            "target": "TANGROWTH",
+            "extra": "0"
+        }
+    ],
     "name": "Tangela",
+    "evolve_from": [],
     "learnset": [
         {
             "level": 1,
@@ -122,15 +131,6 @@
             "move": "MOVE_GRASSYTERRAIN"
         }
     ],
-    "evolve_to": [
-        {
-            "method": "EVO_MOVE",
-            "condition": "MOVE_ANCIENTPOWER",
-            "target": "TANGROWTH",
-            "extra": "0"
-        }
-    ],
-    "evolve_from": [],
     "tm": [
         "MOVE_TOXIC",
         "MOVE_BULLETSEED",

@@ -29,6 +29,9 @@
     "hiddenAbility": "ABILITY_STENCH",
     "noFlip": true,
     "name": "Weezing",
+    "evolve_from": [
+        "KOFFING"
+    ],
     "learnset": [
         {
             "level": 0,
@@ -118,9 +121,6 @@
             "level": 74,
             "move": "MOVE_GIGAIMPACT"
         }
-    ],
-    "evolve_from": [
-        "KOFFING"
     ],
     "tm": [
         "MOVE_TOXIC",

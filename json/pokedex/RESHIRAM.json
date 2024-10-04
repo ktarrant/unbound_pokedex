@@ -30,6 +30,7 @@
     "noFlip": true,
     "blurb": "When Reshiram's tail flares, the heat energy moves the atmosphere and changes the world's weather.",
     "name": "Reshiram",
+    "evolve_from": [],
     "learnset": [
         {
             "level": 1,
@@ -100,7 +101,6 @@
             "move": "MOVE_BLUEFLARE"
         }
     ],
-    "evolve_from": [],
     "tm": [
         "MOVE_DRAGONCLAW",
         "MOVE_TOXIC",

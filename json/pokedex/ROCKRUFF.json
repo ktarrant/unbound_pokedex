@@ -39,6 +39,7 @@
     ],
     "blurb": "When it rubs the rocks on its neck against you, that's proof of its love for you.",
     "name": "Rockruff",
+    "evolve_from": [],
     "learnset": [
         {
             "level": 1,
@@ -109,7 +110,6 @@
             "move": "MOVE_STONEEDGE"
         }
     ],
-    "evolve_from": [],
     "tm": [
         "MOVE_ROAR",
         "MOVE_TOXIC",

@@ -29,6 +29,9 @@
     "hiddenAbility": "ABILITY_ADAPTABILITY",
     "noFlip": true,
     "name": "Whiscash",
+    "evolve_from": [
+        "BARBOACH"
+    ],
     "learnset": [
         {
             "level": 0,
@@ -110,9 +113,6 @@
             "level": 57,
             "move": "MOVE_FISSURE"
         }
-    ],
-    "evolve_from": [
-        "BARBOACH"
     ],
     "tm": [
         "MOVE_WATERPULSE",

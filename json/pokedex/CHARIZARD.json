@@ -29,84 +29,6 @@
     "hiddenAbility": "ABILITY_SOLARPOWER",
     "noFlip": true,
     "name": "Charizard",
-    "learnset": [
-        {
-            "level": 0,
-            "move": "MOVE_AIRSLASH"
-        },
-        {
-            "level": 1,
-            "move": "MOVE_WINGATTACK"
-        },
-        {
-            "level": 1,
-            "move": "MOVE_SHADOWCLAW"
-        },
-        {
-            "level": 1,
-            "move": "MOVE_DRAGONCLAW"
-        },
-        {
-            "level": 1,
-            "move": "MOVE_SCRATCH"
-        },
-        {
-            "level": 1,
-            "move": "MOVE_GROWL"
-        },
-        {
-            "level": 1,
-            "move": "MOVE_EMBER"
-        },
-        {
-            "level": 1,
-            "move": "MOVE_SMOKESCREEN"
-        },
-        {
-            "level": 12,
-            "move": "MOVE_DRAGONBREATH"
-        },
-        {
-            "level": 19,
-            "move": "MOVE_FIREFANG"
-        },
-        {
-            "level": 24,
-            "move": "MOVE_SLASH"
-        },
-        {
-            "level": 27,
-            "move": "MOVE_FIRESPIN"
-        },
-        {
-            "level": 30,
-            "move": "MOVE_FLAMEBURST"
-        },
-        {
-            "level": 35,
-            "move": "MOVE_AIRSLASH"
-        },
-        {
-            "level": 39,
-            "move": "MOVE_SCARYFACE"
-        },
-        {
-            "level": 46,
-            "move": "MOVE_FLAMETHROWER"
-        },
-        {
-            "level": 54,
-            "move": "MOVE_INFERNO"
-        },
-        {
-            "level": 62,
-            "move": "MOVE_FLAREBLITZ"
-        },
-        {
-            "level": 67,
-            "move": "MOVE_HEATWAVE"
-        }
-    ],
     "evolve_from": [
         "CHARMELEON",
         "CHARIZARD_MEGA_X",
@@ -201,5 +123,83 @@
         "MOVE_SCALESHOT",
         "MOVE_DUALWINGBEAT",
         "MOVE_SCORCHINGSANDS"
+    ],
+    "learnset": [
+        {
+            "level": 0,
+            "move": "MOVE_AIRSLASH"
+        },
+        {
+            "level": 1,
+            "move": "MOVE_WINGATTACK"
+        },
+        {
+            "level": 1,
+            "move": "MOVE_SHADOWCLAW"
+        },
+        {
+            "level": 1,
+            "move": "MOVE_DRAGONCLAW"
+        },
+        {
+            "level": 1,
+            "move": "MOVE_SCRATCH"
+        },
+        {
+            "level": 1,
+            "move": "MOVE_GROWL"
+        },
+        {
+            "level": 1,
+            "move": "MOVE_EMBER"
+        },
+        {
+            "level": 1,
+            "move": "MOVE_SMOKESCREEN"
+        },
+        {
+            "level": 12,
+            "move": "MOVE_DRAGONBREATH"
+        },
+        {
+            "level": 19,
+            "move": "MOVE_FIREFANG"
+        },
+        {
+            "level": 24,
+            "move": "MOVE_SLASH"
+        },
+        {
+            "level": 27,
+            "move": "MOVE_FIRESPIN"
+        },
+        {
+            "level": 30,
+            "move": "MOVE_FLAMEBURST"
+        },
+        {
+            "level": 35,
+            "move": "MOVE_AIRSLASH"
+        },
+        {
+            "level": 39,
+            "move": "MOVE_SCARYFACE"
+        },
+        {
+            "level": 46,
+            "move": "MOVE_FLAMETHROWER"
+        },
+        {
+            "level": 54,
+            "move": "MOVE_INFERNO"
+        },
+        {
+            "level": 62,
+            "move": "MOVE_FLAREBLITZ"
+        },
+        {
+            "level": 67,
+            "move": "MOVE_HEATWAVE"
+        }
     ]
 }

@@ -29,6 +29,9 @@
     "hiddenAbility": "ABILITY_MOODY",
     "noFlip": true,
     "name": "Octillery",
+    "evolve_from": [
+        "REMORAID"
+    ],
     "learnset": [
         {
             "level": 0,
@@ -114,9 +117,6 @@
             "level": 60,
             "move": "MOVE_HYPERBEAM"
         }
-    ],
-    "evolve_from": [
-        "REMORAID"
     ],
     "tm": [
         "MOVE_WATERPULSE",

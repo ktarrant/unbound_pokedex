@@ -30,6 +30,9 @@
     "noFlip": true,
     "blurb": "Their beautiful form comes from the muscles they have developed. They run silently in the night.",
     "name": "Liepard",
+    "evolve_from": [
+        "PURRLOIN"
+    ],
     "learnset": [
         {
             "level": 1,
@@ -95,9 +98,6 @@
             "level": 58,
             "move": "MOVE_PLAYROUGH"
         }
-    ],
-    "evolve_from": [
-        "PURRLOIN"
     ],
     "tm": [
         "MOVE_TOXIC",

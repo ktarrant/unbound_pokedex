@@ -30,6 +30,7 @@
     "noFlip": true,
     "blurb": "The way several Bergmite huddle on its back make it look like an aircraft carrier made of ice.",
     "name": "Avalugg",
+    "evolve_from": [],
     "learnset": [
         {
             "level": 0,
@@ -124,7 +125,6 @@
             "move": "MOVE_MOUNTAINGALE"
         }
     ],
-    "evolve_from": [],
     "tm": [
         "MOVE_WATERPULSE",
         "MOVE_ROAR",

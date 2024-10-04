@@ -30,68 +30,6 @@
     "noFlip": true,
     "blurb": "It has the ability to distort space. It is described as a deity in Sinnoh-region mythology.",
     "name": "Palkia",
-    "learnset": [
-        {
-            "level": 1,
-            "move": "MOVE_SCARYFACE"
-        },
-        {
-            "level": 1,
-            "move": "MOVE_HEALBLOCK"
-        },
-        {
-            "level": 1,
-            "move": "MOVE_WATERPULSE"
-        },
-        {
-            "level": 8,
-            "move": "MOVE_DRAGONBREATH"
-        },
-        {
-            "level": 16,
-            "move": "MOVE_ANCIENTPOWER"
-        },
-        {
-            "level": 24,
-            "move": "MOVE_SLASH"
-        },
-        {
-            "level": 32,
-            "move": "MOVE_AQUARING"
-        },
-        {
-            "level": 40,
-            "move": "MOVE_DRAGONCLAW"
-        },
-        {
-            "level": 48,
-            "move": "MOVE_AURASPHERE"
-        },
-        {
-            "level": 56,
-            "move": "MOVE_POWERGEM"
-        },
-        {
-            "level": 64,
-            "move": "MOVE_AQUATAIL"
-        },
-        {
-            "level": 72,
-            "move": "MOVE_EARTHPOWER"
-        },
-        {
-            "level": 80,
-            "move": "MOVE_SPACIALREND"
-        },
-        {
-            "level": 88,
-            "move": "MOVE_HYDROPUMP"
-        },
-        {
-            "level": 96,
-            "move": "MOVE_ORIGINPULSE"
-        }
-    ],
     "evolve_from": [],
     "tm": [
         "MOVE_FOCUSPUNCH",
@@ -175,5 +113,67 @@
         "MOVE_HYDROPUMP",
         "MOVE_SCALESHOT",
         "MOVE_DUALWINGBEAT"
+    ],
+    "learnset": [
+        {
+            "level": 1,
+            "move": "MOVE_SCARYFACE"
+        },
+        {
+            "level": 1,
+            "move": "MOVE_HEALBLOCK"
+        },
+        {
+            "level": 1,
+            "move": "MOVE_WATERPULSE"
+        },
+        {
+            "level": 8,
+            "move": "MOVE_DRAGONBREATH"
+        },
+        {
+            "level": 16,
+            "move": "MOVE_ANCIENTPOWER"
+        },
+        {
+            "level": 24,
+            "move": "MOVE_SLASH"
+        },
+        {
+            "level": 32,
+            "move": "MOVE_AQUARING"
+        },
+        {
+            "level": 40,
+            "move": "MOVE_DRAGONCLAW"
+        },
+        {
+            "level": 48,
+            "move": "MOVE_AURASPHERE"
+        },
+        {
+            "level": 56,
+            "move": "MOVE_POWERGEM"
+        },
+        {
+            "level": 64,
+            "move": "MOVE_AQUATAIL"
+        },
+        {
+            "level": 72,
+            "move": "MOVE_EARTHPOWER"
+        },
+        {
+            "level": 80,
+            "move": "MOVE_SPACIALREND"
+        },
+        {
+            "level": 88,
+            "move": "MOVE_HYDROPUMP"
+        },
+        {
+            "level": 96,
+            "move": "MOVE_ORIGINPULSE"
+        }
     ]
 }

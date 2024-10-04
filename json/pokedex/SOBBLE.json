@@ -37,8 +37,17 @@
         "MOVE_ICESHARD",
         "MOVE_FELLSTINGER"
     ],
+    "evolve_to": [
+        {
+            "method": "EVO_LEVEL",
+            "condition": "16",
+            "target": "DRIZZILE",
+            "extra": "0"
+        }
+    ],
     "blurb": "When it gets wet, its skin changes color, and this Pok\u00e9mon becomes invisible as if it were camouflaged.",
     "name": "Sobble",
+    "evolve_from": [],
     "learnset": [
         {
             "level": 1,
@@ -85,15 +94,6 @@
             "move": "MOVE_RAINDANCE"
         }
     ],
-    "evolve_to": [
-        {
-            "method": "EVO_LEVEL",
-            "condition": "16",
-            "target": "DRIZZILE",
-            "extra": "0"
-        }
-    ],
-    "evolve_from": [],
     "tm": [
         "MOVE_WATERPULSE",
         "MOVE_TOXIC",

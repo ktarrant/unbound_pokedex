@@ -29,6 +29,9 @@
     "hiddenAbility": "ABILITY_DEFIANT",
     "noFlip": true,
     "name": "Primeape",
+    "evolve_from": [
+        "MANKEY"
+    ],
     "learnset": [
         {
             "level": 0,
@@ -122,9 +125,6 @@
             "level": 67,
             "move": "MOVE_FINALGAMBIT"
         }
-    ],
-    "evolve_from": [
-        "MANKEY"
     ],
     "tm": [
         "MOVE_FOCUSPUNCH",

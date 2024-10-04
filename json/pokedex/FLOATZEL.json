@@ -30,6 +30,9 @@
     "noFlip": true,
     "blurb": "It is a common sight around fishing ports. It is known to rescue people and carry off prey.",
     "name": "Floatzel",
+    "evolve_from": [
+        "BUIZEL"
+    ],
     "learnset": [
         {
             "level": 0,
@@ -99,9 +102,6 @@
             "level": 52,
             "move": "MOVE_HYDROPUMP"
         }
-    ],
-    "evolve_from": [
-        "BUIZEL"
     ],
     "tm": [
         "MOVE_FOCUSPUNCH",

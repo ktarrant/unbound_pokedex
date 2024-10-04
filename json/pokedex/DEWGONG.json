@@ -29,6 +29,9 @@
     "hiddenAbility": "ABILITY_ICESCALES",
     "noFlip": true,
     "name": "Dewgong",
+    "evolve_from": [
+        "SEEL"
+    ],
     "learnset": [
         {
             "level": 0,
@@ -114,9 +117,6 @@
             "level": 67,
             "move": "MOVE_DOUBLEEDGE"
         }
-    ],
-    "evolve_from": [
-        "SEEL"
     ],
     "tm": [
         "MOVE_WATERPULSE",

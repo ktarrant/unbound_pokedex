@@ -30,6 +30,9 @@
     "noFlip": true,
     "blurb": "Its majestic horns are meant only to impress the opposite gender. They never see use in battle.",
     "name": "Dubwool",
+    "evolve_from": [
+        "WOOLOO"
+    ],
     "learnset": [
         {
             "level": 1,
@@ -83,9 +86,6 @@
             "level": 56,
             "move": "MOVE_LASTRESORT"
         }
-    ],
-    "evolve_from": [
-        "WOOLOO"
     ],
     "tm": [
         "MOVE_TOXIC",

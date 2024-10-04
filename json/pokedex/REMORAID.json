@@ -42,7 +42,16 @@
         "MOVE_ACIDSPRAY",
         "MOVE_ENTRAINMENT"
     ],
+    "evolve_to": [
+        {
+            "method": "EVO_LEVEL",
+            "condition": "25",
+            "target": "OCTILLERY",
+            "extra": "0"
+        }
+    ],
     "name": "Remoraid",
+    "evolve_from": [],
     "learnset": [
         {
             "level": 1,
@@ -101,15 +110,6 @@
             "move": "MOVE_HYPERBEAM"
         }
     ],
-    "evolve_to": [
-        {
-            "method": "EVO_LEVEL",
-            "condition": "25",
-            "target": "OCTILLERY",
-            "extra": "0"
-        }
-    ],
-    "evolve_from": [],
     "tm": [
         "MOVE_WATERPULSE",
         "MOVE_TOXIC",

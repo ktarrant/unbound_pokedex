@@ -29,6 +29,7 @@
     "hiddenAbility": "ABILITY_REGENERATOR",
     "noFlip": true,
     "name": "Slowking",
+    "evolve_from": [],
     "learnset": [
         {
             "level": 0,
@@ -119,7 +120,6 @@
             "move": "MOVE_HEALPULSE"
         }
     ],
-    "evolve_from": [],
     "tm": [
         "MOVE_FOCUSPUNCH",
         "MOVE_WATERPULSE",

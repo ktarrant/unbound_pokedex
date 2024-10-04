@@ -30,6 +30,7 @@
     "noFlip": true,
     "blurb": "Its every move is filled with grace and dignity. Extremely intelligent, it is said to see past, present, and future events.",
     "name": "Calyrex",
+    "evolve_from": [],
     "learnset": [
         {
             "level": 1,
@@ -92,7 +93,6 @@
             "move": "MOVE_FUTURESIGHT"
         }
     ],
-    "evolve_from": [],
     "tm": [
         "MOVE_CALMMIND",
         "MOVE_TOXIC",

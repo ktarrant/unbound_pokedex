@@ -47,8 +47,17 @@
         "MOVE_SLEEPPOWDER",
         "MOVE_STUNSPORE"
     ],
+    "evolve_to": [
+        {
+            "method": "EVO_LEVEL",
+            "condition": "25",
+            "target": "CHERRIM",
+            "extra": "0"
+        }
+    ],
     "blurb": "The small ball is not only full of nutrients, it is also tasty. Starly try to peck it off.",
     "name": "Cherubi",
+    "evolve_from": [],
     "learnset": [
         {
             "level": 1,
@@ -115,15 +124,6 @@
             "move": "MOVE_SOLARBEAM"
         }
     ],
-    "evolve_to": [
-        {
-            "method": "EVO_LEVEL",
-            "condition": "25",
-            "target": "CHERRIM",
-            "extra": "0"
-        }
-    ],
-    "evolve_from": [],
     "tm": [
         "MOVE_TOXIC",
         "MOVE_BULLETSEED",

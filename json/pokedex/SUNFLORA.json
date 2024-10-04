@@ -29,6 +29,9 @@
     "hiddenAbility": "ABILITY_GALEWINGS",
     "noFlip": true,
     "name": "Sunflora",
+    "evolve_from": [
+        "SUNKERN"
+    ],
     "learnset": [
         {
             "level": 1,
@@ -122,9 +125,6 @@
             "level": 52,
             "move": "MOVE_SEEDFLARE"
         }
-    ],
-    "evolve_from": [
-        "SUNKERN"
     ],
     "tm": [
         "MOVE_TOXIC",

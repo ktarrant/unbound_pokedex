@@ -30,6 +30,9 @@
     "noFlip": true,
     "blurb": "It attracts prey with a sweet aroma, then downs it with thorny whips hidden in its arms.",
     "name": "Roserade",
+    "evolve_from": [
+        "ROSELIA"
+    ],
     "learnset": [
         {
             "level": 1,
@@ -123,9 +126,6 @@
             "level": 60,
             "move": "MOVE_PETALDANCE"
         }
-    ],
-    "evolve_from": [
-        "ROSELIA"
     ],
     "tm": [
         "MOVE_TOXIC",

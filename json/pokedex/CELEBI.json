@@ -29,6 +29,7 @@
     "hiddenAbility": "ABILITY_REGENERATOR",
     "noFlip": true,
     "name": "Celebi",
+    "evolve_from": [],
     "learnset": [
         {
             "level": 1,
@@ -87,7 +88,6 @@
             "move": "MOVE_PERISHSONG"
         }
     ],
-    "evolve_from": [],
     "tm": [
         "MOVE_WATERPULSE",
         "MOVE_CALMMIND",

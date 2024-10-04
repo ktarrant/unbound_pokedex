@@ -40,6 +40,7 @@
     ],
     "blurb": "It's covered in a slimy membrane that makes any punches or kicks slide off it harmlessly.",
     "name": "Goomy",
+    "evolve_from": [],
     "learnset": [
         {
             "level": 1,
@@ -90,7 +91,6 @@
             "move": "MOVE_MUDDYWATER"
         }
     ],
-    "evolve_from": [],
     "tm": [
         "MOVE_WATERPULSE",
         "MOVE_TOXIC",

@@ -28,8 +28,6 @@
     "safariZoneFleeRate": 0,
     "hiddenAbility": "ABILITY_SOUNDPROOF",
     "noFlip": true,
-    "blurb": "It blankets wide areas in snow by whipping up blizzards. It is also known as \"The Ice Monster.\\\"",
-    "name": "Abomasnow",
     "evolve_to": [
         {
             "method": "EVO_MEGA",
@@ -38,76 +36,8 @@
             "extra": "MEGA_VARIANT_STANDARD"
         }
     ],
-    "learnset": [
-        {
-            "level": 0,
-            "move": "MOVE_ICEPUNCH"
-        },
-        {
-            "level": 1,
-            "move": "MOVE_AURORAVEIL"
-        },
-        {
-            "level": 1,
-            "move": "MOVE_POWDERSNOW"
-        },
-        {
-            "level": 1,
-            "move": "MOVE_LEER"
-        },
-        {
-            "level": 1,
-            "move": "MOVE_LEAFAGE"
-        },
-        {
-            "level": 1,
-            "move": "MOVE_MIST"
-        },
-        {
-            "level": 12,
-            "move": "MOVE_ICESHARD"
-        },
-        {
-            "level": 16,
-            "move": "MOVE_GRASSWHISTLE"
-        },
-        {
-            "level": 19,
-            "move": "MOVE_RAZORLEAF"
-        },
-        {
-            "level": 24,
-            "move": "MOVE_ICYWIND"
-        },
-        {
-            "level": 29,
-            "move": "MOVE_SWAGGER"
-        },
-        {
-            "level": 34,
-            "move": "MOVE_INGRAIN"
-        },
-        {
-            "level": 39,
-            "move": "MOVE_ICEPUNCH"
-        },
-        {
-            "level": 43,
-            "move": "MOVE_WOODHAMMER"
-        },
-        {
-            "level": 51,
-            "move": "MOVE_BLIZZARD"
-        },
-        {
-            "level": 59,
-            "move": "MOVE_ICICLECRASH"
-        },
-        {
-            "level": 67,
-            "move": "MOVE_SHEERCOLD"
-        }
-    ],
+    "blurb": "It blankets wide areas in snow by whipping up blizzards. It is also known as \"The Ice Monster.\\\"",
+    "name": "Abomasnow",
     "evolve_from": [
         "SNOVER",
         "ABOMASNOW_MEGA"
@@ -179,5 +109,75 @@
         "MOVE_WEATHERBALL",
         "MOVE_LEAFSTORM",
         "MOVE_GRASSYGLIDE"
+    ],
+    "learnset": [
+        {
+            "level": 0,
+            "move": "MOVE_ICEPUNCH"
+        },
+        {
+            "level": 1,
+            "move": "MOVE_AURORAVEIL"
+        },
+        {
+            "level": 1,
+            "move": "MOVE_POWDERSNOW"
+        },
+        {
+            "level": 1,
+            "move": "MOVE_LEER"
+        },
+        {
+            "level": 1,
+            "move": "MOVE_LEAFAGE"
+        },
+        {
+            "level": 1,
+            "move": "MOVE_MIST"
+        },
+        {
+            "level": 12,
+            "move": "MOVE_ICESHARD"
+        },
+        {
+            "level": 16,
+            "move": "MOVE_GRASSWHISTLE"
+        },
+        {
+            "level": 19,
+            "move": "MOVE_RAZORLEAF"
+        },
+        {
+            "level": 24,
+            "move": "MOVE_ICYWIND"
+        },
+        {
+            "level": 29,
+            "move": "MOVE_SWAGGER"
+        },
+        {
+            "level": 34,
+            "move": "MOVE_INGRAIN"
+        },
+        {
+            "level": 39,
+            "move": "MOVE_ICEPUNCH"
+        },
+        {
+            "level": 43,
+            "move": "MOVE_WOODHAMMER"
+        },
+        {
+            "level": 51,
+            "move": "MOVE_BLIZZARD"
+        },
+        {
+            "level": 59,
+            "move": "MOVE_ICICLECRASH"
+        },
+        {
+            "level": 67,
+            "move": "MOVE_SHEERCOLD"
+        }
     ]
 }

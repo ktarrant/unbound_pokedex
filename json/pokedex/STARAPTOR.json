@@ -30,6 +30,9 @@
     "noFlip": true,
     "blurb": "It has a savage nature. It will courageously challenge foes that are much larger.",
     "name": "Staraptor",
+    "evolve_from": [
+        "STARAVIA"
+    ],
     "learnset": [
         {
             "level": 0,
@@ -91,9 +94,6 @@
             "level": 57,
             "move": "MOVE_FINALGAMBIT"
         }
-    ],
-    "evolve_from": [
-        "STARAVIA"
     ],
     "tm": [
         "MOVE_TOXIC",

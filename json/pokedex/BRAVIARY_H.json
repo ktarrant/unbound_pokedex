@@ -30,6 +30,7 @@
     "noFlip": true,
     "blurb": "It is said to blast lakes with shock waves, then scoops up any prey that float to the water's surface.",
     "name": "Braviary",
+    "evolve_from": [],
     "learnset": [
         {
             "level": 0,
@@ -120,7 +121,6 @@
             "move": "MOVE_HURRICANE"
         }
     ],
-    "evolve_from": [],
     "tm": [
         "MOVE_CALMMIND",
         "MOVE_TOXIC",

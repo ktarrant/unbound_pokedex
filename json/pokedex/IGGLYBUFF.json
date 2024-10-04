@@ -44,7 +44,16 @@
         "MOVE_TELEPORT",
         "MOVE_TRIATTACK"
     ],
+    "evolve_to": [
+        {
+            "method": "EVO_FRIENDSHIP",
+            "condition": "0",
+            "target": "JIGGLYPUFF",
+            "extra": "0"
+        }
+    ],
     "name": "Igglybuff",
+    "evolve_from": [],
     "learnset": [
         {
             "level": 1,
@@ -79,15 +88,6 @@
             "move": "MOVE_CHARM"
         }
     ],
-    "evolve_to": [
-        {
-            "method": "EVO_FRIENDSHIP",
-            "condition": "0",
-            "target": "JIGGLYPUFF",
-            "extra": "0"
-        }
-    ],
-    "evolve_from": [],
     "tm": [
         "MOVE_WATERPULSE",
         "MOVE_TOXIC",

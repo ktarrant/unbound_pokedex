@@ -28,8 +28,19 @@
     "safariZoneFleeRate": 0,
     "hiddenAbility": "ABILITY_NONE",
     "noFlip": true,
+    "evolve_to": [
+        {
+            "method": "EVO_ITEM",
+            "condition": "ITEM_DUSK_STONE",
+            "target": "AEGISLASH",
+            "extra": "0"
+        }
+    ],
     "blurb": "The complex attack patterns of its two swords are unstoppable, even for an accomplished opponent.",
     "name": "Doublade",
+    "evolve_from": [
+        "HONEDGE"
+    ],
     "learnset": [
         {
             "level": 1,
@@ -91,17 +102,6 @@
             "level": 56,
             "move": "MOVE_SACREDSWORD"
         }
-    ],
-    "evolve_to": [
-        {
-            "method": "EVO_ITEM",
-            "condition": "ITEM_DUSK_STONE",
-            "target": "AEGISLASH",
-            "extra": "0"
-        }
-    ],
-    "evolve_from": [
-        "HONEDGE"
     ],
     "tm": [
         "MOVE_TOXIC",

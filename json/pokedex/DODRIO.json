@@ -29,6 +29,9 @@
     "hiddenAbility": "ABILITY_RECKLESS",
     "noFlip": true,
     "name": "Dodrio",
+    "evolve_from": [
+        "DODUO"
+    ],
     "learnset": [
         {
             "level": 0,
@@ -102,9 +105,6 @@
             "level": 63,
             "move": "MOVE_BRAVEBIRD"
         }
-    ],
-    "evolve_from": [
-        "DODUO"
     ],
     "tm": [
         "MOVE_TOXIC",

@@ -28,7 +28,18 @@
     "safariZoneFleeRate": 0,
     "hiddenAbility": "ABILITY_LIGHTMETAL",
     "noFlip": true,
+    "evolve_to": [
+        {
+            "method": "EVO_LEVEL",
+            "condition": "45",
+            "target": "METAGROSS",
+            "extra": "0"
+        }
+    ],
     "name": "Metang",
+    "evolve_from": [
+        "BELDUM"
+    ],
     "learnset": [
         {
             "level": 0,
@@ -110,17 +121,6 @@
             "level": 64,
             "move": "MOVE_GIGAIMPACT"
         }
-    ],
-    "evolve_to": [
-        {
-            "method": "EVO_LEVEL",
-            "condition": "45",
-            "target": "METAGROSS",
-            "extra": "0"
-        }
-    ],
-    "evolve_from": [
-        "BELDUM"
     ],
     "tm": [
         "MOVE_TOXIC",

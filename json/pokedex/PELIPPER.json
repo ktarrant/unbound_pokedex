@@ -29,6 +29,9 @@
     "hiddenAbility": "ABILITY_RAINDISH",
     "noFlip": true,
     "name": "Pelipper",
+    "evolve_from": [
+        "WINGULL"
+    ],
     "learnset": [
         {
             "level": 0,
@@ -130,9 +133,6 @@
             "level": 59,
             "move": "MOVE_HYDROPUMP"
         }
-    ],
-    "evolve_from": [
-        "WINGULL"
     ],
     "tm": [
         "MOVE_WATERPULSE",

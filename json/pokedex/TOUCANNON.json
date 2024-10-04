@@ -30,6 +30,9 @@
     "noFlip": true,
     "blurb": "Known for forming harmonious couples, it is brought to wedding ceremonies as a good luck charm.",
     "name": "Toucannon",
+    "evolve_from": [
+        "TRUMBEAK"
+    ],
     "learnset": [
         {
             "level": 0,
@@ -103,9 +106,6 @@
             "level": 58,
             "move": "MOVE_BRAVEBIRD"
         }
-    ],
-    "evolve_from": [
-        "TRUMBEAK"
     ],
     "tm": [
         "MOVE_TOXIC",

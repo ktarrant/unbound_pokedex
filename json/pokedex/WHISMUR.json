@@ -42,7 +42,16 @@
         "MOVE_WHIRLWIND",
         "MOVE_TEETERDANCE"
     ],
+    "evolve_to": [
+        {
+            "method": "EVO_LEVEL",
+            "condition": "20",
+            "target": "LOUDRED",
+            "extra": "0"
+        }
+    ],
     "name": "Whismur",
+    "evolve_from": [],
     "learnset": [
         {
             "level": 1,
@@ -97,15 +106,6 @@
             "move": "MOVE_SYNCHRONOISE"
         }
     ],
-    "evolve_to": [
-        {
-            "method": "EVO_LEVEL",
-            "condition": "20",
-            "target": "LOUDRED",
-            "extra": "0"
-        }
-    ],
-    "evolve_from": [],
     "tm": [
         "MOVE_WATERPULSE",
         "MOVE_ROAR",

@@ -30,6 +30,9 @@
     "noFlip": true,
     "blurb": "When irritated, this Pok\u00e9mon lets loose an electric current equal to 20 lightning bolts.",
     "name": "Electrode",
+    "evolve_from": [
+        "VOLTORB_H"
+    ],
     "learnset": [
         {
             "level": 1,
@@ -107,9 +110,6 @@
             "level": 50,
             "move": "MOVE_CHLOROBLAST"
         }
-    ],
-    "evolve_from": [
-        "VOLTORB_H"
     ],
     "tm": [
         "MOVE_TOXIC",

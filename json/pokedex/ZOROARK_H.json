@@ -30,6 +30,9 @@
     "noFlip": true,
     "blurb": "Heedless of its own safety, it attacks its nemeses with a bitter energy so intense, it lacerates its own body.",
     "name": "Zoroark",
+    "evolve_from": [
+        "ZORUA_H"
+    ],
     "learnset": [
         {
             "level": 0,
@@ -115,9 +118,6 @@
             "level": 58,
             "move": "MOVE_SHADOWBALL"
         }
-    ],
-    "evolve_from": [
-        "ZORUA_H"
     ],
     "tm": [
         "MOVE_CALMMIND",

@@ -45,7 +45,6 @@
         "MOVE_YAWN",
         "MOVE_WISH"
     ],
-    "name": "Kangaskhan",
     "evolve_to": [
         {
             "method": "EVO_MEGA",
@@ -54,84 +53,7 @@
             "extra": "MEGA_VARIANT_STANDARD"
         }
     ],
-    "learnset": [
-        {
-            "level": 1,
-            "move": "MOVE_RAGE"
-        },
-        {
-            "level": 1,
-            "move": "MOVE_POUND"
-        },
-        {
-            "level": 1,
-            "move": "MOVE_TAILWHIP"
-        },
-        {
-            "level": 4,
-            "move": "MOVE_GROWL"
-        },
-        {
-            "level": 8,
-            "move": "MOVE_FAKEOUT"
-        },
-        {
-            "level": 11,
-            "move": "MOVE_COMETPUNCH"
-        },
-        {
-            "level": 14,
-            "move": "MOVE_BITE"
-        },
-        {
-            "level": 17,
-            "move": "MOVE_STOMP"
-        },
-        {
-            "level": 20,
-            "move": "MOVE_FOCUSENERGY"
-        },
-        {
-            "level": 24,
-            "move": "MOVE_CHIPAWAY"
-        },
-        {
-            "level": 28,
-            "move": "MOVE_SUCKERPUNCH"
-        },
-        {
-            "level": 32,
-            "move": "MOVE_DOUBLEHIT"
-        },
-        {
-            "level": 37,
-            "move": "MOVE_DIZZYPUNCH"
-        },
-        {
-            "level": 42,
-            "move": "MOVE_CRUNCH"
-        },
-        {
-            "level": 47,
-            "move": "MOVE_MEGAPUNCH"
-        },
-        {
-            "level": 52,
-            "move": "MOVE_ENDURE"
-        },
-        {
-            "level": 57,
-            "move": "MOVE_REVERSAL"
-        },
-        {
-            "level": 62,
-            "move": "MOVE_LASTRESORT"
-        },
-        {
-            "level": 67,
-            "move": "MOVE_OUTRAGE"
-        }
-    ],
+    "name": "Kangaskhan",
     "evolve_from": [
         "KANGASKHAN_MEGA"
     ],
@@ -216,5 +138,83 @@
         "MOVE_CRUNCH",
         "MOVE_HYDROPUMP",
         "MOVE_TERRAINPULSE"
+    ],
+    "learnset": [
+        {
+            "level": 1,
+            "move": "MOVE_RAGE"
+        },
+        {
+            "level": 1,
+            "move": "MOVE_POUND"
+        },
+        {
+            "level": 1,
+            "move": "MOVE_TAILWHIP"
+        },
+        {
+            "level": 4,
+            "move": "MOVE_GROWL"
+        },
+        {
+            "level": 8,
+            "move": "MOVE_FAKEOUT"
+        },
+        {
+            "level": 11,
+            "move": "MOVE_COMETPUNCH"
+        },
+        {
+            "level": 14,
+            "move": "MOVE_BITE"
+        },
+        {
+            "level": 17,
+            "move": "MOVE_STOMP"
+        },
+        {
+            "level": 20,
+            "move": "MOVE_FOCUSENERGY"
+        },
+        {
+            "level": 24,
+            "move": "MOVE_CHIPAWAY"
+        },
+        {
+            "level": 28,
+            "move": "MOVE_SUCKERPUNCH"
+        },
+        {
+            "level": 32,
+            "move": "MOVE_DOUBLEHIT"
+        },
+        {
+            "level": 37,
+            "move": "MOVE_DIZZYPUNCH"
+        },
+        {
+            "level": 42,
+            "move": "MOVE_CRUNCH"
+        },
+        {
+            "level": 47,
+            "move": "MOVE_MEGAPUNCH"
+        },
+        {
+            "level": 52,
+            "move": "MOVE_ENDURE"
+        },
+        {
+            "level": 57,
+            "move": "MOVE_REVERSAL"
+        },
+        {
+            "level": 62,
+            "move": "MOVE_LASTRESORT"
+        },
+        {
+            "level": 67,
+            "move": "MOVE_OUTRAGE"
+        }
     ]
 }

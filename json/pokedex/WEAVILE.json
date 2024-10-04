@@ -30,6 +30,9 @@
     "noFlip": true,
     "blurb": "It sends signals to others by carving odd patterns in frost-covered trees and ice.",
     "name": "Weavile",
+    "evolve_from": [
+        "SNEASEL"
+    ],
     "learnset": [
         {
             "level": 0,
@@ -115,9 +118,6 @@
             "level": 68,
             "move": "MOVE_TRIPLEAXEL"
         }
-    ],
-    "evolve_from": [
-        "SNEASEL"
     ],
     "tm": [
         "MOVE_FOCUSPUNCH",

@@ -29,6 +29,9 @@
     "hiddenAbility": "ABILITY_MULTISCALE",
     "noFlip": true,
     "name": "Claydol",
+    "evolve_from": [
+        "BALTOY"
+    ],
     "learnset": [
         {
             "level": 0,
@@ -126,9 +129,6 @@
             "level": 58,
             "move": "MOVE_SHOREUP"
         }
-    ],
-    "evolve_from": [
-        "BALTOY"
     ],
     "tm": [
         "MOVE_CALMMIND",

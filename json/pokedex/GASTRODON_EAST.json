@@ -28,6 +28,9 @@
     "safariZoneFleeRate": 0,
     "hiddenAbility": "ABILITY_SANDFORCE",
     "noFlip": true,
+    "evolve_from": [
+        "SHELLOS_EAST"
+    ],
     "learnset": [
         {
             "level": 1,
@@ -89,9 +92,6 @@
             "level": 54,
             "move": "MOVE_RECOVER"
         }
-    ],
-    "evolve_from": [
-        "SHELLOS_EAST"
     ],
     "tm": [
         "MOVE_WATERPULSE",

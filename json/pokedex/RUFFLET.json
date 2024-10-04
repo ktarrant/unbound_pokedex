@@ -30,6 +30,7 @@
     "noFlip": true,
     "blurb": "They crush berries with their talons. They bravely stand up to any opponent, no matter how strong it is.",
     "name": "Rufflet",
+    "evolve_from": [],
     "learnset": [
         {
             "level": 1,
@@ -96,7 +97,6 @@
             "move": "MOVE_BRAVEBIRD"
         }
     ],
-    "evolve_from": [],
     "tm": [
         "MOVE_TOXIC",
         "MOVE_BULKUP",

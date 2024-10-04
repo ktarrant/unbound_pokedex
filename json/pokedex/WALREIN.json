@@ -29,6 +29,9 @@
     "hiddenAbility": "ABILITY_REGENERATOR",
     "noFlip": true,
     "name": "Walrein",
+    "evolve_from": [
+        "SEALEO"
+    ],
     "learnset": [
         {
             "level": 0,
@@ -110,9 +113,6 @@
             "level": 64,
             "move": "MOVE_SHEERCOLD"
         }
-    ],
-    "evolve_from": [
-        "SEALEO"
     ],
     "tm": [
         "MOVE_WATERPULSE",

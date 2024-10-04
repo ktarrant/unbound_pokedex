@@ -28,8 +28,19 @@
     "safariZoneFleeRate": 0,
     "hiddenAbility": "ABILITY_WATERABSORB",
     "noFlip": true,
+    "evolve_to": [
+        {
+            "method": "EVO_LEVEL",
+            "condition": "36",
+            "target": "SEISMITOAD",
+            "extra": "0"
+        }
+    ],
     "blurb": "It lives in the water and on land. It uses its long, sticky tongue to capture prey.",
     "name": "Palpitoad",
+    "evolve_from": [
+        "TYMPOLE"
+    ],
     "learnset": [
         {
             "level": 1,
@@ -95,17 +106,6 @@
             "level": 56,
             "move": "MOVE_HYDROPUMP"
         }
-    ],
-    "evolve_to": [
-        {
-            "method": "EVO_LEVEL",
-            "condition": "36",
-            "target": "SEISMITOAD",
-            "extra": "0"
-        }
-    ],
-    "evolve_from": [
-        "TYMPOLE"
     ],
     "tm": [
         "MOVE_FOCUSPUNCH",

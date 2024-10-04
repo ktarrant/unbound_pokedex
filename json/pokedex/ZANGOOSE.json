@@ -44,6 +44,7 @@
         "MOVE_BELLYDRUM"
     ],
     "name": "Zangoose",
+    "evolve_from": [],
     "learnset": [
         {
             "level": 1,
@@ -118,7 +119,6 @@
             "move": "MOVE_CLOSECOMBAT"
         }
     ],
-    "evolve_from": [],
     "tm": [
         "MOVE_FOCUSPUNCH",
         "MOVE_WATERPULSE",

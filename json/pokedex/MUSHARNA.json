@@ -30,6 +30,9 @@
     "noFlip": true,
     "blurb": "The mist emanating from their foreheads is packed with the dreams of people and Pok\u00e9mon.",
     "name": "Musharna",
+    "evolve_from": [
+        "MUNNA"
+    ],
     "learnset": [
         {
             "level": 0,
@@ -111,9 +114,6 @@
             "level": 1,
             "move": "MOVE_NIGHTMARE"
         }
-    ],
-    "evolve_from": [
-        "MUNNA"
     ],
     "tm": [
         "MOVE_CALMMIND",

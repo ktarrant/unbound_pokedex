@@ -28,6 +28,9 @@
     "safariZoneFleeRate": 0,
     "hiddenAbility": "ABILITY_SERENEGRACE",
     "noFlip": true,
+    "evolve_from": [
+        "DEERLING_WINTER"
+    ],
     "learnset": [
         {
             "level": 0,
@@ -101,9 +104,6 @@
             "level": 60,
             "move": "MOVE_SOLARBEAM"
         }
-    ],
-    "evolve_from": [
-        "DEERLING_WINTER"
     ],
     "tm": [
         "MOVE_TOXIC",

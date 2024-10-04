@@ -46,7 +46,6 @@
         "MOVE_FEINTATTACK",
         "MOVE_SING"
     ],
-    "name": "Mawile",
     "evolve_to": [
         {
             "method": "EVO_MEGA",
@@ -55,76 +54,7 @@
             "extra": "MEGA_VARIANT_STANDARD"
         }
     ],
-    "learnset": [
-        {
-            "level": 1,
-            "move": "MOVE_ASTONISH"
-        },
-        {
-            "level": 1,
-            "move": "MOVE_GROWL"
-        },
-        {
-            "level": 4,
-            "move": "MOVE_FAIRYWIND"
-        },
-        {
-            "level": 8,
-            "move": "MOVE_BATONPASS"
-        },
-        {
-            "level": 11,
-            "move": "MOVE_VICEGRIP"
-        },
-        {
-            "level": 15,
-            "move": "MOVE_BITE"
-        },
-        {
-            "level": 19,
-            "move": "MOVE_STOCKPILE"
-        },
-        {
-            "level": 19,
-            "move": "MOVE_SWALLOW"
-        },
-        {
-            "level": 19,
-            "move": "MOVE_SPITUP"
-        },
-        {
-            "level": 22,
-            "move": "MOVE_SWEETSCENT"
-        },
-        {
-            "level": 25,
-            "move": "MOVE_SUCKERPUNCH"
-        },
-        {
-            "level": 29,
-            "move": "MOVE_IRONDEFENSE"
-        },
-        {
-            "level": 32,
-            "move": "MOVE_CRUNCH"
-        },
-        {
-            "level": 36,
-            "move": "MOVE_IRONHEAD"
-        },
-        {
-            "level": 40,
-            "move": "MOVE_TAUNT"
-        },
-        {
-            "level": 44,
-            "move": "MOVE_FAKETEARS"
-        },
-        {
-            "level": 48,
-            "move": "MOVE_PLAYROUGH"
-        }
-    ],
+    "name": "Mawile",
     "evolve_from": [
         "MAWILE_MEGA"
     ],
@@ -208,5 +138,75 @@
         "MOVE_CRUNCH",
         "MOVE_PLAYROUGH",
         "MOVE_PSYCHICFANGS"
+    ],
+    "learnset": [
+        {
+            "level": 1,
+            "move": "MOVE_ASTONISH"
+        },
+        {
+            "level": 1,
+            "move": "MOVE_GROWL"
+        },
+        {
+            "level": 4,
+            "move": "MOVE_FAIRYWIND"
+        },
+        {
+            "level": 8,
+            "move": "MOVE_BATONPASS"
+        },
+        {
+            "level": 11,
+            "move": "MOVE_VICEGRIP"
+        },
+        {
+            "level": 15,
+            "move": "MOVE_BITE"
+        },
+        {
+            "level": 19,
+            "move": "MOVE_STOCKPILE"
+        },
+        {
+            "level": 19,
+            "move": "MOVE_SWALLOW"
+        },
+        {
+            "level": 19,
+            "move": "MOVE_SPITUP"
+        },
+        {
+            "level": 22,
+            "move": "MOVE_SWEETSCENT"
+        },
+        {
+            "level": 25,
+            "move": "MOVE_SUCKERPUNCH"
+        },
+        {
+            "level": 29,
+            "move": "MOVE_IRONDEFENSE"
+        },
+        {
+            "level": 32,
+            "move": "MOVE_CRUNCH"
+        },
+        {
+            "level": 36,
+            "move": "MOVE_IRONHEAD"
+        },
+        {
+            "level": 40,
+            "move": "MOVE_TAUNT"
+        },
+        {
+            "level": 44,
+            "move": "MOVE_FAKETEARS"
+        },
+        {
+            "level": 48,
+            "move": "MOVE_PLAYROUGH"
+        }
     ]
 }

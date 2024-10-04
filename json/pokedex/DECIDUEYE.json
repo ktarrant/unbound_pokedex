@@ -30,6 +30,7 @@
     "noFlip": true,
     "blurb": "Although basically cool and cautious, when it's caught by surprise, it's seized by panic.",
     "name": "Decidueye",
+    "evolve_from": [],
     "learnset": [
         {
             "level": 0,
@@ -124,7 +125,6 @@
             "move": "MOVE_BRAVEBIRD"
         }
     ],
-    "evolve_from": [],
     "tm": [
         "MOVE_TOXIC",
         "MOVE_HIDDENPOWER",

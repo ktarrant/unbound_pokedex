@@ -29,6 +29,9 @@
     "hiddenAbility": "ABILITY_INFILTRATOR",
     "noFlip": true,
     "name": "Crobat",
+    "evolve_from": [
+        "GOLBAT"
+    ],
     "learnset": [
         {
             "level": 0,
@@ -110,9 +113,6 @@
             "level": 64,
             "move": "MOVE_ACROBATICS"
         }
-    ],
-    "evolve_from": [
-        "GOLBAT"
     ],
     "tm": [
         "MOVE_TOXIC",

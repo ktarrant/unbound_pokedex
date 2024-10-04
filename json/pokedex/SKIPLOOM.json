@@ -28,7 +28,18 @@
     "safariZoneFleeRate": 0,
     "hiddenAbility": "ABILITY_SIMPLE",
     "noFlip": true,
+    "evolve_to": [
+        {
+            "method": "EVO_LEVEL",
+            "condition": "27",
+            "target": "JUMPLUFF",
+            "extra": "0"
+        }
+    ],
     "name": "Skiploom",
+    "evolve_from": [
+        "HOPPIP"
+    ],
     "learnset": [
         {
             "level": 1,
@@ -110,17 +121,6 @@
             "level": 55,
             "move": "MOVE_MEMENTO"
         }
-    ],
-    "evolve_to": [
-        {
-            "method": "EVO_LEVEL",
-            "condition": "27",
-            "target": "JUMPLUFF",
-            "extra": "0"
-        }
-    ],
-    "evolve_from": [
-        "HOPPIP"
     ],
     "tm": [
         "MOVE_TOXIC",

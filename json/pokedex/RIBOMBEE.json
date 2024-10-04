@@ -30,6 +30,9 @@
     "noFlip": true,
     "blurb": "Some of Ribombee's pollen puffs are highly nutritious. They are sometimes sold as supplements.",
     "name": "Ribombee",
+    "evolve_from": [
+        "CUTIEFLY"
+    ],
     "learnset": [
         {
             "level": 0,
@@ -91,9 +94,6 @@
             "level": 54,
             "move": "MOVE_QUIVERDANCE"
         }
-    ],
-    "evolve_from": [
-        "CUTIEFLY"
     ],
     "tm": [
         "MOVE_CALMMIND",

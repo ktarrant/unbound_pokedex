@@ -30,6 +30,9 @@
     "noFlip": true,
     "blurb": "An amazingly friendly Pok\u00e9mon, but if left to itself, loneliness overcomes it, and it oozes gooey tears.",
     "name": "Goodra",
+    "evolve_from": [
+        "SLIGGOO"
+    ],
     "learnset": [
         {
             "level": 0,
@@ -107,9 +110,6 @@
             "level": 61,
             "move": "MOVE_POWERWHIP"
         }
-    ],
-    "evolve_from": [
-        "SLIGGOO"
     ],
     "tm": [
         "MOVE_FOCUSPUNCH",

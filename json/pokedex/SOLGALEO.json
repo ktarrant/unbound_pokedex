@@ -30,6 +30,7 @@
     "noFlip": true,
     "blurb": "In writings from the distant past, it's called by the name \"the beast that devours the sun.\\\"",
     "name": "Solgaleo",
+    "evolve_from": [],
     "learnset": [
         {
             "level": 0,
@@ -108,7 +109,6 @@
             "move": "MOVE_GIGAIMPACT"
         }
     ],
-    "evolve_from": [],
     "tm": [
         "MOVE_CALMMIND",
         "MOVE_ROAR",

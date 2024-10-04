@@ -34,8 +34,17 @@
         "MOVE_TAILWIND",
         "MOVE_UPROAR"
     ],
+    "evolve_to": [
+        {
+            "method": "EVO_LEVEL",
+            "condition": "14",
+            "target": "TRUMBEAK",
+            "extra": "0"
+        }
+    ],
     "blurb": "It may look spindly, but its neck muscles are heavy-duty. It can peck at a tree 16 times per second!",
     "name": "Pikipek",
+    "evolve_from": [],
     "learnset": [
         {
             "level": 1,
@@ -98,15 +107,6 @@
             "move": "MOVE_BRAVEBIRD"
         }
     ],
-    "evolve_to": [
-        {
-            "method": "EVO_LEVEL",
-            "condition": "14",
-            "target": "TRUMBEAK",
-            "extra": "0"
-        }
-    ],
-    "evolve_from": [],
     "tm": [
         "MOVE_TOXIC",
         "MOVE_BULLETSEED",

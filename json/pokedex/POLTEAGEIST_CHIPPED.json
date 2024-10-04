@@ -30,6 +30,9 @@
     "noFlip": true,
     "blurb": "When angered, it launches tea from its body at the offender's mouth. The tea causes strong chills if swallowed.",
     "name": "Poltegeist",
+    "evolve_from": [
+        "SINISTEA_CHIPPED"
+    ],
     "learnset": [
         {
             "level": 1,
@@ -87,9 +90,6 @@
             "level": 66,
             "move": "MOVE_CURSE"
         }
-    ],
-    "evolve_from": [
-        "SINISTEA_CHIPPED"
     ],
     "tm": [
         "MOVE_TOXIC",

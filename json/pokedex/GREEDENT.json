@@ -30,6 +30,9 @@
     "noFlip": true,
     "blurb": "This Pok\u00e9mon has strong teeth and can chew through the toughest of berry shells.",
     "name": "Greedent",
+    "evolve_from": [
+        "SKWOVET"
+    ],
     "learnset": [
         {
             "level": 0,
@@ -95,9 +98,6 @@
             "level": 55,
             "move": "MOVE_BODYPRESS"
         }
-    ],
-    "evolve_from": [
-        "SKWOVET"
     ],
     "tm": [
         "MOVE_TOXIC",

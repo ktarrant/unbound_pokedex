@@ -42,6 +42,7 @@
     ],
     "blurb": "Although its body is small, its proficient fighting skills enable it to keep up with big bruisers.",
     "name": "Hawlucha",
+    "evolve_from": [],
     "learnset": [
         {
             "level": 1,
@@ -116,7 +117,6 @@
             "move": "MOVE_SKYATTACK"
         }
     ],
-    "evolve_from": [],
     "tm": [
         "MOVE_FOCUSPUNCH",
         "MOVE_TOXIC",

@@ -29,6 +29,9 @@
     "hiddenAbility": "ABILITY_OWNTEMPO",
     "noFlip": true,
     "name": "Ludicolo",
+    "evolve_from": [
+        "LOMBRE"
+    ],
     "learnset": [
         {
             "level": 1,
@@ -110,9 +113,6 @@
             "level": 66,
             "move": "MOVE_HYDROPUMP"
         }
-    ],
-    "evolve_from": [
-        "LOMBRE"
     ],
     "tm": [
         "MOVE_FOCUSPUNCH",

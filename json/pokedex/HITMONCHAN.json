@@ -29,6 +29,7 @@
     "hiddenAbility": "ABILITY_UNSEENFIST",
     "noFlip": true,
     "name": "Hitmonchan",
+    "evolve_from": [],
     "learnset": [
         {
             "level": 0,
@@ -131,7 +132,6 @@
             "move": "MOVE_CLOSECOMBAT"
         }
     ],
-    "evolve_from": [],
     "tm": [
         "MOVE_FOCUSPUNCH",
         "MOVE_TOXIC",

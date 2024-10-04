@@ -29,6 +29,9 @@
     "hiddenAbility": "ABILITY_LEVITATE",
     "noFlip": true,
     "name": "Venomoth",
+    "evolve_from": [
+        "VENONAT"
+    ],
     "learnset": [
         {
             "level": 0,
@@ -122,9 +125,6 @@
             "level": 63,
             "move": "MOVE_QUIVERDANCE"
         }
-    ],
-    "evolve_from": [
-        "VENONAT"
     ],
     "tm": [
         "MOVE_TOXIC",

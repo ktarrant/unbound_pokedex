@@ -29,6 +29,9 @@
     "hiddenAbility": "ABILITY_MOXIE",
     "noFlip": true,
     "name": "Rapidash",
+    "evolve_from": [
+        "PONYTA"
+    ],
     "learnset": [
         {
             "level": 0,
@@ -114,9 +117,6 @@
             "level": 65,
             "move": "MOVE_FLAREBLITZ"
         }
-    ],
-    "evolve_from": [
-        "PONYTA"
     ],
     "tm": [
         "MOVE_TOXIC",

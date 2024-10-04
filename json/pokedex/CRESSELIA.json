@@ -30,6 +30,7 @@
     "noFlip": true,
     "blurb": "On nights around the quarter moon, the aurora from its tail extends and undulates beautifully.",
     "name": "Cresselia",
+    "evolve_from": [],
     "learnset": [
         {
             "level": 1,
@@ -92,7 +93,6 @@
             "move": "MOVE_LUNARDANCE"
         }
     ],
-    "evolve_from": [],
     "tm": [
         "MOVE_CALMMIND",
         "MOVE_TOXIC",

@@ -39,8 +39,17 @@
         "MOVE_COSMICPOWER",
         "MOVE_DESTINYBOND"
     ],
+    "evolve_to": [
+        {
+            "method": "EVO_LEVEL",
+            "condition": "42",
+            "target": "BEHEEYEM",
+            "extra": "0"
+        }
+    ],
     "blurb": "Rumors of its origin are linked to a UFO crash site in the desert 50 years ago.",
     "name": "Elgyem",
+    "evolve_from": [],
     "learnset": [
         {
             "level": 1,
@@ -123,15 +132,6 @@
             "move": "MOVE_SYNCHRONOISE"
         }
     ],
-    "evolve_to": [
-        {
-            "method": "EVO_LEVEL",
-            "condition": "42",
-            "target": "BEHEEYEM",
-            "extra": "0"
-        }
-    ],
-    "evolve_from": [],
     "tm": [
         "MOVE_CALMMIND",
         "MOVE_TOXIC",

@@ -29,6 +29,9 @@
     "hiddenAbility": "ABILITY_GLUTTONY",
     "noFlip": true,
     "name": "Swalot",
+    "evolve_from": [
+        "GULPIN"
+    ],
     "learnset": [
         {
             "level": 0,
@@ -106,9 +109,6 @@
             "level": 60,
             "move": "MOVE_GUNKSHOT"
         }
-    ],
-    "evolve_from": [
-        "GULPIN"
     ],
     "tm": [
         "MOVE_WATERPULSE",

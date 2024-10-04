@@ -40,7 +40,16 @@
         "MOVE_ENDURE",
         "MOVE_STEALTHROCK"
     ],
+    "evolve_to": [
+        {
+            "method": "EVO_LEVEL",
+            "condition": "31",
+            "target": "FORRETRESS",
+            "extra": "0"
+        }
+    ],
     "name": "Pineco",
+    "evolve_from": [],
     "learnset": [
         {
             "level": 1,
@@ -99,15 +108,6 @@
             "move": "MOVE_EXPLOSION"
         }
     ],
-    "evolve_to": [
-        {
-            "method": "EVO_LEVEL",
-            "condition": "31",
-            "target": "FORRETRESS",
-            "extra": "0"
-        }
-    ],
-    "evolve_from": [],
     "tm": [
         "MOVE_TOXIC",
         "MOVE_HIDDENPOWER",

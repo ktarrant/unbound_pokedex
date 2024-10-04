@@ -42,6 +42,9 @@
         "MOVE_PERISHSONG"
     ],
     "name": "Chimecho",
+    "evolve_from": [
+        "CHINGLING"
+    ],
     "learnset": [
         {
             "level": 1,
@@ -115,9 +118,6 @@
             "level": 49,
             "move": "MOVE_HEALINGWISH"
         }
-    ],
-    "evolve_from": [
-        "CHINGLING"
     ],
     "tm": [
         "MOVE_CALMMIND",

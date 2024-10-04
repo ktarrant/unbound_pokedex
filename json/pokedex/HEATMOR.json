@@ -43,6 +43,7 @@
     ],
     "blurb": "It breathes through a hole in its tail while it burns with an internal fire. Durant is its prey.",
     "name": "Heatmor",
+    "evolve_from": [],
     "learnset": [
         {
             "level": 1,
@@ -125,7 +126,6 @@
             "move": "MOVE_FLAREBLITZ"
         }
     ],
-    "evolve_from": [],
     "tm": [
         "MOVE_FOCUSPUNCH",
         "MOVE_TOXIC",

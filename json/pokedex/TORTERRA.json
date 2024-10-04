@@ -30,6 +30,9 @@
     "noFlip": true,
     "blurb": "Ancient people imagined that beneath the ground, a gigantic Torterra dwelled.",
     "name": "Torterra",
+    "evolve_from": [
+        "GROTLE"
+    ],
     "learnset": [
         {
             "level": 0,
@@ -99,9 +102,6 @@
             "level": 72,
             "move": "MOVE_HEADLONGRUSH"
         }
-    ],
-    "evolve_from": [
-        "GROTLE"
     ],
     "tm": [
         "MOVE_ROAR",

@@ -46,7 +46,16 @@
         "MOVE_FIRESPIN",
         "MOVE_FOLLOWME"
     ],
+    "evolve_to": [
+        {
+            "method": "EVO_LEVEL",
+            "condition": "30",
+            "target": "MAGMAR",
+            "extra": "0"
+        }
+    ],
     "name": "Magby",
+    "evolve_from": [],
     "learnset": [
         {
             "level": 1,
@@ -113,15 +122,6 @@
             "move": "MOVE_FIREBLAST"
         }
     ],
-    "evolve_to": [
-        {
-            "method": "EVO_LEVEL",
-            "condition": "30",
-            "target": "MAGMAR",
-            "extra": "0"
-        }
-    ],
-    "evolve_from": [],
     "tm": [
         "MOVE_FOCUSPUNCH",
         "MOVE_TOXIC",

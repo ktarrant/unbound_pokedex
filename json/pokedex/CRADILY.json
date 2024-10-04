@@ -29,6 +29,9 @@
     "hiddenAbility": "ABILITY_STORMDRAIN",
     "noFlip": true,
     "name": "Cradily",
+    "evolve_from": [
+        "LILEEP"
+    ],
     "learnset": [
         {
             "level": 1,
@@ -102,9 +105,6 @@
             "level": 48,
             "move": "MOVE_ENERGYBALL"
         }
-    ],
-    "evolve_from": [
-        "LILEEP"
     ],
     "tm": [
         "MOVE_TOXIC",

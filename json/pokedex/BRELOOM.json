@@ -29,6 +29,9 @@
     "hiddenAbility": "ABILITY_TECHNICIAN",
     "noFlip": true,
     "name": "Breloom",
+    "evolve_from": [
+        "SHROOMISH"
+    ],
     "learnset": [
         {
             "level": 0,
@@ -122,9 +125,6 @@
             "level": 56,
             "move": "MOVE_DYNAMICPUNCH"
         }
-    ],
-    "evolve_from": [
-        "SHROOMISH"
     ],
     "tm": [
         "MOVE_FOCUSPUNCH",

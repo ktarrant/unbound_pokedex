@@ -44,6 +44,7 @@
     ],
     "blurb": "For some reason they evolve when they receive electrical energy while they are attacking Shelmet.",
     "name": "Karrablast",
+    "evolve_from": [],
     "learnset": [
         {
             "level": 1,
@@ -102,7 +103,6 @@
             "move": "MOVE_MEGAHORN"
         }
     ],
-    "evolve_from": [],
     "tm": [
         "MOVE_TOXIC",
         "MOVE_HIDDENPOWER",

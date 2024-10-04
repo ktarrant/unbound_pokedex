@@ -41,6 +41,9 @@
         "MOVE_POWERSHIFT"
     ],
     "name": "Mantine",
+    "evolve_from": [
+        "MANTYKE"
+    ],
     "learnset": [
         {
             "level": 1,
@@ -122,9 +125,6 @@
             "level": 48,
             "move": "MOVE_HYDROPUMP"
         }
-    ],
-    "evolve_from": [
-        "MANTYKE"
     ],
     "tm": [
         "MOVE_WATERPULSE",

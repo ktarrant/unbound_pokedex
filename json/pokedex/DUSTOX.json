@@ -29,6 +29,9 @@
     "hiddenAbility": "ABILITY_ICESCALES",
     "noFlip": true,
     "name": "Dustox",
+    "evolve_from": [
+        "CASCOON"
+    ],
     "learnset": [
         {
             "level": 0,
@@ -110,9 +113,6 @@
             "level": 48,
             "move": "MOVE_QUIVERDANCE"
         }
-    ],
-    "evolve_from": [
-        "CASCOON"
     ],
     "tm": [
         "MOVE_TOXIC",

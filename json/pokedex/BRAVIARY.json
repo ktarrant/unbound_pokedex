@@ -30,6 +30,7 @@
     "noFlip": true,
     "blurb": "The more scars they have, the more respect these brave soldiers of the sky get from their peers.",
     "name": "Braviary",
+    "evolve_from": [],
     "learnset": [
         {
             "level": 0,
@@ -112,7 +113,6 @@
             "move": "MOVE_BRAVEBIRD"
         }
     ],
-    "evolve_from": [],
     "tm": [
         "MOVE_TOXIC",
         "MOVE_BULKUP",

@@ -30,6 +30,7 @@
     "noFlip": true,
     "blurb": "It can control trees at will. It will trap people who harm the forest, so they can never leave.",
     "name": "Trevenant",
+    "evolve_from": [],
     "learnset": [
         {
             "level": 0,
@@ -104,7 +105,6 @@
             "move": "MOVE_FORESTSCURSE"
         }
     ],
-    "evolve_from": [],
     "tm": [
         "MOVE_CALMMIND",
         "MOVE_TOXIC",

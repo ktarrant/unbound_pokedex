@@ -30,6 +30,7 @@
     "noFlip": true,
     "blurb": "It flutters around at night and steals honey from the Combee hive.",
     "name": "Mothim",
+    "evolve_from": [],
     "learnset": [
         {
             "level": 0,
@@ -100,7 +101,6 @@
             "move": "MOVE_HURRICANE"
         }
     ],
-    "evolve_from": [],
     "tm": [
         "MOVE_TOXIC",
         "MOVE_HIDDENPOWER",

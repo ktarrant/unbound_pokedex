@@ -30,6 +30,7 @@
     "noFlip": true,
     "blurb": "The guardian deity of Poni can control water. It can create pure water that will wash away any impurity.",
     "name": "Tapu Fini",
+    "evolve_from": [],
     "learnset": [
         {
             "level": 1,
@@ -112,7 +113,6 @@
             "move": "MOVE_MISTYTERRAIN"
         }
     ],
-    "evolve_from": [],
     "tm": [
         "MOVE_WATERPULSE",
         "MOVE_CALMMIND",

@@ -30,6 +30,9 @@
     "noFlip": true,
     "blurb": "Being consumed in Chandelure's flame burns up the spirit, leaving the body behind.",
     "name": "Chandelure",
+    "evolve_from": [
+        "LAMPENT"
+    ],
     "learnset": [
         {
             "level": 1,
@@ -95,9 +98,6 @@
             "level": 58,
             "move": "MOVE_OVERHEAT"
         }
-    ],
-    "evolve_from": [
-        "LAMPENT"
     ],
     "tm": [
         "MOVE_CALMMIND",

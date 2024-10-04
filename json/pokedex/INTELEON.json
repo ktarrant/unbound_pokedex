@@ -28,8 +28,6 @@
     "safariZoneFleeRate": 0,
     "hiddenAbility": "ABILITY_SNIPER",
     "noFlip": true,
-    "blurb": "It picks out foes' weak points so it can precisely blast them with water that shoots from its fingertips.",
-    "name": "Inteleon",
     "evolve_to": [
         {
             "method": "EVO_GIGANTAMAX",
@@ -38,68 +36,8 @@
             "extra": "0"
         }
     ],
-    "learnset": [
-        {
-            "level": 0,
-            "move": "MOVE_SNIPESHOT"
-        },
-        {
-            "level": 1,
-            "move": "MOVE_ACROBATICS"
-        },
-        {
-            "level": 1,
-            "move": "MOVE_GROWL"
-        },
-        {
-            "level": 1,
-            "move": "MOVE_POUND"
-        },
-        {
-            "level": 1,
-            "move": "MOVE_WATERGUN"
-        },
-        {
-            "level": 1,
-            "move": "MOVE_BIND"
-        },
-        {
-            "level": 12,
-            "move": "MOVE_WATERPULSE"
-        },
-        {
-            "level": 19,
-            "move": "MOVE_TEARFULLOOK"
-        },
-        {
-            "level": 24,
-            "move": "MOVE_SUCKERPUNCH"
-        },
-        {
-            "level": 30,
-            "move": "MOVE_UTURN"
-        },
-        {
-            "level": 34,
-            "move": "MOVE_SNIPESHOT"
-        },
-        {
-            "level": 38,
-            "move": "MOVE_LIQUIDATION"
-        },
-        {
-            "level": 46,
-            "move": "MOVE_SOAK"
-        },
-        {
-            "level": 54,
-            "move": "MOVE_RAINDANCE"
-        },
-        {
-            "level": 62,
-            "move": "MOVE_HYDROPUMP"
-        }
-    ],
+    "blurb": "It picks out foes' weak points so it can precisely blast them with water that shoots from its fingertips.",
+    "name": "Inteleon",
     "evolve_from": [
         "DRIZZILE",
         "INTELEON_GIGA"
@@ -169,5 +107,67 @@
         "MOVE_MUDDYWATER",
         "MOVE_HYDROPUMP",
         "MOVE_SCALESHOT"
+    ],
+    "learnset": [
+        {
+            "level": 0,
+            "move": "MOVE_SNIPESHOT"
+        },
+        {
+            "level": 1,
+            "move": "MOVE_ACROBATICS"
+        },
+        {
+            "level": 1,
+            "move": "MOVE_GROWL"
+        },
+        {
+            "level": 1,
+            "move": "MOVE_POUND"
+        },
+        {
+            "level": 1,
+            "move": "MOVE_WATERGUN"
+        },
+        {
+            "level": 1,
+            "move": "MOVE_BIND"
+        },
+        {
+            "level": 12,
+            "move": "MOVE_WATERPULSE"
+        },
+        {
+            "level": 19,
+            "move": "MOVE_TEARFULLOOK"
+        },
+        {
+            "level": 24,
+            "move": "MOVE_SUCKERPUNCH"
+        },
+        {
+            "level": 30,
+            "move": "MOVE_UTURN"
+        },
+        {
+            "level": 34,
+            "move": "MOVE_SNIPESHOT"
+        },
+        {
+            "level": 38,
+            "move": "MOVE_LIQUIDATION"
+        },
+        {
+            "level": 46,
+            "move": "MOVE_SOAK"
+        },
+        {
+            "level": 54,
+            "move": "MOVE_RAINDANCE"
+        },
+        {
+            "level": 62,
+            "move": "MOVE_HYDROPUMP"
+        }
     ]
 }

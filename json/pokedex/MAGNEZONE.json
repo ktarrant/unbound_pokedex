@@ -30,6 +30,7 @@
     "noFlip": true,
     "blurb": "It evolved from exposure to a special magnetic field. Three units generate magnetism.",
     "name": "Magnezone",
+    "evolve_from": [],
     "learnset": [
         {
             "level": 0,
@@ -124,7 +125,6 @@
             "move": "MOVE_ZAPCANNON"
         }
     ],
-    "evolve_from": [],
     "tm": [
         "MOVE_TOXIC",
         "MOVE_HIDDENPOWER",

@@ -43,7 +43,16 @@
         "MOVE_SPITE",
         "MOVE_POWERUPPUNCH"
     ],
+    "evolve_to": [
+        {
+            "method": "EVO_LEVEL",
+            "condition": "38",
+            "target": "MUK_A",
+            "extra": "0"
+        }
+    ],
     "blurb": "A Grimer, which had been brought in to solve a problem with garbage, developed over time into this form.",
+    "evolve_from": [],
     "learnset": [
         {
             "level": 1,
@@ -110,15 +119,6 @@
             "move": "MOVE_MEMENTO"
         }
     ],
-    "evolve_to": [
-        {
-            "method": "EVO_LEVEL",
-            "condition": "38",
-            "target": "MUK_A",
-            "extra": "0"
-        }
-    ],
-    "evolve_from": [],
     "tm": [
         "MOVE_TOXIC",
         "MOVE_HIDDENPOWER",

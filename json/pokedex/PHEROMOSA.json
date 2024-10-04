@@ -30,6 +30,7 @@
     "noFlip": true,
     "blurb": "One of the dangerous Ultra Beasts, it has been spotted running across the land at terrific speeds.",
     "name": "Pheromosa",
+    "evolve_from": [],
     "learnset": [
         {
             "level": 1,
@@ -108,7 +109,6 @@
             "move": "MOVE_HIGHJUMPKICK"
         }
     ],
-    "evolve_from": [],
     "tm": [
         "MOVE_TOXIC",
         "MOVE_HIDDENPOWER",

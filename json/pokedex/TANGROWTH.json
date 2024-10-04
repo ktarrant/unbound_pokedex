@@ -30,6 +30,9 @@
     "noFlip": true,
     "blurb": "Its vines grow so profusely that, in the warm season, you can't even see its eyes.",
     "name": "Tangrowth",
+    "evolve_from": [
+        "TANGELA"
+    ],
     "learnset": [
         {
             "level": 0,
@@ -111,9 +114,6 @@
             "level": 62,
             "move": "MOVE_GRASSYTERRAIN"
         }
-    ],
-    "evolve_from": [
-        "TANGELA"
     ],
     "tm": [
         "MOVE_TOXIC",

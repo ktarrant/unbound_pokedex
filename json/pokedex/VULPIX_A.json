@@ -45,7 +45,16 @@
         "MOVE_FEINTATTACK",
         "MOVE_QUICKATTACK"
     ],
+    "evolve_to": [
+        {
+            "method": "EVO_ITEM",
+            "condition": "ITEM_ICE_STONE",
+            "target": "NINETALES_A",
+            "extra": "0"
+        }
+    ],
     "blurb": "In hot weather, this Pok\u00e9mon makes ice shards with its six tails and sprays them around to cool itself off.",
+    "evolve_from": [],
     "learnset": [
         {
             "level": 1,
@@ -120,15 +129,6 @@
             "move": "MOVE_SHEERCOLD"
         }
     ],
-    "evolve_to": [
-        {
-            "method": "EVO_ITEM",
-            "condition": "ITEM_ICE_STONE",
-            "target": "NINETALES_A",
-            "extra": "0"
-        }
-    ],
-    "evolve_from": [],
     "tm": [
         "MOVE_ROAR",
         "MOVE_TOXIC",

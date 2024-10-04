@@ -30,64 +30,6 @@
     "noFlip": true,
     "blurb": "It slept for aeons while in the form of a statue. It was asleep for so long, people forgot that it ever existed.",
     "name": "Zamazenta",
-    "learnset": [
-        {
-            "level": 1,
-            "move": "MOVE_WIDEGUARD"
-        },
-        {
-            "level": 1,
-            "move": "MOVE_BITE"
-        },
-        {
-            "level": 1,
-            "move": "MOVE_HOWL"
-        },
-        {
-            "level": 8,
-            "move": "MOVE_QUICKATTACK"
-        },
-        {
-            "level": 16,
-            "move": "MOVE_METALCLAW"
-        },
-        {
-            "level": 24,
-            "move": "MOVE_SLASH"
-        },
-        {
-            "level": 32,
-            "move": "MOVE_CRUNCH"
-        },
-        {
-            "level": 40,
-            "move": "MOVE_FOCUSBLAST"
-        },
-        {
-            "level": 48,
-            "move": "MOVE_METALBURST"
-        },
-        {
-            "level": 56,
-            "move": "MOVE_LASERFOCUS"
-        },
-        {
-            "level": 64,
-            "move": "MOVE_IRONHEAD"
-        },
-        {
-            "level": 72,
-            "move": "MOVE_IRONDEFENSE"
-        },
-        {
-            "level": 80,
-            "move": "MOVE_CLOSECOMBAT"
-        },
-        {
-            "level": 88,
-            "move": "MOVE_MOONBLAST"
-        }
-    ],
     "evolve_from": [],
     "tm": [
         "MOVE_ROAR",
@@ -147,5 +89,63 @@
         "MOVE_PSYCHICFANGS",
         "MOVE_CLOSECOMBAT",
         "MOVE_COACHING"
+    ],
+    "learnset": [
+        {
+            "level": 1,
+            "move": "MOVE_WIDEGUARD"
+        },
+        {
+            "level": 1,
+            "move": "MOVE_BITE"
+        },
+        {
+            "level": 1,
+            "move": "MOVE_HOWL"
+        },
+        {
+            "level": 8,
+            "move": "MOVE_QUICKATTACK"
+        },
+        {
+            "level": 16,
+            "move": "MOVE_METALCLAW"
+        },
+        {
+            "level": 24,
+            "move": "MOVE_SLASH"
+        },
+        {
+            "level": 32,
+            "move": "MOVE_CRUNCH"
+        },
+        {
+            "level": 40,
+            "move": "MOVE_FOCUSBLAST"
+        },
+        {
+            "level": 48,
+            "move": "MOVE_METALBURST"
+        },
+        {
+            "level": 56,
+            "move": "MOVE_LASERFOCUS"
+        },
+        {
+            "level": 64,
+            "move": "MOVE_IRONHEAD"
+        },
+        {
+            "level": 72,
+            "move": "MOVE_IRONDEFENSE"
+        },
+        {
+            "level": 80,
+            "move": "MOVE_CLOSECOMBAT"
+        },
+        {
+            "level": 88,
+            "move": "MOVE_MOONBLAST"
+        }
     ]
 }

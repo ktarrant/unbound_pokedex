@@ -29,6 +29,7 @@
     "hiddenAbility": "ABILITY_MULTISCALE",
     "noFlip": true,
     "name": "Milotic",
+    "evolve_from": [],
     "learnset": [
         {
             "level": 0,
@@ -123,7 +124,6 @@
             "move": "MOVE_HYDROPUMP"
         }
     ],
-    "evolve_from": [],
     "tm": [
         "MOVE_WATERPULSE",
         "MOVE_TOXIC",

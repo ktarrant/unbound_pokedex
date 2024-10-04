@@ -30,6 +30,7 @@
     "noFlip": true,
     "blurb": "Known as \"The Being of Emotion.\\\" It taught humans the nobility of sorrow, pain, and joy.",
     "name": "Mesprit",
+    "evolve_from": [],
     "learnset": [
         {
             "level": 1,
@@ -96,7 +97,6 @@
             "move": "MOVE_HEALINGWISH"
         }
     ],
-    "evolve_from": [],
     "tm": [
         "MOVE_WATERPULSE",
         "MOVE_CALMMIND",

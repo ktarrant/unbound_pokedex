@@ -29,6 +29,9 @@
     "hiddenAbility": "ABILITY_HARVEST",
     "noFlip": true,
     "blurb": "It swings its long neck like a whip and smacks its opponents. This makes Exeggutor itself dizzy, too.",
+    "evolve_from": [
+        "EXEGGCUTE_A"
+    ],
     "learnset": [
         {
             "level": 0,
@@ -118,9 +121,6 @@
             "level": 54,
             "move": "MOVE_WOODHAMMER"
         }
-    ],
-    "evolve_from": [
-        "EXEGGCUTE_A"
     ],
     "tm": [
         "MOVE_TOXIC",

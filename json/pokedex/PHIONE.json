@@ -30,6 +30,7 @@
     "noFlip": true,
     "blurb": "It drifts in warm seas. It always returns to where it was born, no matter how far it may have drifted.",
     "name": "Phione",
+    "evolve_from": [],
     "learnset": [
         {
             "level": 1,
@@ -88,7 +89,6 @@
             "move": "MOVE_MOONBLAST"
         }
     ],
-    "evolve_from": [],
     "tm": [
         "MOVE_WATERPULSE",
         "MOVE_CALMMIND",

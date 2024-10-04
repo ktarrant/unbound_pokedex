@@ -30,6 +30,9 @@
     "noFlip": true,
     "blurb": "When it starts fighting for territory with Parasect, the entire area gets completely coated in spores!",
     "name": "Shiinotic",
+    "evolve_from": [
+        "MORELULL"
+    ],
     "learnset": [
         {
             "level": 1,
@@ -87,9 +90,6 @@
             "level": 60,
             "move": "MOVE_SPOTLIGHT"
         }
-    ],
-    "evolve_from": [
-        "MORELULL"
     ],
     "tm": [
         "MOVE_TOXIC",

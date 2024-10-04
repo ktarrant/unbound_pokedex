@@ -40,7 +40,16 @@
         "MOVE_SKILLSWAP",
         "MOVE_RAGEPOWDER"
     ],
+    "evolve_to": [
+        {
+            "method": "EVO_LEVEL",
+            "condition": "31",
+            "target": "VENOMOTH",
+            "extra": "0"
+        }
+    ],
     "name": "Venonat",
+    "evolve_from": [],
     "learnset": [
         {
             "level": 1,
@@ -103,15 +112,6 @@
             "move": "MOVE_PSYCHIC"
         }
     ],
-    "evolve_to": [
-        {
-            "method": "EVO_LEVEL",
-            "condition": "31",
-            "target": "VENOMOTH",
-            "extra": "0"
-        }
-    ],
-    "evolve_from": [],
     "tm": [
         "MOVE_TOXIC",
         "MOVE_HIDDENPOWER",

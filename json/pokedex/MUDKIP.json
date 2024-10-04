@@ -51,7 +51,16 @@
         "MOVE_BIDE",
         "MOVE_MUDSPORT"
     ],
+    "evolve_to": [
+        {
+            "method": "EVO_LEVEL",
+            "condition": "16",
+            "target": "MARSHTOMP",
+            "extra": "0"
+        }
+    ],
     "name": "Mudkip",
+    "evolve_from": [],
     "learnset": [
         {
             "level": 1,
@@ -114,15 +123,6 @@
             "move": "MOVE_HYDROPUMP"
         }
     ],
-    "evolve_to": [
-        {
-            "method": "EVO_LEVEL",
-            "condition": "16",
-            "target": "MARSHTOMP",
-            "extra": "0"
-        }
-    ],
-    "evolve_from": [],
     "tm": [
         "MOVE_WATERPULSE",
         "MOVE_TOXIC",

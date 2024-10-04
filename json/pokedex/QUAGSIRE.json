@@ -29,6 +29,9 @@
     "hiddenAbility": "ABILITY_UNAWARE",
     "noFlip": true,
     "name": "Quagsire",
+    "evolve_from": [
+        "WOOPER"
+    ],
     "learnset": [
         {
             "level": 1,
@@ -90,9 +93,6 @@
             "level": 56,
             "move": "MOVE_EARTHQUAKE"
         }
-    ],
-    "evolve_from": [
-        "WOOPER"
     ],
     "tm": [
         "MOVE_FOCUSPUNCH",

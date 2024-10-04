@@ -30,6 +30,9 @@
     "noFlip": true,
     "blurb": "Swanna start to dance at dusk. The one dancing in the middle is the leader of the flock.",
     "name": "Swanna",
+    "evolve_from": [
+        "DUCKLETT"
+    ],
     "learnset": [
         {
             "level": 1,
@@ -99,9 +102,6 @@
             "level": 65,
             "move": "MOVE_HURRICANE"
         }
-    ],
-    "evolve_from": [
-        "DUCKLETT"
     ],
     "tm": [
         "MOVE_WATERPULSE",

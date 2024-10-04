@@ -28,7 +28,18 @@
     "safariZoneFleeRate": 0,
     "hiddenAbility": "ABILITY_HEAVYMETAL",
     "noFlip": true,
+    "evolve_to": [
+        {
+            "method": "EVO_LEVEL",
+            "condition": "42",
+            "target": "AGGRON",
+            "extra": "0"
+        }
+    ],
     "name": "Lairon",
+    "evolve_from": [
+        "ARON"
+    ],
     "learnset": [
         {
             "level": 1,
@@ -102,17 +113,6 @@
             "level": 63,
             "move": "MOVE_METALBURST"
         }
-    ],
-    "evolve_to": [
-        {
-            "method": "EVO_LEVEL",
-            "condition": "42",
-            "target": "AGGRON",
-            "extra": "0"
-        }
-    ],
-    "evolve_from": [
-        "ARON"
     ],
     "tm": [
         "MOVE_WATERPULSE",

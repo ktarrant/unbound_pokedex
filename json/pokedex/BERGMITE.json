@@ -37,6 +37,7 @@
     ],
     "blurb": "It blocks opponents' attacks with the ice that shields its body. It uses cold air to repair any crack.",
     "name": "Bergmite",
+    "evolve_from": [],
     "learnset": [
         {
             "level": 1,
@@ -111,7 +112,6 @@
             "move": "MOVE_RECOVER"
         }
     ],
-    "evolve_from": [],
     "tm": [
         "MOVE_WATERPULSE",
         "MOVE_ROAR",

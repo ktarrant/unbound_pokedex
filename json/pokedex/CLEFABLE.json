@@ -29,6 +29,9 @@
     "hiddenAbility": "ABILITY_UNAWARE",
     "noFlip": true,
     "name": "Clefable",
+    "evolve_from": [
+        "CLEFAIRY"
+    ],
     "learnset": [
         {
             "level": 1,
@@ -142,9 +145,6 @@
             "level": 49,
             "move": "MOVE_METEORMASH"
         }
-    ],
-    "evolve_from": [
-        "CLEFAIRY"
     ],
     "tm": [
         "MOVE_FOCUSPUNCH",

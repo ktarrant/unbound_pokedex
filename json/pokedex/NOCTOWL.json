@@ -29,6 +29,9 @@
     "hiddenAbility": "ABILITY_TINTEDLENS",
     "noFlip": true,
     "name": "Noctowl",
+    "evolve_from": [
+        "HOOTHOOT"
+    ],
     "learnset": [
         {
             "level": 1,
@@ -102,9 +105,6 @@
             "level": 57,
             "move": "MOVE_HURRICANE"
         }
-    ],
-    "evolve_from": [
-        "HOOTHOOT"
     ],
     "tm": [
         "MOVE_CALMMIND",

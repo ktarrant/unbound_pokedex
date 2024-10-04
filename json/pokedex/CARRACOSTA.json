@@ -30,6 +30,9 @@
     "noFlip": true,
     "blurb": "Incredible jaw strength enables them to chew up steel beams and rocks along with their prey.",
     "name": "Carracosta",
+    "evolve_from": [
+        "TIRTOUGA"
+    ],
     "learnset": [
         {
             "level": 1,
@@ -103,9 +106,6 @@
             "level": 51,
             "move": "MOVE_SHELLSMASH"
         }
-    ],
-    "evolve_from": [
-        "TIRTOUGA"
     ],
     "tm": [
         "MOVE_WATERPULSE",

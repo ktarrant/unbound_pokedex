@@ -29,6 +29,9 @@
     "hiddenAbility": "ABILITY_MULTISCALE",
     "noFlip": true,
     "name": "Dragonite",
+    "evolve_from": [
+        "DRAGONAIR"
+    ],
     "learnset": [
         {
             "level": 0,
@@ -118,9 +121,6 @@
             "level": 80,
             "move": "MOVE_HYPERBEAM"
         }
-    ],
-    "evolve_from": [
-        "DRAGONAIR"
     ],
     "tm": [
         "MOVE_FOCUSPUNCH",

@@ -28,8 +28,19 @@
     "safariZoneFleeRate": 0,
     "hiddenAbility": "ABILITY_SNIPER",
     "noFlip": true,
+    "evolve_to": [
+        {
+            "method": "EVO_LEVEL",
+            "condition": "35",
+            "target": "INTELEON",
+            "extra": "0"
+        }
+    ],
     "blurb": "Highly intelligent but also very lazy, it keeps enemies out of its territory by laying traps everywhere.",
     "name": "Drizzile",
+    "evolve_from": [
+        "SOBBLE"
+    ],
     "learnset": [
         {
             "level": 1,
@@ -75,17 +86,6 @@
             "level": 48,
             "move": "MOVE_RAINDANCE"
         }
-    ],
-    "evolve_to": [
-        {
-            "method": "EVO_LEVEL",
-            "condition": "35",
-            "target": "INTELEON",
-            "extra": "0"
-        }
-    ],
-    "evolve_from": [
-        "SOBBLE"
     ],
     "tm": [
         "MOVE_WATERPULSE",

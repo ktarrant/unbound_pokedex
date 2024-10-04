@@ -29,6 +29,9 @@
     "hiddenAbility": "ABILITY_FLASHFIRE",
     "noFlip": true,
     "name": "Quilava",
+    "evolve_from": [
+        "CYNDAQUIL"
+    ],
     "learnset": [
         {
             "level": 1,
@@ -94,9 +97,6 @@
             "level": 70,
             "move": "MOVE_ERUPTION"
         }
-    ],
-    "evolve_from": [
-        "CYNDAQUIL"
     ],
     "tm": [
         "MOVE_FOCUSPUNCH",

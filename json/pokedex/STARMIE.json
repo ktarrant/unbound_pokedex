@@ -29,6 +29,9 @@
     "hiddenAbility": "ABILITY_ANALYTIC",
     "noFlip": true,
     "name": "Starmie",
+    "evolve_from": [
+        "STARYU"
+    ],
     "learnset": [
         {
             "level": 1,
@@ -114,9 +117,6 @@
             "level": 56,
             "move": "MOVE_HYDROPUMP"
         }
-    ],
-    "evolve_from": [
-        "STARYU"
     ],
     "tm": [
         "MOVE_WATERPULSE",

@@ -30,6 +30,9 @@
     "noFlip": true,
     "blurb": "Brave and prideful, it dashes airily through the forest, its steps aided by psychic powers stored in its fetlocks.",
     "name": "Rapidash",
+    "evolve_from": [
+        "PONYTA_G"
+    ],
     "learnset": [
         {
             "level": 0,
@@ -111,9 +114,6 @@
             "level": 65,
             "move": "MOVE_HIGHHORSEPOWER"
         }
-    ],
-    "evolve_from": [
-        "PONYTA_G"
     ],
     "tm": [
         "MOVE_CALMMIND",

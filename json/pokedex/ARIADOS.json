@@ -29,6 +29,9 @@
     "hiddenAbility": "ABILITY_MERCILESS",
     "noFlip": true,
     "name": "Ariados",
+    "evolve_from": [
+        "SPINARAK"
+    ],
     "learnset": [
         {
             "level": 0,
@@ -126,9 +129,6 @@
             "level": 57,
             "move": "MOVE_MEGAHORN"
         }
-    ],
-    "evolve_from": [
-        "SPINARAK"
     ],
     "tm": [
         "MOVE_TOXIC",

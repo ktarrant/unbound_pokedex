@@ -42,8 +42,17 @@
         "MOVE_SIGNALBEAM",
         "MOVE_CONFUSERAY"
     ],
+    "evolve_to": [
+        {
+            "method": "EVO_LEVEL",
+            "condition": "31",
+            "target": "LUMINEON",
+            "extra": "0"
+        }
+    ],
     "blurb": "The line running down its side can store sunlight. It shines vividly at night.",
     "name": "Finneon",
+    "evolve_from": [],
     "learnset": [
         {
             "level": 1,
@@ -106,15 +115,6 @@
             "move": "MOVE_FLIPTURN"
         }
     ],
-    "evolve_to": [
-        {
-            "method": "EVO_LEVEL",
-            "condition": "31",
-            "target": "LUMINEON",
-            "extra": "0"
-        }
-    ],
-    "evolve_from": [],
     "tm": [
         "MOVE_WATERPULSE",
         "MOVE_TOXIC",

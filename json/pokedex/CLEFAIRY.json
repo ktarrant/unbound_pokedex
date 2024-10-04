@@ -28,7 +28,18 @@
     "safariZoneFleeRate": 0,
     "hiddenAbility": "ABILITY_FRIENDGUARD",
     "noFlip": true,
+    "evolve_to": [
+        {
+            "method": "EVO_ITEM",
+            "condition": "ITEM_MOON_STONE",
+            "target": "CLEFABLE",
+            "extra": "0"
+        }
+    ],
     "name": "Clefairy",
+    "evolve_from": [
+        "CLEFFA"
+    ],
     "learnset": [
         {
             "level": 1,
@@ -142,17 +153,6 @@
             "level": 55,
             "move": "MOVE_AFTERYOU"
         }
-    ],
-    "evolve_to": [
-        {
-            "method": "EVO_ITEM",
-            "condition": "ITEM_MOON_STONE",
-            "target": "CLEFABLE",
-            "extra": "0"
-        }
-    ],
-    "evolve_from": [
-        "CLEFFA"
     ],
     "tm": [
         "MOVE_FOCUSPUNCH",

@@ -48,7 +48,16 @@
         "MOVE_ROTOTILLER",
         "MOVE_POWERUPPUNCH"
     ],
+    "evolve_to": [
+        {
+            "method": "EVO_LEVEL",
+            "condition": "32",
+            "target": "CACTURNE",
+            "extra": "0"
+        }
+    ],
     "name": "Cacnea",
+    "evolve_from": [],
     "learnset": [
         {
             "level": 1,
@@ -119,15 +128,6 @@
             "move": "MOVE_DESTINYBOND"
         }
     ],
-    "evolve_to": [
-        {
-            "method": "EVO_LEVEL",
-            "condition": "32",
-            "target": "CACTURNE",
-            "extra": "0"
-        }
-    ],
-    "evolve_from": [],
     "tm": [
         "MOVE_FOCUSPUNCH",
         "MOVE_TOXIC",

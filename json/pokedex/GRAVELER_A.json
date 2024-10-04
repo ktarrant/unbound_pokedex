@@ -29,6 +29,9 @@
     "hiddenAbility": "ABILITY_GALVANIZE",
     "noFlip": true,
     "blurb": "Graveler's entire body is tinged with electricity due to the stones it likes to eat. It's very quick-tempered.",
+    "evolve_from": [
+        "GEODUDE_A"
+    ],
     "learnset": [
         {
             "level": 1,
@@ -98,9 +101,6 @@
             "level": 63,
             "move": "MOVE_EXPLOSION"
         }
-    ],
-    "evolve_from": [
-        "GEODUDE_A"
     ],
     "tm": [
         "MOVE_FOCUSPUNCH",

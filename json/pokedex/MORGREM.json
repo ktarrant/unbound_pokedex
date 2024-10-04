@@ -28,8 +28,19 @@
     "safariZoneFleeRate": 0,
     "hiddenAbility": "ABILITY_PICKPOCKET",
     "noFlip": true,
+    "evolve_to": [
+        {
+            "method": "EVO_LEVEL",
+            "condition": "42",
+            "target": "GRIMMSNARL",
+            "extra": "0"
+        }
+    ],
     "blurb": "With sly cunning, it lures people into the woods. Some believe it to have the power to make crops grow.",
     "name": "Morgrem",
+    "evolve_from": [
+        "IMPIDIMP"
+    ],
     "learnset": [
         {
             "level": 0,
@@ -91,17 +102,6 @@
             "level": 52,
             "move": "MOVE_FOULPLAY"
         }
-    ],
-    "evolve_to": [
-        {
-            "method": "EVO_LEVEL",
-            "condition": "42",
-            "target": "GRIMMSNARL",
-            "extra": "0"
-        }
-    ],
-    "evolve_from": [
-        "IMPIDIMP"
     ],
     "tm": [
         "MOVE_FOCUSPUNCH",

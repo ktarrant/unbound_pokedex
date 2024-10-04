@@ -46,6 +46,7 @@
         "MOVE_MUDSPORT"
     ],
     "name": "Corsola",
+    "evolve_from": [],
     "learnset": [
         {
             "level": 1,
@@ -124,7 +125,6 @@
             "move": "MOVE_MIRRORCOAT"
         }
     ],
-    "evolve_from": [],
     "tm": [
         "MOVE_WATERPULSE",
         "MOVE_CALMMIND",

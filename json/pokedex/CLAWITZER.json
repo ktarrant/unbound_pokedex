@@ -30,6 +30,9 @@
     "noFlip": true,
     "blurb": "Their enormous claws launch cannonballs of water powerful enough to pierce tanker hulls.",
     "name": "Clawitzer",
+    "evolve_from": [
+        "CLAUNCHER"
+    ],
     "learnset": [
         {
             "level": 1,
@@ -107,9 +110,6 @@
             "level": 65,
             "move": "MOVE_CRABHAMMER"
         }
-    ],
-    "evolve_from": [
-        "CLAUNCHER"
     ],
     "tm": [
         "MOVE_WATERPULSE",

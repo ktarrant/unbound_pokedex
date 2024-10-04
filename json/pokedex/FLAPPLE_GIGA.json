@@ -28,7 +28,18 @@
     "safariZoneFleeRate": 0,
     "hiddenAbility": "ABILITY_HUSTLE",
     "noFlip": true,
+    "evolve_to": [
+        {
+            "method": "EVO_GIGANTAMAX",
+            "condition": "FALSE",
+            "target": "FLAPPLE",
+            "extra": "0"
+        }
+    ],
     "name": "Flapple",
+    "evolve_from": [
+        "FLAPPLE"
+    ],
     "learnset": [
         {
             "level": 0,
@@ -99,17 +110,60 @@
             "move": "MOVE_DRAGONRUSH"
         }
     ],
-    "evolve_to": [
-        {
-            "method": "EVO_GIGANTAMAX",
-            "condition": "FALSE",
-            "target": "FLAPPLE",
-            "extra": "0"
-        }
+    "tm": [
+        "MOVE_TOXIC",
+        "MOVE_BULLETSEED",
+        "MOVE_HIDDENPOWER",
+        "MOVE_SUNNYDAY",
+        "MOVE_HYPERBEAM",
+        "MOVE_PROTECT",
+        "MOVE_GIGADRAIN",
+        "MOVE_FRUSTRATION",
+        "MOVE_SOLARBEAM",
+        "MOVE_RETURN",
+        "MOVE_DOUBLETEAM",
+        "MOVE_AERIALACE",
+        "MOVE_FACADE",
+        "MOVE_SECRETPOWER",
+        "MOVE_REST",
+        "MOVE_ATTRACT",
+        "MOVE_ROOST",
+        "MOVE_ENERGYBALL",
+        "MOVE_HONECLAWS",
+        "MOVE_ENDURE",
+        "MOVE_DRAGONPULSE",
+        "MOVE_RECYCLE",
+        "MOVE_GIGAIMPACT",
+        "MOVE_SLEEPTALK",
+        "MOVE_GRASSKNOT",
+        "MOVE_SWAGGER",
+        "MOVE_PLUCK",
+        "MOVE_UTURN",
+        "MOVE_SUBSTITUTE",
+        "MOVE_DRAGONTAIL",
+        "MOVE_ACROBATICS",
+        "MOVE_DEFOG",
+        "MOVE_ROUND",
+        "MOVE_NATURALGIFT",
+        "MOVE_NATUREPOWER",
+        "MOVE_FLY"
     ],
-    "evolve_from": [
-        "FLAPPLE"
-    ],
-    "tm": [],
-    "tutor": []
+    "tutor": [
+        "MOVE_SNORE",
+        "MOVE_WORRYSEED",
+        "MOVE_SYNTHESIS",
+        "MOVE_IRONDEFENSE",
+        "MOVE_SEEDBOMB",
+        "MOVE_GASTROACID",
+        "MOVE_OUTRAGE",
+        "MOVE_CONFIDE",
+        "MOVE_FOCUSENERGY",
+        "MOVE_SCARYFACE",
+        "MOVE_DRAGONDANCE",
+        "MOVE_HEAVYSLAM",
+        "MOVE_AIRSLASH",
+        "MOVE_LEAFSTORM",
+        "MOVE_GRASSYGLIDE",
+        "MOVE_DUALWINGBEAT"
+    ]
 }

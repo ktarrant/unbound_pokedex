@@ -29,6 +29,9 @@
     "hiddenAbility": "ABILITY_SIMPLE",
     "noFlip": true,
     "name": "Jumpluff",
+    "evolve_from": [
+        "SKIPLOOM"
+    ],
     "learnset": [
         {
             "level": 1,
@@ -114,9 +117,6 @@
             "level": 64,
             "move": "MOVE_MEMENTO"
         }
-    ],
-    "evolve_from": [
-        "SKIPLOOM"
     ],
     "tm": [
         "MOVE_TOXIC",

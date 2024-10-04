@@ -30,6 +30,9 @@
     "noFlip": true,
     "blurb": "It flares its frill and generates energy. It can generate sufficient electricity to power a skyscraper.",
     "name": "Heliolisk",
+    "evolve_from": [
+        "HELIOPTILE"
+    ],
     "learnset": [
         {
             "level": 1,
@@ -107,9 +110,6 @@
             "level": 52,
             "move": "MOVE_THUNDER"
         }
-    ],
-    "evolve_from": [
-        "HELIOPTILE"
     ],
     "tm": [
         "MOVE_TOXIC",

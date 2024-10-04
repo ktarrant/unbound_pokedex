@@ -30,6 +30,9 @@
     "noFlip": true,
     "blurb": "It runs better than it flies. It takes off into the sky by running at a speed of 25 mph.",
     "name": "Archeops",
+    "evolve_from": [
+        "ARCHEN"
+    ],
     "learnset": [
         {
             "level": 1,
@@ -107,9 +110,6 @@
             "level": 53,
             "move": "MOVE_ENDEAVOR"
         }
-    ],
-    "evolve_from": [
-        "ARCHEN"
     ],
     "tm": [
         "MOVE_DRAGONCLAW",

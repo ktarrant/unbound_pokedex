@@ -34,8 +34,17 @@
         "MOVE_ROLLOUT",
         "MOVE_STUFFCHEEKS"
     ],
+    "evolve_to": [
+        {
+            "method": "EVO_LEVEL",
+            "condition": "20",
+            "target": "DIGGERSBY",
+            "extra": "0"
+        }
+    ],
     "blurb": "They use their large ears to dig burrows. They will dig the whole night through.",
     "name": "Bunnelby",
+    "evolve_from": [],
     "learnset": [
         {
             "level": 1,
@@ -114,15 +123,6 @@
             "move": "MOVE_SUPERFANG"
         }
     ],
-    "evolve_to": [
-        {
-            "method": "EVO_LEVEL",
-            "condition": "20",
-            "target": "DIGGERSBY",
-            "extra": "0"
-        }
-    ],
-    "evolve_from": [],
     "tm": [
         "MOVE_TOXIC",
         "MOVE_BULKUP",

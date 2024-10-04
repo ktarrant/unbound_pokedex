@@ -39,8 +39,17 @@
         "MOVE_NIGHTSLASH",
         "MOVE_DEFOG"
     ],
+    "evolve_to": [
+        {
+            "method": "EVO_LEVEL",
+            "condition": "21",
+            "target": "TRANQUILL",
+            "extra": "0"
+        }
+    ],
     "blurb": "These Pok\u00e9mon live in cities. They are accustomed to people. Flocks often gather in parks and plazas.",
     "name": "Pidove",
+    "evolve_from": [],
     "learnset": [
         {
             "level": 1,
@@ -107,15 +116,6 @@
             "move": "MOVE_SKYATTACK"
         }
     ],
-    "evolve_to": [
-        {
-            "method": "EVO_LEVEL",
-            "condition": "21",
-            "target": "TRANQUILL",
-            "extra": "0"
-        }
-    ],
-    "evolve_from": [],
     "tm": [
         "MOVE_TOXIC",
         "MOVE_HIDDENPOWER",

@@ -30,6 +30,7 @@
     "noFlip": true,
     "blurb": "It freely controls three small units called Mini-Noses using magnetic force.",
     "name": "Probopass",
+    "evolve_from": [],
     "learnset": [
         {
             "level": 0,
@@ -120,7 +121,6 @@
             "move": "MOVE_ZAPCANNON"
         }
     ],
-    "evolve_from": [],
     "tm": [
         "MOVE_TOXIC",
         "MOVE_HIDDENPOWER",

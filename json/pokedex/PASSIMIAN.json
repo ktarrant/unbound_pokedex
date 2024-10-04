@@ -42,6 +42,7 @@
     ],
     "blurb": "They form groups of 20 individuals. Their mutual bond is remarkable-they will never let down a comrade.",
     "name": "Passimian",
+    "evolve_from": [],
     "learnset": [
         {
             "level": 1,
@@ -100,7 +101,6 @@
             "move": "MOVE_GIGAIMPACT"
         }
     ],
-    "evolve_from": [],
     "tm": [
         "MOVE_FOCUSPUNCH",
         "MOVE_TOXIC",

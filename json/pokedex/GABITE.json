@@ -28,8 +28,19 @@
     "safariZoneFleeRate": 0,
     "hiddenAbility": "ABILITY_ROUGHSKIN",
     "noFlip": true,
+    "evolve_to": [
+        {
+            "method": "EVO_LEVEL",
+            "condition": "48",
+            "target": "GARCHOMP",
+            "extra": "0"
+        }
+    ],
     "blurb": "It loves sparkly things. It seeks treasures in caves and hoards the loot into its nest.",
     "name": "Gabite",
+    "evolve_from": [
+        "GIBLE"
+    ],
     "learnset": [
         {
             "level": 0,
@@ -107,17 +118,6 @@
             "level": 60,
             "move": "MOVE_OUTRAGE"
         }
-    ],
-    "evolve_to": [
-        {
-            "method": "EVO_LEVEL",
-            "condition": "48",
-            "target": "GARCHOMP",
-            "extra": "0"
-        }
-    ],
-    "evolve_from": [
-        "GIBLE"
     ],
     "tm": [
         "MOVE_DRAGONCLAW",

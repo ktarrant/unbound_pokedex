@@ -38,8 +38,17 @@
         "MOVE_BITE",
         "MOVE_SWITCHEROO"
     ],
+    "evolve_to": [
+        {
+            "method": "EVO_LEVEL",
+            "condition": "37",
+            "target": "ARCHEOPS",
+            "extra": "0"
+        }
+    ],
     "blurb": "Restored from a fossil, this ancient bird Pok\u00e9mon has wings but can't yet fly.",
     "name": "Archen",
+    "evolve_from": [],
     "learnset": [
         {
             "level": 1,
@@ -114,15 +123,6 @@
             "move": "MOVE_ENDEAVOR"
         }
     ],
-    "evolve_to": [
-        {
-            "method": "EVO_LEVEL",
-            "condition": "37",
-            "target": "ARCHEOPS",
-            "extra": "0"
-        }
-    ],
-    "evolve_from": [],
     "tm": [
         "MOVE_DRAGONCLAW",
         "MOVE_ROAR",

@@ -30,6 +30,7 @@
     "noFlip": true,
     "blurb": "It sends a soothing aura from its ribbonlike feelers to calm fights.",
     "name": "Sylveon",
+    "evolve_from": [],
     "learnset": [
         {
             "level": 0,
@@ -136,7 +137,6 @@
             "move": "MOVE_LASTRESORT"
         }
     ],
-    "evolve_from": [],
     "tm": [
         "MOVE_CALMMIND",
         "MOVE_TOXIC",

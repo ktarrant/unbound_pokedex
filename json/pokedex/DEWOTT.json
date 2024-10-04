@@ -30,6 +30,9 @@
     "noFlip": true,
     "blurb": "Strict training is how it learns its flowing double-scalchop technique.",
     "name": "Dewott",
+    "evolve_from": [
+        "OSHAWOTT"
+    ],
     "learnset": [
         {
             "level": 1,
@@ -91,9 +94,6 @@
             "level": 53,
             "move": "MOVE_HYDROPUMP"
         }
-    ],
-    "evolve_from": [
-        "OSHAWOTT"
     ],
     "tm": [
         "MOVE_WATERPULSE",

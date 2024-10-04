@@ -30,6 +30,9 @@
     "noFlip": true,
     "blurb": "Nothing could stop this Pok\u00e9mon 100 million years ago, so it behaved like a king.",
     "name": "Tyrantrum",
+    "evolve_from": [
+        "TYRUNT"
+    ],
     "learnset": [
         {
             "level": 1,
@@ -103,9 +106,6 @@
             "level": 66,
             "move": "MOVE_HEADSMASH"
         }
-    ],
-    "evolve_from": [
-        "TYRUNT"
     ],
     "tm": [
         "MOVE_DRAGONCLAW",

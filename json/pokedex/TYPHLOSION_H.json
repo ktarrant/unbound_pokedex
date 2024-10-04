@@ -30,6 +30,7 @@
     "noFlip": true,
     "blurb": "It is said to purify lost, forsaken souls with its flames and guide them to the afterlife.",
     "name": "Typhlosion",
+    "evolve_from": [],
     "learnset": [
         {
             "level": 0,
@@ -116,7 +117,6 @@
             "move": "MOVE_ERUPTION"
         }
     ],
-    "evolve_from": [],
     "tm": [
         "MOVE_FOCUSPUNCH",
         "MOVE_ROAR",

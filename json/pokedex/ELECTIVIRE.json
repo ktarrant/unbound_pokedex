@@ -30,6 +30,7 @@
     "noFlip": true,
     "blurb": "As its electric charge amplifies, blue sparks begin to crackle between its horns.",
     "name": "Electivire",
+    "evolve_from": [],
     "learnset": [
         {
             "level": 1,
@@ -112,7 +113,6 @@
             "move": "MOVE_IONDELUGE"
         }
     ],
-    "evolve_from": [],
     "tm": [
         "MOVE_FOCUSPUNCH",
         "MOVE_TOXIC",

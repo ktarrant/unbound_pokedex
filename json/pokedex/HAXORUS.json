@@ -30,6 +30,9 @@
     "noFlip": true,
     "blurb": "Their sturdy tusks will stay sharp even if used to cut steel beams. They are covered in hard armor.",
     "name": "Haxorus",
+    "evolve_from": [
+        "FRAXURE"
+    ],
     "learnset": [
         {
             "level": 1,
@@ -103,9 +106,6 @@
             "level": 67,
             "move": "MOVE_GIGAIMPACT"
         }
-    ],
-    "evolve_from": [
-        "FRAXURE"
     ],
     "tm": [
         "MOVE_DRAGONCLAW",

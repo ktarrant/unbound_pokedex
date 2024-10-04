@@ -30,6 +30,7 @@
     "noFlip": true,
     "blurb": "This guardian deity of Akala is guilelessly cruel. Its flowers' fragrant aroma is its source of energy.",
     "name": "Tapu Lele",
+    "evolve_from": [],
     "learnset": [
         {
             "level": 1,
@@ -104,7 +105,6 @@
             "move": "MOVE_PSYCHICTERRAIN"
         }
     ],
-    "evolve_from": [],
     "tm": [
         "MOVE_CALMMIND",
         "MOVE_TOXIC",

@@ -41,6 +41,15 @@
         "MOVE_HEADBUTT",
         "MOVE_TROPKICK"
     ],
+    "evolve_to": [
+        {
+            "method": "EVO_LEVEL",
+            "condition": "34",
+            "target": "SAWSBUCK_WINTER",
+            "extra": "0"
+        }
+    ],
+    "evolve_from": [],
     "learnset": [
         {
             "level": 1,
@@ -103,15 +112,6 @@
             "move": "MOVE_SOLARBEAM"
         }
     ],
-    "evolve_to": [
-        {
-            "method": "EVO_LEVEL",
-            "condition": "34",
-            "target": "SAWSBUCK_WINTER",
-            "extra": "0"
-        }
-    ],
-    "evolve_from": [],
     "tm": [
         "MOVE_TOXIC",
         "MOVE_HIDDENPOWER",

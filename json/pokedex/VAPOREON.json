@@ -29,6 +29,7 @@
     "hiddenAbility": "ABILITY_HYDRATION",
     "noFlip": true,
     "name": "Vaporeon",
+    "evolve_from": [],
     "learnset": [
         {
             "level": 0,
@@ -135,7 +136,6 @@
             "move": "MOVE_LASTRESORT"
         }
     ],
-    "evolve_from": [],
     "tm": [
         "MOVE_WATERPULSE",
         "MOVE_CALMMIND",

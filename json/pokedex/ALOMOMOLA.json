@@ -38,6 +38,7 @@
     ],
     "blurb": "The special membrane enveloping Alomomola has the ability to heal wounds.",
     "name": "Alomomola",
+    "evolve_from": [],
     "learnset": [
         {
             "level": 1,
@@ -116,7 +117,6 @@
             "move": "MOVE_WISH"
         }
     ],
-    "evolve_from": [],
     "tm": [
         "MOVE_WATERPULSE",
         "MOVE_CALMMIND",

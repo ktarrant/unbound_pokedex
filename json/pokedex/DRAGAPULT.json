@@ -30,6 +30,9 @@
     "noFlip": true,
     "blurb": "Apparently the Dreepy inside its horns eagerly look forward to being launched out at Mach speeds.",
     "name": "Dragapult",
+    "evolve_from": [
+        "DRAKLOAK"
+    ],
     "learnset": [
         {
             "level": 0,
@@ -115,9 +118,6 @@
             "level": 78,
             "move": "MOVE_DRAGONDANCE"
         }
-    ],
-    "evolve_from": [
-        "DRAKLOAK"
     ],
     "tm": [
         "MOVE_DRAGONCLAW",

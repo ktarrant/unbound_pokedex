@@ -30,6 +30,9 @@
     "noFlip": true,
     "blurb": "Searching for an opponent to test its skills against, it emerges onto land. Once the battle is over, it returns to the sea.",
     "name": "Grapploct",
+    "evolve_from": [
+        "CLOBBOPUS"
+    ],
     "learnset": [
         {
             "level": 0,
@@ -91,9 +94,6 @@
             "level": 50,
             "move": "MOVE_TOPSYTURVY"
         }
-    ],
-    "evolve_from": [
-        "CLOBBOPUS"
     ],
     "tm": [
         "MOVE_FOCUSPUNCH",

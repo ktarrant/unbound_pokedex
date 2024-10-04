@@ -34,6 +34,7 @@
     ],
     "blurb": "Once a year, on a specific date and at a specific time, they gather out of nowhere and form up in a circle.",
     "name": "Stonjorner",
+    "evolve_from": [],
     "learnset": [
         {
             "level": 1,
@@ -88,7 +89,6 @@
             "move": "MOVE_MEGAKICK"
         }
     ],
-    "evolve_from": [],
     "tm": [
         "MOVE_FOCUSPUNCH",
         "MOVE_TOXIC",

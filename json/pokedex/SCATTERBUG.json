@@ -28,8 +28,17 @@
     "safariZoneFleeRate": 0,
     "hiddenAbility": "ABILITY_FRIENDGUARD",
     "noFlip": true,
+    "evolve_to": [
+        {
+            "method": "EVO_LEVEL",
+            "condition": "9",
+            "target": "SPEWPA",
+            "extra": "0"
+        }
+    ],
     "blurb": "The powder that covers its body regulates its temperature, so it can live in any region or climate.",
     "name": "Scatterbug",
+    "evolve_from": [],
     "learnset": [
         {
             "level": 1,
@@ -48,15 +57,6 @@
             "move": "MOVE_BUGBITE"
         }
     ],
-    "evolve_to": [
-        {
-            "method": "EVO_LEVEL",
-            "condition": "9",
-            "target": "SPEWPA",
-            "extra": "0"
-        }
-    ],
-    "evolve_from": [],
     "tm": [
         "MOVE_SILVERWIND"
     ],

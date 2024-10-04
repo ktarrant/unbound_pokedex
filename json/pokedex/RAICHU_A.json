@@ -29,6 +29,7 @@
     "hiddenAbility": "ABILITY_NONE",
     "noFlip": true,
     "blurb": "It focuses psychic energy into its tail and rides it like it's surfing. Another name for this Pok\u00e9mon is \"hodad.\\\"",
+    "evolve_from": [],
     "learnset": [
         {
             "level": 0,
@@ -127,7 +128,6 @@
             "move": "MOVE_THUNDER"
         }
     ],
-    "evolve_from": [],
     "tm": [
         "MOVE_FOCUSPUNCH",
         "MOVE_CALMMIND",

@@ -28,7 +28,6 @@
     "safariZoneFleeRate": 0,
     "hiddenAbility": "ABILITY_REGENERATOR",
     "noFlip": true,
-    "name": "Slowbro",
     "evolve_to": [
         {
             "method": "EVO_MEGA",
@@ -37,84 +36,7 @@
             "extra": "MEGA_VARIANT_STANDARD"
         }
     ],
-    "learnset": [
-        {
-            "level": 0,
-            "move": "MOVE_SHELLSIDEARM"
-        },
-        {
-            "level": 1,
-            "move": "MOVE_WITHDRAW"
-        },
-        {
-            "level": 1,
-            "move": "MOVE_TACKLE"
-        },
-        {
-            "level": 1,
-            "move": "MOVE_CURSE"
-        },
-        {
-            "level": 3,
-            "move": "MOVE_GROWL"
-        },
-        {
-            "level": 6,
-            "move": "MOVE_ACID"
-        },
-        {
-            "level": 9,
-            "move": "MOVE_YAWN"
-        },
-        {
-            "level": 12,
-            "move": "MOVE_CONFUSION"
-        },
-        {
-            "level": 15,
-            "move": "MOVE_DISABLE"
-        },
-        {
-            "level": 18,
-            "move": "MOVE_WATERPULSE"
-        },
-        {
-            "level": 21,
-            "move": "MOVE_HEADBUTT"
-        },
-        {
-            "level": 24,
-            "move": "MOVE_ZENHEADBUTT"
-        },
-        {
-            "level": 27,
-            "move": "MOVE_AMNESIA"
-        },
-        {
-            "level": 30,
-            "move": "MOVE_SURF"
-        },
-        {
-            "level": 33,
-            "move": "MOVE_SLACKOFF"
-        },
-        {
-            "level": 36,
-            "move": "MOVE_PSYCHIC"
-        },
-        {
-            "level": 39,
-            "move": "MOVE_PSYCHUP"
-        },
-        {
-            "level": 42,
-            "move": "MOVE_RAINDANCE"
-        },
-        {
-            "level": 45,
-            "move": "MOVE_HEALPULSE"
-        }
-    ],
+    "name": "Slowbro",
     "evolve_from": [
         "SLOWBRO_MEGA"
     ],
@@ -207,5 +129,83 @@
         "MOVE_MUDDYWATER",
         "MOVE_HYDROPUMP",
         "MOVE_EXPANDINGFORCE"
+    ],
+    "learnset": [
+        {
+            "level": 0,
+            "move": "MOVE_SHELLSIDEARM"
+        },
+        {
+            "level": 1,
+            "move": "MOVE_WITHDRAW"
+        },
+        {
+            "level": 1,
+            "move": "MOVE_TACKLE"
+        },
+        {
+            "level": 1,
+            "move": "MOVE_CURSE"
+        },
+        {
+            "level": 3,
+            "move": "MOVE_GROWL"
+        },
+        {
+            "level": 6,
+            "move": "MOVE_ACID"
+        },
+        {
+            "level": 9,
+            "move": "MOVE_YAWN"
+        },
+        {
+            "level": 12,
+            "move": "MOVE_CONFUSION"
+        },
+        {
+            "level": 15,
+            "move": "MOVE_DISABLE"
+        },
+        {
+            "level": 18,
+            "move": "MOVE_WATERPULSE"
+        },
+        {
+            "level": 21,
+            "move": "MOVE_HEADBUTT"
+        },
+        {
+            "level": 24,
+            "move": "MOVE_ZENHEADBUTT"
+        },
+        {
+            "level": 27,
+            "move": "MOVE_AMNESIA"
+        },
+        {
+            "level": 30,
+            "move": "MOVE_SURF"
+        },
+        {
+            "level": 33,
+            "move": "MOVE_SLACKOFF"
+        },
+        {
+            "level": 36,
+            "move": "MOVE_PSYCHIC"
+        },
+        {
+            "level": 39,
+            "move": "MOVE_PSYCHUP"
+        },
+        {
+            "level": 42,
+            "move": "MOVE_RAINDANCE"
+        },
+        {
+            "level": 45,
+            "move": "MOVE_HEALPULSE"
+        }
     ]
 }

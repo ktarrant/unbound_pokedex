@@ -30,6 +30,9 @@
     "noFlip": true,
     "blurb": "It signals its emotions with its melodies. Scientists are studying these melodic patterns.",
     "name": "Kricketune",
+    "evolve_from": [
+        "KRICKETOT"
+    ],
     "learnset": [
         {
             "level": 0,
@@ -107,9 +110,6 @@
             "level": 47,
             "move": "MOVE_PERISHSONG"
         }
-    ],
-    "evolve_from": [
-        "KRICKETOT"
     ],
     "tm": [
         "MOVE_TOXIC",

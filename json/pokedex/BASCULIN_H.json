@@ -42,6 +42,7 @@
     ],
     "blurb": "This Basculin differs from others in several respects, including its demeanor - this one is gentle.",
     "name": "Basculin",
+    "evolve_from": [],
     "learnset": [
         {
             "level": 1,
@@ -116,7 +117,6 @@
             "move": "MOVE_AQUATAIL"
         }
     ],
-    "evolve_from": [],
     "tm": [
         "MOVE_TOXIC",
         "MOVE_HAIL",

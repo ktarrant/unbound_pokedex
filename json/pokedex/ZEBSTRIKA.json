@@ -30,6 +30,9 @@
     "noFlip": true,
     "blurb": "When this ill-tempered Pok\u00e9mon runs wild, it shoots lightning from its mane in all directions.",
     "name": "Zebstrika",
+    "evolve_from": [
+        "BLITZLE"
+    ],
     "learnset": [
         {
             "level": 1,
@@ -95,9 +98,6 @@
             "level": 68,
             "move": "MOVE_VOLTTACKLE"
         }
-    ],
-    "evolve_from": [
-        "BLITZLE"
     ],
     "tm": [
         "MOVE_TOXIC",

@@ -29,6 +29,7 @@
     "hiddenAbility": "ABILITY_POWERCONSTRUCT",
     "noFlip": true,
     "blurb": "This is Zygarde's 100% form. It has enough power to overwhelm even Xerneas or Yveltal.",
+    "evolve_from": [],
     "learnset": [
         {
             "level": 1,
@@ -107,7 +108,6 @@
             "move": "MOVE_OUTRAGE"
         }
     ],
-    "evolve_from": [],
     "tm": [
         "MOVE_TOXIC",
         "MOVE_HIDDENPOWER",

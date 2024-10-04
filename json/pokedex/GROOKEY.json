@@ -37,8 +37,17 @@
         "MOVE_WORRYSEED",
         "MOVE_LEECHSEED"
     ],
+    "evolve_to": [
+        {
+            "method": "EVO_LEVEL",
+            "condition": "16",
+            "target": "THWACKEY",
+            "extra": "0"
+        }
+    ],
     "blurb": "It attacks with rapid beats of its stick. As it strikes with amazing speed, it gets more and more pumped.",
     "name": "Grookey",
+    "evolve_from": [],
     "learnset": [
         {
             "level": 1,
@@ -85,15 +94,6 @@
             "move": "MOVE_ENDEAVOR"
         }
     ],
-    "evolve_to": [
-        {
-            "method": "EVO_LEVEL",
-            "condition": "16",
-            "target": "THWACKEY",
-            "extra": "0"
-        }
-    ],
-    "evolve_from": [],
     "tm": [
         "MOVE_FOCUSPUNCH",
         "MOVE_TOXIC",

@@ -30,6 +30,7 @@
     "noFlip": true,
     "blurb": "When launching 3,600 degrees F fireballs, its body takes on a whitish hue from the intense heat.",
     "name": "Magmortar",
+    "evolve_from": [],
     "learnset": [
         {
             "level": 1,
@@ -104,7 +105,6 @@
             "move": "MOVE_HYPERBEAM"
         }
     ],
-    "evolve_from": [],
     "tm": [
         "MOVE_FOCUSPUNCH",
         "MOVE_TOXIC",

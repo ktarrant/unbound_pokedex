@@ -36,6 +36,7 @@
     ],
     "blurb": "It stays asleep from the moment it's born. When it falls into a deep sleep, it stops moving altogether.",
     "name": "Komala",
+    "evolve_from": [],
     "learnset": [
         {
             "level": 1,
@@ -90,7 +91,6 @@
             "move": "MOVE_THRASH"
         }
     ],
-    "evolve_from": [],
     "tm": [
         "MOVE_CALMMIND",
         "MOVE_TOXIC",

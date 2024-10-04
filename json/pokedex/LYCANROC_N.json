@@ -29,6 +29,7 @@
     "hiddenAbility": "ABILITY_NOGUARD",
     "noFlip": true,
     "blurb": "They live alone without forming packs. They only listen to orders from those who can draw out their true power.",
+    "evolve_from": [],
     "learnset": [
         {
             "level": 0,
@@ -127,7 +128,6 @@
             "move": "MOVE_CLOSECOMBAT"
         }
     ],
-    "evolve_from": [],
     "tm": [
         "MOVE_FOCUSPUNCH",
         "MOVE_ROAR",

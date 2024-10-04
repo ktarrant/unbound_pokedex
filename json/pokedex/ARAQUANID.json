@@ -30,6 +30,9 @@
     "noFlip": true,
     "blurb": "It delivers headbutts with the bubble on its head. Small Pok\u00e9mon get sucked into it, where they drown.",
     "name": "Araquanid",
+    "evolve_from": [
+        "DEWPIDER"
+    ],
     "learnset": [
         {
             "level": 1,
@@ -99,9 +102,6 @@
             "level": 62,
             "move": "MOVE_MIRRORCOAT"
         }
-    ],
-    "evolve_from": [
-        "DEWPIDER"
     ],
     "tm": [
         "MOVE_WATERPULSE",

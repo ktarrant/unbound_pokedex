@@ -30,6 +30,9 @@
     "noFlip": true,
     "blurb": "This hot-blooded Pok\u00e9mon attacks anything it sees with ultrasonic waves that can crush boulders.",
     "name": "Noivern",
+    "evolve_from": [
+        "NOIBAT"
+    ],
     "learnset": [
         {
             "level": 0,
@@ -119,9 +122,6 @@
             "level": 62,
             "move": "MOVE_BOOMBURST"
         }
-    ],
-    "evolve_from": [
-        "NOIBAT"
     ],
     "tm": [
         "MOVE_DRAGONCLAW",

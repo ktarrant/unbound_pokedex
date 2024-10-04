@@ -28,6 +28,17 @@
     "safariZoneFleeRate": 0,
     "hiddenAbility": "ABILITY_NONE",
     "noFlip": true,
+    "evolve_to": [
+        {
+            "method": "EVO_MEGA",
+            "condition": "ITEM_NONE",
+            "target": "SCIZOR",
+            "extra": "MEGA_VARIANT_STANDARD"
+        }
+    ],
+    "evolve_from": [
+        "SCIZOR"
+    ],
     "learnset": [
         {
             "level": 0,
@@ -106,17 +117,72 @@
             "move": "MOVE_SWORDSDANCE"
         }
     ],
-    "evolve_to": [
-        {
-            "method": "EVO_MEGA",
-            "condition": "ITEM_NONE",
-            "target": "SCIZOR",
-            "extra": "MEGA_VARIANT_STANDARD"
-        }
+    "tm": [
+        "MOVE_CALMMIND",
+        "MOVE_TOXIC",
+        "MOVE_HIDDENPOWER",
+        "MOVE_SUNNYDAY",
+        "MOVE_HYPERBEAM",
+        "MOVE_LIGHTSCREEN",
+        "MOVE_PROTECT",
+        "MOVE_RAINDANCE",
+        "MOVE_SAFEGUARD",
+        "MOVE_FRUSTRATION",
+        "MOVE_RETURN",
+        "MOVE_BRICKBREAK",
+        "MOVE_DOUBLETEAM",
+        "MOVE_SANDSTORM",
+        "MOVE_AERIALACE",
+        "MOVE_FACADE",
+        "MOVE_SECRETPOWER",
+        "MOVE_REST",
+        "MOVE_ATTRACT",
+        "MOVE_THIEF",
+        "MOVE_STEELWING",
+        "MOVE_ROOST",
+        "MOVE_FALSESWIPE",
+        "MOVE_ENDURE",
+        "MOVE_SILVERWIND",
+        "MOVE_VENOSHOCK",
+        "MOVE_GIGAIMPACT",
+        "MOVE_SWORDSDANCE",
+        "MOVE_XSCISSOR",
+        "MOVE_SLEEPTALK",
+        "MOVE_SWAGGER",
+        "MOVE_UTURN",
+        "MOVE_SUBSTITUTE",
+        "MOVE_FLASHCANNON",
+        "MOVE_STRUGGLEBUG",
+        "MOVE_BRUTALSWING",
+        "MOVE_ACROBATICS",
+        "MOVE_DEFOG",
+        "MOVE_ROUND",
+        "MOVE_NATURALGIFT",
+        "MOVE_FLING",
+        "MOVE_CUT",
+        "MOVE_STRENGTH",
+        "MOVE_ROCKSMASH"
     ],
-    "evolve_from": [
-        "SCIZOR"
-    ],
-    "tm": [],
-    "tutor": []
+    "tutor": [
+        "MOVE_SNORE",
+        "MOVE_BUGBITE",
+        "MOVE_IRONDEFENSE",
+        "MOVE_IRONHEAD",
+        "MOVE_TAILWIND",
+        "MOVE_LASERFOCUS",
+        "MOVE_SUPERPOWER",
+        "MOVE_KNOCKOFF",
+        "MOVE_CONFIDE",
+        "MOVE_FOCUSENERGY",
+        "MOVE_BATONPASS",
+        "MOVE_AGILITY",
+        "MOVE_SANDTOMB",
+        "MOVE_REVERSAL",
+        "MOVE_AIRSLASH",
+        "MOVE_BUGBUZZ",
+        "MOVE_CROSSPOISON",
+        "MOVE_PSYCHOCUT",
+        "MOVE_CLOSECOMBAT",
+        "MOVE_DUALWINGBEAT"
+    ]
 }

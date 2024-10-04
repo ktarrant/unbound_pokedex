@@ -30,6 +30,9 @@
     "noFlip": true,
     "blurb": "It stores hundreds of liters of poisonous liquid in its body. It is one of the organisms known as UBs.",
     "name": "Naganadel",
+    "evolve_from": [
+        "POIPOLE"
+    ],
     "learnset": [
         {
             "level": 0,
@@ -99,9 +102,6 @@
             "level": 70,
             "move": "MOVE_DRAGONRUSH"
         }
-    ],
-    "evolve_from": [
-        "POIPOLE"
     ],
     "tm": [
         "MOVE_DRAGONCLAW",

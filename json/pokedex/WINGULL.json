@@ -38,7 +38,16 @@
         "MOVE_SOAK",
         "MOVE_WIDEGUARD"
     ],
+    "evolve_to": [
+        {
+            "method": "EVO_LEVEL",
+            "condition": "25",
+            "target": "PELIPPER",
+            "extra": "0"
+        }
+    ],
     "name": "Wingull",
+    "evolve_from": [],
     "learnset": [
         {
             "level": 1,
@@ -97,15 +106,6 @@
             "move": "MOVE_HURRICANE"
         }
     ],
-    "evolve_to": [
-        {
-            "method": "EVO_LEVEL",
-            "condition": "25",
-            "target": "PELIPPER",
-            "extra": "0"
-        }
-    ],
-    "evolve_from": [],
     "tm": [
         "MOVE_WATERPULSE",
         "MOVE_TOXIC",

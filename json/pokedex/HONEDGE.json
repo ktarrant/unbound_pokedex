@@ -33,8 +33,17 @@
         "MOVE_WIDEGUARD",
         "MOVE_BLOCK"
     ],
+    "evolve_to": [
+        {
+            "method": "EVO_LEVEL",
+            "condition": "35",
+            "target": "DOUBLADE",
+            "extra": "0"
+        }
+    ],
     "blurb": "It is born when a departed spirit inhabits a sword. It attaches to people and drinks their life force.",
     "name": "Honedge",
+    "evolve_from": [],
     "learnset": [
         {
             "level": 1,
@@ -97,15 +106,6 @@
             "move": "MOVE_SACREDSWORD"
         }
     ],
-    "evolve_to": [
-        {
-            "method": "EVO_LEVEL",
-            "condition": "35",
-            "target": "DOUBLADE",
-            "extra": "0"
-        }
-    ],
-    "evolve_from": [],
     "tm": [
         "MOVE_TOXIC",
         "MOVE_HIDDENPOWER",

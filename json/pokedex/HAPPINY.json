@@ -42,8 +42,17 @@
         "MOVE_SEISMICTOSS",
         "MOVE_BESTOW"
     ],
+    "evolve_to": [
+        {
+            "method": "EVO_HOLD_ITEM_DAY",
+            "condition": "ITEM_OVAL_STONE",
+            "target": "CHANSEY",
+            "extra": "0"
+        }
+    ],
     "blurb": "It loves round white things. It carries an egg-shaped rock in imitation of Chansey.",
     "name": "Happiny",
+    "evolve_from": [],
     "learnset": [
         {
             "level": 1,
@@ -78,15 +87,6 @@
             "move": "MOVE_CHARM"
         }
     ],
-    "evolve_to": [
-        {
-            "method": "EVO_HOLD_ITEM_DAY",
-            "condition": "ITEM_OVAL_STONE",
-            "target": "CHANSEY",
-            "extra": "0"
-        }
-    ],
-    "evolve_from": [],
     "tm": [
         "MOVE_WATERPULSE",
         "MOVE_CALMMIND",

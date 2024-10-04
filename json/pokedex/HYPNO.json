@@ -29,6 +29,9 @@
     "hiddenAbility": "ABILITY_PSYCHICSURGE",
     "noFlip": true,
     "name": "Hypno",
+    "evolve_from": [
+        "DROWZEE"
+    ],
     "learnset": [
         {
             "level": 0,
@@ -106,9 +109,6 @@
             "level": 67,
             "move": "MOVE_SYNCHRONOISE"
         }
-    ],
-    "evolve_from": [
-        "DROWZEE"
     ],
     "tm": [
         "MOVE_FOCUSPUNCH",

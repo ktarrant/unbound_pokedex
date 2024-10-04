@@ -30,6 +30,7 @@
     "noFlip": true,
     "blurb": "An alien virus that fell to earth on a meteorite underwent a DNA mutation to become this Pok\u00e9mon.",
     "name": "Deoxys",
+    "evolve_from": [],
     "learnset": [
         {
             "level": 1,
@@ -92,7 +93,6 @@
             "move": "MOVE_METEORMASH"
         }
     ],
-    "evolve_from": [],
     "tm": [
         "MOVE_FOCUSPUNCH",
         "MOVE_WATERPULSE",

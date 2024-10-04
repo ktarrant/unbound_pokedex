@@ -28,6 +28,17 @@
     "safariZoneFleeRate": 0,
     "hiddenAbility": "ABILITY_NONE",
     "noFlip": true,
+    "evolve_to": [
+        {
+            "method": "EVO_MEGA",
+            "condition": "ITEM_NONE",
+            "target": "AMPHAROS",
+            "extra": "MEGA_VARIANT_STANDARD"
+        }
+    ],
+    "evolve_from": [
+        "AMPHAROS"
+    ],
     "learnset": [
         {
             "level": 0,
@@ -122,17 +133,69 @@
             "move": "MOVE_THUNDERCAGE"
         }
     ],
-    "evolve_to": [
-        {
-            "method": "EVO_MEGA",
-            "condition": "ITEM_NONE",
-            "target": "AMPHAROS",
-            "extra": "MEGA_VARIANT_STANDARD"
-        }
+    "tm": [
+        "MOVE_FOCUSPUNCH",
+        "MOVE_TOXIC",
+        "MOVE_HIDDENPOWER",
+        "MOVE_HYPERBEAM",
+        "MOVE_LIGHTSCREEN",
+        "MOVE_PROTECT",
+        "MOVE_RAINDANCE",
+        "MOVE_SAFEGUARD",
+        "MOVE_FRUSTRATION",
+        "MOVE_IRONTAIL",
+        "MOVE_THUNDERBOLT",
+        "MOVE_THUNDER",
+        "MOVE_RETURN",
+        "MOVE_BRICKBREAK",
+        "MOVE_DOUBLETEAM",
+        "MOVE_REFLECT",
+        "MOVE_SHOCKWAVE",
+        "MOVE_FACADE",
+        "MOVE_SECRETPOWER",
+        "MOVE_REST",
+        "MOVE_ATTRACT",
+        "MOVE_FOCUSBLAST",
+        "MOVE_CHARGEBEAM",
+        "MOVE_ENDURE",
+        "MOVE_DRAGONPULSE",
+        "MOVE_GIGAIMPACT",
+        "MOVE_FLASH",
+        "MOVE_THUNDERWAVE",
+        "MOVE_SLEEPTALK",
+        "MOVE_SWAGGER",
+        "MOVE_SUBSTITUTE",
+        "MOVE_VOLTSWITCH",
+        "MOVE_BULLDOZE",
+        "MOVE_WILDCHARGE",
+        "MOVE_POWERUPPUNCH",
+        "MOVE_BRUTALSWING",
+        "MOVE_ROUND",
+        "MOVE_ECHOEDVOICE",
+        "MOVE_NATURALGIFT",
+        "MOVE_FLING",
+        "MOVE_STRENGTH",
+        "MOVE_ROCKSMASH",
+        "MOVE_ROCKCLIMB"
     ],
-    "evolve_from": [
-        "AMPHAROS"
-    ],
-    "tm": [],
-    "tutor": []
+    "tutor": [
+        "MOVE_FIREPUNCH",
+        "MOVE_THUNDERPUNCH",
+        "MOVE_SNORE",
+        "MOVE_HEALBELL",
+        "MOVE_ELECTROWEB",
+        "MOVE_AFTERYOU",
+        "MOVE_SIGNALBEAM",
+        "MOVE_MAGNETRISE",
+        "MOVE_LASERFOCUS",
+        "MOVE_OUTRAGE",
+        "MOVE_CONFIDE",
+        "MOVE_SCREECH",
+        "MOVE_AGILITY",
+        "MOVE_ELECTRICTERRAIN",
+        "MOVE_BODYSLAM",
+        "MOVE_ELECTROBALL",
+        "MOVE_POWERGEM",
+        "MOVE_RISINGVOLTAGE"
+    ]
 }

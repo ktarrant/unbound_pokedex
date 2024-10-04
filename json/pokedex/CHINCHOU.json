@@ -40,7 +40,16 @@
         "MOVE_WATERPULSE",
         "MOVE_SOAK"
     ],
+    "evolve_to": [
+        {
+            "method": "EVO_LEVEL",
+            "condition": "27",
+            "target": "LANTURN",
+            "extra": "0"
+        }
+    ],
     "name": "Chinchou",
+    "evolve_from": [],
     "learnset": [
         {
             "level": 1,
@@ -107,15 +116,6 @@
             "move": "MOVE_IONDELUGE"
         }
     ],
-    "evolve_to": [
-        {
-            "method": "EVO_LEVEL",
-            "condition": "27",
-            "target": "LANTURN",
-            "extra": "0"
-        }
-    ],
-    "evolve_from": [],
     "tm": [
         "MOVE_WATERPULSE",
         "MOVE_TOXIC",

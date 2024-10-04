@@ -30,6 +30,7 @@
     "noFlip": true,
     "blurb": "Legends in snowy regions say that a woman who was lost on an icy mountain was reborn as Froslass.",
     "name": "Froslass",
+    "evolve_from": [],
     "learnset": [
         {
             "level": 0,
@@ -132,7 +133,6 @@
             "move": "MOVE_BLIZZARD"
         }
     ],
-    "evolve_from": [],
     "tm": [
         "MOVE_WATERPULSE",
         "MOVE_TOXIC",

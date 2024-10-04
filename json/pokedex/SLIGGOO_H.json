@@ -28,8 +28,17 @@
     "safariZoneFleeRate": 0,
     "hiddenAbility": "ABILITY_GOOEY",
     "noFlip": true,
+    "evolve_to": [
+        {
+            "method": "EVO_RAINY_FOGGY_OW",
+            "condition": "50",
+            "target": "GOODRA_H",
+            "extra": "0"
+        }
+    ],
     "blurb": "It is said its metallic shell developed as a result of the mucus on its skin reacting with the iron in ancient water.",
     "name": "Sliggoo",
+    "evolve_from": [],
     "learnset": [
         {
             "level": 1,
@@ -88,15 +97,6 @@
             "move": "MOVE_SHELTER"
         }
     ],
-    "evolve_to": [
-        {
-            "method": "EVO_RAINY_FOGGY_OW",
-            "condition": "50",
-            "target": "GOODRA_H",
-            "extra": "0"
-        }
-    ],
-    "evolve_from": [],
     "tm": [
         "MOVE_WATERPULSE",
         "MOVE_TOXIC",

@@ -28,7 +28,6 @@
     "safariZoneFleeRate": 0,
     "hiddenAbility": "ABILITY_HEATPROOF",
     "noFlip": true,
-    "name": "Groudon",
     "evolve_to": [
         {
             "method": "EVO_MEGA",
@@ -37,64 +36,7 @@
             "extra": "MEGA_VARIANT_PRIMAL"
         }
     ],
-    "learnset": [
-        {
-            "level": 1,
-            "move": "MOVE_MUDSHOT"
-        },
-        {
-            "level": 1,
-            "move": "MOVE_ANCIENTPOWER"
-        },
-        {
-            "level": 1,
-            "move": "MOVE_LAVAPLUME"
-        },
-        {
-            "level": 1,
-            "move": "MOVE_SCARYFACE"
-        },
-        {
-            "level": 9,
-            "move": "MOVE_EARTHPOWER"
-        },
-        {
-            "level": 18,
-            "move": "MOVE_BULKUP"
-        },
-        {
-            "level": 27,
-            "move": "MOVE_EARTHQUAKE"
-        },
-        {
-            "level": 36,
-            "move": "MOVE_HAMMERARM"
-        },
-        {
-            "level": 45,
-            "move": "MOVE_FISSURE"
-        },
-        {
-            "level": 54,
-            "move": "MOVE_REST"
-        },
-        {
-            "level": 63,
-            "move": "MOVE_PRECIPICEBLADES"
-        },
-        {
-            "level": 72,
-            "move": "MOVE_FIREBLAST"
-        },
-        {
-            "level": 81,
-            "move": "MOVE_SOLARBEAM"
-        },
-        {
-            "level": 90,
-            "move": "MOVE_ERUPTION"
-        }
-    ],
+    "name": "Groudon",
     "evolve_from": [
         "GROUDON_PRIMAL"
     ],
@@ -174,5 +116,63 @@
         "MOVE_HEAVYSLAM",
         "MOVE_HIGHHORSEPOWER",
         "MOVE_SCORCHINGSANDS"
+    ],
+    "learnset": [
+        {
+            "level": 1,
+            "move": "MOVE_MUDSHOT"
+        },
+        {
+            "level": 1,
+            "move": "MOVE_ANCIENTPOWER"
+        },
+        {
+            "level": 1,
+            "move": "MOVE_LAVAPLUME"
+        },
+        {
+            "level": 1,
+            "move": "MOVE_SCARYFACE"
+        },
+        {
+            "level": 9,
+            "move": "MOVE_EARTHPOWER"
+        },
+        {
+            "level": 18,
+            "move": "MOVE_BULKUP"
+        },
+        {
+            "level": 27,
+            "move": "MOVE_EARTHQUAKE"
+        },
+        {
+            "level": 36,
+            "move": "MOVE_HAMMERARM"
+        },
+        {
+            "level": 45,
+            "move": "MOVE_FISSURE"
+        },
+        {
+            "level": 54,
+            "move": "MOVE_REST"
+        },
+        {
+            "level": 63,
+            "move": "MOVE_PRECIPICEBLADES"
+        },
+        {
+            "level": 72,
+            "move": "MOVE_FIREBLAST"
+        },
+        {
+            "level": 81,
+            "move": "MOVE_SOLARBEAM"
+        },
+        {
+            "level": 90,
+            "move": "MOVE_ERUPTION"
+        }
     ]
 }

@@ -28,7 +28,18 @@
     "safariZoneFleeRate": 125,
     "hiddenAbility": "ABILITY_MARVELSCALE",
     "noFlip": true,
+    "evolve_to": [
+        {
+            "method": "EVO_LEVEL",
+            "condition": "55",
+            "target": "DRAGONITE",
+            "extra": "0"
+        }
+    ],
     "name": "Dragonair",
+    "evolve_from": [
+        "DRATINI"
+    ],
     "learnset": [
         {
             "level": 1,
@@ -90,17 +101,6 @@
             "level": 74,
             "move": "MOVE_HYPERBEAM"
         }
-    ],
-    "evolve_to": [
-        {
-            "method": "EVO_LEVEL",
-            "condition": "55",
-            "target": "DRAGONITE",
-            "extra": "0"
-        }
-    ],
-    "evolve_from": [
-        "DRATINI"
     ],
     "tm": [
         "MOVE_WATERPULSE",

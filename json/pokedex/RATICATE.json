@@ -29,6 +29,9 @@
     "hiddenAbility": "ABILITY_HUSTLE",
     "noFlip": true,
     "name": "Raticate",
+    "evolve_from": [
+        "RATTATA"
+    ],
     "learnset": [
         {
             "level": 0,
@@ -98,9 +101,6 @@
             "level": 49,
             "move": "MOVE_ENDEAVOR"
         }
-    ],
-    "evolve_from": [
-        "RATTATA"
     ],
     "tm": [
         "MOVE_ROAR",

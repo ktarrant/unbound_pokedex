@@ -30,6 +30,7 @@
     "noFlip": true,
     "blurb": "Legends say this Pok\u00e9mon confounded opponents with its swift movements.",
     "name": "Virizion",
+    "evolve_from": [],
     "learnset": [
         {
             "level": 1,
@@ -88,7 +89,6 @@
             "move": "MOVE_CLOSECOMBAT"
         }
     ],
-    "evolve_from": [],
     "tm": [
         "MOVE_CALMMIND",
         "MOVE_ROAR",

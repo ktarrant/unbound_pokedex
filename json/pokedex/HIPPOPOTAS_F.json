@@ -28,6 +28,15 @@
     "safariZoneFleeRate": 0,
     "hiddenAbility": "ABILITY_SANDFORCE",
     "noFlip": true,
+    "evolve_to": [
+        {
+            "method": "EVO_LEVEL",
+            "condition": "34",
+            "target": "HIPPOWDON_F",
+            "extra": "0"
+        }
+    ],
+    "evolve_from": [],
     "learnset": [
         {
             "level": 1,
@@ -90,15 +99,6 @@
             "move": "MOVE_SLACKOFF"
         }
     ],
-    "evolve_to": [
-        {
-            "method": "EVO_LEVEL",
-            "condition": "34",
-            "target": "HIPPOWDON_F",
-            "extra": "0"
-        }
-    ],
-    "evolve_from": [],
     "tm": [
         "MOVE_WATERPULSE",
         "MOVE_ROAR",

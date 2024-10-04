@@ -42,7 +42,16 @@
         "MOVE_STEALTHROCK",
         "MOVE_IRONTAIL"
     ],
+    "evolve_to": [
+        {
+            "method": "EVO_LEVEL",
+            "condition": "30",
+            "target": "PUPITAR",
+            "extra": "0"
+        }
+    ],
     "name": "Larvitar",
+    "evolve_from": [],
     "learnset": [
         {
             "level": 1,
@@ -117,15 +126,6 @@
             "move": "MOVE_HYPERBEAM"
         }
     ],
-    "evolve_to": [
-        {
-            "method": "EVO_LEVEL",
-            "condition": "30",
-            "target": "PUPITAR",
-            "extra": "0"
-        }
-    ],
-    "evolve_from": [],
     "tm": [
         "MOVE_TOXIC",
         "MOVE_HIDDENPOWER",

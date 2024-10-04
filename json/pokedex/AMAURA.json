@@ -37,8 +37,17 @@
         "MOVE_TAKEDOWN",
         "MOVE_REFLECTTYPE"
     ],
+    "evolve_to": [
+        {
+            "method": "EVO_LEVEL_NIGHT",
+            "condition": "39",
+            "target": "AURORUS",
+            "extra": "0"
+        }
+    ],
     "blurb": "This calm Pok\u00e9mon lived in a cold land where there were no violent predators like Tyrantrum.",
     "name": "Amaura",
+    "evolve_from": [],
     "learnset": [
         {
             "level": 1,
@@ -109,15 +118,6 @@
             "move": "MOVE_HYPERBEAM"
         }
     ],
-    "evolve_to": [
-        {
-            "method": "EVO_LEVEL_NIGHT",
-            "condition": "39",
-            "target": "AURORUS",
-            "extra": "0"
-        }
-    ],
-    "evolve_from": [],
     "tm": [
         "MOVE_WATERPULSE",
         "MOVE_CALMMIND",

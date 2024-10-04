@@ -46,6 +46,7 @@
     ],
     "blurb": "It's one of the kinds of Pok\u00e9mon with electric cheek pouches. It shoots charges from its tail.",
     "name": "Pachirisu",
+    "evolve_from": [],
     "learnset": [
         {
             "level": 1,
@@ -112,7 +113,6 @@
             "move": "MOVE_SUPERFANG"
         }
     ],
-    "evolve_from": [],
     "tm": [
         "MOVE_TOXIC",
         "MOVE_HIDDENPOWER",

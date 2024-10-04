@@ -44,6 +44,15 @@
         "MOVE_MIST",
         "MOVE_ACIDARMOR"
     ],
+    "evolve_to": [
+        {
+            "method": "EVO_LEVEL",
+            "condition": "30",
+            "target": "GASTRODON_EAST",
+            "extra": "0"
+        }
+    ],
+    "evolve_from": [],
     "learnset": [
         {
             "level": 1,
@@ -106,15 +115,6 @@
             "move": "MOVE_RECOVER"
         }
     ],
-    "evolve_to": [
-        {
-            "method": "EVO_LEVEL",
-            "condition": "30",
-            "target": "GASTRODON_EAST",
-            "extra": "0"
-        }
-    ],
-    "evolve_from": [],
     "tm": [
         "MOVE_WATERPULSE",
         "MOVE_TOXIC",

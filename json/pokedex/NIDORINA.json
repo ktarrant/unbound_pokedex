@@ -28,7 +28,18 @@
     "safariZoneFleeRate": 75,
     "hiddenAbility": "ABILITY_HUSTLE",
     "noFlip": true,
+    "evolve_to": [
+        {
+            "method": "EVO_ITEM",
+            "condition": "ITEM_MOON_STONE",
+            "target": "NIDOQUEEN",
+            "extra": "0"
+        }
+    ],
     "name": "Nidorina",
+    "evolve_from": [
+        "NIDORAN_F"
+    ],
     "learnset": [
         {
             "level": 1,
@@ -90,17 +101,6 @@
             "level": 57,
             "move": "MOVE_EARTHPOWER"
         }
-    ],
-    "evolve_to": [
-        {
-            "method": "EVO_ITEM",
-            "condition": "ITEM_MOON_STONE",
-            "target": "NIDOQUEEN",
-            "extra": "0"
-        }
-    ],
-    "evolve_from": [
-        "NIDORAN_F"
     ],
     "tm": [
         "MOVE_WATERPULSE",

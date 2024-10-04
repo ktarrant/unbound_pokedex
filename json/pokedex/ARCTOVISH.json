@@ -30,6 +30,7 @@
     "noFlip": true,
     "blurb": "The skin on its face is impervious to attack, but breathing difficulties made it go extinct anyway.",
     "name": "Arctovish",
+    "evolve_from": [],
     "learnset": [
         {
             "level": 1,
@@ -84,7 +85,6 @@
             "move": "MOVE_BLIZZARD"
         }
     ],
-    "evolve_from": [],
     "tm": [
         "MOVE_WATERPULSE",
         "MOVE_ROAR",

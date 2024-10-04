@@ -36,6 +36,7 @@
     ],
     "blurb": "Its skin is thick enough to fend off spikes. With its robust teeth, it crunches up and eats the spikes.",
     "name": "Bruxish",
+    "evolve_from": [],
     "learnset": [
         {
             "level": 1,
@@ -86,7 +87,6 @@
             "move": "MOVE_SYNCHRONOISE"
         }
     ],
-    "evolve_from": [],
     "tm": [
         "MOVE_WATERPULSE",
         "MOVE_CALMMIND",

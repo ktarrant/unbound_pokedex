@@ -30,6 +30,7 @@
     "noFlip": true,
     "blurb": "It melts particles of iron and other metals found in the subsoil, so it can absorb them into its molten steel body.",
     "name": "Meltan",
+    "evolve_from": [],
     "learnset": [
         {
             "level": 1,
@@ -60,7 +61,6 @@
             "move": "MOVE_FLASHCANNON"
         }
     ],
-    "evolve_from": [],
     "tm": [
         "MOVE_TOXIC",
         "MOVE_HIDDENPOWER",

@@ -29,6 +29,9 @@
     "hiddenAbility": "ABILITY_RAINDISH",
     "noFlip": true,
     "name": "Tentacruel",
+    "evolve_from": [
+        "TENTACOOL"
+    ],
     "learnset": [
         {
             "level": 1,
@@ -110,9 +113,6 @@
             "level": 64,
             "move": "MOVE_WRINGOUT"
         }
-    ],
-    "evolve_from": [
-        "TENTACOOL"
     ],
     "tm": [
         "MOVE_WATERPULSE",

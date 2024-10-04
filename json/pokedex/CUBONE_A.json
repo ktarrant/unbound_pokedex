@@ -42,6 +42,15 @@
         "MOVE_CURSE",
         "MOVE_THRASH"
     ],
+    "evolve_to": [
+        {
+            "method": "EVO_LEVEL_NIGHT",
+            "condition": "28",
+            "target": "MAROWAK_A",
+            "extra": "0"
+        }
+    ],
+    "evolve_from": [],
     "learnset": [
         {
             "level": 1,
@@ -108,15 +117,6 @@
             "move": "MOVE_DOUBLEEDGE"
         }
     ],
-    "evolve_to": [
-        {
-            "method": "EVO_LEVEL_NIGHT",
-            "condition": "28",
-            "target": "MAROWAK_A",
-            "extra": "0"
-        }
-    ],
-    "evolve_from": [],
     "tm": [
         "MOVE_SUNNYDAY",
         "MOVE_ICEBEAM",

@@ -30,6 +30,9 @@
     "noFlip": true,
     "blurb": "For self-protection, it pretends to be a bug Pok\u00e9mon. Both of its arms bear keen-edged petals.",
     "name": "Lurantis",
+    "evolve_from": [
+        "FOMANTIS"
+    ],
     "learnset": [
         {
             "level": 0,
@@ -99,9 +102,6 @@
             "level": 63,
             "move": "MOVE_SOLARBLADE"
         }
-    ],
-    "evolve_from": [
-        "FOMANTIS"
     ],
     "tm": [
         "MOVE_TOXIC",

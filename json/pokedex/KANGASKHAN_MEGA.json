@@ -28,6 +28,17 @@
     "safariZoneFleeRate": 125,
     "hiddenAbility": "ABILITY_NONE",
     "noFlip": true,
+    "evolve_to": [
+        {
+            "method": "EVO_MEGA",
+            "condition": "ITEM_NONE",
+            "target": "KANGASKHAN",
+            "extra": "MEGA_VARIANT_STANDARD"
+        }
+    ],
+    "evolve_from": [
+        "KANGASKHAN"
+    ],
     "learnset": [
         {
             "level": 1,
@@ -106,17 +117,86 @@
             "move": "MOVE_OUTRAGE"
         }
     ],
-    "evolve_to": [
-        {
-            "method": "EVO_MEGA",
-            "condition": "ITEM_NONE",
-            "target": "KANGASKHAN",
-            "extra": "MEGA_VARIANT_STANDARD"
-        }
+    "tm": [
+        "MOVE_FOCUSPUNCH",
+        "MOVE_WATERPULSE",
+        "MOVE_ROAR",
+        "MOVE_TOXIC",
+        "MOVE_HAIL",
+        "MOVE_HIDDENPOWER",
+        "MOVE_SUNNYDAY",
+        "MOVE_ICEBEAM",
+        "MOVE_BLIZZARD",
+        "MOVE_HYPERBEAM",
+        "MOVE_PROTECT",
+        "MOVE_RAINDANCE",
+        "MOVE_SAFEGUARD",
+        "MOVE_FRUSTRATION",
+        "MOVE_SOLARBEAM",
+        "MOVE_IRONTAIL",
+        "MOVE_THUNDERBOLT",
+        "MOVE_THUNDER",
+        "MOVE_EARTHQUAKE",
+        "MOVE_RETURN",
+        "MOVE_DIG",
+        "MOVE_SHADOWBALL",
+        "MOVE_BRICKBREAK",
+        "MOVE_DOUBLETEAM",
+        "MOVE_SHOCKWAVE",
+        "MOVE_FLAMETHROWER",
+        "MOVE_SANDSTORM",
+        "MOVE_FIREBLAST",
+        "MOVE_ROCKTOMB",
+        "MOVE_AERIALACE",
+        "MOVE_FACADE",
+        "MOVE_SECRETPOWER",
+        "MOVE_REST",
+        "MOVE_ATTRACT",
+        "MOVE_THIEF",
+        "MOVE_FOCUSBLAST",
+        "MOVE_ENDURE",
+        "MOVE_DRAINPUNCH",
+        "MOVE_SHADOWCLAW",
+        "MOVE_GIGAIMPACT",
+        "MOVE_AVALANCHE",
+        "MOVE_ROCKSLIDE",
+        "MOVE_SLEEPTALK",
+        "MOVE_SWAGGER",
+        "MOVE_SUBSTITUTE",
+        "MOVE_INCINERATE",
+        "MOVE_BULLDOZE",
+        "MOVE_WORKUP",
+        "MOVE_POWERUPPUNCH",
+        "MOVE_ROUND",
+        "MOVE_NATURALGIFT",
+        "MOVE_FLING",
+        "MOVE_CUT",
+        "MOVE_SURF",
+        "MOVE_STRENGTH",
+        "MOVE_ROCKSMASH",
+        "MOVE_ROCKCLIMB"
     ],
-    "evolve_from": [
-        "KANGASKHAN"
-    ],
-    "tm": [],
-    "tutor": []
+    "tutor": [
+        "MOVE_FIREPUNCH",
+        "MOVE_ICEPUNCH",
+        "MOVE_THUNDERPUNCH",
+        "MOVE_SNORE",
+        "MOVE_LOWKICK",
+        "MOVE_UPROAR",
+        "MOVE_HELPINGHAND",
+        "MOVE_COVET",
+        "MOVE_SPITE",
+        "MOVE_AQUATAIL",
+        "MOVE_ENDEAVOR",
+        "MOVE_ICYWIND",
+        "MOVE_OUTRAGE",
+        "MOVE_CONFIDE",
+        "MOVE_FOCUSENERGY",
+        "MOVE_WHIRLPOOL",
+        "MOVE_BODYSLAM",
+        "MOVE_REVERSAL",
+        "MOVE_CRUNCH",
+        "MOVE_HYDROPUMP",
+        "MOVE_TERRAINPULSE"
+    ]
 }

@@ -30,6 +30,7 @@
     "noFlip": true,
     "blurb": "It is born with a wondrous power that lets it bond with any kind of Pok\u00e9mon.",
     "name": "Manaphy",
+    "evolve_from": [],
     "learnset": [
         {
             "level": 1,
@@ -96,7 +97,6 @@
             "move": "MOVE_TAILGLOW"
         }
     ],
-    "evolve_from": [],
     "tm": [
         "MOVE_WATERPULSE",
         "MOVE_CALMMIND",

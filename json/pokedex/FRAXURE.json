@@ -28,8 +28,19 @@
     "safariZoneFleeRate": 0,
     "hiddenAbility": "ABILITY_UNNERVE",
     "noFlip": true,
+    "evolve_to": [
+        {
+            "method": "EVO_LEVEL",
+            "condition": "48",
+            "target": "HAXORUS",
+            "extra": "0"
+        }
+    ],
     "blurb": "Their tusks can shatter rocks. Territory battles between Fraxure can be intensely violent.",
     "name": "Fraxure",
+    "evolve_from": [
+        "AXEW"
+    ],
     "learnset": [
         {
             "level": 1,
@@ -103,17 +114,6 @@
             "level": 61,
             "move": "MOVE_GIGAIMPACT"
         }
-    ],
-    "evolve_to": [
-        {
-            "method": "EVO_LEVEL",
-            "condition": "48",
-            "target": "HAXORUS",
-            "extra": "0"
-        }
-    ],
-    "evolve_from": [
-        "AXEW"
     ],
     "tm": [
         "MOVE_DRAGONCLAW",

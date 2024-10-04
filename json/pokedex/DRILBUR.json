@@ -36,8 +36,17 @@
         "MOVE_SKULLBASH",
         "MOVE_ROCKCLIMB"
     ],
+    "evolve_to": [
+        {
+            "method": "EVO_LEVEL",
+            "condition": "31",
+            "target": "EXCADRILL",
+            "extra": "0"
+        }
+    ],
     "blurb": "By spinning its body, it can dig straight through the ground at a speed of 30 mph.",
     "name": "Drilbur",
+    "evolve_from": [],
     "learnset": [
         {
             "level": 1,
@@ -104,15 +113,6 @@
             "move": "MOVE_FISSURE"
         }
     ],
-    "evolve_to": [
-        {
-            "method": "EVO_LEVEL",
-            "condition": "31",
-            "target": "EXCADRILL",
-            "extra": "0"
-        }
-    ],
-    "evolve_from": [],
     "tm": [
         "MOVE_TOXIC",
         "MOVE_HIDDENPOWER",

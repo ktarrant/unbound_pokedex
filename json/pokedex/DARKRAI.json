@@ -30,6 +30,7 @@
     "noFlip": true,
     "blurb": "To protect itself, it afflicts those around it with nightmares. However, it means no harm.",
     "name": "Darkrai",
+    "evolve_from": [],
     "learnset": [
         {
             "level": 1,
@@ -100,7 +101,6 @@
             "move": "MOVE_NASTYPLOT"
         }
     ],
-    "evolve_from": [],
     "tm": [
         "MOVE_FOCUSPUNCH",
         "MOVE_CALMMIND",

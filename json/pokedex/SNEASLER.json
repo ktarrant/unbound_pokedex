@@ -30,6 +30,9 @@
     "noFlip": true,
     "blurb": "It has virulent poison and daunting physical prowess. Preferring solitude, this species does not form packs.",
     "name": "Sneasler",
+    "evolve_from": [
+        "SNEASEL_H"
+    ],
     "learnset": [
         {
             "level": 1,
@@ -103,9 +106,6 @@
             "level": 68,
             "move": "MOVE_CLOSECOMBAT"
         }
-    ],
-    "evolve_from": [
-        "SNEASEL_H"
     ],
     "tm": [
         "MOVE_FOCUSPUNCH",

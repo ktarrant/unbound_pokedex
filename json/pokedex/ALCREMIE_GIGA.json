@@ -28,7 +28,24 @@
     "safariZoneFleeRate": 0,
     "hiddenAbility": "ABILITY_AROMAVEIL",
     "noFlip": true,
+    "evolve_to": [
+        {
+            "method": "EVO_GIGANTAMAX",
+            "condition": "FALSE",
+            "target": "ALCREMIE_STRAWBERRY",
+            "extra": "0"
+        }
+    ],
     "name": "Alcremie",
+    "evolve_from": [
+        "ALCREMIE_STRAWBERRY",
+        "ALCREMIE_BERRY",
+        "ALCREMIE_LOVE",
+        "ALCREMIE_CLOVER",
+        "ALCREMIE_FLOWER",
+        "ALCREMIE_RIBBON",
+        "ALCREMIE_STAR"
+    ],
     "learnset": [
         {
             "level": 0,
@@ -83,23 +100,54 @@
             "move": "MOVE_ENTRAINMENT"
         }
     ],
-    "evolve_to": [
-        {
-            "method": "EVO_GIGANTAMAX",
-            "condition": "FALSE",
-            "target": "ALCREMIE_STRAWBERRY",
-            "extra": "0"
-        }
+    "tm": [
+        "MOVE_CALMMIND",
+        "MOVE_TOXIC",
+        "MOVE_HIDDENPOWER",
+        "MOVE_HYPERBEAM",
+        "MOVE_LIGHTSCREEN",
+        "MOVE_PROTECT",
+        "MOVE_GIGADRAIN",
+        "MOVE_SAFEGUARD",
+        "MOVE_FRUSTRATION",
+        "MOVE_SOLARBEAM",
+        "MOVE_RETURN",
+        "MOVE_PSYCHIC",
+        "MOVE_DOUBLETEAM",
+        "MOVE_FACADE",
+        "MOVE_SECRETPOWER",
+        "MOVE_REST",
+        "MOVE_ATTRACT",
+        "MOVE_ENERGYBALL",
+        "MOVE_ENDURE",
+        "MOVE_DRAINPUNCH",
+        "MOVE_RECYCLE",
+        "MOVE_GIGAIMPACT",
+        "MOVE_FLASH",
+        "MOVE_SLEEPTALK",
+        "MOVE_DREAMEATER",
+        "MOVE_SWAGGER",
+        "MOVE_SUBSTITUTE",
+        "MOVE_DAZZLINGGLEAM",
+        "MOVE_PSYSHOCK",
+        "MOVE_DRAININGKISS",
+        "MOVE_ROUND",
+        "MOVE_NATURALGIFT",
+        "MOVE_FLING"
     ],
-    "evolve_from": [
-        "ALCREMIE_STRAWBERRY",
-        "ALCREMIE_BERRY",
-        "ALCREMIE_LOVE",
-        "ALCREMIE_CLOVER",
-        "ALCREMIE_FLOWER",
-        "ALCREMIE_RIBBON",
-        "ALCREMIE_STAR"
-    ],
-    "tm": [],
-    "tutor": []
+    "tutor": [
+        "MOVE_SNORE",
+        "MOVE_HELPINGHAND",
+        "MOVE_MAGICROOM",
+        "MOVE_WONDERROOM",
+        "MOVE_LASTRESORT",
+        "MOVE_CONFIDE",
+        "MOVE_ENCORE",
+        "MOVE_FAKETEARS",
+        "MOVE_MISTYTERRAIN",
+        "MOVE_STOREDPOWER",
+        "MOVE_MYSTICALFIRE",
+        "MOVE_PLAYROUGH",
+        "MOVE_MISTYEXPLOSION"
+    ]
 }

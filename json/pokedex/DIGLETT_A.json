@@ -42,7 +42,16 @@
         "MOVE_MEMENTO",
         "MOVE_HONECLAWS"
     ],
+    "evolve_to": [
+        {
+            "method": "EVO_LEVEL",
+            "condition": "26",
+            "target": "DUGTRIO_A",
+            "extra": "0"
+        }
+    ],
     "blurb": "Its golden hairs function as sensors. It pokes them out of its burrow to monitor its surroundings.",
+    "evolve_from": [],
     "learnset": [
         {
             "level": 1,
@@ -105,15 +114,6 @@
             "move": "MOVE_FISSURE"
         }
     ],
-    "evolve_to": [
-        {
-            "method": "EVO_LEVEL",
-            "condition": "26",
-            "target": "DUGTRIO_A",
-            "extra": "0"
-        }
-    ],
-    "evolve_from": [],
     "tm": [
         "MOVE_TOXIC",
         "MOVE_HIDDENPOWER",

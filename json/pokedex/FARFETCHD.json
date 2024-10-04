@@ -51,6 +51,7 @@
         "MOVE_WISH"
     ],
     "name": "Farfetch'd",
+    "evolve_from": [],
     "learnset": [
         {
             "level": 1,
@@ -129,7 +130,6 @@
             "move": "MOVE_METEORASSAULT"
         }
     ],
-    "evolve_from": [],
     "tm": [
         "MOVE_TOXIC",
         "MOVE_HIDDENPOWER",

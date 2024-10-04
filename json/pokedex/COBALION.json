@@ -30,6 +30,7 @@
     "noFlip": true,
     "blurb": "It has a body and heart of steel. Its glare is sufficient to make even an unruly Pok\u00e9mon obey it.",
     "name": "Cobalion",
+    "evolve_from": [],
     "learnset": [
         {
             "level": 1,
@@ -88,7 +89,6 @@
             "move": "MOVE_CLOSECOMBAT"
         }
     ],
-    "evolve_from": [],
     "tm": [
         "MOVE_CALMMIND",
         "MOVE_ROAR",

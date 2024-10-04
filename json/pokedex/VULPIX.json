@@ -44,7 +44,16 @@
         "MOVE_ROAR",
         "MOVE_FLAMECHARGE"
     ],
+    "evolve_to": [
+        {
+            "method": "EVO_ITEM",
+            "condition": "ITEM_FIRE_STONE",
+            "target": "NINETALES",
+            "extra": "0"
+        }
+    ],
     "name": "Vulpix",
+    "evolve_from": [],
     "learnset": [
         {
             "level": 1,
@@ -119,15 +128,6 @@
             "move": "MOVE_FIREBLAST"
         }
     ],
-    "evolve_to": [
-        {
-            "method": "EVO_ITEM",
-            "condition": "ITEM_FIRE_STONE",
-            "target": "NINETALES",
-            "extra": "0"
-        }
-    ],
-    "evolve_from": [],
     "tm": [
         "MOVE_ROAR",
         "MOVE_TOXIC",

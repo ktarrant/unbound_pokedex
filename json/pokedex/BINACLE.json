@@ -34,8 +34,17 @@
         "MOVE_HELPINGHAND",
         "MOVE_WATERSPORT"
     ],
+    "evolve_to": [
+        {
+            "method": "EVO_LEVEL",
+            "condition": "36",
+            "target": "BARBARACLE",
+            "extra": "0"
+        }
+    ],
     "blurb": "Two Binacle live together on one rock. When they fight, one of them will move to a different rock.",
     "name": "Binacle",
+    "evolve_from": [],
     "learnset": [
         {
             "level": 1,
@@ -114,15 +123,6 @@
             "move": "MOVE_SHELLSMASH"
         }
     ],
-    "evolve_to": [
-        {
-            "method": "EVO_LEVEL",
-            "condition": "36",
-            "target": "BARBARACLE",
-            "extra": "0"
-        }
-    ],
-    "evolve_from": [],
     "tm": [
         "MOVE_WATERPULSE",
         "MOVE_TOXIC",

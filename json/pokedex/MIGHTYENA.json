@@ -29,6 +29,9 @@
     "hiddenAbility": "ABILITY_MOXIE",
     "noFlip": true,
     "name": "Mightyena",
+    "evolve_from": [
+        "POOCHYENA"
+    ],
     "learnset": [
         {
             "level": 0,
@@ -122,9 +125,6 @@
             "level": 60,
             "move": "MOVE_PLAYROUGH"
         }
-    ],
-    "evolve_from": [
-        "POOCHYENA"
     ],
     "tm": [
         "MOVE_ROAR",

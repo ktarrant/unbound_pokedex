@@ -30,6 +30,9 @@
     "noFlip": true,
     "blurb": "It evolved after experiencing numerous fights. While crossing its arms, it lets out a shout that'd make anyone flinch.",
     "name": "Obstagoon",
+    "evolve_from": [
+        "LINOONE_G"
+    ],
     "learnset": [
         {
             "level": 0,
@@ -127,9 +130,6 @@
             "level": 68,
             "move": "MOVE_CROSSCHOP"
         }
-    ],
-    "evolve_from": [
-        "LINOONE_G"
     ],
     "tm": [
         "MOVE_FOCUSPUNCH",

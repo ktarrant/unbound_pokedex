@@ -30,6 +30,9 @@
     "noFlip": true,
     "blurb": "When its fighting spirit is set alight, the flames around its waist become especially intense.",
     "name": "Incineroar",
+    "evolve_from": [
+        "TORRACAT"
+    ],
     "learnset": [
         {
             "level": 0,
@@ -119,9 +122,6 @@
             "level": 67,
             "move": "MOVE_CROSSCHOP"
         }
-    ],
-    "evolve_from": [
-        "TORRACAT"
     ],
     "tm": [
         "MOVE_FOCUSPUNCH",

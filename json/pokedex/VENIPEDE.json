@@ -36,8 +36,17 @@
         "MOVE_BITE",
         "MOVE_FURYCUTTER"
     ],
+    "evolve_to": [
+        {
+            "method": "EVO_LEVEL",
+            "condition": "22",
+            "target": "WHIRLIPEDE",
+            "extra": "0"
+        }
+    ],
     "blurb": "Its bite injects a potent poison, enough to paralyze large bird Pok\u00e9mon that try to prey on it.",
     "name": "Venipede",
+    "evolve_from": [],
     "learnset": [
         {
             "level": 1,
@@ -108,15 +117,6 @@
             "move": "MOVE_DOUBLEEDGE"
         }
     ],
-    "evolve_to": [
-        {
-            "method": "EVO_LEVEL",
-            "condition": "22",
-            "target": "WHIRLIPEDE",
-            "extra": "0"
-        }
-    ],
-    "evolve_from": [],
     "tm": [
         "MOVE_TOXIC",
         "MOVE_HIDDENPOWER",

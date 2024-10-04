@@ -29,6 +29,9 @@
     "hiddenAbility": "ABILITY_WONDERSKIN",
     "noFlip": true,
     "name": "Delcatty",
+    "evolve_from": [
+        "SKITTY"
+    ],
     "learnset": [
         {
             "level": 1,
@@ -106,9 +109,6 @@
             "level": 46,
             "move": "MOVE_PLAYROUGH"
         }
-    ],
-    "evolve_from": [
-        "SKITTY"
     ],
     "tm": [
         "MOVE_WATERPULSE",

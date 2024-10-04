@@ -29,6 +29,9 @@
     "hiddenAbility": "ABILITY_OVERCOAT",
     "noFlip": true,
     "name": "Cloyster",
+    "evolve_from": [
+        "SHELLDER"
+    ],
     "learnset": [
         {
             "level": 0,
@@ -118,9 +121,6 @@
             "level": 62,
             "move": "MOVE_SHELLSMASH"
         }
-    ],
-    "evolve_from": [
-        "SHELLDER"
     ],
     "tm": [
         "MOVE_WATERPULSE",

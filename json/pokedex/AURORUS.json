@@ -30,6 +30,9 @@
     "noFlip": true,
     "blurb": "This usually quiet and kindly Pok\u00e9mon has a surface temperature of around -240 degrees Fahrenheit.",
     "name": "Aurorus",
+    "evolve_from": [
+        "AMAURA"
+    ],
     "learnset": [
         {
             "level": 1,
@@ -99,9 +102,6 @@
             "level": 66,
             "move": "MOVE_HYPERBEAM"
         }
-    ],
-    "evolve_from": [
-        "AMAURA"
     ],
     "tm": [
         "MOVE_WATERPULSE",

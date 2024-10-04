@@ -29,6 +29,9 @@
     "hiddenAbility": "ABILITY_SANDFORCE",
     "noFlip": true,
     "name": "Dugtrio",
+    "evolve_from": [
+        "DIGLETT"
+    ],
     "learnset": [
         {
             "level": 0,
@@ -110,9 +113,6 @@
             "level": 54,
             "move": "MOVE_FISSURE"
         }
-    ],
-    "evolve_from": [
-        "DIGLETT"
     ],
     "tm": [
         "MOVE_TOXIC",

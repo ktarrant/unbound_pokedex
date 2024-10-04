@@ -42,8 +42,17 @@
         "MOVE_MISTYTERRAIN",
         "MOVE_NATUREPOWER"
     ],
+    "evolve_to": [
+        {
+            "method": "EVO_ITEM",
+            "condition": "ITEM_SUN_STONE",
+            "target": "WHIMSICOTT",
+            "extra": "0"
+        }
+    ],
     "blurb": "When attacked, it escapes by shooting cotton from its body to serve as a decoy to distract the attacker.",
     "name": "Cottonee",
+    "evolve_from": [],
     "learnset": [
         {
             "level": 1,
@@ -114,15 +123,6 @@
             "move": "MOVE_SOLARBEAM"
         }
     ],
-    "evolve_to": [
-        {
-            "method": "EVO_ITEM",
-            "condition": "ITEM_SUN_STONE",
-            "target": "WHIMSICOTT",
-            "extra": "0"
-        }
-    ],
-    "evolve_from": [],
     "tm": [
         "MOVE_TOXIC",
         "MOVE_HIDDENPOWER",

@@ -28,8 +28,6 @@
     "safariZoneFleeRate": 0,
     "hiddenAbility": "ABILITY_FLASHFIRE",
     "noFlip": true,
-    "blurb": "While engaged in battle, its mountain of coal will burn bright red, scorching the surrounding area with sparks.",
-    "name": "Coalossal",
     "evolve_to": [
         {
             "method": "EVO_GIGANTAMAX",
@@ -38,64 +36,8 @@
             "extra": "0"
         }
     ],
-    "learnset": [
-        {
-            "level": 0,
-            "move": "MOVE_TARSHOT"
-        },
-        {
-            "level": 1,
-            "move": "MOVE_SMOKESCREEN"
-        },
-        {
-            "level": 1,
-            "move": "MOVE_TACKLE"
-        },
-        {
-            "level": 1,
-            "move": "MOVE_RAPIDSPIN"
-        },
-        {
-            "level": 1,
-            "move": "MOVE_SMACKDOWN"
-        },
-        {
-            "level": 15,
-            "move": "MOVE_ROCKPOLISH"
-        },
-        {
-            "level": 17,
-            "move": "MOVE_FLAMECHARGE"
-        },
-        {
-            "level": 21,
-            "move": "MOVE_ANCIENTPOWER"
-        },
-        {
-            "level": 27,
-            "move": "MOVE_INCINERATE"
-        },
-        {
-            "level": 33,
-            "move": "MOVE_TARSHOT"
-        },
-        {
-            "level": 37,
-            "move": "MOVE_STEALTHROCK"
-        },
-        {
-            "level": 45,
-            "move": "MOVE_HEATCRASH"
-        },
-        {
-            "level": 54,
-            "move": "MOVE_ROCKBLAST"
-        },
-        {
-            "level": 63,
-            "move": "MOVE_BURNUP"
-        }
-    ],
+    "blurb": "While engaged in battle, its mountain of coal will burn bright red, scorching the surrounding area with sparks.",
+    "name": "Coalossal",
     "evolve_from": [
         "CARKOL",
         "COALOSSAL_GIGA"
@@ -168,5 +110,63 @@
         "MOVE_FLAREBLITZ",
         "MOVE_METEORBEAM",
         "MOVE_SCORCHINGSANDS"
+    ],
+    "learnset": [
+        {
+            "level": 0,
+            "move": "MOVE_TARSHOT"
+        },
+        {
+            "level": 1,
+            "move": "MOVE_SMOKESCREEN"
+        },
+        {
+            "level": 1,
+            "move": "MOVE_TACKLE"
+        },
+        {
+            "level": 1,
+            "move": "MOVE_RAPIDSPIN"
+        },
+        {
+            "level": 1,
+            "move": "MOVE_SMACKDOWN"
+        },
+        {
+            "level": 15,
+            "move": "MOVE_ROCKPOLISH"
+        },
+        {
+            "level": 17,
+            "move": "MOVE_FLAMECHARGE"
+        },
+        {
+            "level": 21,
+            "move": "MOVE_ANCIENTPOWER"
+        },
+        {
+            "level": 27,
+            "move": "MOVE_INCINERATE"
+        },
+        {
+            "level": 33,
+            "move": "MOVE_TARSHOT"
+        },
+        {
+            "level": 37,
+            "move": "MOVE_STEALTHROCK"
+        },
+        {
+            "level": 45,
+            "move": "MOVE_HEATCRASH"
+        },
+        {
+            "level": 54,
+            "move": "MOVE_ROCKBLAST"
+        },
+        {
+            "level": 63,
+            "move": "MOVE_BURNUP"
+        }
     ]
 }

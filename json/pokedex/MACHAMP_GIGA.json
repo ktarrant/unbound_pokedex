@@ -28,7 +28,18 @@
     "safariZoneFleeRate": 0,
     "hiddenAbility": "ABILITY_IRONFIST",
     "noFlip": true,
+    "evolve_to": [
+        {
+            "method": "EVO_GIGANTAMAX",
+            "condition": "FALSE",
+            "target": "MACHAMP",
+            "extra": "0"
+        }
+    ],
     "name": "Machamp",
+    "evolve_from": [
+        "MACHAMP"
+    ],
     "learnset": [
         {
             "level": 1,
@@ -111,17 +122,80 @@
             "move": "MOVE_CLOSECOMBAT"
         }
     ],
-    "evolve_to": [
-        {
-            "method": "EVO_GIGANTAMAX",
-            "condition": "FALSE",
-            "target": "MACHAMP",
-            "extra": "0"
-        }
+    "tm": [
+        "MOVE_FOCUSPUNCH",
+        "MOVE_TOXIC",
+        "MOVE_BULKUP",
+        "MOVE_HIDDENPOWER",
+        "MOVE_SUNNYDAY",
+        "MOVE_HYPERBEAM",
+        "MOVE_LIGHTSCREEN",
+        "MOVE_PROTECT",
+        "MOVE_RAINDANCE",
+        "MOVE_FRUSTRATION",
+        "MOVE_EARTHQUAKE",
+        "MOVE_RETURN",
+        "MOVE_DIG",
+        "MOVE_BRICKBREAK",
+        "MOVE_DOUBLETEAM",
+        "MOVE_FLAMETHROWER",
+        "MOVE_FIREBLAST",
+        "MOVE_ROCKTOMB",
+        "MOVE_FACADE",
+        "MOVE_SECRETPOWER",
+        "MOVE_REST",
+        "MOVE_ATTRACT",
+        "MOVE_THIEF",
+        "MOVE_FOCUSBLAST",
+        "MOVE_ENDURE",
+        "MOVE_DRAINPUNCH",
+        "MOVE_PAYBACK",
+        "MOVE_GIGAIMPACT",
+        "MOVE_STONEEDGE",
+        "MOVE_LOWSWEEP",
+        "MOVE_ROCKSLIDE",
+        "MOVE_SLEEPTALK",
+        "MOVE_POISONJAB",
+        "MOVE_SWAGGER",
+        "MOVE_SUBSTITUTE",
+        "MOVE_INCINERATE",
+        "MOVE_BULLDOZE",
+        "MOVE_WORKUP",
+        "MOVE_POWERUPPUNCH",
+        "MOVE_SMACKDOWN",
+        "MOVE_ROUND",
+        "MOVE_NATURALGIFT",
+        "MOVE_FLING",
+        "MOVE_STRENGTH",
+        "MOVE_ROCKSMASH",
+        "MOVE_ROCKCLIMB"
     ],
-    "evolve_from": [
-        "MACHAMP"
-    ],
-    "tm": [],
-    "tutor": []
+    "tutor": [
+        "MOVE_FIREPUNCH",
+        "MOVE_ICEPUNCH",
+        "MOVE_THUNDERPUNCH",
+        "MOVE_SNORE",
+        "MOVE_LOWKICK",
+        "MOVE_HELPINGHAND",
+        "MOVE_ROLEPLAY",
+        "MOVE_THROATCHOP",
+        "MOVE_STOMPINGTANTRUM",
+        "MOVE_DUALCHOP",
+        "MOVE_SUPERPOWER",
+        "MOVE_KNOCKOFF",
+        "MOVE_VACUUMWAVE",
+        "MOVE_CONFIDE",
+        "MOVE_FOCUSENERGY",
+        "MOVE_ENCORE",
+        "MOVE_SCARYFACE",
+        "MOVE_ROCKBLAST",
+        "MOVE_BODYSLAM",
+        "MOVE_HEAVYSLAM",
+        "MOVE_REVERSAL",
+        "MOVE_CROSSPOISON",
+        "MOVE_DARKESTLARIAT",
+        "MOVE_HIGHHORSEPOWER",
+        "MOVE_CLOSECOMBAT",
+        "MOVE_COACHING"
+    ]
 }

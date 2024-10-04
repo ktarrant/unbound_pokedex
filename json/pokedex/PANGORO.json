@@ -30,6 +30,9 @@
     "noFlip": true,
     "blurb": "This Pok\u00e9mon boasts great physical strength. Many Trainers are also smitten by its lively character.",
     "name": "Pangoro",
+    "evolve_from": [
+        "PANCHAM"
+    ],
     "learnset": [
         {
             "level": 0,
@@ -111,9 +114,6 @@
             "level": 65,
             "move": "MOVE_WICKEDBLOW"
         }
-    ],
-    "evolve_from": [
-        "PANCHAM"
     ],
     "tm": [
         "MOVE_FOCUSPUNCH",

@@ -28,8 +28,19 @@
     "safariZoneFleeRate": 0,
     "hiddenAbility": "ABILITY_PROTEAN",
     "noFlip": true,
+    "evolve_to": [
+        {
+            "method": "EVO_LEVEL",
+            "condition": "35",
+            "target": "CINDERACE",
+            "extra": "0"
+        }
+    ],
     "blurb": "Its thick and fluffy fur protects it from the cold and enables it to use hotter fire moves.",
     "name": "Raboot",
+    "evolve_from": [
+        "SCORBUNNY"
+    ],
     "learnset": [
         {
             "level": 1,
@@ -75,17 +86,6 @@
             "level": 48,
             "move": "MOVE_DOUBLEEDGE"
         }
-    ],
-    "evolve_to": [
-        {
-            "method": "EVO_LEVEL",
-            "condition": "35",
-            "target": "CINDERACE",
-            "extra": "0"
-        }
-    ],
-    "evolve_from": [
-        "SCORBUNNY"
     ],
     "tm": [
         "MOVE_FOCUSPUNCH",

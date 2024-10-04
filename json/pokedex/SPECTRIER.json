@@ -30,6 +30,7 @@
     "noFlip": true,
     "blurb": "As it dashes through the night, it absorbs the life energy of sleeping Pok\u00e9mon. It craves silence and solitude.",
     "name": "Spectrier",
+    "evolve_from": [],
     "learnset": [
         {
             "level": 1,
@@ -88,7 +89,6 @@
             "move": "MOVE_NASTYPLOT"
         }
     ],
-    "evolve_from": [],
     "tm": [
         "MOVE_CALMMIND",
         "MOVE_TOXIC",

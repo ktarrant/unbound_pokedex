@@ -36,8 +36,17 @@
         "MOVE_DEFOG",
         "MOVE_KNOCKOFF"
     ],
+    "evolve_to": [
+        {
+            "method": "EVO_LEVEL",
+            "condition": "17",
+            "target": "DARTRIX",
+            "extra": "0"
+        }
+    ],
     "blurb": "It feels relaxed in tight, dark places and has been known to use its Trainer's pocket or bag as a nest.",
     "name": "Rowlet",
+    "evolve_from": [],
     "learnset": [
         {
             "level": 1,
@@ -108,15 +117,6 @@
             "move": "MOVE_BRAVEBIRD"
         }
     ],
-    "evolve_to": [
-        {
-            "method": "EVO_LEVEL",
-            "condition": "17",
-            "target": "DARTRIX",
-            "extra": "0"
-        }
-    ],
-    "evolve_from": [],
     "tm": [
         "MOVE_TOXIC",
         "MOVE_HIDDENPOWER",

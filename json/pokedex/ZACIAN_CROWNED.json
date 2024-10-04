@@ -30,6 +30,7 @@
     "noFlip": true,
     "blurb": "Now armed with a weapon it used in ancient times, this Pok\u00e9mon needs only a single strike to fell any target.",
     "name": "Zacian",
+    "evolve_from": [],
     "learnset": [
         {
             "level": 1,
@@ -88,7 +89,6 @@
             "move": "MOVE_PLAYROUGH"
         }
     ],
-    "evolve_from": [],
     "tm": [
         "MOVE_HYPERBEAM",
         "MOVE_PROTECT",

@@ -30,6 +30,9 @@
     "noFlip": true,
     "blurb": "They inhabit mountainous regions. The leader of the herd is decided by a battle of clashing horns.",
     "name": "Gogoat",
+    "evolve_from": [
+        "SKIDDO"
+    ],
     "learnset": [
         {
             "level": 0,
@@ -111,9 +114,6 @@
             "level": 54,
             "move": "MOVE_LEAFBLADE"
         }
-    ],
-    "evolve_from": [
-        "SKIDDO"
     ],
     "tm": [
         "MOVE_ROAR",

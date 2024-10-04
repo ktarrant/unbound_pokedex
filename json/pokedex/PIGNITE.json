@@ -28,8 +28,19 @@
     "safariZoneFleeRate": 0,
     "hiddenAbility": "ABILITY_THICKFAT",
     "noFlip": true,
+    "evolve_to": [
+        {
+            "method": "EVO_LEVEL",
+            "condition": "36",
+            "target": "EMBOAR",
+            "extra": "0"
+        }
+    ],
     "blurb": "When its internal fire flares up, its movements grow sharper and faster. When in trouble, it emits smoke.",
     "name": "Pignite",
+    "evolve_from": [
+        "TEPIG"
+    ],
     "learnset": [
         {
             "level": 0,
@@ -99,17 +110,6 @@
             "level": 52,
             "move": "MOVE_FLAREBLITZ"
         }
-    ],
-    "evolve_to": [
-        {
-            "method": "EVO_LEVEL",
-            "condition": "36",
-            "target": "EMBOAR",
-            "extra": "0"
-        }
-    ],
-    "evolve_from": [
-        "TEPIG"
     ],
     "tm": [
         "MOVE_FOCUSPUNCH",

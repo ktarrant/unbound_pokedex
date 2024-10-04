@@ -33,6 +33,7 @@
     ],
     "blurb": "It's said that this Pok\u00e9mon was formed when an ancient clay tablet was drawn to a vengeful spirit.",
     "name": "Yamask",
+    "evolve_from": [],
     "learnset": [
         {
             "level": 1,
@@ -99,7 +100,6 @@
             "move": "MOVE_DESTINYBOND"
         }
     ],
-    "evolve_from": [],
     "tm": [
         "MOVE_CALMMIND",
         "MOVE_TOXIC",

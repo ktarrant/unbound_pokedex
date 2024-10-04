@@ -28,8 +28,19 @@
     "safariZoneFleeRate": 0,
     "hiddenAbility": "ABILITY_FLASHFIRE",
     "noFlip": true,
+    "evolve_to": [
+        {
+            "method": "EVO_LEVEL",
+            "condition": "34",
+            "target": "COALOSSAL",
+            "extra": "0"
+        }
+    ],
     "blurb": "By rapidly rolling its legs, it can easily travel at over 18 mph. It forms coal inside its body.",
     "name": "Carkol",
+    "evolve_from": [
+        "ROLYCOLY"
+    ],
     "learnset": [
         {
             "level": 0,
@@ -83,17 +94,6 @@
             "level": 55,
             "move": "MOVE_BURNUP"
         }
-    ],
-    "evolve_to": [
-        {
-            "method": "EVO_LEVEL",
-            "condition": "34",
-            "target": "COALOSSAL",
-            "extra": "0"
-        }
-    ],
-    "evolve_from": [
-        "ROLYCOLY"
     ],
     "tm": [
         "MOVE_TOXIC",

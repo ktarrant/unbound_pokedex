@@ -30,6 +30,9 @@
     "noFlip": true,
     "blurb": "Icy scales fall from its wings like snow as it flies over fields and mountains.",
     "name": "Frosmoth",
+    "evolve_from": [
+        "SNOM"
+    ],
     "learnset": [
         {
             "level": 0,
@@ -103,9 +106,6 @@
             "level": 52,
             "move": "MOVE_QUIVERDANCE"
         }
-    ],
-    "evolve_from": [
-        "SNOM"
     ],
     "tm": [
         "MOVE_CALMMIND",

@@ -29,6 +29,7 @@
     "hiddenAbility": "ABILITY_GALVANIZE",
     "noFlip": true,
     "blurb": "Since it can't fire boulders at a rapid pace, it's been known to seize nearby Geodude and fire them from its back.",
+    "evolve_from": [],
     "learnset": [
         {
             "level": 0,
@@ -107,7 +108,6 @@
             "move": "MOVE_HEAVYSLAM"
         }
     ],
-    "evolve_from": [],
     "tm": [
         "MOVE_FOCUSPUNCH",
         "MOVE_ROAR",

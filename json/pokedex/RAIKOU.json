@@ -29,6 +29,7 @@
     "hiddenAbility": "ABILITY_VOLTABSORB",
     "noFlip": true,
     "name": "Raikou",
+    "evolve_from": [],
     "learnset": [
         {
             "level": 1,
@@ -107,7 +108,6 @@
             "move": "MOVE_ZAPCANNON"
         }
     ],
-    "evolve_from": [],
     "tm": [
         "MOVE_CALMMIND",
         "MOVE_ROAR",

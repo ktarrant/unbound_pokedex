@@ -37,8 +37,17 @@
         "MOVE_ACUPRESSURE",
         "MOVE_ENDEAVOR"
     ],
+    "evolve_to": [
+        {
+            "method": "EVO_LEVEL",
+            "condition": "18",
+            "target": "STEENEE",
+            "extra": "0"
+        }
+    ],
     "blurb": "Because of its sweet, delicious aroma, bird Pok\u00e9mon are always after it.",
     "name": "Bounsweet",
+    "evolve_from": [],
     "learnset": [
         {
             "level": 1,
@@ -81,15 +90,6 @@
             "move": "MOVE_AROMATHERAPY"
         }
     ],
-    "evolve_to": [
-        {
-            "method": "EVO_LEVEL",
-            "condition": "18",
-            "target": "STEENEE",
-            "extra": "0"
-        }
-    ],
-    "evolve_from": [],
     "tm": [
         "MOVE_TOXIC",
         "MOVE_HIDDENPOWER",

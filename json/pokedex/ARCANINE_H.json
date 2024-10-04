@@ -30,6 +30,9 @@
     "noFlip": true,
     "blurb": "It is said to guide virtuous people who have lost their way on mountain paths back down to the mountain's base.",
     "name": "Arcanine",
+    "evolve_from": [
+        "GROWLITHE_H"
+    ],
     "learnset": [
         {
             "level": 0,
@@ -127,9 +130,6 @@
             "level": 60,
             "move": "MOVE_FLAREBLITZ"
         }
-    ],
-    "evolve_from": [
-        "GROWLITHE_H"
     ],
     "tm": [
         "MOVE_ROAR",

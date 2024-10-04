@@ -28,8 +28,19 @@
     "safariZoneFleeRate": 0,
     "hiddenAbility": "ABILITY_MAGICIAN",
     "noFlip": true,
+    "evolve_to": [
+        {
+            "method": "EVO_LEVEL",
+            "condition": "36",
+            "target": "DELPHOX",
+            "extra": "0"
+        }
+    ],
     "blurb": "With friction from its tail fur, it sets the twig on its tail on fire and launches into battle.",
     "name": "Braixen",
+    "evolve_from": [
+        "FENNEKIN"
+    ],
     "learnset": [
         {
             "level": 1,
@@ -99,17 +110,6 @@
             "level": 57,
             "move": "MOVE_FIREBLAST"
         }
-    ],
-    "evolve_to": [
-        {
-            "method": "EVO_LEVEL",
-            "condition": "36",
-            "target": "DELPHOX",
-            "extra": "0"
-        }
-    ],
-    "evolve_from": [
-        "FENNEKIN"
     ],
     "tm": [
         "MOVE_TOXIC",

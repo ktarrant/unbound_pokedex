@@ -28,6 +28,17 @@
     "safariZoneFleeRate": 0,
     "hiddenAbility": "ABILITY_NONE",
     "noFlip": true,
+    "evolve_to": [
+        {
+            "method": "EVO_MEGA",
+            "condition": "ITEM_NONE",
+            "target": "MANECTRIC",
+            "extra": "MEGA_VARIANT_STANDARD"
+        }
+    ],
+    "evolve_from": [
+        "MANECTRIC"
+    ],
     "learnset": [
         {
             "level": 1,
@@ -98,17 +109,61 @@
             "move": "MOVE_ELECTRICTERRAIN"
         }
     ],
-    "evolve_to": [
-        {
-            "method": "EVO_MEGA",
-            "condition": "ITEM_NONE",
-            "target": "MANECTRIC",
-            "extra": "MEGA_VARIANT_STANDARD"
-        }
+    "tm": [
+        "MOVE_ROAR",
+        "MOVE_TOXIC",
+        "MOVE_HIDDENPOWER",
+        "MOVE_HYPERBEAM",
+        "MOVE_LIGHTSCREEN",
+        "MOVE_PROTECT",
+        "MOVE_RAINDANCE",
+        "MOVE_FRUSTRATION",
+        "MOVE_IRONTAIL",
+        "MOVE_THUNDERBOLT",
+        "MOVE_THUNDER",
+        "MOVE_RETURN",
+        "MOVE_DOUBLETEAM",
+        "MOVE_SHOCKWAVE",
+        "MOVE_FLAMETHROWER",
+        "MOVE_FACADE",
+        "MOVE_SECRETPOWER",
+        "MOVE_REST",
+        "MOVE_ATTRACT",
+        "MOVE_THIEF",
+        "MOVE_OVERHEAT",
+        "MOVE_CHARGEBEAM",
+        "MOVE_ENDURE",
+        "MOVE_GIGAIMPACT",
+        "MOVE_FLASH",
+        "MOVE_THUNDERWAVE",
+        "MOVE_SLEEPTALK",
+        "MOVE_SWAGGER",
+        "MOVE_SUBSTITUTE",
+        "MOVE_VOLTSWITCH",
+        "MOVE_WILDCHARGE",
+        "MOVE_SNARL",
+        "MOVE_ROUND",
+        "MOVE_NATURALGIFT",
+        "MOVE_STRENGTH"
     ],
-    "evolve_from": [
-        "MANECTRIC"
-    ],
-    "tm": [],
-    "tutor": []
+    "tutor": [
+        "MOVE_SNORE",
+        "MOVE_UPROAR",
+        "MOVE_SIGNALBEAM",
+        "MOVE_MAGNETRISE",
+        "MOVE_LASERFOCUS",
+        "MOVE_HYPERVOICE",
+        "MOVE_CONFIDE",
+        "MOVE_SCARYFACE",
+        "MOVE_AGILITY",
+        "MOVE_ELECTRICTERRAIN",
+        "MOVE_THUNDERFANG",
+        "MOVE_ICEFANG",
+        "MOVE_FIREFANG",
+        "MOVE_BODYSLAM",
+        "MOVE_ELECTROBALL",
+        "MOVE_CRUNCH",
+        "MOVE_PSYCHICFANGS",
+        "MOVE_RISINGVOLTAGE"
+    ]
 }

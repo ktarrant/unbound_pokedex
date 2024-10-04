@@ -35,8 +35,17 @@
         "MOVE_MAGICCOAT",
         "MOVE_PSYCHICTERRAIN"
     ],
+    "evolve_to": [
+        {
+            "method": "EVO_LEVEL",
+            "condition": "16",
+            "target": "BRAIXEN",
+            "extra": "0"
+        }
+    ],
     "blurb": "Eating a twig fills it with energy, and its roomy ears give vent to very hot air.",
     "name": "Fennekin",
+    "evolve_from": [],
     "learnset": [
         {
             "level": 1,
@@ -107,15 +116,6 @@
             "move": "MOVE_FIREBLAST"
         }
     ],
-    "evolve_to": [
-        {
-            "method": "EVO_LEVEL",
-            "condition": "16",
-            "target": "BRAIXEN",
-            "extra": "0"
-        }
-    ],
-    "evolve_from": [],
     "tm": [
         "MOVE_TOXIC",
         "MOVE_HIDDENPOWER",

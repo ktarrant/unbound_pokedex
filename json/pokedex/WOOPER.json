@@ -46,7 +46,16 @@
         "MOVE_EERIEIMPULSE",
         "MOVE_POWERUPPUNCH"
     ],
+    "evolve_to": [
+        {
+            "method": "EVO_LEVEL",
+            "condition": "20",
+            "target": "QUAGSIRE",
+            "extra": "0"
+        }
+    ],
     "name": "Wooper",
+    "evolve_from": [],
     "learnset": [
         {
             "level": 1,
@@ -109,15 +118,6 @@
             "move": "MOVE_EARTHQUAKE"
         }
     ],
-    "evolve_to": [
-        {
-            "method": "EVO_LEVEL",
-            "condition": "20",
-            "target": "QUAGSIRE",
-            "extra": "0"
-        }
-    ],
-    "evolve_from": [],
     "tm": [
         "MOVE_WATERPULSE",
         "MOVE_TOXIC",

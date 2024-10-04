@@ -30,6 +30,9 @@
     "noFlip": true,
     "blurb": "Bisharp pursues prey in the company of a large group of Pawniard. Then Bisharp finishes off the prey.",
     "name": "Bisharp",
+    "evolve_from": [
+        "PAWNIARD"
+    ],
     "learnset": [
         {
             "level": 1,
@@ -103,9 +106,6 @@
             "level": 73,
             "move": "MOVE_GUILLOTINE"
         }
-    ],
-    "evolve_from": [
-        "PAWNIARD"
     ],
     "tm": [
         "MOVE_TOXIC",

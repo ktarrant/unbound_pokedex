@@ -35,8 +35,17 @@
         "MOVE_SPITUP",
         "MOVE_STICKYWEB"
     ],
+    "evolve_to": [
+        {
+            "method": "EVO_LEVEL",
+            "condition": "22",
+            "target": "ARAQUANID",
+            "extra": "0"
+        }
+    ],
     "blurb": "It crawls onto the land in search of food. Its water bubble allows it to breathe and protects its head.",
     "name": "Dewpider",
+    "evolve_from": [],
     "learnset": [
         {
             "level": 1,
@@ -103,15 +112,6 @@
             "move": "MOVE_MIRRORCOAT"
         }
     ],
-    "evolve_to": [
-        {
-            "method": "EVO_LEVEL",
-            "condition": "22",
-            "target": "ARAQUANID",
-            "extra": "0"
-        }
-    ],
-    "evolve_from": [],
     "tm": [
         "MOVE_WATERPULSE",
         "MOVE_TOXIC",

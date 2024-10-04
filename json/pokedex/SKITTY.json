@@ -43,7 +43,16 @@
         "MOVE_PAYDAY",
         "MOVE_SWEETKISS"
     ],
+    "evolve_to": [
+        {
+            "method": "EVO_ITEM",
+            "condition": "ITEM_MOON_STONE",
+            "target": "DELCATTY",
+            "extra": "0"
+        }
+    ],
     "name": "Skitty",
+    "evolve_from": [],
     "learnset": [
         {
             "level": 1,
@@ -122,15 +131,6 @@
             "move": "MOVE_PLAYROUGH"
         }
     ],
-    "evolve_to": [
-        {
-            "method": "EVO_ITEM",
-            "condition": "ITEM_MOON_STONE",
-            "target": "DELCATTY",
-            "extra": "0"
-        }
-    ],
-    "evolve_from": [],
     "tm": [
         "MOVE_WATERPULSE",
         "MOVE_CALMMIND",

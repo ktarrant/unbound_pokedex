@@ -30,6 +30,7 @@
     "noFlip": true,
     "blurb": "The leaves on its head are highly valued for medicinal purposes when dried in the sun and boiled.",
     "name": "Lilligant",
+    "evolve_from": [],
     "learnset": [
         {
             "level": 0,
@@ -128,7 +129,6 @@
             "move": "MOVE_CLOSECOMBAT"
         }
     ],
-    "evolve_from": [],
     "tm": [
         "MOVE_FOCUSPUNCH",
         "MOVE_TOXIC",

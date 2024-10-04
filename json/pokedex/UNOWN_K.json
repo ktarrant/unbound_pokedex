@@ -28,15 +28,14 @@
     "safariZoneFleeRate": 0,
     "hiddenAbility": "ABILITY_NONE",
     "noFlip": true,
+    "evolve_from": [],
+    "tm": [
+        "MOVE_HIDDENPOWER"
+    ],
     "learnset": [
         {
             "level": 1,
             "move": "MOVE_HIDDENPOWER"
         }
-    ],
-    "evolve_from": [],
-    "tm": [
-        "MOVE_HIDDENPOWER"
-    ],
-    "tutor": []
+    ]
 }

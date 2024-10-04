@@ -44,6 +44,7 @@
         "MOVE_COVET"
     ],
     "name": "Shuckle",
+    "evolve_from": [],
     "learnset": [
         {
             "level": 1,
@@ -122,7 +123,6 @@
             "move": "MOVE_SHELLSMASH"
         }
     ],
-    "evolve_from": [],
     "tm": [
         "MOVE_TOXIC",
         "MOVE_HIDDENPOWER",

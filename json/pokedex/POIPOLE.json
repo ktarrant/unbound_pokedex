@@ -28,8 +28,17 @@
     "safariZoneFleeRate": 0,
     "hiddenAbility": "ABILITY_NONE",
     "noFlip": true,
+    "evolve_to": [
+        {
+            "method": "EVO_MOVE",
+            "condition": "MOVE_DRAGONPULSE",
+            "target": "NAGANADEL",
+            "extra": "0"
+        }
+    ],
     "blurb": "This Ultra Beast is well enough liked to be chosen as a first partner in its own world.",
     "name": "Poipole",
+    "evolve_from": [],
     "learnset": [
         {
             "level": 1,
@@ -88,15 +97,6 @@
             "move": "MOVE_TOXIC"
         }
     ],
-    "evolve_to": [
-        {
-            "method": "EVO_MOVE",
-            "condition": "MOVE_DRAGONPULSE",
-            "target": "NAGANADEL",
-            "extra": "0"
-        }
-    ],
-    "evolve_from": [],
     "tm": [
         "MOVE_TOXIC",
         "MOVE_HIDDENPOWER",

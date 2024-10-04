@@ -28,6 +28,7 @@
     "safariZoneFleeRate": 0,
     "hiddenAbility": "ABILITY_FRIENDGUARD",
     "noFlip": true,
+    "evolve_from": [],
     "learnset": [
         {
             "level": 0,
@@ -114,7 +115,6 @@
             "move": "MOVE_HURRICANE"
         }
     ],
-    "evolve_from": [],
     "tm": [
         "MOVE_CALMMIND",
         "MOVE_TOXIC",

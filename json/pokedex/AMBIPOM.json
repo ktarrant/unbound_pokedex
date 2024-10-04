@@ -30,6 +30,9 @@
     "noFlip": true,
     "blurb": "It is very difficult to dodge the consecutive strikes of its two tails.",
     "name": "Ambipom",
+    "evolve_from": [
+        "AIPOM"
+    ],
     "learnset": [
         {
             "level": 1,
@@ -95,9 +98,6 @@
             "level": 46,
             "move": "MOVE_DOUBLEEDGE"
         }
-    ],
-    "evolve_from": [
-        "AIPOM"
     ],
     "tm": [
         "MOVE_FOCUSPUNCH",

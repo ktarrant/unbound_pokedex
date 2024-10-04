@@ -30,6 +30,9 @@
     "noFlip": true,
     "blurb": "It uses psychic power to control an opponent's brain and tamper with its memories.",
     "name": "Beheeyem",
+    "evolve_from": [
+        "ELGYEM"
+    ],
     "learnset": [
         {
             "level": 1,
@@ -115,9 +118,6 @@
             "level": 63,
             "move": "MOVE_SYNCHRONOISE"
         }
-    ],
-    "evolve_from": [
-        "ELGYEM"
     ],
     "tm": [
         "MOVE_CALMMIND",

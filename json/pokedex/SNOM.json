@@ -33,8 +33,17 @@
         "MOVE_MIRRORCOAT",
         "MOVE_BUGBITE"
     ],
+    "evolve_to": [
+        {
+            "method": "EVO_FRIENDSHIP_NIGHT",
+            "condition": "0",
+            "target": "FROSMOTH",
+            "extra": "0"
+        }
+    ],
     "blurb": "It eats snow that piles up on the ground. The more snow it eats, the bigger its spikes grow.",
     "name": "Snom",
+    "evolve_from": [],
     "learnset": [
         {
             "level": 1,
@@ -45,15 +54,6 @@
             "move": "MOVE_STRUGGLEBUG"
         }
     ],
-    "evolve_to": [
-        {
-            "method": "EVO_FRIENDSHIP_NIGHT",
-            "condition": "0",
-            "target": "FROSMOTH",
-            "extra": "0"
-        }
-    ],
-    "evolve_from": [],
     "tm": [
         "MOVE_PROTECT",
         "MOVE_REST",

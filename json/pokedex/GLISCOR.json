@@ -30,6 +30,9 @@
     "noFlip": true,
     "blurb": "It observes prey while hanging inverted from branches. When the chance presents itself, it swoops!",
     "name": "Gliscor",
+    "evolve_from": [
+        "GLIGAR"
+    ],
     "learnset": [
         {
             "level": 1,
@@ -119,9 +122,6 @@
             "level": 62,
             "move": "MOVE_GUILLOTINE"
         }
-    ],
-    "evolve_from": [
-        "GLIGAR"
     ],
     "tm": [
         "MOVE_TOXIC",

@@ -29,6 +29,9 @@
     "hiddenAbility": "ABILITY_SHEERFORCE",
     "noFlip": true,
     "name": "Feraligatr",
+    "evolve_from": [
+        "CROCONAW"
+    ],
     "learnset": [
         {
             "level": 1,
@@ -102,9 +105,6 @@
             "level": 78,
             "move": "MOVE_HYDROPUMP"
         }
-    ],
-    "evolve_from": [
-        "CROCONAW"
     ],
     "tm": [
         "MOVE_FOCUSPUNCH",

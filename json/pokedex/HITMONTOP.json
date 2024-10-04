@@ -29,6 +29,7 @@
     "hiddenAbility": "ABILITY_STEADFAST",
     "noFlip": true,
     "name": "Hitmontop",
+    "evolve_from": [],
     "learnset": [
         {
             "level": 0,
@@ -123,7 +124,6 @@
             "move": "MOVE_CLOSECOMBAT"
         }
     ],
-    "evolve_from": [],
     "tm": [
         "MOVE_TOXIC",
         "MOVE_BULKUP",

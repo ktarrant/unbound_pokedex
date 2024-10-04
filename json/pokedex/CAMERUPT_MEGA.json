@@ -28,6 +28,17 @@
     "safariZoneFleeRate": 0,
     "hiddenAbility": "ABILITY_NONE",
     "noFlip": true,
+    "evolve_to": [
+        {
+            "method": "EVO_MEGA",
+            "condition": "ITEM_NONE",
+            "target": "CAMERUPT",
+            "extra": "MEGA_VARIANT_STANDARD"
+        }
+    ],
+    "evolve_from": [
+        "CAMERUPT"
+    ],
     "learnset": [
         {
             "level": 0,
@@ -110,17 +121,68 @@
             "move": "MOVE_FISSURE"
         }
     ],
-    "evolve_to": [
-        {
-            "method": "EVO_MEGA",
-            "condition": "ITEM_NONE",
-            "target": "CAMERUPT",
-            "extra": "MEGA_VARIANT_STANDARD"
-        }
+    "tm": [
+        "MOVE_ROAR",
+        "MOVE_TOXIC",
+        "MOVE_HIDDENPOWER",
+        "MOVE_SUNNYDAY",
+        "MOVE_HYPERBEAM",
+        "MOVE_PROTECT",
+        "MOVE_FRUSTRATION",
+        "MOVE_SOLARBEAM",
+        "MOVE_EARTHQUAKE",
+        "MOVE_RETURN",
+        "MOVE_DIG",
+        "MOVE_DOUBLETEAM",
+        "MOVE_FLAMETHROWER",
+        "MOVE_SANDSTORM",
+        "MOVE_FIREBLAST",
+        "MOVE_ROCKTOMB",
+        "MOVE_FACADE",
+        "MOVE_SECRETPOWER",
+        "MOVE_REST",
+        "MOVE_ATTRACT",
+        "MOVE_OVERHEAT",
+        "MOVE_ENDURE",
+        "MOVE_WILLOWISP",
+        "MOVE_EXPLOSION",
+        "MOVE_GIGAIMPACT",
+        "MOVE_ROCKPOLISH",
+        "MOVE_STONEEDGE",
+        "MOVE_STEALTHROCK",
+        "MOVE_FLAMECHARGE",
+        "MOVE_ROCKSLIDE",
+        "MOVE_SLEEPTALK",
+        "MOVE_SWAGGER",
+        "MOVE_SUBSTITUTE",
+        "MOVE_FLASHCANNON",
+        "MOVE_INCINERATE",
+        "MOVE_BULLDOZE",
+        "MOVE_ROUND",
+        "MOVE_ECHOEDVOICE",
+        "MOVE_NATURALGIFT",
+        "MOVE_NATUREPOWER",
+        "MOVE_STRENGTH",
+        "MOVE_ROCKSMASH"
     ],
-    "evolve_from": [
-        "CAMERUPT"
-    ],
-    "tm": [],
-    "tutor": []
+    "tutor": [
+        "MOVE_SNORE",
+        "MOVE_AFTERYOU",
+        "MOVE_IRONHEAD",
+        "MOVE_STOMPINGTANTRUM",
+        "MOVE_EARTHPOWER",
+        "MOVE_HEATWAVE",
+        "MOVE_CONFIDE",
+        "MOVE_FOCUSENERGY",
+        "MOVE_SCARYFACE",
+        "MOVE_SANDTOMB",
+        "MOVE_BODYSLAM",
+        "MOVE_BODYPRESS",
+        "MOVE_HEATCRASH",
+        "MOVE_HEAVYSLAM",
+        "MOVE_HIGHHORSEPOWER",
+        "MOVE_FLAREBLITZ",
+        "MOVE_BURNINGJEALOUSY",
+        "MOVE_SCORCHINGSANDS"
+    ]
 }

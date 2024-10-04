@@ -29,6 +29,7 @@
     "hiddenAbility": "ABILITY_LIGHTNINGROD",
     "noFlip": true,
     "name": "Pichu",
+    "evolve_from": [],
     "learnset": [
         {
             "level": 1,
@@ -63,7 +64,6 @@
             "move": "MOVE_SPARK"
         }
     ],
-    "evolve_from": [],
     "tm": [
         "MOVE_TOXIC",
         "MOVE_HIDDENPOWER",

@@ -29,6 +29,7 @@
     "hiddenAbility": "ABILITY_MAGICBOUNCE",
     "noFlip": true,
     "name": "Espeon",
+    "evolve_from": [],
     "learnset": [
         {
             "level": 0,
@@ -131,7 +132,6 @@
             "move": "MOVE_LASTRESORT"
         }
     ],
-    "evolve_from": [],
     "tm": [
         "MOVE_CALMMIND",
         "MOVE_TOXIC",

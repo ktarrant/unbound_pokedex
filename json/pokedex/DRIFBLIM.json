@@ -30,6 +30,9 @@
     "noFlip": true,
     "blurb": "It grabs people and Pok\u00e9mon and carries them off somewhere. Where do they go? Nobody knows.",
     "name": "Drifblim",
+    "evolve_from": [
+        "DRIFLOON"
+    ],
     "learnset": [
         {
             "level": 0,
@@ -123,9 +126,6 @@
             "level": 59,
             "move": "MOVE_ASTRALBARRAGE"
         }
-    ],
-    "evolve_from": [
-        "DRIFLOON"
     ],
     "tm": [
         "MOVE_CALMMIND",

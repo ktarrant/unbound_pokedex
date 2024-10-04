@@ -37,8 +37,17 @@
         "MOVE_DRAGONTAIL",
         "MOVE_SUCKERPUNCH"
     ],
+    "evolve_to": [
+        {
+            "method": "EVO_LEVEL",
+            "condition": "50",
+            "target": "DRAKLOAK",
+            "extra": "0"
+        }
+    ],
     "blurb": "After being reborn as a ghost, Dreepy wanders the areas it used to inhabit back when it was alive in prehistoric seas.",
     "name": "Dreepy",
+    "evolve_from": [],
     "learnset": [
         {
             "level": 1,
@@ -57,15 +66,6 @@
             "move": "MOVE_QUICKATTACK"
         }
     ],
-    "evolve_to": [
-        {
-            "method": "EVO_LEVEL",
-            "condition": "50",
-            "target": "DRAKLOAK",
-            "extra": "0"
-        }
-    ],
-    "evolve_from": [],
     "tm": [
         "MOVE_TOXIC",
         "MOVE_HIDDENPOWER",

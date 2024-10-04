@@ -40,7 +40,16 @@
         "MOVE_SIGNALBEAM",
         "MOVE_FIRSTIMPRESSION"
     ],
+    "evolve_to": [
+        {
+            "method": "EVO_LEVEL",
+            "condition": "35",
+            "target": "VIBRAVA",
+            "extra": "0"
+        }
+    ],
     "name": "Trapinch",
+    "evolve_from": [],
     "learnset": [
         {
             "level": 1,
@@ -115,15 +124,6 @@
             "move": "MOVE_FISSURE"
         }
     ],
-    "evolve_to": [
-        {
-            "method": "EVO_LEVEL",
-            "condition": "35",
-            "target": "VIBRAVA",
-            "extra": "0"
-        }
-    ],
-    "evolve_from": [],
     "tm": [
         "MOVE_TOXIC",
         "MOVE_HIDDENPOWER",

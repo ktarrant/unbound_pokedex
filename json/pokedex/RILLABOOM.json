@@ -28,8 +28,6 @@
     "safariZoneFleeRate": 0,
     "hiddenAbility": "ABILITY_GRASSYSURGE",
     "noFlip": true,
-    "blurb": "By drumming, it taps into the power of its special tree stump. The roots of the stump follow its direction in battle.",
-    "name": "Rillaboom",
     "evolve_to": [
         {
             "method": "EVO_GIGANTAMAX",
@@ -38,76 +36,8 @@
             "extra": "0"
         }
     ],
-    "learnset": [
-        {
-            "level": 0,
-            "move": "MOVE_DRUMBEATING"
-        },
-        {
-            "level": 1,
-            "move": "MOVE_GRASSYTERRAIN"
-        },
-        {
-            "level": 1,
-            "move": "MOVE_NOBLEROAR"
-        },
-        {
-            "level": 1,
-            "move": "MOVE_GROWL"
-        },
-        {
-            "level": 1,
-            "move": "MOVE_SCRATCH"
-        },
-        {
-            "level": 1,
-            "move": "MOVE_BRANCHPOKE"
-        },
-        {
-            "level": 1,
-            "move": "MOVE_TAUNT"
-        },
-        {
-            "level": 12,
-            "move": "MOVE_RAZORLEAF"
-        },
-        {
-            "level": 15,
-            "move": "MOVE_DOUBLEHIT"
-        },
-        {
-            "level": 19,
-            "move": "MOVE_SCREECH"
-        },
-        {
-            "level": 24,
-            "move": "MOVE_KNOCKOFF"
-        },
-        {
-            "level": 30,
-            "move": "MOVE_SLAM"
-        },
-        {
-            "level": 34,
-            "move": "MOVE_DRUMBEATING"
-        },
-        {
-            "level": 38,
-            "move": "MOVE_UPROAR"
-        },
-        {
-            "level": 46,
-            "move": "MOVE_WOODHAMMER"
-        },
-        {
-            "level": 54,
-            "move": "MOVE_ENDEAVOR"
-        },
-        {
-            "level": 62,
-            "move": "MOVE_BOOMBURST"
-        }
-    ],
+    "blurb": "By drumming, it taps into the power of its special tree stump. The roots of the stump follow its direction in battle.",
+    "name": "Rillaboom",
     "evolve_from": [
         "THWACKEY",
         "RILLABOOM_GIGA"
@@ -188,5 +118,75 @@
         "MOVE_LEAFSTORM",
         "MOVE_SOLARBLADE",
         "MOVE_GRASSYGLIDE"
+    ],
+    "learnset": [
+        {
+            "level": 0,
+            "move": "MOVE_DRUMBEATING"
+        },
+        {
+            "level": 1,
+            "move": "MOVE_GRASSYTERRAIN"
+        },
+        {
+            "level": 1,
+            "move": "MOVE_NOBLEROAR"
+        },
+        {
+            "level": 1,
+            "move": "MOVE_GROWL"
+        },
+        {
+            "level": 1,
+            "move": "MOVE_SCRATCH"
+        },
+        {
+            "level": 1,
+            "move": "MOVE_BRANCHPOKE"
+        },
+        {
+            "level": 1,
+            "move": "MOVE_TAUNT"
+        },
+        {
+            "level": 12,
+            "move": "MOVE_RAZORLEAF"
+        },
+        {
+            "level": 15,
+            "move": "MOVE_DOUBLEHIT"
+        },
+        {
+            "level": 19,
+            "move": "MOVE_SCREECH"
+        },
+        {
+            "level": 24,
+            "move": "MOVE_KNOCKOFF"
+        },
+        {
+            "level": 30,
+            "move": "MOVE_SLAM"
+        },
+        {
+            "level": 34,
+            "move": "MOVE_DRUMBEATING"
+        },
+        {
+            "level": 38,
+            "move": "MOVE_UPROAR"
+        },
+        {
+            "level": 46,
+            "move": "MOVE_WOODHAMMER"
+        },
+        {
+            "level": 54,
+            "move": "MOVE_ENDEAVOR"
+        },
+        {
+            "level": 62,
+            "move": "MOVE_BOOMBURST"
+        }
     ]
 }

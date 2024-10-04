@@ -28,7 +28,18 @@
     "safariZoneFleeRate": 0,
     "hiddenAbility": "ABILITY_NONE",
     "noFlip": true,
+    "evolve_to": [
+        {
+            "method": "EVO_GIGANTAMAX",
+            "condition": "FALSE",
+            "target": "MELMETAL",
+            "extra": "0"
+        }
+    ],
     "name": "Melmetal",
+    "evolve_from": [
+        "MELMETAL"
+    ],
     "learnset": [
         {
             "level": 0,
@@ -95,17 +106,55 @@
             "move": "MOVE_HYPERBEAM"
         }
     ],
-    "evolve_to": [
-        {
-            "method": "EVO_GIGANTAMAX",
-            "condition": "FALSE",
-            "target": "MELMETAL",
-            "extra": "0"
-        }
+    "tm": [
+        "MOVE_FOCUSPUNCH",
+        "MOVE_TOXIC",
+        "MOVE_HIDDENPOWER",
+        "MOVE_ICEBEAM",
+        "MOVE_HYPERBEAM",
+        "MOVE_PROTECT",
+        "MOVE_SOLARBEAM",
+        "MOVE_THUNDERBOLT",
+        "MOVE_THUNDER",
+        "MOVE_EARTHQUAKE",
+        "MOVE_RETURN",
+        "MOVE_BRICKBREAK",
+        "MOVE_DOUBLETEAM",
+        "MOVE_ROCKTOMB",
+        "MOVE_FACADE",
+        "MOVE_SECRETPOWER",
+        "MOVE_REST",
+        "MOVE_ENDURE",
+        "MOVE_EXPLOSION",
+        "MOVE_GIGAIMPACT",
+        "MOVE_THUNDERWAVE",
+        "MOVE_GYROBALL",
+        "MOVE_ROCKSLIDE",
+        "MOVE_SLEEPTALK",
+        "MOVE_SUBSTITUTE",
+        "MOVE_FLASHCANNON",
+        "MOVE_POWERUPPUNCH",
+        "MOVE_BRUTALSWING",
+        "MOVE_ROUND",
+        "MOVE_ECHOEDVOICE",
+        "MOVE_NATURALGIFT",
+        "MOVE_STRENGTH",
+        "MOVE_ROCKSMASH",
+        "MOVE_ROCKCLIMB"
     ],
-    "evolve_from": [
-        "MELMETAL"
-    ],
-    "tm": [],
-    "tutor": []
+    "tutor": [
+        "MOVE_ICEPUNCH",
+        "MOVE_THUNDERPUNCH",
+        "MOVE_SNORE",
+        "MOVE_IRONDEFENSE",
+        "MOVE_IRONHEAD",
+        "MOVE_SUPERPOWER",
+        "MOVE_ELECTRICTERRAIN",
+        "MOVE_BODYSLAM",
+        "MOVE_BODYPRESS",
+        "MOVE_HEAVYSLAM",
+        "MOVE_DARKESTLARIAT",
+        "MOVE_HIGHHORSEPOWER",
+        "MOVE_POLTERGEIST"
+    ]
 }

@@ -30,6 +30,7 @@
     "noFlip": true,
     "blurb": "Its mighty legs are capable of running at speeds exceeding 40 mph, but it can't breathe unless it's underwater.",
     "name": "Dracovish",
+    "evolve_from": [],
     "learnset": [
         {
             "level": 1,
@@ -84,7 +85,6 @@
             "move": "MOVE_DRAGONRUSH"
         }
     ],
-    "evolve_from": [],
     "tm": [
         "MOVE_WATERPULSE",
         "MOVE_ROAR",

@@ -29,6 +29,9 @@
     "hiddenAbility": "ABILITY_ICESCALES",
     "noFlip": true,
     "name": "Jynx",
+    "evolve_from": [
+        "SMOOCHUM"
+    ],
     "learnset": [
         {
             "level": 1,
@@ -118,9 +121,6 @@
             "level": 58,
             "move": "MOVE_BLIZZARD"
         }
-    ],
-    "evolve_from": [
-        "SMOOCHUM"
     ],
     "tm": [
         "MOVE_FOCUSPUNCH",

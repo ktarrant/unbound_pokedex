@@ -28,7 +28,18 @@
     "safariZoneFleeRate": 0,
     "hiddenAbility": "ABILITY_STALWART",
     "noFlip": true,
+    "evolve_to": [
+        {
+            "method": "EVO_GIGANTAMAX",
+            "condition": "FALSE",
+            "target": "DURALUDON",
+            "extra": "0"
+        }
+    ],
     "name": "Duraludon",
+    "evolve_from": [
+        "DURALUDON"
+    ],
     "learnset": [
         {
             "level": 1,
@@ -83,17 +94,73 @@
             "move": "MOVE_HYPERBEAM"
         }
     ],
-    "evolve_to": [
-        {
-            "method": "EVO_GIGANTAMAX",
-            "condition": "FALSE",
-            "target": "DURALUDON",
-            "extra": "0"
-        }
+    "tm": [
+        "MOVE_DRAGONCLAW",
+        "MOVE_ROAR",
+        "MOVE_TOXIC",
+        "MOVE_HIDDENPOWER",
+        "MOVE_HYPERBEAM",
+        "MOVE_LIGHTSCREEN",
+        "MOVE_PROTECT",
+        "MOVE_FRUSTRATION",
+        "MOVE_SOLARBEAM",
+        "MOVE_THUNDERBOLT",
+        "MOVE_THUNDER",
+        "MOVE_RETURN",
+        "MOVE_BRICKBREAK",
+        "MOVE_DOUBLETEAM",
+        "MOVE_REFLECT",
+        "MOVE_ROCKTOMB",
+        "MOVE_FACADE",
+        "MOVE_SECRETPOWER",
+        "MOVE_REST",
+        "MOVE_ATTRACT",
+        "MOVE_HONECLAWS",
+        "MOVE_CHARGEBEAM",
+        "MOVE_ENDURE",
+        "MOVE_DRAGONPULSE",
+        "MOVE_EXPLOSION",
+        "MOVE_GIGAIMPACT",
+        "MOVE_ROCKPOLISH",
+        "MOVE_STONEEDGE",
+        "MOVE_THUNDERWAVE",
+        "MOVE_GYROBALL",
+        "MOVE_SWORDSDANCE",
+        "MOVE_STEALTHROCK",
+        "MOVE_DARKPULSE",
+        "MOVE_ROCKSLIDE",
+        "MOVE_SLEEPTALK",
+        "MOVE_SWAGGER",
+        "MOVE_SUBSTITUTE",
+        "MOVE_FLASHCANNON",
+        "MOVE_DRAGONTAIL",
+        "MOVE_SNARL",
+        "MOVE_ROUND",
+        "MOVE_NATURALGIFT",
+        "MOVE_CUT",
+        "MOVE_STRENGTH",
+        "MOVE_ROCKSMASH",
+        "MOVE_ROCKCLIMB"
     ],
-    "evolve_from": [
-        "DURALUDON"
-    ],
-    "tm": [],
-    "tutor": []
+    "tutor": [
+        "MOVE_SNORE",
+        "MOVE_BLOCK",
+        "MOVE_IRONDEFENSE",
+        "MOVE_IRONHEAD",
+        "MOVE_ENDEAVOR",
+        "MOVE_LASERFOCUS",
+        "MOVE_FOULPLAY",
+        "MOVE_OUTRAGE",
+        "MOVE_STOMPINGTANTRUM",
+        "MOVE_DUALCHOP",
+        "MOVE_KNOCKOFF",
+        "MOVE_CONFIDE",
+        "MOVE_SCREECH",
+        "MOVE_SCARYFACE",
+        "MOVE_BODYSLAM",
+        "MOVE_BODYPRESS",
+        "MOVE_HEAVYSLAM",
+        "MOVE_BREAKINGSWIPE",
+        "MOVE_POLTERGEIST"
+    ]
 }

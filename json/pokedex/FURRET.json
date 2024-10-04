@@ -29,6 +29,9 @@
     "hiddenAbility": "ABILITY_HUSTLE",
     "noFlip": true,
     "name": "Furret",
+    "evolve_from": [
+        "SENTRET"
+    ],
     "learnset": [
         {
             "level": 0,
@@ -102,9 +105,6 @@
             "level": 48,
             "move": "MOVE_EXTREMESPEED"
         }
-    ],
-    "evolve_from": [
-        "SENTRET"
     ],
     "tm": [
         "MOVE_FOCUSPUNCH",

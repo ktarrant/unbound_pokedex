@@ -29,6 +29,9 @@
     "hiddenAbility": "ABILITY_RECKLESS",
     "noFlip": true,
     "name": "Rhydon",
+    "evolve_from": [
+        "RHYHORN"
+    ],
     "learnset": [
         {
             "level": 0,
@@ -98,9 +101,6 @@
             "level": 61,
             "move": "MOVE_HORNDRILL"
         }
-    ],
-    "evolve_from": [
-        "RHYHORN"
     ],
     "tm": [
         "MOVE_FOCUSPUNCH",

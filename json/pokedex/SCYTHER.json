@@ -44,6 +44,7 @@
         "MOVE_DUALWINGBEAT"
     ],
     "name": "Scyther",
+    "evolve_from": [],
     "learnset": [
         {
             "level": 1,
@@ -106,7 +107,6 @@
             "move": "MOVE_SWORDSDANCE"
         }
     ],
-    "evolve_from": [],
     "tm": [
         "MOVE_CALMMIND",
         "MOVE_TOXIC",

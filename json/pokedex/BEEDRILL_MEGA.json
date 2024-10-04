@@ -28,6 +28,17 @@
     "safariZoneFleeRate": 0,
     "hiddenAbility": "ABILITY_NONE",
     "noFlip": true,
+    "evolve_to": [
+        {
+            "method": "EVO_MEGA",
+            "condition": "ITEM_NONE",
+            "target": "BEEDRILL",
+            "extra": "MEGA_VARIANT_STANDARD"
+        }
+    ],
+    "evolve_from": [
+        "BEEDRILL"
+    ],
     "learnset": [
         {
             "level": 0,
@@ -110,17 +121,70 @@
             "move": "MOVE_OUTRAGE"
         }
     ],
-    "evolve_to": [
-        {
-            "method": "EVO_MEGA",
-            "condition": "ITEM_NONE",
-            "target": "BEEDRILL",
-            "extra": "MEGA_VARIANT_STANDARD"
-        }
+    "tm": [
+        "MOVE_TOXIC",
+        "MOVE_HIDDENPOWER",
+        "MOVE_SUNNYDAY",
+        "MOVE_HYPERBEAM",
+        "MOVE_PROTECT",
+        "MOVE_GIGADRAIN",
+        "MOVE_FRUSTRATION",
+        "MOVE_SOLARBEAM",
+        "MOVE_RETURN",
+        "MOVE_BRICKBREAK",
+        "MOVE_DOUBLETEAM",
+        "MOVE_SLUDGEBOMB",
+        "MOVE_AERIALACE",
+        "MOVE_FACADE",
+        "MOVE_SECRETPOWER",
+        "MOVE_REST",
+        "MOVE_ATTRACT",
+        "MOVE_THIEF",
+        "MOVE_ROOST",
+        "MOVE_FALSESWIPE",
+        "MOVE_ENDURE",
+        "MOVE_SILVERWIND",
+        "MOVE_VENOSHOCK",
+        "MOVE_PAYBACK",
+        "MOVE_GIGAIMPACT",
+        "MOVE_FLASH",
+        "MOVE_SWORDSDANCE",
+        "MOVE_XSCISSOR",
+        "MOVE_SLEEPTALK",
+        "MOVE_POISONJAB",
+        "MOVE_SWAGGER",
+        "MOVE_UTURN",
+        "MOVE_SUBSTITUTE",
+        "MOVE_STRUGGLEBUG",
+        "MOVE_INFESTATION",
+        "MOVE_BRUTALSWING",
+        "MOVE_ACROBATICS",
+        "MOVE_DEFOG",
+        "MOVE_ROUND",
+        "MOVE_NATURALGIFT",
+        "MOVE_CUT",
+        "MOVE_ROCKSMASH"
     ],
-    "evolve_from": [
-        "BEEDRILL"
-    ],
-    "tm": [],
-    "tutor": []
+    "tutor": [
+        "MOVE_SNORE",
+        "MOVE_ELECTROWEB",
+        "MOVE_BUGBITE",
+        "MOVE_IRONDEFENSE",
+        "MOVE_TAILWIND",
+        "MOVE_ENDEAVOR",
+        "MOVE_LASERFOCUS",
+        "MOVE_DRILLRUN",
+        "MOVE_OUTRAGE",
+        "MOVE_THROATCHOP",
+        "MOVE_KNOCKOFF",
+        "MOVE_CONFIDE",
+        "MOVE_FOCUSENERGY",
+        "MOVE_BATONPASS",
+        "MOVE_SCREECH",
+        "MOVE_TOXICSPIKES",
+        "MOVE_AGILITY",
+        "MOVE_PINMISSILE",
+        "MOVE_CROSSPOISON",
+        "MOVE_DUALWINGBEAT"
+    ]
 }

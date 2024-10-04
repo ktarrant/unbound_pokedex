@@ -29,6 +29,9 @@
     "hiddenAbility": "ABILITY_TOXICBOOST",
     "noFlip": true,
     "name": "Parasect",
+    "evolve_from": [
+        "PARAS"
+    ],
     "learnset": [
         {
             "level": 1,
@@ -94,9 +97,6 @@
             "level": 61,
             "move": "MOVE_LEECHFANG"
         }
-    ],
-    "evolve_from": [
-        "PARAS"
     ],
     "tm": [
         "MOVE_TOXIC",

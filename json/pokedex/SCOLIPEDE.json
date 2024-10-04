@@ -30,6 +30,9 @@
     "noFlip": true,
     "blurb": "Highly aggressive, it uses the claws near its neck to dig into its opponents and poison them.",
     "name": "Scolipede",
+    "evolve_from": [
+        "WHIRLIPEDE"
+    ],
     "learnset": [
         {
             "level": 0,
@@ -119,9 +122,6 @@
             "level": 76,
             "move": "MOVE_MEGAHORN"
         }
-    ],
-    "evolve_from": [
-        "WHIRLIPEDE"
     ],
     "tm": [
         "MOVE_TOXIC",

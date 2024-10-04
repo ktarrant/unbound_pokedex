@@ -28,6 +28,17 @@
     "safariZoneFleeRate": 0,
     "hiddenAbility": "ABILITY_NONE",
     "noFlip": true,
+    "evolve_to": [
+        {
+            "method": "EVO_MEGA",
+            "condition": "ITEM_NONE",
+            "target": "SWAMPERT",
+            "extra": "MEGA_VARIANT_STANDARD"
+        }
+    ],
+    "evolve_from": [
+        "SWAMPERT"
+    ],
     "learnset": [
         {
             "level": 1,
@@ -110,17 +121,81 @@
             "move": "MOVE_HAMMERARM"
         }
     ],
-    "evolve_to": [
-        {
-            "method": "EVO_MEGA",
-            "condition": "ITEM_NONE",
-            "target": "SWAMPERT",
-            "extra": "MEGA_VARIANT_STANDARD"
-        }
+    "tm": [
+        "MOVE_FOCUSPUNCH",
+        "MOVE_WATERPULSE",
+        "MOVE_ROAR",
+        "MOVE_TOXIC",
+        "MOVE_HAIL",
+        "MOVE_BULKUP",
+        "MOVE_HIDDENPOWER",
+        "MOVE_ICEBEAM",
+        "MOVE_BLIZZARD",
+        "MOVE_HYPERBEAM",
+        "MOVE_PROTECT",
+        "MOVE_RAINDANCE",
+        "MOVE_FRUSTRATION",
+        "MOVE_IRONTAIL",
+        "MOVE_EARTHQUAKE",
+        "MOVE_RETURN",
+        "MOVE_DIG",
+        "MOVE_BRICKBREAK",
+        "MOVE_DOUBLETEAM",
+        "MOVE_ROCKTOMB",
+        "MOVE_FACADE",
+        "MOVE_SECRETPOWER",
+        "MOVE_REST",
+        "MOVE_ATTRACT",
+        "MOVE_FOCUSBLAST",
+        "MOVE_ENDURE",
+        "MOVE_GIGAIMPACT",
+        "MOVE_STONEEDGE",
+        "MOVE_AVALANCHE",
+        "MOVE_STEALTHROCK",
+        "MOVE_ROCKSLIDE",
+        "MOVE_SLEEPTALK",
+        "MOVE_SCALD",
+        "MOVE_SWAGGER",
+        "MOVE_SUBSTITUTE",
+        "MOVE_BULLDOZE",
+        "MOVE_WORKUP",
+        "MOVE_POWERUPPUNCH",
+        "MOVE_SLUDGEWAVE",
+        "MOVE_ROUND",
+        "MOVE_ECHOEDVOICE",
+        "MOVE_NATURALGIFT",
+        "MOVE_FLING",
+        "MOVE_SURF",
+        "MOVE_STRENGTH",
+        "MOVE_DIVE",
+        "MOVE_ROCKSMASH",
+        "MOVE_WATERFALL",
+        "MOVE_ROCKCLIMB"
     ],
-    "evolve_from": [
-        "SWAMPERT"
-    ],
-    "tm": [],
-    "tutor": []
+    "tutor": [
+        "MOVE_ICEPUNCH",
+        "MOVE_SNORE",
+        "MOVE_LOWKICK",
+        "MOVE_UPROAR",
+        "MOVE_AQUATAIL",
+        "MOVE_ENDEAVOR",
+        "MOVE_ICYWIND",
+        "MOVE_LIQUIDATION",
+        "MOVE_OUTRAGE",
+        "MOVE_STOMPINGTANTRUM",
+        "MOVE_EARTHPOWER",
+        "MOVE_SUPERPOWER",
+        "MOVE_CONFIDE",
+        "MOVE_WATERPLEDGE",
+        "MOVE_HYDROCANNON",
+        "MOVE_WHIRLPOOL",
+        "MOVE_SANDTOMB",
+        "MOVE_BODYSLAM",
+        "MOVE_BODYPRESS",
+        "MOVE_DARKESTLARIAT",
+        "MOVE_HIGHHORSEPOWER",
+        "MOVE_MUDDYWATER",
+        "MOVE_HYDROPUMP",
+        "MOVE_FLIPTURN"
+    ]
 }

@@ -29,6 +29,7 @@
     "hiddenAbility": "ABILITY_SKILLLINK",
     "noFlip": true,
     "name": "Marowak",
+    "evolve_from": [],
     "learnset": [
         {
             "level": 1,
@@ -103,7 +104,6 @@
             "move": "MOVE_HEADSMASH"
         }
     ],
-    "evolve_from": [],
     "tm": [
         "MOVE_FOCUSPUNCH",
         "MOVE_TOXIC",

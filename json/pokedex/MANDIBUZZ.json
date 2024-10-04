@@ -30,6 +30,9 @@
     "noFlip": true,
     "blurb": "It skillfully arranges the bones of its prey to construct its nest. Most of the bones are Cubone.",
     "name": "Mandibuzz",
+    "evolve_from": [
+        "VULLABY"
+    ],
     "learnset": [
         {
             "level": 0,
@@ -107,9 +110,6 @@
             "level": 66,
             "move": "MOVE_BRAVEBIRD"
         }
-    ],
-    "evolve_from": [
-        "VULLABY"
     ],
     "tm": [
         "MOVE_TOXIC",

@@ -30,6 +30,7 @@
     "noFlip": true,
     "blurb": "Never touch its shadowlike body, or you'll be shown the horrific memories behind the picture carved into it.",
     "name": "Runerigus",
+    "evolve_from": [],
     "learnset": [
         {
             "level": 0,
@@ -104,7 +105,6 @@
             "move": "MOVE_DESTINYBOND"
         }
     ],
-    "evolve_from": [],
     "tm": [
         "MOVE_CALMMIND",
         "MOVE_TOXIC",

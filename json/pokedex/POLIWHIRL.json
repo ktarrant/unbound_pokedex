@@ -29,6 +29,9 @@
     "hiddenAbility": "ABILITY_SWIFTSWIM",
     "noFlip": true,
     "name": "Poliwhirl",
+    "evolve_from": [
+        "POLIWAG"
+    ],
     "learnset": [
         {
             "level": 0,
@@ -102,9 +105,6 @@
             "level": 61,
             "move": "MOVE_HYDROPUMP"
         }
-    ],
-    "evolve_from": [
-        "POLIWAG"
     ],
     "tm": [
         "MOVE_FOCUSPUNCH",

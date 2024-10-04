@@ -28,8 +28,19 @@
     "safariZoneFleeRate": 0,
     "hiddenAbility": "ABILITY_SPEEDBOOST",
     "noFlip": true,
+    "evolve_to": [
+        {
+            "method": "EVO_LEVEL",
+            "condition": "30",
+            "target": "SCOLIPEDE",
+            "extra": "0"
+        }
+    ],
     "blurb": "Protected by a hard shell, it spins its body like a wheel and crashes furiously into its enemies.",
     "name": "Whirlipede",
+    "evolve_from": [
+        "VENIPEDE"
+    ],
     "learnset": [
         {
             "level": 0,
@@ -107,17 +118,6 @@
             "level": 62,
             "move": "MOVE_DOUBLEEDGE"
         }
-    ],
-    "evolve_to": [
-        {
-            "method": "EVO_LEVEL",
-            "condition": "30",
-            "target": "SCOLIPEDE",
-            "extra": "0"
-        }
-    ],
-    "evolve_from": [
-        "VENIPEDE"
     ],
     "tm": [
         "MOVE_TOXIC",

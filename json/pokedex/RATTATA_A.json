@@ -41,7 +41,16 @@
         "MOVE_REVENGE",
         "MOVE_FINALGAMBIT"
     ],
+    "evolve_to": [
+        {
+            "method": "EVO_LEVEL_NIGHT",
+            "condition": "20",
+            "target": "RATICATE_A",
+            "extra": "0"
+        }
+    ],
     "blurb": "When the sun goes down, it becomes active. It runs around town on a chase for good food for its boss-Raticate.",
+    "evolve_from": [],
     "learnset": [
         {
             "level": 1,
@@ -100,15 +109,6 @@
             "move": "MOVE_ENDEAVOR"
         }
     ],
-    "evolve_to": [
-        {
-            "method": "EVO_LEVEL_NIGHT",
-            "condition": "20",
-            "target": "RATICATE_A",
-            "extra": "0"
-        }
-    ],
-    "evolve_from": [],
     "tm": [
         "MOVE_TOXIC",
         "MOVE_HIDDENPOWER",

@@ -28,7 +28,18 @@
     "safariZoneFleeRate": 0,
     "hiddenAbility": "ABILITY_SOLARPOWER",
     "noFlip": true,
+    "evolve_to": [
+        {
+            "method": "EVO_LEVEL",
+            "condition": "36",
+            "target": "CHARIZARD",
+            "extra": "0"
+        }
+    ],
     "name": "Charmeleon",
+    "evolve_from": [
+        "CHARMANDER"
+    ],
     "learnset": [
         {
             "level": 1,
@@ -82,17 +93,6 @@
             "level": 54,
             "move": "MOVE_FLAREBLITZ"
         }
-    ],
-    "evolve_to": [
-        {
-            "method": "EVO_LEVEL",
-            "condition": "36",
-            "target": "CHARIZARD",
-            "extra": "0"
-        }
-    ],
-    "evolve_from": [
-        "CHARMANDER"
     ],
     "tm": [
         "MOVE_FOCUSPUNCH",

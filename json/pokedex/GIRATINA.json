@@ -30,72 +30,6 @@
     "noFlip": true,
     "blurb": "It was banished for its violence. It silently gazed upon the old world from the Distortion World.",
     "name": "Giratina",
-    "learnset": [
-        {
-            "level": 1,
-            "move": "MOVE_HEALBLOCK"
-        },
-        {
-            "level": 1,
-            "move": "MOVE_SHADOWSNEAK"
-        },
-        {
-            "level": 1,
-            "move": "MOVE_OMINOUSWIND"
-        },
-        {
-            "level": 1,
-            "move": "MOVE_DEFOG"
-        },
-        {
-            "level": 7,
-            "move": "MOVE_DRAGONBREATH"
-        },
-        {
-            "level": 14,
-            "move": "MOVE_ANCIENTPOWER"
-        },
-        {
-            "level": 21,
-            "move": "MOVE_HEX"
-        },
-        {
-            "level": 28,
-            "move": "MOVE_SLASH"
-        },
-        {
-            "level": 35,
-            "move": "MOVE_SCARYFACE"
-        },
-        {
-            "level": 42,
-            "move": "MOVE_SHADOWCLAW"
-        },
-        {
-            "level": 49,
-            "move": "MOVE_PAINSPLIT"
-        },
-        {
-            "level": 56,
-            "move": "MOVE_AURASPHERE"
-        },
-        {
-            "level": 63,
-            "move": "MOVE_DRAGONCLAW"
-        },
-        {
-            "level": 70,
-            "move": "MOVE_EARTHPOWER"
-        },
-        {
-            "level": 77,
-            "move": "MOVE_SHADOWFORCE"
-        },
-        {
-            "level": 84,
-            "move": "MOVE_DESTINYBOND"
-        }
-    ],
     "evolve_from": [],
     "tm": [
         "MOVE_DRAGONCLAW",
@@ -176,5 +110,71 @@
         "MOVE_AURASPHERE",
         "MOVE_PHANTOMFORCE",
         "MOVE_DUALWINGBEAT"
+    ],
+    "learnset": [
+        {
+            "level": 1,
+            "move": "MOVE_HEALBLOCK"
+        },
+        {
+            "level": 1,
+            "move": "MOVE_SHADOWSNEAK"
+        },
+        {
+            "level": 1,
+            "move": "MOVE_OMINOUSWIND"
+        },
+        {
+            "level": 1,
+            "move": "MOVE_DEFOG"
+        },
+        {
+            "level": 7,
+            "move": "MOVE_DRAGONBREATH"
+        },
+        {
+            "level": 14,
+            "move": "MOVE_ANCIENTPOWER"
+        },
+        {
+            "level": 21,
+            "move": "MOVE_HEX"
+        },
+        {
+            "level": 28,
+            "move": "MOVE_SLASH"
+        },
+        {
+            "level": 35,
+            "move": "MOVE_SCARYFACE"
+        },
+        {
+            "level": 42,
+            "move": "MOVE_SHADOWCLAW"
+        },
+        {
+            "level": 49,
+            "move": "MOVE_PAINSPLIT"
+        },
+        {
+            "level": 56,
+            "move": "MOVE_AURASPHERE"
+        },
+        {
+            "level": 63,
+            "move": "MOVE_DRAGONCLAW"
+        },
+        {
+            "level": 70,
+            "move": "MOVE_EARTHPOWER"
+        },
+        {
+            "level": 77,
+            "move": "MOVE_SHADOWFORCE"
+        },
+        {
+            "level": 84,
+            "move": "MOVE_DESTINYBOND"
+        }
     ]
 }

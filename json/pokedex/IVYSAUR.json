@@ -28,7 +28,18 @@
     "safariZoneFleeRate": 0,
     "hiddenAbility": "ABILITY_CHLOROPHYLL",
     "noFlip": true,
+    "evolve_to": [
+        {
+            "method": "EVO_LEVEL",
+            "condition": "32",
+            "target": "VENUSAUR",
+            "extra": "0"
+        }
+    ],
     "name": "Ivysaur",
+    "evolve_from": [
+        "BULBASAUR"
+    ],
     "learnset": [
         {
             "level": 1,
@@ -94,17 +105,6 @@
             "level": 56,
             "move": "MOVE_SOLARBEAM"
         }
-    ],
-    "evolve_to": [
-        {
-            "method": "EVO_LEVEL",
-            "condition": "32",
-            "target": "VENUSAUR",
-            "extra": "0"
-        }
-    ],
-    "evolve_from": [
-        "BULBASAUR"
     ],
     "tm": [
         "MOVE_TOXIC",

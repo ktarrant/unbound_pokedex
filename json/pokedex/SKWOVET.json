@@ -34,8 +34,17 @@
         "MOVE_LASTRESORT",
         "MOVE_BELLYDRUM"
     ],
+    "evolve_to": [
+        {
+            "method": "EVO_LEVEL",
+            "condition": "24",
+            "target": "GREEDENT",
+            "extra": "0"
+        }
+    ],
     "blurb": "This Pok\u00e9mon becomes uneasy if its cheeks are ever completely empty of berries.",
     "name": "Skwovet",
+    "evolve_from": [],
     "learnset": [
         {
             "level": 1,
@@ -90,15 +99,6 @@
             "move": "MOVE_BELCH"
         }
     ],
-    "evolve_to": [
-        {
-            "method": "EVO_LEVEL",
-            "condition": "24",
-            "target": "GREEDENT",
-            "extra": "0"
-        }
-    ],
-    "evolve_from": [],
     "tm": [
         "MOVE_TOXIC",
         "MOVE_BULLETSEED",

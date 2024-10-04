@@ -34,8 +34,17 @@
         "MOVE_ICEFANG",
         "MOVE_THUNDERFANG"
     ],
+    "evolve_to": [
+        {
+            "method": "EVO_LEVEL_DAY",
+            "condition": "20",
+            "target": "GUMSHOOS",
+            "extra": "0"
+        }
+    ],
     "blurb": "It prefers to eat fresh living things so it marches down streets in search of prey.",
     "name": "Yungoos",
+    "evolve_from": [],
     "learnset": [
         {
             "level": 1,
@@ -102,15 +111,6 @@
             "move": "MOVE_REST"
         }
     ],
-    "evolve_to": [
-        {
-            "method": "EVO_LEVEL_DAY",
-            "condition": "20",
-            "target": "GUMSHOOS",
-            "extra": "0"
-        }
-    ],
-    "evolve_from": [],
     "tm": [
         "MOVE_TOXIC",
         "MOVE_HIDDENPOWER",

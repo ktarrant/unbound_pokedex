@@ -28,7 +28,32 @@
     "safariZoneFleeRate": 0,
     "hiddenAbility": "ABILITY_LIGHTNINGROD",
     "noFlip": true,
+    "evolve_to": [
+        {
+            "method": "EVO_GIGANTAMAX",
+            "condition": "FALSE",
+            "target": "PIKACHU",
+            "extra": "0"
+        }
+    ],
     "name": "Pikachu",
+    "evolve_from": [
+        "PIKACHU_SURFING",
+        "PIKACHU_FLYING",
+        "PIKACHU_COSPLAY",
+        "PIKACHU_LIBRE",
+        "PIKACHU_POP_STAR",
+        "PIKACHU_ROCK_STAR",
+        "PIKACHU_BELLE",
+        "PIKACHU_PHD",
+        "PIKACHU_CAP_ORIGINAL",
+        "PIKACHU_CAP_HOENN",
+        "PIKACHU_CAP_SINNOH",
+        "PIKACHU_CAP_UNOVA",
+        "PIKACHU_CAP_KALOS",
+        "PIKACHU_CAP_ALOLA",
+        "PIKACHU_CAP_PARTNER"
+    ],
     "learnset": [
         {
             "level": 1,
@@ -115,31 +140,69 @@
             "move": "MOVE_THUNDER"
         }
     ],
-    "evolve_to": [
-        {
-            "method": "EVO_GIGANTAMAX",
-            "condition": "FALSE",
-            "target": "PIKACHU",
-            "extra": "0"
-        }
+    "tm": [
+        "MOVE_FOCUSPUNCH",
+        "MOVE_CALMMIND",
+        "MOVE_TOXIC",
+        "MOVE_HIDDENPOWER",
+        "MOVE_LIGHTSCREEN",
+        "MOVE_PROTECT",
+        "MOVE_RAINDANCE",
+        "MOVE_FRUSTRATION",
+        "MOVE_IRONTAIL",
+        "MOVE_THUNDERBOLT",
+        "MOVE_THUNDER",
+        "MOVE_RETURN",
+        "MOVE_DIG",
+        "MOVE_BRICKBREAK",
+        "MOVE_DOUBLETEAM",
+        "MOVE_REFLECT",
+        "MOVE_SHOCKWAVE",
+        "MOVE_FACADE",
+        "MOVE_SECRETPOWER",
+        "MOVE_REST",
+        "MOVE_ATTRACT",
+        "MOVE_THIEF",
+        "MOVE_CHARGEBEAM",
+        "MOVE_ENDURE",
+        "MOVE_FLASH",
+        "MOVE_THUNDERWAVE",
+        "MOVE_SLEEPTALK",
+        "MOVE_GRASSKNOT",
+        "MOVE_SWAGGER",
+        "MOVE_SUBSTITUTE",
+        "MOVE_VOLTSWITCH",
+        "MOVE_WILDCHARGE",
+        "MOVE_DRAININGKISS",
+        "MOVE_ROUND",
+        "MOVE_ECHOEDVOICE",
+        "MOVE_NATURALGIFT",
+        "MOVE_FLING",
+        "MOVE_SURF",
+        "MOVE_STRENGTH",
+        "MOVE_ROCKSMASH"
     ],
-    "evolve_from": [
-        "PIKACHU_SURFING",
-        "PIKACHU_FLYING",
-        "PIKACHU_COSPLAY",
-        "PIKACHU_LIBRE",
-        "PIKACHU_POP_STAR",
-        "PIKACHU_ROCK_STAR",
-        "PIKACHU_BELLE",
-        "PIKACHU_PHD",
-        "PIKACHU_CAP_ORIGINAL",
-        "PIKACHU_CAP_HOENN",
-        "PIKACHU_CAP_SINNOH",
-        "PIKACHU_CAP_UNOVA",
-        "PIKACHU_CAP_KALOS",
-        "PIKACHU_CAP_ALOLA",
-        "PIKACHU_CAP_PARTNER"
-    ],
-    "tm": [],
-    "tutor": []
+    "tutor": [
+        "MOVE_THUNDERPUNCH",
+        "MOVE_SNORE",
+        "MOVE_ELECTROWEB",
+        "MOVE_UPROAR",
+        "MOVE_HELPINGHAND",
+        "MOVE_COVET",
+        "MOVE_SIGNALBEAM",
+        "MOVE_MAGNETRISE",
+        "MOVE_ENDEAVOR",
+        "MOVE_LASERFOCUS",
+        "MOVE_KNOCKOFF",
+        "MOVE_CONFIDE",
+        "MOVE_ENCORE",
+        "MOVE_AGILITY",
+        "MOVE_NASTYPLOT",
+        "MOVE_ELECTRICTERRAIN",
+        "MOVE_BODYSLAM",
+        "MOVE_REVERSAL",
+        "MOVE_ELECTROBALL",
+        "MOVE_PLAYROUGH",
+        "MOVE_RISINGVOLTAGE"
+    ]
 }

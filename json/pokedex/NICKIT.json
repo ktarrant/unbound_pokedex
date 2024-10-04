@@ -34,8 +34,17 @@
         "MOVE_HOWL",
         "MOVE_TORMENT"
     ],
+    "evolve_to": [
+        {
+            "method": "EVO_LEVEL",
+            "condition": "18",
+            "target": "THIEVUL",
+            "extra": "0"
+        }
+    ],
     "blurb": "Aided by the soft pads on its feet, it silently raids the food stores of others. It survives off its ill-gotten gains.",
     "name": "Nickit",
+    "evolve_from": [],
     "learnset": [
         {
             "level": 1,
@@ -82,15 +91,6 @@
             "move": "MOVE_FOULPLAY"
         }
     ],
-    "evolve_to": [
-        {
-            "method": "EVO_LEVEL",
-            "condition": "18",
-            "target": "THIEVUL",
-            "extra": "0"
-        }
-    ],
-    "evolve_from": [],
     "tm": [
         "MOVE_TOXIC",
         "MOVE_HIDDENPOWER",

@@ -30,6 +30,7 @@
     "noFlip": true,
     "blurb": "Well equipped with claws and fangs, it uses the sharp rocks in its mane as weapons.",
     "name": "Lycanroc",
+    "evolve_from": [],
     "learnset": [
         {
             "level": 0,
@@ -124,7 +125,6 @@
             "move": "MOVE_CLOSECOMBAT"
         }
     ],
-    "evolve_from": [],
     "tm": [
         "MOVE_ROAR",
         "MOVE_TOXIC",

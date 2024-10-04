@@ -36,6 +36,7 @@
     ],
     "blurb": "As soon as it's born, it burrows into an apple. the flavor of the apple is what determines its evolution.",
     "name": "Applin",
+    "evolve_from": [],
     "learnset": [
         {
             "level": 1,
@@ -46,7 +47,6 @@
             "move": "MOVE_WITHDRAW"
         }
     ],
-    "evolve_from": [],
     "tm": [
         "MOVE_TOXIC",
         "MOVE_HIDDENPOWER",

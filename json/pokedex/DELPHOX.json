@@ -30,6 +30,9 @@
     "noFlip": true,
     "blurb": "It gazes into the flame at its branch to achieve a focused state, allowing it to see the future.",
     "name": "Delphox",
+    "evolve_from": [
+        "BRAIXEN"
+    ],
     "learnset": [
         {
             "level": 0,
@@ -123,9 +126,6 @@
             "level": 69,
             "move": "MOVE_FUTURESIGHT"
         }
-    ],
-    "evolve_from": [
-        "BRAIXEN"
     ],
     "tm": [
         "MOVE_CALMMIND",

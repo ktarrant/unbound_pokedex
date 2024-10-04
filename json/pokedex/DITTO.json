@@ -29,13 +29,11 @@
     "hiddenAbility": "ABILITY_IMPOSTER",
     "noFlip": true,
     "name": "Ditto",
+    "evolve_from": [],
     "learnset": [
         {
             "level": 1,
             "move": "MOVE_TRANSFORM"
         }
-    ],
-    "evolve_from": [],
-    "tm": [],
-    "tutor": []
+    ]
 }

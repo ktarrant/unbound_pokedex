@@ -29,6 +29,9 @@
     "hiddenAbility": "ABILITY_WEAKARMOR",
     "noFlip": true,
     "name": "Kabutops",
+    "evolve_from": [
+        "KABUTO"
+    ],
     "learnset": [
         {
             "level": 0,
@@ -106,9 +109,6 @@
             "level": 70,
             "move": "MOVE_STONEEDGE"
         }
-    ],
-    "evolve_from": [
-        "KABUTO"
     ],
     "tm": [
         "MOVE_WATERPULSE",

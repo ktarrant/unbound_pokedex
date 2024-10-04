@@ -28,8 +28,19 @@
     "safariZoneFleeRate": 0,
     "hiddenAbility": "ABILITY_SHADOWTAG",
     "noFlip": true,
+    "evolve_to": [
+        {
+            "method": "EVO_ITEM",
+            "condition": "ITEM_DUSK_STONE",
+            "target": "CHANDELURE",
+            "extra": "0"
+        }
+    ],
     "blurb": "It arrives near the moment of death and steals spirit from the body.",
     "name": "Lampent",
+    "evolve_from": [
+        "LITWICK"
+    ],
     "learnset": [
         {
             "level": 1,
@@ -95,17 +106,6 @@
             "level": 64,
             "move": "MOVE_MEMENTO"
         }
-    ],
-    "evolve_to": [
-        {
-            "method": "EVO_ITEM",
-            "condition": "ITEM_DUSK_STONE",
-            "target": "CHANDELURE",
-            "extra": "0"
-        }
-    ],
-    "evolve_from": [
-        "LITWICK"
     ],
     "tm": [
         "MOVE_CALMMIND",

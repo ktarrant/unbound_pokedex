@@ -29,6 +29,9 @@
     "hiddenAbility": "ABILITY_WEAKARMOR",
     "noFlip": true,
     "name": "Magcargo",
+    "evolve_from": [
+        "SLUGMA"
+    ],
     "learnset": [
         {
             "level": 0,
@@ -114,9 +117,6 @@
             "level": 58,
             "move": "MOVE_MAGMASTORM"
         }
-    ],
-    "evolve_from": [
-        "SLUGMA"
     ],
     "tm": [
         "MOVE_TOXIC",

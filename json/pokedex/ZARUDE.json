@@ -30,76 +30,6 @@
     "noFlip": true,
     "blurb": "Once the vines on its body tear off, they become nutrients in the soil. This helps the plants of the forest grow.",
     "name": "Zarude",
-    "learnset": [
-        {
-            "level": 1,
-            "move": "MOVE_BIND"
-        },
-        {
-            "level": 1,
-            "move": "MOVE_SCRATCH"
-        },
-        {
-            "level": 6,
-            "move": "MOVE_LEER"
-        },
-        {
-            "level": 12,
-            "move": "MOVE_VINEWHIP"
-        },
-        {
-            "level": 18,
-            "move": "MOVE_GROWTH"
-        },
-        {
-            "level": 24,
-            "move": "MOVE_FURYSWIPES"
-        },
-        {
-            "level": 30,
-            "move": "MOVE_SCARYFACE"
-        },
-        {
-            "level": 36,
-            "move": "MOVE_GRASSKNOT"
-        },
-        {
-            "level": 42,
-            "move": "MOVE_BITE"
-        },
-        {
-            "level": 48,
-            "move": "MOVE_UTURN"
-        },
-        {
-            "level": 54,
-            "move": "MOVE_SWAGGER"
-        },
-        {
-            "level": 60,
-            "move": "MOVE_ENERGYBALL"
-        },
-        {
-            "level": 66,
-            "move": "MOVE_SYNTHESIS"
-        },
-        {
-            "level": 72,
-            "move": "MOVE_HAMMERARM"
-        },
-        {
-            "level": 78,
-            "move": "MOVE_THRASH"
-        },
-        {
-            "level": 84,
-            "move": "MOVE_POWERWHIP"
-        },
-        {
-            "level": 90,
-            "move": "MOVE_JUNGLEHEALING"
-        }
-    ],
     "evolve_from": [],
     "tm": [
         "MOVE_FOCUSPUNCH",
@@ -184,5 +114,75 @@
         "MOVE_SOLARBLADE",
         "MOVE_GRASSYGLIDE",
         "MOVE_LASHOUT"
+    ],
+    "learnset": [
+        {
+            "level": 1,
+            "move": "MOVE_BIND"
+        },
+        {
+            "level": 1,
+            "move": "MOVE_SCRATCH"
+        },
+        {
+            "level": 6,
+            "move": "MOVE_LEER"
+        },
+        {
+            "level": 12,
+            "move": "MOVE_VINEWHIP"
+        },
+        {
+            "level": 18,
+            "move": "MOVE_GROWTH"
+        },
+        {
+            "level": 24,
+            "move": "MOVE_FURYSWIPES"
+        },
+        {
+            "level": 30,
+            "move": "MOVE_SCARYFACE"
+        },
+        {
+            "level": 36,
+            "move": "MOVE_GRASSKNOT"
+        },
+        {
+            "level": 42,
+            "move": "MOVE_BITE"
+        },
+        {
+            "level": 48,
+            "move": "MOVE_UTURN"
+        },
+        {
+            "level": 54,
+            "move": "MOVE_SWAGGER"
+        },
+        {
+            "level": 60,
+            "move": "MOVE_ENERGYBALL"
+        },
+        {
+            "level": 66,
+            "move": "MOVE_SYNTHESIS"
+        },
+        {
+            "level": 72,
+            "move": "MOVE_HAMMERARM"
+        },
+        {
+            "level": 78,
+            "move": "MOVE_THRASH"
+        },
+        {
+            "level": 84,
+            "move": "MOVE_POWERWHIP"
+        },
+        {
+            "level": 90,
+            "move": "MOVE_JUNGLEHEALING"
+        }
     ]
 }

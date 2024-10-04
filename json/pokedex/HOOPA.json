@@ -30,6 +30,7 @@
     "noFlip": true,
     "blurb": "It gathers things it likes and passes them through its loop to teleport them to a secret place.",
     "name": "Hoopa",
+    "evolve_from": [],
     "learnset": [
         {
             "level": 1,
@@ -108,7 +109,6 @@
             "move": "MOVE_HYPERSPACEHOLE"
         }
     ],
-    "evolve_from": [],
     "tm": [
         "MOVE_FOCUSPUNCH",
         "MOVE_CALMMIND",
