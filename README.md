@@ -7,6 +7,5 @@ The C data is taken from here:
 TODO: Link GitHub Repo with C data
 
 ## Future Work
-- Add evolution data to pokedex
 - Find Pokemon Area data and add to pokedex
 - Scrape TM location information and add to TM data
