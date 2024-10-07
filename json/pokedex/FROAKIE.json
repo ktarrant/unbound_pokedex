@@ -49,6 +49,18 @@
     "blurb": "It secretes bubbles from its chest and back. The bubbles reduce the damage it would take when attacked.",
     "name": "Froakie",
     "evolve_from": [],
+    "location": [
+        {
+            "route": "Route 14",
+            "area": "",
+            "method": "Good Rod"
+        },
+        {
+            "route": "Route 14",
+            "area": "",
+            "method": "Super Rod"
+        }
+    ],
     "learnset": [
         {
             "level": 1,

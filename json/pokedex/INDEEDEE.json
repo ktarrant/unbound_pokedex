@@ -36,6 +36,18 @@
     "blurb": "Through its horns, it can pick up on the emotions of creatures around it. Males will act as valets for those they serve.",
     "name": "Indeedee",
     "evolve_from": [],
+    "location": [
+        {
+            "route": "Route 14",
+            "area": "",
+            "method": "Good Rod"
+        },
+        {
+            "route": "Route 14",
+            "area": "",
+            "method": "Super Rod"
+        }
+    ],
     "learnset": [
         {
             "level": 1,

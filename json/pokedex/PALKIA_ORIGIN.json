@@ -28,6 +28,7 @@
     "safariZoneFleeRate": 0,
     "hiddenAbility": "ABILITY_TELEPATHY",
     "noFlip": true,
+    "name": "Palkia",
     "evolve_from": [],
     "learnset": [
         {

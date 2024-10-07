@@ -31,13 +31,18 @@
     "egg_moves": [
         "MOVE_MEMENTO"
     ],
-    "blurb": "It's said that this Pok\u00e9mon was formed when an ancient clay tablet was drawn to a vengeful spirit.",
+    "blurb": "It's said that this Pokemon was formed when an ancient clay tablet was drawn to a vengeful spirit.",
     "name": "Yamask",
     "evolve_from": [],
     "location": [
         {
             "route": "Ruins of Void",
             "area": "B3F - B1F",
+            "method": "land"
+        },
+        {
+            "route": "Ruins of Void",
+            "area": "Special Encounter",
             "method": "land"
         }
     ],

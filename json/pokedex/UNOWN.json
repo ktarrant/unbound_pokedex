@@ -30,6 +30,133 @@
     "noFlip": true,
     "name": "Unown",
     "evolve_from": [],
+    "location": [
+        {
+            "route": "Tomb of Borrius",
+            "area": "1F",
+            "method": "land"
+        },
+        {
+            "route": "Tomb of Borrius",
+            "area": "1F",
+            "method": "land"
+        },
+        {
+            "route": "Tomb of Borrius",
+            "area": "1F",
+            "method": "land"
+        },
+        {
+            "route": "Tomb of Borrius",
+            "area": "1F",
+            "method": "land"
+        },
+        {
+            "route": "Tomb of Borrius",
+            "area": "B4F",
+            "method": "land"
+        },
+        {
+            "route": "Tomb of Borrius",
+            "area": "B4F",
+            "method": "land"
+        },
+        {
+            "route": "Tomb of Borrius",
+            "area": "B4F",
+            "method": "land"
+        },
+        {
+            "route": "Tomb of Borrius",
+            "area": "B4F",
+            "method": "land"
+        },
+        {
+            "route": "Tomb of Borrius",
+            "area": "B4F",
+            "method": "land"
+        },
+        {
+            "route": "Tomb of Borrius",
+            "area": "B3F",
+            "method": "land"
+        },
+        {
+            "route": "Tomb of Borrius",
+            "area": "B3F",
+            "method": "land"
+        },
+        {
+            "route": "Tomb of Borrius",
+            "area": "B3F",
+            "method": "land"
+        },
+        {
+            "route": "Tomb of Borrius",
+            "area": "B3F",
+            "method": "land"
+        },
+        {
+            "route": "Tomb of Borrius",
+            "area": "B3F",
+            "method": "land"
+        },
+        {
+            "route": "Tomb of Borrius",
+            "area": "B2F",
+            "method": "land"
+        },
+        {
+            "route": "Tomb of Borrius",
+            "area": "B2F",
+            "method": "land"
+        },
+        {
+            "route": "Tomb of Borrius",
+            "area": "B2F",
+            "method": "land"
+        },
+        {
+            "route": "Tomb of Borrius",
+            "area": "B2F",
+            "method": "land"
+        },
+        {
+            "route": "Tomb of Borrius",
+            "area": "B2F",
+            "method": "land"
+        },
+        {
+            "route": "Tomb of Borrius",
+            "area": "B1F",
+            "method": "land"
+        },
+        {
+            "route": "Tomb of Borrius",
+            "area": "B1F",
+            "method": "land"
+        },
+        {
+            "route": "Tomb of Borrius",
+            "area": "B1F",
+            "method": "land"
+        },
+        {
+            "route": "Tomb of Borrius",
+            "area": "B1F",
+            "method": "land"
+        },
+        {
+            "route": "Tomb of Borrius",
+            "area": "B1F",
+            "method": "land"
+        },
+        {
+            "route": "Tomb of Borrius",
+            "area": "1F (Main Room)",
+            "method": "land"
+        }
+    ],
     "tm": [
         "MOVE_HIDDENPOWER"
     ],

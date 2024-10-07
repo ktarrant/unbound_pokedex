@@ -28,8 +28,21 @@
     "safariZoneFleeRate": 0,
     "hiddenAbility": "ABILITY_NONE",
     "noFlip": true,
-    "blurb": "It is said that by using its power, this Pok\u00e9mon saved the creatures of a forest from a meteorite strike.",
+    "blurb": "It is said that by using its power, this Pokemon saved the creatures of a forest from a meteorite strike.",
+    "name": "Ho-Oh",
     "evolve_from": [],
+    "location": [
+        {
+            "route": "Route 14",
+            "area": "",
+            "method": "Good Rod"
+        },
+        {
+            "route": "Route 14",
+            "area": "",
+            "method": "Super Rod"
+        }
+    ],
     "learnset": [
         {
             "level": 1,

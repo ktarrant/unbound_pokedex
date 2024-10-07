@@ -28,7 +28,7 @@
     "safariZoneFleeRate": 0,
     "hiddenAbility": "ABILITY_FLAREBOOST",
     "noFlip": true,
-    "blurb": "It grabs people and Pok\u00e9mon and carries them off somewhere. Where do they go? Nobody knows.",
+    "blurb": "It grabs people and Pokemon and carries them off somewhere. Where do they go? Nobody knows.",
     "name": "Drifblim",
     "evolve_from": [
         "DRIFLOON"

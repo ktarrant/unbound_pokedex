@@ -28,7 +28,15 @@
     "safariZoneFleeRate": 0,
     "hiddenAbility": "ABILITY_NONE",
     "noFlip": true,
+    "name": "Unown B",
     "evolve_from": [],
+    "location": [
+        {
+            "route": "Tomb of Borrius",
+            "area": "1F",
+            "method": "land"
+        }
+    ],
     "tm": [
         "MOVE_HIDDENPOWER"
     ],

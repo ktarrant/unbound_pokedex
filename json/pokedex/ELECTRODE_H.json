@@ -28,10 +28,22 @@
     "safariZoneFleeRate": 0,
     "hiddenAbility": "ABILITY_AFTERMATH",
     "noFlip": true,
-    "blurb": "When irritated, this Pok\u00e9mon lets loose an electric current equal to 20 lightning bolts.",
+    "blurb": "When irritated, this Pokemon lets loose an electric current equal to 20 lightning bolts.",
     "name": "Electrode",
     "evolve_from": [
         "VOLTORB_H"
+    ],
+    "location": [
+        {
+            "route": "Route 14",
+            "area": "",
+            "method": "Good Rod"
+        },
+        {
+            "route": "Route 14",
+            "area": "",
+            "method": "Super Rod"
+        }
     ],
     "learnset": [
         {

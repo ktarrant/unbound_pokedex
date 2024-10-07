@@ -29,9 +29,22 @@
     "hiddenAbility": "ABILITY_NONE",
     "noFlip": true,
     "blurb": "This is its form when it has absorbed overwhelming light energy. It fires laser beams from all over its body.",
+    "name": "Muk",
     "evolve_from": [
         "NECROZMA_DUSK_MANE",
         "NECROZMA_DAWN_WINGS"
+    ],
+    "location": [
+        {
+            "route": "Route 14",
+            "area": "",
+            "method": "Good Rod"
+        },
+        {
+            "route": "Route 14",
+            "area": "",
+            "method": "Super Rod"
+        }
     ],
     "learnset": [
         {

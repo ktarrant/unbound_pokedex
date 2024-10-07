@@ -4,7 +4,7 @@ multiple sources into a few consistent JSON files which can be used
 for data reference for creating guides.
 
 The C data is taken from here:
-TODO: Link GitHub Repo with C data
+https://github.com/Skeli789/Dynamic-Pokemon-Expansion/tree/Unbound
 
 The Pokemon Location data is from here:
 https://docs.google.com/spreadsheets/d/1PyGm-yrit5Ow6cns2tBA9VEMwLVMzn3YhDRipABjLUM/edit#gid=897380238

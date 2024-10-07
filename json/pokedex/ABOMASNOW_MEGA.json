@@ -36,8 +36,16 @@
             "extra": "MEGA_VARIANT_STANDARD"
         }
     ],
+    "name": "Abomasnow",
     "evolve_from": [
         "ABOMASNOW"
+    ],
+    "location": [
+        {
+            "route": "Victory Road",
+            "area": "Snowy Area",
+            "method": "land"
+        }
     ],
     "learnset": [
         {

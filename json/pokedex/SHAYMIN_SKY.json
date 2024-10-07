@@ -28,6 +28,8 @@
     "safariZoneFleeRate": 0,
     "hiddenAbility": "ABILITY_FLOWERVEIL",
     "noFlip": true,
+    "blurb": "It eats dust in the atmosphere. The composition of the dust determines the color of its core.",
+    "name": "Ho-Oh",
     "evolve_from": [],
     "learnset": [
         {

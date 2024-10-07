@@ -29,8 +29,21 @@
     "hiddenAbility": "ABILITY_SYMBIOSIS",
     "noFlip": true,
     "blurb": "Its life can span several hundred years. It's said to devote its entire life to protecting gardens.",
+    "name": "Florges",
     "evolve_from": [
         "FLOETTE"
+    ],
+    "location": [
+        {
+            "route": "Route 14",
+            "area": "",
+            "method": "Good Rod"
+        },
+        {
+            "route": "Route 14",
+            "area": "",
+            "method": "Super Rod"
+        }
     ],
     "tm": [
         "MOVE_CALMMIND",

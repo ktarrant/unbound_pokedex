@@ -31,6 +31,18 @@
     "blurb": "It crosses the world, running over the surfaces of oceans and rivers. It appears at scenic waterfronts.",
     "name": "Keldeo",
     "evolve_from": [],
+    "location": [
+        {
+            "route": "Route 14",
+            "area": "",
+            "method": "Good Rod"
+        },
+        {
+            "route": "Route 14",
+            "area": "",
+            "method": "Super Rod"
+        }
+    ],
     "tm": [
         "MOVE_WATERPULSE",
         "MOVE_CALMMIND",

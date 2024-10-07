@@ -36,8 +36,21 @@
             "extra": "MEGA_VARIANT_STANDARD"
         }
     ],
+    "name": "Camerupt",
     "evolve_from": [
         "CAMERUPT"
+    ],
+    "location": [
+        {
+            "route": "Cinder Volcano",
+            "area": "Shadow Basement",
+            "method": "land"
+        },
+        {
+            "route": "Victory Road",
+            "area": "B1F",
+            "method": "land"
+        }
     ],
     "learnset": [
         {

@@ -31,6 +31,18 @@
     "blurb": "It was inside a meteorite that fell 20,000 years ago. The energy that its core absorbs allows it to live.",
     "name": "Eternatus",
     "evolve_from": [],
+    "location": [
+        {
+            "route": "Route 14",
+            "area": "",
+            "method": "Good Rod"
+        },
+        {
+            "route": "Route 14",
+            "area": "",
+            "method": "Super Rod"
+        }
+    ],
     "tm": [
         "MOVE_ROAR",
         "MOVE_TOXIC",

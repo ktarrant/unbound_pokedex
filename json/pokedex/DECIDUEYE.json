@@ -31,6 +31,18 @@
     "blurb": "Although basically cool and cautious, when it's caught by surprise, it's seized by panic.",
     "name": "Decidueye",
     "evolve_from": [],
+    "location": [
+        {
+            "route": "Route 14",
+            "area": "",
+            "method": "Good Rod"
+        },
+        {
+            "route": "Route 14",
+            "area": "",
+            "method": "Super Rod"
+        }
+    ],
     "learnset": [
         {
             "level": 0,

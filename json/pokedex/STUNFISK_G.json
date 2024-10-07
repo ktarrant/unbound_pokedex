@@ -49,6 +49,11 @@
         },
         {
             "route": "Cootes Bog",
+            "area": "Special Encounter",
+            "method": "land"
+        },
+        {
+            "route": "Cootes Bog",
             "area": "",
             "method": "surf"
         }

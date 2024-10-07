@@ -28,9 +28,21 @@
     "safariZoneFleeRate": 0,
     "hiddenAbility": "ABILITY_NONE",
     "noFlip": true,
-    "blurb": "It is told in mythology that this Pok\u00e9mon was born before the universe even existed.",
+    "blurb": "It is told in mythology that this Pokemon was born before the universe even existed.",
     "name": "Arceus",
     "evolve_from": [],
+    "location": [
+        {
+            "route": "Route 14",
+            "area": "",
+            "method": "Good Rod"
+        },
+        {
+            "route": "Route 14",
+            "area": "",
+            "method": "Super Rod"
+        }
+    ],
     "tm": [
         "MOVE_DRAGONCLAW",
         "MOVE_WATERPULSE",

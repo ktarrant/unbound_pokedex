@@ -50,7 +50,15 @@
         }
     ],
     "blurb": "It lives on snowy mountains. Its steel shell is very hard-so much so, it can't roll its body up into a ball.",
+    "name": "Ho-Oh",
     "evolve_from": [],
+    "location": [
+        {
+            "route": "Icicle Cave",
+            "area": "4F (Outside)",
+            "method": "land"
+        }
+    ],
     "learnset": [
         {
             "level": 1,

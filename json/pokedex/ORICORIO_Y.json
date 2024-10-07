@@ -34,6 +34,7 @@
         "MOVE_SAFEGUARD"
     ],
     "blurb": "This Oricorio has sipped bright yellow nectar. Its bright, cheerful dance melts the hearts of its enemies.",
+    "name": "Oricorio",
     "evolve_from": [],
     "tm": [
         "MOVE_CALMMIND",

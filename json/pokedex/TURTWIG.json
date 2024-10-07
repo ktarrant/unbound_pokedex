@@ -60,6 +60,18 @@
     "blurb": "Made from soil, the shell on its back hardens when it drinks water. It lives along lakes.",
     "name": "Turtwig",
     "evolve_from": [],
+    "location": [
+        {
+            "route": "Route 14",
+            "area": "",
+            "method": "Good Rod"
+        },
+        {
+            "route": "Route 14",
+            "area": "",
+            "method": "Super Rod"
+        }
+    ],
     "learnset": [
         {
             "level": 1,

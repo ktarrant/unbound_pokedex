@@ -35,6 +35,13 @@
     "blurb": "Once a year, on a specific date and at a specific time, they gather out of nowhere and form up in a circle.",
     "name": "Stonjorner",
     "evolve_from": [],
+    "location": [
+        {
+            "route": "Route 18",
+            "area": "Special Encounter",
+            "method": "land"
+        }
+    ],
     "learnset": [
         {
             "level": 1,

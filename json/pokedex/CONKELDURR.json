@@ -31,6 +31,18 @@
     "blurb": "It is thought that Conkeldurr taught humans how to make concrete more than 2,000 years ago.",
     "name": "Conkeldurr",
     "evolve_from": [],
+    "location": [
+        {
+            "route": "Route 14",
+            "area": "",
+            "method": "Good Rod"
+        },
+        {
+            "route": "Route 14",
+            "area": "",
+            "method": "Super Rod"
+        }
+    ],
     "learnset": [
         {
             "level": 1,

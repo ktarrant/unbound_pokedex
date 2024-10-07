@@ -5,7 +5,7 @@
     "SNORUNT",
     "VANILLITE",
     "DELIBIRD",
-    "Minior"
+    "MINIOR_VIOLET"
    ]
   }
  },
@@ -17,7 +17,7 @@
     "MINCCINO",
     "INKAY",
     "HOOTHOOT",
-    "RATTATA",
+    "RATTATA_A",
     "ELECTRIKE",
     "AZURILL",
     "STUFFUL",
@@ -130,7 +130,7 @@
     "RALTS"
    ],
    "Swarm": [
-    "Burmy"
+    "GENESECT_BURN"
    ],
    "Special Encounter": [
     "SIZZLIPEDE"
@@ -170,8 +170,8 @@
     "LICKITUNG",
     "TAILLOW",
     "MURKROW",
-    "Nidoran\u2642\ufe0f",
-    "Nidoran\u2640\ufe0f",
+    "Nidoran",
+    "Nidoran",
     "GROWLITHE_H",
     "YANMA",
     "HOUNDOUR",
@@ -222,7 +222,7 @@
     "LEDYBA",
     "SPINARAK",
     "SHINX",
-    "Deerling",
+    "DEERLING_WINTER",
     "SUNKERN",
     "LEDIAN",
     "KRICKETOT",
@@ -268,7 +268,7 @@
    "": [
     "YUNGOOS",
     "DODUO",
-    "Alolan Rattata",
+    "RATTATA_A",
     "HOOTHOOT",
     "BUNEARY",
     "ESPURR",
@@ -278,14 +278,14 @@
     "SHINX",
     "LUXIO",
     "GUMSHOOS",
-    "Alolan Raticate"
+    "RATICATE_A"
    ],
    "Swarm": [
     "MR_MIME_G"
    ],
    "Special Encounter": [
-    "Indeedee\u2642\ufe0f",
-    "Indeedee\u2640\ufe0f"
+    "INDEEDEE_FEMALE",
+    "INDEEDEE_FEMALE"
    ]
   },
   "surf": {
@@ -322,15 +322,15 @@
     "SNORUNT",
     "SNEASEL_H",
     "CUBCHOO",
-    "Deerling",
+    "DEERLING_WINTER",
     "FLAAFFY",
-    "Minior"
+    "MINIOR_VIOLET"
    ],
    "Swarm": [
     "STANTLER"
    ],
    "Special Encounter": [
-    "Galarian Mr. Mime",
+    "MR. MIME_G",
     "MR_RIME"
    ]
   },
@@ -350,10 +350,10 @@
     "SPEAROW",
     "GRUBBIN",
     "MARILL",
-    "Deerling",
+    "DEERLING_WINTER",
     "SHROOMISH",
     "SKORUPI",
-    "AUDINO"
+    "AUDINO_MEGA"
    ],
    "Swarm": [
     "KARRABLAST"
@@ -409,7 +409,7 @@
     "SHELMET"
    ],
    "Special Encounter": [
-    "Galarian Linoone",
+    "LINOONE_G",
     "OBSTAGOON"
    ]
   },
@@ -498,7 +498,7 @@
     "MIENFOO",
     "PONYTA_G",
     "SNUBBULL",
-    "Deerling",
+    "DEERLING_WINTER",
     "Fletchinder",
     "NOCTOWL",
     "DEDENNE"
@@ -508,7 +508,7 @@
     "SWIRLIX"
    ],
    "Special Encounter": [
-    "Galarian Ponyta",
+    "PONYTA_G",
     "APPLIN"
    ]
   },
@@ -545,7 +545,7 @@
     "PELIPPER",
     "BIBAREL",
     "GOLDUCK",
-    "GASTRODON",
+    "GASTRODON_EAST",
     "FLOATZEL",
     "SLOWPOKE_G",
     "WEEPINBELL",
@@ -565,7 +565,7 @@
     "MANTINE"
    ],
    "Special Encounter": [
-    "Galarian Slowpoke"
+    "SLOWPOKE_G"
    ]
   },
   "Old Rod": {
@@ -615,7 +615,7 @@
   "Rock Smash": {
    "": [
     "BINACLE",
-    "GEODUDE",
+    "GEODUDE_A",
     "CORSOLA_G",
     "KRABBY",
     "KINGLER_GIGA"
@@ -678,7 +678,7 @@
   "Rock Smash": {
    "": [
     "BINACLE",
-    "GEODUDE",
+    "GEODUDE_A",
     "CORSOLA_G",
     "KRABBY",
     "KINGLER_GIGA"
@@ -702,7 +702,7 @@
     "ILLUMISE"
    ],
    "Special Encounter": [
-    "Galarian Farfetch'd",
+    "FARFETCH'D_G",
     "SIRFETCHD"
    ]
   },
@@ -744,7 +744,7 @@
   "Rock Smash": {
    "": [
     "BINACLE",
-    "GEODUDE",
+    "GEODUDE_A",
     "CORSOLA_G",
     "KRABBY",
     "KINGLER_GIGA"
@@ -757,7 +757,7 @@
     "FARFETCHD_G",
     "NOCTOWL",
     "SKUNTANK",
-    "PERSIAN",
+    "PERSIAN_A",
     "BOUFFALANT",
     "SUDOWOODO",
     "HAPPINY"
@@ -766,7 +766,7 @@
     "BAYLEEF"
    ],
    "Special Encounter": [
-    "Stonjourner"
+    "STONJOURNER"
    ]
   },
   "surf": {
@@ -800,7 +800,7 @@
   "Rock Smash": {
    "": [
     "BINACLE",
-    "GEODUDE",
+    "GEODUDE_A",
     "CORSOLA_G",
     "KRABBY",
     "KINGLER_GIGA"
@@ -842,10 +842,10 @@
     "ROGGENROLA",
     "MAKUHITA",
     "DRILBUR",
-    "MAWILE"
+    "MAWILE_MEGA"
    ],
    "4F (Outside)": [
-    "Alolan Sandshrew"
+    "SANDSHREW_A"
    ],
    "1F + B1F": [
     "GOLBAT",
@@ -898,43 +898,43 @@
   "land": {
    "": [],
    "Yellow Flowers": [
-    "Flabe\u0301be\u0301",
+    "FLABEBE_YELLOW",
     "CUTIEFLY",
-    "ORICORIO",
+    "ORICORIO_S",
     "COMBEE"
    ],
    "Pink Flowers": [
-    "Flabe\u0301be\u0301",
+    "FLABEBE_YELLOW",
     "CUTIEFLY",
-    "ORICORIO",
+    "ORICORIO_S",
     "COMFEY",
     "PANSAGE",
     "COMBEE"
    ],
    "Blue Flowers": [
-    "Flabe\u0301be\u0301",
+    "FLABEBE_YELLOW",
     "CUTIEFLY",
     "PANPOUR",
     "COMBEE"
    ],
    "Red Flowers": [
-    "Flabe\u0301be\u0301",
+    "FLABEBE_YELLOW",
     "CUTIEFLY",
-    "ORICORIO",
+    "ORICORIO_S",
     "COMFEY",
     "PANSEAR",
     "COMBEE"
    ],
    "Blue-Yellow Flowers": [
-    "Flabe\u0301be\u0301",
+    "FLABEBE_YELLOW",
     "CUTIEFLY",
-    "ORICORIO",
+    "ORICORIO_S",
     "COMBEE"
    ],
    "Pink-Purple Flowers": [
-    "Flabe\u0301be\u0301",
+    "FLABEBE_YELLOW",
     "CUTIEFLY",
-    "ORICORIO",
+    "ORICORIO_S",
     "COMFEY",
     "COMBEE"
    ]
@@ -946,7 +946,7 @@
     "CATERPIE",
     "WEEDLE",
     "SEEDOT",
-    "Pumpkaboo",
+    "PUMPKABOO_M",
     "GASTLY",
     "SHUPPET",
     "DUSKULL",
@@ -990,7 +990,7 @@
     "SLUGMA",
     "SALANDIT",
     "NUMEL",
-    "GEODUDE",
+    "GEODUDE_A",
     "DRILBUR",
     "TORKOAL",
     "MAGBY"
@@ -999,14 +999,14 @@
     "WOOBAT",
     "SLUGMA",
     "SALANDIT",
-    "CAMERUPT",
-    "GRAVELER",
+    "CAMERUPT_MEGA",
+    "GRAVELER_A",
     "EXCADRILL",
     "HEATMOR",
     "MAGMAR"
    ],
    "Swarm": [
-    "VULPIX"
+    "VULPIX_A"
    ],
    "Special Encounter": [
     "ROLYCOLY",
@@ -1024,8 +1024,8 @@
   "Super Rod": {},
   "Rock Smash": {
    "": [
-    "GEODUDE",
-    "GRAVELER",
+    "GEODUDE_A",
+    "GRAVELER_A",
     "SHUCKLE",
     "SLUGMA",
     "MAGCARGO"
@@ -1053,7 +1053,7 @@
     "DUNSPARCE"
    ],
    "Special Encounter": [
-    "Galarian Meowth",
+    "MEOWTH_G",
     "PERRSERKER"
    ]
   },
@@ -1085,7 +1085,7 @@
   },
   "Rock Smash": {
    "": [
-    "GEODUDE",
+    "GEODUDE_A",
     "NOSEPASS"
    ]
   }
@@ -1101,7 +1101,7 @@
     "MAKUHITA",
     "ARON",
     "NOSEPASS",
-    "GEODUDE",
+    "GEODUDE_A",
     "NOIBAT"
    ],
    "\"Dehara, Gurun, Antisis, \"": [
@@ -1111,7 +1111,7 @@
     "HARIYAMA",
     "LAIRON",
     "NOSEPASS",
-    "GRAVELER",
+    "GRAVELER_A",
     "NOIBAT"
    ]
   },
@@ -1121,7 +1121,7 @@
   "Super Rod": {},
   "Rock Smash": {
    "": [
-    "GEODUDE",
+    "GEODUDE_A",
     "NOSEPASS"
    ]
   }
@@ -1226,11 +1226,11 @@
  "Lost Tunnel": {
   "land": {
    "": [
-    "GRAVELER",
+    "GRAVELER_A",
     "WOOBAT",
     "LAIRON",
-    "DIGLETT",
-    "DUGTRIO"
+    "DIGLETT_A",
+    "DUGTRIO_A"
    ]
   },
   "surf": {},
@@ -1239,8 +1239,8 @@
   "Super Rod": {},
   "Rock Smash": {
    "": [
-    "GEODUDE",
-    "GRAVELER"
+    "GEODUDE_A",
+    "GRAVELER_A"
    ]
   }
  },
@@ -1318,14 +1318,14 @@
   },
   "Rock Smash": {
    "Inside": [
-    "Alolan Geodude",
-    "Alolan Graveler",
+    "GEODUDE_A",
+    "GRAVELER_A",
     "NOSEPASS",
     "SHUCKLE"
    ],
    "Outside": [
     "BINACLE",
-    "Alolan Geodude",
+    "GEODUDE_A",
     "CORSOLA_G",
     "KRABBY",
     "KINGLER_GIGA"
@@ -1336,15 +1336,15 @@
   "land": {
    "": [
     "GOLBAT",
-    "Alolan Geodude",
+    "GEODUDE_A",
     "MACHOP",
     "ONIX",
     "WOOPER",
     "MISDREAVUS",
     "QUAGSIRE",
-    "Alolan Graveler",
+    "GRAVELER_A",
     "MACHOKE",
-    "STEELIX"
+    "STEELIX_MEGA"
    ]
   }
  },
@@ -1355,7 +1355,7 @@
     "BALTOY",
     "YAMASK_G",
     "DUSKULL",
-    "SABLEYE",
+    "SABLEYE_MEGA",
     "BRONZONG",
     "DUSCLOPS",
     "LUNATONE",
@@ -1367,14 +1367,14 @@
     "CLAYDOL",
     "COFAGRIGUS",
     "DUSCLOPS",
-    "SABLEYE",
+    "SABLEYE_MEGA",
     "BRONZONG",
     "LUNATONE",
     "SOLROCK",
     "SIGILYPH"
    ],
    "Special Encounter": [
-    "Galarian Yamask",
+    "YAMASK_G",
     "RUNERIGUS"
    ]
   },
@@ -1416,7 +1416,7 @@
   },
   "Rock Smash": {
    "": [
-    "GEODUDE",
+    "GEODUDE_A",
     "BALTOY"
    ]
   }
@@ -1471,7 +1471,7 @@
    "": [
     "BINACLE",
     "DWEBBLE",
-    "GEODUDE",
+    "GEODUDE_A",
     "Armor Fossil",
     "Claw Fossil",
     "Cover Fossil",
@@ -1489,40 +1489,40 @@
  "Antisis Sewers": {
   "land": {
    "": [
-    "GRIMER",
-    "RATICATE",
+    "GRIMER_A",
+    "RATICATE_A",
     "GOLBAT",
     "KOFFING_G",
-    "MUK",
+    "CALYREX_ICE_RIDER",
     "WEEZING_G"
    ],
    "Swarm": [
     "WHIRLIPEDE"
    ],
    "Special Encounter": [
-    "Galarian Weezing"
+    "WEEZING_G"
    ]
   },
   "surf": {
    "": [
-    "GRIMER",
+    "GRIMER_A",
     "GOLBAT",
-    "MUK"
+    "CALYREX_ICE_RIDER"
    ]
   },
   "Old Rod": {
    "": [
-    "GRIMER"
+    "GRIMER_A"
    ]
   },
   "Good Rod": {
    "": [
-    "GRIMER"
+    "GRIMER_A"
    ]
   },
   "Super Rod": {
    "": [
-    "MUK"
+    "CALYREX_ICE_RIDER"
    ]
   }
  },
@@ -1530,47 +1530,47 @@
   "land": {
    "": [],
    "1F": [
-    "Unown A",
-    "Unown B",
-    "Unown C",
-    "Unown D",
-    "Unown E",
+    "UNOWN",
+    "UNOWN_Z",
+    "UNOWN",
+    "UNOWN",
+    "UNOWN",
     "SIGILYPH"
    ],
    "B4F": [
-    "Unown F",
-    "Unown G",
-    "Unown H",
-    "Unown I",
-    "Unown J",
+    "UNOWN",
+    "UNOWN",
+    "UNOWN",
+    "UNOWN",
+    "UNOWN",
     "SIGILYPH"
    ],
    "B3F": [
-    "Unown K",
-    "Unown L",
-    "Unown M",
-    "Unown N",
-    "Unown O",
+    "UNOWN",
+    "UNOWN",
+    "UNOWN",
+    "UNOWN",
+    "UNOWN",
     "SIGILYPH"
    ],
    "B2F": [
-    "Unown P",
-    "Unown Q",
-    "Unown R",
-    "Unown S",
-    "Unown T",
+    "UNOWN",
+    "UNOWN",
+    "UNOWN",
+    "UNOWN",
+    "UNOWN",
     "SIGILYPH"
    ],
    "B1F": [
-    "Unown U",
-    "Unown V",
-    "Unown W",
-    "Unown X",
-    "Unown Y",
+    "UNOWN",
+    "UNOWN",
+    "UNOWN",
+    "UNOWN",
+    "UNOWN",
     "SIGILYPH"
    ],
    "1F (Main Room)": [
-    "Unown Z",
+    "UNOWN",
     "UNOWN_QUESTION",
     "UNOWN_EXCLAMATION"
    ]
@@ -1581,7 +1581,7 @@
   "Super Rod": {},
   "Rock Smash": {
    "": [
-    "GRAVELER",
+    "GRAVELER_A",
     "SHUCKLE"
    ]
   }
@@ -1652,14 +1652,14 @@
     "CROCONAW"
    ],
    "Special Encounter": [
-    "Galarian Stunfisk"
+    "STUNFISK_G"
    ]
   },
   "surf": {
    "": [
     "QUAGSIRE",
     "STUNFISK_G",
-    "GASTRODON",
+    "GASTRODON_EAST",
     "SLIGGOO_H"
    ]
   },
@@ -1690,7 +1690,7 @@
     "SKITTY",
     "RHYHORN",
     "NATU",
-    "Alolan Meowth",
+    "MEOWTH_A",
     "PLUSLE",
     "MINUN",
     "BOUNSWEET",
@@ -1704,7 +1704,7 @@
     "STEENEE",
     "ZEBSTRIKA",
     "XATU",
-    "Alolan Diglett",
+    "DIGLETT_A",
     "SPINDA",
     "WOBBUFFET",
     "TAUROS",
@@ -1723,8 +1723,8 @@
     "SPINDA",
     "TAUROS",
     "HELIOPTILE",
-    "Alolan Exeggcute",
-    "Alolan Diglett",
+    "EXEGGCUTE_A",
+    "DIGLETT_A",
     "GOLISOPOD",
     "GROVYLE",
     "COMBUSKEN",
@@ -1736,10 +1736,10 @@
     "DOUBLADE",
     "KANGASKHAN",
     "WOBBUFFET",
-    "Alolan Exeggcute",
+    "EXEGGCUTE_A",
     "GOLISOPOD",
     "HELIOLISK",
-    "Alolan Dugtrio",
+    "DUGTRIO_A",
     "GROVYLE",
     "COMBUSKEN",
     "MARSHTOMP"
@@ -1755,7 +1755,7 @@
     "ONIX",
     "NOIBAT",
     "ZWEILOUS",
-    "STEELIX",
+    "STEELIX_MEGA",
     "SKARMORY"
    ],
    "1F": [
@@ -1764,14 +1764,14 @@
     "ONIX",
     "NOIVERN",
     "ZWEILOUS",
-    "STEELIX",
+    "STEELIX_MEGA",
     "SKARMORY"
    ],
    "Outside": [
     "DRIFBLIM",
     "RUFFLET",
     "VULLABY",
-    "ABSOL"
+    "ABSOL_MEGA"
    ],
    "Special Encounter": [
     "DURALUDON_GIGA",
@@ -1781,7 +1781,7 @@
   },
   "surf": {
    "": [
-    "GASTRODON",
+    "GASTRODON_EAST",
     "GOLDUCK",
     "DRAGONAIR"
    ]
@@ -1806,7 +1806,7 @@
   },
   "Rock Smash": {
    "": [
-    "GRAVELER",
+    "GRAVELER_A",
     "ONIX"
    ]
   }
@@ -1816,7 +1816,7 @@
    "": [
     "NOCTOWL",
     "TRANQUILL",
-    "FURFROU",
+    "FURFROU_DEBUTANTE",
     "MUDSDALE",
     "GOGOAT",
     "MILTANK",
@@ -1833,8 +1833,8 @@
    "": [
     "FRILLISH_F",
     "PELIPPER",
-    "JELLICENT",
-    "JELLICENT"
+    "JELLICENT_F",
+    "JELLICENT_F"
    ],
    "Special Encounter": [
     "ENAMORUS_THERIAN"
@@ -1875,7 +1875,7 @@
     "AIPOM",
     "PINECO",
     "SCYTHER",
-    "PINSIR",
+    "PINSIR_MEGA",
     "HERACROSS"
    ],
    "Swarm": [
@@ -1925,8 +1925,8 @@
     "WOOBAT",
     "MAGCARGO",
     "SALAZZLE",
-    "CAMERUPT",
-    "GRAVELER",
+    "CAMERUPT_MEGA",
+    "GRAVELER_A",
     "EXCADRILL",
     "HEATMOR",
     "MAGMAR"
@@ -1937,7 +1937,7 @@
     "DRAMPA"
    ],
    "Special Encounter": [
-    "Galarian Darmanitan"
+    "DARMANITAN_G"
    ],
    "Maze Area": [
     "HEATMOR",
@@ -1954,11 +1954,11 @@
     "Hakamo-o"
    ],
    "Snowy Area": [
-    "ABOMASNOW",
-    "GLALIE",
+    "ABOMASNOW_MEGA",
+    "GLALIE_MEGA",
     "VANILLISH",
     "BEARTIC",
-    "Minior"
+    "MINIOR_VIOLET"
    ],
    "4F + Kyurem's Cave": [
     "GOLBAT",
@@ -1966,7 +1966,7 @@
     "SEALEO",
     "JYNX",
     "AVALUGG_H",
-    "GLALIE",
+    "GLALIE_MEGA",
     "PILOSWINE"
    ]
   },

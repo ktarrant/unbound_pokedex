@@ -50,13 +50,6 @@
     ],
     "name": "Rattata",
     "evolve_from": [],
-    "location": [
-        {
-            "route": "Route 2",
-            "area": "",
-            "method": "land"
-        }
-    ],
     "learnset": [
         {
             "level": 1,

@@ -31,6 +31,18 @@
     "blurb": "One of the dangerous Ultra Beasts, it has been spotted running across the land at terrific speeds.",
     "name": "Pheromosa",
     "evolve_from": [],
+    "location": [
+        {
+            "route": "Route 14",
+            "area": "",
+            "method": "Good Rod"
+        },
+        {
+            "route": "Route 14",
+            "area": "",
+            "method": "Super Rod"
+        }
+    ],
     "learnset": [
         {
             "level": 1,

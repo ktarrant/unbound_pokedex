@@ -29,7 +29,20 @@
     "hiddenAbility": "ABILITY_GORILLATACTICS",
     "noFlip": true,
     "blurb": "It stores coldness in its pincers and pummels its foes. It can even smash thick walls of ice to bits!",
+    "name": "Minior",
     "evolve_from": [],
+    "location": [
+        {
+            "route": "Route 14",
+            "area": "",
+            "method": "Good Rod"
+        },
+        {
+            "route": "Route 14",
+            "area": "",
+            "method": "Super Rod"
+        }
+    ],
     "learnset": [
         {
             "level": 0,

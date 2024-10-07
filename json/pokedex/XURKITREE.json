@@ -31,6 +31,18 @@
     "blurb": "It appeared from the Ultra Wormhole. It raided a power plant, so it energizes itself with electricity.",
     "name": "Xurkitree",
     "evolve_from": [],
+    "location": [
+        {
+            "route": "Route 14",
+            "area": "",
+            "method": "Good Rod"
+        },
+        {
+            "route": "Route 14",
+            "area": "",
+            "method": "Super Rod"
+        }
+    ],
     "learnset": [
         {
             "level": 1,

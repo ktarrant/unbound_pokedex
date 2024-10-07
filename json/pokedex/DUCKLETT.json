@@ -50,6 +50,18 @@
     "blurb": "When attacked, it uses its feathers to splash water, escaping under cover of the spray.",
     "name": "Ducklett",
     "evolve_from": [],
+    "location": [
+        {
+            "route": "Route 14",
+            "area": "",
+            "method": "Good Rod"
+        },
+        {
+            "route": "Route 14",
+            "area": "",
+            "method": "Super Rod"
+        }
+    ],
     "learnset": [
         {
             "level": 1,

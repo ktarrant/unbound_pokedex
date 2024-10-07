@@ -29,8 +29,21 @@
     "hiddenAbility": "ABILITY_SNOWWARNING",
     "noFlip": true,
     "blurb": "It lives on mountains perpetually covered in snow and is revered as a deity incarnate.",
+    "name": "Ninetales",
     "evolve_from": [
         "VULPIX_A"
+    ],
+    "location": [
+        {
+            "route": "Route 14",
+            "area": "",
+            "method": "Good Rod"
+        },
+        {
+            "route": "Route 14",
+            "area": "",
+            "method": "Super Rod"
+        }
     ],
     "learnset": [
         {

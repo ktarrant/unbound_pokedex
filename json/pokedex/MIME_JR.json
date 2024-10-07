@@ -50,9 +50,21 @@
             "extra": "0"
         }
     ],
-    "blurb": "It habitually mimics foes. Once mimicked, the foe cannot take its eyes off this Pok\u00e9mon.",
+    "blurb": "It habitually mimics foes. Once mimicked, the foe cannot take its eyes off this Pokemon.",
     "name": "Mime Jr.",
     "evolve_from": [],
+    "location": [
+        {
+            "route": "Route 14",
+            "area": "",
+            "method": "Good Rod"
+        },
+        {
+            "route": "Route 14",
+            "area": "",
+            "method": "Super Rod"
+        }
+    ],
     "tm": [
         "MOVE_FOCUSPUNCH",
         "MOVE_CALMMIND",

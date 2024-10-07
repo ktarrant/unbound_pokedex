@@ -36,8 +36,21 @@
             "extra": "MEGA_VARIANT_STANDARD"
         }
     ],
+    "name": "Glalie",
     "evolve_from": [
         "GLALIE"
+    ],
+    "location": [
+        {
+            "route": "Victory Road",
+            "area": "Snowy Area",
+            "method": "land"
+        },
+        {
+            "route": "Victory Road",
+            "area": "4F + Kyurem's Cave",
+            "method": "land"
+        }
     ],
     "learnset": [
         {

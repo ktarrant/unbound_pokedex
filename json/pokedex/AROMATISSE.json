@@ -31,6 +31,18 @@
     "blurb": "It devises various scents and emits scents that its enemies dislike in order to gain an edge in battle.",
     "name": "Aromatisse",
     "evolve_from": [],
+    "location": [
+        {
+            "route": "Route 14",
+            "area": "",
+            "method": "Good Rod"
+        },
+        {
+            "route": "Route 14",
+            "area": "",
+            "method": "Super Rod"
+        }
+    ],
     "learnset": [
         {
             "level": 1,

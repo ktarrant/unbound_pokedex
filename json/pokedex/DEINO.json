@@ -52,6 +52,18 @@
     "blurb": "It tends to bite everything, and it is not a picky eater. Approaching it carelessly is dangerous.",
     "name": "Deino",
     "evolve_from": [],
+    "location": [
+        {
+            "route": "Route 14",
+            "area": "",
+            "method": "Good Rod"
+        },
+        {
+            "route": "Route 14",
+            "area": "",
+            "method": "Super Rod"
+        }
+    ],
     "learnset": [
         {
             "level": 1,

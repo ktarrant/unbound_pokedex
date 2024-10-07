@@ -50,13 +50,6 @@
     "evolve_from": [
         "PINSIR_MEGA"
     ],
-    "location": [
-        {
-            "route": "Redwood Forest",
-            "area": "Headbutt Trees",
-            "method": "land"
-        }
-    ],
     "tm": [
         "MOVE_FOCUSPUNCH",
         "MOVE_TOXIC",

@@ -45,9 +45,21 @@
             "extra": "0"
         }
     ],
-    "blurb": "When it gets wet, its skin changes color, and this Pok\u00e9mon becomes invisible as if it were camouflaged.",
+    "blurb": "When it gets wet, its skin changes color, and this Pokemon becomes invisible as if it were camouflaged.",
     "name": "Sobble",
     "evolve_from": [],
+    "location": [
+        {
+            "route": "Route 14",
+            "area": "",
+            "method": "Good Rod"
+        },
+        {
+            "route": "Route 14",
+            "area": "",
+            "method": "Super Rod"
+        }
+    ],
     "learnset": [
         {
             "level": 1,

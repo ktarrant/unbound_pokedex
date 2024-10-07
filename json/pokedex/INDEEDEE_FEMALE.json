@@ -34,9 +34,21 @@
         "MOVE_PSYCHOSHIFT",
         "MOVE_HEALPULSE"
     ],
-    "blurb": "These intelligent Pok\u00e9mon touch horns with each other to share information between them.",
+    "blurb": "These intelligent Pokemon touch horns with each other to share information between them.",
     "name": "Indeedee",
     "evolve_from": [],
+    "location": [
+        {
+            "route": "Route 7",
+            "area": "Special Encounter",
+            "method": "land"
+        },
+        {
+            "route": "Route 7",
+            "area": "Special Encounter",
+            "method": "land"
+        }
+    ],
     "learnset": [
         {
             "level": 1,

@@ -51,7 +51,25 @@
         }
     ],
     "blurb": "Its golden hairs function as sensors. It pokes them out of its burrow to monitor its surroundings.",
+    "name": "Diglett",
     "evolve_from": [],
+    "location": [
+        {
+            "route": "Lost Tunnel",
+            "area": "",
+            "method": "land"
+        },
+        {
+            "route": "Safari Zone",
+            "area": "Medium",
+            "method": "land"
+        },
+        {
+            "route": "Safari Zone",
+            "area": "Hard",
+            "method": "land"
+        }
+    ],
     "learnset": [
         {
             "level": 1,

@@ -34,7 +34,35 @@
         "MOVE_SAFEGUARD"
     ],
     "blurb": "This Oricorio has sipped purple nectar. Some dancers use its graceful, elegant dancing as inspiration.",
+    "name": "Oricorio",
     "evolve_from": [],
+    "location": [
+        {
+            "route": "Flower Paradise",
+            "area": "Yellow Flowers",
+            "method": "land"
+        },
+        {
+            "route": "Flower Paradise",
+            "area": "Pink Flowers",
+            "method": "land"
+        },
+        {
+            "route": "Flower Paradise",
+            "area": "Red Flowers",
+            "method": "land"
+        },
+        {
+            "route": "Flower Paradise",
+            "area": "Blue-Yellow Flowers",
+            "method": "land"
+        },
+        {
+            "route": "Flower Paradise",
+            "area": "Pink-Purple Flowers",
+            "method": "land"
+        }
+    ],
     "learnset": [
         {
             "level": 1,

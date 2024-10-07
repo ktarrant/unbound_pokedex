@@ -53,8 +53,16 @@
             "extra": "0"
         }
     ],
-    "blurb": "In hot weather, this Pok\u00e9mon makes ice shards with its six tails and sprays them around to cool itself off.",
+    "blurb": "In hot weather, this Pokemon makes ice shards with its six tails and sprays them around to cool itself off.",
+    "name": "Vulpix",
     "evolve_from": [],
+    "location": [
+        {
+            "route": "Cinder Volcano",
+            "area": "Swarm",
+            "method": "land"
+        }
+    ],
     "learnset": [
         {
             "level": 1,

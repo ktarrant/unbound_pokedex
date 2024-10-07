@@ -31,6 +31,18 @@
     "blurb": "It sends a soothing aura from its ribbonlike feelers to calm fights.",
     "name": "Sylveon",
     "evolve_from": [],
+    "location": [
+        {
+            "route": "Route 14",
+            "area": "",
+            "method": "Good Rod"
+        },
+        {
+            "route": "Route 14",
+            "area": "",
+            "method": "Super Rod"
+        }
+    ],
     "learnset": [
         {
             "level": 0,

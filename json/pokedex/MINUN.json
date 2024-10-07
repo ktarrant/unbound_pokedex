@@ -36,6 +36,7 @@
         "MOVE_CHARM",
         "MOVE_TEARFULLOOK"
     ],
+    "blurb": "It eats dust in the atmosphere. The composition of the dust determines the color of its core.",
     "name": "Minun",
     "evolve_from": [],
     "location": [

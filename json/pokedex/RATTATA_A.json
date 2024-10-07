@@ -50,7 +50,20 @@
         }
     ],
     "blurb": "When the sun goes down, it becomes active. It runs around town on a chase for good food for its boss-Raticate.",
+    "name": "Rattata",
     "evolve_from": [],
+    "location": [
+        {
+            "route": "Route 2",
+            "area": "",
+            "method": "land"
+        },
+        {
+            "route": "Route 7",
+            "area": "",
+            "method": "land"
+        }
+    ],
     "learnset": [
         {
             "level": 1,

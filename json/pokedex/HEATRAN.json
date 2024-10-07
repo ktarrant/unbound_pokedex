@@ -31,6 +31,18 @@
     "blurb": "It dwells in volcanic caves. It digs in with its cross-shaped feet to crawl on ceilings and walls.",
     "name": "Heatran",
     "evolve_from": [],
+    "location": [
+        {
+            "route": "Route 14",
+            "area": "",
+            "method": "Good Rod"
+        },
+        {
+            "route": "Route 14",
+            "area": "",
+            "method": "Super Rod"
+        }
+    ],
     "learnset": [
         {
             "level": 1,

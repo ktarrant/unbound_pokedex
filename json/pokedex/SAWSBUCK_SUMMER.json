@@ -28,8 +28,21 @@
     "safariZoneFleeRate": 0,
     "hiddenAbility": "ABILITY_SERENEGRACE",
     "noFlip": true,
+    "name": "Sawsbuck",
     "evolve_from": [
         "DEERLING_SUMMER"
+    ],
+    "location": [
+        {
+            "route": "Route 14",
+            "area": "",
+            "method": "Good Rod"
+        },
+        {
+            "route": "Route 14",
+            "area": "",
+            "method": "Super Rod"
+        }
     ],
     "tm": [
         "MOVE_TOXIC",

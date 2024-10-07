@@ -43,14 +43,14 @@
     ],
     "location": [
         {
-            "route": "Cinder Volcano",
-            "area": "Shadow Basement",
-            "method": "land"
+            "route": "Route 14",
+            "area": "",
+            "method": "Good Rod"
         },
         {
-            "route": "Victory Road",
-            "area": "B1F",
-            "method": "land"
+            "route": "Route 14",
+            "area": "",
+            "method": "Super Rod"
         }
     ],
     "tm": [

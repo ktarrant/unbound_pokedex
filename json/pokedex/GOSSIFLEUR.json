@@ -47,6 +47,18 @@
     "blurb": "It anchors itself in the ground and basks in the sun. After absorbing enough sunlight, it blooms vividly.",
     "name": "Gossifleur",
     "evolve_from": [],
+    "location": [
+        {
+            "route": "Route 14",
+            "area": "",
+            "method": "Good Rod"
+        },
+        {
+            "route": "Route 14",
+            "area": "",
+            "method": "Super Rod"
+        }
+    ],
     "learnset": [
         {
             "level": 1,

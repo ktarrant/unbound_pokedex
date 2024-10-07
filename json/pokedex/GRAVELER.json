@@ -34,44 +34,14 @@
     ],
     "location": [
         {
-            "route": "Cinder Volcano",
-            "area": "Shadow Basement",
-            "method": "land"
-        },
-        {
-            "route": "Cinder Volcano",
+            "route": "Route 14",
             "area": "",
-            "method": "Rock Smash"
+            "method": "Good Rod"
         },
         {
-            "route": "KBT Expressway",
-            "area": "\"Dehara, Gurun, Antisis, \"",
-            "method": "land"
-        },
-        {
-            "route": "Lost Tunnel",
+            "route": "Route 14",
             "area": "",
-            "method": "land"
-        },
-        {
-            "route": "Lost Tunnel",
-            "area": "",
-            "method": "Rock Smash"
-        },
-        {
-            "route": "Tomb of Borrius",
-            "area": "",
-            "method": "Rock Smash"
-        },
-        {
-            "route": "Crystal Peak",
-            "area": "",
-            "method": "Rock Smash"
-        },
-        {
-            "route": "Victory Road",
-            "area": "B1F",
-            "method": "land"
+            "method": "Super Rod"
         }
     ],
     "learnset": [

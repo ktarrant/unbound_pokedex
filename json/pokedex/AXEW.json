@@ -51,6 +51,18 @@
     "blurb": "Its large tusks have a tendency to break, but each time they grow back, they grow in harder and sturdier.",
     "name": "Axew",
     "evolve_from": [],
+    "location": [
+        {
+            "route": "Route 14",
+            "area": "",
+            "method": "Good Rod"
+        },
+        {
+            "route": "Route 14",
+            "area": "",
+            "method": "Super Rod"
+        }
+    ],
     "learnset": [
         {
             "level": 1,

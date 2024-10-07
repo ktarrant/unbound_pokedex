@@ -28,9 +28,21 @@
     "safariZoneFleeRate": 0,
     "hiddenAbility": "ABILITY_STEADFAST",
     "noFlip": true,
-    "blurb": "This Pok\u00e9mon came to the defense of Pok\u00e9mon that had lost their homes in a war among humans.",
+    "blurb": "This Pokemon came to the defense of Pokemon that had lost their homes in a war among humans.",
     "name": "Terrakion",
     "evolve_from": [],
+    "location": [
+        {
+            "route": "Route 14",
+            "area": "",
+            "method": "Good Rod"
+        },
+        {
+            "route": "Route 14",
+            "area": "",
+            "method": "Super Rod"
+        }
+    ],
     "learnset": [
         {
             "level": 1,

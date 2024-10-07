@@ -31,6 +31,18 @@
     "blurb": "It can control trees at will. It will trap people who harm the forest, so they can never leave.",
     "name": "Trevenant",
     "evolve_from": [],
+    "location": [
+        {
+            "route": "Route 14",
+            "area": "",
+            "method": "Good Rod"
+        },
+        {
+            "route": "Route 14",
+            "area": "",
+            "method": "Super Rod"
+        }
+    ],
     "learnset": [
         {
             "level": 0,

@@ -28,7 +28,8 @@
     "safariZoneFleeRate": 0,
     "hiddenAbility": "ABILITY_NONE",
     "noFlip": true,
-    "blurb": "It focuses psychic energy into its tail and rides it like it's surfing. Another name for this Pok\u00e9mon is \"hodad.\\\"",
+    "blurb": "It focuses psychic energy into its tail and rides it like it's surfing. Another name for this Pokemon is \"hodad.\\\"",
+    "name": "Ho-Oh",
     "evolve_from": [],
     "learnset": [
         {

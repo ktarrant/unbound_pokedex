@@ -29,8 +29,21 @@
     "hiddenAbility": "ABILITY_STEELYSPIRIT",
     "noFlip": true,
     "blurb": "Its metallic whiskers are heavy, so it's not very fast, but it has the power to dig through bedrock.",
+    "name": "Dugtrio",
     "evolve_from": [
         "DIGLETT_A"
+    ],
+    "location": [
+        {
+            "route": "Lost Tunnel",
+            "area": "",
+            "method": "land"
+        },
+        {
+            "route": "Safari Zone",
+            "area": "Insane",
+            "method": "land"
+        }
     ],
     "learnset": [
         {

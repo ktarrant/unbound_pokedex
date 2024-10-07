@@ -49,6 +49,18 @@
     "blurb": "It doesn't allow its emotions to be easily seen. Earning its trust takes time. It prefers solitude.",
     "name": "Litten",
     "evolve_from": [],
+    "location": [
+        {
+            "route": "Route 14",
+            "area": "",
+            "method": "Good Rod"
+        },
+        {
+            "route": "Route 14",
+            "area": "",
+            "method": "Super Rod"
+        }
+    ],
     "learnset": [
         {
             "level": 1,

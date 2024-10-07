@@ -51,7 +51,7 @@ locations_file = os.path.join(dst_dir, "locations.json")
 
 with open(locations_file, 'w') as json_file:
     json.dump(location_data, json_file, indent=1)
-print(f"Fields data successfully parsed and saved to {locations_file}")
+print(f"Locations data successfully parsed and saved to {locations_file}")
 
 with open(move_file, 'w') as json_file:
     json.dump(move_data, json_file, indent=1)

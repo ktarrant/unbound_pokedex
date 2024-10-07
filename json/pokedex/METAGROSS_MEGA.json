@@ -36,8 +36,21 @@
             "extra": "MEGA_VARIANT_STANDARD"
         }
     ],
+    "name": "Metagross",
     "evolve_from": [
         "METAGROSS"
+    ],
+    "location": [
+        {
+            "route": "Route 14",
+            "area": "",
+            "method": "Good Rod"
+        },
+        {
+            "route": "Route 14",
+            "area": "",
+            "method": "Super Rod"
+        }
     ],
     "learnset": [
         {

@@ -28,8 +28,21 @@
     "safariZoneFleeRate": 0,
     "hiddenAbility": "ABILITY_SYMBIOSIS",
     "noFlip": true,
+    "name": "Florges",
     "evolve_from": [
         "FLOETTE_YELLOW"
+    ],
+    "location": [
+        {
+            "route": "Route 14",
+            "area": "",
+            "method": "Good Rod"
+        },
+        {
+            "route": "Route 14",
+            "area": "",
+            "method": "Super Rod"
+        }
     ],
     "tm": [
         "MOVE_CALMMIND",

@@ -28,9 +28,21 @@
     "safariZoneFleeRate": 0,
     "hiddenAbility": "ABILITY_ZENMODE",
     "noFlip": true,
-    "blurb": "Anger has reignited its atrophied flame sac. This Pok\u00e9mon spews fire all over as it rampages indiscriminately.",
+    "blurb": "Anger has reignited its atrophied flame sac. This Pokemon spews fire all over as it rampages indiscriminately.",
     "name": "Darmanitan",
     "evolve_from": [],
+    "location": [
+        {
+            "route": "Route 14",
+            "area": "",
+            "method": "Good Rod"
+        },
+        {
+            "route": "Route 14",
+            "area": "",
+            "method": "Super Rod"
+        }
+    ],
     "learnset": [
         {
             "level": 1,

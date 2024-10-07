@@ -28,6 +28,7 @@
     "safariZoneFleeRate": 0,
     "hiddenAbility": "ABILITY_FRIENDGUARD",
     "noFlip": true,
+    "name": "Ho-Oh",
     "evolve_from": [],
     "tm": [
         "MOVE_CALMMIND",

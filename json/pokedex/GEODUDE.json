@@ -55,62 +55,12 @@
         {
             "route": "Route 14",
             "area": "",
-            "method": "Rock Smash"
+            "method": "Good Rod"
         },
         {
-            "route": "Route 16",
+            "route": "Route 14",
             "area": "",
-            "method": "Rock Smash"
-        },
-        {
-            "route": "Route 17",
-            "area": "",
-            "method": "Rock Smash"
-        },
-        {
-            "route": "Route 18",
-            "area": "",
-            "method": "Rock Smash"
-        },
-        {
-            "route": "Cinder Volcano",
-            "area": "1F - 4F",
-            "method": "land"
-        },
-        {
-            "route": "Cinder Volcano",
-            "area": "",
-            "method": "Rock Smash"
-        },
-        {
-            "route": "Valley Cave",
-            "area": "",
-            "method": "Rock Smash"
-        },
-        {
-            "route": "KBT Expressway",
-            "area": "\"Tehl, Epidimy Entrances \"",
-            "method": "land"
-        },
-        {
-            "route": "KBT Expressway",
-            "area": "",
-            "method": "Rock Smash"
-        },
-        {
-            "route": "Lost Tunnel",
-            "area": "",
-            "method": "Rock Smash"
-        },
-        {
-            "route": "Ruins of Void",
-            "area": "",
-            "method": "Rock Smash"
-        },
-        {
-            "route": "Great Desert",
-            "area": "",
-            "method": "Rock Smash"
+            "method": "Super Rod"
         }
     ],
     "learnset": [

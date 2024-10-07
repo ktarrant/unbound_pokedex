@@ -31,6 +31,18 @@
     "blurb": "It melts particles of iron and other metals found in the subsoil, so it can absorb them into its molten steel body.",
     "name": "Meltan",
     "evolve_from": [],
+    "location": [
+        {
+            "route": "Route 14",
+            "area": "",
+            "method": "Good Rod"
+        },
+        {
+            "route": "Route 14",
+            "area": "",
+            "method": "Super Rod"
+        }
+    ],
     "learnset": [
         {
             "level": 1,

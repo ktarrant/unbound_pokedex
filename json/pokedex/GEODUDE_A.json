@@ -50,7 +50,85 @@
         }
     ],
     "blurb": "Its body is a magnetic stone. Iron sand attaches firmly to the portions of its body that are particularly magnetic.",
+    "name": "Geodude",
     "evolve_from": [],
+    "location": [
+        {
+            "route": "Route 14",
+            "area": "",
+            "method": "Rock Smash"
+        },
+        {
+            "route": "Route 16",
+            "area": "",
+            "method": "Rock Smash"
+        },
+        {
+            "route": "Route 17",
+            "area": "",
+            "method": "Rock Smash"
+        },
+        {
+            "route": "Route 18",
+            "area": "",
+            "method": "Rock Smash"
+        },
+        {
+            "route": "Cinder Volcano",
+            "area": "1F - 4F",
+            "method": "land"
+        },
+        {
+            "route": "Cinder Volcano",
+            "area": "",
+            "method": "Rock Smash"
+        },
+        {
+            "route": "Valley Cave",
+            "area": "",
+            "method": "Rock Smash"
+        },
+        {
+            "route": "KBT Expressway",
+            "area": "\"Tehl, Epidimy Entrances \"",
+            "method": "land"
+        },
+        {
+            "route": "KBT Expressway",
+            "area": "",
+            "method": "Rock Smash"
+        },
+        {
+            "route": "Lost Tunnel",
+            "area": "",
+            "method": "Rock Smash"
+        },
+        {
+            "route": "Thundercap Mt.",
+            "area": "Inside",
+            "method": "Rock Smash"
+        },
+        {
+            "route": "Thundercap Mt.",
+            "area": "Outside",
+            "method": "Rock Smash"
+        },
+        {
+            "route": "Cliff Cave",
+            "area": "",
+            "method": "land"
+        },
+        {
+            "route": "Ruins of Void",
+            "area": "",
+            "method": "Rock Smash"
+        },
+        {
+            "route": "Great Desert",
+            "area": "",
+            "method": "Rock Smash"
+        }
+    ],
     "learnset": [
         {
             "level": 1,

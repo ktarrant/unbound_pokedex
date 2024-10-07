@@ -49,6 +49,11 @@
             "route": "Route 14",
             "area": "",
             "method": "land"
+        },
+        {
+            "route": "Route 14",
+            "area": "Special Encounter",
+            "method": "surf"
         }
     ],
     "learnset": [

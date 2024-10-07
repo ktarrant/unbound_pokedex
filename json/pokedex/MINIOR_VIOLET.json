@@ -28,7 +28,26 @@
     "safariZoneFleeRate": 0,
     "hiddenAbility": "ABILITY_NONE",
     "noFlip": true,
+    "blurb": "It eats dust in the atmosphere. The composition of the dust determines the color of its core.",
+    "name": "Minior",
     "evolve_from": [],
+    "location": [
+        {
+            "route": "Route 1",
+            "area": "",
+            "method": "land"
+        },
+        {
+            "route": "Route 8",
+            "area": "",
+            "method": "land"
+        },
+        {
+            "route": "Victory Road",
+            "area": "Snowy Area",
+            "method": "land"
+        }
+    ],
     "learnset": [
         {
             "level": 1,

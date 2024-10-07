@@ -36,8 +36,21 @@
             "extra": "MEGA_VARIANT_STANDARD"
         }
     ],
+    "name": "Sableye",
     "evolve_from": [
         "SABLEYE"
+    ],
+    "location": [
+        {
+            "route": "Ruins of Void",
+            "area": "B3F - B1F",
+            "method": "land"
+        },
+        {
+            "route": "Ruins of Void",
+            "area": "B1F - B2F",
+            "method": "land"
+        }
     ],
     "learnset": [
         {

@@ -31,6 +31,18 @@
     "blurb": "When its life comes to an end, it absorbs the life energy of every living thing and turns into a cocoon.",
     "name": "Yveltal",
     "evolve_from": [],
+    "location": [
+        {
+            "route": "Route 14",
+            "area": "",
+            "method": "Good Rod"
+        },
+        {
+            "route": "Route 14",
+            "area": "",
+            "method": "Super Rod"
+        }
+    ],
     "learnset": [
         {
             "level": 1,

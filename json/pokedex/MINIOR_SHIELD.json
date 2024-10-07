@@ -28,7 +28,21 @@
     "safariZoneFleeRate": 0,
     "hiddenAbility": "ABILITY_NONE",
     "noFlip": true,
+    "blurb": "It eats dust in the atmosphere. The composition of the dust determines the color of its core.",
+    "name": "Ho-Oh",
     "evolve_from": [],
+    "location": [
+        {
+            "route": "Route 14",
+            "area": "",
+            "method": "Good Rod"
+        },
+        {
+            "route": "Route 14",
+            "area": "",
+            "method": "Super Rod"
+        }
+    ],
     "tm": [
         "MOVE_CALMMIND",
         "MOVE_TOXIC",

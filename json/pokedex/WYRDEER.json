@@ -31,6 +31,18 @@
     "blurb": "The fur shed from its beard retains heat well and is a highly useful material for winter clothing.",
     "name": "Wyrdeer",
     "evolve_from": [],
+    "location": [
+        {
+            "route": "Route 14",
+            "area": "",
+            "method": "Good Rod"
+        },
+        {
+            "route": "Route 14",
+            "area": "",
+            "method": "Super Rod"
+        }
+    ],
     "learnset": [
         {
             "level": 0,

@@ -28,6 +28,7 @@
     "safariZoneFleeRate": 0,
     "hiddenAbility": "ABILITY_OVERCOAT",
     "noFlip": true,
+    "name": "Burmy",
     "evolve_from": [],
     "tm": [
         "MOVE_HIDDENPOWER",

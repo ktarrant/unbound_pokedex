@@ -34,6 +34,7 @@
         "MOVE_SAFEGUARD"
     ],
     "blurb": "This Oricorio has sipped pink nectar. Its enemies' hearts melt at the sight of its gently swaying hips.",
+    "name": "Oricorio",
     "evolve_from": [],
     "tm": [
         "MOVE_CALMMIND",

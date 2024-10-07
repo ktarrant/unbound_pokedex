@@ -31,6 +31,18 @@
     "blurb": "While chanting strange spells, Slowking combines its internal toxins with what it's eaten, creating strange potions.",
     "name": "Slowking",
     "evolve_from": [],
+    "location": [
+        {
+            "route": "Route 14",
+            "area": "",
+            "method": "Good Rod"
+        },
+        {
+            "route": "Route 14",
+            "area": "",
+            "method": "Super Rod"
+        }
+    ],
     "learnset": [
         {
             "level": 0,

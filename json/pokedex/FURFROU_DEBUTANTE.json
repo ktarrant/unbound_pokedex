@@ -28,7 +28,15 @@
     "safariZoneFleeRate": 0,
     "hiddenAbility": "ABILITY_NONE",
     "noFlip": true,
+    "name": "Furfrou",
     "evolve_from": [],
+    "location": [
+        {
+            "route": "Magnolia Fields",
+            "area": "",
+            "method": "land"
+        }
+    ],
     "learnset": [
         {
             "level": 1,

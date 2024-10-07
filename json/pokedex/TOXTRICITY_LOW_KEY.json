@@ -41,6 +41,18 @@
     "evolve_from": [
         "TOXTRICITY_LOW_KEY_GIGA"
     ],
+    "location": [
+        {
+            "route": "Route 14",
+            "area": "",
+            "method": "Good Rod"
+        },
+        {
+            "route": "Route 14",
+            "area": "",
+            "method": "Super Rod"
+        }
+    ],
     "tm": [
         "MOVE_FOCUSPUNCH",
         "MOVE_ROAR",

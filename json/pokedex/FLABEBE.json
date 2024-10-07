@@ -45,7 +45,20 @@
         }
     ],
     "blurb": "It draws and controls the hidden power of flowers. The flower it holds is most likely part of its body.",
+    "name": "Flabebe",
     "evolve_from": [],
+    "location": [
+        {
+            "route": "Route 14",
+            "area": "",
+            "method": "Good Rod"
+        },
+        {
+            "route": "Route 14",
+            "area": "",
+            "method": "Super Rod"
+        }
+    ],
     "tm": [
         "MOVE_CALMMIND",
         "MOVE_TOXIC",

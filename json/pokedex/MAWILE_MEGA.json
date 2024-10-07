@@ -36,8 +36,16 @@
             "extra": "MEGA_VARIANT_STANDARD"
         }
     ],
+    "name": "Mawile",
     "evolve_from": [
         "MAWILE"
+    ],
+    "location": [
+        {
+            "route": "Icicle Cave",
+            "area": "4F (Secret Entrance)",
+            "method": "land"
+        }
     ],
     "learnset": [
         {

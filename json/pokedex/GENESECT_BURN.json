@@ -28,7 +28,15 @@
     "safariZoneFleeRate": 0,
     "hiddenAbility": "ABILITY_ANALYTIC",
     "noFlip": true,
+    "name": "Burmy",
     "evolve_from": [],
+    "location": [
+        {
+            "route": "Route 4",
+            "area": "Swarm",
+            "method": "land"
+        }
+    ],
     "tm": [
         "MOVE_TOXIC",
         "MOVE_HIDDENPOWER",

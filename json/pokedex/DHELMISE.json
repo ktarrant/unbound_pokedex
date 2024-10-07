@@ -31,6 +31,18 @@
     "blurb": "It wraps its prey in green seaweed and sucks away their vitality. It only likes to go after big prey.",
     "name": "Dhelmise",
     "evolve_from": [],
+    "location": [
+        {
+            "route": "Route 14",
+            "area": "",
+            "method": "Good Rod"
+        },
+        {
+            "route": "Route 14",
+            "area": "",
+            "method": "Super Rod"
+        }
+    ],
     "learnset": [
         {
             "level": 1,

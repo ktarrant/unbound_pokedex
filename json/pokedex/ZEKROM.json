@@ -28,9 +28,21 @@
     "safariZoneFleeRate": 0,
     "hiddenAbility": "ABILITY_LIGHTNINGROD",
     "noFlip": true,
-    "blurb": "This Pok\u00e9mon appears in legends. In its tail, it has a giant generator that creates electricity.",
+    "blurb": "This Pokemon appears in legends. In its tail, it has a giant generator that creates electricity.",
     "name": "Zekrom",
     "evolve_from": [],
+    "location": [
+        {
+            "route": "Route 14",
+            "area": "",
+            "method": "Good Rod"
+        },
+        {
+            "route": "Route 14",
+            "area": "",
+            "method": "Super Rod"
+        }
+    ],
     "learnset": [
         {
             "level": 1,

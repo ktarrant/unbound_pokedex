@@ -48,9 +48,21 @@
             "extra": "0"
         }
     ],
-    "blurb": "Since this Pok\u00e9mon makes its own clothes out of leaves, it is a popular mascot for fashion designers.",
+    "blurb": "Since this Pokemon makes its own clothes out of leaves, it is a popular mascot for fashion designers.",
     "name": "Sewaddle",
     "evolve_from": [],
+    "location": [
+        {
+            "route": "Route 14",
+            "area": "",
+            "method": "Good Rod"
+        },
+        {
+            "route": "Route 14",
+            "area": "",
+            "method": "Super Rod"
+        }
+    ],
     "learnset": [
         {
             "level": 1,

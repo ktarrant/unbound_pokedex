@@ -53,6 +53,11 @@
             "route": "Route 12",
             "area": "",
             "method": "land"
+        },
+        {
+            "route": "Route 12",
+            "area": "Special Encounter",
+            "method": "land"
         }
     ],
     "learnset": [

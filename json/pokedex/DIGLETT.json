@@ -54,9 +54,14 @@
     "evolve_from": [],
     "location": [
         {
-            "route": "Lost Tunnel",
+            "route": "Route 14",
             "area": "",
-            "method": "land"
+            "method": "Good Rod"
+        },
+        {
+            "route": "Route 14",
+            "area": "",
+            "method": "Super Rod"
         }
     ],
     "learnset": [

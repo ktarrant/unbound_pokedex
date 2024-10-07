@@ -31,6 +31,18 @@
     "blurb": "A violent creature that fells towering trees with its crude axes and shields itself with hard stone.",
     "name": "Kleavor",
     "evolve_from": [],
+    "location": [
+        {
+            "route": "Route 14",
+            "area": "",
+            "method": "Good Rod"
+        },
+        {
+            "route": "Route 14",
+            "area": "",
+            "method": "Super Rod"
+        }
+    ],
     "learnset": [
         {
             "level": 0,

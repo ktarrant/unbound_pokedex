@@ -28,7 +28,7 @@
     "safariZoneFleeRate": 0,
     "hiddenAbility": "ABILITY_MISTYSURGE",
     "noFlip": true,
-    "blurb": "This Pok\u00e9mon consumes particles that contaminate the air. Instead of leaving droppings, it expels clean air.",
+    "blurb": "This Pokemon consumes particles that contaminate the air. Instead of leaving droppings, it expels clean air.",
     "name": "Weezing",
     "evolve_from": [
         "KOFFING_G"
@@ -37,6 +37,11 @@
         {
             "route": "Antisis Sewers",
             "area": "",
+            "method": "land"
+        },
+        {
+            "route": "Antisis Sewers",
+            "area": "Special Encounter",
             "method": "land"
         }
     ],

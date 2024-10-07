@@ -29,8 +29,21 @@
     "hiddenAbility": "ABILITY_THICKFAT",
     "noFlip": true,
     "blurb": "It makes its Rattata underlings gather food for it, dining solely on the most nutritious and delicious fare.",
+    "name": "Raticate",
     "evolve_from": [
         "RATTATA_A"
+    ],
+    "location": [
+        {
+            "route": "Route 7",
+            "area": "",
+            "method": "land"
+        },
+        {
+            "route": "Antisis Sewers",
+            "area": "",
+            "method": "land"
+        }
     ],
     "learnset": [
         {

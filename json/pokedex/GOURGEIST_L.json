@@ -28,7 +28,20 @@
     "safariZoneFleeRate": 0,
     "hiddenAbility": "ABILITY_HEATPROOF",
     "noFlip": true,
+    "name": "Gourgeist",
     "evolve_from": [],
+    "location": [
+        {
+            "route": "Route 14",
+            "area": "",
+            "method": "Good Rod"
+        },
+        {
+            "route": "Route 14",
+            "area": "",
+            "method": "Super Rod"
+        }
+    ],
     "tm": [
         "MOVE_TOXIC",
         "MOVE_BULLETSEED",

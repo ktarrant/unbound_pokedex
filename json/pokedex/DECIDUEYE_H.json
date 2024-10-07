@@ -28,9 +28,21 @@
     "safariZoneFleeRate": 0,
     "hiddenAbility": "ABILITY_LONGREACH",
     "noFlip": true,
-    "blurb": "The air stored inside the rachises of Decidueye's feathers insulates the Pok\u00e9mon against extreme cold. #org @DEX_CATEGORY_HOOPA_UNBOUND Djinn #org @DEX_CATEGORY_CALYREX_ICE_RIDER #org @DEX_CATEGORY_CALYREX_SHADOW_RIDER High King #org @DEX_CATEGORY_PONYTA_G #org @DEX_CATEGORY_RAPIDASH_G Unique Horn #org @DEX_CATEGORY_MR_MIME_G Dancing #org @DEX_CATEGORY_SLOWKING_G Hexpert #org @DEX_CATEGORY_ARTICUNO_G Cruel #org @DEX_CATEGORY_ZAPDOS_G Strong Legs #org @DEX_CATEGORY_MOLTRES_G Malevolent #org @DEX_CATEGORY_DARMANITAN_G Zen Charm #org @DEX_CATEGORY_GROWLITHE_H Scout #org @DEX_CATEGORY_VOLTORB_H #org @DEX_CATEGORY_ELECTRODE_H Sphere #org @DEX_CATEGORY_TYPHLOSION_H Ghost Flame #org @DEX_CATEGORY_LILLIGANT_H Spinning #org @DEX_CATEGORY_BASCULIN_H Mellow #org @DEX_CATEGORY_ZORUA_H SpitefulFox #org @DEX_CATEGORY_ZOROARK_H Baneful Fox #org @DEX_CATEGORY_BRAVIARY_H Battle Cry #org @DEX_CATEGORY_SLIGGOO_H Snail #org @DEX_CATEGORY_GOODRA_H ShellBunker",
+    "blurb": "The air stored inside the rachises of Decidueye's feathers insulates the Pokemon against extreme cold. #org @DEX_CATEGORY_HOOPA_UNBOUND Djinn #org @DEX_CATEGORY_CALYREX_ICE_RIDER #org @DEX_CATEGORY_CALYREX_SHADOW_RIDER High King #org @DEX_CATEGORY_PONYTA_G #org @DEX_CATEGORY_RAPIDASH_G Unique Horn #org @DEX_CATEGORY_MR_MIME_G Dancing #org @DEX_CATEGORY_SLOWKING_G Hexpert #org @DEX_CATEGORY_ARTICUNO_G Cruel #org @DEX_CATEGORY_ZAPDOS_G Strong Legs #org @DEX_CATEGORY_MOLTRES_G Malevolent #org @DEX_CATEGORY_DARMANITAN_G Zen Charm #org @DEX_CATEGORY_GROWLITHE_H Scout #org @DEX_CATEGORY_VOLTORB_H #org @DEX_CATEGORY_ELECTRODE_H Sphere #org @DEX_CATEGORY_TYPHLOSION_H Ghost Flame #org @DEX_CATEGORY_LILLIGANT_H Spinning #org @DEX_CATEGORY_BASCULIN_H Mellow #org @DEX_CATEGORY_ZORUA_H SpitefulFox #org @DEX_CATEGORY_ZOROARK_H Baneful Fox #org @DEX_CATEGORY_BRAVIARY_H Battle Cry #org @DEX_CATEGORY_SLIGGOO_H Snail #org @DEX_CATEGORY_GOODRA_H ShellBunker",
     "name": "Decidueye",
     "evolve_from": [],
+    "location": [
+        {
+            "route": "Route 14",
+            "area": "",
+            "method": "Good Rod"
+        },
+        {
+            "route": "Route 14",
+            "area": "",
+            "method": "Super Rod"
+        }
+    ],
     "learnset": [
         {
             "level": 0,

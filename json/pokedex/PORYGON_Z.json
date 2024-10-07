@@ -29,6 +29,7 @@
     "hiddenAbility": "ABILITY_ANALYTIC",
     "noFlip": true,
     "blurb": "Its programming was modified to enable work in alien dimensions. It did not work as planned.",
+    "name": "Porygon-Z",
     "evolve_from": [],
     "learnset": [
         {

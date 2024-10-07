@@ -31,6 +31,18 @@
     "blurb": "It slept for aeons while in the form of a statue. It was asleep for so long, people forgot that it ever existed.",
     "name": "Zamazenta",
     "evolve_from": [],
+    "location": [
+        {
+            "route": "Route 14",
+            "area": "",
+            "method": "Good Rod"
+        },
+        {
+            "route": "Route 14",
+            "area": "",
+            "method": "Super Rod"
+        }
+    ],
     "tm": [
         "MOVE_ROAR",
         "MOVE_TOXIC",

@@ -28,9 +28,21 @@
     "safariZoneFleeRate": 0,
     "hiddenAbility": "ABILITY_CONTRARY",
     "noFlip": true,
-    "blurb": "According to legend, this Pok\u00e9mon's love gives rise to the budding of fresh life across the land. //Special Form Entries",
+    "blurb": "According to legend, this Pokemon's love gives rise to the budding of fresh life across the land. //Special Form Entries",
     "name": "Enamorus",
     "evolve_from": [],
+    "location": [
+        {
+            "route": "Route 14",
+            "area": "",
+            "method": "Good Rod"
+        },
+        {
+            "route": "Route 14",
+            "area": "",
+            "method": "Super Rod"
+        }
+    ],
     "tm": [
         "MOVE_CALMMIND",
         "MOVE_TOXIC",

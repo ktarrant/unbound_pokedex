@@ -29,8 +29,21 @@
     "hiddenAbility": "ABILITY_ROCKHEAD",
     "noFlip": true,
     "blurb": "Its custom is to mourn its lost friends. Mounds of dirt by the side of the road mark the graves of the Marowak.",
+    "name": "Muk",
     "evolve_from": [
         "CUBONE_A"
+    ],
+    "location": [
+        {
+            "route": "Route 14",
+            "area": "",
+            "method": "Good Rod"
+        },
+        {
+            "route": "Route 14",
+            "area": "",
+            "method": "Super Rod"
+        }
     ],
     "learnset": [
         {

@@ -46,9 +46,21 @@
             "extra": "0"
         }
     ],
-    "blurb": "Restored from a fossil, this ancient bird Pok\u00e9mon has wings but can't yet fly.",
+    "blurb": "Restored from a fossil, this ancient bird Pokemon has wings but can't yet fly.",
     "name": "Archen",
     "evolve_from": [],
+    "location": [
+        {
+            "route": "Route 14",
+            "area": "",
+            "method": "Good Rod"
+        },
+        {
+            "route": "Route 14",
+            "area": "",
+            "method": "Super Rod"
+        }
+    ],
     "learnset": [
         {
             "level": 1,

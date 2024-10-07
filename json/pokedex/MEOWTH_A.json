@@ -54,7 +54,15 @@
         }
     ],
     "blurb": "It's impulsive, selfish, and fickle. It's very popular with Trainers who like giving it the attention it needs.",
+    "name": "Ho-Oh",
     "evolve_from": [],
+    "location": [
+        {
+            "route": "Safari Zone",
+            "area": "Easy",
+            "method": "land"
+        }
+    ],
     "learnset": [
         {
             "level": 1,

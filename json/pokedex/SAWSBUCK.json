@@ -29,8 +29,21 @@
     "hiddenAbility": "ABILITY_SERENEGRACE",
     "noFlip": true,
     "blurb": "They migrate according to seasons, so some people call Sawsbuck the harbingers of spring.",
+    "name": "Sawsbuck",
     "evolve_from": [
         "DEERLING"
+    ],
+    "location": [
+        {
+            "route": "Route 14",
+            "area": "",
+            "method": "Good Rod"
+        },
+        {
+            "route": "Route 14",
+            "area": "",
+            "method": "Super Rod"
+        }
     ],
     "tm": [
         "MOVE_TOXIC",

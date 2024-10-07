@@ -28,9 +28,21 @@
     "safariZoneFleeRate": 0,
     "hiddenAbility": "ABILITY_ANALYTIC",
     "noFlip": true,
-    "blurb": "This ancient bug Pok\u00e9mon was altered by Team Plasma. They upgraded the cannon on its back.",
+    "blurb": "This ancient bug Pokemon was altered by Team Plasma. They upgraded the cannon on its back.",
     "name": "Genesect",
     "evolve_from": [],
+    "location": [
+        {
+            "route": "Route 14",
+            "area": "",
+            "method": "Good Rod"
+        },
+        {
+            "route": "Route 14",
+            "area": "",
+            "method": "Super Rod"
+        }
+    ],
     "tm": [
         "MOVE_TOXIC",
         "MOVE_HIDDENPOWER",

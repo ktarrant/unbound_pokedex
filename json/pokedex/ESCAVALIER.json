@@ -31,6 +31,18 @@
     "blurb": "Wearing the shell covering they stole from Shelmet, they defend themselves and attack with two lances.",
     "name": "Escavalier",
     "evolve_from": [],
+    "location": [
+        {
+            "route": "Route 14",
+            "area": "",
+            "method": "Good Rod"
+        },
+        {
+            "route": "Route 14",
+            "area": "",
+            "method": "Super Rod"
+        }
+    ],
     "learnset": [
         {
             "level": 0,

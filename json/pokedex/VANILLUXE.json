@@ -28,10 +28,22 @@
     "safariZoneFleeRate": 0,
     "hiddenAbility": "ABILITY_WEAKARMOR",
     "noFlip": true,
-    "blurb": "If both heads get angry simultaneously, this Pok\u00e9mon expels a blizzard, burying everything in snow.",
+    "blurb": "If both heads get angry simultaneously, this Pokemon expels a blizzard, burying everything in snow.",
     "name": "Vanilluxe",
     "evolve_from": [
         "VANILLISH"
+    ],
+    "location": [
+        {
+            "route": "Route 14",
+            "area": "",
+            "method": "Good Rod"
+        },
+        {
+            "route": "Route 14",
+            "area": "",
+            "method": "Super Rod"
+        }
     ],
     "learnset": [
         {

@@ -31,6 +31,18 @@
     "blurb": "A Shellder bite set off a chemical reaction with the spices inside its body, causing Slowbro to become a Poison-type.",
     "name": "Slowbro",
     "evolve_from": [],
+    "location": [
+        {
+            "route": "Route 14",
+            "area": "",
+            "method": "Good Rod"
+        },
+        {
+            "route": "Route 14",
+            "area": "",
+            "method": "Super Rod"
+        }
+    ],
     "learnset": [
         {
             "level": 0,

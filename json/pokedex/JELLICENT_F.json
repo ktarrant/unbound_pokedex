@@ -28,8 +28,21 @@
     "safariZoneFleeRate": 0,
     "hiddenAbility": "ABILITY_DAMP",
     "noFlip": true,
+    "name": "Jellicent",
     "evolve_from": [
         "FRILLISH_F"
+    ],
+    "location": [
+        {
+            "route": "Magnolia Fields",
+            "area": "",
+            "method": "surf"
+        },
+        {
+            "route": "Magnolia Fields",
+            "area": "",
+            "method": "surf"
+        }
     ],
     "learnset": [
         {

@@ -48,6 +48,18 @@
     "blurb": "It looks just like rotten kelp. It hides from foes while storing up power for its evolution.",
     "name": "Skrelp",
     "evolve_from": [],
+    "location": [
+        {
+            "route": "Route 14",
+            "area": "",
+            "method": "Good Rod"
+        },
+        {
+            "route": "Route 14",
+            "area": "",
+            "method": "Super Rod"
+        }
+    ],
     "learnset": [
         {
             "level": 1,

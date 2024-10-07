@@ -54,13 +54,6 @@
     "evolve_from": [
         "AUDINO_MEGA"
     ],
-    "location": [
-        {
-            "route": "Route 9 + Autl Woods",
-            "area": "",
-            "method": "land"
-        }
-    ],
     "tm": [
         "MOVE_FOCUSPUNCH",
         "MOVE_CALMMIND",

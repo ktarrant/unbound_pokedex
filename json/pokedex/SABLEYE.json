@@ -56,14 +56,14 @@
     ],
     "location": [
         {
-            "route": "Ruins of Void",
-            "area": "B3F - B1F",
-            "method": "land"
+            "route": "Route 14",
+            "area": "",
+            "method": "Good Rod"
         },
         {
-            "route": "Ruins of Void",
-            "area": "B1F - B2F",
-            "method": "land"
+            "route": "Route 14",
+            "area": "",
+            "method": "Super Rod"
         }
     ],
     "tm": [

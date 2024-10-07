@@ -29,6 +29,7 @@
     "hiddenAbility": "ABILITY_NONE",
     "noFlip": true,
     "blurb": "This strange form is the result of it evolving at dusk. An intense fighting spirit underlies its calmness.",
+    "name": "Muk",
     "evolve_from": [],
     "learnset": [
         {

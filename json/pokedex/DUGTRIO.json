@@ -32,13 +32,6 @@
     "evolve_from": [
         "DIGLETT"
     ],
-    "location": [
-        {
-            "route": "Lost Tunnel",
-            "area": "",
-            "method": "land"
-        }
-    ],
     "learnset": [
         {
             "level": 0,

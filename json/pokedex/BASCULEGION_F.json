@@ -28,8 +28,21 @@
     "safariZoneFleeRate": 0,
     "hiddenAbility": "ABILITY_MOLDBREAKER",
     "noFlip": true,
+    "blurb": "Savage, violent Pokemon, red and blue Basculin are always fighting each other over territory.",
     "name": "Basculegon",
     "evolve_from": [],
+    "location": [
+        {
+            "route": "Route 14",
+            "area": "",
+            "method": "Good Rod"
+        },
+        {
+            "route": "Route 14",
+            "area": "",
+            "method": "Super Rod"
+        }
+    ],
     "learnset": [
         {
             "level": 0,

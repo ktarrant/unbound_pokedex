@@ -42,14 +42,14 @@
     ],
     "location": [
         {
-            "route": "Victory Road",
-            "area": "Snowy Area",
-            "method": "land"
+            "route": "Route 14",
+            "area": "",
+            "method": "Good Rod"
         },
         {
-            "route": "Victory Road",
-            "area": "4F + Kyurem's Cave",
-            "method": "land"
+            "route": "Route 14",
+            "area": "",
+            "method": "Super Rod"
         }
     ],
     "tm": [

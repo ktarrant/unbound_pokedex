@@ -37,7 +37,20 @@
         }
     ],
     "blurb": "This is Necrozma while it's absorbing the power of Solgaleo, making it very ferocious and impossible to control.",
+    "name": "Muk",
     "evolve_from": [],
+    "location": [
+        {
+            "route": "Route 14",
+            "area": "",
+            "method": "Good Rod"
+        },
+        {
+            "route": "Route 14",
+            "area": "",
+            "method": "Super Rod"
+        }
+    ],
     "tm": [
         "MOVE_CALMMIND",
         "MOVE_TOXIC",

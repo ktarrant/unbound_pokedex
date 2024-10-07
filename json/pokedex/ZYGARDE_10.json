@@ -29,7 +29,20 @@
     "hiddenAbility": "ABILITY_POWERCONSTRUCT",
     "noFlip": true,
     "blurb": "Born when around 10% of Zygarde's cells have been gathered from all over, this form is skilled in close-range combat.",
+    "name": "Zygarde",
     "evolve_from": [],
+    "location": [
+        {
+            "route": "Route 14",
+            "area": "",
+            "method": "Good Rod"
+        },
+        {
+            "route": "Route 14",
+            "area": "",
+            "method": "Super Rod"
+        }
+    ],
     "tm": [
         "MOVE_TOXIC",
         "MOVE_HIDDENPOWER",

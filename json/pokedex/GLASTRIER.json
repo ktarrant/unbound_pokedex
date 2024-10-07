@@ -31,6 +31,18 @@
     "blurb": "Glastrier has tremendous physical strength. The mask covering its face is 100 times stronger than diamond.",
     "name": "Glastrier",
     "evolve_from": [],
+    "location": [
+        {
+            "route": "Route 14",
+            "area": "",
+            "method": "Good Rod"
+        },
+        {
+            "route": "Route 14",
+            "area": "",
+            "method": "Super Rod"
+        }
+    ],
     "learnset": [
         {
             "level": 1,

@@ -54,6 +54,18 @@
     "blurb": "It is outstandingly armored. As a result, it can eat grass and berries without having to fight.",
     "name": "Shieldon",
     "evolve_from": [],
+    "location": [
+        {
+            "route": "Route 14",
+            "area": "",
+            "method": "Good Rod"
+        },
+        {
+            "route": "Route 14",
+            "area": "",
+            "method": "Super Rod"
+        }
+    ],
     "learnset": [
         {
             "level": 1,

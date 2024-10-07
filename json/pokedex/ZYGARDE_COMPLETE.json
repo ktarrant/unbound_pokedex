@@ -29,7 +29,20 @@
     "hiddenAbility": "ABILITY_POWERCONSTRUCT",
     "noFlip": true,
     "blurb": "This is Zygarde's 100% form. It has enough power to overwhelm even Xerneas or Yveltal.",
+    "name": "Zygarde",
     "evolve_from": [],
+    "location": [
+        {
+            "route": "Route 14",
+            "area": "",
+            "method": "Good Rod"
+        },
+        {
+            "route": "Route 14",
+            "area": "",
+            "method": "Super Rod"
+        }
+    ],
     "learnset": [
         {
             "level": 1,

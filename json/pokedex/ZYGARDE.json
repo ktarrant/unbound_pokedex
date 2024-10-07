@@ -31,6 +31,18 @@
     "blurb": "When the Kalos region's ecosystem falls into disarray, it appears and reveals its secret power.",
     "name": "Zygarde",
     "evolve_from": [],
+    "location": [
+        {
+            "route": "Route 14",
+            "area": "",
+            "method": "Good Rod"
+        },
+        {
+            "route": "Route 14",
+            "area": "",
+            "method": "Super Rod"
+        }
+    ],
     "tm": [
         "MOVE_TOXIC",
         "MOVE_HIDDENPOWER",

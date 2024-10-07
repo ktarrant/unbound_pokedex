@@ -29,6 +29,7 @@
     "hiddenAbility": "ABILITY_SLUSHRUSH",
     "noFlip": true,
     "blurb": "It runs across snow-covered plains at high speeds. It developed thick, sharp claws to plow through the snow.",
+    "name": "Ho-Oh",
     "evolve_from": [
         "SANDSHREW_A"
     ],

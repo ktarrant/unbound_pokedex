@@ -34,7 +34,15 @@
         "MOVE_DESTINYBOND",
         "MOVE_CURSE"
     ],
+    "name": "Pumpkaboo",
     "evolve_from": [],
+    "location": [
+        {
+            "route": "Grim Woods",
+            "area": "",
+            "method": "land"
+        }
+    ],
     "learnset": [
         {
             "level": 1,

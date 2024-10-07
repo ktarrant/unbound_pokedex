@@ -48,6 +48,11 @@
             "method": "land"
         },
         {
+            "route": "Route 10",
+            "area": "Special Encounter",
+            "method": "land"
+        },
+        {
             "route": "Auburn Waterway",
             "area": "",
             "method": "land"

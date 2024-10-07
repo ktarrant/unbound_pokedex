@@ -31,6 +31,18 @@
     "blurb": "It drifts in warm seas. It always returns to where it was born, no matter how far it may have drifted.",
     "name": "Phione",
     "evolve_from": [],
+    "location": [
+        {
+            "route": "Route 14",
+            "area": "",
+            "method": "Good Rod"
+        },
+        {
+            "route": "Route 14",
+            "area": "",
+            "method": "Super Rod"
+        }
+    ],
     "learnset": [
         {
             "level": 1,

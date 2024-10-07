@@ -41,6 +41,18 @@
     "blurb": "As it eats the seeds stored up in its pouches, it generates electricity while satisfying its constant hunger.",
     "name": "Morpeko",
     "evolve_from": [],
+    "location": [
+        {
+            "route": "Route 14",
+            "area": "",
+            "method": "Good Rod"
+        },
+        {
+            "route": "Route 14",
+            "area": "",
+            "method": "Super Rod"
+        }
+    ],
     "tm": [
         "MOVE_TOXIC",
         "MOVE_BULLETSEED",

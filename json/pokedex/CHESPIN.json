@@ -48,6 +48,18 @@
     "blurb": "Such a thick shell of wood covers its head and back that even a direct hit from a truck wouldn't faze it.",
     "name": "Chespin",
     "evolve_from": [],
+    "location": [
+        {
+            "route": "Route 14",
+            "area": "",
+            "method": "Good Rod"
+        },
+        {
+            "route": "Route 14",
+            "area": "",
+            "method": "Super Rod"
+        }
+    ],
     "learnset": [
         {
             "level": 1,

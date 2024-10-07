@@ -29,7 +29,20 @@
     "hiddenAbility": "ABILITY_OVERCOAT",
     "noFlip": true,
     "blurb": "It is said that a Wormadam that evolves on a cold day will have a thicker cloak.",
+    "name": "Bad Egg",
     "evolve_from": [],
+    "location": [
+        {
+            "route": "Route 14",
+            "area": "",
+            "method": "Good Rod"
+        },
+        {
+            "route": "Route 14",
+            "area": "",
+            "method": "Super Rod"
+        }
+    ],
     "learnset": [
         {
             "level": 0,

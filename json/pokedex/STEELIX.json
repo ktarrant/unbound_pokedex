@@ -42,19 +42,14 @@
     ],
     "location": [
         {
-            "route": "Cliff Cave",
+            "route": "Route 14",
             "area": "",
-            "method": "land"
+            "method": "Good Rod"
         },
         {
-            "route": "Crystal Peak",
-            "area": "B1F + 1F - 5F",
-            "method": "land"
-        },
-        {
-            "route": "Crystal Peak",
-            "area": "1F",
-            "method": "land"
+            "route": "Route 14",
+            "area": "",
+            "method": "Super Rod"
         }
     ],
     "tm": [

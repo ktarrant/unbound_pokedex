@@ -32,23 +32,6 @@
     "evolve_from": [
         "GRIMER"
     ],
-    "location": [
-        {
-            "route": "Antisis Sewers",
-            "area": "",
-            "method": "land"
-        },
-        {
-            "route": "Antisis Sewers",
-            "area": "",
-            "method": "surf"
-        },
-        {
-            "route": "Antisis Sewers",
-            "area": "",
-            "method": "Super Rod"
-        }
-    ],
     "learnset": [
         {
             "level": 0,

@@ -33,6 +33,13 @@
     "evolve_from": [
         "DARUMAKA_G"
     ],
+    "location": [
+        {
+            "route": "Victory Road",
+            "area": "Special Encounter",
+            "method": "land"
+        }
+    ],
     "tm": [
         "MOVE_FOCUSPUNCH",
         "MOVE_ROAR",

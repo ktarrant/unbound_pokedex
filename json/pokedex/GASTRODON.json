@@ -33,23 +33,6 @@
     "evolve_from": [
         "SHELLOS"
     ],
-    "location": [
-        {
-            "route": "Route 14",
-            "area": "",
-            "method": "land"
-        },
-        {
-            "route": "Cootes Bog",
-            "area": "",
-            "method": "surf"
-        },
-        {
-            "route": "Crystal Peak",
-            "area": "",
-            "method": "surf"
-        }
-    ],
     "tm": [
         "MOVE_WATERPULSE",
         "MOVE_TOXIC",

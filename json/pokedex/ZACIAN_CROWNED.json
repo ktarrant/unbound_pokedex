@@ -28,9 +28,21 @@
     "safariZoneFleeRate": 0,
     "hiddenAbility": "ABILITY_NONE",
     "noFlip": true,
-    "blurb": "Now armed with a weapon it used in ancient times, this Pok\u00e9mon needs only a single strike to fell any target.",
+    "blurb": "Now armed with a weapon it used in ancient times, this Pokemon needs only a single strike to fell any target.",
     "name": "Zacian",
     "evolve_from": [],
+    "location": [
+        {
+            "route": "Route 14",
+            "area": "",
+            "method": "Good Rod"
+        },
+        {
+            "route": "Route 14",
+            "area": "",
+            "method": "Super Rod"
+        }
+    ],
     "learnset": [
         {
             "level": 1,

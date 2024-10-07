@@ -28,8 +28,26 @@
     "safariZoneFleeRate": 0,
     "hiddenAbility": "ABILITY_SANDFORCE",
     "noFlip": true,
+    "name": "Gastrodon",
     "evolve_from": [
         "SHELLOS_EAST"
+    ],
+    "location": [
+        {
+            "route": "Route 14",
+            "area": "",
+            "method": "land"
+        },
+        {
+            "route": "Cootes Bog",
+            "area": "",
+            "method": "surf"
+        },
+        {
+            "route": "Crystal Peak",
+            "area": "",
+            "method": "surf"
+        }
     ],
     "learnset": [
         {

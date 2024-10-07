@@ -53,6 +53,18 @@
     "blurb": "It loves to eat roasted berries, but sometimes it gets too excited and burns them to a crisp.",
     "name": "Tepig",
     "evolve_from": [],
+    "location": [
+        {
+            "route": "Route 14",
+            "area": "",
+            "method": "Good Rod"
+        },
+        {
+            "route": "Route 14",
+            "area": "",
+            "method": "Super Rod"
+        }
+    ],
     "learnset": [
         {
             "level": 1,

@@ -28,7 +28,7 @@
     "safariZoneFleeRate": 0,
     "hiddenAbility": "ABILITY_NOGUARD",
     "noFlip": true,
-    "blurb": "Golurk were created to protect people and Pok\u00e9mon. They run on a mysterious energy.",
+    "blurb": "Golurk were created to protect people and Pokemon. They run on a mysterious energy.",
     "name": "Golurk",
     "evolve_from": [
         "GOLETT"

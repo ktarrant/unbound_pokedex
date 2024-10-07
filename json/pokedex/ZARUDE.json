@@ -31,6 +31,18 @@
     "blurb": "Once the vines on its body tear off, they become nutrients in the soil. This helps the plants of the forest grow.",
     "name": "Zarude",
     "evolve_from": [],
+    "location": [
+        {
+            "route": "Route 14",
+            "area": "",
+            "method": "Good Rod"
+        },
+        {
+            "route": "Route 14",
+            "area": "",
+            "method": "Super Rod"
+        }
+    ],
     "tm": [
         "MOVE_FOCUSPUNCH",
         "MOVE_ROAR",

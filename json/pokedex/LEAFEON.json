@@ -31,6 +31,18 @@
     "blurb": "Just like a plant, it uses photosynthesis. As a result, it is always enveloped in clear air.",
     "name": "Leafeon",
     "evolve_from": [],
+    "location": [
+        {
+            "route": "Route 14",
+            "area": "",
+            "method": "Good Rod"
+        },
+        {
+            "route": "Route 14",
+            "area": "",
+            "method": "Super Rod"
+        }
+    ],
     "learnset": [
         {
             "level": 0,

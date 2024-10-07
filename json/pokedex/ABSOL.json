@@ -56,13 +56,6 @@
     "evolve_from": [
         "ABSOL_MEGA"
     ],
-    "location": [
-        {
-            "route": "Crystal Peak",
-            "area": "Outside",
-            "method": "land"
-        }
-    ],
     "tm": [
         "MOVE_WATERPULSE",
         "MOVE_CALMMIND",

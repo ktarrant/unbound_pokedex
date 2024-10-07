@@ -28,10 +28,22 @@
     "safariZoneFleeRate": 0,
     "hiddenAbility": "ABILITY_GLUTTONY",
     "noFlip": true,
-    "blurb": "This Pok\u00e9mon has strong teeth and can chew through the toughest of berry shells.",
+    "blurb": "This Pokemon has strong teeth and can chew through the toughest of berry shells.",
     "name": "Greedent",
     "evolve_from": [
         "SKWOVET"
+    ],
+    "location": [
+        {
+            "route": "Route 14",
+            "area": "",
+            "method": "Good Rod"
+        },
+        {
+            "route": "Route 14",
+            "area": "",
+            "method": "Super Rod"
+        }
     ],
     "learnset": [
         {

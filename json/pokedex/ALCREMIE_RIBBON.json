@@ -39,6 +39,18 @@
     "blurb": "It evolved from a Milcery that held onto a Ribbon Sweet. The flavor of its cream depends on how it was mixed.",
     "name": "Alcremie",
     "evolve_from": [],
+    "location": [
+        {
+            "route": "Route 14",
+            "area": "",
+            "method": "Good Rod"
+        },
+        {
+            "route": "Route 14",
+            "area": "",
+            "method": "Super Rod"
+        }
+    ],
     "tm": [
         "MOVE_CALMMIND",
         "MOVE_TOXIC",

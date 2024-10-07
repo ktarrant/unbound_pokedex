@@ -29,8 +29,61 @@
     "hiddenAbility": "ABILITY_GALVANIZE",
     "noFlip": true,
     "blurb": "Graveler's entire body is tinged with electricity due to the stones it likes to eat. It's very quick-tempered.",
+    "name": "Graveler",
     "evolve_from": [
         "GEODUDE_A"
+    ],
+    "location": [
+        {
+            "route": "Cinder Volcano",
+            "area": "Shadow Basement",
+            "method": "land"
+        },
+        {
+            "route": "Cinder Volcano",
+            "area": "",
+            "method": "Rock Smash"
+        },
+        {
+            "route": "KBT Expressway",
+            "area": "\"Dehara, Gurun, Antisis, \"",
+            "method": "land"
+        },
+        {
+            "route": "Lost Tunnel",
+            "area": "",
+            "method": "land"
+        },
+        {
+            "route": "Lost Tunnel",
+            "area": "",
+            "method": "Rock Smash"
+        },
+        {
+            "route": "Thundercap Mt.",
+            "area": "Inside",
+            "method": "Rock Smash"
+        },
+        {
+            "route": "Cliff Cave",
+            "area": "",
+            "method": "land"
+        },
+        {
+            "route": "Tomb of Borrius",
+            "area": "",
+            "method": "Rock Smash"
+        },
+        {
+            "route": "Crystal Peak",
+            "area": "",
+            "method": "Rock Smash"
+        },
+        {
+            "route": "Victory Road",
+            "area": "B1F",
+            "method": "land"
+        }
     ],
     "learnset": [
         {

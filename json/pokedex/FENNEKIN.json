@@ -46,6 +46,18 @@
     "blurb": "Eating a twig fills it with energy, and its roomy ears give vent to very hot air.",
     "name": "Fennekin",
     "evolve_from": [],
+    "location": [
+        {
+            "route": "Route 14",
+            "area": "",
+            "method": "Good Rod"
+        },
+        {
+            "route": "Route 14",
+            "area": "",
+            "method": "Super Rod"
+        }
+    ],
     "learnset": [
         {
             "level": 1,

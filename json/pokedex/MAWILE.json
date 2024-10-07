@@ -60,9 +60,14 @@
     ],
     "location": [
         {
-            "route": "Icicle Cave",
-            "area": "4F (Secret Entrance)",
-            "method": "land"
+            "route": "Route 14",
+            "area": "",
+            "method": "Good Rod"
+        },
+        {
+            "route": "Route 14",
+            "area": "",
+            "method": "Super Rod"
         }
     ],
     "tm": [

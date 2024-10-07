@@ -44,6 +44,18 @@
     "blurb": "It is born when a departed spirit inhabits a sword. It attaches to people and drinks their life force.",
     "name": "Honedge",
     "evolve_from": [],
+    "location": [
+        {
+            "route": "Route 14",
+            "area": "",
+            "method": "Good Rod"
+        },
+        {
+            "route": "Route 14",
+            "area": "",
+            "method": "Super Rod"
+        }
+    ],
     "learnset": [
         {
             "level": 1,

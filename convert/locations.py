@@ -131,13 +131,32 @@ def create_location_lookup(location_data):
     return location_lookup
 
 
+def get_pokemon_key(name, name_lookup):
+    name = name.strip(' \t\u2642\u2640\ufe0f').replace("é", "e")
+    if name.startswith("Alolan"):
+        return name.replace("Alolan ", "").upper() + "_A"
+    if name.startswith("Galarian"):
+        return name.replace("Galarian ", "").upper() + "_G"
+    try:
+        return name_lookup[name]
+    except KeyError:
+        pass
+
+    candidate_key = name.upper().split(" ")[0]
+    if candidate_key in name_lookup.values():
+        return candidate_key
+    else:
+        print(f"Could not match species name: {name}")
+        return name
+
+
 def update_pokemon_names(location_data, pokedex):
     name_lookup = {entry["name"]: key for key, entry in pokedex.items() if "name" in entry}
     for route, route_entry in location_data.items():
         for method, method_entry in route_entry.items():
             for area, area_entry in method_entry.items():
                 location_data[route][method][area] = [
-                    name_lookup.get(species, species) for species in area_entry
+                    get_pokemon_key(species, name_lookup) for species in area_entry
                 ]
 
 

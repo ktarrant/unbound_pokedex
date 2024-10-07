@@ -29,8 +29,16 @@
     "hiddenAbility": "ABILITY_RATTLED",
     "noFlip": true,
     "blurb": "It has the classiest coat. The rippling of its fur in the heat of battle has a beauty all its own.",
+    "name": "Persian",
     "evolve_from": [
         "MEOWTH_A"
+    ],
+    "location": [
+        {
+            "route": "Route 18",
+            "area": "",
+            "method": "land"
+        }
     ],
     "learnset": [
         {

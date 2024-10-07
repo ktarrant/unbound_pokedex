@@ -24,7 +24,7 @@ def parse_base_stats():
             # Match the species identifier (e.g., [SPECIES_BULBASAUR])
             species_match = species_regex.match(line)
             if species_match:
-                current_species = species_match.group(1)
+                current_species = species_match.group(1).replace("SPECIES_", "")
                 parsed_data[current_species] = {}
                 continue
 
@@ -52,6 +52,12 @@ def parse_base_stats():
                 parsed_data[current_species][key] = value
 
     return parsed_data
+
+
+def get_relatives(species, pokedex):
+    species_basename = species.split("_")[0]
+    relatives = [relative for relative in pokedex if species_basename in relative]
+    return relatives
 
 
 def parse_egg_moves():
@@ -180,7 +186,7 @@ def convert_string_file(file_path):
 
             # Add text to current entry
             if current_entry and line:  # Only add non-empty lines
-                current_text.append(line)
+                current_text.append(line.strip(" \t\u2642\u2640\ufe0f").replace("\e", "e"))
 
         # Save the last entry
         if current_entry:
@@ -189,14 +195,24 @@ def convert_string_file(file_path):
     return data
 
 
-def merge_data(species_data, data, key):
+def merge_data(pokedex, data, key):
     """Merge species data and egg moves into a single data structure."""
     for species, value in data.items():
-        if species in species_data:
-            species_data[species][key] = value
+        if species in pokedex:
+            pokedex[species][key] = value
         else:
-            # print(f"{species} in {key} not found in species_data")
-            pass
+            relatives = get_relatives(species, pokedex)
+            for suffix_len in [-1, -2, -3]:
+                relatives += get_relatives(species[:suffix_len], pokedex)
+            for prefix_len in [1]:
+                relatives += get_relatives(species[prefix_len:], pokedex)
+            if relatives:
+                for relative in relatives:
+                    if key not in pokedex[relative]:
+                        pokedex[relative][key] = value
+                continue
+            else:
+                print(f"{species} in {key} not found in pokedex")
 
 
 def create_evolves_from(pokedex):
@@ -241,9 +257,8 @@ def propagate_learnset(pokedex, learnset_key="learnset"):
     # its will have the learnset and the regular one will not.
     for species, entry in pokedex.items():
         if learnset_key not in entry or not entry[learnset_key]:
-            species_basename = species.split("_")[0]
-            similar_options = [relative for relative in pokedex if species_basename in relative]
-            for relative in similar_options:
+            relatives = get_relatives(species, pokedex)
+            for relative in relatives:
                 if learnset_key in pokedex[relative]:
                     pokedex[species][learnset_key] = pokedex[relative][learnset_key]
 

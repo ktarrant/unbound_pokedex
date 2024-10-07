@@ -31,6 +31,18 @@
     "blurb": "As its electric charge amplifies, blue sparks begin to crackle between its horns.",
     "name": "Electivire",
     "evolve_from": [],
+    "location": [
+        {
+            "route": "Route 14",
+            "area": "",
+            "method": "Good Rod"
+        },
+        {
+            "route": "Route 14",
+            "area": "",
+            "method": "Super Rod"
+        }
+    ],
     "learnset": [
         {
             "level": 1,

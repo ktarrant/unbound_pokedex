@@ -36,9 +36,22 @@
             "extra": "0"
         }
     ],
-    "blurb": "Its speed right after takeoff already puts it in the top speed class of all bird Pok\u00e9mon.",
+    "blurb": "Its speed right after takeoff already puts it in the top speed class of all bird Pokemon.",
+    "name": "Ho-Oh",
     "evolve_from": [
         "FLETCHLING"
+    ],
+    "location": [
+        {
+            "route": "Route 14",
+            "area": "",
+            "method": "Good Rod"
+        },
+        {
+            "route": "Route 14",
+            "area": "",
+            "method": "Super Rod"
+        }
     ],
     "learnset": [
         {

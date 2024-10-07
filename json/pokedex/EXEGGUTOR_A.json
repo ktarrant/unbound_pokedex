@@ -29,8 +29,21 @@
     "hiddenAbility": "ABILITY_HARVEST",
     "noFlip": true,
     "blurb": "It swings its long neck like a whip and smacks its opponents. This makes Exeggutor itself dizzy, too.",
+    "name": "Muk",
     "evolve_from": [
         "EXEGGCUTE_A"
+    ],
+    "location": [
+        {
+            "route": "Route 14",
+            "area": "",
+            "method": "Good Rod"
+        },
+        {
+            "route": "Route 14",
+            "area": "",
+            "method": "Super Rod"
+        }
     ],
     "learnset": [
         {

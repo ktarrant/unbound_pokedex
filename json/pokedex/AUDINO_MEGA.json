@@ -36,8 +36,16 @@
             "extra": "MEGA_VARIANT_STANDARD"
         }
     ],
+    "name": "Audino",
     "evolve_from": [
         "AUDINO"
+    ],
+    "location": [
+        {
+            "route": "Route 9 + Autl Woods",
+            "area": "",
+            "method": "land"
+        }
     ],
     "learnset": [
         {

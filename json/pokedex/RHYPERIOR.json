@@ -31,6 +31,18 @@
     "blurb": "From holes in its palms, it fires out Geodude. Its carapace can withstand volcanic eruptions.",
     "name": "Rhyperior",
     "evolve_from": [],
+    "location": [
+        {
+            "route": "Route 14",
+            "area": "",
+            "method": "Good Rod"
+        },
+        {
+            "route": "Route 14",
+            "area": "",
+            "method": "Super Rod"
+        }
+    ],
     "learnset": [
         {
             "level": 1,

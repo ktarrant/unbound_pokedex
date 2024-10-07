@@ -44,9 +44,16 @@
             "extra": "0"
         }
     ],
-    "blurb": "These daring Pok\u00e9mon have coins on their foreheads. Darker coins are harder, and harder coins garner more respect.",
+    "blurb": "These daring Pokemon have coins on their foreheads. Darker coins are harder, and harder coins garner more respect.",
     "name": "Meowth",
     "evolve_from": [],
+    "location": [
+        {
+            "route": "Valley Cave",
+            "area": "Special Encounter",
+            "method": "land"
+        }
+    ],
     "learnset": [
         {
             "level": 1,

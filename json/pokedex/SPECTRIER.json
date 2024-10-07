@@ -28,9 +28,21 @@
     "safariZoneFleeRate": 0,
     "hiddenAbility": "ABILITY_NONE",
     "noFlip": true,
-    "blurb": "As it dashes through the night, it absorbs the life energy of sleeping Pok\u00e9mon. It craves silence and solitude.",
+    "blurb": "As it dashes through the night, it absorbs the life energy of sleeping Pokemon. It craves silence and solitude.",
     "name": "Spectrier",
     "evolve_from": [],
+    "location": [
+        {
+            "route": "Route 14",
+            "area": "",
+            "method": "Good Rod"
+        },
+        {
+            "route": "Route 14",
+            "area": "",
+            "method": "Super Rod"
+        }
+    ],
     "learnset": [
         {
             "level": 1,

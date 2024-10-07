@@ -54,13 +54,6 @@
     ],
     "name": "Vulpix",
     "evolve_from": [],
-    "location": [
-        {
-            "route": "Cinder Volcano",
-            "area": "Swarm",
-            "method": "land"
-        }
-    ],
     "learnset": [
         {
             "level": 1,

@@ -29,7 +29,20 @@
     "hiddenAbility": "ABILITY_NONE",
     "noFlip": true,
     "blurb": "At their appearance, even Gyarados flee. When they team up to use Water Gun, its power exceeds that of Hydro Pump.",
+    "name": "Ho-Oh",
     "evolve_from": [],
+    "location": [
+        {
+            "route": "Route 14",
+            "area": "",
+            "method": "Good Rod"
+        },
+        {
+            "route": "Route 14",
+            "area": "",
+            "method": "Super Rod"
+        }
+    ],
     "learnset": [
         {
             "level": 1,

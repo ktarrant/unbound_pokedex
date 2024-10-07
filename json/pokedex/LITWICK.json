@@ -46,9 +46,21 @@
             "extra": "0"
         }
     ],
-    "blurb": "Its flame is usually out, but it starts shining when it absorbs life force from people or Pok\u00e9mon.",
+    "blurb": "Its flame is usually out, but it starts shining when it absorbs life force from people or Pokemon.",
     "name": "Litwick",
     "evolve_from": [],
+    "location": [
+        {
+            "route": "Route 14",
+            "area": "",
+            "method": "Good Rod"
+        },
+        {
+            "route": "Route 14",
+            "area": "",
+            "method": "Super Rod"
+        }
+    ],
     "learnset": [
         {
             "level": 1,

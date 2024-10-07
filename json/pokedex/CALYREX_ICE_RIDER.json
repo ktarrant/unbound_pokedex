@@ -28,8 +28,26 @@
     "safariZoneFleeRate": 0,
     "hiddenAbility": "ABILITY_NONE",
     "noFlip": true,
-    "blurb": "It is said that this Pok\u00e9mon once moved a large forest to a new location overnight.",
+    "blurb": "It is said that this Pokemon once moved a large forest to a new location overnight.",
+    "name": "Muk",
     "evolve_from": [],
+    "location": [
+        {
+            "route": "Antisis Sewers",
+            "area": "",
+            "method": "land"
+        },
+        {
+            "route": "Antisis Sewers",
+            "area": "",
+            "method": "surf"
+        },
+        {
+            "route": "Antisis Sewers",
+            "area": "",
+            "method": "Super Rod"
+        }
+    ],
     "learnset": [
         {
             "level": 1,

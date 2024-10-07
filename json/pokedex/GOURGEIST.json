@@ -29,7 +29,20 @@
     "hiddenAbility": "ABILITY_HEATPROOF",
     "noFlip": true,
     "blurb": "It enwraps its prey in its hairlike arms. It sings joyfully as it observes the suffering of its prey.",
+    "name": "Gourgeist",
     "evolve_from": [],
+    "location": [
+        {
+            "route": "Route 14",
+            "area": "",
+            "method": "Good Rod"
+        },
+        {
+            "route": "Route 14",
+            "area": "",
+            "method": "Super Rod"
+        }
+    ],
     "tm": [
         "MOVE_TOXIC",
         "MOVE_BULLETSEED",

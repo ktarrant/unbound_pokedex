@@ -45,6 +45,18 @@
     "blurb": "They live on treetops and glide using the inside of a cape-like membrane while discharging electricity.",
     "name": "Emolga",
     "evolve_from": [],
+    "location": [
+        {
+            "route": "Route 14",
+            "area": "",
+            "method": "Good Rod"
+        },
+        {
+            "route": "Route 14",
+            "area": "",
+            "method": "Super Rod"
+        }
+    ],
     "learnset": [
         {
             "level": 1,

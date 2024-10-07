@@ -32,9 +32,14 @@
     "evolve_from": [],
     "location": [
         {
-            "route": "Route 18",
+            "route": "Route 14",
             "area": "",
-            "method": "land"
+            "method": "Good Rod"
+        },
+        {
+            "route": "Route 14",
+            "area": "",
+            "method": "Super Rod"
         }
     ],
     "learnset": [

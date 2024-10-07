@@ -28,9 +28,21 @@
     "safariZoneFleeRate": 0,
     "hiddenAbility": "ABILITY_NONE",
     "noFlip": true,
-    "blurb": "Infinite amounts of energy pour from this Pok\u00e9mon's enlarged core, warping the surrounding space-time.",
+    "blurb": "Infinite amounts of energy pour from this Pokemon's enlarged core, warping the surrounding space-time.",
     "name": "Eternatus",
     "evolve_from": [],
+    "location": [
+        {
+            "route": "Route 14",
+            "area": "",
+            "method": "Good Rod"
+        },
+        {
+            "route": "Route 14",
+            "area": "",
+            "method": "Super Rod"
+        }
+    ],
     "learnset": [
         {
             "level": 1,

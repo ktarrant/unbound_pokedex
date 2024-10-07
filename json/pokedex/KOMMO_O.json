@@ -29,6 +29,7 @@
     "hiddenAbility": "ABILITY_OVERCOAT",
     "noFlip": true,
     "blurb": "It battles valiantly with its fists, which are armored in steel scales. Kommo-o specializes in uppercuts.",
+    "name": "Kommo-o",
     "evolve_from": [
         "HAKAMO_O"
     ],

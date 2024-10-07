@@ -47,6 +47,18 @@
     "blurb": "It feels relaxed in tight, dark places and has been known to use its Trainer's pocket or bag as a nest.",
     "name": "Rowlet",
     "evolve_from": [],
+    "location": [
+        {
+            "route": "Route 14",
+            "area": "",
+            "method": "Good Rod"
+        },
+        {
+            "route": "Route 14",
+            "area": "",
+            "method": "Super Rod"
+        }
+    ],
     "learnset": [
         {
             "level": 1,

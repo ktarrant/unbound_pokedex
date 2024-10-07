@@ -36,8 +36,16 @@
             "extra": "MEGA_VARIANT_STANDARD"
         }
     ],
+    "name": "Absol",
     "evolve_from": [
         "ABSOL"
+    ],
+    "location": [
+        {
+            "route": "Crystal Peak",
+            "area": "Outside",
+            "method": "land"
+        }
     ],
     "learnset": [
         {

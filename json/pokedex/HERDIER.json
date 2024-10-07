@@ -36,10 +36,22 @@
             "extra": "0"
         }
     ],
-    "blurb": "This very loyal Pok\u00e9mon helps Trainers, and it also takes care of other Pok\u00e9mon.",
+    "blurb": "This very loyal Pokemon helps Trainers, and it also takes care of other Pokemon.",
     "name": "Herdier",
     "evolve_from": [
         "LILLIPUP"
+    ],
+    "location": [
+        {
+            "route": "Route 14",
+            "area": "",
+            "method": "Good Rod"
+        },
+        {
+            "route": "Route 14",
+            "area": "",
+            "method": "Super Rod"
+        }
     ],
     "learnset": [
         {

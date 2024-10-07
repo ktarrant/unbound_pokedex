@@ -52,7 +52,30 @@
         }
     ],
     "blurb": "A Grimer, which had been brought in to solve a problem with garbage, developed over time into this form.",
+    "name": "Grimer",
     "evolve_from": [],
+    "location": [
+        {
+            "route": "Antisis Sewers",
+            "area": "",
+            "method": "land"
+        },
+        {
+            "route": "Antisis Sewers",
+            "area": "",
+            "method": "surf"
+        },
+        {
+            "route": "Antisis Sewers",
+            "area": "",
+            "method": "Old Rod"
+        },
+        {
+            "route": "Antisis Sewers",
+            "area": "",
+            "method": "Good Rod"
+        }
+    ],
     "learnset": [
         {
             "level": 1,

@@ -36,8 +36,26 @@
             "extra": "MEGA_VARIANT_STANDARD"
         }
     ],
+    "name": "Steelix",
     "evolve_from": [
         "STEELIX"
+    ],
+    "location": [
+        {
+            "route": "Cliff Cave",
+            "area": "",
+            "method": "land"
+        },
+        {
+            "route": "Crystal Peak",
+            "area": "B1F + 1F - 5F",
+            "method": "land"
+        },
+        {
+            "route": "Crystal Peak",
+            "area": "1F",
+            "method": "land"
+        }
     ],
     "learnset": [
         {

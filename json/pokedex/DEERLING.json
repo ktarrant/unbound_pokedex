@@ -50,7 +50,20 @@
         }
     ],
     "blurb": "The turning of the seasons changes the color and scent of its fur. People use it to mark the seasons.",
+    "name": "Deerling",
     "evolve_from": [],
+    "location": [
+        {
+            "route": "Route 14",
+            "area": "",
+            "method": "Good Rod"
+        },
+        {
+            "route": "Route 14",
+            "area": "",
+            "method": "Super Rod"
+        }
+    ],
     "tm": [
         "MOVE_TOXIC",
         "MOVE_HIDDENPOWER",

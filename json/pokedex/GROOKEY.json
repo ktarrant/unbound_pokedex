@@ -48,6 +48,18 @@
     "blurb": "It attacks with rapid beats of its stick. As it strikes with amazing speed, it gets more and more pumped.",
     "name": "Grookey",
     "evolve_from": [],
+    "location": [
+        {
+            "route": "Route 14",
+            "area": "",
+            "method": "Good Rod"
+        },
+        {
+            "route": "Route 14",
+            "area": "",
+            "method": "Super Rod"
+        }
+    ],
     "learnset": [
         {
             "level": 1,

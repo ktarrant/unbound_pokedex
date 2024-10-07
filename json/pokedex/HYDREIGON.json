@@ -28,10 +28,22 @@
     "safariZoneFleeRate": 0,
     "hiddenAbility": "ABILITY_NONE",
     "noFlip": true,
-    "blurb": "It responds to movement by attacking. This scary, three-headed Pok\u00e9mon devours everything in its path!",
+    "blurb": "It responds to movement by attacking. This scary, three-headed Pokemon devours everything in its path!",
     "name": "Hydreigon",
     "evolve_from": [
         "ZWEILOUS"
+    ],
+    "location": [
+        {
+            "route": "Route 14",
+            "area": "",
+            "method": "Good Rod"
+        },
+        {
+            "route": "Route 14",
+            "area": "",
+            "method": "Super Rod"
+        }
     ],
     "learnset": [
         {

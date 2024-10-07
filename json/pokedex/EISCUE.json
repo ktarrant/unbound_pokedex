@@ -38,6 +38,18 @@
     "blurb": "It drifted in on the flow of ocean waters from a frigid place. It keeps its head iced constantly to stay cold.",
     "name": "Eiscue",
     "evolve_from": [],
+    "location": [
+        {
+            "route": "Route 14",
+            "area": "",
+            "method": "Good Rod"
+        },
+        {
+            "route": "Route 14",
+            "area": "",
+            "method": "Super Rod"
+        }
+    ],
     "tm": [
         "MOVE_WATERPULSE",
         "MOVE_TOXIC",

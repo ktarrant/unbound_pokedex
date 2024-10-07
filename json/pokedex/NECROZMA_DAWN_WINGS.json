@@ -37,7 +37,20 @@
         }
     ],
     "blurb": "Lunala no longer has a will of its own. Now under the control of Necrozma, it continuously expels all of its energy.",
+    "name": "Muk",
     "evolve_from": [],
+    "location": [
+        {
+            "route": "Route 14",
+            "area": "",
+            "method": "Good Rod"
+        },
+        {
+            "route": "Route 14",
+            "area": "",
+            "method": "Super Rod"
+        }
+    ],
     "tm": [
         "MOVE_CALMMIND",
         "MOVE_TOXIC",

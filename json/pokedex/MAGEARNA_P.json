@@ -29,7 +29,20 @@
     "hiddenAbility": "ABILITY_NONE",
     "noFlip": true,
     "blurb": "It functions thanks to its artificial soul. The vivid decoration is proof that it was presented as a gift to royalty.",
+    "name": "Muk",
     "evolve_from": [],
+    "location": [
+        {
+            "route": "Route 14",
+            "area": "",
+            "method": "Good Rod"
+        },
+        {
+            "route": "Route 14",
+            "area": "",
+            "method": "Super Rod"
+        }
+    ],
     "learnset": [
         {
             "level": 1,

@@ -31,6 +31,18 @@
     "blurb": "Its mechanized body is merely a vessel. Its true self is its Soul-Heart, an artificial soul.",
     "name": "Magearna",
     "evolve_from": [],
+    "location": [
+        {
+            "route": "Route 14",
+            "area": "",
+            "method": "Good Rod"
+        },
+        {
+            "route": "Route 14",
+            "area": "",
+            "method": "Super Rod"
+        }
+    ],
     "tm": [
         "MOVE_CALMMIND",
         "MOVE_HIDDENPOWER",

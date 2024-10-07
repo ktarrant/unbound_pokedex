@@ -29,6 +29,7 @@
     "hiddenAbility": "ABILITY_NOGUARD",
     "noFlip": true,
     "blurb": "They live alone without forming packs. They only listen to orders from those who can draw out their true power.",
+    "name": "Muk",
     "evolve_from": [],
     "learnset": [
         {

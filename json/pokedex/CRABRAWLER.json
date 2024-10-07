@@ -37,6 +37,18 @@
     "blurb": "Its hard pincers are well suited to both offense and defense.",
     "name": "Crabrawler",
     "evolve_from": [],
+    "location": [
+        {
+            "route": "Route 14",
+            "area": "",
+            "method": "Good Rod"
+        },
+        {
+            "route": "Route 14",
+            "area": "",
+            "method": "Super Rod"
+        }
+    ],
     "learnset": [
         {
             "level": 1,

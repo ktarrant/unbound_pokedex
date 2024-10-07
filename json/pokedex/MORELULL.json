@@ -46,6 +46,18 @@
     "blurb": "It scatters spores that flicker and glow. Anyone seeing these lights falls into a deep slumber.",
     "name": "Morelull",
     "evolve_from": [],
+    "location": [
+        {
+            "route": "Route 14",
+            "area": "",
+            "method": "Good Rod"
+        },
+        {
+            "route": "Route 14",
+            "area": "",
+            "method": "Super Rod"
+        }
+    ],
     "learnset": [
         {
             "level": 1,

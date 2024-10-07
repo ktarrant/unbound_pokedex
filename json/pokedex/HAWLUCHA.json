@@ -43,6 +43,18 @@
     "blurb": "Although its body is small, its proficient fighting skills enable it to keep up with big bruisers.",
     "name": "Hawlucha",
     "evolve_from": [],
+    "location": [
+        {
+            "route": "Route 14",
+            "area": "",
+            "method": "Good Rod"
+        },
+        {
+            "route": "Route 14",
+            "area": "",
+            "method": "Super Rod"
+        }
+    ],
     "learnset": [
         {
             "level": 1,

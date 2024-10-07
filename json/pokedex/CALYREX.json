@@ -31,6 +31,18 @@
     "blurb": "Its every move is filled with grace and dignity. Extremely intelligent, it is said to see past, present, and future events.",
     "name": "Calyrex",
     "evolve_from": [],
+    "location": [
+        {
+            "route": "Route 14",
+            "area": "",
+            "method": "Good Rod"
+        },
+        {
+            "route": "Route 14",
+            "area": "",
+            "method": "Super Rod"
+        }
+    ],
     "learnset": [
         {
             "level": 1,

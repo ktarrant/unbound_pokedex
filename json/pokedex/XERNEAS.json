@@ -31,6 +31,18 @@
     "blurb": "When the horns on its head shine in seven different colors, it is said to be sharing everlasting life.",
     "name": "Xerneas",
     "evolve_from": [],
+    "location": [
+        {
+            "route": "Route 14",
+            "area": "",
+            "method": "Good Rod"
+        },
+        {
+            "route": "Route 14",
+            "area": "",
+            "method": "Super Rod"
+        }
+    ],
     "tm": [
         "MOVE_CALMMIND",
         "MOVE_ROAR",

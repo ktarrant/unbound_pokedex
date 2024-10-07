@@ -50,6 +50,18 @@
     "blurb": "It once lived in the tropics. To avoid the cold, it lives in caves warmed by geothermal heat.",
     "name": "Gible",
     "evolve_from": [],
+    "location": [
+        {
+            "route": "Route 14",
+            "area": "",
+            "method": "Good Rod"
+        },
+        {
+            "route": "Route 14",
+            "area": "",
+            "method": "Super Rod"
+        }
+    ],
     "learnset": [
         {
             "level": 1,

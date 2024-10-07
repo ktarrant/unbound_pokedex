@@ -29,6 +29,7 @@
     "hiddenAbility": "ABILITY_RECEIVER",
     "noFlip": true,
     "blurb": "The garbage it eats causes continuous chemical changes in its body, which produce its vivid coloration.",
+    "name": "Muk",
     "evolve_from": [
         "GRIMER_A"
     ],

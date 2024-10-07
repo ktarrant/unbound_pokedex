@@ -34,6 +34,7 @@
         "MOVE_DESTINYBOND",
         "MOVE_CURSE"
     ],
+    "name": "Pumpkaboo",
     "evolve_from": [],
     "tm": [
         "MOVE_TOXIC",

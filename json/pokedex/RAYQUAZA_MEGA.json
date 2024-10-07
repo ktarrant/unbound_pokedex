@@ -36,8 +36,21 @@
             "extra": "MEGA_VARIANT_WISH"
         }
     ],
+    "name": "Rayquaza",
     "evolve_from": [
         "RAYQUAZA"
+    ],
+    "location": [
+        {
+            "route": "Route 14",
+            "area": "",
+            "method": "Good Rod"
+        },
+        {
+            "route": "Route 14",
+            "area": "",
+            "method": "Super Rod"
+        }
     ],
     "learnset": [
         {

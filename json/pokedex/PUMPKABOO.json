@@ -35,6 +35,7 @@
         "MOVE_CURSE"
     ],
     "blurb": "It is said to carry wandering spirits to the place where they belong so they can move on.",
+    "name": "Pumpkaboo",
     "evolve_from": [],
     "tm": [
         "MOVE_TOXIC",

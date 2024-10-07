@@ -28,9 +28,21 @@
     "safariZoneFleeRate": 0,
     "hiddenAbility": "ABILITY_LIMBER",
     "noFlip": true,
-    "blurb": "An alien virus that fell to earth on a meteorite underwent a DNA mutation to become this Pok\u00e9mon.",
+    "blurb": "An alien virus that fell to earth on a meteorite underwent a DNA mutation to become this Pokemon.",
     "name": "Deoxys",
     "evolve_from": [],
+    "location": [
+        {
+            "route": "Route 14",
+            "area": "",
+            "method": "Good Rod"
+        },
+        {
+            "route": "Route 14",
+            "area": "",
+            "method": "Super Rod"
+        }
+    ],
     "learnset": [
         {
             "level": 1,

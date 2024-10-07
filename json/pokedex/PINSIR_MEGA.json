@@ -36,8 +36,16 @@
             "extra": "MEGA_VARIANT_STANDARD"
         }
     ],
+    "name": "Pinsir",
     "evolve_from": [
         "PINSIR"
+    ],
+    "location": [
+        {
+            "route": "Redwood Forest",
+            "area": "Headbutt Trees",
+            "method": "land"
+        }
     ],
     "learnset": [
         {

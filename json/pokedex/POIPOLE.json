@@ -39,6 +39,18 @@
     "blurb": "This Ultra Beast is well enough liked to be chosen as a first partner in its own world.",
     "name": "Poipole",
     "evolve_from": [],
+    "location": [
+        {
+            "route": "Route 14",
+            "area": "",
+            "method": "Good Rod"
+        },
+        {
+            "route": "Route 14",
+            "area": "",
+            "method": "Super Rod"
+        }
+    ],
     "learnset": [
         {
             "level": 1,

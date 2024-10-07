@@ -51,6 +51,18 @@
     "blurb": "The scalchop on its stomach isn't just used for battle--it is also used to break open hard berries.",
     "name": "Oshawott",
     "evolve_from": [],
+    "location": [
+        {
+            "route": "Route 14",
+            "area": "",
+            "method": "Good Rod"
+        },
+        {
+            "route": "Route 14",
+            "area": "",
+            "method": "Super Rod"
+        }
+    ],
     "learnset": [
         {
             "level": 1,

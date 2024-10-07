@@ -29,7 +29,20 @@
     "hiddenAbility": "ABILITY_GALVANIZE",
     "noFlip": true,
     "blurb": "Since it can't fire boulders at a rapid pace, it's been known to seize nearby Geodude and fire them from its back.",
+    "name": "Golem",
     "evolve_from": [],
+    "location": [
+        {
+            "route": "Route 14",
+            "area": "",
+            "method": "Good Rod"
+        },
+        {
+            "route": "Route 14",
+            "area": "",
+            "method": "Super Rod"
+        }
+    ],
     "learnset": [
         {
             "level": 0,

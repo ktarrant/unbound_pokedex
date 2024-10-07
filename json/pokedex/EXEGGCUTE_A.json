@@ -55,7 +55,20 @@
             "extra": "0"
         }
     ],
+    "name": "Muk",
     "evolve_from": [],
+    "location": [
+        {
+            "route": "Safari Zone",
+            "area": "Hard",
+            "method": "land"
+        },
+        {
+            "route": "Safari Zone",
+            "area": "Insane",
+            "method": "land"
+        }
+    ],
     "learnset": [
         {
             "level": 1,
