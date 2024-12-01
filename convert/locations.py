@@ -1,6 +1,7 @@
 import os
 import re
 from convert import csv_dir
+from convert.error import report_error
 
 level_re = re.compile(".*[0-9]F.*")
 grass_encounters_file = "Pokémon Unbound Location Guide v2.1.1.1 - Grass & Cave Encounters.csv"
@@ -8,7 +9,7 @@ water_encounters_file = "Pokémon Unbound Location Guide v2.1.1.1 - Surfing, Fis
 
 
 def parse_encounters_csv(csv_file, skip_lines=0):
-    with open(csv_file, 'r') as f:
+    with open(csv_file, 'r', encoding="utf-8") as f:
         raw_data = {}
         skip_index = 0
         for line in f.readlines():
@@ -146,7 +147,7 @@ def get_pokemon_key(name, name_lookup):
     if candidate_key in name_lookup.values():
         return candidate_key
     else:
-        print(f"Could not match species name: {name}")
+        report_error("get_pokemon_key", f"Could not match species name: {name}")
         return name
 
 

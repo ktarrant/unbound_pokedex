@@ -1,6 +1,7 @@
 import re
 import os
 from convert import c_dir
+from convert.error import report_error
 
 base_stats = os.path.join(c_dir, "src/Base_Stats.c")
 egg_moves = os.path.join(c_dir, "src/Egg_Moves.c")
@@ -212,7 +213,7 @@ def merge_data(pokedex, data, key):
                         pokedex[relative][key] = value
                 continue
             else:
-                print(f"{species} in {key} not found in pokedex")
+                report_error("merge_data", f"{species} in {key} not found in pokedex")
 
 
 def create_evolves_from(pokedex):

@@ -19,6 +19,7 @@ from convert.pokedex import (
     add_compatible_moves,
 )
 from convert.collect_fields import collect_field_types
+from convert.error import save_errors
 
 # Collect Moves Data
 move_data = parse_tm_tutor_file()
@@ -70,3 +71,5 @@ for species in pokedex:
     with open(out_file, 'w') as json_file:
         json.dump(pokedex[species], json_file, indent=4)
         print(f"Saving pokedex data: {out_file}")
+
+save_errors()
