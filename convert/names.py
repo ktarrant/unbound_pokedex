@@ -22,8 +22,8 @@ def name_mapper(pokedex_name):
     if pokedex_name == "WORMADAM_SANDY": return "WORMADAM_S"
     if pokedex_name == "BURMY_TRASH": return "BURMYT"
     if pokedex_name == "WORMADAM_TRASH": return "WORMADAM_T"
-    if pokedex_name == "NIDORAN_F": return "NIDORANF"
-    if pokedex_name == "NIDORAN_M": return "NIDORANM"
+    if pokedex_name == "BURMY": return "BURMYP"
+    if pokedex_name == "WORMADAM": return "WORMADAM_P"
     if pokedex_name.startswith("BASCULIN"):
         return "BASCULIN" + pokedex_name.split("_")[-1][0]
     if pokedex_name == "ARCEUS": return "ARCEUS"
@@ -39,13 +39,19 @@ def name_mapper(pokedex_name):
         else:
             rsplit[1] = rsplit[1].replace("FROST", "FROS")
             return "".join(rsplit)
+    if pokedex_name == "DARMANITANZEN": return "ZENITAN"
+    if pokedex_name == "HIPPOPOTAS_F": return "HIPPOPOTAF"
+    if pokedex_name.startswith("DEERLING") or pokedex_name.startswith("SAWSBUCK"):
+        filters = {"_SUMMER": "S", "_AUTUMN": "F", "_WINTER": "W"}
+        for filter in filters:
+            pokedex_name = pokedex_name.replace(filter, filters[filter])
     if "_MEGA" in pokedex_name:
         pokedex_name = "M" + pokedex_name.replace("_MEGA", "")
     if pokedex_name.endswith("_A"):
         pokedex_name = "A" + pokedex_name[:-2]
-    for suffix in [
-            "_EAST", "_ORIGIN", "_SKY",
-            "_SUMMER", "_AUTUMN", "_WINTER"]:
+    for suffix in ["_EAST", "_ORIGIN", "_SKY", "_F", "_M",
+                   "_PIROUETTE",
+                   "_SHOCK", "_BURN", "_CHILL", "_DOUSE"]:
         if pokedex_name.endswith(suffix):
             pokedex_name = pokedex_name.replace(suffix, suffix[1])
     if pokedex_name[-2] == "_":
