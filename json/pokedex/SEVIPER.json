@@ -191,6 +191,13 @@
             "MOVE_POWERWHIP",
             "MOVE_SCALESHOT",
             "MOVE_SKITTERSMACK"
+        ],
+        "locations": [
+            {
+                "route": "Route 17",
+                "area": "",
+                "method": "land"
+            }
         ]
     }
 }

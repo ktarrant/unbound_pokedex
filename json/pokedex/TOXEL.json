@@ -91,6 +91,13 @@
             "MOVE_SNORE",
             "MOVE_CONFIDE",
             "MOVE_ENCORE"
+        ],
+        "locations": [
+            {
+                "route": "Route 9 + Autl Woods",
+                "area": "Special Encounter",
+                "method": "land"
+            }
         ]
     }
 }

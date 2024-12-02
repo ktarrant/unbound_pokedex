@@ -159,6 +159,13 @@
             "MOVE_GRASSYTERRAIN",
             "MOVE_BODYSLAM",
             "MOVE_GRASSYGLIDE"
+        ],
+        "locations": [
+            {
+                "route": "Grim Woods",
+                "area": "",
+                "method": "land"
+            }
         ]
     }
 }

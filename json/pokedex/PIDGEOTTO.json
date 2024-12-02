@@ -152,6 +152,13 @@
             "MOVE_BRAVEBIRD",
             "MOVE_HURRICANE",
             "MOVE_DUALWINGBEAT"
+        ],
+        "locations": [
+            {
+                "route": "Route 17",
+                "area": "",
+                "method": "land"
+            }
         ]
     }
 }

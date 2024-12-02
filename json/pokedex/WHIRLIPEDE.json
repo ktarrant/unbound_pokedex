@@ -166,6 +166,13 @@
             "MOVE_HEX",
             "MOVE_POLTERGEIST",
             "MOVE_SKITTERSMACK"
+        ],
+        "locations": [
+            {
+                "route": "Antisis Sewers",
+                "area": "Swarm",
+                "method": "land"
+            }
         ]
     }
 }

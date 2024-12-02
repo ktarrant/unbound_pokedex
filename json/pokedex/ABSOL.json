@@ -142,6 +142,13 @@
             "MOVE_PSYCHOCUT",
             "MOVE_CLOSECOMBAT",
             "MOVE_MEGAHORN"
+        ],
+        "locations": [
+            {
+                "route": "Crystal Peak",
+                "area": "Outside",
+                "method": "land"
+            }
         ]
     },
     "ABSOL_MEGA": {

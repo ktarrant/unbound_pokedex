@@ -180,6 +180,28 @@
             "MOVE_HIGHHORSEPOWER",
             "MOVE_CLOSECOMBAT",
             "MOVE_COACHING"
+        ],
+        "locations": [
+            {
+                "route": "Ice Hole",
+                "area": "",
+                "method": "land"
+            },
+            {
+                "route": "Icicle Cave",
+                "area": "1F + B1F",
+                "method": "land"
+            },
+            {
+                "route": "KBT Expressway",
+                "area": "\"Dehara, Gurun, Antisis, \"",
+                "method": "land"
+            },
+            {
+                "route": "Victory Road",
+                "area": "4F + Kyurem's Cave",
+                "method": "land"
+            }
         ]
     }
 }

@@ -127,6 +127,13 @@
             "MOVE_CONFIDE",
             "MOVE_BUGBUZZ",
             "MOVE_SKITTERSMACK"
+        ],
+        "locations": [
+            {
+                "route": "Redwood Forest",
+                "area": "Swarm",
+                "method": "land"
+            }
         ]
     }
 }

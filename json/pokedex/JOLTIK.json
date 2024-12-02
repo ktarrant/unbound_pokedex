@@ -172,6 +172,13 @@
             "MOVE_CROSSPOISON",
             "MOVE_RISINGVOLTAGE",
             "MOVE_SKITTERSMACK"
+        ],
+        "locations": [
+            {
+                "route": "Thundercap Mt.",
+                "area": "Swarm",
+                "method": "land"
+            }
         ]
     }
 }

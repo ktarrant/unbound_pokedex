@@ -177,6 +177,28 @@
             "MOVE_AIRSLASH",
             "MOVE_HURRICANE",
             "MOVE_DUALWINGBEAT"
+        ],
+        "locations": [
+            {
+                "route": "Valley Cave",
+                "area": "B1F",
+                "method": "land"
+            },
+            {
+                "route": "KBT Expressway",
+                "area": "\"Tehl, Epidimy Entrances \"",
+                "method": "land"
+            },
+            {
+                "route": "KBT Expressway",
+                "area": "\"Dehara, Gurun, Antisis, \"",
+                "method": "land"
+            },
+            {
+                "route": "Crystal Peak",
+                "area": "B1F + 1F - 5F",
+                "method": "land"
+            }
         ]
     }
 }

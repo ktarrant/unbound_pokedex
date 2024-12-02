@@ -173,6 +173,23 @@
             "MOVE_WEATHERBALL",
             "MOVE_HYDROPUMP",
             "MOVE_POLTERGEIST"
+        ],
+        "locations": [
+            {
+                "route": "Route 12",
+                "area": "",
+                "method": "Good Rod"
+            },
+            {
+                "route": "Route 14",
+                "area": "",
+                "method": "Good Rod"
+            },
+            {
+                "route": "Magnolia Fields",
+                "area": "",
+                "method": "Good Rod"
+            }
         ]
     }
 }

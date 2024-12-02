@@ -172,6 +172,13 @@
             "MOVE_BUGBUZZ",
             "MOVE_PLAYROUGH",
             "MOVE_DUALWINGBEAT"
+        ],
+        "locations": [
+            {
+                "route": "Route 17",
+                "area": "Swarm",
+                "method": "land"
+            }
         ]
     }
 }

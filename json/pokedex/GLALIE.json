@@ -101,6 +101,18 @@
             "MOVE_WEATHERBALL",
             "MOVE_CRUNCH",
             "MOVE_POLTERGEIST"
+        ],
+        "locations": [
+            {
+                "route": "Victory Road",
+                "area": "Snowy Area",
+                "method": "land"
+            },
+            {
+                "route": "Victory Road",
+                "area": "4F + Kyurem's Cave",
+                "method": "land"
+            }
         ]
     },
     "GLALIE_MEGA": {

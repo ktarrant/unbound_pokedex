@@ -87,6 +87,23 @@
             "MOVE_POWERGEM",
             "MOVE_POLTERGEIST",
             "MOVE_METEORBEAM"
+        ],
+        "locations": [
+            {
+                "route": "Route 1",
+                "area": "",
+                "method": "land"
+            },
+            {
+                "route": "Route 8",
+                "area": "",
+                "method": "land"
+            },
+            {
+                "route": "Victory Road",
+                "area": "Snowy Area",
+                "method": "land"
+            }
         ]
     },
     "MINIOR_RED": {

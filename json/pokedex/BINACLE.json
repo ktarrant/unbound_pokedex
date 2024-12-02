@@ -194,6 +194,43 @@
             "MOVE_SCREECH",
             "MOVE_ROCKBLAST",
             "MOVE_RAZORSHELL"
+        ],
+        "locations": [
+            {
+                "route": "Route 2",
+                "area": "",
+                "method": "Rock Smash"
+            },
+            {
+                "route": "Route 14",
+                "area": "",
+                "method": "Rock Smash"
+            },
+            {
+                "route": "Route 16",
+                "area": "",
+                "method": "Rock Smash"
+            },
+            {
+                "route": "Route 17",
+                "area": "",
+                "method": "Rock Smash"
+            },
+            {
+                "route": "Route 18",
+                "area": "",
+                "method": "Rock Smash"
+            },
+            {
+                "route": "Thundercap Mt.",
+                "area": "Outside",
+                "method": "Rock Smash"
+            },
+            {
+                "route": "Great Desert",
+                "area": "",
+                "method": "Rock Smash"
+            }
         ]
     }
 }

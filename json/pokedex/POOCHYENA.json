@@ -170,6 +170,13 @@
             "MOVE_PLAYROUGH",
             "MOVE_PSYCHICFANGS",
             "MOVE_LASHOUT"
+        ],
+        "locations": [
+            {
+                "route": "Route 2",
+                "area": "Swarm",
+                "method": "land"
+            }
         ]
     }
 }

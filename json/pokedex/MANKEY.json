@@ -215,6 +215,13 @@
             "MOVE_REVERSAL",
             "MOVE_CLOSECOMBAT",
             "MOVE_LASHOUT"
+        ],
+        "locations": [
+            {
+                "route": "Route 4",
+                "area": "",
+                "method": "land"
+            }
         ]
     }
 }

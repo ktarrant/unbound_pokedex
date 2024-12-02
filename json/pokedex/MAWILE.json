@@ -139,6 +139,13 @@
             "MOVE_CRUNCH",
             "MOVE_PLAYROUGH",
             "MOVE_PSYCHICFANGS"
+        ],
+        "locations": [
+            {
+                "route": "Icicle Cave",
+                "area": "4F (Secret Entrance)",
+                "method": "land"
+            }
         ]
     },
     "MAWILE_MEGA": {

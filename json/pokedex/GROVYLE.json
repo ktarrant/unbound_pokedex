@@ -188,6 +188,18 @@
             "MOVE_LEAFSTORM",
             "MOVE_SOLARBLADE",
             "MOVE_GRASSYGLIDE"
+        ],
+        "locations": [
+            {
+                "route": "Safari Zone",
+                "area": "Hard",
+                "method": "land"
+            },
+            {
+                "route": "Safari Zone",
+                "area": "Insane",
+                "method": "land"
+            }
         ]
     }
 }

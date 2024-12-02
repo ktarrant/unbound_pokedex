@@ -192,6 +192,13 @@
             "MOVE_SCALESHOT",
             "MOVE_LASHOUT",
             "MOVE_DUALWINGBEAT"
+        ],
+        "locations": [
+            {
+                "route": "Victory Road",
+                "area": "2F",
+                "method": "land"
+            }
         ]
     }
 }

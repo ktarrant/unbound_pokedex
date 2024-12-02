@@ -143,6 +143,13 @@
             "MOVE_HEATCRASH",
             "MOVE_HEAVYSLAM",
             "MOVE_METEORBEAM"
+        ],
+        "locations": [
+            {
+                "route": "Route 18",
+                "area": "Special Encounter",
+                "method": "land"
+            }
         ]
     }
 }

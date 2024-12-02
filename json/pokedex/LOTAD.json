@@ -151,6 +151,18 @@
             "MOVE_WHIRLPOOL",
             "MOVE_BODYSLAM",
             "MOVE_GRASSYGLIDE"
+        ],
+        "locations": [
+            {
+                "route": "Route 10",
+                "area": "",
+                "method": "land"
+            },
+            {
+                "route": "Auburn Waterway",
+                "area": "",
+                "method": "land"
+            }
         ]
     }
 }

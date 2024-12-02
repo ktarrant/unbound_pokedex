@@ -160,6 +160,13 @@
             "MOVE_FIREFANG",
             "MOVE_CRUNCH",
             "MOVE_PLAYROUGH"
+        ],
+        "locations": [
+            {
+                "route": "Route 12",
+                "area": "",
+                "method": "land"
+            }
         ]
     }
 }

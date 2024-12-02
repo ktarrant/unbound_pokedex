@@ -190,6 +190,13 @@
             "MOVE_CRUNCH",
             "MOVE_PSYCHICFANGS",
             "MOVE_EXPANDINGFORCE"
+        ],
+        "locations": [
+            {
+                "route": "Route 16",
+                "area": "",
+                "method": "land"
+            }
         ]
     }
 }

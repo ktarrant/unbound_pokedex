@@ -146,6 +146,13 @@
             "MOVE_FAKETEARS",
             "MOVE_BODYSLAM",
             "MOVE_GRASSYGLIDE"
+        ],
+        "locations": [
+            {
+                "route": "Route 9 + Autl Woods",
+                "area": "",
+                "method": "land"
+            }
         ]
     }
 }

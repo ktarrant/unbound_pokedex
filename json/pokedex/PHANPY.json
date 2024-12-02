@@ -165,6 +165,18 @@
             "MOVE_HIGHHORSEPOWER",
             "MOVE_PLAYROUGH",
             "MOVE_SCORCHINGSANDS"
+        ],
+        "locations": [
+            {
+                "route": "Valley Cave",
+                "area": "1F - 2F",
+                "method": "land"
+            },
+            {
+                "route": "Valley Cave",
+                "area": "B1F",
+                "method": "land"
+            }
         ]
     }
 }

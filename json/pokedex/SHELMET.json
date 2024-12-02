@@ -146,6 +146,13 @@
             "MOVE_BODYSLAM",
             "MOVE_BUGBUZZ",
             "MOVE_SKITTERSMACK"
+        ],
+        "locations": [
+            {
+                "route": "Route 10",
+                "area": "Swarm",
+                "method": "land"
+            }
         ]
     }
 }

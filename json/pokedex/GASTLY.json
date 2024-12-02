@@ -181,6 +181,13 @@
             "MOVE_HEX",
             "MOVE_SKITTERSMACK",
             "MOVE_CORROSIVEGAS"
+        ],
+        "locations": [
+            {
+                "route": "Grim Woods",
+                "area": "",
+                "method": "land"
+            }
         ]
     }
 }

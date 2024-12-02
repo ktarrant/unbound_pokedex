@@ -146,6 +146,38 @@
             "MOVE_BATONPASS",
             "MOVE_AGILITY",
             "MOVE_HYDROPUMP"
+        ],
+        "locations": [
+            {
+                "route": "Route 3",
+                "area": "",
+                "method": "land"
+            },
+            {
+                "route": "Route 9 + Autl Woods",
+                "area": "",
+                "method": "surf"
+            },
+            {
+                "route": "Route 10",
+                "area": "",
+                "method": "surf"
+            },
+            {
+                "route": "Grim Woods",
+                "area": "",
+                "method": "surf"
+            },
+            {
+                "route": "Auburn Waterway",
+                "area": "",
+                "method": "surf"
+            },
+            {
+                "route": "Vivill Woods",
+                "area": "",
+                "method": "surf"
+            }
         ]
     }
 }

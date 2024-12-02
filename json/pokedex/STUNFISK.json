@@ -192,6 +192,18 @@
             "MOVE_ELECTRICTERRAIN",
             "MOVE_MUDDYWATER",
             "MOVE_LASHOUT"
+        ],
+        "locations": [
+            {
+                "route": "Thundercap Mt.",
+                "area": "",
+                "method": "surf"
+            },
+            {
+                "route": "Cootes Bog",
+                "area": "",
+                "method": "surf"
+            }
         ]
     },
     "STUNFISK_G": {
@@ -359,6 +371,13 @@
             "MOVE_MUDDYWATER",
             "MOVE_TERRAINPULSE",
             "MOVE_LASHOUT"
+        ],
+        "locations": [
+            {
+                "route": "Cootes Bog",
+                "area": "Special Encounter",
+                "method": "land"
+            }
         ]
     }
 }

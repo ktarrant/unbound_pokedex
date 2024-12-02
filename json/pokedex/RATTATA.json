@@ -168,6 +168,13 @@
             "MOVE_BODYSLAM",
             "MOVE_REVERSAL",
             "MOVE_CRUNCH"
+        ],
+        "locations": [
+            {
+                "route": "Route 2",
+                "area": "",
+                "method": "land"
+            }
         ]
     },
     "RATTATA_A": {
@@ -340,6 +347,13 @@
             "MOVE_REVERSAL",
             "MOVE_CRUNCH",
             "MOVE_LASHOUT"
+        ],
+        "locations": [
+            {
+                "route": "Route 7",
+                "area": "",
+                "method": "land"
+            }
         ]
     }
 }

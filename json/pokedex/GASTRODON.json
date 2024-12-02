@@ -92,6 +92,23 @@
             "MOVE_MUDDYWATER",
             "MOVE_HYDROPUMP",
             "MOVE_SKITTERSMACK"
+        ],
+        "locations": [
+            {
+                "route": "Route 14",
+                "area": "",
+                "method": "land"
+            },
+            {
+                "route": "Cootes Bog",
+                "area": "",
+                "method": "surf"
+            },
+            {
+                "route": "Crystal Peak",
+                "area": "",
+                "method": "surf"
+            }
         ]
     },
     "GASTRODON_EAST": {

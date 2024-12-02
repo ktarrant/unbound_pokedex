@@ -282,6 +282,13 @@
             "MOVE_STOREDPOWER",
             "MOVE_EXPANDINGFORCE",
             "MOVE_TRIPLEAXEL"
+        ],
+        "locations": [
+            {
+                "route": "Route 8",
+                "area": "Special Encounter",
+                "method": "land"
+            }
         ]
     }
 }

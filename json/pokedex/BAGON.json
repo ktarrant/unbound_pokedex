@@ -159,6 +159,13 @@
             "MOVE_BODYSLAM",
             "MOVE_CRUNCH",
             "MOVE_HYDROPUMP"
+        ],
+        "locations": [
+            {
+                "route": "Route 17",
+                "area": "",
+                "method": "land"
+            }
         ]
     }
 }

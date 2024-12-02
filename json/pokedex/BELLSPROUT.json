@@ -167,6 +167,13 @@
             "MOVE_WEATHERBALL",
             "MOVE_POWERWHIP",
             "MOVE_GRASSYGLIDE"
+        ],
+        "locations": [
+            {
+                "route": "Route 14",
+                "area": "",
+                "method": "land"
+            }
         ]
     }
 }

@@ -188,6 +188,23 @@
             "MOVE_HURRICANE",
             "MOVE_HYDROPUMP",
             "MOVE_DUALWINGBEAT"
+        ],
+        "locations": [
+            {
+                "route": "Route 14",
+                "area": "",
+                "method": "surf"
+            },
+            {
+                "route": "Route 18",
+                "area": "",
+                "method": "surf"
+            },
+            {
+                "route": "Ruins of Void",
+                "area": "",
+                "method": "surf"
+            }
         ]
     }
 }

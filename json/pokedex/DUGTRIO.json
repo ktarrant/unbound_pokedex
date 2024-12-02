@@ -167,6 +167,13 @@
             "MOVE_REVERSAL",
             "MOVE_HIGHHORSEPOWER",
             "MOVE_SCORCHINGSANDS"
+        ],
+        "locations": [
+            {
+                "route": "Lost Tunnel",
+                "area": "",
+                "method": "land"
+            }
         ]
     },
     "DUGTRIO_A": {
@@ -339,6 +346,13 @@
             "MOVE_REVERSAL",
             "MOVE_HIGHHORSEPOWER",
             "MOVE_SCORCHINGSANDS"
+        ],
+        "locations": [
+            {
+                "route": "Safari Zone",
+                "area": "Insane",
+                "method": "land"
+            }
         ]
     }
 }

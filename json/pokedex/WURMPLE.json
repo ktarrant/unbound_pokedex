@@ -52,6 +52,13 @@
         "tutor": [
             "MOVE_ELECTROWEB",
             "MOVE_BUGBITE"
+        ],
+        "locations": [
+            {
+                "route": "Vivill Woods",
+                "area": "",
+                "method": "land"
+            }
         ]
     }
 }

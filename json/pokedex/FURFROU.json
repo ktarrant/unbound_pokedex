@@ -86,6 +86,13 @@
             "MOVE_LASTRESORT",
             "MOVE_CONFIDE",
             "MOVE_HIGHHORSEPOWER"
+        ],
+        "locations": [
+            {
+                "route": "Magnolia Fields",
+                "area": "",
+                "method": "land"
+            }
         ]
     },
     "FURFROU_HEART": {

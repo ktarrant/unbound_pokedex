@@ -198,6 +198,13 @@
             "MOVE_STOREDPOWER",
             "MOVE_EXPANDINGFORCE",
             "MOVE_METEORBEAM"
+        ],
+        "locations": [
+            {
+                "route": "Route 5",
+                "area": "Swarm",
+                "method": "land"
+            }
         ]
     }
 }

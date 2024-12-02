@@ -145,6 +145,13 @@
             "MOVE_POWERWHIP",
             "MOVE_SKITTERSMACK",
             "MOVE_SCORCHINGSANDS"
+        ],
+        "locations": [
+            {
+                "route": "Route 4",
+                "area": "Special Encounter",
+                "method": "land"
+            }
         ]
     }
 }

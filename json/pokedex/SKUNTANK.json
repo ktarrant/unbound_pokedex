@@ -188,6 +188,13 @@
             "MOVE_BURNINGJEALOUSY",
             "MOVE_LASHOUT",
             "MOVE_CORROSIVEGAS"
+        ],
+        "locations": [
+            {
+                "route": "Route 18",
+                "area": "",
+                "method": "land"
+            }
         ]
     }
 }

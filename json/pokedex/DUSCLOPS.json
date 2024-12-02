@@ -193,6 +193,28 @@
             "MOVE_BODYSLAM",
             "MOVE_HEX",
             "MOVE_SKITTERSMACK"
+        ],
+        "locations": [
+            {
+                "route": "Ruins of Void",
+                "area": "B3F - B1F",
+                "method": "land"
+            },
+            {
+                "route": "Ruins of Void",
+                "area": "B1F - B2F",
+                "method": "land"
+            },
+            {
+                "route": "Rift Cave",
+                "area": "1F",
+                "method": "land"
+            },
+            {
+                "route": "Rift Cave",
+                "area": "B1F - B2F",
+                "method": "land"
+            }
         ]
     }
 }

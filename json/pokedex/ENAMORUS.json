@@ -87,6 +87,13 @@
             "MOVE_CRUNCH",
             "MOVE_MYSTICALFIRE",
             "MOVE_PLAYROUGH"
+        ],
+        "locations": [
+            {
+                "route": "Magnolia Fields",
+                "area": "Special Encounter",
+                "method": "surf"
+            }
         ]
     },
     "ENAMORUS_THERIAN": {

@@ -121,6 +121,13 @@
             "MOVE_HYDROPUMP",
             "MOVE_SCALESHOT",
             "MOVE_SKITTERSMACK"
+        ],
+        "locations": [
+            {
+                "route": "Route 3",
+                "area": "Special Encounter",
+                "method": "land"
+            }
         ]
     }
 }

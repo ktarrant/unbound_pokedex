@@ -188,6 +188,23 @@
             "MOVE_HYDROPUMP",
             "MOVE_POLTERGEIST",
             "MOVE_MISTYEXPLOSION"
+        ],
+        "locations": [
+            {
+                "route": "Route 9 + Autl Woods",
+                "area": "",
+                "method": "surf"
+            },
+            {
+                "route": "Victory Road",
+                "area": "1F - B1F",
+                "method": "surf"
+            },
+            {
+                "route": "Victory Road",
+                "area": "2F",
+                "method": "surf"
+            }
         ]
     }
 }

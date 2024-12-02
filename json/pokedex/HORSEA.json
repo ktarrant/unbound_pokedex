@@ -161,6 +161,43 @@
             "MOVE_HYDROPUMP",
             "MOVE_SCALESHOT",
             "MOVE_FLIPTURN"
+        ],
+        "locations": [
+            {
+                "route": "Route 14",
+                "area": "",
+                "method": "Good Rod"
+            },
+            {
+                "route": "Route 14",
+                "area": "",
+                "method": "Good Rod"
+            },
+            {
+                "route": "Route 14",
+                "area": "",
+                "method": "Good Rod"
+            },
+            {
+                "route": "Route 16",
+                "area": "",
+                "method": "Good Rod"
+            },
+            {
+                "route": "Route 17",
+                "area": "",
+                "method": "Good Rod"
+            },
+            {
+                "route": "Route 18",
+                "area": "",
+                "method": "Good Rod"
+            },
+            {
+                "route": "Ruins of Void",
+                "area": "",
+                "method": "Good Rod"
+            }
         ]
     }
 }

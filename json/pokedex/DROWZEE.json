@@ -193,6 +193,13 @@
             "MOVE_BODYSLAM",
             "MOVE_PSYCHOCUT",
             "MOVE_EXPANDINGFORCE"
+        ],
+        "locations": [
+            {
+                "route": "Route 7",
+                "area": "",
+                "method": "land"
+            }
         ]
     }
 }

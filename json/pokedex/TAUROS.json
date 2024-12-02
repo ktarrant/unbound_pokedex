@@ -170,6 +170,28 @@
             "MOVE_CLOSECOMBAT",
             "MOVE_MEGAHORN",
             "MOVE_LASHOUT"
+        ],
+        "locations": [
+            {
+                "route": "Safari Zone",
+                "area": "Medium",
+                "method": "land"
+            },
+            {
+                "route": "Safari Zone",
+                "area": "Hard",
+                "method": "land"
+            },
+            {
+                "route": "Safari Zone",
+                "area": "Insane",
+                "method": "land"
+            },
+            {
+                "route": "Magnolia Fields",
+                "area": "",
+                "method": "land"
+            }
         ]
     }
 }

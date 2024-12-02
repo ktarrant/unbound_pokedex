@@ -193,6 +193,13 @@
             "MOVE_HIGHHORSEPOWER",
             "MOVE_PLAYROUGH",
             "MOVE_POLTERGEIST"
+        ],
+        "locations": [
+            {
+                "route": "Magnolia Fields",
+                "area": "",
+                "method": "land"
+            }
         ]
     }
 }

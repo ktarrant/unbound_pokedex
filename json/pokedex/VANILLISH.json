@@ -149,6 +149,13 @@
             "MOVE_HYPERVOICE",
             "MOVE_CONFIDE",
             "MOVE_ICICLESPEAR"
+        ],
+        "locations": [
+            {
+                "route": "Victory Road",
+                "area": "Snowy Area",
+                "method": "land"
+            }
         ]
     }
 }

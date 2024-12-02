@@ -121,6 +121,18 @@
             "MOVE_CLOSECOMBAT",
             "MOVE_MEGAHORN",
             "MOVE_COACHING"
+        ],
+        "locations": [
+            {
+                "route": "Redwood Forest",
+                "area": "",
+                "method": "land"
+            },
+            {
+                "route": "Redwood Forest",
+                "area": "Headbutt Trees",
+                "method": "land"
+            }
         ]
     },
     "HERACROSS_MEGA": {

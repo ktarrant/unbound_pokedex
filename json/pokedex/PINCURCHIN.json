@@ -151,6 +151,13 @@
             "MOVE_MUDDYWATER",
             "MOVE_HYDROPUMP",
             "MOVE_RISINGVOLTAGE"
+        ],
+        "locations": [
+            {
+                "route": "Thundercap Mt.",
+                "area": "Special Encounter",
+                "method": "land"
+            }
         ]
     }
 }

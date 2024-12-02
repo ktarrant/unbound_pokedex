@@ -184,6 +184,18 @@
             "MOVE_MUDDYWATER",
             "MOVE_CLOSECOMBAT",
             "MOVE_SKITTERSMACK"
+        ],
+        "locations": [
+            {
+                "route": "Safari Zone",
+                "area": "Hard",
+                "method": "land"
+            },
+            {
+                "route": "Safari Zone",
+                "area": "Insane",
+                "method": "land"
+            }
         ]
     }
 }

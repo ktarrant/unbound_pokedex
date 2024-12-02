@@ -171,6 +171,18 @@
             "MOVE_PLAYROUGH",
             "MOVE_PSYCHICFANGS",
             "MOVE_RISINGVOLTAGE"
+        ],
+        "locations": [
+            {
+                "route": "Route 6",
+                "area": "",
+                "method": "land"
+            },
+            {
+                "route": "Route 7",
+                "area": "",
+                "method": "land"
+            }
         ]
     }
 }

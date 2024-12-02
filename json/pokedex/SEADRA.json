@@ -144,6 +144,43 @@
             "MOVE_HYDROPUMP",
             "MOVE_SCALESHOT",
             "MOVE_FLIPTURN"
+        ],
+        "locations": [
+            {
+                "route": "Route 14",
+                "area": "",
+                "method": "Super Rod"
+            },
+            {
+                "route": "Route 14",
+                "area": "",
+                "method": "Super Rod"
+            },
+            {
+                "route": "Route 14",
+                "area": "",
+                "method": "Super Rod"
+            },
+            {
+                "route": "Route 16",
+                "area": "",
+                "method": "Super Rod"
+            },
+            {
+                "route": "Route 17",
+                "area": "",
+                "method": "Super Rod"
+            },
+            {
+                "route": "Route 18",
+                "area": "",
+                "method": "Super Rod"
+            },
+            {
+                "route": "Ruins of Void",
+                "area": "",
+                "method": "Super Rod"
+            }
         ]
     }
 }

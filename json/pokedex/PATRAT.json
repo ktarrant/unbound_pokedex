@@ -173,6 +173,13 @@
             "MOVE_SCREECH",
             "MOVE_NASTYPLOT",
             "MOVE_CRUNCH"
+        ],
+        "locations": [
+            {
+                "route": "Route 2",
+                "area": "",
+                "method": "land"
+            }
         ]
     }
 }

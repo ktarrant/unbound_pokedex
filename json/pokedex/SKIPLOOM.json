@@ -169,6 +169,13 @@
             "MOVE_ENCORE",
             "MOVE_GRASSYTERRAIN",
             "MOVE_LEAFSTORM"
+        ],
+        "locations": [
+            {
+                "route": "Route 17",
+                "area": "",
+                "method": "land"
+            }
         ]
     }
 }

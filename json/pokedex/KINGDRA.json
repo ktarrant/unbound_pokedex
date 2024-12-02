@@ -159,6 +159,13 @@
             "MOVE_HYDROPUMP",
             "MOVE_SCALESHOT",
             "MOVE_FLIPTURN"
+        ],
+        "locations": [
+            {
+                "route": "Ruins of Void",
+                "area": "",
+                "method": "Super Rod"
+            }
         ]
     }
 }

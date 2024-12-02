@@ -147,6 +147,18 @@
             "MOVE_CONFIDE",
             "MOVE_GRASSYTERRAIN",
             "MOVE_GRASSYGLIDE"
+        ],
+        "locations": [
+            {
+                "route": "Route 14",
+                "area": "",
+                "method": "land"
+            },
+            {
+                "route": "Cootes Bog",
+                "area": "",
+                "method": "land"
+            }
         ]
     }
 }

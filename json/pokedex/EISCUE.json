@@ -85,6 +85,13 @@
             "MOVE_REVERSAL",
             "MOVE_WEATHERBALL",
             "MOVE_HYDROPUMP"
+        ],
+        "locations": [
+            {
+                "route": "Ice Hole",
+                "area": "Special Encounter",
+                "method": "land"
+            }
         ]
     },
     "EISCUE_NOICE": {

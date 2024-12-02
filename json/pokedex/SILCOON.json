@@ -53,6 +53,13 @@
             "MOVE_ELECTROWEB",
             "MOVE_BUGBITE",
             "MOVE_IRONDEFENSE"
+        ],
+        "locations": [
+            {
+                "route": "Vivill Woods",
+                "area": "",
+                "method": "land"
+            }
         ]
     }
 }

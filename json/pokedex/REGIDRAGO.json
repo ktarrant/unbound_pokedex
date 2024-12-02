@@ -133,6 +133,13 @@
             "MOVE_BREAKINGSWIPE",
             "MOVE_CRUNCH",
             "MOVE_SCALESHOT"
+        ],
+        "locations": [
+            {
+                "route": "Ice Hole",
+                "area": "Special Encounter",
+                "method": "land"
+            }
         ]
     }
 }

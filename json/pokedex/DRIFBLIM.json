@@ -193,6 +193,13 @@
             "MOVE_WEATHERBALL",
             "MOVE_MYSTICALFIRE",
             "MOVE_PHANTOMFORCE"
+        ],
+        "locations": [
+            {
+                "route": "Crystal Peak",
+                "area": "Outside",
+                "method": "land"
+            }
         ]
     }
 }

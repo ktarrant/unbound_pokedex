@@ -162,6 +162,13 @@
             "MOVE_GRASSYGLIDE",
             "MOVE_COACHING",
             "MOVE_DUALWINGBEAT"
+        ],
+        "locations": [
+            {
+                "route": "Route 17",
+                "area": "Special Encounter",
+                "method": "land"
+            }
         ]
     }
 }

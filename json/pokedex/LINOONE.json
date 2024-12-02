@@ -196,6 +196,18 @@
             "MOVE_TAILSLAP",
             "MOVE_BODYSLAM",
             "MOVE_PLAYROUGH"
+        ],
+        "locations": [
+            {
+                "route": "Route 10",
+                "area": "",
+                "method": "land"
+            },
+            {
+                "route": "Auburn Waterway",
+                "area": "",
+                "method": "land"
+            }
         ]
     },
     "LINOONE_G": {
@@ -400,6 +412,13 @@
             "MOVE_BODYSLAM",
             "MOVE_BODYPRESS",
             "MOVE_LASHOUT"
+        ],
+        "locations": [
+            {
+                "route": "Route 10",
+                "area": "Special Encounter",
+                "method": "land"
+            }
         ]
     }
 }

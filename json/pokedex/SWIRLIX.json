@@ -148,6 +148,13 @@
             "MOVE_FAKETEARS",
             "MOVE_PLAYROUGH",
             "MOVE_MISTYEXPLOSION"
+        ],
+        "locations": [
+            {
+                "route": "Route 12",
+                "area": "Swarm",
+                "method": "land"
+            }
         ]
     }
 }

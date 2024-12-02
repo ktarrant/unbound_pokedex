@@ -192,6 +192,13 @@
             "MOVE_AIRSLASH",
             "MOVE_HURRICANE",
             "MOVE_DUALWINGBEAT"
+        ],
+        "locations": [
+            {
+                "route": "Crystal Peak",
+                "area": "1F",
+                "method": "land"
+            }
         ]
     }
 }

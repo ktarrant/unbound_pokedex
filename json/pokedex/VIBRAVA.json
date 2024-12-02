@@ -218,6 +218,13 @@
             "MOVE_CRUNCH",
             "MOVE_DUALWINGBEAT",
             "MOVE_SCORCHINGSANDS"
+        ],
+        "locations": [
+            {
+                "route": "Great Desert",
+                "area": "",
+                "method": "land"
+            }
         ]
     }
 }

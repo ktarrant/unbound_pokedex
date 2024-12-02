@@ -261,6 +261,13 @@
             "MOVE_STOREDPOWER",
             "MOVE_MYSTICALFIRE",
             "MOVE_EXPANDINGFORCE"
+        ],
+        "locations": [
+            {
+                "route": "Route 7",
+                "area": "Swarm",
+                "method": "land"
+            }
         ]
     },
     "MR_MIME_G": {

@@ -165,6 +165,13 @@
             "MOVE_CRUNCH",
             "MOVE_POWERWHIP",
             "MOVE_GRASSYGLIDE"
+        ],
+        "locations": [
+            {
+                "route": "Cootes Bog",
+                "area": "",
+                "method": "land"
+            }
         ]
     }
 }

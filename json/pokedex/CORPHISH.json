@@ -177,6 +177,18 @@
             "MOVE_CRUNCH",
             "MOVE_MUDDYWATER",
             "MOVE_HYDROPUMP"
+        ],
+        "locations": [
+            {
+                "route": "Route 4",
+                "area": "",
+                "method": "Good Rod"
+            },
+            {
+                "route": "Route 5",
+                "area": "",
+                "method": "Good Rod"
+            }
         ]
     }
 }

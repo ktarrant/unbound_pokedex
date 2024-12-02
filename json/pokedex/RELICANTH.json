@@ -167,6 +167,13 @@
             "MOVE_HYDROPUMP",
             "MOVE_SCALESHOT",
             "MOVE_METEORBEAM"
+        ],
+        "locations": [
+            {
+                "route": "Ruins of Void",
+                "area": "",
+                "method": "Super Rod"
+            }
         ]
     }
 }

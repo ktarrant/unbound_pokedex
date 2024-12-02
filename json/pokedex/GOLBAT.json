@@ -168,6 +168,63 @@
             "MOVE_CRUNCH",
             "MOVE_BRAVEBIRD",
             "MOVE_DUALWINGBEAT"
+        ],
+        "locations": [
+            {
+                "route": "Ice Hole",
+                "area": "",
+                "method": "land"
+            },
+            {
+                "route": "Icicle Cave",
+                "area": "1F + B1F",
+                "method": "land"
+            },
+            {
+                "route": "KBT Expressway",
+                "area": "\"Dehara, Gurun, Antisis, \"",
+                "method": "land"
+            },
+            {
+                "route": "Cliff Cave",
+                "area": "",
+                "method": "land"
+            },
+            {
+                "route": "Rift Cave",
+                "area": "1F",
+                "method": "land"
+            },
+            {
+                "route": "Rift Cave",
+                "area": "B1F - B2F",
+                "method": "land"
+            },
+            {
+                "route": "Antisis Sewers",
+                "area": "",
+                "method": "land"
+            },
+            {
+                "route": "Antisis Sewers",
+                "area": "",
+                "method": "surf"
+            },
+            {
+                "route": "Victory Road",
+                "area": "1F",
+                "method": "land"
+            },
+            {
+                "route": "Victory Road",
+                "area": "4F + Kyurem's Cave",
+                "method": "land"
+            },
+            {
+                "route": "Victory Road",
+                "area": "1F - B1F",
+                "method": "surf"
+            }
         ]
     }
 }

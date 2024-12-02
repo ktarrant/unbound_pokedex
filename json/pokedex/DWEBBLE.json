@@ -166,6 +166,18 @@
             "MOVE_SANDTOMB",
             "MOVE_ROCKBLAST",
             "MOVE_SKITTERSMACK"
+        ],
+        "locations": [
+            {
+                "route": "Great Desert",
+                "area": "",
+                "method": "land"
+            },
+            {
+                "route": "Great Desert",
+                "area": "",
+                "method": "Rock Smash"
+            }
         ]
     }
 }

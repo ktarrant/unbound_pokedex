@@ -185,6 +185,13 @@
             "MOVE_CRUNCH",
             "MOVE_BURNINGJEALOUSY",
             "MOVE_LASHOUT"
+        ],
+        "locations": [
+            {
+                "route": "Route 5",
+                "area": "",
+                "method": "land"
+            }
         ]
     }
 }

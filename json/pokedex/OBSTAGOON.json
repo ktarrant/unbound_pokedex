@@ -223,6 +223,13 @@
             "MOVE_CROSSPOISON",
             "MOVE_CLOSECOMBAT",
             "MOVE_LASHOUT"
+        ],
+        "locations": [
+            {
+                "route": "Route 10",
+                "area": "Special Encounter",
+                "method": "land"
+            }
         ]
     }
 }

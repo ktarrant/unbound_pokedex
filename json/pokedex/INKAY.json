@@ -178,6 +178,13 @@
             "MOVE_PSYCHOCUT",
             "MOVE_EXPANDINGFORCE",
             "MOVE_LASHOUT"
+        ],
+        "locations": [
+            {
+                "route": "Route 2",
+                "area": "",
+                "method": "land"
+            }
         ]
     }
 }

@@ -179,6 +179,23 @@
             "MOVE_VENOMDRENCH",
             "MOVE_BODYSLAM",
             "MOVE_SKITTERSMACK"
+        ],
+        "locations": [
+            {
+                "route": "Antisis Sewers",
+                "area": "",
+                "method": "land"
+            },
+            {
+                "route": "Antisis Sewers",
+                "area": "",
+                "method": "surf"
+            },
+            {
+                "route": "Antisis Sewers",
+                "area": "",
+                "method": "Super Rod"
+            }
         ]
     },
     "MUK_A": {

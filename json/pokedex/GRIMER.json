@@ -179,6 +179,28 @@
             "MOVE_SCARYFACE",
             "MOVE_BODYSLAM",
             "MOVE_SKITTERSMACK"
+        ],
+        "locations": [
+            {
+                "route": "Antisis Sewers",
+                "area": "",
+                "method": "land"
+            },
+            {
+                "route": "Antisis Sewers",
+                "area": "",
+                "method": "surf"
+            },
+            {
+                "route": "Antisis Sewers",
+                "area": "",
+                "method": "Old Rod"
+            },
+            {
+                "route": "Antisis Sewers",
+                "area": "",
+                "method": "Good Rod"
+            }
         ]
     },
     "GRIMER_A": {

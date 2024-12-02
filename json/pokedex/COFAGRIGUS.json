@@ -173,6 +173,18 @@
             "MOVE_BODYPRESS",
             "MOVE_HEX",
             "MOVE_PHANTOMFORCE"
+        ],
+        "locations": [
+            {
+                "route": "Ruins of Void",
+                "area": "B3F - B1F",
+                "method": "land"
+            },
+            {
+                "route": "Ruins of Void",
+                "area": "B1F - B2F",
+                "method": "land"
+            }
         ]
     }
 }

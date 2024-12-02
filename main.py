@@ -67,8 +67,9 @@ add_compatible_moves(pokedex, move_data)
 
 # Add locations data
 location_data = parse_location_files()
-location_lookup = create_location_lookup(location_data)
 update_pokemon_names(location_data, pokedex)
+location_lookup = create_location_lookup(location_data)
+merge_species_data(pokedex, location_lookup, "locations")
 
 save_errors()
 

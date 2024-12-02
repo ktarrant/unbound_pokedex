@@ -157,6 +157,18 @@
             "MOVE_CONFIDE",
             "MOVE_WEATHERBALL",
             "MOVE_GRASSYGLIDE"
+        ],
+        "locations": [
+            {
+                "route": "Route 8",
+                "area": "",
+                "method": "land"
+            },
+            {
+                "route": "Frozen Forest",
+                "area": "",
+                "method": "land"
+            }
         ]
     }
 }

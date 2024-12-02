@@ -150,6 +150,13 @@
             "MOVE_PSYCHOCUT",
             "MOVE_CLOSECOMBAT",
             "MOVE_SOLARBLADE"
+        ],
+        "locations": [
+            {
+                "route": "Safari Zone",
+                "area": "Insane",
+                "method": "land"
+            }
         ]
     }
 }

@@ -213,6 +213,13 @@
             "MOVE_SCALESHOT",
             "MOVE_SKITTERSMACK",
             "MOVE_CORROSIVEGAS"
+        ],
+        "locations": [
+            {
+                "route": "Victory Road",
+                "area": "B1F",
+                "method": "land"
+            }
         ]
     }
 }

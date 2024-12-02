@@ -183,6 +183,13 @@
             "MOVE_CRUNCH",
             "MOVE_LEAFSTORM",
             "MOVE_GRASSYGLIDE"
+        ],
+        "locations": [
+            {
+                "route": "Flower Paradise",
+                "area": "Pink Flowers",
+                "method": "land"
+            }
         ]
     }
 }

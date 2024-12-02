@@ -144,6 +144,13 @@
             "MOVE_CLOSECOMBAT",
             "MOVE_MEGAHORN",
             "MOVE_COACHING"
+        ],
+        "locations": [
+            {
+                "route": "Route 16",
+                "area": "Special Encounter",
+                "method": "land"
+            }
         ]
     }
 }

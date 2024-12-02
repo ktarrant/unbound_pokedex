@@ -157,6 +157,13 @@
             "MOVE_PLAYROUGH",
             "MOVE_FLAREBLITZ",
             "MOVE_SOLARBLADE"
+        ],
+        "locations": [
+            {
+                "route": "Route 12",
+                "area": "",
+                "method": "land"
+            }
         ]
     },
     "PONYTA_G": {
@@ -312,6 +319,13 @@
             "MOVE_MYSTICALFIRE",
             "MOVE_PLAYROUGH",
             "MOVE_EXPANDINGFORCE"
+        ],
+        "locations": [
+            {
+                "route": "Route 12",
+                "area": "Special Encounter",
+                "method": "land"
+            }
         ]
     }
 }

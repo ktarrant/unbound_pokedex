@@ -185,6 +185,13 @@
             "MOVE_BODYSLAM",
             "MOVE_POLTERGEIST",
             "MOVE_SCORCHINGSANDS"
+        ],
+        "locations": [
+            {
+                "route": "Great Desert",
+                "area": "",
+                "method": "land"
+            }
         ]
     },
     "SANDSLASH_A": {

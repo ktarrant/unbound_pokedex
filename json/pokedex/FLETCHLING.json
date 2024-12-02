@@ -150,6 +150,13 @@
             "MOVE_CONFIDE",
             "MOVE_AGILITY",
             "MOVE_DUALWINGBEAT"
+        ],
+        "locations": [
+            {
+                "route": "Route 12",
+                "area": "",
+                "method": "land"
+            }
         ]
     }
 }

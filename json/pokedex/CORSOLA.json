@@ -191,6 +191,73 @@
             "MOVE_POWERGEM",
             "MOVE_HYDROPUMP",
             "MOVE_METEORBEAM"
+        ],
+        "locations": [
+            {
+                "route": "Route 14",
+                "area": "",
+                "method": "Rock Smash"
+            },
+            {
+                "route": "Route 16",
+                "area": "",
+                "method": "Good Rod"
+            },
+            {
+                "route": "Route 16",
+                "area": "",
+                "method": "Super Rod"
+            },
+            {
+                "route": "Route 16",
+                "area": "",
+                "method": "Super Rod"
+            },
+            {
+                "route": "Route 16",
+                "area": "",
+                "method": "Rock Smash"
+            },
+            {
+                "route": "Route 17",
+                "area": "",
+                "method": "Good Rod"
+            },
+            {
+                "route": "Route 17",
+                "area": "",
+                "method": "Super Rod"
+            },
+            {
+                "route": "Route 17",
+                "area": "",
+                "method": "Super Rod"
+            },
+            {
+                "route": "Route 17",
+                "area": "",
+                "method": "Rock Smash"
+            },
+            {
+                "route": "Route 18",
+                "area": "",
+                "method": "Good Rod"
+            },
+            {
+                "route": "Route 18",
+                "area": "",
+                "method": "Super Rod"
+            },
+            {
+                "route": "Route 18",
+                "area": "",
+                "method": "Rock Smash"
+            },
+            {
+                "route": "Thundercap Mt.",
+                "area": "Outside",
+                "method": "Rock Smash"
+            }
         ]
     },
     "CORSOLA_G": {

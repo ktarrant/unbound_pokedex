@@ -194,6 +194,18 @@
             "MOVE_HIGHHORSEPOWER",
             "MOVE_MEGAHORN",
             "MOVE_SCORCHINGSANDS"
+        ],
+        "locations": [
+            {
+                "route": "Safari Zone",
+                "area": "Easy",
+                "method": "land"
+            },
+            {
+                "route": "Safari Zone",
+                "area": "Medium",
+                "method": "land"
+            }
         ]
     }
 }

@@ -80,6 +80,13 @@
             "MOVE_STOREDPOWER",
             "MOVE_HEX",
             "MOVE_PHANTOMFORCE"
+        ],
+        "locations": [
+            {
+                "route": "Rift Cave",
+                "area": "Special Encounter",
+                "method": "land"
+            }
         ]
     },
     "SINISTEA_CHIPPED": {

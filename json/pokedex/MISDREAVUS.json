@@ -176,6 +176,13 @@
             "MOVE_HEX",
             "MOVE_POWERGEM",
             "MOVE_SKITTERSMACK"
+        ],
+        "locations": [
+            {
+                "route": "Cliff Cave",
+                "area": "",
+                "method": "land"
+            }
         ]
     }
 }

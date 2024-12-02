@@ -177,6 +177,13 @@
             "MOVE_ROCKBLAST",
             "MOVE_BODYSLAM",
             "MOVE_SCORCHINGSANDS"
+        ],
+        "locations": [
+            {
+                "route": "Thundercap Mt.",
+                "area": "3F",
+                "method": "land"
+            }
         ]
     },
     "MAROWAK_A": {

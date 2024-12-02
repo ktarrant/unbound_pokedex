@@ -176,6 +176,13 @@
             "MOVE_FAKETEARS",
             "MOVE_NASTYPLOT",
             "MOVE_PLAYROUGH"
+        ],
+        "locations": [
+            {
+                "route": "Route 11",
+                "area": "Swarm",
+                "method": "land"
+            }
         ]
     }
 }

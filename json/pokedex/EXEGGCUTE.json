@@ -111,6 +111,13 @@
             "MOVE_GRASSYTERRAIN",
             "MOVE_LEAFSTORM",
             "MOVE_GRASSYGLIDE"
+        ],
+        "locations": [
+            {
+                "route": "Route 11",
+                "area": "",
+                "method": "land"
+            }
         ]
     },
     "EXEGGCUTE_A": {
@@ -287,6 +294,18 @@
             "MOVE_GRASSYTERRAIN",
             "MOVE_LEAFSTORM",
             "MOVE_GRASSYGLIDE"
+        ],
+        "locations": [
+            {
+                "route": "Safari Zone",
+                "area": "Hard",
+                "method": "land"
+            },
+            {
+                "route": "Safari Zone",
+                "area": "Insane",
+                "method": "land"
+            }
         ]
     }
 }

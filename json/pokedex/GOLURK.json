@@ -205,6 +205,13 @@
             "MOVE_PHANTOMFORCE",
             "MOVE_CLOSECOMBAT",
             "MOVE_SCORCHINGSANDS"
+        ],
+        "locations": [
+            {
+                "route": "Rift Cave",
+                "area": "B1F - B2F",
+                "method": "land"
+            }
         ]
     }
 }

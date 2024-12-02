@@ -185,6 +185,13 @@
             "MOVE_CRUNCH",
             "MOVE_FLAREBLITZ",
             "MOVE_BURNINGJEALOUSY"
+        ],
+        "locations": [
+            {
+                "route": "Flower Paradise",
+                "area": "Red Flowers",
+                "method": "land"
+            }
         ]
     }
 }

@@ -108,6 +108,13 @@
             "MOVE_SCREECH",
             "MOVE_BODYSLAM",
             "MOVE_SCORCHINGSANDS"
+        ],
+        "locations": [
+            {
+                "route": "Thundercap Mt.",
+                "area": "1F + 3F",
+                "method": "land"
+            }
         ]
     },
     "CUBONE_A": {

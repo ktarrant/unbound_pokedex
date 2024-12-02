@@ -185,6 +185,13 @@
             "MOVE_CRUNCH",
             "MOVE_HYDROPUMP",
             "MOVE_FLIPTURN"
+        ],
+        "locations": [
+            {
+                "route": "Flower Paradise",
+                "area": "Blue Flowers",
+                "method": "land"
+            }
         ]
     }
 }

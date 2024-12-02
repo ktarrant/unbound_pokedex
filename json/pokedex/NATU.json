@@ -182,6 +182,13 @@
             "MOVE_AIRSLASH",
             "MOVE_EXPANDINGFORCE",
             "MOVE_DUALWINGBEAT"
+        ],
+        "locations": [
+            {
+                "route": "Safari Zone",
+                "area": "Easy",
+                "method": "land"
+            }
         ]
     }
 }

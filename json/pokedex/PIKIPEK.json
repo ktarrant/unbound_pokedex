@@ -155,6 +155,13 @@
             "MOVE_SCREECH",
             "MOVE_BRAVEBIRD",
             "MOVE_DUALWINGBEAT"
+        ],
+        "locations": [
+            {
+                "route": "Route 2",
+                "area": "",
+                "method": "land"
+            }
         ]
     }
 }

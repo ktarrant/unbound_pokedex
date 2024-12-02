@@ -201,6 +201,23 @@
             "MOVE_PSYCHOCUT",
             "MOVE_LASHOUT",
             "MOVE_TRIPLEAXEL"
+        ],
+        "locations": [
+            {
+                "route": "Route 8",
+                "area": "",
+                "method": "land"
+            },
+            {
+                "route": "Frost Mountain",
+                "area": "",
+                "method": "land"
+            },
+            {
+                "route": "Frozen Forest",
+                "area": "",
+                "method": "land"
+            }
         ]
     },
     "SNEASEL_H": {

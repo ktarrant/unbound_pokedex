@@ -183,6 +183,13 @@
             "MOVE_HEAVYSLAM",
             "MOVE_PHANTOMFORCE",
             "MOVE_SCORCHINGSANDS"
+        ],
+        "locations": [
+            {
+                "route": "Rift Cave",
+                "area": "1F",
+                "method": "land"
+            }
         ]
     }
 }

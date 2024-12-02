@@ -206,6 +206,13 @@
             "MOVE_HEX",
             "MOVE_EXPANDINGFORCE",
             "MOVE_SCORCHINGSANDS"
+        ],
+        "locations": [
+            {
+                "route": "Ruins of Void",
+                "area": "B1F - B2F",
+                "method": "land"
+            }
         ]
     }
 }

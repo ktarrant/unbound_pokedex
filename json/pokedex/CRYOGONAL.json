@@ -168,6 +168,13 @@
             "MOVE_CONFIDE",
             "MOVE_ICICLESPEAR",
             "MOVE_TRIPLEAXEL"
+        ],
+        "locations": [
+            {
+                "route": "Frost Mountain",
+                "area": "",
+                "method": "land"
+            }
         ]
     }
 }

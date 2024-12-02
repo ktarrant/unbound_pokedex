@@ -297,6 +297,13 @@
             "MOVE_BODYSLAM",
             "MOVE_PLAYROUGH",
             "MOVE_LASHOUT"
+        ],
+        "locations": [
+            {
+                "route": "Safari Zone",
+                "area": "Easy",
+                "method": "land"
+            }
         ]
     },
     "MEOWTH_G": {
@@ -471,6 +478,13 @@
             "MOVE_CRUNCH",
             "MOVE_PLAYROUGH",
             "MOVE_LASHOUT"
+        ],
+        "locations": [
+            {
+                "route": "Valley Cave",
+                "area": "Special Encounter",
+                "method": "land"
+            }
         ]
     },
     "MEOWTH_GIGA": {

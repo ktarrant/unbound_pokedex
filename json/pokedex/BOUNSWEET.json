@@ -133,6 +133,13 @@
             "MOVE_CONFIDE",
             "MOVE_PLAYROUGH",
             "MOVE_GRASSYGLIDE"
+        ],
+        "locations": [
+            {
+                "route": "Safari Zone",
+                "area": "Easy",
+                "method": "land"
+            }
         ]
     }
 }

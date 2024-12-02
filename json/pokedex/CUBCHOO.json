@@ -172,6 +172,18 @@
             "MOVE_ENCORE",
             "MOVE_ICEFANG",
             "MOVE_PLAYROUGH"
+        ],
+        "locations": [
+            {
+                "route": "Route 8",
+                "area": "",
+                "method": "land"
+            },
+            {
+                "route": "Frozen Forest",
+                "area": "",
+                "method": "land"
+            }
         ]
     }
 }

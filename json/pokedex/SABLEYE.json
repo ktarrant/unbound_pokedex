@@ -136,6 +136,18 @@
             "MOVE_HEX",
             "MOVE_POWERGEM",
             "MOVE_LASHOUT"
+        ],
+        "locations": [
+            {
+                "route": "Ruins of Void",
+                "area": "B3F - B1F",
+                "method": "land"
+            },
+            {
+                "route": "Ruins of Void",
+                "area": "B1F - B2F",
+                "method": "land"
+            }
         ]
     },
     "SABLEYE_MEGA": {

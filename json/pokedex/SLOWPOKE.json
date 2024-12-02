@@ -186,6 +186,18 @@
             "MOVE_WEATHERBALL",
             "MOVE_HYDROPUMP",
             "MOVE_EXPANDINGFORCE"
+        ],
+        "locations": [
+            {
+                "route": "Route 3",
+                "area": "",
+                "method": "land"
+            },
+            {
+                "route": "Route 14",
+                "area": "",
+                "method": "land"
+            }
         ]
     },
     "SLOWPOKE_G": {
@@ -372,6 +384,13 @@
             "MOVE_WEATHERBALL",
             "MOVE_HYDROPUMP",
             "MOVE_EXPANDINGFORCE"
+        ],
+        "locations": [
+            {
+                "route": "Route 14",
+                "area": "Special Encounter",
+                "method": "surf"
+            }
         ]
     }
 }

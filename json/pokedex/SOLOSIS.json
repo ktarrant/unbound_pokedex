@@ -179,6 +179,13 @@
             "MOVE_STOREDPOWER",
             "MOVE_EXPANDINGFORCE",
             "MOVE_POLTERGEIST"
+        ],
+        "locations": [
+            {
+                "route": "Route 12",
+                "area": "",
+                "method": "land"
+            }
         ]
     }
 }

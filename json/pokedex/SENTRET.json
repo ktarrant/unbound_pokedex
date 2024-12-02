@@ -181,6 +181,13 @@
             "MOVE_TAILSLAP",
             "MOVE_BODYSLAM",
             "MOVE_REVERSAL"
+        ],
+        "locations": [
+            {
+                "route": "Route 3",
+                "area": "Swarm",
+                "method": "land"
+            }
         ]
     }
 }

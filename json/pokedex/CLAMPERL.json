@@ -102,6 +102,28 @@
             "MOVE_WHIRLPOOL",
             "MOVE_BODYSLAM",
             "MOVE_MUDDYWATER"
+        ],
+        "locations": [
+            {
+                "route": "Route 14",
+                "area": "",
+                "method": "Super Rod"
+            },
+            {
+                "route": "Route 16",
+                "area": "",
+                "method": "Super Rod"
+            },
+            {
+                "route": "Route 17",
+                "area": "",
+                "method": "Super Rod"
+            },
+            {
+                "route": "Ruins of Void",
+                "area": "",
+                "method": "Super Rod"
+            }
         ]
     }
 }

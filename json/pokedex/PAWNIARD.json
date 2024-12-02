@@ -182,6 +182,13 @@
             "MOVE_SCARYFACE",
             "MOVE_PSYCHOCUT",
             "MOVE_LASHOUT"
+        ],
+        "locations": [
+            {
+                "route": "Route 16",
+                "area": "",
+                "method": "land"
+            }
         ]
     }
 }

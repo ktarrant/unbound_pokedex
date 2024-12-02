@@ -158,6 +158,13 @@
             "MOVE_LEAFSTORM",
             "MOVE_SOLARBLADE",
             "MOVE_GRASSYGLIDE"
+        ],
+        "locations": [
+            {
+                "route": "Route 18",
+                "area": "Swarm",
+                "method": "land"
+            }
         ]
     }
 }

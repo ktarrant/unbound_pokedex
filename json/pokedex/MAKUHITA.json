@@ -186,6 +186,23 @@
             "MOVE_REVERSAL",
             "MOVE_CLOSECOMBAT",
             "MOVE_COACHING"
+        ],
+        "locations": [
+            {
+                "route": "Icicle Cave",
+                "area": "4F - 1F",
+                "method": "land"
+            },
+            {
+                "route": "Icicle Cave",
+                "area": "4F (Secret Entrance)",
+                "method": "land"
+            },
+            {
+                "route": "KBT Expressway",
+                "area": "\"Tehl, Epidimy Entrances \"",
+                "method": "land"
+            }
         ]
     }
 }

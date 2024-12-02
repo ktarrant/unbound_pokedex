@@ -154,6 +154,13 @@
             "MOVE_AGILITY",
             "MOVE_BODYSLAM",
             "MOVE_BRAVEBIRD"
+        ],
+        "locations": [
+            {
+                "route": "Route 7",
+                "area": "",
+                "method": "land"
+            }
         ]
     }
 }

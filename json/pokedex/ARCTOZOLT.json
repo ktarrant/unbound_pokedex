@@ -153,6 +153,13 @@
             "MOVE_HYDROPUMP",
             "MOVE_METEORBEAM",
             "MOVE_RISINGVOLTAGE"
+        ],
+        "locations": [
+            {
+                "route": "Crystal Peak",
+                "area": "Special Encounter",
+                "method": "land"
+            }
         ]
     }
 }

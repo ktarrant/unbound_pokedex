@@ -56,6 +56,18 @@
         "tutor": [
             "MOVE_ELECTROWEB",
             "MOVE_BUGBITE"
+        ],
+        "locations": [
+            {
+                "route": "Grim Woods",
+                "area": "",
+                "method": "land"
+            },
+            {
+                "route": "Vivill Woods",
+                "area": "",
+                "method": "land"
+            }
         ]
     }
 }

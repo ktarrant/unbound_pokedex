@@ -168,6 +168,13 @@
             "MOVE_ELECTROBALL",
             "MOVE_PLAYROUGH",
             "MOVE_RISINGVOLTAGE"
+        ],
+        "locations": [
+            {
+                "route": "Route 12",
+                "area": "",
+                "method": "land"
+            }
         ]
     }
 }

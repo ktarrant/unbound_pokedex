@@ -172,6 +172,13 @@
             "MOVE_CONFIDE",
             "MOVE_BODYSLAM",
             "MOVE_MEGAHORN"
+        ],
+        "locations": [
+            {
+                "route": "Route 8",
+                "area": "Swarm",
+                "method": "land"
+            }
         ]
     }
 }

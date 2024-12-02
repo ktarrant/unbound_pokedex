@@ -176,6 +176,13 @@
             "MOVE_BODYSLAM",
             "MOVE_ELECTROBALL",
             "MOVE_RISINGVOLTAGE"
+        ],
+        "locations": [
+            {
+                "route": "Safari Zone",
+                "area": "Easy",
+                "method": "land"
+            }
         ]
     }
 }

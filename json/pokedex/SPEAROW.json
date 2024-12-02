@@ -154,6 +154,13 @@
             "MOVE_SCARYFACE",
             "MOVE_AGILITY",
             "MOVE_DUALWINGBEAT"
+        ],
+        "locations": [
+            {
+                "route": "Route 9 + Autl Woods",
+                "area": "",
+                "method": "land"
+            }
         ]
     }
 }

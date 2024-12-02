@@ -137,6 +137,13 @@
             "MOVE_CRUNCH",
             "MOVE_PLAYROUGH",
             "MOVE_RISINGVOLTAGE"
+        ],
+        "locations": [
+            {
+                "route": "Route 5",
+                "area": "Special Encounter",
+                "method": "land"
+            }
         ]
     }
 }

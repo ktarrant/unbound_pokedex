@@ -180,6 +180,13 @@
             "MOVE_CONFIDE",
             "MOVE_SPIKES",
             "MOVE_AGILITY"
+        ],
+        "locations": [
+            {
+                "route": "Route 6",
+                "area": "",
+                "method": "land"
+            }
         ]
     }
 }

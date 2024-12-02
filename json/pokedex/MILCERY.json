@@ -117,6 +117,13 @@
             "MOVE_CONFIDE",
             "MOVE_MISTYTERRAIN",
             "MOVE_STOREDPOWER"
+        ],
+        "locations": [
+            {
+                "route": "Route 11",
+                "area": "Special Encounter",
+                "method": "land"
+            }
         ]
     }
 }

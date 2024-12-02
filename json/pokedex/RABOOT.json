@@ -141,6 +141,13 @@
             "MOVE_ELECTROBALL",
             "MOVE_BLAZEKICK",
             "MOVE_FLAREBLITZ"
+        ],
+        "locations": [
+            {
+                "route": "Redwood Forest",
+                "area": "Special Encounter",
+                "method": "land"
+            }
         ]
     }
 }

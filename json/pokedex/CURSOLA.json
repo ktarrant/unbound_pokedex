@@ -166,6 +166,13 @@
             "MOVE_HYDROPUMP",
             "MOVE_METEORBEAM",
             "MOVE_BURNINGJEALOUSY"
+        ],
+        "locations": [
+            {
+                "route": "Route 16",
+                "area": "Special Encounter",
+                "method": "Super Rod"
+            }
         ]
     }
 }

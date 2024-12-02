@@ -139,6 +139,13 @@
             "MOVE_BODYSLAM",
             "MOVE_ELECTROBALL",
             "MOVE_RISINGVOLTAGE"
+        ],
+        "locations": [
+            {
+                "route": "Ice Hole",
+                "area": "Special Encounter",
+                "method": "land"
+            }
         ]
     }
 }

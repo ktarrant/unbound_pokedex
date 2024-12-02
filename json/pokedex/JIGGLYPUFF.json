@@ -229,6 +229,13 @@
             "MOVE_PLAYROUGH",
             "MOVE_POLTERGEIST",
             "MOVE_MISTYEXPLOSION"
+        ],
+        "locations": [
+            {
+                "route": "Victory Road",
+                "area": "Maze Area",
+                "method": "land"
+            }
         ]
     }
 }

@@ -191,6 +191,13 @@
             "MOVE_CONFIDE",
             "MOVE_BODYSLAM",
             "MOVE_CLOSECOMBAT"
+        ],
+        "locations": [
+            {
+                "route": "Route 17",
+                "area": "",
+                "method": "land"
+            }
         ]
     }
 }

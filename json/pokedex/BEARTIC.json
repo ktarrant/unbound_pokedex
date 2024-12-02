@@ -181,6 +181,13 @@
             "MOVE_BODYPRESS",
             "MOVE_HEAVYSLAM",
             "MOVE_PLAYROUGH"
+        ],
+        "locations": [
+            {
+                "route": "Victory Road",
+                "area": "Snowy Area",
+                "method": "land"
+            }
         ]
     }
 }

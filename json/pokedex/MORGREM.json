@@ -160,6 +160,13 @@
             "MOVE_PLAYROUGH",
             "MOVE_BURNINGJEALOUSY",
             "MOVE_LASHOUT"
+        ],
+        "locations": [
+            {
+                "route": "Vivill Woods",
+                "area": "Special Encounter",
+                "method": "land"
+            }
         ]
     }
 }

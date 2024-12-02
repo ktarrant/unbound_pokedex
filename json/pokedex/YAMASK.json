@@ -172,6 +172,13 @@
             "MOVE_TOXICSPIKES",
             "MOVE_NASTYPLOT",
             "MOVE_HEX"
+        ],
+        "locations": [
+            {
+                "route": "Ruins of Void",
+                "area": "B3F - B1F",
+                "method": "land"
+            }
         ]
     },
     "YAMASK_G": {
@@ -339,6 +346,13 @@
             "MOVE_TOXICSPIKES",
             "MOVE_NASTYPLOT",
             "MOVE_HEX"
+        ],
+        "locations": [
+            {
+                "route": "Ruins of Void",
+                "area": "Special Encounter",
+                "method": "land"
+            }
         ]
     }
 }

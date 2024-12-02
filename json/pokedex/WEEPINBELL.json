@@ -156,6 +156,18 @@
             "MOVE_POWERWHIP",
             "MOVE_SOLARBLADE",
             "MOVE_GRASSYGLIDE"
+        ],
+        "locations": [
+            {
+                "route": "Route 14",
+                "area": "",
+                "method": "land"
+            },
+            {
+                "route": "Cootes Bog",
+                "area": "",
+                "method": "land"
+            }
         ]
     }
 }

@@ -132,6 +132,13 @@
             "MOVE_REVERSAL",
             "MOVE_ELECTROBALL",
             "MOVE_GRASSYGLIDE"
+        ],
+        "locations": [
+            {
+                "route": "Magnolia Fields",
+                "area": "Special Encounter",
+                "method": "land"
+            }
         ]
     }
 }

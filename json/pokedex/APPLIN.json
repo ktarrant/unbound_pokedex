@@ -67,6 +67,13 @@
             "MOVE_SYNTHESIS",
             "MOVE_CONFIDE",
             "MOVE_GRASSYGLIDE"
+        ],
+        "locations": [
+            {
+                "route": "Route 12",
+                "area": "Special Encounter",
+                "method": "land"
+            }
         ]
     }
 }

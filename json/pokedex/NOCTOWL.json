@@ -165,6 +165,33 @@
             "MOVE_AIRSLASH",
             "MOVE_HURRICANE",
             "MOVE_DUALWINGBEAT"
+        ],
+        "locations": [
+            {
+                "route": "Route 11",
+                "area": "",
+                "method": "land"
+            },
+            {
+                "route": "Route 12",
+                "area": "",
+                "method": "land"
+            },
+            {
+                "route": "Route 17",
+                "area": "",
+                "method": "land"
+            },
+            {
+                "route": "Route 18",
+                "area": "",
+                "method": "land"
+            },
+            {
+                "route": "Magnolia Fields",
+                "area": "",
+                "method": "land"
+            }
         ]
     }
 }

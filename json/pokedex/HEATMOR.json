@@ -191,6 +191,23 @@
             "MOVE_FLAREBLITZ",
             "MOVE_BURNINGJEALOUSY",
             "MOVE_SCORCHINGSANDS"
+        ],
+        "locations": [
+            {
+                "route": "Cinder Volcano",
+                "area": "Shadow Basement",
+                "method": "land"
+            },
+            {
+                "route": "Victory Road",
+                "area": "B1F",
+                "method": "land"
+            },
+            {
+                "route": "Victory Road",
+                "area": "Maze Area",
+                "method": "land"
+            }
         ]
     }
 }

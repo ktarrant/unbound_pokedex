@@ -163,6 +163,13 @@
             "MOVE_TAILSLAP",
             "MOVE_HYDROPUMP",
             "MOVE_FLIPTURN"
+        ],
+        "locations": [
+            {
+                "route": "Route 3",
+                "area": "",
+                "method": "land"
+            }
         ]
     }
 }

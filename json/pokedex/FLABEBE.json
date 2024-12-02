@@ -94,6 +94,38 @@
             "MOVE_GRASSYTERRAIN",
             "MOVE_MISTYTERRAIN",
             "MOVE_GRASSYGLIDE"
+        ],
+        "locations": [
+            {
+                "route": "Flower Paradise",
+                "area": "Yellow Flowers",
+                "method": "land"
+            },
+            {
+                "route": "Flower Paradise",
+                "area": "Pink Flowers",
+                "method": "land"
+            },
+            {
+                "route": "Flower Paradise",
+                "area": "Blue Flowers",
+                "method": "land"
+            },
+            {
+                "route": "Flower Paradise",
+                "area": "Red Flowers",
+                "method": "land"
+            },
+            {
+                "route": "Flower Paradise",
+                "area": "Blue-Yellow Flowers",
+                "method": "land"
+            },
+            {
+                "route": "Flower Paradise",
+                "area": "Pink-Purple Flowers",
+                "method": "land"
+            }
         ]
     },
     "FLABEBE_BLUE": {

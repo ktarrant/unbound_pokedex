@@ -167,6 +167,13 @@
             "MOVE_PSYCHOCUT",
             "MOVE_CLOSECOMBAT",
             "MOVE_DUALWINGBEAT"
+        ],
+        "locations": [
+            {
+                "route": "Redwood Forest",
+                "area": "Headbutt Trees",
+                "method": "land"
+            }
         ]
     }
 }

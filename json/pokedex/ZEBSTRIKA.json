@@ -146,6 +146,18 @@
             "MOVE_AGILITY",
             "MOVE_FLAREBLITZ",
             "MOVE_RISINGVOLTAGE"
+        ],
+        "locations": [
+            {
+                "route": "Safari Zone",
+                "area": "Medium",
+                "method": "land"
+            },
+            {
+                "route": "Safari Zone",
+                "area": "Hard",
+                "method": "land"
+            }
         ]
     }
 }

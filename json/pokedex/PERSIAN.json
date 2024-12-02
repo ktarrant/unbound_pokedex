@@ -172,6 +172,13 @@
             "MOVE_POWERGEM",
             "MOVE_SKITTERSMACK",
             "MOVE_LASHOUT"
+        ],
+        "locations": [
+            {
+                "route": "Route 18",
+                "area": "",
+                "method": "land"
+            }
         ]
     },
     "PERSIAN_A": {

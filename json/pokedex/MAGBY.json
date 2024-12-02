@@ -171,6 +171,13 @@
             "MOVE_FIRESPIN",
             "MOVE_BODYSLAM",
             "MOVE_FLAREBLITZ"
+        ],
+        "locations": [
+            {
+                "route": "Cinder Volcano",
+                "area": "1F - 4F",
+                "method": "land"
+            }
         ]
     }
 }

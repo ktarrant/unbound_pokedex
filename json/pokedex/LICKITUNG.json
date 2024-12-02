@@ -203,6 +203,13 @@
             "MOVE_POWERWHIP",
             "MOVE_POLTERGEIST",
             "MOVE_TERRAINPULSE"
+        ],
+        "locations": [
+            {
+                "route": "Route 5",
+                "area": "",
+                "method": "land"
+            }
         ]
     }
 }

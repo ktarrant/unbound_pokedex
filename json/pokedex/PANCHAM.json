@@ -185,6 +185,13 @@
             "MOVE_CRUNCH",
             "MOVE_LASHOUT",
             "MOVE_COACHING"
+        ],
+        "locations": [
+            {
+                "route": "Route 16",
+                "area": "",
+                "method": "land"
+            }
         ]
     }
 }

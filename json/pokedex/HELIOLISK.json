@@ -178,6 +178,13 @@
             "MOVE_WEATHERBALL",
             "MOVE_SCALESHOT",
             "MOVE_RISINGVOLTAGE"
+        ],
+        "locations": [
+            {
+                "route": "Safari Zone",
+                "area": "Insane",
+                "method": "land"
+            }
         ]
     }
 }

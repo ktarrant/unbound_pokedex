@@ -159,6 +159,13 @@
             "MOVE_ELECTROBALL",
             "MOVE_POWERGEM",
             "MOVE_RISINGVOLTAGE"
+        ],
+        "locations": [
+            {
+                "route": "Route 7",
+                "area": "",
+                "method": "land"
+            }
         ]
     }
 }

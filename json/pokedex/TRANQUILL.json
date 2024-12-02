@@ -149,6 +149,13 @@
             "MOVE_AGILITY",
             "MOVE_AIRSLASH",
             "MOVE_DUALWINGBEAT"
+        ],
+        "locations": [
+            {
+                "route": "Magnolia Fields",
+                "area": "",
+                "method": "land"
+            }
         ]
     }
 }

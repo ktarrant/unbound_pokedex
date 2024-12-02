@@ -142,6 +142,13 @@
             "MOVE_ENCORE",
             "MOVE_MISTYTERRAIN",
             "MOVE_BODYSLAM"
+        ],
+        "locations": [
+            {
+                "route": "Route 9 + Autl Woods",
+                "area": "",
+                "method": "land"
+            }
         ]
     },
     "AUDINO_MEGA": {

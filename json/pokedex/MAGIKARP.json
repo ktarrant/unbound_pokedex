@@ -56,6 +56,143 @@
         "tutor": [
             "MOVE_BOUNCE",
             "MOVE_HYDROPUMP"
+        ],
+        "locations": [
+            {
+                "route": "Route 2",
+                "area": "",
+                "method": "Old Rod"
+            },
+            {
+                "route": "Route 3",
+                "area": "",
+                "method": "Old Rod"
+            },
+            {
+                "route": "Route 4",
+                "area": "",
+                "method": "Old Rod"
+            },
+            {
+                "route": "Route 5",
+                "area": "",
+                "method": "Old Rod"
+            },
+            {
+                "route": "Route 6",
+                "area": "",
+                "method": "Old Rod"
+            },
+            {
+                "route": "Route 7",
+                "area": "",
+                "method": "Old Rod"
+            },
+            {
+                "route": "Route 9 + Autl Woods",
+                "area": "",
+                "method": "Old Rod"
+            },
+            {
+                "route": "Route 10",
+                "area": "",
+                "method": "Old Rod"
+            },
+            {
+                "route": "Route 11",
+                "area": "",
+                "method": "Old Rod"
+            },
+            {
+                "route": "Route 12",
+                "area": "",
+                "method": "Old Rod"
+            },
+            {
+                "route": "Route 14",
+                "area": "",
+                "method": "Old Rod"
+            },
+            {
+                "route": "Route 16",
+                "area": "",
+                "method": "Old Rod"
+            },
+            {
+                "route": "Route 17",
+                "area": "",
+                "method": "Old Rod"
+            },
+            {
+                "route": "Route 18",
+                "area": "",
+                "method": "Old Rod"
+            },
+            {
+                "route": "Icicle Cave",
+                "area": "",
+                "method": "Old Rod"
+            },
+            {
+                "route": "Grim Woods",
+                "area": "",
+                "method": "Old Rod"
+            },
+            {
+                "route": "Valley Cave",
+                "area": "",
+                "method": "Old Rod"
+            },
+            {
+                "route": "Frost Mountain",
+                "area": "",
+                "method": "Old Rod"
+            },
+            {
+                "route": "Auburn Waterway",
+                "area": "",
+                "method": "Old Rod"
+            },
+            {
+                "route": "Thundercap Mt.",
+                "area": "",
+                "method": "Old Rod"
+            },
+            {
+                "route": "Ruins of Void",
+                "area": "",
+                "method": "Old Rod"
+            },
+            {
+                "route": "Vivill Woods",
+                "area": "",
+                "method": "Old Rod"
+            },
+            {
+                "route": "Cootes Bog",
+                "area": "",
+                "method": "Old Rod"
+            },
+            {
+                "route": "Crystal Peak",
+                "area": "",
+                "method": "Old Rod"
+            },
+            {
+                "route": "Magnolia Fields",
+                "area": "",
+                "method": "Old Rod"
+            },
+            {
+                "route": "Redwood Forest",
+                "area": "",
+                "method": "Old Rod"
+            },
+            {
+                "route": "Victory Road",
+                "area": "",
+                "method": "Old Rod"
+            }
         ]
     }
 }

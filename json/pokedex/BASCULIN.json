@@ -96,6 +96,33 @@
             "MOVE_HYDROPUMP",
             "MOVE_SCALESHOT",
             "MOVE_FLIPTURN"
+        ],
+        "locations": [
+            {
+                "route": "Route 2",
+                "area": "",
+                "method": "surf"
+            },
+            {
+                "route": "Route 4",
+                "area": "",
+                "method": "surf"
+            },
+            {
+                "route": "Route 5",
+                "area": "",
+                "method": "surf"
+            },
+            {
+                "route": "Route 11",
+                "area": "",
+                "method": "surf"
+            },
+            {
+                "route": "Victory Road",
+                "area": "Maze Area",
+                "method": "surf"
+            }
         ]
     },
     "BASCULIN_BLUE": {

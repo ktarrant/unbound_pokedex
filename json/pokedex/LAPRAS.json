@@ -126,6 +126,28 @@
             "MOVE_WEATHERBALL",
             "MOVE_HYDROPUMP",
             "MOVE_MEGAHORN"
+        ],
+        "locations": [
+            {
+                "route": "Route 17",
+                "area": "",
+                "method": "Super Rod"
+            },
+            {
+                "route": "Icicle Cave",
+                "area": "",
+                "method": "surf"
+            },
+            {
+                "route": "Frost Mountain",
+                "area": "",
+                "method": "surf"
+            },
+            {
+                "route": "Victory Road",
+                "area": "Kyurem's Cave",
+                "method": "surf"
+            }
         ]
     },
     "LAPRAS_GIGA": {

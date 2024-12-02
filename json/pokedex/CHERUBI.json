@@ -166,6 +166,13 @@
             "MOVE_WEATHERBALL",
             "MOVE_POLLENPUFF",
             "MOVE_GRASSYGLIDE"
+        ],
+        "locations": [
+            {
+                "route": "Route 3",
+                "area": "",
+                "method": "land"
+            }
         ]
     }
 }

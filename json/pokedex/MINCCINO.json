@@ -178,6 +178,13 @@
             "MOVE_TAILSLAP",
             "MOVE_PLAYROUGH",
             "MOVE_TRIPLEAXEL"
+        ],
+        "locations": [
+            {
+                "route": "Route 2",
+                "area": "",
+                "method": "land"
+            }
         ]
     }
 }

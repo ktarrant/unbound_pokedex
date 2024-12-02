@@ -149,6 +149,13 @@
             "MOVE_SCREECH",
             "MOVE_SOLARBLADE",
             "MOVE_GRASSYGLIDE"
+        ],
+        "locations": [
+            {
+                "route": "Redwood Forest",
+                "area": "Special Encounter",
+                "method": "land"
+            }
         ]
     }
 }

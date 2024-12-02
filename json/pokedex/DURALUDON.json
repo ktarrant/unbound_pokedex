@@ -115,6 +115,13 @@
             "MOVE_HEAVYSLAM",
             "MOVE_BREAKINGSWIPE",
             "MOVE_POLTERGEIST"
+        ],
+        "locations": [
+            {
+                "route": "Crystal Peak",
+                "area": "Special Encounter",
+                "method": "land"
+            }
         ]
     },
     "DURALUDON_GIGA": {

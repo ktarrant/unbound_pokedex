@@ -160,6 +160,13 @@
             "MOVE_NASTYPLOT",
             "MOVE_MISTYTERRAIN",
             "MOVE_MISTYEXPLOSION"
+        ],
+        "locations": [
+            {
+                "route": "Route 12",
+                "area": "Swarm",
+                "method": "land"
+            }
         ]
     }
 }

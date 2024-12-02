@@ -33,6 +33,148 @@
         "evolve_from": [],
         "tm": [
             "MOVE_HIDDENPOWER"
+        ],
+        "locations": [
+            {
+                "route": "Tomb of Borrius",
+                "area": "1F",
+                "method": "land"
+            },
+            {
+                "route": "Tomb of Borrius",
+                "area": "1F",
+                "method": "land"
+            },
+            {
+                "route": "Tomb of Borrius",
+                "area": "1F",
+                "method": "land"
+            },
+            {
+                "route": "Tomb of Borrius",
+                "area": "1F",
+                "method": "land"
+            },
+            {
+                "route": "Tomb of Borrius",
+                "area": "1F",
+                "method": "land"
+            },
+            {
+                "route": "Tomb of Borrius",
+                "area": "B4F",
+                "method": "land"
+            },
+            {
+                "route": "Tomb of Borrius",
+                "area": "B4F",
+                "method": "land"
+            },
+            {
+                "route": "Tomb of Borrius",
+                "area": "B4F",
+                "method": "land"
+            },
+            {
+                "route": "Tomb of Borrius",
+                "area": "B4F",
+                "method": "land"
+            },
+            {
+                "route": "Tomb of Borrius",
+                "area": "B4F",
+                "method": "land"
+            },
+            {
+                "route": "Tomb of Borrius",
+                "area": "B3F",
+                "method": "land"
+            },
+            {
+                "route": "Tomb of Borrius",
+                "area": "B3F",
+                "method": "land"
+            },
+            {
+                "route": "Tomb of Borrius",
+                "area": "B3F",
+                "method": "land"
+            },
+            {
+                "route": "Tomb of Borrius",
+                "area": "B3F",
+                "method": "land"
+            },
+            {
+                "route": "Tomb of Borrius",
+                "area": "B3F",
+                "method": "land"
+            },
+            {
+                "route": "Tomb of Borrius",
+                "area": "B2F",
+                "method": "land"
+            },
+            {
+                "route": "Tomb of Borrius",
+                "area": "B2F",
+                "method": "land"
+            },
+            {
+                "route": "Tomb of Borrius",
+                "area": "B2F",
+                "method": "land"
+            },
+            {
+                "route": "Tomb of Borrius",
+                "area": "B2F",
+                "method": "land"
+            },
+            {
+                "route": "Tomb of Borrius",
+                "area": "B2F",
+                "method": "land"
+            },
+            {
+                "route": "Tomb of Borrius",
+                "area": "B1F",
+                "method": "land"
+            },
+            {
+                "route": "Tomb of Borrius",
+                "area": "B1F",
+                "method": "land"
+            },
+            {
+                "route": "Tomb of Borrius",
+                "area": "B1F",
+                "method": "land"
+            },
+            {
+                "route": "Tomb of Borrius",
+                "area": "B1F",
+                "method": "land"
+            },
+            {
+                "route": "Tomb of Borrius",
+                "area": "B1F",
+                "method": "land"
+            },
+            {
+                "route": "Tomb of Borrius",
+                "area": "1F (Main Room)",
+                "method": "land"
+            },
+            {
+                "route": "Tomb of Borrius",
+                "area": "1F (Main Room)",
+                "method": "land"
+            },
+            {
+                "route": "Tomb of Borrius",
+                "area": "1F (Main Room)",
+                "method": "land"
+            }
         ]
     },
     "UNOWN_B": {

@@ -193,6 +193,13 @@
             "MOVE_CRUNCH",
             "MOVE_PLAYROUGH",
             "MOVE_CLOSECOMBAT"
+        ],
+        "locations": [
+            {
+                "route": "Route 12",
+                "area": "",
+                "method": "land"
+            }
         ]
     }
 }

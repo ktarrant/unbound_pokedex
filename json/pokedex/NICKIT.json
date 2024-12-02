@@ -135,6 +135,13 @@
             "MOVE_TAILSLAP",
             "MOVE_PLAYROUGH",
             "MOVE_LASHOUT"
+        ],
+        "locations": [
+            {
+                "route": "Route 5",
+                "area": "Special Encounter",
+                "method": "land"
+            }
         ]
     }
 }

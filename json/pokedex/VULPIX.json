@@ -183,6 +183,13 @@
             "MOVE_MYSTICALFIRE",
             "MOVE_FLAREBLITZ",
             "MOVE_BURNINGJEALOUSY"
+        ],
+        "locations": [
+            {
+                "route": "Cinder Volcano",
+                "area": "Swarm",
+                "method": "land"
+            }
         ]
     },
     "VULPIX_A": {

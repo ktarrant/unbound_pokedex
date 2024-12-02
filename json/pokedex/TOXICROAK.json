@@ -187,6 +187,13 @@
             "MOVE_LASHOUT",
             "MOVE_CORROSIVEGAS",
             "MOVE_COACHING"
+        ],
+        "locations": [
+            {
+                "route": "Cootes Bog",
+                "area": "",
+                "method": "land"
+            }
         ]
     }
 }

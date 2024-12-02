@@ -184,6 +184,13 @@
             "MOVE_PINMISSILE",
             "MOVE_BODYSLAM",
             "MOVE_GRASSYGLIDE"
+        ],
+        "locations": [
+            {
+                "route": "Great Desert",
+                "area": "",
+                "method": "land"
+            }
         ]
     }
 }

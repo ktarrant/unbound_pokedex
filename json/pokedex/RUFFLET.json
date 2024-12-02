@@ -150,6 +150,13 @@
             "MOVE_CLOSECOMBAT",
             "MOVE_HURRICANE",
             "MOVE_DUALWINGBEAT"
+        ],
+        "locations": [
+            {
+                "route": "Crystal Peak",
+                "area": "Outside",
+                "method": "land"
+            }
         ]
     }
 }

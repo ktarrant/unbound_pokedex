@@ -134,6 +134,13 @@
             "MOVE_WEATHERBALL",
             "MOVE_LEAFSTORM",
             "MOVE_GRASSYGLIDE"
+        ],
+        "locations": [
+            {
+                "route": "Route 4",
+                "area": "",
+                "method": "land"
+            }
         ]
     }
 }

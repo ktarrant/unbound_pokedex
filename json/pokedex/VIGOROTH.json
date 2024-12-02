@@ -192,6 +192,13 @@
             "MOVE_BODYSLAM",
             "MOVE_REVERSAL",
             "MOVE_PLAYROUGH"
+        ],
+        "locations": [
+            {
+                "route": "Redwood Forest",
+                "area": "",
+                "method": "land"
+            }
         ]
     }
 }

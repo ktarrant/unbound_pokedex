@@ -181,6 +181,28 @@
             "MOVE_SKITTERSMACK",
             "MOVE_BURNINGJEALOUSY",
             "MOVE_SCORCHINGSANDS"
+        ],
+        "locations": [
+            {
+                "route": "Cinder Volcano",
+                "area": "",
+                "method": "surf"
+            },
+            {
+                "route": "Cinder Volcano",
+                "area": "",
+                "method": "Rock Smash"
+            },
+            {
+                "route": "Victory Road",
+                "area": "B1F",
+                "method": "land"
+            },
+            {
+                "route": "Victory Road",
+                "area": "B1F",
+                "method": "surf"
+            }
         ]
     }
 }

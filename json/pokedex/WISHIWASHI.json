@@ -84,6 +84,38 @@
             "MOVE_HYDROPUMP",
             "MOVE_SCALESHOT",
             "MOVE_FLIPTURN"
+        ],
+        "locations": [
+            {
+                "route": "Route 9 + Autl Woods",
+                "area": "",
+                "method": "Good Rod"
+            },
+            {
+                "route": "Route 9 + Autl Woods",
+                "area": "",
+                "method": "Super Rod"
+            },
+            {
+                "route": "Route 10",
+                "area": "",
+                "method": "Good Rod"
+            },
+            {
+                "route": "Route 10",
+                "area": "",
+                "method": "Super Rod"
+            },
+            {
+                "route": "Auburn Waterway",
+                "area": "",
+                "method": "Good Rod"
+            },
+            {
+                "route": "Auburn Waterway",
+                "area": "",
+                "method": "Super Rod"
+            }
         ]
     },
     "WISHIWASHI_S": {

@@ -182,6 +182,23 @@
             "MOVE_PLAYROUGH",
             "MOVE_POLLENPUFF",
             "MOVE_GRASSYGLIDE"
+        ],
+        "locations": [
+            {
+                "route": "Flower Paradise",
+                "area": "Pink Flowers",
+                "method": "land"
+            },
+            {
+                "route": "Flower Paradise",
+                "area": "Red Flowers",
+                "method": "land"
+            },
+            {
+                "route": "Flower Paradise",
+                "area": "Pink-Purple Flowers",
+                "method": "land"
+            }
         ]
     }
 }

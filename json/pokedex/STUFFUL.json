@@ -164,6 +164,13 @@
             "MOVE_SUPERPOWER",
             "MOVE_CONFIDE",
             "MOVE_COACHING"
+        ],
+        "locations": [
+            {
+                "route": "Route 2",
+                "area": "",
+                "method": "land"
+            }
         ]
     }
 }

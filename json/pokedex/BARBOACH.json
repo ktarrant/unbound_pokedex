@@ -155,6 +155,33 @@
             "MOVE_WHIRLPOOL",
             "MOVE_MUDDYWATER",
             "MOVE_HYDROPUMP"
+        ],
+        "locations": [
+            {
+                "route": "Route 11",
+                "area": "",
+                "method": "Good Rod"
+            },
+            {
+                "route": "Grim Woods",
+                "area": "",
+                "method": "Good Rod"
+            },
+            {
+                "route": "Vivill Woods",
+                "area": "",
+                "method": "Good Rod"
+            },
+            {
+                "route": "Cootes Bog",
+                "area": "",
+                "method": "Good Rod"
+            },
+            {
+                "route": "Redwood Forest",
+                "area": "",
+                "method": "Good Rod"
+            }
         ]
     }
 }

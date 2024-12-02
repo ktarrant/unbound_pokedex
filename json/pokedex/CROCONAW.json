@@ -177,6 +177,13 @@
             "MOVE_BODYSLAM",
             "MOVE_CRUNCH",
             "MOVE_HYDROPUMP"
+        ],
+        "locations": [
+            {
+                "route": "Cootes Bog",
+                "area": "Swarm",
+                "method": "land"
+            }
         ]
     }
 }

@@ -161,6 +161,18 @@
             "MOVE_SANDTOMB",
             "MOVE_HIGHHORSEPOWER",
             "MOVE_SCORCHINGSANDS"
+        ],
+        "locations": [
+            {
+                "route": "Icicle Cave",
+                "area": "4F (Secret Entrance)",
+                "method": "land"
+            },
+            {
+                "route": "Cinder Volcano",
+                "area": "1F - 4F",
+                "method": "land"
+            }
         ]
     }
 }

@@ -207,6 +207,13 @@
             "MOVE_CRUNCH",
             "MOVE_SKITTERSMACK",
             "MOVE_LASHOUT"
+        ],
+        "locations": [
+            {
+                "route": "Cootes Bog",
+                "area": "",
+                "method": "land"
+            }
         ]
     }
 }

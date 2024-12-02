@@ -164,6 +164,18 @@
             "MOVE_BODYSLAM",
             "MOVE_MUDDYWATER",
             "MOVE_HYDROPUMP"
+        ],
+        "locations": [
+            {
+                "route": "Route 3",
+                "area": "",
+                "method": "land"
+            },
+            {
+                "route": "Cootes Bog",
+                "area": "",
+                "method": "Old Rod"
+            }
         ]
     }
 }

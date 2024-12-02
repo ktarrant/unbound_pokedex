@@ -176,6 +176,13 @@
             "MOVE_VENOMDRENCH",
             "MOVE_TOXICSPIKES",
             "MOVE_CORROSIVEGAS"
+        ],
+        "locations": [
+            {
+                "route": "Antisis Sewers",
+                "area": "",
+                "method": "land"
+            }
         ]
     },
     "WEEZING_G": {
@@ -375,6 +382,13 @@
             "MOVE_PLAYROUGH",
             "MOVE_MISTYEXPLOSION",
             "MOVE_CORROSIVEGAS"
+        ],
+        "locations": [
+            {
+                "route": "Antisis Sewers",
+                "area": "Special Encounter",
+                "method": "land"
+            }
         ]
     }
 }

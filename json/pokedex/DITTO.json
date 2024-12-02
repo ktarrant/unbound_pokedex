@@ -36,6 +36,23 @@
                 "level": 1,
                 "move": "MOVE_TRANSFORM"
             }
+        ],
+        "locations": [
+            {
+                "route": "Route 5",
+                "area": "",
+                "method": "land"
+            },
+            {
+                "route": "Route 10",
+                "area": "",
+                "method": "land"
+            },
+            {
+                "route": "Auburn Waterway",
+                "area": "",
+                "method": "land"
+            }
         ]
     }
 }

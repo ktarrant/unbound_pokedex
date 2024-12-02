@@ -184,6 +184,13 @@
             "MOVE_WEATHERBALL",
             "MOVE_LEAFSTORM",
             "MOVE_GRASSYGLIDE"
+        ],
+        "locations": [
+            {
+                "route": "Great Desert",
+                "area": "",
+                "method": "land"
+            }
         ]
     }
 }

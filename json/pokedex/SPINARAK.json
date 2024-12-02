@@ -180,6 +180,13 @@
             "MOVE_CROSSPOISON",
             "MOVE_MEGAHORN",
             "MOVE_SKITTERSMACK"
+        ],
+        "locations": [
+            {
+                "route": "Route 6",
+                "area": "",
+                "method": "land"
+            }
         ]
     }
 }

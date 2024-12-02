@@ -155,6 +155,13 @@
             "MOVE_AIRSLASH",
             "MOVE_HURRICANE",
             "MOVE_DUALWINGBEAT"
+        ],
+        "locations": [
+            {
+                "route": "Route 3",
+                "area": "",
+                "method": "land"
+            }
         ]
     }
 }

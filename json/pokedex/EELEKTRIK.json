@@ -163,6 +163,18 @@
             "MOVE_CONFIDE",
             "MOVE_CRUNCH",
             "MOVE_RISINGVOLTAGE"
+        ],
+        "locations": [
+            {
+                "route": "Thundercap Mt.",
+                "area": "3F",
+                "method": "land"
+            },
+            {
+                "route": "Thundercap Mt.",
+                "area": "",
+                "method": "surf"
+            }
         ]
     }
 }

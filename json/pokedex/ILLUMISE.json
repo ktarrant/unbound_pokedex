@@ -173,6 +173,13 @@
             "MOVE_PLAYROUGH",
             "MOVE_POLLENPUFF",
             "MOVE_DUALWINGBEAT"
+        ],
+        "locations": [
+            {
+                "route": "Route 17",
+                "area": "Swarm",
+                "method": "land"
+            }
         ]
     }
 }

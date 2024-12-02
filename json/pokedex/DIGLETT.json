@@ -161,6 +161,13 @@
             "MOVE_BODYSLAM",
             "MOVE_REVERSAL",
             "MOVE_SCORCHINGSANDS"
+        ],
+        "locations": [
+            {
+                "route": "Lost Tunnel",
+                "area": "",
+                "method": "land"
+            }
         ]
     },
     "DIGLETT_A": {
@@ -328,6 +335,18 @@
             "MOVE_BODYSLAM",
             "MOVE_REVERSAL",
             "MOVE_SCORCHINGSANDS"
+        ],
+        "locations": [
+            {
+                "route": "Safari Zone",
+                "area": "Medium",
+                "method": "land"
+            },
+            {
+                "route": "Safari Zone",
+                "area": "Hard",
+                "method": "land"
+            }
         ]
     }
 }

@@ -185,6 +185,43 @@
             "MOVE_PSYCHOCUT",
             "MOVE_EXPANDINGFORCE",
             "MOVE_DUALWINGBEAT"
+        ],
+        "locations": [
+            {
+                "route": "Ruins of Void",
+                "area": "B3F - B1F",
+                "method": "land"
+            },
+            {
+                "route": "Ruins of Void",
+                "area": "B1F - B2F",
+                "method": "land"
+            },
+            {
+                "route": "Tomb of Borrius",
+                "area": "1F",
+                "method": "land"
+            },
+            {
+                "route": "Tomb of Borrius",
+                "area": "B4F",
+                "method": "land"
+            },
+            {
+                "route": "Tomb of Borrius",
+                "area": "B3F",
+                "method": "land"
+            },
+            {
+                "route": "Tomb of Borrius",
+                "area": "B2F",
+                "method": "land"
+            },
+            {
+                "route": "Tomb of Borrius",
+                "area": "B1F",
+                "method": "land"
+            }
         ]
     }
 }

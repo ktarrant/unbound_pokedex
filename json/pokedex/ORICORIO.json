@@ -84,6 +84,33 @@
             "MOVE_AIRSLASH",
             "MOVE_HURRICANE",
             "MOVE_DUALWINGBEAT"
+        ],
+        "locations": [
+            {
+                "route": "Flower Paradise",
+                "area": "Yellow Flowers",
+                "method": "land"
+            },
+            {
+                "route": "Flower Paradise",
+                "area": "Pink Flowers",
+                "method": "land"
+            },
+            {
+                "route": "Flower Paradise",
+                "area": "Red Flowers",
+                "method": "land"
+            },
+            {
+                "route": "Flower Paradise",
+                "area": "Blue-Yellow Flowers",
+                "method": "land"
+            },
+            {
+                "route": "Flower Paradise",
+                "area": "Pink-Purple Flowers",
+                "method": "land"
+            }
         ]
     },
     "ORICORIO_Y": {

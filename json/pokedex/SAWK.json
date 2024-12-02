@@ -157,6 +157,13 @@
             "MOVE_REVERSAL",
             "MOVE_CLOSECOMBAT",
             "MOVE_COACHING"
+        ],
+        "locations": [
+            {
+                "route": "Route 16",
+                "area": "",
+                "method": "land"
+            }
         ]
     }
 }

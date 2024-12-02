@@ -175,6 +175,18 @@
             "MOVE_BURNINGJEALOUSY",
             "MOVE_LASHOUT",
             "MOVE_SCORCHINGSANDS"
+        ],
+        "locations": [
+            {
+                "route": "Victory Road",
+                "area": "2F",
+                "method": "land"
+            },
+            {
+                "route": "Victory Road",
+                "area": "3F",
+                "method": "land"
+            }
         ]
     }
 }

@@ -151,6 +151,13 @@
             "MOVE_AIRSLASH",
             "MOVE_BRAVEBIRD",
             "MOVE_DUALWINGBEAT"
+        ],
+        "locations": [
+            {
+                "route": "Route 4",
+                "area": "",
+                "method": "land"
+            }
         ]
     }
 }

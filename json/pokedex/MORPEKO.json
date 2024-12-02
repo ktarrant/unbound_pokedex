@@ -107,6 +107,13 @@
             "MOVE_PSYCHICFANGS",
             "MOVE_RISINGVOLTAGE",
             "MOVE_LASHOUT"
+        ],
+        "locations": [
+            {
+                "route": "Route 6",
+                "area": "Special Encounter",
+                "method": "land"
+            }
         ]
     },
     "MORPEKO_HANGRY": {

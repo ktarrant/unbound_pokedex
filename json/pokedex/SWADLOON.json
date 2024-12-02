@@ -144,6 +144,13 @@
             "MOVE_BUGBUZZ",
             "MOVE_GRASSYGLIDE",
             "MOVE_SKITTERSMACK"
+        ],
+        "locations": [
+            {
+                "route": "Vivill Woods",
+                "area": "",
+                "method": "land"
+            }
         ]
     }
 }

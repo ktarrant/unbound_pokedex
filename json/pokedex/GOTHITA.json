@@ -189,6 +189,13 @@
             "MOVE_NASTYPLOT",
             "MOVE_STOREDPOWER",
             "MOVE_EXPANDINGFORCE"
+        ],
+        "locations": [
+            {
+                "route": "Route 12",
+                "area": "",
+                "method": "land"
+            }
         ]
     }
 }

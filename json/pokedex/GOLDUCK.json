@@ -192,6 +192,73 @@
             "MOVE_POWERGEM",
             "MOVE_HYDROPUMP",
             "MOVE_FLIPTURN"
+        ],
+        "locations": [
+            {
+                "route": "Route 14",
+                "area": "",
+                "method": "land"
+            },
+            {
+                "route": "Grim Woods",
+                "area": "",
+                "method": "surf"
+            },
+            {
+                "route": "Grim Woods",
+                "area": "",
+                "method": "Super Rod"
+            },
+            {
+                "route": "Valley Cave",
+                "area": "",
+                "method": "surf"
+            },
+            {
+                "route": "Valley Cave",
+                "area": "",
+                "method": "Super Rod"
+            },
+            {
+                "route": "Ruins of Void",
+                "area": "",
+                "method": "surf"
+            },
+            {
+                "route": "Vivill Woods",
+                "area": "",
+                "method": "surf"
+            },
+            {
+                "route": "Vivill Woods",
+                "area": "",
+                "method": "Super Rod"
+            },
+            {
+                "route": "Crystal Peak",
+                "area": "",
+                "method": "surf"
+            },
+            {
+                "route": "Crystal Peak",
+                "area": "",
+                "method": "Super Rod"
+            },
+            {
+                "route": "Redwood Forest",
+                "area": "",
+                "method": "surf"
+            },
+            {
+                "route": "Redwood Forest",
+                "area": "",
+                "method": "Super Rod"
+            },
+            {
+                "route": "Victory Road",
+                "area": "1F - B1F - 2F",
+                "method": "Super Rod"
+            }
         ]
     }
 }

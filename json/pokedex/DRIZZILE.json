@@ -131,6 +131,13 @@
             "MOVE_WHIRLPOOL",
             "MOVE_WEATHERBALL",
             "MOVE_MUDDYWATER"
+        ],
+        "locations": [
+            {
+                "route": "Redwood Forest",
+                "area": "Special Encounter",
+                "method": "surf"
+            }
         ]
     }
 }

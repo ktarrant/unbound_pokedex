@@ -177,6 +177,13 @@
             "MOVE_FIRESPIN",
             "MOVE_FIREFANG",
             "MOVE_FLAREBLITZ"
+        ],
+        "locations": [
+            {
+                "route": "Great Desert",
+                "area": "",
+                "method": "land"
+            }
         ]
     },
     "DARUMAKA_G": {

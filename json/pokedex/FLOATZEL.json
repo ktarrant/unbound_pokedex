@@ -166,6 +166,18 @@
             "MOVE_CRUNCH",
             "MOVE_HYDROPUMP",
             "MOVE_FLIPTURN"
+        ],
+        "locations": [
+            {
+                "route": "Route 14",
+                "area": "",
+                "method": "land"
+            },
+            {
+                "route": "Victory Road",
+                "area": "Maze Area",
+                "method": "surf"
+            }
         ]
     }
 }

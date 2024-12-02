@@ -65,6 +65,13 @@
             "MOVE_UPROAR",
             "MOVE_BUGBITE",
             "MOVE_ENDEAVOR"
+        ],
+        "locations": [
+            {
+                "route": "Route 6",
+                "area": "",
+                "method": "land"
+            }
         ]
     }
 }

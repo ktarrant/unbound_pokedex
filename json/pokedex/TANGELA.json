@@ -184,6 +184,13 @@
             "MOVE_LEAFSTORM",
             "MOVE_POWERWHIP",
             "MOVE_GRASSYGLIDE"
+        ],
+        "locations": [
+            {
+                "route": "Route 16",
+                "area": "",
+                "method": "land"
+            }
         ]
     }
 }

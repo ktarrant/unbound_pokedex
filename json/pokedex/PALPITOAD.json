@@ -156,6 +156,28 @@
             "MOVE_MUDDYWATER",
             "MOVE_HYDROPUMP",
             "MOVE_POWERWHIP"
+        ],
+        "locations": [
+            {
+                "route": "Route 10",
+                "area": "",
+                "method": "land"
+            },
+            {
+                "route": "Route 10",
+                "area": "",
+                "method": "surf"
+            },
+            {
+                "route": "Auburn Waterway",
+                "area": "",
+                "method": "land"
+            },
+            {
+                "route": "Auburn Waterway",
+                "area": "",
+                "method": "surf"
+            }
         ]
     }
 }

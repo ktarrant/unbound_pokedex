@@ -154,6 +154,13 @@
             "MOVE_SCREECH",
             "MOVE_AGILITY",
             "MOVE_RISINGVOLTAGE"
+        ],
+        "locations": [
+            {
+                "route": "Safari Zone",
+                "area": "Easy",
+                "method": "land"
+            }
         ]
     }
 }

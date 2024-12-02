@@ -161,6 +161,13 @@
             "MOVE_BODYSLAM",
             "MOVE_REVERSAL",
             "MOVE_BUGBUZZ"
+        ],
+        "locations": [
+            {
+                "route": "Redwood Forest",
+                "area": "Headbutt Trees",
+                "method": "land"
+            }
         ]
     }
 }

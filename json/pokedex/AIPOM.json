@@ -189,6 +189,13 @@
             "MOVE_NASTYPLOT",
             "MOVE_TAILSLAP",
             "MOVE_BODYSLAM"
+        ],
+        "locations": [
+            {
+                "route": "Redwood Forest",
+                "area": "Headbutt Trees",
+                "method": "land"
+            }
         ]
     }
 }

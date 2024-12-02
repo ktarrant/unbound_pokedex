@@ -171,6 +171,13 @@
             "MOVE_BODYSLAM",
             "MOVE_MUDDYWATER",
             "MOVE_HYDROPUMP"
+        ],
+        "locations": [
+            {
+                "route": "Cliff Cave",
+                "area": "",
+                "method": "land"
+            }
         ]
     }
 }

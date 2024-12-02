@@ -163,6 +163,18 @@
             "MOVE_THUNDERFANG",
             "MOVE_CRUNCH",
             "MOVE_SKITTERSMACK"
+        ],
+        "locations": [
+            {
+                "route": "Victory Road",
+                "area": "1F",
+                "method": "land"
+            },
+            {
+                "route": "Victory Road",
+                "area": "3F",
+                "method": "land"
+            }
         ]
     }
 }

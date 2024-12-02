@@ -192,6 +192,33 @@
             "MOVE_HIGHHORSEPOWER",
             "MOVE_METEORBEAM",
             "MOVE_SCORCHINGSANDS"
+        ],
+        "locations": [
+            {
+                "route": "Frost Mountain",
+                "area": "",
+                "method": "land"
+            },
+            {
+                "route": "Cliff Cave",
+                "area": "",
+                "method": "land"
+            },
+            {
+                "route": "Crystal Peak",
+                "area": "B1F + 1F - 5F",
+                "method": "land"
+            },
+            {
+                "route": "Crystal Peak",
+                "area": "1F",
+                "method": "land"
+            },
+            {
+                "route": "Crystal Peak",
+                "area": "",
+                "method": "Rock Smash"
+            }
         ]
     }
 }

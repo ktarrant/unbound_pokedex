@@ -172,6 +172,18 @@
             "MOVE_ENCORE",
             "MOVE_BODYSLAM",
             "MOVE_PSYCHOCUT"
+        ],
+        "locations": [
+            {
+                "route": "Safari Zone",
+                "area": "Medium",
+                "method": "land"
+            },
+            {
+                "route": "Safari Zone",
+                "area": "Hard",
+                "method": "land"
+            }
         ]
     }
 }

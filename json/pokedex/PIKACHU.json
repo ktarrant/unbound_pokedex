@@ -98,6 +98,13 @@
             "MOVE_ELECTROBALL",
             "MOVE_PLAYROUGH",
             "MOVE_RISINGVOLTAGE"
+        ],
+        "locations": [
+            {
+                "route": "Vivill Woods",
+                "area": "Swarm",
+                "method": "land"
+            }
         ]
     },
     "PIKACHU_SURFING": {

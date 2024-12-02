@@ -190,6 +190,13 @@
             "MOVE_LEAFSTORM",
             "MOVE_POWERWHIP",
             "MOVE_GRASSYGLIDE"
+        ],
+        "locations": [
+            {
+                "route": "Victory Road",
+                "area": "Maze Area",
+                "method": "land"
+            }
         ]
     }
 }

@@ -173,6 +173,13 @@
             "MOVE_REVERSAL",
             "MOVE_CLOSECOMBAT",
             "MOVE_COACHING"
+        ],
+        "locations": [
+            {
+                "route": "Redwood Forest",
+                "area": "",
+                "method": "land"
+            }
         ]
     }
 }

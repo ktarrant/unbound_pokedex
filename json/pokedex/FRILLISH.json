@@ -104,6 +104,13 @@
             "MOVE_WHIRLPOOL",
             "MOVE_HEX",
             "MOVE_HYDROPUMP"
+        ],
+        "locations": [
+            {
+                "route": "Magnolia Fields",
+                "area": "",
+                "method": "surf"
+            }
         ]
     },
     "FRILLISH_F": {

@@ -164,6 +164,13 @@
             "MOVE_LASTRESORT",
             "MOVE_CONFIDE",
             "MOVE_CRUNCH"
+        ],
+        "locations": [
+            {
+                "route": "Route 3",
+                "area": "",
+                "method": "land"
+            }
         ]
     }
 }

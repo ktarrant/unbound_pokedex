@@ -134,6 +134,13 @@
             "MOVE_CRUNCH",
             "MOVE_RISINGVOLTAGE",
             "MOVE_SKITTERSMACK"
+        ],
+        "locations": [
+            {
+                "route": "Route 9 + Autl Woods",
+                "area": "",
+                "method": "land"
+            }
         ]
     }
 }

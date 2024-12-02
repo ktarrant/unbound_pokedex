@@ -156,6 +156,13 @@
             "MOVE_CRUNCH",
             "MOVE_HYDROPUMP",
             "MOVE_SKITTERSMACK"
+        ],
+        "locations": [
+            {
+                "route": "Route 3",
+                "area": "",
+                "method": "surf"
+            }
         ]
     }
 }

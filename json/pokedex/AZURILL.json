@@ -141,6 +141,13 @@
             "MOVE_WHIRLPOOL",
             "MOVE_BODYSLAM",
             "MOVE_MUDDYWATER"
+        ],
+        "locations": [
+            {
+                "route": "Route 2",
+                "area": "",
+                "method": "land"
+            }
         ]
     }
 }

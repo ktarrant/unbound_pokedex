@@ -258,6 +258,13 @@
             "MOVE_CONFIDE",
             "MOVE_BODYSLAM",
             "MOVE_STOREDPOWER"
+        ],
+        "locations": [
+            {
+                "route": "Victory Road",
+                "area": "Maze Area",
+                "method": "land"
+            }
         ]
     }
 }

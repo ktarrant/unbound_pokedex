@@ -195,6 +195,18 @@
             "MOVE_BLAZEKICK",
             "MOVE_FLAREBLITZ",
             "MOVE_COACHING"
+        ],
+        "locations": [
+            {
+                "route": "Safari Zone",
+                "area": "Hard",
+                "method": "land"
+            },
+            {
+                "route": "Safari Zone",
+                "area": "Insane",
+                "method": "land"
+            }
         ]
     }
 }

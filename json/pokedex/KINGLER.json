@@ -101,6 +101,38 @@
             "MOVE_RAZORSHELL",
             "MOVE_HIGHHORSEPOWER",
             "MOVE_HYDROPUMP"
+        ],
+        "locations": [
+            {
+                "route": "Route 3",
+                "area": "",
+                "method": "Super Rod"
+            },
+            {
+                "route": "Route 14",
+                "area": "",
+                "method": "Rock Smash"
+            },
+            {
+                "route": "Route 16",
+                "area": "",
+                "method": "Rock Smash"
+            },
+            {
+                "route": "Route 17",
+                "area": "",
+                "method": "Rock Smash"
+            },
+            {
+                "route": "Route 18",
+                "area": "",
+                "method": "Rock Smash"
+            },
+            {
+                "route": "Thundercap Mt.",
+                "area": "Outside",
+                "method": "Rock Smash"
+            }
         ]
     },
     "KINGLER_GIGA": {

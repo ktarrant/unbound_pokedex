@@ -173,6 +173,38 @@
             "MOVE_HYDROPUMP",
             "MOVE_FLIPTURN",
             "MOVE_TRIPLEAXEL"
+        ],
+        "locations": [
+            {
+                "route": "Icicle Cave",
+                "area": "",
+                "method": "surf"
+            },
+            {
+                "route": "Icicle Cave",
+                "area": "",
+                "method": "Super Rod"
+            },
+            {
+                "route": "Frost Mountain",
+                "area": "",
+                "method": "surf"
+            },
+            {
+                "route": "Frost Mountain",
+                "area": "",
+                "method": "Super Rod"
+            },
+            {
+                "route": "Victory Road",
+                "area": "Kyurem's Cave",
+                "method": "surf"
+            },
+            {
+                "route": "Victory Road",
+                "area": "Kyurem's Cave",
+                "method": "Super Rod"
+            }
         ]
     }
 }

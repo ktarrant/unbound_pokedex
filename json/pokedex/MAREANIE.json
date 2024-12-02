@@ -155,6 +155,18 @@
             "MOVE_PINMISSILE",
             "MOVE_MUDDYWATER",
             "MOVE_HYDROPUMP"
+        ],
+        "locations": [
+            {
+                "route": "Route 14",
+                "area": "",
+                "method": "Super Rod"
+            },
+            {
+                "route": "Ruins of Void",
+                "area": "",
+                "method": "Super Rod"
+            }
         ]
     }
 }

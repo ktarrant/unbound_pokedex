@@ -133,6 +133,13 @@
             "MOVE_PSYCHICFANGS",
             "MOVE_CLOSECOMBAT",
             "MOVE_SCALESHOT"
+        ],
+        "locations": [
+            {
+                "route": "Route 9 + Autl Woods",
+                "area": "Special Encounter",
+                "method": "surf"
+            }
         ]
     }
 }

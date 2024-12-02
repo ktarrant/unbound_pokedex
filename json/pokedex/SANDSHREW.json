@@ -381,6 +381,13 @@
             "MOVE_BODYSLAM",
             "MOVE_POLTERGEIST",
             "MOVE_TRIPLEAXEL"
+        ],
+        "locations": [
+            {
+                "route": "Icicle Cave",
+                "area": "4F (Outside)",
+                "method": "land"
+            }
         ]
     }
 }

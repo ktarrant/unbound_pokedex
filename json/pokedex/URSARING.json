@@ -198,6 +198,13 @@
             "MOVE_HIGHHORSEPOWER",
             "MOVE_PLAYROUGH",
             "MOVE_CLOSECOMBAT"
+        ],
+        "locations": [
+            {
+                "route": "Redwood Forest",
+                "area": "",
+                "method": "land"
+            }
         ]
     }
 }

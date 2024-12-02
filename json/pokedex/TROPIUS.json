@@ -177,6 +177,13 @@
             "MOVE_HURRICANE",
             "MOVE_LEAFSTORM",
             "MOVE_DUALWINGBEAT"
+        ],
+        "locations": [
+            {
+                "route": "Route 17",
+                "area": "",
+                "method": "land"
+            }
         ]
     }
 }

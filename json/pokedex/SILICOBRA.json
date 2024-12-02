@@ -133,6 +133,13 @@
             "MOVE_SCALESHOT",
             "MOVE_SKITTERSMACK",
             "MOVE_SCORCHINGSANDS"
+        ],
+        "locations": [
+            {
+                "route": "Great Desert",
+                "area": "Special Encounter",
+                "method": "land"
+            }
         ]
     }
 }

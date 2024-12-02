@@ -209,6 +209,13 @@
             "MOVE_AGILITY",
             "MOVE_PLAYROUGH",
             "MOVE_TRIPLEAXEL"
+        ],
+        "locations": [
+            {
+                "route": "Route 7",
+                "area": "",
+                "method": "land"
+            }
         ]
     }
 }

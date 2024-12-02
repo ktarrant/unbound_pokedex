@@ -58,6 +58,13 @@
         ],
         "tutor": [
             "MOVE_CONFIDE"
+        ],
+        "locations": [
+            {
+                "route": "Grim Woods",
+                "area": "Special Encounter",
+                "method": "land"
+            }
         ]
     }
 }

@@ -72,6 +72,13 @@
                 "level": 91,
                 "move": "MOVE_SKETCH"
             }
+        ],
+        "locations": [
+            {
+                "route": "Route 6",
+                "area": "Swarm",
+                "method": "land"
+            }
         ]
     }
 }

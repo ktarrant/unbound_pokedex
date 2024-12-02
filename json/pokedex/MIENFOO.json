@@ -188,6 +188,13 @@
             "MOVE_AURASPHERE",
             "MOVE_CLOSECOMBAT",
             "MOVE_COACHING"
+        ],
+        "locations": [
+            {
+                "route": "Route 12",
+                "area": "",
+                "method": "land"
+            }
         ]
     }
 }

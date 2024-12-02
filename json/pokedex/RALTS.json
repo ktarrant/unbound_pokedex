@@ -199,6 +199,13 @@
             "MOVE_BODYSLAM",
             "MOVE_STOREDPOWER",
             "MOVE_EXPANDINGFORCE"
+        ],
+        "locations": [
+            {
+                "route": "Route 4",
+                "area": "",
+                "method": "land"
+            }
         ]
     }
 }

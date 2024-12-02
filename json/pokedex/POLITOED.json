@@ -183,6 +183,13 @@
             "MOVE_WEATHERBALL",
             "MOVE_MUDDYWATER",
             "MOVE_HYDROPUMP"
+        ],
+        "locations": [
+            {
+                "route": "Cootes Bog",
+                "area": "",
+                "method": "Super Rod"
+            }
         ]
     }
 }

@@ -142,6 +142,13 @@
             "MOVE_LASTRESORT",
             "MOVE_CONFIDE",
             "MOVE_PLAYROUGH"
+        ],
+        "locations": [
+            {
+                "route": "Redwood Forest",
+                "area": "",
+                "method": "land"
+            }
         ]
     }
 }

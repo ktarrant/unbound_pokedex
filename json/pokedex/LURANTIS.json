@@ -166,6 +166,13 @@
             "MOVE_LEAFSTORM",
             "MOVE_SOLARBLADE",
             "MOVE_GRASSYGLIDE"
+        ],
+        "locations": [
+            {
+                "route": "Victory Road",
+                "area": "Maze Area",
+                "method": "land"
+            }
         ]
     }
 }

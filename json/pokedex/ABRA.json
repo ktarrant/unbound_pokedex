@@ -128,6 +128,13 @@
             "MOVE_ENCORE",
             "MOVE_PSYCHICTERRAIN",
             "MOVE_BODYSLAM"
+        ],
+        "locations": [
+            {
+                "route": "Route 7",
+                "area": "",
+                "method": "land"
+            }
         ]
     }
 }

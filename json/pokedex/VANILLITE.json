@@ -160,6 +160,13 @@
             "MOVE_HYPERVOICE",
             "MOVE_CONFIDE",
             "MOVE_ICICLESPEAR"
+        ],
+        "locations": [
+            {
+                "route": "Route 1",
+                "area": "",
+                "method": "land"
+            }
         ]
     }
 }

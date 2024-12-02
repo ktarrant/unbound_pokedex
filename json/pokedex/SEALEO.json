@@ -165,6 +165,38 @@
             "MOVE_ICICLESPEAR",
             "MOVE_BODYSLAM",
             "MOVE_POLTERGEIST"
+        ],
+        "locations": [
+            {
+                "route": "Ice Hole",
+                "area": "",
+                "method": "land"
+            },
+            {
+                "route": "Icicle Cave",
+                "area": "1F + B1F",
+                "method": "land"
+            },
+            {
+                "route": "Icicle Cave",
+                "area": "",
+                "method": "surf"
+            },
+            {
+                "route": "Frost Mountain",
+                "area": "",
+                "method": "surf"
+            },
+            {
+                "route": "Victory Road",
+                "area": "4F + Kyurem's Cave",
+                "method": "land"
+            },
+            {
+                "route": "Victory Road",
+                "area": "Kyurem's Cave",
+                "method": "surf"
+            }
         ]
     }
 }

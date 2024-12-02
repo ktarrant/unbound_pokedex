@@ -153,6 +153,13 @@
             "MOVE_LEAFSTORM",
             "MOVE_GRASSYGLIDE",
             "MOVE_TRIPLEAXEL"
+        ],
+        "locations": [
+            {
+                "route": "Safari Zone",
+                "area": "Medium",
+                "method": "land"
+            }
         ]
     }
 }

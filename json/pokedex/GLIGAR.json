@@ -198,6 +198,13 @@
             "MOVE_CROSSPOISON",
             "MOVE_POWERWHIP",
             "MOVE_DUALWINGBEAT"
+        ],
+        "locations": [
+            {
+                "route": "Valley Cave",
+                "area": "B1F",
+                "method": "land"
+            }
         ]
     }
 }

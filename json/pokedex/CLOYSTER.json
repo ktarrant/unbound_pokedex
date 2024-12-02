@@ -177,6 +177,28 @@
             "MOVE_WEATHERBALL",
             "MOVE_HYDROPUMP",
             "MOVE_POLTERGEIST"
+        ],
+        "locations": [
+            {
+                "route": "Route 3",
+                "area": "",
+                "method": "Super Rod"
+            },
+            {
+                "route": "Route 14",
+                "area": "",
+                "method": "Super Rod"
+            },
+            {
+                "route": "Icicle Cave",
+                "area": "",
+                "method": "Super Rod"
+            },
+            {
+                "route": "Frost Mountain",
+                "area": "",
+                "method": "Super Rod"
+            }
         ]
     }
 }

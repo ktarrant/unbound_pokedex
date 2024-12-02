@@ -172,6 +172,18 @@
             "MOVE_FIRESPIN",
             "MOVE_BODYSLAM",
             "MOVE_REVERSAL"
+        ],
+        "locations": [
+            {
+                "route": "Safari Zone",
+                "area": "Easy",
+                "method": "land"
+            },
+            {
+                "route": "Safari Zone",
+                "area": "Medium",
+                "method": "land"
+            }
         ]
     }
 }

@@ -209,6 +209,13 @@
             "MOVE_TERRAINPULSE",
             "MOVE_SKITTERSMACK",
             "MOVE_DUALWINGBEAT"
+        ],
+        "locations": [
+            {
+                "route": "Valley Cave",
+                "area": "Swarm",
+                "method": "land"
+            }
         ]
     }
 }

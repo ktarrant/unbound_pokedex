@@ -143,6 +143,13 @@
             "MOVE_FIREPLEDGE",
             "MOVE_REVERSAL",
             "MOVE_FLAREBLITZ"
+        ],
+        "locations": [
+            {
+                "route": "Magnolia Fields",
+                "area": "Swarm",
+                "method": "land"
+            }
         ]
     }
 }

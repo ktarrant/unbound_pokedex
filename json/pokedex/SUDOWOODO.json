@@ -192,6 +192,13 @@
             "MOVE_BODYSLAM",
             "MOVE_BODYPRESS",
             "MOVE_METEORBEAM"
+        ],
+        "locations": [
+            {
+                "route": "Route 18",
+                "area": "",
+                "method": "land"
+            }
         ]
     }
 }

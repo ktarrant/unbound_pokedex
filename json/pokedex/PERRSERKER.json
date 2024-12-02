@@ -182,6 +182,13 @@
             "MOVE_PLAYROUGH",
             "MOVE_CLOSECOMBAT",
             "MOVE_LASHOUT"
+        ],
+        "locations": [
+            {
+                "route": "Valley Cave",
+                "area": "Special Encounter",
+                "method": "land"
+            }
         ]
     }
 }

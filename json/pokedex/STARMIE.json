@@ -186,6 +186,23 @@
             "MOVE_EXPANDINGFORCE",
             "MOVE_METEORBEAM",
             "MOVE_FLIPTURN"
+        ],
+        "locations": [
+            {
+                "route": "Route 2",
+                "area": "",
+                "method": "Super Rod"
+            },
+            {
+                "route": "Route 4",
+                "area": "",
+                "method": "Super Rod"
+            },
+            {
+                "route": "Route 5",
+                "area": "",
+                "method": "Super Rod"
+            }
         ]
     }
 }

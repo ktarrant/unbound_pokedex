@@ -152,6 +152,13 @@
             "MOVE_FLAREBLITZ",
             "MOVE_METEORBEAM",
             "MOVE_SCORCHINGSANDS"
+        ],
+        "locations": [
+            {
+                "route": "Cinder Volcano",
+                "area": "Special Encounter",
+                "method": "land"
+            }
         ]
     }
 }

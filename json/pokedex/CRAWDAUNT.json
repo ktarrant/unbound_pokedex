@@ -177,6 +177,18 @@
             "MOVE_CLOSECOMBAT",
             "MOVE_HYDROPUMP",
             "MOVE_LASHOUT"
+        ],
+        "locations": [
+            {
+                "route": "Route 4",
+                "area": "",
+                "method": "Super Rod"
+            },
+            {
+                "route": "Route 5",
+                "area": "",
+                "method": "Super Rod"
+            }
         ]
     }
 }

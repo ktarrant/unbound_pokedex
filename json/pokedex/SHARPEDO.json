@@ -108,6 +108,23 @@
             "MOVE_HYDROPUMP",
             "MOVE_SCALESHOT",
             "MOVE_FLIPTURN"
+        ],
+        "locations": [
+            {
+                "route": "Route 12",
+                "area": "",
+                "method": "Super Rod"
+            },
+            {
+                "route": "Route 14",
+                "area": "",
+                "method": "Super Rod"
+            },
+            {
+                "route": "Route 17",
+                "area": "",
+                "method": "Super Rod"
+            }
         ]
     },
     "SHARPEDO_MEGA": {

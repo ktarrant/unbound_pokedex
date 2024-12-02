@@ -181,6 +181,13 @@
             "MOVE_BODYSLAM",
             "MOVE_SCALESHOT",
             "MOVE_SKITTERSMACK"
+        ],
+        "locations": [
+            {
+                "route": "Route 4",
+                "area": "",
+                "method": "land"
+            }
         ]
     }
 }

@@ -189,6 +189,13 @@
             "MOVE_SKITTERSMACK",
             "MOVE_LASHOUT",
             "MOVE_SCORCHINGSANDS"
+        ],
+        "locations": [
+            {
+                "route": "Great Desert",
+                "area": "",
+                "method": "land"
+            }
         ]
     }
 }

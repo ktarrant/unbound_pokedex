@@ -190,6 +190,13 @@
             "MOVE_CLOSECOMBAT",
             "MOVE_SOLARBLADE",
             "MOVE_DUALWINGBEAT"
+        ],
+        "locations": [
+            {
+                "route": "Route 18",
+                "area": "",
+                "method": "land"
+            }
         ]
     },
     "FARFETCHD_G": {

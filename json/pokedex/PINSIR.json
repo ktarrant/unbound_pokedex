@@ -111,6 +111,13 @@
             "MOVE_REVERSAL",
             "MOVE_HIGHHORSEPOWER",
             "MOVE_CLOSECOMBAT"
+        ],
+        "locations": [
+            {
+                "route": "Redwood Forest",
+                "area": "Headbutt Trees",
+                "method": "land"
+            }
         ]
     },
     "PINSIR_MEGA": {

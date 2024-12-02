@@ -103,6 +103,13 @@
             "MOVE_VENOMDRENCH",
             "MOVE_TOXICSPIKES",
             "MOVE_CORROSIVEGAS"
+        ],
+        "locations": [
+            {
+                "route": "Antisis Sewers",
+                "area": "",
+                "method": "land"
+            }
         ]
     },
     "KOFFING_G": {

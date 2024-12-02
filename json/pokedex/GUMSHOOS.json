@@ -158,6 +158,13 @@
             "MOVE_ICEFANG",
             "MOVE_FIREFANG",
             "MOVE_CRUNCH"
+        ],
+        "locations": [
+            {
+                "route": "Route 7",
+                "area": "",
+                "method": "land"
+            }
         ]
     }
 }

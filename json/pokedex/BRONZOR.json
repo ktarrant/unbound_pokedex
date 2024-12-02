@@ -168,6 +168,18 @@
             "MOVE_HEX",
             "MOVE_EXPANDINGFORCE",
             "MOVE_POLTERGEIST"
+        ],
+        "locations": [
+            {
+                "route": "Frost Mountain",
+                "area": "",
+                "method": "land"
+            },
+            {
+                "route": "Rift Cave",
+                "area": "1F",
+                "method": "land"
+            }
         ]
     }
 }

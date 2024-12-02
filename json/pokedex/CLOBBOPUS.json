@@ -142,6 +142,13 @@
             "MOVE_MUDDYWATER",
             "MOVE_CLOSECOMBAT",
             "MOVE_COACHING"
+        ],
+        "locations": [
+            {
+                "route": "Route 2",
+                "area": "Special Encounter",
+                "method": "land"
+            }
         ]
     }
 }

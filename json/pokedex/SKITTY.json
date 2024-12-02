@@ -192,6 +192,13 @@
             "MOVE_TAILSLAP",
             "MOVE_BODYSLAM",
             "MOVE_PLAYROUGH"
+        ],
+        "locations": [
+            {
+                "route": "Safari Zone",
+                "area": "Easy",
+                "method": "land"
+            }
         ]
     }
 }

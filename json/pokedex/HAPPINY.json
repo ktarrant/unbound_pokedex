@@ -145,6 +145,13 @@
             "MOVE_LASTRESORT",
             "MOVE_CONFIDE",
             "MOVE_STOREDPOWER"
+        ],
+        "locations": [
+            {
+                "route": "Route 18",
+                "area": "",
+                "method": "land"
+            }
         ]
     }
 }

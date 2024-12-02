@@ -153,6 +153,28 @@
             "MOVE_PSYCHICFANGS",
             "MOVE_EXPANDINGFORCE",
             "MOVE_SCALESHOT"
+        ],
+        "locations": [
+            {
+                "route": "Route 9 + Autl Woods",
+                "area": "",
+                "method": "Super Rod"
+            },
+            {
+                "route": "Route 10",
+                "area": "",
+                "method": "Super Rod"
+            },
+            {
+                "route": "Auburn Waterway",
+                "area": "",
+                "method": "Super Rod"
+            },
+            {
+                "route": "Victory Road",
+                "area": "Maze Area",
+                "method": "Super Rod"
+            }
         ]
     }
 }

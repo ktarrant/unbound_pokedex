@@ -104,6 +104,13 @@
             "MOVE_PLAYROUGH",
             "MOVE_POWERWHIP",
             "MOVE_POLTERGEIST"
+        ],
+        "locations": [
+            {
+                "route": "Route 16",
+                "area": "Special Encounter",
+                "method": "land"
+            }
         ]
     },
     "COPPERAJAH_GIGA": {

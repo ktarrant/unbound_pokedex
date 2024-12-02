@@ -167,6 +167,23 @@
             "MOVE_ELECTROBALL",
             "MOVE_SCALESHOT",
             "MOVE_RISINGVOLTAGE"
+        ],
+        "locations": [
+            {
+                "route": "Safari Zone",
+                "area": "Easy",
+                "method": "land"
+            },
+            {
+                "route": "Safari Zone",
+                "area": "Medium",
+                "method": "land"
+            },
+            {
+                "route": "Safari Zone",
+                "area": "Hard",
+                "method": "land"
+            }
         ]
     }
 }

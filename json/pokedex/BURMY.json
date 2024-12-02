@@ -40,6 +40,13 @@
         "tutor": [
             "MOVE_ELECTROWEB",
             "MOVE_BUGBITE"
+        ],
+        "locations": [
+            {
+                "route": "Route 4",
+                "area": "Swarm",
+                "method": "land"
+            }
         ]
     },
     "BURMY_SANDY": {

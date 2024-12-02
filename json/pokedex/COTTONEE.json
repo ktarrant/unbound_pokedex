@@ -169,6 +169,13 @@
             "MOVE_GRASSYTERRAIN",
             "MOVE_MISTYTERRAIN",
             "MOVE_GRASSYGLIDE"
+        ],
+        "locations": [
+            {
+                "route": "Vivill Woods",
+                "area": "",
+                "method": "land"
+            }
         ]
     }
 }

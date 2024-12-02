@@ -166,6 +166,18 @@
             "MOVE_BUGBUZZ",
             "MOVE_CLOSECOMBAT",
             "MOVE_DUALWINGBEAT"
+        ],
+        "locations": [
+            {
+                "route": "Route 6",
+                "area": "",
+                "method": "land"
+            },
+            {
+                "route": "Redwood Forest",
+                "area": "",
+                "method": "land"
+            }
         ]
     }
 }

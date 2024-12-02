@@ -152,6 +152,13 @@
             "MOVE_POWERGEM",
             "MOVE_POLTERGEIST",
             "MOVE_RISINGVOLTAGE"
+        ],
+        "locations": [
+            {
+                "route": "Thundercap Mt.",
+                "area": "2F (Small Floor)",
+                "method": "land"
+            }
         ]
     }
 }

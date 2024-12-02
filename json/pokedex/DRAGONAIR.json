@@ -159,6 +159,13 @@
             "MOVE_BREAKINGSWIPE",
             "MOVE_HYDROPUMP",
             "MOVE_SCALESHOT"
+        ],
+        "locations": [
+            {
+                "route": "Crystal Peak",
+                "area": "",
+                "method": "surf"
+            }
         ]
     }
 }

@@ -147,6 +147,13 @@
             "MOVE_HIGHHORSEPOWER",
             "MOVE_CLOSECOMBAT",
             "MOVE_LASHOUT"
+        ],
+        "locations": [
+            {
+                "route": "Magnolia Fields",
+                "area": "",
+                "method": "land"
+            }
         ]
     }
 }

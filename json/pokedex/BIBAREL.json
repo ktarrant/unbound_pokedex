@@ -183,6 +183,13 @@
             "MOVE_TAILSLAP",
             "MOVE_ICEFANG",
             "MOVE_CRUNCH"
+        ],
+        "locations": [
+            {
+                "route": "Route 14",
+                "area": "",
+                "method": "land"
+            }
         ]
     }
 }

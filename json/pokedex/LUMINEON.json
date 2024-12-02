@@ -150,6 +150,33 @@
             "MOVE_FLIPTURN",
             "MOVE_TRIPLEAXEL",
             "MOVE_DUALWINGBEAT"
+        ],
+        "locations": [
+            {
+                "route": "Valley Cave",
+                "area": "",
+                "method": "Super Rod"
+            },
+            {
+                "route": "Crystal Peak",
+                "area": "",
+                "method": "Super Rod"
+            },
+            {
+                "route": "Victory Road",
+                "area": "1F - B1F",
+                "method": "surf"
+            },
+            {
+                "route": "Victory Road",
+                "area": "2F",
+                "method": "surf"
+            },
+            {
+                "route": "Victory Road",
+                "area": "1F - B1F - 2F",
+                "method": "Super Rod"
+            }
         ]
     }
 }

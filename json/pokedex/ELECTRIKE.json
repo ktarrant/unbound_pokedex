@@ -163,6 +163,13 @@
             "MOVE_CRUNCH",
             "MOVE_PSYCHICFANGS",
             "MOVE_RISINGVOLTAGE"
+        ],
+        "locations": [
+            {
+                "route": "Route 2",
+                "area": "",
+                "method": "land"
+            }
         ]
     }
 }

@@ -74,6 +74,13 @@
             "MOVE_ICICLESPEAR",
             "MOVE_BUGBUZZ",
             "MOVE_SKITTERSMACK"
+        ],
+        "locations": [
+            {
+                "route": "Frozen Forest",
+                "area": "Special Encounter",
+                "method": "land"
+            }
         ]
     }
 }

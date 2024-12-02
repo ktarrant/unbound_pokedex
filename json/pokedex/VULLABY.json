@@ -176,6 +176,13 @@
             "MOVE_BRAVEBIRD",
             "MOVE_LASHOUT",
             "MOVE_DUALWINGBEAT"
+        ],
+        "locations": [
+            {
+                "route": "Crystal Peak",
+                "area": "Outside",
+                "method": "land"
+            }
         ]
     }
 }

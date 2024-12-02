@@ -147,6 +147,13 @@
             "MOVE_SCARYFACE",
             "MOVE_BUGBUZZ",
             "MOVE_MEGAHORN"
+        ],
+        "locations": [
+            {
+                "route": "Route 9 + Autl Woods",
+                "area": "Swarm",
+                "method": "land"
+            }
         ]
     }
 }

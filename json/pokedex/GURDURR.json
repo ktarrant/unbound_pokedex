@@ -159,6 +159,13 @@
             "MOVE_HIGHHORSEPOWER",
             "MOVE_CLOSECOMBAT",
             "MOVE_COACHING"
+        ],
+        "locations": [
+            {
+                "route": "Thundercap Mt.",
+                "area": "2F (Small Floor)",
+                "method": "land"
+            }
         ]
     }
 }

@@ -171,6 +171,13 @@
             "MOVE_GRASSYTERRAIN",
             "MOVE_LEAFBLADE",
             "MOVE_GRASSYGLIDE"
+        ],
+        "locations": [
+            {
+                "route": "Magnolia Fields",
+                "area": "",
+                "method": "land"
+            }
         ]
     }
 }

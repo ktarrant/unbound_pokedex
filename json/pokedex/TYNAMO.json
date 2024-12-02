@@ -65,6 +65,28 @@
         "tutor": [
             "MOVE_MAGNETRISE",
             "MOVE_RISINGVOLTAGE"
+        ],
+        "locations": [
+            {
+                "route": "Thundercap Mt.",
+                "area": "1F + 3F",
+                "method": "land"
+            },
+            {
+                "route": "Thundercap Mt.",
+                "area": "2F + 4F",
+                "method": "land"
+            },
+            {
+                "route": "Thundercap Mt.",
+                "area": "2F (Small Floor)",
+                "method": "land"
+            },
+            {
+                "route": "Thundercap Mt.",
+                "area": "",
+                "method": "surf"
+            }
         ]
     }
 }

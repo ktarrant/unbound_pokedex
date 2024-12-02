@@ -184,6 +184,13 @@
             "MOVE_BODYPRESS",
             "MOVE_HEX",
             "MOVE_PHANTOMFORCE"
+        ],
+        "locations": [
+            {
+                "route": "Ruins of Void",
+                "area": "Special Encounter",
+                "method": "land"
+            }
         ]
     }
 }

@@ -172,6 +172,13 @@
             "MOVE_AIRSLASH",
             "MOVE_BUGBUZZ",
             "MOVE_DUALWINGBEAT"
+        ],
+        "locations": [
+            {
+                "route": "Route 6",
+                "area": "",
+                "method": "land"
+            }
         ]
     }
 }

@@ -181,6 +181,13 @@
             "MOVE_HEX",
             "MOVE_PHANTOMFORCE",
             "MOVE_SKITTERSMACK"
+        ],
+        "locations": [
+            {
+                "route": "Grim Woods",
+                "area": "",
+                "method": "land"
+            }
         ]
     }
 }

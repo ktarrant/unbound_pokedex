@@ -130,6 +130,13 @@
             "MOVE_ROCKBLAST",
             "MOVE_HEATCRASH",
             "MOVE_METEORBEAM"
+        ],
+        "locations": [
+            {
+                "route": "Cinder Volcano",
+                "area": "Special Encounter",
+                "method": "land"
+            }
         ]
     }
 }

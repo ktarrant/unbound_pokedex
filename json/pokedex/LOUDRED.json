@@ -164,6 +164,18 @@
             "MOVE_SCREECH",
             "MOVE_FAKETEARS",
             "MOVE_BODYSLAM"
+        ],
+        "locations": [
+            {
+                "route": "Crystal Peak",
+                "area": "B1F + 1F - 5F",
+                "method": "land"
+            },
+            {
+                "route": "Crystal Peak",
+                "area": "1F",
+                "method": "land"
+            }
         ]
     }
 }

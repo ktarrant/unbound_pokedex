@@ -358,6 +358,13 @@
             "MOVE_FLAREBLITZ",
             "MOVE_BURNINGJEALOUSY",
             "MOVE_LASHOUT"
+        ],
+        "locations": [
+            {
+                "route": "Victory Road",
+                "area": "Special Encounter",
+                "method": "land"
+            }
         ]
     },
     "DARMANITAN_G_ZEN": {

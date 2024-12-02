@@ -179,6 +179,28 @@
             "MOVE_AIRSLASH",
             "MOVE_HURRICANE",
             "MOVE_DUALWINGBEAT"
+        ],
+        "locations": [
+            {
+                "route": "Route 2",
+                "area": "",
+                "method": "land"
+            },
+            {
+                "route": "Route 4",
+                "area": "",
+                "method": "land"
+            },
+            {
+                "route": "Route 7",
+                "area": "",
+                "method": "land"
+            },
+            {
+                "route": "Route 12",
+                "area": "",
+                "method": "land"
+            }
         ]
     }
 }

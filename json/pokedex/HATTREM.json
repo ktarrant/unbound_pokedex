@@ -144,6 +144,13 @@
             "MOVE_MYSTICALFIRE",
             "MOVE_PLAYROUGH",
             "MOVE_EXPANDINGFORCE"
+        ],
+        "locations": [
+            {
+                "route": "Vivill Woods",
+                "area": "Special Encounter",
+                "method": "land"
+            }
         ]
     }
 }

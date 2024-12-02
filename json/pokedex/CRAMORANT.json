@@ -93,6 +93,18 @@
             "MOVE_HURRICANE",
             "MOVE_HYDROPUMP",
             "MOVE_DUALWINGBEAT"
+        ],
+        "locations": [
+            {
+                "route": "Route 10",
+                "area": "Special Encounter",
+                "method": "surf"
+            },
+            {
+                "route": "Auburn Waterway",
+                "area": "Special Encounter",
+                "method": "surf"
+            }
         ]
     },
     "CRAMORANT_GULPING": {

@@ -168,6 +168,13 @@
             "MOVE_CRUNCH",
             "MOVE_PLAYROUGH",
             "MOVE_PSYCHICFANGS"
+        ],
+        "locations": [
+            {
+                "route": "Route 4",
+                "area": "",
+                "method": "land"
+            }
         ]
     }
 }

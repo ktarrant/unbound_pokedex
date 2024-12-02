@@ -146,6 +146,13 @@
             "MOVE_NASTYPLOT",
             "MOVE_PLAYROUGH",
             "MOVE_EXPANDINGFORCE"
+        ],
+        "locations": [
+            {
+                "route": "Route 7",
+                "area": "",
+                "method": "land"
+            }
         ]
     }
 }

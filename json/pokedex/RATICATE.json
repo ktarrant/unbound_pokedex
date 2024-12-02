@@ -172,6 +172,13 @@
             "MOVE_CRUNCH",
             "MOVE_PSYCHICFANGS",
             "MOVE_CLOSECOMBAT"
+        ],
+        "locations": [
+            {
+                "route": "Antisis Sewers",
+                "area": "",
+                "method": "land"
+            }
         ]
     },
     "RATICATE_A": {
@@ -352,6 +359,13 @@
             "MOVE_CLOSECOMBAT",
             "MOVE_BURNINGJEALOUSY",
             "MOVE_LASHOUT"
+        ],
+        "locations": [
+            {
+                "route": "Route 7",
+                "area": "",
+                "method": "land"
+            }
         ]
     }
 }

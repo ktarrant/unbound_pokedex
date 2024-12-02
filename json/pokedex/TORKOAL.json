@@ -184,6 +184,13 @@
             "MOVE_WEATHERBALL",
             "MOVE_BURNINGJEALOUSY",
             "MOVE_SCORCHINGSANDS"
+        ],
+        "locations": [
+            {
+                "route": "Cinder Volcano",
+                "area": "1F - 4F",
+                "method": "land"
+            }
         ]
     }
 }

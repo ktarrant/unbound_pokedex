@@ -183,6 +183,13 @@
             "MOVE_PSYCHICFANGS",
             "MOVE_CLOSECOMBAT",
             "MOVE_FLAREBLITZ"
+        ],
+        "locations": [
+            {
+                "route": "Route 5",
+                "area": "",
+                "method": "land"
+            }
         ]
     },
     "GROWLITHE_H": {

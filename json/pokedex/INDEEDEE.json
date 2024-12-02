@@ -150,6 +150,18 @@
             "MOVE_PLAYROUGH",
             "MOVE_EXPANDINGFORCE",
             "MOVE_TERRAINPULSE"
+        ],
+        "locations": [
+            {
+                "route": "Route 7",
+                "area": "Special Encounter",
+                "method": "land"
+            },
+            {
+                "route": "Route 7",
+                "area": "Special Encounter",
+                "method": "land"
+            }
         ]
     },
     "INDEEDEE_FEMALE": {

@@ -193,6 +193,78 @@
             "MOVE_PSYCHOCUT",
             "MOVE_EXPANDINGFORCE",
             "MOVE_DUALWINGBEAT"
+        ],
+        "locations": [
+            {
+                "route": "Cinder Volcano",
+                "area": "1F - 4F",
+                "method": "land"
+            },
+            {
+                "route": "Cinder Volcano",
+                "area": "Shadow Basement",
+                "method": "land"
+            },
+            {
+                "route": "Valley Cave",
+                "area": "1F - 2F",
+                "method": "land"
+            },
+            {
+                "route": "Valley Cave",
+                "area": "B1F",
+                "method": "land"
+            },
+            {
+                "route": "Valley Cave",
+                "area": "",
+                "method": "surf"
+            },
+            {
+                "route": "KBT Expressway",
+                "area": "\"Tehl, Epidimy Entrances \"",
+                "method": "land"
+            },
+            {
+                "route": "KBT Expressway",
+                "area": "\"Dehara, Gurun, Antisis, \"",
+                "method": "land"
+            },
+            {
+                "route": "Frost Mountain",
+                "area": "",
+                "method": "land"
+            },
+            {
+                "route": "Lost Tunnel",
+                "area": "",
+                "method": "land"
+            },
+            {
+                "route": "Crystal Peak",
+                "area": "B1F + 1F - 5F",
+                "method": "land"
+            },
+            {
+                "route": "Crystal Peak",
+                "area": "1F",
+                "method": "land"
+            },
+            {
+                "route": "Victory Road",
+                "area": "B1F",
+                "method": "land"
+            },
+            {
+                "route": "Victory Road",
+                "area": "3F",
+                "method": "land"
+            },
+            {
+                "route": "Victory Road",
+                "area": "2F",
+                "method": "surf"
+            }
         ]
     }
 }

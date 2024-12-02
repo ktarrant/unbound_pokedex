@@ -102,6 +102,13 @@
             "MOVE_MYSTICALFIRE",
             "MOVE_GRASSYGLIDE",
             "MOVE_SKITTERSMACK"
+        ],
+        "locations": [
+            {
+                "route": "Grim Woods",
+                "area": "",
+                "method": "land"
+            }
         ]
     },
     "PUMPKABOO_XL": {

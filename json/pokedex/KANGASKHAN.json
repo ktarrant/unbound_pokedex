@@ -139,6 +139,23 @@
             "MOVE_CRUNCH",
             "MOVE_HYDROPUMP",
             "MOVE_TERRAINPULSE"
+        ],
+        "locations": [
+            {
+                "route": "Safari Zone",
+                "area": "Medium",
+                "method": "land"
+            },
+            {
+                "route": "Safari Zone",
+                "area": "Hard",
+                "method": "land"
+            },
+            {
+                "route": "Safari Zone",
+                "area": "Insane",
+                "method": "land"
+            }
         ]
     },
     "KANGASKHAN_MEGA": {

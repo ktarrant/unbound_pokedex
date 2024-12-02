@@ -169,6 +169,13 @@
             "MOVE_CLOSECOMBAT",
             "MOVE_MEGAHORN",
             "MOVE_LASHOUT"
+        ],
+        "locations": [
+            {
+                "route": "Route 18",
+                "area": "",
+                "method": "land"
+            }
         ]
     }
 }
