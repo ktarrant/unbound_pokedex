@@ -1,176 +1,170 @@
 {
-    "baseHP": 70,
-    "baseAttack": 105,
-    "baseDefense": 90,
-    "baseSpAttack": 80,
-    "baseSpDefense": 90,
-    "baseSpeed": 45,
-    "type1": "TYPE_GRASS",
-    "type2": "TYPE_GRASS",
-    "catchRate": 75,
-    "expYield": 160,
-    "evYield_HP": 0,
-    "evYield_Attack": 2,
-    "evYield_Defense": 0,
-    "evYield_SpAttack": 0,
-    "evYield_SpDefense": 0,
-    "evYield_Speed": 0,
-    "item1": "ITEM_NONE",
-    "item2": "ITEM_MIRACLE_SEED",
-    "genderRatio": 50.0,
-    "eggCycles": 20,
-    "friendship": 50,
-    "growthRate": "GROWTH_MEDIUM_FAST",
-    "eggGroup1": "EGG_GROUP_GRASS",
-    "eggGroup2": "EGG_GROUP_GRASS",
-    "ability1": "ABILITY_LEAFGUARD",
-    "ability2": "ABILITY_CHLOROPHYLL",
-    "safariZoneFleeRate": 0,
-    "hiddenAbility": "ABILITY_CONTRARY",
-    "noFlip": true,
-    "blurb": "For self-protection, it pretends to be a bug Pokemon. Both of its arms bear keen-edged petals.",
-    "name": "Lurantis",
-    "evolve_from": [
-        "FOMANTIS"
-    ],
-    "location": [
-        {
-            "route": "Victory Road",
-            "area": "Maze Area",
-            "method": "land"
-        }
-    ],
-    "learnset": [
-        {
-            "level": 0,
-            "move": "MOVE_PETALBLIZZARD"
-        },
-        {
-            "level": 1,
-            "move": "MOVE_NIGHTSLASH"
-        },
-        {
-            "level": 1,
-            "move": "MOVE_SOLARBEAM"
-        },
-        {
-            "level": 1,
-            "move": "MOVE_DUALCHOP"
-        },
-        {
-            "level": 1,
-            "move": "MOVE_LEAFAGE"
-        },
-        {
-            "level": 1,
-            "move": "MOVE_FURYCUTTER"
-        },
-        {
-            "level": 1,
-            "move": "MOVE_GROWTH"
-        },
-        {
-            "level": 1,
-            "move": "MOVE_INGRAIN"
-        },
-        {
-            "level": 15,
-            "move": "MOVE_RAZORLEAF"
-        },
-        {
-            "level": 20,
-            "move": "MOVE_SWEETSCENT"
-        },
-        {
-            "level": 25,
-            "move": "MOVE_SLASH"
-        },
-        {
-            "level": 30,
-            "move": "MOVE_XSCISSOR"
-        },
-        {
-            "level": 33,
-            "move": "MOVE_PETALBLIZZARD"
-        },
-        {
-            "level": 37,
-            "move": "MOVE_SYNTHESIS"
-        },
-        {
-            "level": 44,
-            "move": "MOVE_LEAFBLADE"
-        },
-        {
-            "level": 51,
-            "move": "MOVE_SUNNYDAY"
-        },
-        {
-            "level": 63,
-            "move": "MOVE_SOLARBLADE"
-        }
-    ],
-    "tm": [
-        "MOVE_TOXIC",
-        "MOVE_BULLETSEED",
-        "MOVE_HIDDENPOWER",
-        "MOVE_SUNNYDAY",
-        "MOVE_HYPERBEAM",
-        "MOVE_PROTECT",
-        "MOVE_GIGADRAIN",
-        "MOVE_SAFEGUARD",
-        "MOVE_FRUSTRATION",
-        "MOVE_SOLARBEAM",
-        "MOVE_RETURN",
-        "MOVE_BRICKBREAK",
-        "MOVE_DOUBLETEAM",
-        "MOVE_AERIALACE",
-        "MOVE_FACADE",
-        "MOVE_SECRETPOWER",
-        "MOVE_REST",
-        "MOVE_ATTRACT",
-        "MOVE_LEECHFANG",
-        "MOVE_ENERGYBALL",
-        "MOVE_FALSESWIPE",
-        "MOVE_HONECLAWS",
-        "MOVE_ENDURE",
-        "MOVE_PAYBACK",
-        "MOVE_GIGAIMPACT",
-        "MOVE_FLASH",
-        "MOVE_SWORDSDANCE",
-        "MOVE_LOWSWEEP",
-        "MOVE_XSCISSOR",
-        "MOVE_SLEEPTALK",
-        "MOVE_POISONJAB",
-        "MOVE_GRASSKNOT",
-        "MOVE_SWAGGER",
-        "MOVE_SUBSTITUTE",
-        "MOVE_DEFOG",
-        "MOVE_ROUND",
-        "MOVE_NATURALGIFT",
-        "MOVE_FLING",
-        "MOVE_NATUREPOWER",
-        "MOVE_CUT"
-    ],
-    "tutor": [
-        "MOVE_SNORE",
-        "MOVE_WORRYSEED",
-        "MOVE_BUGBITE",
-        "MOVE_SYNTHESIS",
-        "MOVE_SIGNALBEAM",
-        "MOVE_SEEDBOMB",
-        "MOVE_LASERFOCUS",
-        "MOVE_DUALCHOP",
-        "MOVE_SUPERPOWER",
-        "MOVE_KNOCKOFF",
-        "MOVE_CONFIDE",
-        "MOVE_GRASSYTERRAIN",
-        "MOVE_WEATHERBALL",
-        "MOVE_CROSSPOISON",
-        "MOVE_LEAFBLADE",
-        "MOVE_PSYCHOCUT",
-        "MOVE_LEAFSTORM",
-        "MOVE_SOLARBLADE",
-        "MOVE_GRASSYGLIDE"
-    ]
+    "LURANTIS": {
+        "blurb": "For self-protection, it pretends to be a bug Pok\\emon. Both of its arms bear keen-edged petals.",
+        "baseHP": 70,
+        "baseAttack": 105,
+        "baseDefense": 90,
+        "baseSpAttack": 80,
+        "baseSpDefense": 90,
+        "baseSpeed": 45,
+        "type1": "TYPE_GRASS",
+        "type2": "TYPE_GRASS",
+        "catchRate": 75,
+        "expYield": 160,
+        "evYield_HP": 0,
+        "evYield_Attack": 2,
+        "evYield_Defense": 0,
+        "evYield_SpAttack": 0,
+        "evYield_SpDefense": 0,
+        "evYield_Speed": 0,
+        "item1": "ITEM_NONE",
+        "item2": "ITEM_MIRACLE_SEED",
+        "genderRatio": 50.0,
+        "eggCycles": 20,
+        "friendship": 50,
+        "growthRate": "GROWTH_MEDIUM_FAST",
+        "eggGroup1": "EGG_GROUP_GRASS",
+        "eggGroup2": "EGG_GROUP_GRASS",
+        "ability1": "ABILITY_LEAFGUARD",
+        "ability2": "ABILITY_CHLOROPHYLL",
+        "safariZoneFleeRate": 0,
+        "hiddenAbility": "ABILITY_CONTRARY",
+        "noFlip": true,
+        "evolve_from": [
+            "FOMANTIS"
+        ],
+        "learnset": [
+            {
+                "level": 0,
+                "move": "MOVE_PETALBLIZZARD"
+            },
+            {
+                "level": 1,
+                "move": "MOVE_NIGHTSLASH"
+            },
+            {
+                "level": 1,
+                "move": "MOVE_SOLARBEAM"
+            },
+            {
+                "level": 1,
+                "move": "MOVE_DUALCHOP"
+            },
+            {
+                "level": 1,
+                "move": "MOVE_LEAFAGE"
+            },
+            {
+                "level": 1,
+                "move": "MOVE_FURYCUTTER"
+            },
+            {
+                "level": 1,
+                "move": "MOVE_GROWTH"
+            },
+            {
+                "level": 1,
+                "move": "MOVE_INGRAIN"
+            },
+            {
+                "level": 15,
+                "move": "MOVE_RAZORLEAF"
+            },
+            {
+                "level": 20,
+                "move": "MOVE_SWEETSCENT"
+            },
+            {
+                "level": 25,
+                "move": "MOVE_SLASH"
+            },
+            {
+                "level": 30,
+                "move": "MOVE_XSCISSOR"
+            },
+            {
+                "level": 33,
+                "move": "MOVE_PETALBLIZZARD"
+            },
+            {
+                "level": 37,
+                "move": "MOVE_SYNTHESIS"
+            },
+            {
+                "level": 44,
+                "move": "MOVE_LEAFBLADE"
+            },
+            {
+                "level": 51,
+                "move": "MOVE_SUNNYDAY"
+            },
+            {
+                "level": 63,
+                "move": "MOVE_SOLARBLADE"
+            }
+        ],
+        "tm": [
+            "MOVE_TOXIC",
+            "MOVE_BULLETSEED",
+            "MOVE_HIDDENPOWER",
+            "MOVE_SUNNYDAY",
+            "MOVE_HYPERBEAM",
+            "MOVE_PROTECT",
+            "MOVE_GIGADRAIN",
+            "MOVE_SAFEGUARD",
+            "MOVE_FRUSTRATION",
+            "MOVE_SOLARBEAM",
+            "MOVE_RETURN",
+            "MOVE_BRICKBREAK",
+            "MOVE_DOUBLETEAM",
+            "MOVE_AERIALACE",
+            "MOVE_FACADE",
+            "MOVE_SECRETPOWER",
+            "MOVE_REST",
+            "MOVE_ATTRACT",
+            "MOVE_LEECHFANG",
+            "MOVE_ENERGYBALL",
+            "MOVE_FALSESWIPE",
+            "MOVE_HONECLAWS",
+            "MOVE_ENDURE",
+            "MOVE_PAYBACK",
+            "MOVE_GIGAIMPACT",
+            "MOVE_FLASH",
+            "MOVE_SWORDSDANCE",
+            "MOVE_LOWSWEEP",
+            "MOVE_XSCISSOR",
+            "MOVE_SLEEPTALK",
+            "MOVE_POISONJAB",
+            "MOVE_GRASSKNOT",
+            "MOVE_SWAGGER",
+            "MOVE_SUBSTITUTE",
+            "MOVE_DEFOG",
+            "MOVE_ROUND",
+            "MOVE_NATURALGIFT",
+            "MOVE_FLING",
+            "MOVE_NATUREPOWER",
+            "MOVE_CUT"
+        ],
+        "tutor": [
+            "MOVE_SNORE",
+            "MOVE_WORRYSEED",
+            "MOVE_BUGBITE",
+            "MOVE_SYNTHESIS",
+            "MOVE_SIGNALBEAM",
+            "MOVE_SEEDBOMB",
+            "MOVE_LASERFOCUS",
+            "MOVE_DUALCHOP",
+            "MOVE_SUPERPOWER",
+            "MOVE_KNOCKOFF",
+            "MOVE_CONFIDE",
+            "MOVE_GRASSYTERRAIN",
+            "MOVE_WEATHERBALL",
+            "MOVE_CROSSPOISON",
+            "MOVE_LEAFBLADE",
+            "MOVE_PSYCHOCUT",
+            "MOVE_LEAFSTORM",
+            "MOVE_SOLARBLADE",
+            "MOVE_GRASSYGLIDE"
+        ]
+    }
 }

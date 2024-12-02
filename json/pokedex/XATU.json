@@ -1,189 +1,183 @@
 {
-    "baseHP": 65,
-    "baseAttack": 75,
-    "baseDefense": 70,
-    "baseSpAttack": 95,
-    "baseSpDefense": 70,
-    "baseSpeed": 95,
-    "type1": "TYPE_PSYCHIC",
-    "type2": "TYPE_FLYING",
-    "catchRate": 75,
-    "expYield": 171,
-    "evYield_HP": 0,
-    "evYield_Attack": 0,
-    "evYield_Defense": 0,
-    "evYield_SpAttack": 1,
-    "evYield_SpDefense": 0,
-    "evYield_Speed": 1,
-    "item1": "ITEM_NONE",
-    "item2": "ITEM_NONE",
-    "genderRatio": 50.0,
-    "eggCycles": 20,
-    "friendship": 50,
-    "growthRate": "GROWTH_MEDIUM_FAST",
-    "eggGroup1": "EGG_GROUP_FLYING",
-    "eggGroup2": "EGG_GROUP_FLYING",
-    "ability1": "ABILITY_SYNCHRONIZE",
-    "ability2": "ABILITY_EARLYBIRD",
-    "safariZoneFleeRate": 0,
-    "hiddenAbility": "ABILITY_MAGICBOUNCE",
-    "noFlip": true,
-    "name": "Xatu",
-    "evolve_from": [
-        "NATU"
-    ],
-    "location": [
-        {
-            "route": "Safari Zone",
-            "area": "Medium",
-            "method": "land"
-        }
-    ],
-    "learnset": [
-        {
-            "level": 0,
-            "move": "MOVE_AIRSLASH"
-        },
-        {
-            "level": 1,
-            "move": "MOVE_TAILWIND"
-        },
-        {
-            "level": 1,
-            "move": "MOVE_PECK"
-        },
-        {
-            "level": 1,
-            "move": "MOVE_LEER"
-        },
-        {
-            "level": 4,
-            "move": "MOVE_STOREDPOWER"
-        },
-        {
-            "level": 8,
-            "move": "MOVE_TELEPORT"
-        },
-        {
-            "level": 11,
-            "move": "MOVE_CONFUSERAY"
-        },
-        {
-            "level": 14,
-            "move": "MOVE_NIGHTSHADE"
-        },
-        {
-            "level": 18,
-            "move": "MOVE_LUCKYCHANT"
-        },
-        {
-            "level": 21,
-            "move": "MOVE_OMINOUSWIND"
-        },
-        {
-            "level": 24,
-            "move": "MOVE_AIRSLASH"
-        },
-        {
-            "level": 25,
-            "move": "MOVE_PSYCHOSHIFT"
-        },
-        {
-            "level": 33,
-            "move": "MOVE_POWERSWAP"
-        },
-        {
-            "level": 37,
-            "move": "MOVE_GUARDSWAP"
-        },
-        {
-            "level": 41,
-            "move": "MOVE_MIRACLEEYE"
-        },
-        {
-            "level": 45,
-            "move": "MOVE_PSYCHIC"
-        },
-        {
-            "level": 50,
-            "move": "MOVE_WISH"
-        },
-        {
-            "level": 54,
-            "move": "MOVE_FUTURESIGHT"
-        },
-        {
-            "level": 58,
-            "move": "MOVE_MEFIRST"
-        }
-    ],
-    "tm": [
-        "MOVE_CALMMIND",
-        "MOVE_TOXIC",
-        "MOVE_HIDDENPOWER",
-        "MOVE_SUNNYDAY",
-        "MOVE_HYPERBEAM",
-        "MOVE_LIGHTSCREEN",
-        "MOVE_PROTECT",
-        "MOVE_RAINDANCE",
-        "MOVE_GIGADRAIN",
-        "MOVE_FRUSTRATION",
-        "MOVE_SOLARBEAM",
-        "MOVE_RETURN",
-        "MOVE_PSYCHIC",
-        "MOVE_SHADOWBALL",
-        "MOVE_DOUBLETEAM",
-        "MOVE_REFLECT",
-        "MOVE_AERIALACE",
-        "MOVE_FACADE",
-        "MOVE_SECRETPOWER",
-        "MOVE_REST",
-        "MOVE_ATTRACT",
-        "MOVE_THIEF",
-        "MOVE_STEELWING",
-        "MOVE_SKILLSWAP",
-        "MOVE_ROOST",
-        "MOVE_ENDURE",
-        "MOVE_SILVERWIND",
-        "MOVE_GIGAIMPACT",
-        "MOVE_FLASH",
-        "MOVE_THUNDERWAVE",
-        "MOVE_SLEEPTALK",
-        "MOVE_DREAMEATER",
-        "MOVE_GRASSKNOT",
-        "MOVE_SWAGGER",
-        "MOVE_PLUCK",
-        "MOVE_UTURN",
-        "MOVE_SUBSTITUTE",
-        "MOVE_DAZZLINGGLEAM",
-        "MOVE_PSYSHOCK",
-        "MOVE_DEFOG",
-        "MOVE_ROUND",
-        "MOVE_NATURALGIFT",
-        "MOVE_TRICKROOM",
-        "MOVE_FLY"
-    ],
-    "tutor": [
-        "MOVE_SNORE",
-        "MOVE_SIGNALBEAM",
-        "MOVE_TELEKINESIS",
-        "MOVE_PAINSPLIT",
-        "MOVE_TAILWIND",
-        "MOVE_ZENHEADBUTT",
-        "MOVE_LASERFOCUS",
-        "MOVE_TRICK",
-        "MOVE_MAGICCOAT",
-        "MOVE_MAGICROOM",
-        "MOVE_FOULPLAY",
-        "MOVE_SKYATTACK",
-        "MOVE_HEATWAVE",
-        "MOVE_PSYCHUP",
-        "MOVE_CONFIDE",
-        "MOVE_COSMICPOWER",
-        "MOVE_BATONPASS",
-        "MOVE_STOREDPOWER",
-        "MOVE_AIRSLASH",
-        "MOVE_EXPANDINGFORCE",
-        "MOVE_DUALWINGBEAT"
-    ]
+    "XATU": {
+        "baseHP": 65,
+        "baseAttack": 75,
+        "baseDefense": 70,
+        "baseSpAttack": 95,
+        "baseSpDefense": 70,
+        "baseSpeed": 95,
+        "type1": "TYPE_PSYCHIC",
+        "type2": "TYPE_FLYING",
+        "catchRate": 75,
+        "expYield": 171,
+        "evYield_HP": 0,
+        "evYield_Attack": 0,
+        "evYield_Defense": 0,
+        "evYield_SpAttack": 1,
+        "evYield_SpDefense": 0,
+        "evYield_Speed": 1,
+        "item1": "ITEM_NONE",
+        "item2": "ITEM_NONE",
+        "genderRatio": 50.0,
+        "eggCycles": 20,
+        "friendship": 50,
+        "growthRate": "GROWTH_MEDIUM_FAST",
+        "eggGroup1": "EGG_GROUP_FLYING",
+        "eggGroup2": "EGG_GROUP_FLYING",
+        "ability1": "ABILITY_SYNCHRONIZE",
+        "ability2": "ABILITY_EARLYBIRD",
+        "safariZoneFleeRate": 0,
+        "hiddenAbility": "ABILITY_MAGICBOUNCE",
+        "noFlip": true,
+        "evolve_from": [
+            "NATU"
+        ],
+        "learnset": [
+            {
+                "level": 0,
+                "move": "MOVE_AIRSLASH"
+            },
+            {
+                "level": 1,
+                "move": "MOVE_TAILWIND"
+            },
+            {
+                "level": 1,
+                "move": "MOVE_PECK"
+            },
+            {
+                "level": 1,
+                "move": "MOVE_LEER"
+            },
+            {
+                "level": 4,
+                "move": "MOVE_STOREDPOWER"
+            },
+            {
+                "level": 8,
+                "move": "MOVE_TELEPORT"
+            },
+            {
+                "level": 11,
+                "move": "MOVE_CONFUSERAY"
+            },
+            {
+                "level": 14,
+                "move": "MOVE_NIGHTSHADE"
+            },
+            {
+                "level": 18,
+                "move": "MOVE_LUCKYCHANT"
+            },
+            {
+                "level": 21,
+                "move": "MOVE_OMINOUSWIND"
+            },
+            {
+                "level": 24,
+                "move": "MOVE_AIRSLASH"
+            },
+            {
+                "level": 25,
+                "move": "MOVE_PSYCHOSHIFT"
+            },
+            {
+                "level": 33,
+                "move": "MOVE_POWERSWAP"
+            },
+            {
+                "level": 37,
+                "move": "MOVE_GUARDSWAP"
+            },
+            {
+                "level": 41,
+                "move": "MOVE_MIRACLEEYE"
+            },
+            {
+                "level": 45,
+                "move": "MOVE_PSYCHIC"
+            },
+            {
+                "level": 50,
+                "move": "MOVE_WISH"
+            },
+            {
+                "level": 54,
+                "move": "MOVE_FUTURESIGHT"
+            },
+            {
+                "level": 58,
+                "move": "MOVE_MEFIRST"
+            }
+        ],
+        "tm": [
+            "MOVE_CALMMIND",
+            "MOVE_TOXIC",
+            "MOVE_HIDDENPOWER",
+            "MOVE_SUNNYDAY",
+            "MOVE_HYPERBEAM",
+            "MOVE_LIGHTSCREEN",
+            "MOVE_PROTECT",
+            "MOVE_RAINDANCE",
+            "MOVE_GIGADRAIN",
+            "MOVE_FRUSTRATION",
+            "MOVE_SOLARBEAM",
+            "MOVE_RETURN",
+            "MOVE_PSYCHIC",
+            "MOVE_SHADOWBALL",
+            "MOVE_DOUBLETEAM",
+            "MOVE_REFLECT",
+            "MOVE_AERIALACE",
+            "MOVE_FACADE",
+            "MOVE_SECRETPOWER",
+            "MOVE_REST",
+            "MOVE_ATTRACT",
+            "MOVE_THIEF",
+            "MOVE_STEELWING",
+            "MOVE_SKILLSWAP",
+            "MOVE_ROOST",
+            "MOVE_ENDURE",
+            "MOVE_SILVERWIND",
+            "MOVE_GIGAIMPACT",
+            "MOVE_FLASH",
+            "MOVE_THUNDERWAVE",
+            "MOVE_SLEEPTALK",
+            "MOVE_DREAMEATER",
+            "MOVE_GRASSKNOT",
+            "MOVE_SWAGGER",
+            "MOVE_PLUCK",
+            "MOVE_UTURN",
+            "MOVE_SUBSTITUTE",
+            "MOVE_DAZZLINGGLEAM",
+            "MOVE_PSYSHOCK",
+            "MOVE_DEFOG",
+            "MOVE_ROUND",
+            "MOVE_NATURALGIFT",
+            "MOVE_TRICKROOM",
+            "MOVE_FLY"
+        ],
+        "tutor": [
+            "MOVE_SNORE",
+            "MOVE_SIGNALBEAM",
+            "MOVE_TELEKINESIS",
+            "MOVE_PAINSPLIT",
+            "MOVE_TAILWIND",
+            "MOVE_ZENHEADBUTT",
+            "MOVE_LASERFOCUS",
+            "MOVE_TRICK",
+            "MOVE_MAGICCOAT",
+            "MOVE_MAGICROOM",
+            "MOVE_FOULPLAY",
+            "MOVE_SKYATTACK",
+            "MOVE_HEATWAVE",
+            "MOVE_PSYCHUP",
+            "MOVE_CONFIDE",
+            "MOVE_COSMICPOWER",
+            "MOVE_BATONPASS",
+            "MOVE_STOREDPOWER",
+            "MOVE_AIRSLASH",
+            "MOVE_EXPANDINGFORCE",
+            "MOVE_DUALWINGBEAT"
+        ]
+    }
 }

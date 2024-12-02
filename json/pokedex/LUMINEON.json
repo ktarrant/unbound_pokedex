@@ -1,180 +1,154 @@
 {
-    "baseHP": 69,
-    "baseAttack": 69,
-    "baseDefense": 76,
-    "baseSpAttack": 69,
-    "baseSpDefense": 86,
-    "baseSpeed": 91,
-    "type1": "TYPE_WATER",
-    "type2": "TYPE_WATER",
-    "catchRate": 75,
-    "expYield": 156,
-    "evYield_HP": 0,
-    "evYield_Attack": 0,
-    "evYield_Defense": 0,
-    "evYield_SpAttack": 0,
-    "evYield_SpDefense": 0,
-    "evYield_Speed": 2,
-    "item1": "ITEM_NONE",
-    "item2": "ITEM_RINDO_BERRY",
-    "genderRatio": 50.0,
-    "eggCycles": 20,
-    "friendship": 50,
-    "growthRate": "GROWTH_ERRATIC",
-    "eggGroup1": "EGG_GROUP_WATER_2",
-    "eggGroup2": "EGG_GROUP_WATER_2",
-    "ability1": "ABILITY_SWIFTSWIM",
-    "ability2": "ABILITY_STORMDRAIN",
-    "safariZoneFleeRate": 0,
-    "hiddenAbility": "ABILITY_WATERBUBBLE",
-    "noFlip": true,
-    "blurb": "Lumineon swimming in the darkness of the deep sea look like stars shining in the night sky.",
-    "name": "Lumineon",
-    "evolve_from": [
-        "FINNEON"
-    ],
-    "location": [
-        {
-            "route": "Valley Cave",
-            "area": "",
-            "method": "Super Rod"
-        },
-        {
-            "route": "Crystal Peak",
-            "area": "",
-            "method": "Super Rod"
-        },
-        {
-            "route": "Victory Road",
-            "area": "1F - B1F",
-            "method": "surf"
-        },
-        {
-            "route": "Victory Road",
-            "area": "2F",
-            "method": "surf"
-        },
-        {
-            "route": "Victory Road",
-            "area": "1F - B1F - 2F",
-            "method": "Super Rod"
-        }
-    ],
-    "learnset": [
-        {
-            "level": 1,
-            "move": "MOVE_POUND"
-        },
-        {
-            "level": 1,
-            "move": "MOVE_WATERGUN"
-        },
-        {
-            "level": 1,
-            "move": "MOVE_ATTRACT"
-        },
-        {
-            "level": 1,
-            "move": "MOVE_RAINDANCE"
-        },
-        {
-            "level": 16,
-            "move": "MOVE_GUST"
-        },
-        {
-            "level": 20,
-            "move": "MOVE_WATERPULSE"
-        },
-        {
-            "level": 24,
-            "move": "MOVE_CAPTIVATE"
-        },
-        {
-            "level": 27,
-            "move": "MOVE_SAFEGUARD"
-        },
-        {
-            "level": 30,
-            "move": "MOVE_AQUARING"
-        },
-        {
-            "level": 35,
-            "move": "MOVE_WHIRLPOOL"
-        },
-        {
-            "level": 40,
-            "move": "MOVE_UTURN"
-        },
-        {
-            "level": 45,
-            "move": "MOVE_BOUNCE"
-        },
-        {
-            "level": 50,
-            "move": "MOVE_SILVERWIND"
-        },
-        {
-            "level": 50,
-            "move": "MOVE_SOAK"
-        },
-        {
-            "level": 55,
-            "move": "MOVE_FLIPTURN"
-        }
-    ],
-    "tm": [
-        "MOVE_WATERPULSE",
-        "MOVE_TOXIC",
-        "MOVE_HAIL",
-        "MOVE_HIDDENPOWER",
-        "MOVE_ICEBEAM",
-        "MOVE_BLIZZARD",
-        "MOVE_HYPERBEAM",
-        "MOVE_PROTECT",
-        "MOVE_RAINDANCE",
-        "MOVE_SAFEGUARD",
-        "MOVE_FRUSTRATION",
-        "MOVE_RETURN",
-        "MOVE_DOUBLETEAM",
-        "MOVE_AERIALACE",
-        "MOVE_FACADE",
-        "MOVE_SECRETPOWER",
-        "MOVE_REST",
-        "MOVE_ATTRACT",
-        "MOVE_ROOST",
-        "MOVE_BRINE",
-        "MOVE_ENDURE",
-        "MOVE_SILVERWIND",
-        "MOVE_PAYBACK",
-        "MOVE_GIGAIMPACT",
-        "MOVE_FLASH",
-        "MOVE_SLEEPTALK",
-        "MOVE_SCALD",
-        "MOVE_SWAGGER",
-        "MOVE_UTURN",
-        "MOVE_SUBSTITUTE",
-        "MOVE_DEFOG",
-        "MOVE_ROUND",
-        "MOVE_NATURALGIFT",
-        "MOVE_SURF",
-        "MOVE_DIVE",
-        "MOVE_WATERFALL"
-    ],
-    "tutor": [
-        "MOVE_SNORE",
-        "MOVE_SIGNALBEAM",
-        "MOVE_BOUNCE",
-        "MOVE_AQUATAIL",
-        "MOVE_TAILWIND",
-        "MOVE_ICYWIND",
-        "MOVE_PSYCHUP",
-        "MOVE_CONFIDE",
-        "MOVE_AGILITY",
-        "MOVE_WHIRLPOOL",
-        "MOVE_AIRSLASH",
-        "MOVE_SCALESHOT",
-        "MOVE_FLIPTURN",
-        "MOVE_TRIPLEAXEL",
-        "MOVE_DUALWINGBEAT"
-    ]
+    "LUMINEON": {
+        "blurb": "Lumineon swimming in the darkness of the deep sea look like stars shining in the night sky.",
+        "baseHP": 69,
+        "baseAttack": 69,
+        "baseDefense": 76,
+        "baseSpAttack": 69,
+        "baseSpDefense": 86,
+        "baseSpeed": 91,
+        "type1": "TYPE_WATER",
+        "type2": "TYPE_WATER",
+        "catchRate": 75,
+        "expYield": 156,
+        "evYield_HP": 0,
+        "evYield_Attack": 0,
+        "evYield_Defense": 0,
+        "evYield_SpAttack": 0,
+        "evYield_SpDefense": 0,
+        "evYield_Speed": 2,
+        "item1": "ITEM_NONE",
+        "item2": "ITEM_RINDO_BERRY",
+        "genderRatio": 50.0,
+        "eggCycles": 20,
+        "friendship": 50,
+        "growthRate": "GROWTH_ERRATIC",
+        "eggGroup1": "EGG_GROUP_WATER_2",
+        "eggGroup2": "EGG_GROUP_WATER_2",
+        "ability1": "ABILITY_SWIFTSWIM",
+        "ability2": "ABILITY_STORMDRAIN",
+        "safariZoneFleeRate": 0,
+        "hiddenAbility": "ABILITY_WATERBUBBLE",
+        "noFlip": true,
+        "evolve_from": [
+            "FINNEON"
+        ],
+        "learnset": [
+            {
+                "level": 1,
+                "move": "MOVE_POUND"
+            },
+            {
+                "level": 1,
+                "move": "MOVE_WATERGUN"
+            },
+            {
+                "level": 1,
+                "move": "MOVE_ATTRACT"
+            },
+            {
+                "level": 1,
+                "move": "MOVE_RAINDANCE"
+            },
+            {
+                "level": 16,
+                "move": "MOVE_GUST"
+            },
+            {
+                "level": 20,
+                "move": "MOVE_WATERPULSE"
+            },
+            {
+                "level": 24,
+                "move": "MOVE_CAPTIVATE"
+            },
+            {
+                "level": 27,
+                "move": "MOVE_SAFEGUARD"
+            },
+            {
+                "level": 30,
+                "move": "MOVE_AQUARING"
+            },
+            {
+                "level": 35,
+                "move": "MOVE_WHIRLPOOL"
+            },
+            {
+                "level": 40,
+                "move": "MOVE_UTURN"
+            },
+            {
+                "level": 45,
+                "move": "MOVE_BOUNCE"
+            },
+            {
+                "level": 50,
+                "move": "MOVE_SILVERWIND"
+            },
+            {
+                "level": 50,
+                "move": "MOVE_SOAK"
+            },
+            {
+                "level": 55,
+                "move": "MOVE_FLIPTURN"
+            }
+        ],
+        "tm": [
+            "MOVE_WATERPULSE",
+            "MOVE_TOXIC",
+            "MOVE_HAIL",
+            "MOVE_HIDDENPOWER",
+            "MOVE_ICEBEAM",
+            "MOVE_BLIZZARD",
+            "MOVE_HYPERBEAM",
+            "MOVE_PROTECT",
+            "MOVE_RAINDANCE",
+            "MOVE_SAFEGUARD",
+            "MOVE_FRUSTRATION",
+            "MOVE_RETURN",
+            "MOVE_DOUBLETEAM",
+            "MOVE_AERIALACE",
+            "MOVE_FACADE",
+            "MOVE_SECRETPOWER",
+            "MOVE_REST",
+            "MOVE_ATTRACT",
+            "MOVE_ROOST",
+            "MOVE_BRINE",
+            "MOVE_ENDURE",
+            "MOVE_SILVERWIND",
+            "MOVE_PAYBACK",
+            "MOVE_GIGAIMPACT",
+            "MOVE_FLASH",
+            "MOVE_SLEEPTALK",
+            "MOVE_SCALD",
+            "MOVE_SWAGGER",
+            "MOVE_UTURN",
+            "MOVE_SUBSTITUTE",
+            "MOVE_DEFOG",
+            "MOVE_ROUND",
+            "MOVE_NATURALGIFT",
+            "MOVE_SURF",
+            "MOVE_DIVE",
+            "MOVE_WATERFALL"
+        ],
+        "tutor": [
+            "MOVE_SNORE",
+            "MOVE_SIGNALBEAM",
+            "MOVE_BOUNCE",
+            "MOVE_AQUATAIL",
+            "MOVE_TAILWIND",
+            "MOVE_ICYWIND",
+            "MOVE_PSYCHUP",
+            "MOVE_CONFIDE",
+            "MOVE_AGILITY",
+            "MOVE_WHIRLPOOL",
+            "MOVE_AIRSLASH",
+            "MOVE_SCALESHOT",
+            "MOVE_FLIPTURN",
+            "MOVE_TRIPLEAXEL",
+            "MOVE_DUALWINGBEAT"
+        ]
+    }
 }

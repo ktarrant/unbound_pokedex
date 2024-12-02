@@ -1,154 +1,155 @@
 {
-    "baseHP": 72,
-    "baseAttack": 80,
-    "baseDefense": 49,
-    "baseSpAttack": 40,
-    "baseSpDefense": 49,
-    "baseSpeed": 40,
-    "type1": "TYPE_STEEL",
-    "type2": "TYPE_STEEL",
-    "catchRate": 190,
-    "expYield": 66,
-    "evYield_HP": 0,
-    "evYield_Attack": 1,
-    "evYield_Defense": 0,
-    "evYield_SpAttack": 0,
-    "evYield_SpDefense": 0,
-    "evYield_Speed": 0,
-    "item1": "ITEM_NONE",
-    "item2": "ITEM_LAGGING_TAIL",
-    "genderRatio": 50.0,
-    "eggCycles": 25,
-    "friendship": 50,
-    "growthRate": "GROWTH_MEDIUM_FAST",
-    "eggGroup1": "EGG_GROUP_FIELD",
-    "eggGroup2": "EGG_GROUP_MINERAL",
-    "ability1": "ABILITY_SHEERFORCE",
-    "ability2": "ABILITY_NONE",
-    "safariZoneFleeRate": 0,
-    "hiddenAbility": "ABILITY_HEAVYMETAL",
-    "noFlip": true,
-    "egg_moves": [
-        "MOVE_DOUBLEEDGE",
-        "MOVE_BELCH",
-        "MOVE_CURSE",
-        "MOVE_SLAM",
-        "MOVE_FISSURE",
-        "MOVE_SWAGGER",
-        "MOVE_WHIRLWIND",
-        "MOVE_DEFENSECURL"
-    ],
-    "evolve_to": [
-        {
-            "method": "EVO_LEVEL",
-            "condition": "34",
-            "target": "COPPERAJAH",
-            "extra": "0"
-        }
-    ],
-    "blurb": "If a job requires serious strength, Cufant will excel at it. Its copper body tarnishes in the rain, turning green.",
-    "name": "Cufant",
-    "evolve_from": [],
-    "learnset": [
-        {
-            "level": 1,
-            "move": "MOVE_GROWL"
-        },
-        {
-            "level": 1,
-            "move": "MOVE_TACKLE"
-        },
-        {
-            "level": 5,
-            "move": "MOVE_ROLLOUT"
-        },
-        {
-            "level": 10,
-            "move": "MOVE_ROCKSMASH"
-        },
-        {
-            "level": 15,
-            "move": "MOVE_BULLDOZE"
-        },
-        {
-            "level": 20,
-            "move": "MOVE_STOMP"
-        },
-        {
-            "level": 25,
-            "move": "MOVE_IRONDEFENSE"
-        },
-        {
-            "level": 30,
-            "move": "MOVE_DIG"
-        },
-        {
-            "level": 35,
-            "move": "MOVE_STRENGTH"
-        },
-        {
-            "level": 40,
-            "move": "MOVE_IRONHEAD"
-        },
-        {
-            "level": 45,
-            "move": "MOVE_PLAYROUGH"
-        },
-        {
-            "level": 50,
-            "move": "MOVE_HIGHHORSEPOWER"
-        },
-        {
-            "level": 55,
-            "move": "MOVE_SUPERPOWER"
-        }
-    ],
-    "tm": [
-        "MOVE_ROAR",
-        "MOVE_TOXIC",
-        "MOVE_HIDDENPOWER",
-        "MOVE_PROTECT",
-        "MOVE_FRUSTRATION",
-        "MOVE_RETURN",
-        "MOVE_DIG",
-        "MOVE_BRICKBREAK",
-        "MOVE_DOUBLETEAM",
-        "MOVE_ROCKTOMB",
-        "MOVE_FACADE",
-        "MOVE_SECRETPOWER",
-        "MOVE_REST",
-        "MOVE_ATTRACT",
-        "MOVE_ENDURE",
-        "MOVE_STEALTHROCK",
-        "MOVE_ROCKSLIDE",
-        "MOVE_SLEEPTALK",
-        "MOVE_SWAGGER",
-        "MOVE_SUBSTITUTE",
-        "MOVE_BULLDOZE",
-        "MOVE_WORKUP",
-        "MOVE_BRUTALSWING",
-        "MOVE_ROUND",
-        "MOVE_NATURALGIFT",
-        "MOVE_FLING",
-        "MOVE_STRENGTH",
-        "MOVE_ROCKSMASH"
-    ],
-    "tutor": [
-        "MOVE_SNORE",
-        "MOVE_IRONDEFENSE",
-        "MOVE_IRONHEAD",
-        "MOVE_ZENHEADBUTT",
-        "MOVE_STOMPINGTANTRUM",
-        "MOVE_EARTHPOWER",
-        "MOVE_SUPERPOWER",
-        "MOVE_CONFIDE",
-        "MOVE_SCREECH",
-        "MOVE_ROCKBLAST",
-        "MOVE_BODYSLAM",
-        "MOVE_BODYPRESS",
-        "MOVE_HIGHHORSEPOWER",
-        "MOVE_PLAYROUGH",
-        "MOVE_POWERWHIP",
-        "MOVE_POLTERGEIST"
-    ]
+    "CUFANT": {
+        "blurb": "If a job requires serious strength, Cufant will excel at it. Its copper body tarnishes in the rain, turning green.",
+        "baseHP": 72,
+        "baseAttack": 80,
+        "baseDefense": 49,
+        "baseSpAttack": 40,
+        "baseSpDefense": 49,
+        "baseSpeed": 40,
+        "type1": "TYPE_STEEL",
+        "type2": "TYPE_STEEL",
+        "catchRate": 190,
+        "expYield": 66,
+        "evYield_HP": 0,
+        "evYield_Attack": 1,
+        "evYield_Defense": 0,
+        "evYield_SpAttack": 0,
+        "evYield_SpDefense": 0,
+        "evYield_Speed": 0,
+        "item1": "ITEM_NONE",
+        "item2": "ITEM_LAGGING_TAIL",
+        "genderRatio": 50.0,
+        "eggCycles": 25,
+        "friendship": 50,
+        "growthRate": "GROWTH_MEDIUM_FAST",
+        "eggGroup1": "EGG_GROUP_FIELD",
+        "eggGroup2": "EGG_GROUP_MINERAL",
+        "ability1": "ABILITY_SHEERFORCE",
+        "ability2": "ABILITY_NONE",
+        "safariZoneFleeRate": 0,
+        "hiddenAbility": "ABILITY_HEAVYMETAL",
+        "noFlip": true,
+        "evolve_to": [
+            {
+                "method": "EVO_LEVEL",
+                "condition": "34",
+                "target": "COPPERAJAH",
+                "extra": "0"
+            }
+        ],
+        "evolve_from": [],
+        "egg_moves": [
+            "MOVE_DOUBLEEDGE",
+            "MOVE_BELCH",
+            "MOVE_CURSE",
+            "MOVE_SLAM",
+            "MOVE_FISSURE",
+            "MOVE_SWAGGER",
+            "MOVE_WHIRLWIND",
+            "MOVE_DEFENSECURL"
+        ],
+        "learnset": [
+            {
+                "level": 1,
+                "move": "MOVE_GROWL"
+            },
+            {
+                "level": 1,
+                "move": "MOVE_TACKLE"
+            },
+            {
+                "level": 5,
+                "move": "MOVE_ROLLOUT"
+            },
+            {
+                "level": 10,
+                "move": "MOVE_ROCKSMASH"
+            },
+            {
+                "level": 15,
+                "move": "MOVE_BULLDOZE"
+            },
+            {
+                "level": 20,
+                "move": "MOVE_STOMP"
+            },
+            {
+                "level": 25,
+                "move": "MOVE_IRONDEFENSE"
+            },
+            {
+                "level": 30,
+                "move": "MOVE_DIG"
+            },
+            {
+                "level": 35,
+                "move": "MOVE_STRENGTH"
+            },
+            {
+                "level": 40,
+                "move": "MOVE_IRONHEAD"
+            },
+            {
+                "level": 45,
+                "move": "MOVE_PLAYROUGH"
+            },
+            {
+                "level": 50,
+                "move": "MOVE_HIGHHORSEPOWER"
+            },
+            {
+                "level": 55,
+                "move": "MOVE_SUPERPOWER"
+            }
+        ],
+        "tm": [
+            "MOVE_ROAR",
+            "MOVE_TOXIC",
+            "MOVE_HIDDENPOWER",
+            "MOVE_PROTECT",
+            "MOVE_FRUSTRATION",
+            "MOVE_RETURN",
+            "MOVE_DIG",
+            "MOVE_BRICKBREAK",
+            "MOVE_DOUBLETEAM",
+            "MOVE_ROCKTOMB",
+            "MOVE_FACADE",
+            "MOVE_SECRETPOWER",
+            "MOVE_REST",
+            "MOVE_ATTRACT",
+            "MOVE_ENDURE",
+            "MOVE_STEALTHROCK",
+            "MOVE_ROCKSLIDE",
+            "MOVE_SLEEPTALK",
+            "MOVE_SWAGGER",
+            "MOVE_SUBSTITUTE",
+            "MOVE_BULLDOZE",
+            "MOVE_WORKUP",
+            "MOVE_BRUTALSWING",
+            "MOVE_ROUND",
+            "MOVE_NATURALGIFT",
+            "MOVE_FLING",
+            "MOVE_STRENGTH",
+            "MOVE_ROCKSMASH"
+        ],
+        "tutor": [
+            "MOVE_SNORE",
+            "MOVE_IRONDEFENSE",
+            "MOVE_IRONHEAD",
+            "MOVE_ZENHEADBUTT",
+            "MOVE_STOMPINGTANTRUM",
+            "MOVE_EARTHPOWER",
+            "MOVE_SUPERPOWER",
+            "MOVE_CONFIDE",
+            "MOVE_SCREECH",
+            "MOVE_ROCKBLAST",
+            "MOVE_BODYSLAM",
+            "MOVE_BODYPRESS",
+            "MOVE_HIGHHORSEPOWER",
+            "MOVE_PLAYROUGH",
+            "MOVE_POWERWHIP",
+            "MOVE_POLTERGEIST"
+        ]
+    }
 }

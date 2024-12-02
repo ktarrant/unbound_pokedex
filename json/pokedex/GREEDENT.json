@@ -1,171 +1,160 @@
 {
-    "baseHP": 120,
-    "baseAttack": 95,
-    "baseDefense": 95,
-    "baseSpAttack": 55,
-    "baseSpDefense": 75,
-    "baseSpeed": 20,
-    "type1": "TYPE_NORMAL",
-    "type2": "TYPE_NORMAL",
-    "catchRate": 90,
-    "expYield": 161,
-    "evYield_HP": 2,
-    "evYield_Attack": 0,
-    "evYield_Defense": 0,
-    "evYield_SpAttack": 0,
-    "evYield_SpDefense": 0,
-    "evYield_Speed": 0,
-    "item1": "ITEM_NONE",
-    "item2": "ITEM_SITRUS_BERRY",
-    "genderRatio": 50.0,
-    "eggCycles": 20,
-    "friendship": 50,
-    "growthRate": "GROWTH_MEDIUM_FAST",
-    "eggGroup1": "EGG_GROUP_FIELD",
-    "eggGroup2": "EGG_GROUP_FIELD",
-    "ability1": "ABILITY_CHEEKPOUCH",
-    "ability2": "ABILITY_NONE",
-    "safariZoneFleeRate": 0,
-    "hiddenAbility": "ABILITY_GLUTTONY",
-    "noFlip": true,
-    "blurb": "This Pokemon has strong teeth and can chew through the toughest of berry shells.",
-    "name": "Greedent",
-    "evolve_from": [
-        "SKWOVET"
-    ],
-    "location": [
-        {
-            "route": "Route 14",
-            "area": "",
-            "method": "Good Rod"
-        },
-        {
-            "route": "Route 14",
-            "area": "",
-            "method": "Super Rod"
-        }
-    ],
-    "learnset": [
-        {
-            "level": 0,
-            "move": "MOVE_COVET"
-        },
-        {
-            "level": 1,
-            "move": "MOVE_BELCH"
-        },
-        {
-            "level": 1,
-            "move": "MOVE_TACKLE"
-        },
-        {
-            "level": 1,
-            "move": "MOVE_TAILWHIP"
-        },
-        {
-            "level": 1,
-            "move": "MOVE_BITE"
-        },
-        {
-            "level": 1,
-            "move": "MOVE_STUFFCHEEKS"
-        },
-        {
-            "level": 15,
-            "move": "MOVE_STOCKPILE"
-        },
-        {
-            "level": 15,
-            "move": "MOVE_SWALLOW"
-        },
-        {
-            "level": 15,
-            "move": "MOVE_SPITUP"
-        },
-        {
-            "level": 20,
-            "move": "MOVE_BODYSLAM"
-        },
-        {
-            "level": 23,
-            "move": "MOVE_COVET"
-        },
-        {
-            "level": 27,
-            "move": "MOVE_REST"
-        },
-        {
-            "level": 34,
-            "move": "MOVE_COUNTER"
-        },
-        {
-            "level": 41,
-            "move": "MOVE_BULLETSEED"
-        },
-        {
-            "level": 48,
-            "move": "MOVE_SUPERFANG"
-        },
-        {
-            "level": 55,
-            "move": "MOVE_BODYPRESS"
-        }
-    ],
-    "tm": [
-        "MOVE_TOXIC",
-        "MOVE_BULLETSEED",
-        "MOVE_HIDDENPOWER",
-        "MOVE_HYPERBEAM",
-        "MOVE_PROTECT",
-        "MOVE_FRUSTRATION",
-        "MOVE_IRONTAIL",
-        "MOVE_EARTHQUAKE",
-        "MOVE_RETURN",
-        "MOVE_DIG",
-        "MOVE_DOUBLETEAM",
-        "MOVE_FACADE",
-        "MOVE_SECRETPOWER",
-        "MOVE_REST",
-        "MOVE_ATTRACT",
-        "MOVE_THIEF",
-        "MOVE_CHARGEBEAM",
-        "MOVE_ENDURE",
-        "MOVE_PAYBACK",
-        "MOVE_RECYCLE",
-        "MOVE_GIGAIMPACT",
-        "MOVE_GYROBALL",
-        "MOVE_SWORDSDANCE",
-        "MOVE_SLEEPTALK",
-        "MOVE_SWAGGER",
-        "MOVE_PLUCK",
-        "MOVE_SUBSTITUTE",
-        "MOVE_WILDCHARGE",
-        "MOVE_BRUTALSWING",
-        "MOVE_ROUND",
-        "MOVE_NATURALGIFT",
-        "MOVE_FLING",
-        "MOVE_CUT",
-        "MOVE_STRENGTH",
-        "MOVE_ROCKSMASH"
-    ],
-    "tutor": [
-        "MOVE_SNORE",
-        "MOVE_UPROAR",
-        "MOVE_COVET",
-        "MOVE_ENDEAVOR",
-        "MOVE_SEEDBOMB",
-        "MOVE_SUPERFANG",
-        "MOVE_STOMPINGTANTRUM",
-        "MOVE_HYPERVOICE",
-        "MOVE_SUPERPOWER",
-        "MOVE_CONFIDE",
-        "MOVE_TAILSLAP",
-        "MOVE_THUNDERFANG",
-        "MOVE_ICEFANG",
-        "MOVE_FIREFANG",
-        "MOVE_BODYSLAM",
-        "MOVE_BODYPRESS",
-        "MOVE_CRUNCH",
-        "MOVE_PSYCHICFANGS"
-    ]
+    "GREEDENT": {
+        "blurb": "This Pok\\emon has strong teeth and can chew through the toughest of berry shells.",
+        "baseHP": 120,
+        "baseAttack": 95,
+        "baseDefense": 95,
+        "baseSpAttack": 55,
+        "baseSpDefense": 75,
+        "baseSpeed": 20,
+        "type1": "TYPE_NORMAL",
+        "type2": "TYPE_NORMAL",
+        "catchRate": 90,
+        "expYield": 161,
+        "evYield_HP": 2,
+        "evYield_Attack": 0,
+        "evYield_Defense": 0,
+        "evYield_SpAttack": 0,
+        "evYield_SpDefense": 0,
+        "evYield_Speed": 0,
+        "item1": "ITEM_NONE",
+        "item2": "ITEM_SITRUS_BERRY",
+        "genderRatio": 50.0,
+        "eggCycles": 20,
+        "friendship": 50,
+        "growthRate": "GROWTH_MEDIUM_FAST",
+        "eggGroup1": "EGG_GROUP_FIELD",
+        "eggGroup2": "EGG_GROUP_FIELD",
+        "ability1": "ABILITY_CHEEKPOUCH",
+        "ability2": "ABILITY_NONE",
+        "safariZoneFleeRate": 0,
+        "hiddenAbility": "ABILITY_GLUTTONY",
+        "noFlip": true,
+        "evolve_from": [
+            "SKWOVET"
+        ],
+        "learnset": [
+            {
+                "level": 0,
+                "move": "MOVE_COVET"
+            },
+            {
+                "level": 1,
+                "move": "MOVE_BELCH"
+            },
+            {
+                "level": 1,
+                "move": "MOVE_TACKLE"
+            },
+            {
+                "level": 1,
+                "move": "MOVE_TAILWHIP"
+            },
+            {
+                "level": 1,
+                "move": "MOVE_BITE"
+            },
+            {
+                "level": 1,
+                "move": "MOVE_STUFFCHEEKS"
+            },
+            {
+                "level": 15,
+                "move": "MOVE_STOCKPILE"
+            },
+            {
+                "level": 15,
+                "move": "MOVE_SWALLOW"
+            },
+            {
+                "level": 15,
+                "move": "MOVE_SPITUP"
+            },
+            {
+                "level": 20,
+                "move": "MOVE_BODYSLAM"
+            },
+            {
+                "level": 23,
+                "move": "MOVE_COVET"
+            },
+            {
+                "level": 27,
+                "move": "MOVE_REST"
+            },
+            {
+                "level": 34,
+                "move": "MOVE_COUNTER"
+            },
+            {
+                "level": 41,
+                "move": "MOVE_BULLETSEED"
+            },
+            {
+                "level": 48,
+                "move": "MOVE_SUPERFANG"
+            },
+            {
+                "level": 55,
+                "move": "MOVE_BODYPRESS"
+            }
+        ],
+        "tm": [
+            "MOVE_TOXIC",
+            "MOVE_BULLETSEED",
+            "MOVE_HIDDENPOWER",
+            "MOVE_HYPERBEAM",
+            "MOVE_PROTECT",
+            "MOVE_FRUSTRATION",
+            "MOVE_IRONTAIL",
+            "MOVE_EARTHQUAKE",
+            "MOVE_RETURN",
+            "MOVE_DIG",
+            "MOVE_DOUBLETEAM",
+            "MOVE_FACADE",
+            "MOVE_SECRETPOWER",
+            "MOVE_REST",
+            "MOVE_ATTRACT",
+            "MOVE_THIEF",
+            "MOVE_CHARGEBEAM",
+            "MOVE_ENDURE",
+            "MOVE_PAYBACK",
+            "MOVE_RECYCLE",
+            "MOVE_GIGAIMPACT",
+            "MOVE_GYROBALL",
+            "MOVE_SWORDSDANCE",
+            "MOVE_SLEEPTALK",
+            "MOVE_SWAGGER",
+            "MOVE_PLUCK",
+            "MOVE_SUBSTITUTE",
+            "MOVE_WILDCHARGE",
+            "MOVE_BRUTALSWING",
+            "MOVE_ROUND",
+            "MOVE_NATURALGIFT",
+            "MOVE_FLING",
+            "MOVE_CUT",
+            "MOVE_STRENGTH",
+            "MOVE_ROCKSMASH"
+        ],
+        "tutor": [
+            "MOVE_SNORE",
+            "MOVE_UPROAR",
+            "MOVE_COVET",
+            "MOVE_ENDEAVOR",
+            "MOVE_SEEDBOMB",
+            "MOVE_SUPERFANG",
+            "MOVE_STOMPINGTANTRUM",
+            "MOVE_HYPERVOICE",
+            "MOVE_SUPERPOWER",
+            "MOVE_CONFIDE",
+            "MOVE_TAILSLAP",
+            "MOVE_THUNDERFANG",
+            "MOVE_ICEFANG",
+            "MOVE_FIREFANG",
+            "MOVE_BODYSLAM",
+            "MOVE_BODYPRESS",
+            "MOVE_CRUNCH",
+            "MOVE_PSYCHICFANGS"
+        ]
+    }
 }

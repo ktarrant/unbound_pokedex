@@ -1,163 +1,152 @@
 {
-    "baseHP": 50,
-    "baseAttack": 65,
-    "baseDefense": 50,
-    "baseSpAttack": 40,
-    "baseSpDefense": 40,
-    "baseSpeed": 65,
-    "type1": "TYPE_GRASS",
-    "type2": "TYPE_GRASS",
-    "catchRate": 45,
-    "expYield": 62,
-    "evYield_HP": 0,
-    "evYield_Attack": 1,
-    "evYield_Defense": 0,
-    "evYield_SpAttack": 0,
-    "evYield_SpDefense": 0,
-    "evYield_Speed": 0,
-    "item1": "ITEM_NONE",
-    "item2": "ITEM_NONE",
-    "genderRatio": 12.5,
-    "eggCycles": 20,
-    "friendship": 50,
-    "growthRate": "GROWTH_MEDIUM_SLOW",
-    "eggGroup1": "EGG_GROUP_FIELD",
-    "eggGroup2": "EGG_GROUP_GRASS",
-    "ability1": "ABILITY_OVERGROW",
-    "ability2": "ABILITY_NONE",
-    "safariZoneFleeRate": 0,
-    "hiddenAbility": "ABILITY_GRASSYSURGE",
-    "noFlip": true,
-    "egg_moves": [
-        "MOVE_GROWTH",
-        "MOVE_HAMMERARM",
-        "MOVE_FAKEOUT",
-        "MOVE_STRENGTH",
-        "MOVE_NATUREPOWER",
-        "MOVE_WORRYSEED",
-        "MOVE_LEECHSEED"
-    ],
-    "evolve_to": [
-        {
-            "method": "EVO_LEVEL",
-            "condition": "16",
-            "target": "THWACKEY",
-            "extra": "0"
-        }
-    ],
-    "blurb": "It attacks with rapid beats of its stick. As it strikes with amazing speed, it gets more and more pumped.",
-    "name": "Grookey",
-    "evolve_from": [],
-    "location": [
-        {
-            "route": "Route 14",
-            "area": "",
-            "method": "Good Rod"
-        },
-        {
-            "route": "Route 14",
-            "area": "",
-            "method": "Super Rod"
-        }
-    ],
-    "learnset": [
-        {
-            "level": 1,
-            "move": "MOVE_GROWL"
-        },
-        {
-            "level": 1,
-            "move": "MOVE_SCRATCH"
-        },
-        {
-            "level": 6,
-            "move": "MOVE_BRANCHPOKE"
-        },
-        {
-            "level": 8,
-            "move": "MOVE_TAUNT"
-        },
-        {
-            "level": 12,
-            "move": "MOVE_RAZORLEAF"
-        },
-        {
-            "level": 17,
-            "move": "MOVE_SCREECH"
-        },
-        {
-            "level": 20,
-            "move": "MOVE_KNOCKOFF"
-        },
-        {
-            "level": 24,
-            "move": "MOVE_SLAM"
-        },
-        {
-            "level": 28,
-            "move": "MOVE_UPROAR"
-        },
-        {
-            "level": 32,
-            "move": "MOVE_WOODHAMMER"
-        },
-        {
-            "level": 36,
-            "move": "MOVE_ENDEAVOR"
-        }
-    ],
-    "tm": [
-        "MOVE_FOCUSPUNCH",
-        "MOVE_TOXIC",
-        "MOVE_HIDDENPOWER",
-        "MOVE_SUNNYDAY",
-        "MOVE_TAUNT",
-        "MOVE_PROTECT",
-        "MOVE_GIGADRAIN",
-        "MOVE_FRUSTRATION",
-        "MOVE_SOLARBEAM",
-        "MOVE_RETURN",
-        "MOVE_DOUBLETEAM",
-        "MOVE_FACADE",
-        "MOVE_SECRETPOWER",
-        "MOVE_REST",
-        "MOVE_ATTRACT",
-        "MOVE_ENERGYBALL",
-        "MOVE_FALSESWIPE",
-        "MOVE_ENDURE",
-        "MOVE_DRAINPUNCH",
-        "MOVE_SWORDSDANCE",
-        "MOVE_SLEEPTALK",
-        "MOVE_GRASSKNOT",
-        "MOVE_SWAGGER",
-        "MOVE_UTURN",
-        "MOVE_SUBSTITUTE",
-        "MOVE_WORKUP",
-        "MOVE_POWERUPPUNCH",
-        "MOVE_ACROBATICS",
-        "MOVE_ROUND",
-        "MOVE_ECHOEDVOICE",
-        "MOVE_NATURALGIFT",
-        "MOVE_FLING",
-        "MOVE_NATUREPOWER",
-        "MOVE_CUT",
-        "MOVE_STRENGTH",
-        "MOVE_ROCKSMASH"
-    ],
-    "tutor": [
-        "MOVE_SNORE",
-        "MOVE_LOWKICK",
-        "MOVE_UPROAR",
-        "MOVE_WORRYSEED",
-        "MOVE_SYNTHESIS",
-        "MOVE_ENDEAVOR",
-        "MOVE_KNOCKOFF",
-        "MOVE_CONFIDE",
-        "MOVE_GRASSPLEDGE",
-        "MOVE_FRENZYPLANT",
-        "MOVE_FOCUSENERGY",
-        "MOVE_SCREECH",
-        "MOVE_SOLARBLADE",
-        "MOVE_GRASSYGLIDE"
-    ]
+    "GROOKEY": {
+        "blurb": "It attacks with rapid beats of its stick. As it strikes with amazing speed, it gets more and more pumped.",
+        "baseHP": 50,
+        "baseAttack": 65,
+        "baseDefense": 50,
+        "baseSpAttack": 40,
+        "baseSpDefense": 40,
+        "baseSpeed": 65,
+        "type1": "TYPE_GRASS",
+        "type2": "TYPE_GRASS",
+        "catchRate": 45,
+        "expYield": 62,
+        "evYield_HP": 0,
+        "evYield_Attack": 1,
+        "evYield_Defense": 0,
+        "evYield_SpAttack": 0,
+        "evYield_SpDefense": 0,
+        "evYield_Speed": 0,
+        "item1": "ITEM_NONE",
+        "item2": "ITEM_NONE",
+        "genderRatio": 12.5,
+        "eggCycles": 20,
+        "friendship": 50,
+        "growthRate": "GROWTH_MEDIUM_SLOW",
+        "eggGroup1": "EGG_GROUP_FIELD",
+        "eggGroup2": "EGG_GROUP_GRASS",
+        "ability1": "ABILITY_OVERGROW",
+        "ability2": "ABILITY_NONE",
+        "safariZoneFleeRate": 0,
+        "hiddenAbility": "ABILITY_GRASSYSURGE",
+        "noFlip": true,
+        "evolve_to": [
+            {
+                "method": "EVO_LEVEL",
+                "condition": "16",
+                "target": "THWACKEY",
+                "extra": "0"
+            }
+        ],
+        "evolve_from": [],
+        "egg_moves": [
+            "MOVE_GROWTH",
+            "MOVE_HAMMERARM",
+            "MOVE_FAKEOUT",
+            "MOVE_STRENGTH",
+            "MOVE_NATUREPOWER",
+            "MOVE_WORRYSEED",
+            "MOVE_LEECHSEED"
+        ],
+        "learnset": [
+            {
+                "level": 1,
+                "move": "MOVE_GROWL"
+            },
+            {
+                "level": 1,
+                "move": "MOVE_SCRATCH"
+            },
+            {
+                "level": 6,
+                "move": "MOVE_BRANCHPOKE"
+            },
+            {
+                "level": 8,
+                "move": "MOVE_TAUNT"
+            },
+            {
+                "level": 12,
+                "move": "MOVE_RAZORLEAF"
+            },
+            {
+                "level": 17,
+                "move": "MOVE_SCREECH"
+            },
+            {
+                "level": 20,
+                "move": "MOVE_KNOCKOFF"
+            },
+            {
+                "level": 24,
+                "move": "MOVE_SLAM"
+            },
+            {
+                "level": 28,
+                "move": "MOVE_UPROAR"
+            },
+            {
+                "level": 32,
+                "move": "MOVE_WOODHAMMER"
+            },
+            {
+                "level": 36,
+                "move": "MOVE_ENDEAVOR"
+            }
+        ],
+        "tm": [
+            "MOVE_FOCUSPUNCH",
+            "MOVE_TOXIC",
+            "MOVE_HIDDENPOWER",
+            "MOVE_SUNNYDAY",
+            "MOVE_TAUNT",
+            "MOVE_PROTECT",
+            "MOVE_GIGADRAIN",
+            "MOVE_FRUSTRATION",
+            "MOVE_SOLARBEAM",
+            "MOVE_RETURN",
+            "MOVE_DOUBLETEAM",
+            "MOVE_FACADE",
+            "MOVE_SECRETPOWER",
+            "MOVE_REST",
+            "MOVE_ATTRACT",
+            "MOVE_ENERGYBALL",
+            "MOVE_FALSESWIPE",
+            "MOVE_ENDURE",
+            "MOVE_DRAINPUNCH",
+            "MOVE_SWORDSDANCE",
+            "MOVE_SLEEPTALK",
+            "MOVE_GRASSKNOT",
+            "MOVE_SWAGGER",
+            "MOVE_UTURN",
+            "MOVE_SUBSTITUTE",
+            "MOVE_WORKUP",
+            "MOVE_POWERUPPUNCH",
+            "MOVE_ACROBATICS",
+            "MOVE_ROUND",
+            "MOVE_ECHOEDVOICE",
+            "MOVE_NATURALGIFT",
+            "MOVE_FLING",
+            "MOVE_NATUREPOWER",
+            "MOVE_CUT",
+            "MOVE_STRENGTH",
+            "MOVE_ROCKSMASH"
+        ],
+        "tutor": [
+            "MOVE_SNORE",
+            "MOVE_LOWKICK",
+            "MOVE_UPROAR",
+            "MOVE_WORRYSEED",
+            "MOVE_SYNTHESIS",
+            "MOVE_ENDEAVOR",
+            "MOVE_KNOCKOFF",
+            "MOVE_CONFIDE",
+            "MOVE_GRASSPLEDGE",
+            "MOVE_FRENZYPLANT",
+            "MOVE_FOCUSENERGY",
+            "MOVE_SCREECH",
+            "MOVE_SOLARBLADE",
+            "MOVE_GRASSYGLIDE"
+        ]
+    }
 }

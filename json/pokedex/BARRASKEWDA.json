@@ -1,146 +1,135 @@
 {
-    "baseHP": 61,
-    "baseAttack": 123,
-    "baseDefense": 60,
-    "baseSpAttack": 60,
-    "baseSpDefense": 50,
-    "baseSpeed": 136,
-    "type1": "TYPE_WATER",
-    "type2": "TYPE_WATER",
-    "catchRate": 60,
-    "expYield": 172,
-    "evYield_HP": 0,
-    "evYield_Attack": 0,
-    "evYield_Defense": 0,
-    "evYield_SpAttack": 0,
-    "evYield_SpDefense": 0,
-    "evYield_Speed": 2,
-    "item1": "ITEM_NONE",
-    "item2": "ITEM_NONE",
-    "genderRatio": 50.0,
-    "eggCycles": 20,
-    "friendship": 50,
-    "growthRate": "GROWTH_SLOW",
-    "eggGroup1": "EGG_GROUP_WATER_2",
-    "eggGroup2": "EGG_GROUP_WATER_2",
-    "ability1": "ABILITY_SWIFTSWIM",
-    "ability2": "ABILITY_NONE",
-    "safariZoneFleeRate": 0,
-    "hiddenAbility": "ABILITY_STALWART",
-    "noFlip": true,
-    "blurb": "Its jaw that's as sharp as a spear and as strong as steel. It spins its tail fins to surge forward at over 100 knots.",
-    "name": "Baraskewda",
-    "evolve_from": [
-        "ARROKUDA"
-    ],
-    "location": [
-        {
-            "route": "Route 14",
-            "area": "",
-            "method": "Good Rod"
-        },
-        {
-            "route": "Route 14",
-            "area": "",
-            "method": "Super Rod"
-        }
-    ],
-    "learnset": [
-        {
-            "level": 1,
-            "move": "MOVE_THROATCHOP"
-        },
-        {
-            "level": 1,
-            "move": "MOVE_PECK"
-        },
-        {
-            "level": 1,
-            "move": "MOVE_AQUAJET"
-        },
-        {
-            "level": 1,
-            "move": "MOVE_FURYATTACK"
-        },
-        {
-            "level": 1,
-            "move": "MOVE_BITE"
-        },
-        {
-            "level": 18,
-            "move": "MOVE_AGILITY"
-        },
-        {
-            "level": 25,
-            "move": "MOVE_SURF"
-        },
-        {
-            "level": 34,
-            "move": "MOVE_LASERFOCUS"
-        },
-        {
-            "level": 42,
-            "move": "MOVE_CRUNCH"
-        },
-        {
-            "level": 50,
-            "move": "MOVE_DOUBLEEDGE"
-        },
-        {
-            "level": 58,
-            "move": "MOVE_LIQUIDATION"
-        }
-    ],
-    "tm": [
-        "MOVE_WATERPULSE",
-        "MOVE_TOXIC",
-        "MOVE_HIDDENPOWER",
-        "MOVE_HYPERBEAM",
-        "MOVE_PROTECT",
-        "MOVE_RAINDANCE",
-        "MOVE_FRUSTRATION",
-        "MOVE_RETURN",
-        "MOVE_BRICKBREAK",
-        "MOVE_DOUBLETEAM",
-        "MOVE_AERIALACE",
-        "MOVE_TORMENT",
-        "MOVE_FACADE",
-        "MOVE_SECRETPOWER",
-        "MOVE_REST",
-        "MOVE_ATTRACT",
-        "MOVE_ENDURE",
-        "MOVE_GIGAIMPACT",
-        "MOVE_SLEEPTALK",
-        "MOVE_SCALD",
-        "MOVE_POISONJAB",
-        "MOVE_SWAGGER",
-        "MOVE_SUBSTITUTE",
-        "MOVE_ROUND",
-        "MOVE_NATURALGIFT",
-        "MOVE_SURF",
-        "MOVE_DIVE",
-        "MOVE_ROCKSMASH",
-        "MOVE_WATERFALL"
-    ],
-    "tutor": [
-        "MOVE_SNORE",
-        "MOVE_BOUNCE",
-        "MOVE_AQUATAIL",
-        "MOVE_LASERFOCUS",
-        "MOVE_DRILLRUN",
-        "MOVE_LIQUIDATION",
-        "MOVE_THROATCHOP",
-        "MOVE_CONFIDE",
-        "MOVE_FOCUSENERGY",
-        "MOVE_SCARYFACE",
-        "MOVE_AGILITY",
-        "MOVE_WHIRLPOOL",
-        "MOVE_ICEFANG",
-        "MOVE_CRUNCH",
-        "MOVE_PSYCHICFANGS",
-        "MOVE_CLOSECOMBAT",
-        "MOVE_HYDROPUMP",
-        "MOVE_SCALESHOT",
-        "MOVE_FLIPTURN"
-    ]
+    "BARRASKEWDA": {
+        "blurb": "Its jaw that's as sharp as a spear and as strong as steel. It spins its tail fins to surge forward at over 100 knots.",
+        "baseHP": 61,
+        "baseAttack": 123,
+        "baseDefense": 60,
+        "baseSpAttack": 60,
+        "baseSpDefense": 50,
+        "baseSpeed": 136,
+        "type1": "TYPE_WATER",
+        "type2": "TYPE_WATER",
+        "catchRate": 60,
+        "expYield": 172,
+        "evYield_HP": 0,
+        "evYield_Attack": 0,
+        "evYield_Defense": 0,
+        "evYield_SpAttack": 0,
+        "evYield_SpDefense": 0,
+        "evYield_Speed": 2,
+        "item1": "ITEM_NONE",
+        "item2": "ITEM_NONE",
+        "genderRatio": 50.0,
+        "eggCycles": 20,
+        "friendship": 50,
+        "growthRate": "GROWTH_SLOW",
+        "eggGroup1": "EGG_GROUP_WATER_2",
+        "eggGroup2": "EGG_GROUP_WATER_2",
+        "ability1": "ABILITY_SWIFTSWIM",
+        "ability2": "ABILITY_NONE",
+        "safariZoneFleeRate": 0,
+        "hiddenAbility": "ABILITY_STALWART",
+        "noFlip": true,
+        "evolve_from": [
+            "ARROKUDA"
+        ],
+        "learnset": [
+            {
+                "level": 1,
+                "move": "MOVE_THROATCHOP"
+            },
+            {
+                "level": 1,
+                "move": "MOVE_PECK"
+            },
+            {
+                "level": 1,
+                "move": "MOVE_AQUAJET"
+            },
+            {
+                "level": 1,
+                "move": "MOVE_FURYATTACK"
+            },
+            {
+                "level": 1,
+                "move": "MOVE_BITE"
+            },
+            {
+                "level": 18,
+                "move": "MOVE_AGILITY"
+            },
+            {
+                "level": 25,
+                "move": "MOVE_SURF"
+            },
+            {
+                "level": 34,
+                "move": "MOVE_LASERFOCUS"
+            },
+            {
+                "level": 42,
+                "move": "MOVE_CRUNCH"
+            },
+            {
+                "level": 50,
+                "move": "MOVE_DOUBLEEDGE"
+            },
+            {
+                "level": 58,
+                "move": "MOVE_LIQUIDATION"
+            }
+        ],
+        "tm": [
+            "MOVE_WATERPULSE",
+            "MOVE_TOXIC",
+            "MOVE_HIDDENPOWER",
+            "MOVE_HYPERBEAM",
+            "MOVE_PROTECT",
+            "MOVE_RAINDANCE",
+            "MOVE_FRUSTRATION",
+            "MOVE_RETURN",
+            "MOVE_BRICKBREAK",
+            "MOVE_DOUBLETEAM",
+            "MOVE_AERIALACE",
+            "MOVE_TORMENT",
+            "MOVE_FACADE",
+            "MOVE_SECRETPOWER",
+            "MOVE_REST",
+            "MOVE_ATTRACT",
+            "MOVE_ENDURE",
+            "MOVE_GIGAIMPACT",
+            "MOVE_SLEEPTALK",
+            "MOVE_SCALD",
+            "MOVE_POISONJAB",
+            "MOVE_SWAGGER",
+            "MOVE_SUBSTITUTE",
+            "MOVE_ROUND",
+            "MOVE_NATURALGIFT",
+            "MOVE_SURF",
+            "MOVE_DIVE",
+            "MOVE_ROCKSMASH",
+            "MOVE_WATERFALL"
+        ],
+        "tutor": [
+            "MOVE_SNORE",
+            "MOVE_BOUNCE",
+            "MOVE_AQUATAIL",
+            "MOVE_LASERFOCUS",
+            "MOVE_DRILLRUN",
+            "MOVE_LIQUIDATION",
+            "MOVE_THROATCHOP",
+            "MOVE_CONFIDE",
+            "MOVE_FOCUSENERGY",
+            "MOVE_SCARYFACE",
+            "MOVE_AGILITY",
+            "MOVE_WHIRLPOOL",
+            "MOVE_ICEFANG",
+            "MOVE_CRUNCH",
+            "MOVE_PSYCHICFANGS",
+            "MOVE_CLOSECOMBAT",
+            "MOVE_HYDROPUMP",
+            "MOVE_SCALESHOT",
+            "MOVE_FLIPTURN"
+        ]
+    }
 }

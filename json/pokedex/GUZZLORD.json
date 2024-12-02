@@ -1,195 +1,196 @@
 {
-    "baseHP": 223,
-    "baseAttack": 101,
-    "baseDefense": 53,
-    "baseSpAttack": 97,
-    "baseSpDefense": 53,
-    "baseSpeed": 43,
-    "type1": "TYPE_DARK",
-    "type2": "TYPE_DRAGON",
-    "catchRate": 45,
-    "expYield": 210,
-    "evYield_HP": 3,
-    "evYield_Attack": 0,
-    "evYield_Defense": 0,
-    "evYield_SpAttack": 0,
-    "evYield_SpDefense": 0,
-    "evYield_Speed": 0,
-    "item1": "ITEM_NONE",
-    "item2": "ITEM_NONE",
-    "genderRatio": "MON_GENDERLESS",
-    "eggCycles": 120,
-    "friendship": 0,
-    "growthRate": "GROWTH_SLOW",
-    "eggGroup1": "EGG_GROUP_UNDISCOVERED",
-    "eggGroup2": "EGG_GROUP_UNDISCOVERED",
-    "ability1": "ABILITY_BEASTBOOST",
-    "ability2": "ABILITY_NONE",
-    "safariZoneFleeRate": 0,
-    "hiddenAbility": "ABILITY_NONE",
-    "noFlip": true,
-    "blurb": "An unknown life-form called a UB. It may be constantly hungry-it is certainly always devouring something.",
-    "name": "Guzzlord",
-    "evolve_from": [],
-    "learnset": [
-        {
-            "level": 1,
-            "move": "MOVE_WRINGOUT"
-        },
-        {
-            "level": 1,
-            "move": "MOVE_IRONTAIL"
-        },
-        {
-            "level": 1,
-            "move": "MOVE_STEAMROLLER"
-        },
-        {
-            "level": 1,
-            "move": "MOVE_BRUTALSWING"
-        },
-        {
-            "level": 1,
-            "move": "MOVE_BITE"
-        },
-        {
-            "level": 1,
-            "move": "MOVE_DRAGONTAIL"
-        },
-        {
-            "level": 1,
-            "move": "MOVE_SWALLOW"
-        },
-        {
-            "level": 1,
-            "move": "MOVE_STOCKPILE"
-        },
-        {
-            "level": 10,
-            "move": "MOVE_KNOCKOFF"
-        },
-        {
-            "level": 15,
-            "move": "MOVE_STOMP"
-        },
-        {
-            "level": 20,
-            "move": "MOVE_STOMPINGTANTRUM"
-        },
-        {
-            "level": 25,
-            "move": "MOVE_WIDEGUARD"
-        },
-        {
-            "level": 30,
-            "move": "MOVE_CRUNCH"
-        },
-        {
-            "level": 35,
-            "move": "MOVE_BODYSLAM"
-        },
-        {
-            "level": 40,
-            "move": "MOVE_GASTROACID"
-        },
-        {
-            "level": 45,
-            "move": "MOVE_HAMMERARM"
-        },
-        {
-            "level": 50,
-            "move": "MOVE_HEAVYSLAM"
-        },
-        {
-            "level": 55,
-            "move": "MOVE_DRAGONRUSH"
-        },
-        {
-            "level": 60,
-            "move": "MOVE_BELCH"
-        },
-        {
-            "level": 65,
-            "move": "MOVE_THRASH"
-        },
-        {
-            "level": 70,
-            "move": "MOVE_GIGAIMPACT"
-        },
-        {
-            "level": 75,
-            "move": "MOVE_COREENFORCER"
-        }
-    ],
-    "tm": [
-        "MOVE_DRAGONCLAW",
-        "MOVE_TOXIC",
-        "MOVE_HIDDENPOWER",
-        "MOVE_HYPERBEAM",
-        "MOVE_PROTECT",
-        "MOVE_FRUSTRATION",
-        "MOVE_IRONTAIL",
-        "MOVE_EARTHQUAKE",
-        "MOVE_RETURN",
-        "MOVE_BRICKBREAK",
-        "MOVE_DOUBLETEAM",
-        "MOVE_SHOCKWAVE",
-        "MOVE_FLAMETHROWER",
-        "MOVE_SLUDGEBOMB",
-        "MOVE_FIREBLAST",
-        "MOVE_ROCKTOMB",
-        "MOVE_FACADE",
-        "MOVE_SECRETPOWER",
-        "MOVE_REST",
-        "MOVE_THIEF",
-        "MOVE_ENDURE",
-        "MOVE_DRAGONPULSE",
-        "MOVE_DRAINPUNCH",
-        "MOVE_SHADOWCLAW",
-        "MOVE_PAYBACK",
-        "MOVE_GIGAIMPACT",
-        "MOVE_STONEEDGE",
-        "MOVE_GYROBALL",
-        "MOVE_DARKPULSE",
-        "MOVE_ROCKSLIDE",
-        "MOVE_SLEEPTALK",
-        "MOVE_POISONJAB",
-        "MOVE_SUBSTITUTE",
-        "MOVE_DRAGONTAIL",
-        "MOVE_INCINERATE",
-        "MOVE_BULLDOZE",
-        "MOVE_POWERUPPUNCH",
-        "MOVE_SLUDGEWAVE",
-        "MOVE_BRUTALSWING",
-        "MOVE_SNARL",
-        "MOVE_SMACKDOWN",
-        "MOVE_ROUND",
-        "MOVE_NATURALGIFT",
-        "MOVE_FLING",
-        "MOVE_CUT",
-        "MOVE_STRENGTH",
-        "MOVE_ROCKCLIMB"
-    ],
-    "tutor": [
-        "MOVE_SNORE",
-        "MOVE_IRONDEFENSE",
-        "MOVE_MAGNETRISE",
-        "MOVE_IRONHEAD",
-        "MOVE_GASTROACID",
-        "MOVE_OUTRAGE",
-        "MOVE_STOMPINGTANTRUM",
-        "MOVE_DUALCHOP",
-        "MOVE_HEATWAVE",
-        "MOVE_KNOCKOFF",
-        "MOVE_LASTRESORT",
-        "MOVE_BODYSLAM",
-        "MOVE_BODYPRESS",
-        "MOVE_HEATCRASH",
-        "MOVE_HEAVYSLAM",
-        "MOVE_CRUNCH",
-        "MOVE_HIGHHORSEPOWER",
-        "MOVE_POLTERGEIST",
-        "MOVE_LASHOUT",
-        "MOVE_CORROSIVEGAS"
-    ]
+    "GUZZLORD": {
+        "blurb": "An unknown life-form called a UB. It may be constantly hungry-it is certainly always devouring something.",
+        "baseHP": 223,
+        "baseAttack": 101,
+        "baseDefense": 53,
+        "baseSpAttack": 97,
+        "baseSpDefense": 53,
+        "baseSpeed": 43,
+        "type1": "TYPE_DARK",
+        "type2": "TYPE_DRAGON",
+        "catchRate": 45,
+        "expYield": 210,
+        "evYield_HP": 3,
+        "evYield_Attack": 0,
+        "evYield_Defense": 0,
+        "evYield_SpAttack": 0,
+        "evYield_SpDefense": 0,
+        "evYield_Speed": 0,
+        "item1": "ITEM_NONE",
+        "item2": "ITEM_NONE",
+        "genderRatio": "MON_GENDERLESS",
+        "eggCycles": 120,
+        "friendship": 0,
+        "growthRate": "GROWTH_SLOW",
+        "eggGroup1": "EGG_GROUP_UNDISCOVERED",
+        "eggGroup2": "EGG_GROUP_UNDISCOVERED",
+        "ability1": "ABILITY_BEASTBOOST",
+        "ability2": "ABILITY_NONE",
+        "safariZoneFleeRate": 0,
+        "hiddenAbility": "ABILITY_NONE",
+        "noFlip": true,
+        "evolve_from": [],
+        "learnset": [
+            {
+                "level": 1,
+                "move": "MOVE_WRINGOUT"
+            },
+            {
+                "level": 1,
+                "move": "MOVE_IRONTAIL"
+            },
+            {
+                "level": 1,
+                "move": "MOVE_STEAMROLLER"
+            },
+            {
+                "level": 1,
+                "move": "MOVE_BRUTALSWING"
+            },
+            {
+                "level": 1,
+                "move": "MOVE_BITE"
+            },
+            {
+                "level": 1,
+                "move": "MOVE_DRAGONTAIL"
+            },
+            {
+                "level": 1,
+                "move": "MOVE_SWALLOW"
+            },
+            {
+                "level": 1,
+                "move": "MOVE_STOCKPILE"
+            },
+            {
+                "level": 10,
+                "move": "MOVE_KNOCKOFF"
+            },
+            {
+                "level": 15,
+                "move": "MOVE_STOMP"
+            },
+            {
+                "level": 20,
+                "move": "MOVE_STOMPINGTANTRUM"
+            },
+            {
+                "level": 25,
+                "move": "MOVE_WIDEGUARD"
+            },
+            {
+                "level": 30,
+                "move": "MOVE_CRUNCH"
+            },
+            {
+                "level": 35,
+                "move": "MOVE_BODYSLAM"
+            },
+            {
+                "level": 40,
+                "move": "MOVE_GASTROACID"
+            },
+            {
+                "level": 45,
+                "move": "MOVE_HAMMERARM"
+            },
+            {
+                "level": 50,
+                "move": "MOVE_HEAVYSLAM"
+            },
+            {
+                "level": 55,
+                "move": "MOVE_DRAGONRUSH"
+            },
+            {
+                "level": 60,
+                "move": "MOVE_BELCH"
+            },
+            {
+                "level": 65,
+                "move": "MOVE_THRASH"
+            },
+            {
+                "level": 70,
+                "move": "MOVE_GIGAIMPACT"
+            },
+            {
+                "level": 75,
+                "move": "MOVE_COREENFORCER"
+            }
+        ],
+        "tm": [
+            "MOVE_DRAGONCLAW",
+            "MOVE_TOXIC",
+            "MOVE_HIDDENPOWER",
+            "MOVE_HYPERBEAM",
+            "MOVE_PROTECT",
+            "MOVE_FRUSTRATION",
+            "MOVE_IRONTAIL",
+            "MOVE_EARTHQUAKE",
+            "MOVE_RETURN",
+            "MOVE_BRICKBREAK",
+            "MOVE_DOUBLETEAM",
+            "MOVE_SHOCKWAVE",
+            "MOVE_FLAMETHROWER",
+            "MOVE_SLUDGEBOMB",
+            "MOVE_FIREBLAST",
+            "MOVE_ROCKTOMB",
+            "MOVE_FACADE",
+            "MOVE_SECRETPOWER",
+            "MOVE_REST",
+            "MOVE_THIEF",
+            "MOVE_ENDURE",
+            "MOVE_DRAGONPULSE",
+            "MOVE_DRAINPUNCH",
+            "MOVE_SHADOWCLAW",
+            "MOVE_PAYBACK",
+            "MOVE_GIGAIMPACT",
+            "MOVE_STONEEDGE",
+            "MOVE_GYROBALL",
+            "MOVE_DARKPULSE",
+            "MOVE_ROCKSLIDE",
+            "MOVE_SLEEPTALK",
+            "MOVE_POISONJAB",
+            "MOVE_SUBSTITUTE",
+            "MOVE_DRAGONTAIL",
+            "MOVE_INCINERATE",
+            "MOVE_BULLDOZE",
+            "MOVE_POWERUPPUNCH",
+            "MOVE_SLUDGEWAVE",
+            "MOVE_BRUTALSWING",
+            "MOVE_SNARL",
+            "MOVE_SMACKDOWN",
+            "MOVE_ROUND",
+            "MOVE_NATURALGIFT",
+            "MOVE_FLING",
+            "MOVE_CUT",
+            "MOVE_STRENGTH",
+            "MOVE_ROCKCLIMB"
+        ],
+        "tutor": [
+            "MOVE_SNORE",
+            "MOVE_IRONDEFENSE",
+            "MOVE_MAGNETRISE",
+            "MOVE_IRONHEAD",
+            "MOVE_GASTROACID",
+            "MOVE_OUTRAGE",
+            "MOVE_STOMPINGTANTRUM",
+            "MOVE_DUALCHOP",
+            "MOVE_HEATWAVE",
+            "MOVE_KNOCKOFF",
+            "MOVE_LASTRESORT",
+            "MOVE_BODYSLAM",
+            "MOVE_BODYPRESS",
+            "MOVE_HEATCRASH",
+            "MOVE_HEAVYSLAM",
+            "MOVE_CRUNCH",
+            "MOVE_HIGHHORSEPOWER",
+            "MOVE_POLTERGEIST",
+            "MOVE_LASHOUT",
+            "MOVE_CORROSIVEGAS"
+        ]
+    }
 }

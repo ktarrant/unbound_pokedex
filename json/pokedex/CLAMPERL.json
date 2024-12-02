@@ -1,127 +1,106 @@
 {
-    "baseHP": 35,
-    "baseAttack": 64,
-    "baseDefense": 85,
-    "baseSpAttack": 74,
-    "baseSpDefense": 55,
-    "baseSpeed": 32,
-    "type1": "TYPE_WATER",
-    "type2": "TYPE_WATER",
-    "catchRate": 255,
-    "expYield": 142,
-    "evYield_HP": 0,
-    "evYield_Attack": 0,
-    "evYield_Defense": 1,
-    "evYield_SpAttack": 0,
-    "evYield_SpDefense": 0,
-    "evYield_Speed": 0,
-    "item1": "ITEM_PEARL",
-    "item2": "ITEM_BIG_PEARL",
-    "genderRatio": 50.0,
-    "eggCycles": 20,
-    "friendship": 50,
-    "growthRate": "GROWTH_ERRATIC",
-    "eggGroup1": "EGG_GROUP_WATER_1",
-    "eggGroup2": "EGG_GROUP_WATER_1",
-    "ability1": "ABILITY_SHELLARMOR",
-    "ability2": "ABILITY_NONE",
-    "safariZoneFleeRate": 0,
-    "hiddenAbility": "ABILITY_RATTLED",
-    "noFlip": true,
-    "egg_moves": [
-        "MOVE_REFRESH",
-        "MOVE_MUDSPORT",
-        "MOVE_BODYSLAM",
-        "MOVE_SUPERSONIC",
-        "MOVE_BARRIER",
-        "MOVE_CONFUSERAY",
-        "MOVE_AQUARING",
-        "MOVE_MUDDYWATER",
-        "MOVE_WATERPULSE",
-        "MOVE_BRINE",
-        "MOVE_ENDURE"
-    ],
-    "name": "Clamperl",
-    "evolve_from": [],
-    "location": [
-        {
-            "route": "Route 14",
-            "area": "",
-            "method": "Super Rod"
-        },
-        {
-            "route": "Route 16",
-            "area": "",
-            "method": "Super Rod"
-        },
-        {
-            "route": "Route 17",
-            "area": "",
-            "method": "Super Rod"
-        },
-        {
-            "route": "Ruins of Void",
-            "area": "",
-            "method": "Super Rod"
-        }
-    ],
-    "learnset": [
-        {
-            "level": 1,
-            "move": "MOVE_CLAMP"
-        },
-        {
-            "level": 1,
-            "move": "MOVE_WATERGUN"
-        },
-        {
-            "level": 1,
-            "move": "MOVE_WHIRLPOOL"
-        },
-        {
-            "level": 1,
-            "move": "MOVE_IRONDEFENSE"
-        },
-        {
-            "level": 50,
-            "move": "MOVE_SHELLSMASH"
-        }
-    ],
-    "tm": [
-        "MOVE_WATERPULSE",
-        "MOVE_TOXIC",
-        "MOVE_HAIL",
-        "MOVE_HIDDENPOWER",
-        "MOVE_ICEBEAM",
-        "MOVE_BLIZZARD",
-        "MOVE_PROTECT",
-        "MOVE_RAINDANCE",
-        "MOVE_FRUSTRATION",
-        "MOVE_RETURN",
-        "MOVE_DOUBLETEAM",
-        "MOVE_FACADE",
-        "MOVE_SECRETPOWER",
-        "MOVE_REST",
-        "MOVE_ATTRACT",
-        "MOVE_BRINE",
-        "MOVE_ENDURE",
-        "MOVE_SLEEPTALK",
-        "MOVE_SCALD",
-        "MOVE_SWAGGER",
-        "MOVE_SUBSTITUTE",
-        "MOVE_ROUND",
-        "MOVE_NATURALGIFT",
-        "MOVE_SURF",
-        "MOVE_DIVE",
-        "MOVE_WATERFALL"
-    ],
-    "tutor": [
-        "MOVE_SNORE",
-        "MOVE_IRONDEFENSE",
-        "MOVE_ICYWIND",
-        "MOVE_CONFIDE",
-        "MOVE_WHIRLPOOL",
-        "MOVE_BODYSLAM",
-        "MOVE_MUDDYWATER"
-    ]
+    "CLAMPERL": {
+        "baseHP": 35,
+        "baseAttack": 64,
+        "baseDefense": 85,
+        "baseSpAttack": 74,
+        "baseSpDefense": 55,
+        "baseSpeed": 32,
+        "type1": "TYPE_WATER",
+        "type2": "TYPE_WATER",
+        "catchRate": 255,
+        "expYield": 142,
+        "evYield_HP": 0,
+        "evYield_Attack": 0,
+        "evYield_Defense": 1,
+        "evYield_SpAttack": 0,
+        "evYield_SpDefense": 0,
+        "evYield_Speed": 0,
+        "item1": "ITEM_PEARL",
+        "item2": "ITEM_BIG_PEARL",
+        "genderRatio": 50.0,
+        "eggCycles": 20,
+        "friendship": 50,
+        "growthRate": "GROWTH_ERRATIC",
+        "eggGroup1": "EGG_GROUP_WATER_1",
+        "eggGroup2": "EGG_GROUP_WATER_1",
+        "ability1": "ABILITY_SHELLARMOR",
+        "ability2": "ABILITY_NONE",
+        "safariZoneFleeRate": 0,
+        "hiddenAbility": "ABILITY_RATTLED",
+        "noFlip": true,
+        "evolve_from": [],
+        "egg_moves": [
+            "MOVE_REFRESH",
+            "MOVE_MUDSPORT",
+            "MOVE_BODYSLAM",
+            "MOVE_SUPERSONIC",
+            "MOVE_BARRIER",
+            "MOVE_CONFUSERAY",
+            "MOVE_AQUARING",
+            "MOVE_MUDDYWATER",
+            "MOVE_WATERPULSE",
+            "MOVE_BRINE",
+            "MOVE_ENDURE"
+        ],
+        "learnset": [
+            {
+                "level": 1,
+                "move": "MOVE_CLAMP"
+            },
+            {
+                "level": 1,
+                "move": "MOVE_WATERGUN"
+            },
+            {
+                "level": 1,
+                "move": "MOVE_WHIRLPOOL"
+            },
+            {
+                "level": 1,
+                "move": "MOVE_IRONDEFENSE"
+            },
+            {
+                "level": 50,
+                "move": "MOVE_SHELLSMASH"
+            }
+        ],
+        "tm": [
+            "MOVE_WATERPULSE",
+            "MOVE_TOXIC",
+            "MOVE_HAIL",
+            "MOVE_HIDDENPOWER",
+            "MOVE_ICEBEAM",
+            "MOVE_BLIZZARD",
+            "MOVE_PROTECT",
+            "MOVE_RAINDANCE",
+            "MOVE_FRUSTRATION",
+            "MOVE_RETURN",
+            "MOVE_DOUBLETEAM",
+            "MOVE_FACADE",
+            "MOVE_SECRETPOWER",
+            "MOVE_REST",
+            "MOVE_ATTRACT",
+            "MOVE_BRINE",
+            "MOVE_ENDURE",
+            "MOVE_SLEEPTALK",
+            "MOVE_SCALD",
+            "MOVE_SWAGGER",
+            "MOVE_SUBSTITUTE",
+            "MOVE_ROUND",
+            "MOVE_NATURALGIFT",
+            "MOVE_SURF",
+            "MOVE_DIVE",
+            "MOVE_WATERFALL"
+        ],
+        "tutor": [
+            "MOVE_SNORE",
+            "MOVE_IRONDEFENSE",
+            "MOVE_ICYWIND",
+            "MOVE_CONFIDE",
+            "MOVE_WHIRLPOOL",
+            "MOVE_BODYSLAM",
+            "MOVE_MUDDYWATER"
+        ]
+    }
 }

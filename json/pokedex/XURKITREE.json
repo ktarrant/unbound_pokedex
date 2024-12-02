@@ -1,178 +1,167 @@
 {
-    "baseHP": 83,
-    "baseAttack": 89,
-    "baseDefense": 71,
-    "baseSpAttack": 173,
-    "baseSpDefense": 71,
-    "baseSpeed": 83,
-    "type1": "TYPE_ELECTRIC",
-    "type2": "TYPE_ELECTRIC",
-    "catchRate": 45,
-    "expYield": 210,
-    "evYield_HP": 0,
-    "evYield_Attack": 0,
-    "evYield_Defense": 0,
-    "evYield_SpAttack": 3,
-    "evYield_SpDefense": 0,
-    "evYield_Speed": 0,
-    "item1": "ITEM_NONE",
-    "item2": "ITEM_NONE",
-    "genderRatio": "MON_GENDERLESS",
-    "eggCycles": 120,
-    "friendship": 0,
-    "growthRate": "GROWTH_SLOW",
-    "eggGroup1": "EGG_GROUP_UNDISCOVERED",
-    "eggGroup2": "EGG_GROUP_UNDISCOVERED",
-    "ability1": "ABILITY_BEASTBOOST",
-    "ability2": "ABILITY_NONE",
-    "safariZoneFleeRate": 0,
-    "hiddenAbility": "ABILITY_NONE",
-    "noFlip": true,
-    "blurb": "It appeared from the Ultra Wormhole. It raided a power plant, so it energizes itself with electricity.",
-    "name": "Xurkitree",
-    "evolve_from": [],
-    "location": [
-        {
-            "route": "Route 14",
-            "area": "",
-            "method": "Good Rod"
-        },
-        {
-            "route": "Route 14",
-            "area": "",
-            "method": "Super Rod"
-        }
-    ],
-    "learnset": [
-        {
-            "level": 1,
-            "move": "MOVE_TAILGLOW"
-        },
-        {
-            "level": 1,
-            "move": "MOVE_SIGNALBEAM"
-        },
-        {
-            "level": 1,
-            "move": "MOVE_IONDELUGE"
-        },
-        {
-            "level": 1,
-            "move": "MOVE_WRAP"
-        },
-        {
-            "level": 1,
-            "move": "MOVE_THUNDERSHOCK"
-        },
-        {
-            "level": 1,
-            "move": "MOVE_CHARGE"
-        },
-        {
-            "level": 1,
-            "move": "MOVE_THUNDERWAVE"
-        },
-        {
-            "level": 15,
-            "move": "MOVE_INGRAIN"
-        },
-        {
-            "level": 20,
-            "move": "MOVE_SPARK"
-        },
-        {
-            "level": 25,
-            "move": "MOVE_SHOCKWAVE"
-        },
-        {
-            "level": 30,
-            "move": "MOVE_HYPNOSIS"
-        },
-        {
-            "level": 35,
-            "move": "MOVE_EERIEIMPULSE"
-        },
-        {
-            "level": 40,
-            "move": "MOVE_THUNDERPUNCH"
-        },
-        {
-            "level": 45,
-            "move": "MOVE_DISCHARGE"
-        },
-        {
-            "level": 50,
-            "move": "MOVE_MAGNETRISE"
-        },
-        {
-            "level": 55,
-            "move": "MOVE_THUNDERBOLT"
-        },
-        {
-            "level": 60,
-            "move": "MOVE_ELECTRICTERRAIN"
-        },
-        {
-            "level": 65,
-            "move": "MOVE_POWERWHIP"
-        },
-        {
-            "level": 70,
-            "move": "MOVE_ZAPCANNON"
-        }
-    ],
-    "tm": [
-        "MOVE_CALMMIND",
-        "MOVE_TOXIC",
-        "MOVE_HIDDENPOWER",
-        "MOVE_SUNNYDAY",
-        "MOVE_HYPERBEAM",
-        "MOVE_LIGHTSCREEN",
-        "MOVE_PROTECT",
-        "MOVE_RAINDANCE",
-        "MOVE_FRUSTRATION",
-        "MOVE_SOLARBEAM",
-        "MOVE_THUNDERBOLT",
-        "MOVE_THUNDER",
-        "MOVE_RETURN",
-        "MOVE_DOUBLETEAM",
-        "MOVE_REFLECT",
-        "MOVE_SHOCKWAVE",
-        "MOVE_FACADE",
-        "MOVE_SECRETPOWER",
-        "MOVE_REST",
-        "MOVE_ENERGYBALL",
-        "MOVE_CHARGEBEAM",
-        "MOVE_ENDURE",
-        "MOVE_GIGAIMPACT",
-        "MOVE_FLASH",
-        "MOVE_THUNDERWAVE",
-        "MOVE_SLEEPTALK",
-        "MOVE_GRASSKNOT",
-        "MOVE_SWAGGER",
-        "MOVE_SUBSTITUTE",
-        "MOVE_VOLTSWITCH",
-        "MOVE_WILDCHARGE",
-        "MOVE_DAZZLINGGLEAM",
-        "MOVE_BRUTALSWING",
-        "MOVE_ROUND",
-        "MOVE_NATURALGIFT",
-        "MOVE_FLING",
-        "MOVE_NATUREPOWER"
-    ],
-    "tutor": [
-        "MOVE_THUNDERPUNCH",
-        "MOVE_SNORE",
-        "MOVE_ELECTROWEB",
-        "MOVE_BIND",
-        "MOVE_SIGNALBEAM",
-        "MOVE_GRAVITY",
-        "MOVE_MAGNETRISE",
-        "MOVE_MAGICCOAT",
-        "MOVE_CONFIDE",
-        "MOVE_ELECTRICTERRAIN",
-        "MOVE_ELECTROBALL",
-        "MOVE_POWERWHIP",
-        "MOVE_RISINGVOLTAGE"
-    ]
+    "XURKITREE": {
+        "blurb": "It appeared from the Ultra Wormhole. It raided a power plant, so it energizes itself with electricity.",
+        "baseHP": 83,
+        "baseAttack": 89,
+        "baseDefense": 71,
+        "baseSpAttack": 173,
+        "baseSpDefense": 71,
+        "baseSpeed": 83,
+        "type1": "TYPE_ELECTRIC",
+        "type2": "TYPE_ELECTRIC",
+        "catchRate": 45,
+        "expYield": 210,
+        "evYield_HP": 0,
+        "evYield_Attack": 0,
+        "evYield_Defense": 0,
+        "evYield_SpAttack": 3,
+        "evYield_SpDefense": 0,
+        "evYield_Speed": 0,
+        "item1": "ITEM_NONE",
+        "item2": "ITEM_NONE",
+        "genderRatio": "MON_GENDERLESS",
+        "eggCycles": 120,
+        "friendship": 0,
+        "growthRate": "GROWTH_SLOW",
+        "eggGroup1": "EGG_GROUP_UNDISCOVERED",
+        "eggGroup2": "EGG_GROUP_UNDISCOVERED",
+        "ability1": "ABILITY_BEASTBOOST",
+        "ability2": "ABILITY_NONE",
+        "safariZoneFleeRate": 0,
+        "hiddenAbility": "ABILITY_NONE",
+        "noFlip": true,
+        "evolve_from": [],
+        "learnset": [
+            {
+                "level": 1,
+                "move": "MOVE_TAILGLOW"
+            },
+            {
+                "level": 1,
+                "move": "MOVE_SIGNALBEAM"
+            },
+            {
+                "level": 1,
+                "move": "MOVE_IONDELUGE"
+            },
+            {
+                "level": 1,
+                "move": "MOVE_WRAP"
+            },
+            {
+                "level": 1,
+                "move": "MOVE_THUNDERSHOCK"
+            },
+            {
+                "level": 1,
+                "move": "MOVE_CHARGE"
+            },
+            {
+                "level": 1,
+                "move": "MOVE_THUNDERWAVE"
+            },
+            {
+                "level": 15,
+                "move": "MOVE_INGRAIN"
+            },
+            {
+                "level": 20,
+                "move": "MOVE_SPARK"
+            },
+            {
+                "level": 25,
+                "move": "MOVE_SHOCKWAVE"
+            },
+            {
+                "level": 30,
+                "move": "MOVE_HYPNOSIS"
+            },
+            {
+                "level": 35,
+                "move": "MOVE_EERIEIMPULSE"
+            },
+            {
+                "level": 40,
+                "move": "MOVE_THUNDERPUNCH"
+            },
+            {
+                "level": 45,
+                "move": "MOVE_DISCHARGE"
+            },
+            {
+                "level": 50,
+                "move": "MOVE_MAGNETRISE"
+            },
+            {
+                "level": 55,
+                "move": "MOVE_THUNDERBOLT"
+            },
+            {
+                "level": 60,
+                "move": "MOVE_ELECTRICTERRAIN"
+            },
+            {
+                "level": 65,
+                "move": "MOVE_POWERWHIP"
+            },
+            {
+                "level": 70,
+                "move": "MOVE_ZAPCANNON"
+            }
+        ],
+        "tm": [
+            "MOVE_CALMMIND",
+            "MOVE_TOXIC",
+            "MOVE_HIDDENPOWER",
+            "MOVE_SUNNYDAY",
+            "MOVE_HYPERBEAM",
+            "MOVE_LIGHTSCREEN",
+            "MOVE_PROTECT",
+            "MOVE_RAINDANCE",
+            "MOVE_FRUSTRATION",
+            "MOVE_SOLARBEAM",
+            "MOVE_THUNDERBOLT",
+            "MOVE_THUNDER",
+            "MOVE_RETURN",
+            "MOVE_DOUBLETEAM",
+            "MOVE_REFLECT",
+            "MOVE_SHOCKWAVE",
+            "MOVE_FACADE",
+            "MOVE_SECRETPOWER",
+            "MOVE_REST",
+            "MOVE_ENERGYBALL",
+            "MOVE_CHARGEBEAM",
+            "MOVE_ENDURE",
+            "MOVE_GIGAIMPACT",
+            "MOVE_FLASH",
+            "MOVE_THUNDERWAVE",
+            "MOVE_SLEEPTALK",
+            "MOVE_GRASSKNOT",
+            "MOVE_SWAGGER",
+            "MOVE_SUBSTITUTE",
+            "MOVE_VOLTSWITCH",
+            "MOVE_WILDCHARGE",
+            "MOVE_DAZZLINGGLEAM",
+            "MOVE_BRUTALSWING",
+            "MOVE_ROUND",
+            "MOVE_NATURALGIFT",
+            "MOVE_FLING",
+            "MOVE_NATUREPOWER"
+        ],
+        "tutor": [
+            "MOVE_THUNDERPUNCH",
+            "MOVE_SNORE",
+            "MOVE_ELECTROWEB",
+            "MOVE_BIND",
+            "MOVE_SIGNALBEAM",
+            "MOVE_GRAVITY",
+            "MOVE_MAGNETRISE",
+            "MOVE_MAGICCOAT",
+            "MOVE_CONFIDE",
+            "MOVE_ELECTRICTERRAIN",
+            "MOVE_ELECTROBALL",
+            "MOVE_POWERWHIP",
+            "MOVE_RISINGVOLTAGE"
+        ]
+    }
 }

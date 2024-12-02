@@ -1,179 +1,168 @@
 {
-    "baseHP": 30,
-    "baseAttack": 45,
-    "baseDefense": 59,
-    "baseSpAttack": 30,
-    "baseSpDefense": 39,
-    "baseSpeed": 57,
-    "type1": "TYPE_BUG",
-    "type2": "TYPE_POISON",
-    "catchRate": 255,
-    "expYield": 68,
-    "evYield_HP": 0,
-    "evYield_Attack": 0,
-    "evYield_Defense": 1,
-    "evYield_SpAttack": 0,
-    "evYield_SpDefense": 0,
-    "evYield_Speed": 0,
-    "item1": "ITEM_PECHA_BERRY",
-    "item2": "ITEM_POISON_BARB",
-    "genderRatio": 50.0,
-    "eggCycles": 15,
-    "friendship": 50,
-    "growthRate": "GROWTH_MEDIUM_SLOW",
-    "eggGroup1": "EGG_GROUP_BUG",
-    "eggGroup2": "EGG_GROUP_BUG",
-    "ability1": "ABILITY_POISONPOINT",
-    "ability2": "ABILITY_SWARM",
-    "safariZoneFleeRate": 0,
-    "hiddenAbility": "ABILITY_SPEEDBOOST",
-    "noFlip": true,
-    "egg_moves": [
-        "MOVE_TWINEEDLE",
-        "MOVE_PINMISSILE",
-        "MOVE_TOXICSPIKES",
-        "MOVE_SPIKES",
-        "MOVE_BITE",
-        "MOVE_FURYCUTTER"
-    ],
-    "evolve_to": [
-        {
-            "method": "EVO_LEVEL",
-            "condition": "22",
-            "target": "WHIRLIPEDE",
-            "extra": "0"
-        }
-    ],
-    "blurb": "Its bite injects a potent poison, enough to paralyze large bird Pokemon that try to prey on it.",
-    "name": "Venipede",
-    "evolve_from": [],
-    "location": [
-        {
-            "route": "Route 14",
-            "area": "",
-            "method": "Good Rod"
-        },
-        {
-            "route": "Route 14",
-            "area": "",
-            "method": "Super Rod"
-        }
-    ],
-    "learnset": [
-        {
-            "level": 1,
-            "move": "MOVE_POISONSTING"
-        },
-        {
-            "level": 1,
-            "move": "MOVE_PURSUIT"
-        },
-        {
-            "level": 1,
-            "move": "MOVE_DEFENSECURL"
-        },
-        {
-            "level": 4,
-            "move": "MOVE_ROLLOUT"
-        },
-        {
-            "level": 8,
-            "move": "MOVE_PROTECT"
-        },
-        {
-            "level": 12,
-            "move": "MOVE_POISONTAIL"
-        },
-        {
-            "level": 16,
-            "move": "MOVE_SCREECH"
-        },
-        {
-            "level": 19,
-            "move": "MOVE_STEAMROLLER"
-        },
-        {
-            "level": 23,
-            "move": "MOVE_VENOSHOCK"
-        },
-        {
-            "level": 27,
-            "move": "MOVE_TAKEDOWN"
-        },
-        {
-            "level": 31,
-            "move": "MOVE_BUGBITE"
-        },
-        {
-            "level": 35,
-            "move": "MOVE_AGILITY"
-        },
-        {
-            "level": 38,
-            "move": "MOVE_POISONJAB"
-        },
-        {
-            "level": 42,
-            "move": "MOVE_TOXIC"
-        },
-        {
-            "level": 45,
-            "move": "MOVE_ROCKCLIMB"
-        },
-        {
-            "level": 49,
-            "move": "MOVE_VENOMDRENCH"
-        },
-        {
-            "level": 52,
-            "move": "MOVE_DOUBLEEDGE"
-        }
-    ],
-    "tm": [
-        "MOVE_TOXIC",
-        "MOVE_HIDDENPOWER",
-        "MOVE_SUNNYDAY",
-        "MOVE_PROTECT",
-        "MOVE_FRUSTRATION",
-        "MOVE_SOLARBEAM",
-        "MOVE_RETURN",
-        "MOVE_DOUBLETEAM",
-        "MOVE_SLUDGEBOMB",
-        "MOVE_FACADE",
-        "MOVE_SECRETPOWER",
-        "MOVE_REST",
-        "MOVE_ATTRACT",
-        "MOVE_ENDURE",
-        "MOVE_SILVERWIND",
-        "MOVE_VENOSHOCK",
-        "MOVE_PAYBACK",
-        "MOVE_GYROBALL",
-        "MOVE_SLEEPTALK",
-        "MOVE_POISONJAB",
-        "MOVE_SWAGGER",
-        "MOVE_SUBSTITUTE",
-        "MOVE_STRUGGLEBUG",
-        "MOVE_INFESTATION",
-        "MOVE_ROUND",
-        "MOVE_NATURALGIFT",
-        "MOVE_ROCKSMASH",
-        "MOVE_ROCKCLIMB"
-    ],
-    "tutor": [
-        "MOVE_SNORE",
-        "MOVE_BUGBITE",
-        "MOVE_SIGNALBEAM",
-        "MOVE_IRONDEFENSE",
-        "MOVE_ENDEAVOR",
-        "MOVE_CONFIDE",
-        "MOVE_SCREECH",
-        "MOVE_VENOMDRENCH",
-        "MOVE_SPIKES",
-        "MOVE_TOXICSPIKES",
-        "MOVE_AGILITY",
-        "MOVE_PINMISSILE",
-        "MOVE_HEX",
-        "MOVE_POLTERGEIST",
-        "MOVE_SKITTERSMACK"
-    ]
+    "VENIPEDE": {
+        "blurb": "Its bite injects a potent poison, enough to paralyze large bird Pok\\emon that try to prey on it.",
+        "baseHP": 30,
+        "baseAttack": 45,
+        "baseDefense": 59,
+        "baseSpAttack": 30,
+        "baseSpDefense": 39,
+        "baseSpeed": 57,
+        "type1": "TYPE_BUG",
+        "type2": "TYPE_POISON",
+        "catchRate": 255,
+        "expYield": 68,
+        "evYield_HP": 0,
+        "evYield_Attack": 0,
+        "evYield_Defense": 1,
+        "evYield_SpAttack": 0,
+        "evYield_SpDefense": 0,
+        "evYield_Speed": 0,
+        "item1": "ITEM_PECHA_BERRY",
+        "item2": "ITEM_POISON_BARB",
+        "genderRatio": 50.0,
+        "eggCycles": 15,
+        "friendship": 50,
+        "growthRate": "GROWTH_MEDIUM_SLOW",
+        "eggGroup1": "EGG_GROUP_BUG",
+        "eggGroup2": "EGG_GROUP_BUG",
+        "ability1": "ABILITY_POISONPOINT",
+        "ability2": "ABILITY_SWARM",
+        "safariZoneFleeRate": 0,
+        "hiddenAbility": "ABILITY_SPEEDBOOST",
+        "noFlip": true,
+        "evolve_to": [
+            {
+                "method": "EVO_LEVEL",
+                "condition": "22",
+                "target": "WHIRLIPEDE",
+                "extra": "0"
+            }
+        ],
+        "evolve_from": [],
+        "egg_moves": [
+            "MOVE_TWINEEDLE",
+            "MOVE_PINMISSILE",
+            "MOVE_TOXICSPIKES",
+            "MOVE_SPIKES",
+            "MOVE_BITE",
+            "MOVE_FURYCUTTER"
+        ],
+        "learnset": [
+            {
+                "level": 1,
+                "move": "MOVE_POISONSTING"
+            },
+            {
+                "level": 1,
+                "move": "MOVE_PURSUIT"
+            },
+            {
+                "level": 1,
+                "move": "MOVE_DEFENSECURL"
+            },
+            {
+                "level": 4,
+                "move": "MOVE_ROLLOUT"
+            },
+            {
+                "level": 8,
+                "move": "MOVE_PROTECT"
+            },
+            {
+                "level": 12,
+                "move": "MOVE_POISONTAIL"
+            },
+            {
+                "level": 16,
+                "move": "MOVE_SCREECH"
+            },
+            {
+                "level": 19,
+                "move": "MOVE_STEAMROLLER"
+            },
+            {
+                "level": 23,
+                "move": "MOVE_VENOSHOCK"
+            },
+            {
+                "level": 27,
+                "move": "MOVE_TAKEDOWN"
+            },
+            {
+                "level": 31,
+                "move": "MOVE_BUGBITE"
+            },
+            {
+                "level": 35,
+                "move": "MOVE_AGILITY"
+            },
+            {
+                "level": 38,
+                "move": "MOVE_POISONJAB"
+            },
+            {
+                "level": 42,
+                "move": "MOVE_TOXIC"
+            },
+            {
+                "level": 45,
+                "move": "MOVE_ROCKCLIMB"
+            },
+            {
+                "level": 49,
+                "move": "MOVE_VENOMDRENCH"
+            },
+            {
+                "level": 52,
+                "move": "MOVE_DOUBLEEDGE"
+            }
+        ],
+        "tm": [
+            "MOVE_TOXIC",
+            "MOVE_HIDDENPOWER",
+            "MOVE_SUNNYDAY",
+            "MOVE_PROTECT",
+            "MOVE_FRUSTRATION",
+            "MOVE_SOLARBEAM",
+            "MOVE_RETURN",
+            "MOVE_DOUBLETEAM",
+            "MOVE_SLUDGEBOMB",
+            "MOVE_FACADE",
+            "MOVE_SECRETPOWER",
+            "MOVE_REST",
+            "MOVE_ATTRACT",
+            "MOVE_ENDURE",
+            "MOVE_SILVERWIND",
+            "MOVE_VENOSHOCK",
+            "MOVE_PAYBACK",
+            "MOVE_GYROBALL",
+            "MOVE_SLEEPTALK",
+            "MOVE_POISONJAB",
+            "MOVE_SWAGGER",
+            "MOVE_SUBSTITUTE",
+            "MOVE_STRUGGLEBUG",
+            "MOVE_INFESTATION",
+            "MOVE_ROUND",
+            "MOVE_NATURALGIFT",
+            "MOVE_ROCKSMASH",
+            "MOVE_ROCKCLIMB"
+        ],
+        "tutor": [
+            "MOVE_SNORE",
+            "MOVE_BUGBITE",
+            "MOVE_SIGNALBEAM",
+            "MOVE_IRONDEFENSE",
+            "MOVE_ENDEAVOR",
+            "MOVE_CONFIDE",
+            "MOVE_SCREECH",
+            "MOVE_VENOMDRENCH",
+            "MOVE_SPIKES",
+            "MOVE_TOXICSPIKES",
+            "MOVE_AGILITY",
+            "MOVE_PINMISSILE",
+            "MOVE_HEX",
+            "MOVE_POLTERGEIST",
+            "MOVE_SKITTERSMACK"
+        ]
+    }
 }

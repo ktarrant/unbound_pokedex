@@ -1,181 +1,182 @@
 {
-    "baseHP": 82,
-    "baseAttack": 121,
-    "baseDefense": 119,
-    "baseSpAttack": 69,
-    "baseSpDefense": 59,
-    "baseSpeed": 71,
-    "type1": "TYPE_ROCK",
-    "type2": "TYPE_DRAGON",
-    "catchRate": 45,
-    "expYield": 182,
-    "evYield_HP": 0,
-    "evYield_Attack": 2,
-    "evYield_Defense": 0,
-    "evYield_SpAttack": 0,
-    "evYield_SpDefense": 0,
-    "evYield_Speed": 0,
-    "item1": "ITEM_NONE",
-    "item2": "ITEM_NONE",
-    "genderRatio": 12.5,
-    "eggCycles": 30,
-    "friendship": 50,
-    "growthRate": "GROWTH_MEDIUM_FAST",
-    "eggGroup1": "EGG_GROUP_MONSTER",
-    "eggGroup2": "EGG_GROUP_DRAGON",
-    "ability1": "ABILITY_STRONGJAW",
-    "ability2": "ABILITY_NONE",
-    "safariZoneFleeRate": 0,
-    "hiddenAbility": "ABILITY_ROCKHEAD",
-    "noFlip": true,
-    "blurb": "Nothing could stop this Pokemon 100 million years ago, so it behaved like a king.",
-    "name": "Tyrantrum",
-    "evolve_from": [
-        "TYRUNT"
-    ],
-    "learnset": [
-        {
-            "level": 1,
-            "move": "MOVE_BIDE"
-        },
-        {
-            "level": 1,
-            "move": "MOVE_STEALTHROCK"
-        },
-        {
-            "level": 1,
-            "move": "MOVE_TACKLE"
-        },
-        {
-            "level": 1,
-            "move": "MOVE_TAILWHIP"
-        },
-        {
-            "level": 1,
-            "move": "MOVE_ROAR"
-        },
-        {
-            "level": 1,
-            "move": "MOVE_ANCIENTPOWER"
-        },
-        {
-            "level": 12,
-            "move": "MOVE_CHARM"
-        },
-        {
-            "level": 16,
-            "move": "MOVE_BITE"
-        },
-        {
-            "level": 20,
-            "move": "MOVE_DRAGONTAIL"
-        },
-        {
-            "level": 24,
-            "move": "MOVE_STOMP"
-        },
-        {
-            "level": 28,
-            "move": "MOVE_ROCKSLIDE"
-        },
-        {
-            "level": 32,
-            "move": "MOVE_CRUNCH"
-        },
-        {
-            "level": 36,
-            "move": "MOVE_DRAGONCLAW"
-        },
-        {
-            "level": 42,
-            "move": "MOVE_THRASH"
-        },
-        {
-            "level": 48,
-            "move": "MOVE_EARTHQUAKE"
-        },
-        {
-            "level": 54,
-            "move": "MOVE_HORNDRILL"
-        },
-        {
-            "level": 60,
-            "move": "MOVE_GIGAIMPACT"
-        },
-        {
-            "level": 66,
-            "move": "MOVE_HEADSMASH"
-        }
-    ],
-    "tm": [
-        "MOVE_DRAGONCLAW",
-        "MOVE_ROAR",
-        "MOVE_TOXIC",
-        "MOVE_HIDDENPOWER",
-        "MOVE_SUNNYDAY",
-        "MOVE_HYPERBEAM",
-        "MOVE_PROTECT",
-        "MOVE_FRUSTRATION",
-        "MOVE_IRONTAIL",
-        "MOVE_EARTHQUAKE",
-        "MOVE_RETURN",
-        "MOVE_DIG",
-        "MOVE_BRICKBREAK",
-        "MOVE_DOUBLETEAM",
-        "MOVE_SANDSTORM",
-        "MOVE_ROCKTOMB",
-        "MOVE_AERIALACE",
-        "MOVE_FACADE",
-        "MOVE_SECRETPOWER",
-        "MOVE_REST",
-        "MOVE_ATTRACT",
-        "MOVE_HONECLAWS",
-        "MOVE_ENDURE",
-        "MOVE_DRAGONPULSE",
-        "MOVE_GIGAIMPACT",
-        "MOVE_ROCKPOLISH",
-        "MOVE_STONEEDGE",
-        "MOVE_STEALTHROCK",
-        "MOVE_DARKPULSE",
-        "MOVE_ROCKSLIDE",
-        "MOVE_SLEEPTALK",
-        "MOVE_SWAGGER",
-        "MOVE_SUBSTITUTE",
-        "MOVE_DRAGONTAIL",
-        "MOVE_BULLDOZE",
-        "MOVE_BRUTALSWING",
-        "MOVE_ROUND",
-        "MOVE_NATURALGIFT",
-        "MOVE_STRENGTH",
-        "MOVE_ROCKSMASH"
-    ],
-    "tutor": [
-        "MOVE_SNORE",
-        "MOVE_BLOCK",
-        "MOVE_IRONDEFENSE",
-        "MOVE_IRONHEAD",
-        "MOVE_ZENHEADBUTT",
-        "MOVE_OUTRAGE",
-        "MOVE_STOMPINGTANTRUM",
-        "MOVE_EARTHPOWER",
-        "MOVE_HYPERVOICE",
-        "MOVE_SUPERPOWER",
-        "MOVE_CONFIDE",
-        "MOVE_SCARYFACE",
-        "MOVE_DRAGONDANCE",
-        "MOVE_ROCKBLAST",
-        "MOVE_THUNDERFANG",
-        "MOVE_ICEFANG",
-        "MOVE_FIREFANG",
-        "MOVE_BODYSLAM",
-        "MOVE_BREAKINGSWIPE",
-        "MOVE_CRUNCH",
-        "MOVE_HIGHHORSEPOWER",
-        "MOVE_PLAYROUGH",
-        "MOVE_PSYCHICFANGS",
-        "MOVE_CLOSECOMBAT",
-        "MOVE_SCALESHOT",
-        "MOVE_METEORBEAM",
-        "MOVE_LASHOUT"
-    ]
+    "TYRANTRUM": {
+        "blurb": "Nothing could stop this Pok\\emon 100 million years ago, so it behaved like a king.",
+        "baseHP": 82,
+        "baseAttack": 121,
+        "baseDefense": 119,
+        "baseSpAttack": 69,
+        "baseSpDefense": 59,
+        "baseSpeed": 71,
+        "type1": "TYPE_ROCK",
+        "type2": "TYPE_DRAGON",
+        "catchRate": 45,
+        "expYield": 182,
+        "evYield_HP": 0,
+        "evYield_Attack": 2,
+        "evYield_Defense": 0,
+        "evYield_SpAttack": 0,
+        "evYield_SpDefense": 0,
+        "evYield_Speed": 0,
+        "item1": "ITEM_NONE",
+        "item2": "ITEM_NONE",
+        "genderRatio": 12.5,
+        "eggCycles": 30,
+        "friendship": 50,
+        "growthRate": "GROWTH_MEDIUM_FAST",
+        "eggGroup1": "EGG_GROUP_MONSTER",
+        "eggGroup2": "EGG_GROUP_DRAGON",
+        "ability1": "ABILITY_STRONGJAW",
+        "ability2": "ABILITY_NONE",
+        "safariZoneFleeRate": 0,
+        "hiddenAbility": "ABILITY_ROCKHEAD",
+        "noFlip": true,
+        "evolve_from": [
+            "TYRUNT"
+        ],
+        "learnset": [
+            {
+                "level": 1,
+                "move": "MOVE_BIDE"
+            },
+            {
+                "level": 1,
+                "move": "MOVE_STEALTHROCK"
+            },
+            {
+                "level": 1,
+                "move": "MOVE_TACKLE"
+            },
+            {
+                "level": 1,
+                "move": "MOVE_TAILWHIP"
+            },
+            {
+                "level": 1,
+                "move": "MOVE_ROAR"
+            },
+            {
+                "level": 1,
+                "move": "MOVE_ANCIENTPOWER"
+            },
+            {
+                "level": 12,
+                "move": "MOVE_CHARM"
+            },
+            {
+                "level": 16,
+                "move": "MOVE_BITE"
+            },
+            {
+                "level": 20,
+                "move": "MOVE_DRAGONTAIL"
+            },
+            {
+                "level": 24,
+                "move": "MOVE_STOMP"
+            },
+            {
+                "level": 28,
+                "move": "MOVE_ROCKSLIDE"
+            },
+            {
+                "level": 32,
+                "move": "MOVE_CRUNCH"
+            },
+            {
+                "level": 36,
+                "move": "MOVE_DRAGONCLAW"
+            },
+            {
+                "level": 42,
+                "move": "MOVE_THRASH"
+            },
+            {
+                "level": 48,
+                "move": "MOVE_EARTHQUAKE"
+            },
+            {
+                "level": 54,
+                "move": "MOVE_HORNDRILL"
+            },
+            {
+                "level": 60,
+                "move": "MOVE_GIGAIMPACT"
+            },
+            {
+                "level": 66,
+                "move": "MOVE_HEADSMASH"
+            }
+        ],
+        "tm": [
+            "MOVE_DRAGONCLAW",
+            "MOVE_ROAR",
+            "MOVE_TOXIC",
+            "MOVE_HIDDENPOWER",
+            "MOVE_SUNNYDAY",
+            "MOVE_HYPERBEAM",
+            "MOVE_PROTECT",
+            "MOVE_FRUSTRATION",
+            "MOVE_IRONTAIL",
+            "MOVE_EARTHQUAKE",
+            "MOVE_RETURN",
+            "MOVE_DIG",
+            "MOVE_BRICKBREAK",
+            "MOVE_DOUBLETEAM",
+            "MOVE_SANDSTORM",
+            "MOVE_ROCKTOMB",
+            "MOVE_AERIALACE",
+            "MOVE_FACADE",
+            "MOVE_SECRETPOWER",
+            "MOVE_REST",
+            "MOVE_ATTRACT",
+            "MOVE_HONECLAWS",
+            "MOVE_ENDURE",
+            "MOVE_DRAGONPULSE",
+            "MOVE_GIGAIMPACT",
+            "MOVE_ROCKPOLISH",
+            "MOVE_STONEEDGE",
+            "MOVE_STEALTHROCK",
+            "MOVE_DARKPULSE",
+            "MOVE_ROCKSLIDE",
+            "MOVE_SLEEPTALK",
+            "MOVE_SWAGGER",
+            "MOVE_SUBSTITUTE",
+            "MOVE_DRAGONTAIL",
+            "MOVE_BULLDOZE",
+            "MOVE_BRUTALSWING",
+            "MOVE_ROUND",
+            "MOVE_NATURALGIFT",
+            "MOVE_STRENGTH",
+            "MOVE_ROCKSMASH"
+        ],
+        "tutor": [
+            "MOVE_SNORE",
+            "MOVE_BLOCK",
+            "MOVE_IRONDEFENSE",
+            "MOVE_IRONHEAD",
+            "MOVE_ZENHEADBUTT",
+            "MOVE_OUTRAGE",
+            "MOVE_STOMPINGTANTRUM",
+            "MOVE_EARTHPOWER",
+            "MOVE_HYPERVOICE",
+            "MOVE_SUPERPOWER",
+            "MOVE_CONFIDE",
+            "MOVE_SCARYFACE",
+            "MOVE_DRAGONDANCE",
+            "MOVE_ROCKBLAST",
+            "MOVE_THUNDERFANG",
+            "MOVE_ICEFANG",
+            "MOVE_FIREFANG",
+            "MOVE_BODYSLAM",
+            "MOVE_BREAKINGSWIPE",
+            "MOVE_CRUNCH",
+            "MOVE_HIGHHORSEPOWER",
+            "MOVE_PLAYROUGH",
+            "MOVE_PSYCHICFANGS",
+            "MOVE_CLOSECOMBAT",
+            "MOVE_SCALESHOT",
+            "MOVE_METEORBEAM",
+            "MOVE_LASHOUT"
+        ]
+    }
 }

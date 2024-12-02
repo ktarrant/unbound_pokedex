@@ -1,214 +1,257 @@
 {
-    "baseHP": 80,
-    "baseAttack": 80,
-    "baseDefense": 90,
-    "baseSpAttack": 110,
-    "baseSpDefense": 130,
-    "baseSpeed": 110,
-    "type1": "TYPE_DRAGON",
-    "type2": "TYPE_PSYCHIC",
-    "catchRate": 3,
-    "expYield": 211,
-    "evYield_HP": 0,
-    "evYield_Attack": 0,
-    "evYield_Defense": 0,
-    "evYield_SpAttack": 0,
-    "evYield_SpDefense": 3,
-    "evYield_Speed": 0,
-    "item1": "ITEM_NONE",
-    "item2": "ITEM_NONE",
-    "genderRatio": 100.0,
-    "eggCycles": 120,
-    "friendship": 90,
-    "growthRate": "GROWTH_SLOW",
-    "eggGroup1": "EGG_GROUP_UNDISCOVERED",
-    "eggGroup2": "EGG_GROUP_UNDISCOVERED",
-    "ability1": "ABILITY_LEVITATE",
-    "ability2": "ABILITY_NONE",
-    "safariZoneFleeRate": 0,
-    "hiddenAbility": "ABILITY_SERENEGRACE",
-    "noFlip": true,
-    "evolve_to": [
-        {
-            "method": "EVO_MEGA",
-            "condition": "ITEM_LATIASITE",
-            "target": "LATIAS_MEGA",
-            "extra": "MEGA_VARIANT_STANDARD"
-        }
-    ],
-    "name": "Latias",
-    "evolve_from": [
-        "LATIAS_MEGA"
-    ],
-    "tm": [
-        "MOVE_DRAGONCLAW",
-        "MOVE_WATERPULSE",
-        "MOVE_CALMMIND",
-        "MOVE_ROAR",
-        "MOVE_TOXIC",
-        "MOVE_HIDDENPOWER",
-        "MOVE_SUNNYDAY",
-        "MOVE_ICEBEAM",
-        "MOVE_HYPERBEAM",
-        "MOVE_LIGHTSCREEN",
-        "MOVE_PROTECT",
-        "MOVE_RAINDANCE",
-        "MOVE_SAFEGUARD",
-        "MOVE_FRUSTRATION",
-        "MOVE_SOLARBEAM",
-        "MOVE_THUNDERBOLT",
-        "MOVE_THUNDER",
-        "MOVE_EARTHQUAKE",
-        "MOVE_RETURN",
-        "MOVE_PSYCHIC",
-        "MOVE_SHADOWBALL",
-        "MOVE_DOUBLETEAM",
-        "MOVE_REFLECT",
-        "MOVE_SHOCKWAVE",
-        "MOVE_SANDSTORM",
-        "MOVE_AERIALACE",
-        "MOVE_FACADE",
-        "MOVE_SECRETPOWER",
-        "MOVE_REST",
-        "MOVE_ATTRACT",
-        "MOVE_STEELWING",
-        "MOVE_ROOST",
-        "MOVE_ENERGYBALL",
-        "MOVE_HONECLAWS",
-        "MOVE_CHARGEBEAM",
-        "MOVE_ENDURE",
-        "MOVE_DRAGONPULSE",
-        "MOVE_SHADOWCLAW",
-        "MOVE_GIGAIMPACT",
-        "MOVE_FLASH",
-        "MOVE_THUNDERWAVE",
-        "MOVE_SLEEPTALK",
-        "MOVE_DREAMEATER",
-        "MOVE_GRASSKNOT",
-        "MOVE_SWAGGER",
-        "MOVE_SUBSTITUTE",
-        "MOVE_BULLDOZE",
-        "MOVE_PSYSHOCK",
-        "MOVE_DEFOG",
-        "MOVE_ROUND",
-        "MOVE_NATURALGIFT",
-        "MOVE_CUT",
-        "MOVE_FLY",
-        "MOVE_SURF",
-        "MOVE_DIVE",
-        "MOVE_WATERFALL"
-    ],
-    "tutor": [
-        "MOVE_SNORE",
-        "MOVE_HELPINGHAND",
-        "MOVE_COVET",
-        "MOVE_TELEKINESIS",
-        "MOVE_ROLEPLAY",
-        "MOVE_TAILWIND",
-        "MOVE_ICYWIND",
-        "MOVE_ZENHEADBUTT",
-        "MOVE_LASERFOCUS",
-        "MOVE_TRICK",
-        "MOVE_MAGICCOAT",
-        "MOVE_MAGICROOM",
-        "MOVE_OUTRAGE",
-        "MOVE_PSYCHUP",
-        "MOVE_LASTRESORT",
-        "MOVE_CONFIDE",
-        "MOVE_BATONPASS",
-        "MOVE_DRAGONDANCE",
-        "MOVE_AGILITY",
-        "MOVE_WHIRLPOOL",
-        "MOVE_BODYSLAM",
-        "MOVE_STOREDPOWER",
-        "MOVE_BREAKINGSWIPE",
-        "MOVE_AIRSLASH",
-        "MOVE_AURASPHERE",
-        "MOVE_MYSTICALFIRE",
-        "MOVE_PSYCHOCUT",
-        "MOVE_SCALESHOT",
-        "MOVE_DUALWINGBEAT"
-    ],
-    "learnset": [
-        {
-            "level": 1,
-            "move": "MOVE_STOREDPOWER"
-        },
-        {
-            "level": 1,
-            "move": "MOVE_WATERSPORT"
-        },
-        {
-            "level": 1,
-            "move": "MOVE_CHARM"
-        },
-        {
-            "level": 1,
-            "move": "MOVE_REFRESH"
-        },
-        {
-            "level": 1,
-            "move": "MOVE_PSYWAVE"
-        },
-        {
-            "level": 5,
-            "move": "MOVE_HELPINGHAND"
-        },
-        {
-            "level": 10,
-            "move": "MOVE_RECOVER"
-        },
-        {
-            "level": 15,
-            "move": "MOVE_CONFUSION"
-        },
-        {
-            "level": 20,
-            "move": "MOVE_TAILWIND"
-        },
-        {
-            "level": 25,
-            "move": "MOVE_DRAGONBREATH"
-        },
-        {
-            "level": 30,
-            "move": "MOVE_WISH"
-        },
-        {
-            "level": 35,
-            "move": "MOVE_MISTBALL"
-        },
-        {
-            "level": 40,
-            "move": "MOVE_ZENHEADBUTT"
-        },
-        {
-            "level": 45,
-            "move": "MOVE_DRAGONPULSE"
-        },
-        {
-            "level": 50,
-            "move": "MOVE_HEALPULSE"
-        },
-        {
-            "level": 55,
-            "move": "MOVE_REFLECTTYPE"
-        },
-        {
-            "level": 60,
-            "move": "MOVE_PSYCHIC"
-        },
-        {
-            "level": 65,
-            "move": "MOVE_GUARDSPLIT"
-        },
-        {
-            "level": 70,
-            "move": "MOVE_HEALINGWISH"
-        },
-        {
-            "level": 75,
-            "move": "MOVE_PSYCHOSHIFT"
-        }
-    ]
+    "LATIAS": {
+        "baseHP": 80,
+        "baseAttack": 80,
+        "baseDefense": 90,
+        "baseSpAttack": 110,
+        "baseSpDefense": 130,
+        "baseSpeed": 110,
+        "type1": "TYPE_DRAGON",
+        "type2": "TYPE_PSYCHIC",
+        "catchRate": 3,
+        "expYield": 211,
+        "evYield_HP": 0,
+        "evYield_Attack": 0,
+        "evYield_Defense": 0,
+        "evYield_SpAttack": 0,
+        "evYield_SpDefense": 3,
+        "evYield_Speed": 0,
+        "item1": "ITEM_NONE",
+        "item2": "ITEM_NONE",
+        "genderRatio": 100.0,
+        "eggCycles": 120,
+        "friendship": 90,
+        "growthRate": "GROWTH_SLOW",
+        "eggGroup1": "EGG_GROUP_UNDISCOVERED",
+        "eggGroup2": "EGG_GROUP_UNDISCOVERED",
+        "ability1": "ABILITY_LEVITATE",
+        "ability2": "ABILITY_NONE",
+        "safariZoneFleeRate": 0,
+        "hiddenAbility": "ABILITY_SERENEGRACE",
+        "noFlip": true,
+        "evolve_to": [
+            {
+                "method": "EVO_MEGA",
+                "condition": "ITEM_LATIASITE",
+                "target": "LATIAS_MEGA",
+                "extra": "MEGA_VARIANT_STANDARD"
+            }
+        ],
+        "evolve_from": [
+            "LATIAS_MEGA"
+        ],
+        "tm": [
+            "MOVE_DRAGONCLAW",
+            "MOVE_WATERPULSE",
+            "MOVE_CALMMIND",
+            "MOVE_ROAR",
+            "MOVE_TOXIC",
+            "MOVE_HIDDENPOWER",
+            "MOVE_SUNNYDAY",
+            "MOVE_ICEBEAM",
+            "MOVE_HYPERBEAM",
+            "MOVE_LIGHTSCREEN",
+            "MOVE_PROTECT",
+            "MOVE_RAINDANCE",
+            "MOVE_SAFEGUARD",
+            "MOVE_FRUSTRATION",
+            "MOVE_SOLARBEAM",
+            "MOVE_THUNDERBOLT",
+            "MOVE_THUNDER",
+            "MOVE_EARTHQUAKE",
+            "MOVE_RETURN",
+            "MOVE_PSYCHIC",
+            "MOVE_SHADOWBALL",
+            "MOVE_DOUBLETEAM",
+            "MOVE_REFLECT",
+            "MOVE_SHOCKWAVE",
+            "MOVE_SANDSTORM",
+            "MOVE_AERIALACE",
+            "MOVE_FACADE",
+            "MOVE_SECRETPOWER",
+            "MOVE_REST",
+            "MOVE_ATTRACT",
+            "MOVE_STEELWING",
+            "MOVE_ROOST",
+            "MOVE_ENERGYBALL",
+            "MOVE_HONECLAWS",
+            "MOVE_CHARGEBEAM",
+            "MOVE_ENDURE",
+            "MOVE_DRAGONPULSE",
+            "MOVE_SHADOWCLAW",
+            "MOVE_GIGAIMPACT",
+            "MOVE_FLASH",
+            "MOVE_THUNDERWAVE",
+            "MOVE_SLEEPTALK",
+            "MOVE_DREAMEATER",
+            "MOVE_GRASSKNOT",
+            "MOVE_SWAGGER",
+            "MOVE_SUBSTITUTE",
+            "MOVE_BULLDOZE",
+            "MOVE_PSYSHOCK",
+            "MOVE_DEFOG",
+            "MOVE_ROUND",
+            "MOVE_NATURALGIFT",
+            "MOVE_CUT",
+            "MOVE_FLY",
+            "MOVE_SURF",
+            "MOVE_DIVE",
+            "MOVE_WATERFALL"
+        ],
+        "tutor": [
+            "MOVE_SNORE",
+            "MOVE_HELPINGHAND",
+            "MOVE_COVET",
+            "MOVE_TELEKINESIS",
+            "MOVE_ROLEPLAY",
+            "MOVE_TAILWIND",
+            "MOVE_ICYWIND",
+            "MOVE_ZENHEADBUTT",
+            "MOVE_LASERFOCUS",
+            "MOVE_TRICK",
+            "MOVE_MAGICCOAT",
+            "MOVE_MAGICROOM",
+            "MOVE_OUTRAGE",
+            "MOVE_PSYCHUP",
+            "MOVE_LASTRESORT",
+            "MOVE_CONFIDE",
+            "MOVE_BATONPASS",
+            "MOVE_DRAGONDANCE",
+            "MOVE_AGILITY",
+            "MOVE_WHIRLPOOL",
+            "MOVE_BODYSLAM",
+            "MOVE_STOREDPOWER",
+            "MOVE_BREAKINGSWIPE",
+            "MOVE_AIRSLASH",
+            "MOVE_AURASPHERE",
+            "MOVE_MYSTICALFIRE",
+            "MOVE_PSYCHOCUT",
+            "MOVE_SCALESHOT",
+            "MOVE_DUALWINGBEAT"
+        ]
+    },
+    "LATIAS_MEGA": {
+        "baseHP": 80,
+        "baseAttack": 100,
+        "baseDefense": 120,
+        "baseSpAttack": 140,
+        "baseSpDefense": 150,
+        "baseSpeed": 110,
+        "type1": "TYPE_DRAGON",
+        "type2": "TYPE_PSYCHIC",
+        "catchRate": 3,
+        "expYield": 211,
+        "evYield_HP": 0,
+        "evYield_Attack": 0,
+        "evYield_Defense": 0,
+        "evYield_SpAttack": 0,
+        "evYield_SpDefense": 3,
+        "evYield_Speed": 0,
+        "item1": "ITEM_NONE",
+        "item2": "ITEM_NONE",
+        "genderRatio": 100.0,
+        "eggCycles": 120,
+        "friendship": 90,
+        "growthRate": "GROWTH_SLOW",
+        "eggGroup1": "EGG_GROUP_UNDISCOVERED",
+        "eggGroup2": "EGG_GROUP_UNDISCOVERED",
+        "ability1": "ABILITY_LEVITATE",
+        "ability2": "ABILITY_NONE",
+        "safariZoneFleeRate": 0,
+        "hiddenAbility": "ABILITY_NONE",
+        "noFlip": true,
+        "evolve_to": [
+            {
+                "method": "EVO_MEGA",
+                "condition": "ITEM_NONE",
+                "target": "LATIAS",
+                "extra": "MEGA_VARIANT_STANDARD"
+            }
+        ],
+        "evolve_from": [
+            "LATIAS"
+        ],
+        "learnset": [
+            {
+                "level": 1,
+                "move": "MOVE_STOREDPOWER"
+            },
+            {
+                "level": 1,
+                "move": "MOVE_WATERSPORT"
+            },
+            {
+                "level": 1,
+                "move": "MOVE_CHARM"
+            },
+            {
+                "level": 1,
+                "move": "MOVE_REFRESH"
+            },
+            {
+                "level": 1,
+                "move": "MOVE_PSYWAVE"
+            },
+            {
+                "level": 5,
+                "move": "MOVE_HELPINGHAND"
+            },
+            {
+                "level": 10,
+                "move": "MOVE_RECOVER"
+            },
+            {
+                "level": 15,
+                "move": "MOVE_CONFUSION"
+            },
+            {
+                "level": 20,
+                "move": "MOVE_TAILWIND"
+            },
+            {
+                "level": 25,
+                "move": "MOVE_DRAGONBREATH"
+            },
+            {
+                "level": 30,
+                "move": "MOVE_WISH"
+            },
+            {
+                "level": 35,
+                "move": "MOVE_MISTBALL"
+            },
+            {
+                "level": 40,
+                "move": "MOVE_ZENHEADBUTT"
+            },
+            {
+                "level": 45,
+                "move": "MOVE_DRAGONPULSE"
+            },
+            {
+                "level": 50,
+                "move": "MOVE_HEALPULSE"
+            },
+            {
+                "level": 55,
+                "move": "MOVE_REFLECTTYPE"
+            },
+            {
+                "level": 60,
+                "move": "MOVE_PSYCHIC"
+            },
+            {
+                "level": 65,
+                "move": "MOVE_GUARDSPLIT"
+            },
+            {
+                "level": 70,
+                "move": "MOVE_HEALINGWISH"
+            },
+            {
+                "level": 75,
+                "move": "MOVE_PSYCHOSHIFT"
+            }
+        ]
+    }
 }

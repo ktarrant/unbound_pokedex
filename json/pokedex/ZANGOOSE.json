@@ -1,201 +1,195 @@
 {
-    "baseHP": 73,
-    "baseAttack": 115,
-    "baseDefense": 60,
-    "baseSpAttack": 60,
-    "baseSpDefense": 60,
-    "baseSpeed": 90,
-    "type1": "TYPE_NORMAL",
-    "type2": "TYPE_NORMAL",
-    "catchRate": 90,
-    "expYield": 165,
-    "evYield_HP": 0,
-    "evYield_Attack": 2,
-    "evYield_Defense": 0,
-    "evYield_SpAttack": 0,
-    "evYield_SpDefense": 0,
-    "evYield_Speed": 0,
-    "item1": "ITEM_NONE",
-    "item2": "ITEM_QUICK_CLAW",
-    "genderRatio": 50.0,
-    "eggCycles": 20,
-    "friendship": 50,
-    "growthRate": "GROWTH_ERRATIC",
-    "eggGroup1": "EGG_GROUP_FIELD",
-    "eggGroup2": "EGG_GROUP_FIELD",
-    "ability1": "ABILITY_IMMUNITY",
-    "ability2": "ABILITY_TOXICBOOST",
-    "safariZoneFleeRate": 0,
-    "hiddenAbility": "ABILITY_TOUGHCLAWS",
-    "noFlip": true,
-    "egg_moves": [
-        "MOVE_FLAIL",
-        "MOVE_DOUBLEKICK",
-        "MOVE_RAZORWIND",
-        "MOVE_COUNTER",
-        "MOVE_CURSE",
-        "MOVE_FEINT",
-        "MOVE_METALCLAW",
-        "MOVE_DOUBLEHIT",
-        "MOVE_DISABLE",
-        "MOVE_IRONTAIL",
-        "MOVE_FINALGAMBIT",
-        "MOVE_QUICKGUARD",
-        "MOVE_BELLYDRUM"
-    ],
-    "name": "Zangoose",
-    "evolve_from": [],
-    "location": [
-        {
-            "route": "Route 17",
-            "area": "",
-            "method": "land"
-        }
-    ],
-    "learnset": [
-        {
-            "level": 1,
-            "move": "MOVE_SCRATCH"
-        },
-        {
-            "level": 1,
-            "move": "MOVE_LEER"
-        },
-        {
-            "level": 5,
-            "move": "MOVE_QUICKATTACK"
-        },
-        {
-            "level": 8,
-            "move": "MOVE_FURYCUTTER"
-        },
-        {
-            "level": 12,
-            "move": "MOVE_PURSUIT"
-        },
-        {
-            "level": 16,
-            "move": "MOVE_FURYSWIPES"
-        },
-        {
-            "level": 19,
-            "move": "MOVE_HONECLAWS"
-        },
-        {
-            "level": 22,
-            "move": "MOVE_SLASH"
-        },
-        {
-            "level": 26,
-            "move": "MOVE_REVENGE"
-        },
-        {
-            "level": 30,
-            "move": "MOVE_FALSESWIPE"
-        },
-        {
-            "level": 34,
-            "move": "MOVE_CRUSHCLAW"
-        },
-        {
-            "level": 38,
-            "move": "MOVE_EMBARGO"
-        },
-        {
-            "level": 41,
-            "move": "MOVE_NIGHTSLASH"
-        },
-        {
-            "level": 45,
-            "move": "MOVE_DETECT"
-        },
-        {
-            "level": 48,
-            "move": "MOVE_XSCISSOR"
-        },
-        {
-            "level": 52,
-            "move": "MOVE_TAUNT"
-        },
-        {
-            "level": 55,
-            "move": "MOVE_SWORDSDANCE"
-        },
-        {
-            "level": 58,
-            "move": "MOVE_CLOSECOMBAT"
-        }
-    ],
-    "tm": [
-        "MOVE_FOCUSPUNCH",
-        "MOVE_WATERPULSE",
-        "MOVE_ROAR",
-        "MOVE_TOXIC",
-        "MOVE_HIDDENPOWER",
-        "MOVE_SUNNYDAY",
-        "MOVE_TAUNT",
-        "MOVE_ICEBEAM",
-        "MOVE_BLIZZARD",
-        "MOVE_PROTECT",
-        "MOVE_RAINDANCE",
-        "MOVE_GIGADRAIN",
-        "MOVE_FRUSTRATION",
-        "MOVE_SOLARBEAM",
-        "MOVE_IRONTAIL",
-        "MOVE_THUNDERBOLT",
-        "MOVE_THUNDER",
-        "MOVE_RETURN",
-        "MOVE_DIG",
-        "MOVE_SHADOWBALL",
-        "MOVE_BRICKBREAK",
-        "MOVE_DOUBLETEAM",
-        "MOVE_SHOCKWAVE",
-        "MOVE_FLAMETHROWER",
-        "MOVE_FIREBLAST",
-        "MOVE_ROCKTOMB",
-        "MOVE_AERIALACE",
-        "MOVE_FACADE",
-        "MOVE_SECRETPOWER",
-        "MOVE_REST",
-        "MOVE_ATTRACT",
-        "MOVE_THIEF",
-        "MOVE_FOCUSBLAST",
-        "MOVE_FALSESWIPE",
-        "MOVE_HONECLAWS",
-        "MOVE_ENDURE",
-        "MOVE_SHADOWCLAW",
-        "MOVE_PAYBACK",
-        "MOVE_THUNDERWAVE",
-        "MOVE_SWORDSDANCE",
-        "MOVE_ROCKSLIDE",
-        "MOVE_XSCISSOR",
-        "MOVE_SLEEPTALK",
-        "MOVE_POISONJAB",
-        "MOVE_SWAGGER",
-        "MOVE_SUBSTITUTE",
-        "MOVE_INCINERATE",
-        "MOVE_WORKUP",
-        "MOVE_POWERUPPUNCH",
-        "MOVE_ROUND",
-        "MOVE_NATURALGIFT",
-        "MOVE_FLING",
-        "MOVE_STRENGTH",
-        "MOVE_ROCKSMASH",
-        "MOVE_ROCKCLIMB"
-    ],
-    "tutor": [
-        "MOVE_FIREPUNCH",
-        "MOVE_ICEPUNCH",
-        "MOVE_THUNDERPUNCH",
-        "MOVE_SNORE",
-        "MOVE_LOWKICK",
-        "MOVE_ENDEAVOR",
-        "MOVE_ICYWIND",
-        "MOVE_THROATCHOP",
-        "MOVE_KNOCKOFF",
-        "MOVE_LASTRESORT",
-        "MOVE_CONFIDE",
-        "MOVE_BODYSLAM",
-        "MOVE_CLOSECOMBAT"
-    ]
+    "ZANGOOSE": {
+        "baseHP": 73,
+        "baseAttack": 115,
+        "baseDefense": 60,
+        "baseSpAttack": 60,
+        "baseSpDefense": 60,
+        "baseSpeed": 90,
+        "type1": "TYPE_NORMAL",
+        "type2": "TYPE_NORMAL",
+        "catchRate": 90,
+        "expYield": 165,
+        "evYield_HP": 0,
+        "evYield_Attack": 2,
+        "evYield_Defense": 0,
+        "evYield_SpAttack": 0,
+        "evYield_SpDefense": 0,
+        "evYield_Speed": 0,
+        "item1": "ITEM_NONE",
+        "item2": "ITEM_QUICK_CLAW",
+        "genderRatio": 50.0,
+        "eggCycles": 20,
+        "friendship": 50,
+        "growthRate": "GROWTH_ERRATIC",
+        "eggGroup1": "EGG_GROUP_FIELD",
+        "eggGroup2": "EGG_GROUP_FIELD",
+        "ability1": "ABILITY_IMMUNITY",
+        "ability2": "ABILITY_TOXICBOOST",
+        "safariZoneFleeRate": 0,
+        "hiddenAbility": "ABILITY_TOUGHCLAWS",
+        "noFlip": true,
+        "evolve_from": [],
+        "egg_moves": [
+            "MOVE_FLAIL",
+            "MOVE_DOUBLEKICK",
+            "MOVE_RAZORWIND",
+            "MOVE_COUNTER",
+            "MOVE_CURSE",
+            "MOVE_FEINT",
+            "MOVE_METALCLAW",
+            "MOVE_DOUBLEHIT",
+            "MOVE_DISABLE",
+            "MOVE_IRONTAIL",
+            "MOVE_FINALGAMBIT",
+            "MOVE_QUICKGUARD",
+            "MOVE_BELLYDRUM"
+        ],
+        "learnset": [
+            {
+                "level": 1,
+                "move": "MOVE_SCRATCH"
+            },
+            {
+                "level": 1,
+                "move": "MOVE_LEER"
+            },
+            {
+                "level": 5,
+                "move": "MOVE_QUICKATTACK"
+            },
+            {
+                "level": 8,
+                "move": "MOVE_FURYCUTTER"
+            },
+            {
+                "level": 12,
+                "move": "MOVE_PURSUIT"
+            },
+            {
+                "level": 16,
+                "move": "MOVE_FURYSWIPES"
+            },
+            {
+                "level": 19,
+                "move": "MOVE_HONECLAWS"
+            },
+            {
+                "level": 22,
+                "move": "MOVE_SLASH"
+            },
+            {
+                "level": 26,
+                "move": "MOVE_REVENGE"
+            },
+            {
+                "level": 30,
+                "move": "MOVE_FALSESWIPE"
+            },
+            {
+                "level": 34,
+                "move": "MOVE_CRUSHCLAW"
+            },
+            {
+                "level": 38,
+                "move": "MOVE_EMBARGO"
+            },
+            {
+                "level": 41,
+                "move": "MOVE_NIGHTSLASH"
+            },
+            {
+                "level": 45,
+                "move": "MOVE_DETECT"
+            },
+            {
+                "level": 48,
+                "move": "MOVE_XSCISSOR"
+            },
+            {
+                "level": 52,
+                "move": "MOVE_TAUNT"
+            },
+            {
+                "level": 55,
+                "move": "MOVE_SWORDSDANCE"
+            },
+            {
+                "level": 58,
+                "move": "MOVE_CLOSECOMBAT"
+            }
+        ],
+        "tm": [
+            "MOVE_FOCUSPUNCH",
+            "MOVE_WATERPULSE",
+            "MOVE_ROAR",
+            "MOVE_TOXIC",
+            "MOVE_HIDDENPOWER",
+            "MOVE_SUNNYDAY",
+            "MOVE_TAUNT",
+            "MOVE_ICEBEAM",
+            "MOVE_BLIZZARD",
+            "MOVE_PROTECT",
+            "MOVE_RAINDANCE",
+            "MOVE_GIGADRAIN",
+            "MOVE_FRUSTRATION",
+            "MOVE_SOLARBEAM",
+            "MOVE_IRONTAIL",
+            "MOVE_THUNDERBOLT",
+            "MOVE_THUNDER",
+            "MOVE_RETURN",
+            "MOVE_DIG",
+            "MOVE_SHADOWBALL",
+            "MOVE_BRICKBREAK",
+            "MOVE_DOUBLETEAM",
+            "MOVE_SHOCKWAVE",
+            "MOVE_FLAMETHROWER",
+            "MOVE_FIREBLAST",
+            "MOVE_ROCKTOMB",
+            "MOVE_AERIALACE",
+            "MOVE_FACADE",
+            "MOVE_SECRETPOWER",
+            "MOVE_REST",
+            "MOVE_ATTRACT",
+            "MOVE_THIEF",
+            "MOVE_FOCUSBLAST",
+            "MOVE_FALSESWIPE",
+            "MOVE_HONECLAWS",
+            "MOVE_ENDURE",
+            "MOVE_SHADOWCLAW",
+            "MOVE_PAYBACK",
+            "MOVE_THUNDERWAVE",
+            "MOVE_SWORDSDANCE",
+            "MOVE_ROCKSLIDE",
+            "MOVE_XSCISSOR",
+            "MOVE_SLEEPTALK",
+            "MOVE_POISONJAB",
+            "MOVE_SWAGGER",
+            "MOVE_SUBSTITUTE",
+            "MOVE_INCINERATE",
+            "MOVE_WORKUP",
+            "MOVE_POWERUPPUNCH",
+            "MOVE_ROUND",
+            "MOVE_NATURALGIFT",
+            "MOVE_FLING",
+            "MOVE_STRENGTH",
+            "MOVE_ROCKSMASH",
+            "MOVE_ROCKCLIMB"
+        ],
+        "tutor": [
+            "MOVE_FIREPUNCH",
+            "MOVE_ICEPUNCH",
+            "MOVE_THUNDERPUNCH",
+            "MOVE_SNORE",
+            "MOVE_LOWKICK",
+            "MOVE_ENDEAVOR",
+            "MOVE_ICYWIND",
+            "MOVE_THROATCHOP",
+            "MOVE_KNOCKOFF",
+            "MOVE_LASTRESORT",
+            "MOVE_CONFIDE",
+            "MOVE_BODYSLAM",
+            "MOVE_CLOSECOMBAT"
+        ]
+    }
 }

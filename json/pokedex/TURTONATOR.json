@@ -1,190 +1,179 @@
 {
-    "baseHP": 60,
-    "baseAttack": 78,
-    "baseDefense": 135,
-    "baseSpAttack": 91,
-    "baseSpDefense": 85,
-    "baseSpeed": 36,
-    "type1": "TYPE_FIRE",
-    "type2": "TYPE_DRAGON",
-    "catchRate": 70,
-    "expYield": 168,
-    "evYield_HP": 0,
-    "evYield_Attack": 0,
-    "evYield_Defense": 2,
-    "evYield_SpAttack": 0,
-    "evYield_SpDefense": 0,
-    "evYield_Speed": 0,
-    "item1": "ITEM_NONE",
-    "item2": "ITEM_CHARCOAL",
-    "genderRatio": 50.0,
-    "eggCycles": 20,
-    "friendship": 50,
-    "growthRate": "GROWTH_MEDIUM_FAST",
-    "eggGroup1": "EGG_GROUP_MONSTER",
-    "eggGroup2": "EGG_GROUP_DRAGON",
-    "ability1": "ABILITY_SHELLARMOR",
-    "ability2": "ABILITY_NONE",
-    "safariZoneFleeRate": 0,
-    "hiddenAbility": "ABILITY_WEAKARMOR",
-    "noFlip": true,
-    "egg_moves": [
-        "MOVE_WIDEGUARD",
-        "MOVE_REVENGE",
-        "MOVE_HEADSMASH",
-        "MOVE_FIRESPIN",
-        "MOVE_RAPIDSPIN",
-        "MOVE_CURSE"
-    ],
-    "blurb": "It gushes fire and poisonous gases from its nostrils. Its dung is an explosive substance.",
-    "name": "Turtonator",
-    "evolve_from": [],
-    "location": [
-        {
-            "route": "Victory Road",
-            "area": "2F",
-            "method": "land"
-        },
-        {
-            "route": "Victory Road",
-            "area": "3F",
-            "method": "land"
-        }
-    ],
-    "learnset": [
-        {
-            "level": 1,
-            "move": "MOVE_SMOG"
-        },
-        {
-            "level": 1,
-            "move": "MOVE_TACKLE"
-        },
-        {
-            "level": 4,
-            "move": "MOVE_EMBER"
-        },
-        {
-            "level": 8,
-            "move": "MOVE_PROTECT"
-        },
-        {
-            "level": 12,
-            "move": "MOVE_ENDURE"
-        },
-        {
-            "level": 16,
-            "move": "MOVE_FLAIL"
-        },
-        {
-            "level": 20,
-            "move": "MOVE_INCINERATE"
-        },
-        {
-            "level": 24,
-            "move": "MOVE_IRONDEFENSE"
-        },
-        {
-            "level": 28,
-            "move": "MOVE_DRAGONPULSE"
-        },
-        {
-            "level": 32,
-            "move": "MOVE_BODYSLAM"
-        },
-        {
-            "level": 36,
-            "move": "MOVE_FLAMETHROWER"
-        },
-        {
-            "level": 40,
-            "move": "MOVE_SHELLTRAP"
-        },
-        {
-            "level": 44,
-            "move": "MOVE_SHELLSMASH"
-        },
-        {
-            "level": 48,
-            "move": "MOVE_SEARINGSHOT"
-        },
-        {
-            "level": 52,
-            "move": "MOVE_EXPLOSION"
-        }
-    ],
-    "tm": [
-        "MOVE_DRAGONCLAW",
-        "MOVE_ROAR",
-        "MOVE_TOXIC",
-        "MOVE_BULKUP",
-        "MOVE_HIDDENPOWER",
-        "MOVE_SUNNYDAY",
-        "MOVE_TAUNT",
-        "MOVE_HYPERBEAM",
-        "MOVE_PROTECT",
-        "MOVE_FRUSTRATION",
-        "MOVE_SOLARBEAM",
-        "MOVE_IRONTAIL",
-        "MOVE_EARTHQUAKE",
-        "MOVE_RETURN",
-        "MOVE_DOUBLETEAM",
-        "MOVE_SHOCKWAVE",
-        "MOVE_FLAMETHROWER",
-        "MOVE_FIREBLAST",
-        "MOVE_ROCKTOMB",
-        "MOVE_FACADE",
-        "MOVE_SECRETPOWER",
-        "MOVE_REST",
-        "MOVE_ATTRACT",
-        "MOVE_OVERHEAT",
-        "MOVE_FOCUSBLAST",
-        "MOVE_CHARGEBEAM",
-        "MOVE_ENDURE",
-        "MOVE_DRAGONPULSE",
-        "MOVE_WILLOWISP",
-        "MOVE_VENOSHOCK",
-        "MOVE_EXPLOSION",
-        "MOVE_PAYBACK",
-        "MOVE_GIGAIMPACT",
-        "MOVE_STONEEDGE",
-        "MOVE_FLAMECHARGE",
-        "MOVE_SLEEPTALK",
-        "MOVE_SWAGGER",
-        "MOVE_SUBSTITUTE",
-        "MOVE_FLASHCANNON",
-        "MOVE_DRAGONTAIL",
-        "MOVE_INCINERATE",
-        "MOVE_BULLDOZE",
-        "MOVE_WORKUP",
-        "MOVE_BRUTALSWING",
-        "MOVE_SMACKDOWN",
-        "MOVE_ROUND",
-        "MOVE_NATURALGIFT",
-        "MOVE_FLING",
-        "MOVE_CUT",
-        "MOVE_STRENGTH"
-    ],
-    "tutor": [
-        "MOVE_SNORE",
-        "MOVE_UPROAR",
-        "MOVE_BLOCK",
-        "MOVE_IRONDEFENSE",
-        "MOVE_IRONHEAD",
-        "MOVE_ENDEAVOR",
-        "MOVE_OUTRAGE",
-        "MOVE_STOMPINGTANTRUM",
-        "MOVE_HEATWAVE",
-        "MOVE_HYPERVOICE",
-        "MOVE_CONFIDE",
-        "MOVE_FIRESPIN",
-        "MOVE_BODYSLAM",
-        "MOVE_BODYPRESS",
-        "MOVE_HEATCRASH",
-        "MOVE_HEAVYSLAM",
-        "MOVE_SCALESHOT",
-        "MOVE_BURNINGJEALOUSY",
-        "MOVE_LASHOUT",
-        "MOVE_SCORCHINGSANDS"
-    ]
+    "TURTONATOR": {
+        "blurb": "It gushes fire and poisonous gases from its nostrils. Its dung is an explosive substance.",
+        "baseHP": 60,
+        "baseAttack": 78,
+        "baseDefense": 135,
+        "baseSpAttack": 91,
+        "baseSpDefense": 85,
+        "baseSpeed": 36,
+        "type1": "TYPE_FIRE",
+        "type2": "TYPE_DRAGON",
+        "catchRate": 70,
+        "expYield": 168,
+        "evYield_HP": 0,
+        "evYield_Attack": 0,
+        "evYield_Defense": 2,
+        "evYield_SpAttack": 0,
+        "evYield_SpDefense": 0,
+        "evYield_Speed": 0,
+        "item1": "ITEM_NONE",
+        "item2": "ITEM_CHARCOAL",
+        "genderRatio": 50.0,
+        "eggCycles": 20,
+        "friendship": 50,
+        "growthRate": "GROWTH_MEDIUM_FAST",
+        "eggGroup1": "EGG_GROUP_MONSTER",
+        "eggGroup2": "EGG_GROUP_DRAGON",
+        "ability1": "ABILITY_SHELLARMOR",
+        "ability2": "ABILITY_NONE",
+        "safariZoneFleeRate": 0,
+        "hiddenAbility": "ABILITY_WEAKARMOR",
+        "noFlip": true,
+        "evolve_from": [],
+        "egg_moves": [
+            "MOVE_WIDEGUARD",
+            "MOVE_REVENGE",
+            "MOVE_HEADSMASH",
+            "MOVE_FIRESPIN",
+            "MOVE_RAPIDSPIN",
+            "MOVE_CURSE"
+        ],
+        "learnset": [
+            {
+                "level": 1,
+                "move": "MOVE_SMOG"
+            },
+            {
+                "level": 1,
+                "move": "MOVE_TACKLE"
+            },
+            {
+                "level": 4,
+                "move": "MOVE_EMBER"
+            },
+            {
+                "level": 8,
+                "move": "MOVE_PROTECT"
+            },
+            {
+                "level": 12,
+                "move": "MOVE_ENDURE"
+            },
+            {
+                "level": 16,
+                "move": "MOVE_FLAIL"
+            },
+            {
+                "level": 20,
+                "move": "MOVE_INCINERATE"
+            },
+            {
+                "level": 24,
+                "move": "MOVE_IRONDEFENSE"
+            },
+            {
+                "level": 28,
+                "move": "MOVE_DRAGONPULSE"
+            },
+            {
+                "level": 32,
+                "move": "MOVE_BODYSLAM"
+            },
+            {
+                "level": 36,
+                "move": "MOVE_FLAMETHROWER"
+            },
+            {
+                "level": 40,
+                "move": "MOVE_SHELLTRAP"
+            },
+            {
+                "level": 44,
+                "move": "MOVE_SHELLSMASH"
+            },
+            {
+                "level": 48,
+                "move": "MOVE_SEARINGSHOT"
+            },
+            {
+                "level": 52,
+                "move": "MOVE_EXPLOSION"
+            }
+        ],
+        "tm": [
+            "MOVE_DRAGONCLAW",
+            "MOVE_ROAR",
+            "MOVE_TOXIC",
+            "MOVE_BULKUP",
+            "MOVE_HIDDENPOWER",
+            "MOVE_SUNNYDAY",
+            "MOVE_TAUNT",
+            "MOVE_HYPERBEAM",
+            "MOVE_PROTECT",
+            "MOVE_FRUSTRATION",
+            "MOVE_SOLARBEAM",
+            "MOVE_IRONTAIL",
+            "MOVE_EARTHQUAKE",
+            "MOVE_RETURN",
+            "MOVE_DOUBLETEAM",
+            "MOVE_SHOCKWAVE",
+            "MOVE_FLAMETHROWER",
+            "MOVE_FIREBLAST",
+            "MOVE_ROCKTOMB",
+            "MOVE_FACADE",
+            "MOVE_SECRETPOWER",
+            "MOVE_REST",
+            "MOVE_ATTRACT",
+            "MOVE_OVERHEAT",
+            "MOVE_FOCUSBLAST",
+            "MOVE_CHARGEBEAM",
+            "MOVE_ENDURE",
+            "MOVE_DRAGONPULSE",
+            "MOVE_WILLOWISP",
+            "MOVE_VENOSHOCK",
+            "MOVE_EXPLOSION",
+            "MOVE_PAYBACK",
+            "MOVE_GIGAIMPACT",
+            "MOVE_STONEEDGE",
+            "MOVE_FLAMECHARGE",
+            "MOVE_SLEEPTALK",
+            "MOVE_SWAGGER",
+            "MOVE_SUBSTITUTE",
+            "MOVE_FLASHCANNON",
+            "MOVE_DRAGONTAIL",
+            "MOVE_INCINERATE",
+            "MOVE_BULLDOZE",
+            "MOVE_WORKUP",
+            "MOVE_BRUTALSWING",
+            "MOVE_SMACKDOWN",
+            "MOVE_ROUND",
+            "MOVE_NATURALGIFT",
+            "MOVE_FLING",
+            "MOVE_CUT",
+            "MOVE_STRENGTH"
+        ],
+        "tutor": [
+            "MOVE_SNORE",
+            "MOVE_UPROAR",
+            "MOVE_BLOCK",
+            "MOVE_IRONDEFENSE",
+            "MOVE_IRONHEAD",
+            "MOVE_ENDEAVOR",
+            "MOVE_OUTRAGE",
+            "MOVE_STOMPINGTANTRUM",
+            "MOVE_HEATWAVE",
+            "MOVE_HYPERVOICE",
+            "MOVE_CONFIDE",
+            "MOVE_FIRESPIN",
+            "MOVE_BODYSLAM",
+            "MOVE_BODYPRESS",
+            "MOVE_HEATCRASH",
+            "MOVE_HEAVYSLAM",
+            "MOVE_SCALESHOT",
+            "MOVE_BURNINGJEALOUSY",
+            "MOVE_LASHOUT",
+            "MOVE_SCORCHINGSANDS"
+        ]
+    }
 }

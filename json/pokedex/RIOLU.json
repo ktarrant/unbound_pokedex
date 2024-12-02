@@ -1,205 +1,199 @@
 {
-    "baseHP": 40,
-    "baseAttack": 70,
-    "baseDefense": 40,
-    "baseSpAttack": 35,
-    "baseSpDefense": 40,
-    "baseSpeed": 60,
-    "type1": "TYPE_FIGHTING",
-    "type2": "TYPE_FIGHTING",
-    "catchRate": 75,
-    "expYield": 72,
-    "evYield_HP": 0,
-    "evYield_Attack": 1,
-    "evYield_Defense": 0,
-    "evYield_SpAttack": 0,
-    "evYield_SpDefense": 0,
-    "evYield_Speed": 0,
-    "item1": "ITEM_NONE",
-    "item2": "ITEM_NONE",
-    "genderRatio": 12.5,
-    "eggCycles": 25,
-    "friendship": 50,
-    "growthRate": "GROWTH_MEDIUM_SLOW",
-    "eggGroup1": "EGG_GROUP_UNDISCOVERED",
-    "eggGroup2": "EGG_GROUP_UNDISCOVERED",
-    "ability1": "ABILITY_STEADFAST",
-    "ability2": "ABILITY_INNERFOCUS",
-    "safariZoneFleeRate": 0,
-    "hiddenAbility": "ABILITY_PRANKSTER",
-    "noFlip": true,
-    "egg_moves": [
-        "MOVE_CROSSCHOP",
-        "MOVE_DETECT",
-        "MOVE_BITE",
-        "MOVE_MINDREADER",
-        "MOVE_SKYUPPERCUT",
-        "MOVE_HIGHJUMPKICK",
-        "MOVE_AGILITY",
-        "MOVE_VACUUMWAVE",
-        "MOVE_CRUNCH",
-        "MOVE_LOWKICK",
-        "MOVE_IRONDEFENSE",
-        "MOVE_BLAZEKICK",
-        "MOVE_BULLETPUNCH",
-        "MOVE_MACHPUNCH",
-        "MOVE_FOLLOWME",
-        "MOVE_CIRCLETHROW",
-        "MOVE_METEORMASH",
-        "MOVE_HOWL"
-    ],
-    "evolve_to": [
-        {
-            "method": "EVO_FRIENDSHIP_DAY",
-            "condition": "0",
-            "target": "LUCARIO",
-            "extra": "0"
-        }
-    ],
-    "blurb": "The aura that emanates from its body intensifies to alert others if it is afraid or sad.",
-    "name": "Riolu",
-    "evolve_from": [],
-    "location": [
-        {
-            "route": "Route 2",
-            "area": "",
-            "method": "land"
-        }
-    ],
-    "learnset": [
-        {
-            "level": 1,
-            "move": "MOVE_FORESIGHT"
-        },
-        {
-            "level": 1,
-            "move": "MOVE_QUICKATTACK"
-        },
-        {
-            "level": 4,
-            "move": "MOVE_FEINT"
-        },
-        {
-            "level": 8,
-            "move": "MOVE_METALCLAW"
-        },
-        {
-            "level": 12,
-            "move": "MOVE_COUNTER"
-        },
-        {
-            "level": 16,
-            "move": "MOVE_WORKUP"
-        },
-        {
-            "level": 20,
-            "move": "MOVE_LOWKICK"
-        },
-        {
-            "level": 24,
-            "move": "MOVE_NASTYPLOT"
-        },
-        {
-            "level": 28,
-            "move": "MOVE_SCREECH"
-        },
-        {
-            "level": 32,
-            "move": "MOVE_QUICKGUARD"
-        },
-        {
-            "level": 36,
-            "move": "MOVE_FORCEPALM"
-        },
-        {
-            "level": 40,
-            "move": "MOVE_SWORDSDANCE"
-        },
-        {
-            "level": 44,
-            "move": "MOVE_HELPINGHAND"
-        },
-        {
-            "level": 48,
-            "move": "MOVE_COPYCAT"
-        },
-        {
-            "level": 52,
-            "move": "MOVE_FINALGAMBIT"
-        },
-        {
-            "level": 56,
-            "move": "MOVE_REVERSAL"
-        },
-        {
-            "level": 60,
-            "move": "MOVE_CLOSECOMBAT"
-        }
-    ],
-    "tm": [
-        "MOVE_FOCUSPUNCH",
-        "MOVE_ROAR",
-        "MOVE_TOXIC",
-        "MOVE_BULKUP",
-        "MOVE_HIDDENPOWER",
-        "MOVE_SUNNYDAY",
-        "MOVE_PROTECT",
-        "MOVE_RAINDANCE",
-        "MOVE_FRUSTRATION",
-        "MOVE_IRONTAIL",
-        "MOVE_EARTHQUAKE",
-        "MOVE_RETURN",
-        "MOVE_DIG",
-        "MOVE_BRICKBREAK",
-        "MOVE_DOUBLETEAM",
-        "MOVE_ROCKTOMB",
-        "MOVE_FACADE",
-        "MOVE_SECRETPOWER",
-        "MOVE_REST",
-        "MOVE_ATTRACT",
-        "MOVE_FOCUSBLAST",
-        "MOVE_ENDURE",
-        "MOVE_DRAINPUNCH",
-        "MOVE_SHADOWCLAW",
-        "MOVE_PAYBACK",
-        "MOVE_SWORDSDANCE",
-        "MOVE_LOWSWEEP",
-        "MOVE_ROCKSLIDE",
-        "MOVE_SLEEPTALK",
-        "MOVE_POISONJAB",
-        "MOVE_SWAGGER",
-        "MOVE_SUBSTITUTE",
-        "MOVE_BULLDOZE",
-        "MOVE_WORKUP",
-        "MOVE_POWERUPPUNCH",
-        "MOVE_ROUND",
-        "MOVE_NATURALGIFT",
-        "MOVE_FLING",
-        "MOVE_STRENGTH",
-        "MOVE_ROCKSMASH"
-    ],
-    "tutor": [
-        "MOVE_ICEPUNCH",
-        "MOVE_THUNDERPUNCH",
-        "MOVE_SNORE",
-        "MOVE_LOWKICK",
-        "MOVE_HELPINGHAND",
-        "MOVE_IRONDEFENSE",
-        "MOVE_MAGNETRISE",
-        "MOVE_ROLEPLAY",
-        "MOVE_ZENHEADBUTT",
-        "MOVE_LASERFOCUS",
-        "MOVE_DUALCHOP",
-        "MOVE_VACUUMWAVE",
-        "MOVE_CONFIDE",
-        "MOVE_FOCUSENERGY",
-        "MOVE_SCREECH",
-        "MOVE_AGILITY",
-        "MOVE_NASTYPLOT",
-        "MOVE_REVERSAL",
-        "MOVE_BLAZEKICK",
-        "MOVE_CRUNCH",
-        "MOVE_CLOSECOMBAT",
-        "MOVE_COACHING"
-    ]
+    "RIOLU": {
+        "blurb": "The aura that emanates from its body intensifies to alert others if it is afraid or sad.",
+        "baseHP": 40,
+        "baseAttack": 70,
+        "baseDefense": 40,
+        "baseSpAttack": 35,
+        "baseSpDefense": 40,
+        "baseSpeed": 60,
+        "type1": "TYPE_FIGHTING",
+        "type2": "TYPE_FIGHTING",
+        "catchRate": 75,
+        "expYield": 72,
+        "evYield_HP": 0,
+        "evYield_Attack": 1,
+        "evYield_Defense": 0,
+        "evYield_SpAttack": 0,
+        "evYield_SpDefense": 0,
+        "evYield_Speed": 0,
+        "item1": "ITEM_NONE",
+        "item2": "ITEM_NONE",
+        "genderRatio": 12.5,
+        "eggCycles": 25,
+        "friendship": 50,
+        "growthRate": "GROWTH_MEDIUM_SLOW",
+        "eggGroup1": "EGG_GROUP_UNDISCOVERED",
+        "eggGroup2": "EGG_GROUP_UNDISCOVERED",
+        "ability1": "ABILITY_STEADFAST",
+        "ability2": "ABILITY_INNERFOCUS",
+        "safariZoneFleeRate": 0,
+        "hiddenAbility": "ABILITY_PRANKSTER",
+        "noFlip": true,
+        "evolve_to": [
+            {
+                "method": "EVO_FRIENDSHIP_DAY",
+                "condition": "0",
+                "target": "LUCARIO",
+                "extra": "0"
+            }
+        ],
+        "evolve_from": [],
+        "egg_moves": [
+            "MOVE_CROSSCHOP",
+            "MOVE_DETECT",
+            "MOVE_BITE",
+            "MOVE_MINDREADER",
+            "MOVE_SKYUPPERCUT",
+            "MOVE_HIGHJUMPKICK",
+            "MOVE_AGILITY",
+            "MOVE_VACUUMWAVE",
+            "MOVE_CRUNCH",
+            "MOVE_LOWKICK",
+            "MOVE_IRONDEFENSE",
+            "MOVE_BLAZEKICK",
+            "MOVE_BULLETPUNCH",
+            "MOVE_MACHPUNCH",
+            "MOVE_FOLLOWME",
+            "MOVE_CIRCLETHROW",
+            "MOVE_METEORMASH",
+            "MOVE_HOWL"
+        ],
+        "learnset": [
+            {
+                "level": 1,
+                "move": "MOVE_FORESIGHT"
+            },
+            {
+                "level": 1,
+                "move": "MOVE_QUICKATTACK"
+            },
+            {
+                "level": 4,
+                "move": "MOVE_FEINT"
+            },
+            {
+                "level": 8,
+                "move": "MOVE_METALCLAW"
+            },
+            {
+                "level": 12,
+                "move": "MOVE_COUNTER"
+            },
+            {
+                "level": 16,
+                "move": "MOVE_WORKUP"
+            },
+            {
+                "level": 20,
+                "move": "MOVE_LOWKICK"
+            },
+            {
+                "level": 24,
+                "move": "MOVE_NASTYPLOT"
+            },
+            {
+                "level": 28,
+                "move": "MOVE_SCREECH"
+            },
+            {
+                "level": 32,
+                "move": "MOVE_QUICKGUARD"
+            },
+            {
+                "level": 36,
+                "move": "MOVE_FORCEPALM"
+            },
+            {
+                "level": 40,
+                "move": "MOVE_SWORDSDANCE"
+            },
+            {
+                "level": 44,
+                "move": "MOVE_HELPINGHAND"
+            },
+            {
+                "level": 48,
+                "move": "MOVE_COPYCAT"
+            },
+            {
+                "level": 52,
+                "move": "MOVE_FINALGAMBIT"
+            },
+            {
+                "level": 56,
+                "move": "MOVE_REVERSAL"
+            },
+            {
+                "level": 60,
+                "move": "MOVE_CLOSECOMBAT"
+            }
+        ],
+        "tm": [
+            "MOVE_FOCUSPUNCH",
+            "MOVE_ROAR",
+            "MOVE_TOXIC",
+            "MOVE_BULKUP",
+            "MOVE_HIDDENPOWER",
+            "MOVE_SUNNYDAY",
+            "MOVE_PROTECT",
+            "MOVE_RAINDANCE",
+            "MOVE_FRUSTRATION",
+            "MOVE_IRONTAIL",
+            "MOVE_EARTHQUAKE",
+            "MOVE_RETURN",
+            "MOVE_DIG",
+            "MOVE_BRICKBREAK",
+            "MOVE_DOUBLETEAM",
+            "MOVE_ROCKTOMB",
+            "MOVE_FACADE",
+            "MOVE_SECRETPOWER",
+            "MOVE_REST",
+            "MOVE_ATTRACT",
+            "MOVE_FOCUSBLAST",
+            "MOVE_ENDURE",
+            "MOVE_DRAINPUNCH",
+            "MOVE_SHADOWCLAW",
+            "MOVE_PAYBACK",
+            "MOVE_SWORDSDANCE",
+            "MOVE_LOWSWEEP",
+            "MOVE_ROCKSLIDE",
+            "MOVE_SLEEPTALK",
+            "MOVE_POISONJAB",
+            "MOVE_SWAGGER",
+            "MOVE_SUBSTITUTE",
+            "MOVE_BULLDOZE",
+            "MOVE_WORKUP",
+            "MOVE_POWERUPPUNCH",
+            "MOVE_ROUND",
+            "MOVE_NATURALGIFT",
+            "MOVE_FLING",
+            "MOVE_STRENGTH",
+            "MOVE_ROCKSMASH"
+        ],
+        "tutor": [
+            "MOVE_ICEPUNCH",
+            "MOVE_THUNDERPUNCH",
+            "MOVE_SNORE",
+            "MOVE_LOWKICK",
+            "MOVE_HELPINGHAND",
+            "MOVE_IRONDEFENSE",
+            "MOVE_MAGNETRISE",
+            "MOVE_ROLEPLAY",
+            "MOVE_ZENHEADBUTT",
+            "MOVE_LASERFOCUS",
+            "MOVE_DUALCHOP",
+            "MOVE_VACUUMWAVE",
+            "MOVE_CONFIDE",
+            "MOVE_FOCUSENERGY",
+            "MOVE_SCREECH",
+            "MOVE_AGILITY",
+            "MOVE_NASTYPLOT",
+            "MOVE_REVERSAL",
+            "MOVE_BLAZEKICK",
+            "MOVE_CRUNCH",
+            "MOVE_CLOSECOMBAT",
+            "MOVE_COACHING"
+        ]
+    }
 }

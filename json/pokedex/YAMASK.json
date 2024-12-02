@@ -1,175 +1,342 @@
 {
-    "baseHP": 38,
-    "baseAttack": 30,
-    "baseDefense": 85,
-    "baseSpAttack": 55,
-    "baseSpDefense": 65,
-    "baseSpeed": 30,
-    "type1": "TYPE_GHOST",
-    "type2": "TYPE_GHOST",
-    "catchRate": 190,
-    "expYield": 61,
-    "evYield_HP": 0,
-    "evYield_Attack": 0,
-    "evYield_Defense": 1,
-    "evYield_SpAttack": 0,
-    "evYield_SpDefense": 0,
-    "evYield_Speed": 0,
-    "item1": "ITEM_NONE",
-    "item2": "ITEM_SPELL_TAG",
-    "genderRatio": 50.0,
-    "eggCycles": 25,
-    "friendship": 50,
-    "growthRate": "GROWTH_MEDIUM_FAST",
-    "eggGroup1": "EGG_GROUP_AMORPHOUS",
-    "eggGroup2": "EGG_GROUP_MINERAL",
-    "ability1": "ABILITY_MUMMY",
-    "ability2": "ABILITY_NONE",
-    "safariZoneFleeRate": 0,
-    "hiddenAbility": "ABILITY_NONE",
-    "noFlip": true,
-    "egg_moves": [
-        "MOVE_MEMENTO",
-        "MOVE_FAKETEARS",
-        "MOVE_NASTYPLOT",
-        "MOVE_ENDURE",
-        "MOVE_HEALBLOCK",
-        "MOVE_IMPRISON",
-        "MOVE_NIGHTMARE",
-        "MOVE_TOXICSPIKES",
-        "MOVE_OMINOUSWIND"
-    ],
-    "evolve_to": [
-        {
-            "method": "EVO_LEVEL",
-            "condition": "34",
-            "target": "COFAGRIGUS",
-            "extra": "0"
-        }
-    ],
-    "blurb": "Each of them carries a mask that used to be its face when it was human.",
-    "name": "Yamask",
-    "evolve_from": [],
-    "learnset": [
-        {
-            "level": 1,
-            "move": "MOVE_ASTONISH"
-        },
-        {
-            "level": 1,
-            "move": "MOVE_PROTECT"
-        },
-        {
-            "level": 4,
-            "move": "MOVE_HAZE"
-        },
-        {
-            "level": 8,
-            "move": "MOVE_NIGHTSHADE"
-        },
-        {
-            "level": 12,
-            "move": "MOVE_DISABLE"
-        },
-        {
-            "level": 16,
-            "move": "MOVE_WILLOWISP"
-        },
-        {
-            "level": 20,
-            "move": "MOVE_CRAFTYSHIELD"
-        },
-        {
-            "level": 24,
-            "move": "MOVE_HEX"
-        },
-        {
-            "level": 28,
-            "move": "MOVE_MEANLOOK"
-        },
-        {
-            "level": 32,
-            "move": "MOVE_GRUDGE"
-        },
-        {
-            "level": 36,
-            "move": "MOVE_CURSE"
-        },
-        {
-            "level": 40,
-            "move": "MOVE_SHADOWBALL"
-        },
-        {
-            "level": 44,
-            "move": "MOVE_DARKPULSE"
-        },
-        {
-            "level": 48,
-            "move": "MOVE_POWERSPLIT"
-        },
-        {
-            "level": 48,
-            "move": "MOVE_GUARDSPLIT"
-        },
-        {
-            "level": 52,
-            "move": "MOVE_DESTINYBOND"
-        }
-    ],
-    "tm": [
-        "MOVE_CALMMIND",
-        "MOVE_TOXIC",
-        "MOVE_HIDDENPOWER",
-        "MOVE_PROTECT",
-        "MOVE_RAINDANCE",
-        "MOVE_SAFEGUARD",
-        "MOVE_FRUSTRATION",
-        "MOVE_RETURN",
-        "MOVE_PSYCHIC",
-        "MOVE_SHADOWBALL",
-        "MOVE_DOUBLETEAM",
-        "MOVE_SHOCKWAVE",
-        "MOVE_FACADE",
-        "MOVE_SECRETPOWER",
-        "MOVE_REST",
-        "MOVE_ATTRACT",
-        "MOVE_THIEF",
-        "MOVE_SKILLSWAP",
-        "MOVE_ENERGYBALL",
-        "MOVE_ENDURE",
-        "MOVE_WILLOWISP",
-        "MOVE_PAYBACK",
-        "MOVE_FLASH",
-        "MOVE_DARKPULSE",
-        "MOVE_SLEEPTALK",
-        "MOVE_DREAMEATER",
-        "MOVE_SWAGGER",
-        "MOVE_SUBSTITUTE",
-        "MOVE_INFESTATION",
-        "MOVE_ROUND",
-        "MOVE_NATURALGIFT",
-        "MOVE_TRICKROOM"
-    ],
-    "tutor": [
-        "MOVE_SNORE",
-        "MOVE_BLOCK",
-        "MOVE_SNATCH",
-        "MOVE_SPITE",
-        "MOVE_AFTERYOU",
-        "MOVE_IRONDEFENSE",
-        "MOVE_TELEKINESIS",
-        "MOVE_ROLEPLAY",
-        "MOVE_PAINSPLIT",
-        "MOVE_ZENHEADBUTT",
-        "MOVE_TRICK",
-        "MOVE_MAGICCOAT",
-        "MOVE_WONDERROOM",
-        "MOVE_KNOCKOFF",
-        "MOVE_PSYCHUP",
-        "MOVE_CONFIDE",
-        "MOVE_FAKETEARS",
-        "MOVE_TOXICSPIKES",
-        "MOVE_NASTYPLOT",
-        "MOVE_HEX"
-    ]
+    "YAMASK": {
+        "blurb": "Each of them carries a mask that used to be its face when it was human.",
+        "baseHP": 38,
+        "baseAttack": 30,
+        "baseDefense": 85,
+        "baseSpAttack": 55,
+        "baseSpDefense": 65,
+        "baseSpeed": 30,
+        "type1": "TYPE_GHOST",
+        "type2": "TYPE_GHOST",
+        "catchRate": 190,
+        "expYield": 61,
+        "evYield_HP": 0,
+        "evYield_Attack": 0,
+        "evYield_Defense": 1,
+        "evYield_SpAttack": 0,
+        "evYield_SpDefense": 0,
+        "evYield_Speed": 0,
+        "item1": "ITEM_NONE",
+        "item2": "ITEM_SPELL_TAG",
+        "genderRatio": 50.0,
+        "eggCycles": 25,
+        "friendship": 50,
+        "growthRate": "GROWTH_MEDIUM_FAST",
+        "eggGroup1": "EGG_GROUP_AMORPHOUS",
+        "eggGroup2": "EGG_GROUP_MINERAL",
+        "ability1": "ABILITY_MUMMY",
+        "ability2": "ABILITY_NONE",
+        "safariZoneFleeRate": 0,
+        "hiddenAbility": "ABILITY_NONE",
+        "noFlip": true,
+        "evolve_to": [
+            {
+                "method": "EVO_LEVEL",
+                "condition": "34",
+                "target": "COFAGRIGUS",
+                "extra": "0"
+            }
+        ],
+        "evolve_from": [],
+        "egg_moves": [
+            "MOVE_MEMENTO",
+            "MOVE_FAKETEARS",
+            "MOVE_NASTYPLOT",
+            "MOVE_ENDURE",
+            "MOVE_HEALBLOCK",
+            "MOVE_IMPRISON",
+            "MOVE_NIGHTMARE",
+            "MOVE_TOXICSPIKES",
+            "MOVE_OMINOUSWIND"
+        ],
+        "learnset": [
+            {
+                "level": 1,
+                "move": "MOVE_ASTONISH"
+            },
+            {
+                "level": 1,
+                "move": "MOVE_PROTECT"
+            },
+            {
+                "level": 4,
+                "move": "MOVE_HAZE"
+            },
+            {
+                "level": 8,
+                "move": "MOVE_NIGHTSHADE"
+            },
+            {
+                "level": 12,
+                "move": "MOVE_DISABLE"
+            },
+            {
+                "level": 16,
+                "move": "MOVE_WILLOWISP"
+            },
+            {
+                "level": 20,
+                "move": "MOVE_CRAFTYSHIELD"
+            },
+            {
+                "level": 24,
+                "move": "MOVE_HEX"
+            },
+            {
+                "level": 28,
+                "move": "MOVE_MEANLOOK"
+            },
+            {
+                "level": 32,
+                "move": "MOVE_GRUDGE"
+            },
+            {
+                "level": 36,
+                "move": "MOVE_CURSE"
+            },
+            {
+                "level": 40,
+                "move": "MOVE_SHADOWBALL"
+            },
+            {
+                "level": 44,
+                "move": "MOVE_DARKPULSE"
+            },
+            {
+                "level": 48,
+                "move": "MOVE_POWERSPLIT"
+            },
+            {
+                "level": 48,
+                "move": "MOVE_GUARDSPLIT"
+            },
+            {
+                "level": 52,
+                "move": "MOVE_DESTINYBOND"
+            }
+        ],
+        "tm": [
+            "MOVE_CALMMIND",
+            "MOVE_TOXIC",
+            "MOVE_HIDDENPOWER",
+            "MOVE_PROTECT",
+            "MOVE_RAINDANCE",
+            "MOVE_SAFEGUARD",
+            "MOVE_FRUSTRATION",
+            "MOVE_RETURN",
+            "MOVE_PSYCHIC",
+            "MOVE_SHADOWBALL",
+            "MOVE_DOUBLETEAM",
+            "MOVE_SHOCKWAVE",
+            "MOVE_FACADE",
+            "MOVE_SECRETPOWER",
+            "MOVE_REST",
+            "MOVE_ATTRACT",
+            "MOVE_THIEF",
+            "MOVE_SKILLSWAP",
+            "MOVE_ENERGYBALL",
+            "MOVE_ENDURE",
+            "MOVE_WILLOWISP",
+            "MOVE_PAYBACK",
+            "MOVE_FLASH",
+            "MOVE_DARKPULSE",
+            "MOVE_SLEEPTALK",
+            "MOVE_DREAMEATER",
+            "MOVE_SWAGGER",
+            "MOVE_SUBSTITUTE",
+            "MOVE_INFESTATION",
+            "MOVE_ROUND",
+            "MOVE_NATURALGIFT",
+            "MOVE_TRICKROOM"
+        ],
+        "tutor": [
+            "MOVE_SNORE",
+            "MOVE_BLOCK",
+            "MOVE_SNATCH",
+            "MOVE_SPITE",
+            "MOVE_AFTERYOU",
+            "MOVE_IRONDEFENSE",
+            "MOVE_TELEKINESIS",
+            "MOVE_ROLEPLAY",
+            "MOVE_PAINSPLIT",
+            "MOVE_ZENHEADBUTT",
+            "MOVE_TRICK",
+            "MOVE_MAGICCOAT",
+            "MOVE_WONDERROOM",
+            "MOVE_KNOCKOFF",
+            "MOVE_PSYCHUP",
+            "MOVE_CONFIDE",
+            "MOVE_FAKETEARS",
+            "MOVE_TOXICSPIKES",
+            "MOVE_NASTYPLOT",
+            "MOVE_HEX"
+        ]
+    },
+    "YAMASK_G": {
+        "blurb": "It's said that this Pok\\emon was formed when an ancient clay tablet was drawn to a vengeful spirit.",
+        "baseHP": 38,
+        "baseAttack": 55,
+        "baseDefense": 85,
+        "baseSpAttack": 30,
+        "baseSpDefense": 65,
+        "baseSpeed": 30,
+        "type1": "TYPE_GROUND",
+        "type2": "TYPE_GHOST",
+        "catchRate": 190,
+        "expYield": 61,
+        "evYield_HP": 0,
+        "evYield_Attack": 0,
+        "evYield_Defense": 1,
+        "evYield_SpAttack": 0,
+        "evYield_SpDefense": 0,
+        "evYield_Speed": 0,
+        "item1": "ITEM_NONE",
+        "item2": "ITEM_NONE",
+        "genderRatio": 50.0,
+        "eggCycles": 25,
+        "friendship": 50,
+        "growthRate": "GROWTH_MEDIUM_FAST",
+        "eggGroup1": "EGG_GROUP_MINERAL",
+        "eggGroup2": "EGG_GROUP_AMORPHOUS",
+        "ability1": "ABILITY_WANDERINGSPIRIT",
+        "ability2": "ABILITY_NONE",
+        "safariZoneFleeRate": 0,
+        "hiddenAbility": "ABILITY_NONE",
+        "noFlip": true,
+        "evolve_from": [],
+        "egg_moves": [
+            "MOVE_MEMENTO"
+        ],
+        "learnset": [
+            {
+                "level": 1,
+                "move": "MOVE_ASTONISH"
+            },
+            {
+                "level": 1,
+                "move": "MOVE_PROTECT"
+            },
+            {
+                "level": 4,
+                "move": "MOVE_HAZE"
+            },
+            {
+                "level": 8,
+                "move": "MOVE_NIGHTSHADE"
+            },
+            {
+                "level": 12,
+                "move": "MOVE_DISABLE"
+            },
+            {
+                "level": 16,
+                "move": "MOVE_BRUTALSWING"
+            },
+            {
+                "level": 20,
+                "move": "MOVE_CRAFTYSHIELD"
+            },
+            {
+                "level": 24,
+                "move": "MOVE_HEX"
+            },
+            {
+                "level": 28,
+                "move": "MOVE_MEANLOOK"
+            },
+            {
+                "level": 32,
+                "move": "MOVE_SLAM"
+            },
+            {
+                "level": 36,
+                "move": "MOVE_CURSE"
+            },
+            {
+                "level": 40,
+                "move": "MOVE_SHADOWBALL"
+            },
+            {
+                "level": 44,
+                "move": "MOVE_EARTHQUAKE"
+            },
+            {
+                "level": 48,
+                "move": "MOVE_POWERSPLIT"
+            },
+            {
+                "level": 48,
+                "move": "MOVE_GUARDSPLIT"
+            },
+            {
+                "level": 52,
+                "move": "MOVE_DESTINYBOND"
+            }
+        ],
+        "tm": [
+            "MOVE_CALMMIND",
+            "MOVE_TOXIC",
+            "MOVE_HIDDENPOWER",
+            "MOVE_PROTECT",
+            "MOVE_RAINDANCE",
+            "MOVE_SAFEGUARD",
+            "MOVE_FRUSTRATION",
+            "MOVE_EARTHQUAKE",
+            "MOVE_RETURN",
+            "MOVE_PSYCHIC",
+            "MOVE_SHADOWBALL",
+            "MOVE_DOUBLETEAM",
+            "MOVE_SHOCKWAVE",
+            "MOVE_SANDSTORM",
+            "MOVE_ROCKTOMB",
+            "MOVE_FACADE",
+            "MOVE_SECRETPOWER",
+            "MOVE_REST",
+            "MOVE_ATTRACT",
+            "MOVE_THIEF",
+            "MOVE_SKILLSWAP",
+            "MOVE_ENERGYBALL",
+            "MOVE_ENDURE",
+            "MOVE_WILLOWISP",
+            "MOVE_PAYBACK",
+            "MOVE_FLASH",
+            "MOVE_DARKPULSE",
+            "MOVE_ROCKSLIDE",
+            "MOVE_SLEEPTALK",
+            "MOVE_DREAMEATER",
+            "MOVE_SWAGGER",
+            "MOVE_SUBSTITUTE",
+            "MOVE_INFESTATION",
+            "MOVE_BRUTALSWING",
+            "MOVE_SMACKDOWN",
+            "MOVE_ROUND",
+            "MOVE_NATURALGIFT",
+            "MOVE_TRICKROOM",
+            "MOVE_ROCKSMASH"
+        ],
+        "tutor": [
+            "MOVE_SNORE",
+            "MOVE_BLOCK",
+            "MOVE_SNATCH",
+            "MOVE_SPITE",
+            "MOVE_AFTERYOU",
+            "MOVE_IRONDEFENSE",
+            "MOVE_TELEKINESIS",
+            "MOVE_ROLEPLAY",
+            "MOVE_PAINSPLIT",
+            "MOVE_ZENHEADBUTT",
+            "MOVE_TRICK",
+            "MOVE_MAGICCOAT",
+            "MOVE_WONDERROOM",
+            "MOVE_EARTHPOWER",
+            "MOVE_KNOCKOFF",
+            "MOVE_PSYCHUP",
+            "MOVE_CONFIDE",
+            "MOVE_FAKETEARS",
+            "MOVE_TOXICSPIKES",
+            "MOVE_NASTYPLOT",
+            "MOVE_HEX"
+        ]
+    }
 }

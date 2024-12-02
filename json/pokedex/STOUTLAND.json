@@ -1,169 +1,170 @@
 {
-    "baseHP": 85,
-    "baseAttack": 110,
-    "baseDefense": 90,
-    "baseSpAttack": 45,
-    "baseSpDefense": 90,
-    "baseSpeed": 80,
-    "type1": "TYPE_NORMAL",
-    "type2": "TYPE_NORMAL",
-    "catchRate": 45,
-    "expYield": 195,
-    "evYield_HP": 0,
-    "evYield_Attack": 3,
-    "evYield_Defense": 0,
-    "evYield_SpAttack": 0,
-    "evYield_SpDefense": 0,
-    "evYield_Speed": 0,
-    "item1": "ITEM_NONE",
-    "item2": "ITEM_NONE",
-    "genderRatio": 50.0,
-    "eggCycles": 15,
-    "friendship": 50,
-    "growthRate": "GROWTH_MEDIUM_SLOW",
-    "eggGroup1": "EGG_GROUP_FIELD",
-    "eggGroup2": "EGG_GROUP_FIELD",
-    "ability1": "ABILITY_INTIMIDATE",
-    "ability2": "ABILITY_SANDRUSH",
-    "safariZoneFleeRate": 0,
-    "hiddenAbility": "ABILITY_SCRAPPY",
-    "noFlip": true,
-    "blurb": "This extremely wise Pokemon excels at rescuing people stranded at sea or in the mountains.",
-    "name": "Stoutland",
-    "evolve_from": [
-        "HERDIER"
-    ],
-    "learnset": [
-        {
-            "level": 1,
-            "move": "MOVE_ICEFANG"
-        },
-        {
-            "level": 1,
-            "move": "MOVE_FIREFANG"
-        },
-        {
-            "level": 1,
-            "move": "MOVE_THUNDERFANG"
-        },
-        {
-            "level": 1,
-            "move": "MOVE_TACKLE"
-        },
-        {
-            "level": 1,
-            "move": "MOVE_LEER"
-        },
-        {
-            "level": 1,
-            "move": "MOVE_WORKUP"
-        },
-        {
-            "level": 1,
-            "move": "MOVE_ODORSLEUTH"
-        },
-        {
-            "level": 1,
-            "move": "MOVE_BITE"
-        },
-        {
-            "level": 12,
-            "move": "MOVE_BABYDOLLEYES"
-        },
-        {
-            "level": 19,
-            "move": "MOVE_RETALIATE"
-        },
-        {
-            "level": 24,
-            "move": "MOVE_REVERSAL"
-        },
-        {
-            "level": 30,
-            "move": "MOVE_CRUNCH"
-        },
-        {
-            "level": 36,
-            "move": "MOVE_TAKEDOWN"
-        },
-        {
-            "level": 42,
-            "move": "MOVE_HELPINGHAND"
-        },
-        {
-            "level": 48,
-            "move": "MOVE_ROAR"
-        },
-        {
-            "level": 54,
-            "move": "MOVE_PLAYROUGH"
-        },
-        {
-            "level": 60,
-            "move": "MOVE_LASTRESORT"
-        },
-        {
-            "level": 66,
-            "move": "MOVE_GIGAIMPACT"
-        }
-    ],
-    "tm": [
-        "MOVE_ROAR",
-        "MOVE_TOXIC",
-        "MOVE_HIDDENPOWER",
-        "MOVE_SUNNYDAY",
-        "MOVE_HYPERBEAM",
-        "MOVE_PROTECT",
-        "MOVE_RAINDANCE",
-        "MOVE_FRUSTRATION",
-        "MOVE_THUNDERBOLT",
-        "MOVE_THUNDER",
-        "MOVE_RETURN",
-        "MOVE_DIG",
-        "MOVE_SHADOWBALL",
-        "MOVE_DOUBLETEAM",
-        "MOVE_SHOCKWAVE",
-        "MOVE_ROCKTOMB",
-        "MOVE_AERIALACE",
-        "MOVE_FACADE",
-        "MOVE_SECRETPOWER",
-        "MOVE_REST",
-        "MOVE_ATTRACT",
-        "MOVE_ENDURE",
-        "MOVE_PAYBACK",
-        "MOVE_GIGAIMPACT",
-        "MOVE_THUNDERWAVE",
-        "MOVE_SLEEPTALK",
-        "MOVE_SWAGGER",
-        "MOVE_SUBSTITUTE",
-        "MOVE_WORKUP",
-        "MOVE_WILDCHARGE",
-        "MOVE_SNARL",
-        "MOVE_ROUND",
-        "MOVE_NATURALGIFT",
-        "MOVE_SURF",
-        "MOVE_STRENGTH",
-        "MOVE_ROCKSMASH",
-        "MOVE_ROCKCLIMB"
-    ],
-    "tutor": [
-        "MOVE_SNORE",
-        "MOVE_UPROAR",
-        "MOVE_HELPINGHAND",
-        "MOVE_COVET",
-        "MOVE_AFTERYOU",
-        "MOVE_IRONHEAD",
-        "MOVE_STOMPINGTANTRUM",
-        "MOVE_HYPERVOICE",
-        "MOVE_SUPERPOWER",
-        "MOVE_LASTRESORT",
-        "MOVE_CONFIDE",
-        "MOVE_THUNDERFANG",
-        "MOVE_ICEFANG",
-        "MOVE_FIREFANG",
-        "MOVE_REVERSAL",
-        "MOVE_CRUNCH",
-        "MOVE_PLAYROUGH",
-        "MOVE_PSYCHICFANGS"
-    ]
+    "STOUTLAND": {
+        "blurb": "This extremely wise Pok\\emon excels at rescuing people stranded at sea or in the mountains.",
+        "baseHP": 85,
+        "baseAttack": 110,
+        "baseDefense": 90,
+        "baseSpAttack": 45,
+        "baseSpDefense": 90,
+        "baseSpeed": 80,
+        "type1": "TYPE_NORMAL",
+        "type2": "TYPE_NORMAL",
+        "catchRate": 45,
+        "expYield": 195,
+        "evYield_HP": 0,
+        "evYield_Attack": 3,
+        "evYield_Defense": 0,
+        "evYield_SpAttack": 0,
+        "evYield_SpDefense": 0,
+        "evYield_Speed": 0,
+        "item1": "ITEM_NONE",
+        "item2": "ITEM_NONE",
+        "genderRatio": 50.0,
+        "eggCycles": 15,
+        "friendship": 50,
+        "growthRate": "GROWTH_MEDIUM_SLOW",
+        "eggGroup1": "EGG_GROUP_FIELD",
+        "eggGroup2": "EGG_GROUP_FIELD",
+        "ability1": "ABILITY_INTIMIDATE",
+        "ability2": "ABILITY_SANDRUSH",
+        "safariZoneFleeRate": 0,
+        "hiddenAbility": "ABILITY_SCRAPPY",
+        "noFlip": true,
+        "evolve_from": [
+            "HERDIER"
+        ],
+        "learnset": [
+            {
+                "level": 1,
+                "move": "MOVE_ICEFANG"
+            },
+            {
+                "level": 1,
+                "move": "MOVE_FIREFANG"
+            },
+            {
+                "level": 1,
+                "move": "MOVE_THUNDERFANG"
+            },
+            {
+                "level": 1,
+                "move": "MOVE_TACKLE"
+            },
+            {
+                "level": 1,
+                "move": "MOVE_LEER"
+            },
+            {
+                "level": 1,
+                "move": "MOVE_WORKUP"
+            },
+            {
+                "level": 1,
+                "move": "MOVE_ODORSLEUTH"
+            },
+            {
+                "level": 1,
+                "move": "MOVE_BITE"
+            },
+            {
+                "level": 12,
+                "move": "MOVE_BABYDOLLEYES"
+            },
+            {
+                "level": 19,
+                "move": "MOVE_RETALIATE"
+            },
+            {
+                "level": 24,
+                "move": "MOVE_REVERSAL"
+            },
+            {
+                "level": 30,
+                "move": "MOVE_CRUNCH"
+            },
+            {
+                "level": 36,
+                "move": "MOVE_TAKEDOWN"
+            },
+            {
+                "level": 42,
+                "move": "MOVE_HELPINGHAND"
+            },
+            {
+                "level": 48,
+                "move": "MOVE_ROAR"
+            },
+            {
+                "level": 54,
+                "move": "MOVE_PLAYROUGH"
+            },
+            {
+                "level": 60,
+                "move": "MOVE_LASTRESORT"
+            },
+            {
+                "level": 66,
+                "move": "MOVE_GIGAIMPACT"
+            }
+        ],
+        "tm": [
+            "MOVE_ROAR",
+            "MOVE_TOXIC",
+            "MOVE_HIDDENPOWER",
+            "MOVE_SUNNYDAY",
+            "MOVE_HYPERBEAM",
+            "MOVE_PROTECT",
+            "MOVE_RAINDANCE",
+            "MOVE_FRUSTRATION",
+            "MOVE_THUNDERBOLT",
+            "MOVE_THUNDER",
+            "MOVE_RETURN",
+            "MOVE_DIG",
+            "MOVE_SHADOWBALL",
+            "MOVE_DOUBLETEAM",
+            "MOVE_SHOCKWAVE",
+            "MOVE_ROCKTOMB",
+            "MOVE_AERIALACE",
+            "MOVE_FACADE",
+            "MOVE_SECRETPOWER",
+            "MOVE_REST",
+            "MOVE_ATTRACT",
+            "MOVE_ENDURE",
+            "MOVE_PAYBACK",
+            "MOVE_GIGAIMPACT",
+            "MOVE_THUNDERWAVE",
+            "MOVE_SLEEPTALK",
+            "MOVE_SWAGGER",
+            "MOVE_SUBSTITUTE",
+            "MOVE_WORKUP",
+            "MOVE_WILDCHARGE",
+            "MOVE_SNARL",
+            "MOVE_ROUND",
+            "MOVE_NATURALGIFT",
+            "MOVE_SURF",
+            "MOVE_STRENGTH",
+            "MOVE_ROCKSMASH",
+            "MOVE_ROCKCLIMB"
+        ],
+        "tutor": [
+            "MOVE_SNORE",
+            "MOVE_UPROAR",
+            "MOVE_HELPINGHAND",
+            "MOVE_COVET",
+            "MOVE_AFTERYOU",
+            "MOVE_IRONHEAD",
+            "MOVE_STOMPINGTANTRUM",
+            "MOVE_HYPERVOICE",
+            "MOVE_SUPERPOWER",
+            "MOVE_LASTRESORT",
+            "MOVE_CONFIDE",
+            "MOVE_THUNDERFANG",
+            "MOVE_ICEFANG",
+            "MOVE_FIREFANG",
+            "MOVE_REVERSAL",
+            "MOVE_CRUNCH",
+            "MOVE_PLAYROUGH",
+            "MOVE_PSYCHICFANGS"
+        ]
+    }
 }

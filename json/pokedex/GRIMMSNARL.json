@@ -1,205 +1,248 @@
 {
-    "baseHP": 95,
-    "baseAttack": 120,
-    "baseDefense": 65,
-    "baseSpAttack": 95,
-    "baseSpDefense": 75,
-    "baseSpeed": 60,
-    "type1": "TYPE_DARK",
-    "type2": "TYPE_FAIRY",
-    "catchRate": 45,
-    "expYield": 208,
-    "evYield_HP": 0,
-    "evYield_Attack": 3,
-    "evYield_Defense": 0,
-    "evYield_SpAttack": 0,
-    "evYield_SpDefense": 0,
-    "evYield_Speed": 0,
-    "item1": "ITEM_NONE",
-    "item2": "ITEM_NONE",
-    "genderRatio": 0.0,
-    "eggCycles": 20,
-    "friendship": 50,
-    "growthRate": "GROWTH_MEDIUM_FAST",
-    "eggGroup1": "EGG_GROUP_FAIRY",
-    "eggGroup2": "EGG_GROUP_HUMAN_LIKE",
-    "ability1": "ABILITY_PRANKSTER",
-    "ability2": "ABILITY_FRISK",
-    "safariZoneFleeRate": 0,
-    "hiddenAbility": "ABILITY_PICKPOCKET",
-    "noFlip": true,
-    "evolve_to": [
-        {
-            "method": "EVO_GIGANTAMAX",
-            "condition": "TRUE",
-            "target": "GRIMMSNARL_GIGA",
-            "extra": "0"
-        }
-    ],
-    "blurb": "Its hairs work like muscle fibers. When its hairs unfurl, they latch on to foes, ensnaring them like tentacles.",
-    "name": "Grimmsnarl",
-    "evolve_from": [
-        "MORGREM",
-        "GRIMMSNARL_GIGA"
-    ],
-    "tm": [
-        "MOVE_FOCUSPUNCH",
-        "MOVE_ROAR",
-        "MOVE_TOXIC",
-        "MOVE_BULKUP",
-        "MOVE_HIDDENPOWER",
-        "MOVE_TAUNT",
-        "MOVE_HYPERBEAM",
-        "MOVE_LIGHTSCREEN",
-        "MOVE_PROTECT",
-        "MOVE_FRUSTRATION",
-        "MOVE_RETURN",
-        "MOVE_BRICKBREAK",
-        "MOVE_DOUBLETEAM",
-        "MOVE_REFLECT",
-        "MOVE_SHOCKWAVE",
-        "MOVE_TORMENT",
-        "MOVE_FACADE",
-        "MOVE_SECRETPOWER",
-        "MOVE_REST",
-        "MOVE_ATTRACT",
-        "MOVE_THIEF",
-        "MOVE_LEECHFANG",
-        "MOVE_FOCUSBLAST",
-        "MOVE_HONECLAWS",
-        "MOVE_CHARGEBEAM",
-        "MOVE_ENDURE",
-        "MOVE_DRAINPUNCH",
-        "MOVE_SHADOWCLAW",
-        "MOVE_GIGAIMPACT",
-        "MOVE_FLASH",
-        "MOVE_THUNDERWAVE",
-        "MOVE_LOWSWEEP",
-        "MOVE_DARKPULSE",
-        "MOVE_SLEEPTALK",
-        "MOVE_SWAGGER",
-        "MOVE_SUBSTITUTE",
-        "MOVE_POWERUPPUNCH",
-        "MOVE_DAZZLINGGLEAM",
-        "MOVE_DRAININGKISS",
-        "MOVE_SMACKDOWN",
-        "MOVE_ROUND",
-        "MOVE_ECHOEDVOICE",
-        "MOVE_NATURALGIFT",
-        "MOVE_QUASH",
-        "MOVE_NATUREPOWER",
-        "MOVE_CUT",
-        "MOVE_STRENGTH",
-        "MOVE_ROCKSMASH",
-        "MOVE_ROCKCLIMB"
-    ],
-    "tutor": [
-        "MOVE_FIREPUNCH",
-        "MOVE_ICEPUNCH",
-        "MOVE_THUNDERPUNCH",
-        "MOVE_SNORE",
-        "MOVE_LOWKICK",
-        "MOVE_UPROAR",
-        "MOVE_COVET",
-        "MOVE_SNATCH",
-        "MOVE_TRICK",
-        "MOVE_WONDERROOM",
-        "MOVE_FOULPLAY",
-        "MOVE_THROATCHOP",
-        "MOVE_STOMPINGTANTRUM",
-        "MOVE_DUALCHOP",
-        "MOVE_SUPERPOWER",
-        "MOVE_KNOCKOFF",
-        "MOVE_CONFIDE",
-        "MOVE_FOCUSENERGY",
-        "MOVE_FAKETEARS",
-        "MOVE_SCARYFACE",
-        "MOVE_NASTYPLOT",
-        "MOVE_BODYSLAM",
-        "MOVE_BODYPRESS",
-        "MOVE_CRUNCH",
-        "MOVE_DARKESTLARIAT",
-        "MOVE_PLAYROUGH",
-        "MOVE_POWERWHIP",
-        "MOVE_BURNINGJEALOUSY",
-        "MOVE_LASHOUT"
-    ],
-    "learnset": [
-        {
-            "level": 0,
-            "move": "MOVE_SPIRITBREAK"
-        },
-        {
-            "level": 1,
-            "move": "MOVE_BULKUP"
-        },
-        {
-            "level": 1,
-            "move": "MOVE_POWERUPPUNCH"
-        },
-        {
-            "level": 1,
-            "move": "MOVE_CONFIDE"
-        },
-        {
-            "level": 1,
-            "move": "MOVE_FAKEOUT"
-        },
-        {
-            "level": 1,
-            "move": "MOVE_BITE"
-        },
-        {
-            "level": 1,
-            "move": "MOVE_FLATTER"
-        },
-        {
-            "level": 12,
-            "move": "MOVE_FAKETEARS"
-        },
-        {
-            "level": 16,
-            "move": "MOVE_ASSURANCE"
-        },
-        {
-            "level": 20,
-            "move": "MOVE_SWAGGER"
-        },
-        {
-            "level": 24,
-            "move": "MOVE_SUCKERPUNCH"
-        },
-        {
-            "level": 28,
-            "move": "MOVE_TORMENT"
-        },
-        {
-            "level": 31,
-            "move": "MOVE_FALSESURRENDER"
-        },
-        {
-            "level": 35,
-            "move": "MOVE_DARKPULSE"
-        },
-        {
-            "level": 40,
-            "move": "MOVE_NASTYPLOT"
-        },
-        {
-            "level": 41,
-            "move": "MOVE_SPIRITBREAK"
-        },
-        {
-            "level": 48,
-            "move": "MOVE_PLAYROUGH"
-        },
-        {
-            "level": 56,
-            "move": "MOVE_FOULPLAY"
-        },
-        {
-            "level": 64,
-            "move": "MOVE_HAMMERARM"
-        }
-    ]
+    "GRIMMSNARL": {
+        "blurb": "Its hairs work like muscle fibers. When its hairs unfurl, they latch on to foes, ensnaring them like tentacles.",
+        "baseHP": 95,
+        "baseAttack": 120,
+        "baseDefense": 65,
+        "baseSpAttack": 95,
+        "baseSpDefense": 75,
+        "baseSpeed": 60,
+        "type1": "TYPE_DARK",
+        "type2": "TYPE_FAIRY",
+        "catchRate": 45,
+        "expYield": 208,
+        "evYield_HP": 0,
+        "evYield_Attack": 3,
+        "evYield_Defense": 0,
+        "evYield_SpAttack": 0,
+        "evYield_SpDefense": 0,
+        "evYield_Speed": 0,
+        "item1": "ITEM_NONE",
+        "item2": "ITEM_NONE",
+        "genderRatio": 0.0,
+        "eggCycles": 20,
+        "friendship": 50,
+        "growthRate": "GROWTH_MEDIUM_FAST",
+        "eggGroup1": "EGG_GROUP_FAIRY",
+        "eggGroup2": "EGG_GROUP_HUMAN_LIKE",
+        "ability1": "ABILITY_PRANKSTER",
+        "ability2": "ABILITY_FRISK",
+        "safariZoneFleeRate": 0,
+        "hiddenAbility": "ABILITY_PICKPOCKET",
+        "noFlip": true,
+        "evolve_to": [
+            {
+                "method": "EVO_GIGANTAMAX",
+                "condition": "TRUE",
+                "target": "GRIMMSNARL_GIGA",
+                "extra": "0"
+            }
+        ],
+        "evolve_from": [
+            "MORGREM",
+            "GRIMMSNARL_GIGA"
+        ],
+        "tm": [
+            "MOVE_FOCUSPUNCH",
+            "MOVE_ROAR",
+            "MOVE_TOXIC",
+            "MOVE_BULKUP",
+            "MOVE_HIDDENPOWER",
+            "MOVE_TAUNT",
+            "MOVE_HYPERBEAM",
+            "MOVE_LIGHTSCREEN",
+            "MOVE_PROTECT",
+            "MOVE_FRUSTRATION",
+            "MOVE_RETURN",
+            "MOVE_BRICKBREAK",
+            "MOVE_DOUBLETEAM",
+            "MOVE_REFLECT",
+            "MOVE_SHOCKWAVE",
+            "MOVE_TORMENT",
+            "MOVE_FACADE",
+            "MOVE_SECRETPOWER",
+            "MOVE_REST",
+            "MOVE_ATTRACT",
+            "MOVE_THIEF",
+            "MOVE_LEECHFANG",
+            "MOVE_FOCUSBLAST",
+            "MOVE_HONECLAWS",
+            "MOVE_CHARGEBEAM",
+            "MOVE_ENDURE",
+            "MOVE_DRAINPUNCH",
+            "MOVE_SHADOWCLAW",
+            "MOVE_GIGAIMPACT",
+            "MOVE_FLASH",
+            "MOVE_THUNDERWAVE",
+            "MOVE_LOWSWEEP",
+            "MOVE_DARKPULSE",
+            "MOVE_SLEEPTALK",
+            "MOVE_SWAGGER",
+            "MOVE_SUBSTITUTE",
+            "MOVE_POWERUPPUNCH",
+            "MOVE_DAZZLINGGLEAM",
+            "MOVE_DRAININGKISS",
+            "MOVE_SMACKDOWN",
+            "MOVE_ROUND",
+            "MOVE_ECHOEDVOICE",
+            "MOVE_NATURALGIFT",
+            "MOVE_QUASH",
+            "MOVE_NATUREPOWER",
+            "MOVE_CUT",
+            "MOVE_STRENGTH",
+            "MOVE_ROCKSMASH",
+            "MOVE_ROCKCLIMB"
+        ],
+        "tutor": [
+            "MOVE_FIREPUNCH",
+            "MOVE_ICEPUNCH",
+            "MOVE_THUNDERPUNCH",
+            "MOVE_SNORE",
+            "MOVE_LOWKICK",
+            "MOVE_UPROAR",
+            "MOVE_COVET",
+            "MOVE_SNATCH",
+            "MOVE_TRICK",
+            "MOVE_WONDERROOM",
+            "MOVE_FOULPLAY",
+            "MOVE_THROATCHOP",
+            "MOVE_STOMPINGTANTRUM",
+            "MOVE_DUALCHOP",
+            "MOVE_SUPERPOWER",
+            "MOVE_KNOCKOFF",
+            "MOVE_CONFIDE",
+            "MOVE_FOCUSENERGY",
+            "MOVE_FAKETEARS",
+            "MOVE_SCARYFACE",
+            "MOVE_NASTYPLOT",
+            "MOVE_BODYSLAM",
+            "MOVE_BODYPRESS",
+            "MOVE_CRUNCH",
+            "MOVE_DARKESTLARIAT",
+            "MOVE_PLAYROUGH",
+            "MOVE_POWERWHIP",
+            "MOVE_BURNINGJEALOUSY",
+            "MOVE_LASHOUT"
+        ]
+    },
+    "GRIMMSNARL_GIGA": {
+        "baseHP": 95,
+        "baseAttack": 120,
+        "baseDefense": 65,
+        "baseSpAttack": 95,
+        "baseSpDefense": 75,
+        "baseSpeed": 60,
+        "type1": "TYPE_DARK",
+        "type2": "TYPE_FAIRY",
+        "catchRate": 45,
+        "expYield": 208,
+        "evYield_HP": 0,
+        "evYield_Attack": 3,
+        "evYield_Defense": 0,
+        "evYield_SpAttack": 0,
+        "evYield_SpDefense": 0,
+        "evYield_Speed": 0,
+        "item1": "ITEM_NONE",
+        "item2": "ITEM_NONE",
+        "genderRatio": 0.0,
+        "eggCycles": 20,
+        "friendship": 50,
+        "growthRate": "GROWTH_MEDIUM_FAST",
+        "eggGroup1": "EGG_GROUP_FAIRY",
+        "eggGroup2": "EGG_GROUP_HUMAN_LIKE",
+        "ability1": "ABILITY_PRANKSTER",
+        "ability2": "ABILITY_FRISK",
+        "safariZoneFleeRate": 0,
+        "hiddenAbility": "ABILITY_PICKPOCKET",
+        "noFlip": true,
+        "evolve_to": [
+            {
+                "method": "EVO_GIGANTAMAX",
+                "condition": "FALSE",
+                "target": "GRIMMSNARL",
+                "extra": "0"
+            }
+        ],
+        "evolve_from": [
+            "GRIMMSNARL"
+        ],
+        "learnset": [
+            {
+                "level": 0,
+                "move": "MOVE_SPIRITBREAK"
+            },
+            {
+                "level": 1,
+                "move": "MOVE_BULKUP"
+            },
+            {
+                "level": 1,
+                "move": "MOVE_POWERUPPUNCH"
+            },
+            {
+                "level": 1,
+                "move": "MOVE_CONFIDE"
+            },
+            {
+                "level": 1,
+                "move": "MOVE_FAKEOUT"
+            },
+            {
+                "level": 1,
+                "move": "MOVE_BITE"
+            },
+            {
+                "level": 1,
+                "move": "MOVE_FLATTER"
+            },
+            {
+                "level": 12,
+                "move": "MOVE_FAKETEARS"
+            },
+            {
+                "level": 16,
+                "move": "MOVE_ASSURANCE"
+            },
+            {
+                "level": 20,
+                "move": "MOVE_SWAGGER"
+            },
+            {
+                "level": 24,
+                "move": "MOVE_SUCKERPUNCH"
+            },
+            {
+                "level": 28,
+                "move": "MOVE_TORMENT"
+            },
+            {
+                "level": 31,
+                "move": "MOVE_FALSESURRENDER"
+            },
+            {
+                "level": 35,
+                "move": "MOVE_DARKPULSE"
+            },
+            {
+                "level": 40,
+                "move": "MOVE_NASTYPLOT"
+            },
+            {
+                "level": 41,
+                "move": "MOVE_SPIRITBREAK"
+            },
+            {
+                "level": 48,
+                "move": "MOVE_PLAYROUGH"
+            },
+            {
+                "level": 56,
+                "move": "MOVE_FOULPLAY"
+            },
+            {
+                "level": 64,
+                "move": "MOVE_HAMMERARM"
+            }
+        ]
+    }
 }

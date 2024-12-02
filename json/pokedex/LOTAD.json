@@ -1,166 +1,155 @@
 {
-    "baseHP": 40,
-    "baseAttack": 30,
-    "baseDefense": 30,
-    "baseSpAttack": 40,
-    "baseSpDefense": 50,
-    "baseSpeed": 30,
-    "type1": "TYPE_WATER",
-    "type2": "TYPE_GRASS",
-    "catchRate": 255,
-    "expYield": 74,
-    "evYield_HP": 0,
-    "evYield_Attack": 0,
-    "evYield_Defense": 0,
-    "evYield_SpAttack": 0,
-    "evYield_SpDefense": 1,
-    "evYield_Speed": 0,
-    "item1": "ITEM_NONE",
-    "item2": "ITEM_MENTAL_HERB",
-    "genderRatio": 50.0,
-    "eggCycles": 15,
-    "friendship": 50,
-    "growthRate": "GROWTH_MEDIUM_SLOW",
-    "eggGroup1": "EGG_GROUP_WATER_1",
-    "eggGroup2": "EGG_GROUP_GRASS",
-    "ability1": "ABILITY_SWIFTSWIM",
-    "ability2": "ABILITY_RAINDISH",
-    "safariZoneFleeRate": 0,
-    "hiddenAbility": "ABILITY_OWNTEMPO",
-    "noFlip": true,
-    "egg_moves": [
-        "MOVE_SYNTHESIS",
-        "MOVE_RAZORLEAF",
-        "MOVE_SWEETSCENT",
-        "MOVE_LEECHSEED",
-        "MOVE_WATERGUN",
-        "MOVE_TICKLE",
-        "MOVE_COUNTER",
-        "MOVE_TEETERDANCE",
-        "MOVE_NATURALGIFT"
-    ],
-    "evolve_to": [
-        {
-            "method": "EVO_LEVEL",
-            "condition": "14",
-            "target": "LOMBRE",
-            "extra": "0"
-        }
-    ],
-    "name": "Lotad",
-    "evolve_from": [],
-    "location": [
-        {
-            "route": "Route 10",
-            "area": "",
-            "method": "land"
-        },
-        {
-            "route": "Auburn Waterway",
-            "area": "",
-            "method": "land"
-        }
-    ],
-    "learnset": [
-        {
-            "level": 1,
-            "move": "MOVE_ASTONISH"
-        },
-        {
-            "level": 1,
-            "move": "MOVE_GROWL"
-        },
-        {
-            "level": 3,
-            "move": "MOVE_ABSORB"
-        },
-        {
-            "level": 6,
-            "move": "MOVE_BUBBLE"
-        },
-        {
-            "level": 9,
-            "move": "MOVE_MIST"
-        },
-        {
-            "level": 12,
-            "move": "MOVE_MEGADRAIN"
-        },
-        {
-            "level": 16,
-            "move": "MOVE_FLAIL"
-        },
-        {
-            "level": 20,
-            "move": "MOVE_BUBBLEBEAM"
-        },
-        {
-            "level": 24,
-            "move": "MOVE_NATUREPOWER"
-        },
-        {
-            "level": 28,
-            "move": "MOVE_GIGADRAIN"
-        },
-        {
-            "level": 33,
-            "move": "MOVE_RAINDANCE"
-        },
-        {
-            "level": 38,
-            "move": "MOVE_ZENHEADBUTT"
-        },
-        {
-            "level": 43,
-            "move": "MOVE_ENERGYBALL"
-        }
-    ],
-    "tm": [
-        "MOVE_WATERPULSE",
-        "MOVE_TOXIC",
-        "MOVE_HAIL",
-        "MOVE_BULLETSEED",
-        "MOVE_HIDDENPOWER",
-        "MOVE_SUNNYDAY",
-        "MOVE_ICEBEAM",
-        "MOVE_BLIZZARD",
-        "MOVE_PROTECT",
-        "MOVE_RAINDANCE",
-        "MOVE_GIGADRAIN",
-        "MOVE_FRUSTRATION",
-        "MOVE_SOLARBEAM",
-        "MOVE_RETURN",
-        "MOVE_DOUBLETEAM",
-        "MOVE_FACADE",
-        "MOVE_SECRETPOWER",
-        "MOVE_REST",
-        "MOVE_ATTRACT",
-        "MOVE_THIEF",
-        "MOVE_ENERGYBALL",
-        "MOVE_ENDURE",
-        "MOVE_FLASH",
-        "MOVE_SWORDSDANCE",
-        "MOVE_SLEEPTALK",
-        "MOVE_SCALD",
-        "MOVE_GRASSKNOT",
-        "MOVE_SWAGGER",
-        "MOVE_SUBSTITUTE",
-        "MOVE_ROUND",
-        "MOVE_ECHOEDVOICE",
-        "MOVE_NATURALGIFT",
-        "MOVE_NATUREPOWER",
-        "MOVE_SURF"
-    ],
-    "tutor": [
-        "MOVE_SNORE",
-        "MOVE_UPROAR",
-        "MOVE_SYNTHESIS",
-        "MOVE_ICYWIND",
-        "MOVE_ZENHEADBUTT",
-        "MOVE_SEEDBOMB",
-        "MOVE_CONFIDE",
-        "MOVE_WHIRLPOOL",
-        "MOVE_BODYSLAM",
-        "MOVE_GRASSYGLIDE"
-    ]
+    "LOTAD": {
+        "baseHP": 40,
+        "baseAttack": 30,
+        "baseDefense": 30,
+        "baseSpAttack": 40,
+        "baseSpDefense": 50,
+        "baseSpeed": 30,
+        "type1": "TYPE_WATER",
+        "type2": "TYPE_GRASS",
+        "catchRate": 255,
+        "expYield": 74,
+        "evYield_HP": 0,
+        "evYield_Attack": 0,
+        "evYield_Defense": 0,
+        "evYield_SpAttack": 0,
+        "evYield_SpDefense": 1,
+        "evYield_Speed": 0,
+        "item1": "ITEM_NONE",
+        "item2": "ITEM_MENTAL_HERB",
+        "genderRatio": 50.0,
+        "eggCycles": 15,
+        "friendship": 50,
+        "growthRate": "GROWTH_MEDIUM_SLOW",
+        "eggGroup1": "EGG_GROUP_WATER_1",
+        "eggGroup2": "EGG_GROUP_GRASS",
+        "ability1": "ABILITY_SWIFTSWIM",
+        "ability2": "ABILITY_RAINDISH",
+        "safariZoneFleeRate": 0,
+        "hiddenAbility": "ABILITY_OWNTEMPO",
+        "noFlip": true,
+        "evolve_to": [
+            {
+                "method": "EVO_LEVEL",
+                "condition": "14",
+                "target": "LOMBRE",
+                "extra": "0"
+            }
+        ],
+        "evolve_from": [],
+        "egg_moves": [
+            "MOVE_SYNTHESIS",
+            "MOVE_RAZORLEAF",
+            "MOVE_SWEETSCENT",
+            "MOVE_LEECHSEED",
+            "MOVE_WATERGUN",
+            "MOVE_TICKLE",
+            "MOVE_COUNTER",
+            "MOVE_TEETERDANCE",
+            "MOVE_NATURALGIFT"
+        ],
+        "learnset": [
+            {
+                "level": 1,
+                "move": "MOVE_ASTONISH"
+            },
+            {
+                "level": 1,
+                "move": "MOVE_GROWL"
+            },
+            {
+                "level": 3,
+                "move": "MOVE_ABSORB"
+            },
+            {
+                "level": 6,
+                "move": "MOVE_BUBBLE"
+            },
+            {
+                "level": 9,
+                "move": "MOVE_MIST"
+            },
+            {
+                "level": 12,
+                "move": "MOVE_MEGADRAIN"
+            },
+            {
+                "level": 16,
+                "move": "MOVE_FLAIL"
+            },
+            {
+                "level": 20,
+                "move": "MOVE_BUBBLEBEAM"
+            },
+            {
+                "level": 24,
+                "move": "MOVE_NATUREPOWER"
+            },
+            {
+                "level": 28,
+                "move": "MOVE_GIGADRAIN"
+            },
+            {
+                "level": 33,
+                "move": "MOVE_RAINDANCE"
+            },
+            {
+                "level": 38,
+                "move": "MOVE_ZENHEADBUTT"
+            },
+            {
+                "level": 43,
+                "move": "MOVE_ENERGYBALL"
+            }
+        ],
+        "tm": [
+            "MOVE_WATERPULSE",
+            "MOVE_TOXIC",
+            "MOVE_HAIL",
+            "MOVE_BULLETSEED",
+            "MOVE_HIDDENPOWER",
+            "MOVE_SUNNYDAY",
+            "MOVE_ICEBEAM",
+            "MOVE_BLIZZARD",
+            "MOVE_PROTECT",
+            "MOVE_RAINDANCE",
+            "MOVE_GIGADRAIN",
+            "MOVE_FRUSTRATION",
+            "MOVE_SOLARBEAM",
+            "MOVE_RETURN",
+            "MOVE_DOUBLETEAM",
+            "MOVE_FACADE",
+            "MOVE_SECRETPOWER",
+            "MOVE_REST",
+            "MOVE_ATTRACT",
+            "MOVE_THIEF",
+            "MOVE_ENERGYBALL",
+            "MOVE_ENDURE",
+            "MOVE_FLASH",
+            "MOVE_SWORDSDANCE",
+            "MOVE_SLEEPTALK",
+            "MOVE_SCALD",
+            "MOVE_GRASSKNOT",
+            "MOVE_SWAGGER",
+            "MOVE_SUBSTITUTE",
+            "MOVE_ROUND",
+            "MOVE_ECHOEDVOICE",
+            "MOVE_NATURALGIFT",
+            "MOVE_NATUREPOWER",
+            "MOVE_SURF"
+        ],
+        "tutor": [
+            "MOVE_SNORE",
+            "MOVE_UPROAR",
+            "MOVE_SYNTHESIS",
+            "MOVE_ICYWIND",
+            "MOVE_ZENHEADBUTT",
+            "MOVE_SEEDBOMB",
+            "MOVE_CONFIDE",
+            "MOVE_WHIRLPOOL",
+            "MOVE_BODYSLAM",
+            "MOVE_GRASSYGLIDE"
+        ]
+    }
 }

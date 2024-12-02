@@ -1,187 +1,176 @@
 {
-    "baseHP": 70,
-    "baseAttack": 131,
-    "baseDefense": 100,
-    "baseSpAttack": 86,
-    "baseSpDefense": 90,
-    "baseSpeed": 40,
-    "type1": "TYPE_GHOST",
-    "type2": "TYPE_GRASS",
-    "catchRate": 45,
-    "expYield": 207,
-    "evYield_HP": 0,
-    "evYield_Attack": 2,
-    "evYield_Defense": 0,
-    "evYield_SpAttack": 0,
-    "evYield_SpDefense": 0,
-    "evYield_Speed": 0,
-    "item1": "ITEM_NONE",
-    "item2": "ITEM_NONE",
-    "genderRatio": "MON_GENDERLESS",
-    "eggCycles": 25,
-    "friendship": 50,
-    "growthRate": "GROWTH_MEDIUM_FAST",
-    "eggGroup1": "EGG_GROUP_MINERAL",
-    "eggGroup2": "EGG_GROUP_MINERAL",
-    "ability1": "ABILITY_STEELWORKER",
-    "ability2": "ABILITY_NONE",
-    "safariZoneFleeRate": 0,
-    "hiddenAbility": "ABILITY_AFTERMATH",
-    "noFlip": true,
-    "blurb": "It wraps its prey in green seaweed and sucks away their vitality. It only likes to go after big prey.",
-    "name": "Dhelmise",
-    "evolve_from": [],
-    "location": [
-        {
-            "route": "Route 14",
-            "area": "",
-            "method": "Good Rod"
-        },
-        {
-            "route": "Route 14",
-            "area": "",
-            "method": "Super Rod"
-        }
-    ],
-    "learnset": [
-        {
-            "level": 1,
-            "move": "MOVE_ABSORB"
-        },
-        {
-            "level": 1,
-            "move": "MOVE_RAPIDSPIN"
-        },
-        {
-            "level": 4,
-            "move": "MOVE_ASTONISH"
-        },
-        {
-            "level": 8,
-            "move": "MOVE_WRAP"
-        },
-        {
-            "level": 12,
-            "move": "MOVE_MEGADRAIN"
-        },
-        {
-            "level": 16,
-            "move": "MOVE_GROWTH"
-        },
-        {
-            "level": 20,
-            "move": "MOVE_GYROBALL"
-        },
-        {
-            "level": 24,
-            "move": "MOVE_SWITCHEROO"
-        },
-        {
-            "level": 28,
-            "move": "MOVE_GIGADRAIN"
-        },
-        {
-            "level": 32,
-            "move": "MOVE_WHIRLPOOL"
-        },
-        {
-            "level": 36,
-            "move": "MOVE_HEAVYSLAM"
-        },
-        {
-            "level": 40,
-            "move": "MOVE_SLAM"
-        },
-        {
-            "level": 44,
-            "move": "MOVE_SHADOWBALL"
-        },
-        {
-            "level": 48,
-            "move": "MOVE_METALSOUND"
-        },
-        {
-            "level": 52,
-            "move": "MOVE_ANCHORSHOT"
-        },
-        {
-            "level": 56,
-            "move": "MOVE_ENERGYBALL"
-        },
-        {
-            "level": 60,
-            "move": "MOVE_PHANTOMFORCE"
-        },
-        {
-            "level": 64,
-            "move": "MOVE_POWERWHIP"
-        }
-    ],
-    "tm": [
-        "MOVE_TOXIC",
-        "MOVE_HIDDENPOWER",
-        "MOVE_SUNNYDAY",
-        "MOVE_HYPERBEAM",
-        "MOVE_PROTECT",
-        "MOVE_RAINDANCE",
-        "MOVE_GIGADRAIN",
-        "MOVE_FRUSTRATION",
-        "MOVE_SOLARBEAM",
-        "MOVE_EARTHQUAKE",
-        "MOVE_RETURN",
-        "MOVE_SHADOWBALL",
-        "MOVE_BRICKBREAK",
-        "MOVE_DOUBLETEAM",
-        "MOVE_AERIALACE",
-        "MOVE_FACADE",
-        "MOVE_SECRETPOWER",
-        "MOVE_REST",
-        "MOVE_THIEF",
-        "MOVE_ENERGYBALL",
-        "MOVE_BRINE",
-        "MOVE_ENDURE",
-        "MOVE_SHADOWCLAW",
-        "MOVE_PAYBACK",
-        "MOVE_GIGAIMPACT",
-        "MOVE_GYROBALL",
-        "MOVE_SWORDSDANCE",
-        "MOVE_ROCKSLIDE",
-        "MOVE_SLEEPTALK",
-        "MOVE_GRASSKNOT",
-        "MOVE_SWAGGER",
-        "MOVE_SUBSTITUTE",
-        "MOVE_FLASHCANNON",
-        "MOVE_BULLDOZE",
-        "MOVE_SLUDGEWAVE",
-        "MOVE_BRUTALSWING",
-        "MOVE_ROUND",
-        "MOVE_NATURALGIFT",
-        "MOVE_SURF"
-    ],
-    "tutor": [
-        "MOVE_SNORE",
-        "MOVE_HELPINGHAND",
-        "MOVE_BLOCK",
-        "MOVE_SPITE",
-        "MOVE_SYNTHESIS",
-        "MOVE_IRONDEFENSE",
-        "MOVE_TELEKINESIS",
-        "MOVE_ROLEPLAY",
-        "MOVE_IRONHEAD",
-        "MOVE_PAINSPLIT",
-        "MOVE_LIQUIDATION",
-        "MOVE_KNOCKOFF",
-        "MOVE_CONFIDE",
-        "MOVE_WHIRLPOOL",
-        "MOVE_BODYPRESS",
-        "MOVE_HEAVYSLAM",
-        "MOVE_HEX",
-        "MOVE_MUDDYWATER",
-        "MOVE_PHANTOMFORCE",
-        "MOVE_HYDROPUMP",
-        "MOVE_POWERWHIP",
-        "MOVE_SOLARBLADE",
-        "MOVE_POLTERGEIST",
-        "MOVE_GRASSYGLIDE"
-    ]
+    "DHELMISE": {
+        "blurb": "It wraps its prey in green seaweed and sucks away their vitality. It only likes to go after big prey.",
+        "baseHP": 70,
+        "baseAttack": 131,
+        "baseDefense": 100,
+        "baseSpAttack": 86,
+        "baseSpDefense": 90,
+        "baseSpeed": 40,
+        "type1": "TYPE_GHOST",
+        "type2": "TYPE_GRASS",
+        "catchRate": 45,
+        "expYield": 207,
+        "evYield_HP": 0,
+        "evYield_Attack": 2,
+        "evYield_Defense": 0,
+        "evYield_SpAttack": 0,
+        "evYield_SpDefense": 0,
+        "evYield_Speed": 0,
+        "item1": "ITEM_NONE",
+        "item2": "ITEM_NONE",
+        "genderRatio": "MON_GENDERLESS",
+        "eggCycles": 25,
+        "friendship": 50,
+        "growthRate": "GROWTH_MEDIUM_FAST",
+        "eggGroup1": "EGG_GROUP_MINERAL",
+        "eggGroup2": "EGG_GROUP_MINERAL",
+        "ability1": "ABILITY_STEELWORKER",
+        "ability2": "ABILITY_NONE",
+        "safariZoneFleeRate": 0,
+        "hiddenAbility": "ABILITY_AFTERMATH",
+        "noFlip": true,
+        "evolve_from": [],
+        "learnset": [
+            {
+                "level": 1,
+                "move": "MOVE_ABSORB"
+            },
+            {
+                "level": 1,
+                "move": "MOVE_RAPIDSPIN"
+            },
+            {
+                "level": 4,
+                "move": "MOVE_ASTONISH"
+            },
+            {
+                "level": 8,
+                "move": "MOVE_WRAP"
+            },
+            {
+                "level": 12,
+                "move": "MOVE_MEGADRAIN"
+            },
+            {
+                "level": 16,
+                "move": "MOVE_GROWTH"
+            },
+            {
+                "level": 20,
+                "move": "MOVE_GYROBALL"
+            },
+            {
+                "level": 24,
+                "move": "MOVE_SWITCHEROO"
+            },
+            {
+                "level": 28,
+                "move": "MOVE_GIGADRAIN"
+            },
+            {
+                "level": 32,
+                "move": "MOVE_WHIRLPOOL"
+            },
+            {
+                "level": 36,
+                "move": "MOVE_HEAVYSLAM"
+            },
+            {
+                "level": 40,
+                "move": "MOVE_SLAM"
+            },
+            {
+                "level": 44,
+                "move": "MOVE_SHADOWBALL"
+            },
+            {
+                "level": 48,
+                "move": "MOVE_METALSOUND"
+            },
+            {
+                "level": 52,
+                "move": "MOVE_ANCHORSHOT"
+            },
+            {
+                "level": 56,
+                "move": "MOVE_ENERGYBALL"
+            },
+            {
+                "level": 60,
+                "move": "MOVE_PHANTOMFORCE"
+            },
+            {
+                "level": 64,
+                "move": "MOVE_POWERWHIP"
+            }
+        ],
+        "tm": [
+            "MOVE_TOXIC",
+            "MOVE_HIDDENPOWER",
+            "MOVE_SUNNYDAY",
+            "MOVE_HYPERBEAM",
+            "MOVE_PROTECT",
+            "MOVE_RAINDANCE",
+            "MOVE_GIGADRAIN",
+            "MOVE_FRUSTRATION",
+            "MOVE_SOLARBEAM",
+            "MOVE_EARTHQUAKE",
+            "MOVE_RETURN",
+            "MOVE_SHADOWBALL",
+            "MOVE_BRICKBREAK",
+            "MOVE_DOUBLETEAM",
+            "MOVE_AERIALACE",
+            "MOVE_FACADE",
+            "MOVE_SECRETPOWER",
+            "MOVE_REST",
+            "MOVE_THIEF",
+            "MOVE_ENERGYBALL",
+            "MOVE_BRINE",
+            "MOVE_ENDURE",
+            "MOVE_SHADOWCLAW",
+            "MOVE_PAYBACK",
+            "MOVE_GIGAIMPACT",
+            "MOVE_GYROBALL",
+            "MOVE_SWORDSDANCE",
+            "MOVE_ROCKSLIDE",
+            "MOVE_SLEEPTALK",
+            "MOVE_GRASSKNOT",
+            "MOVE_SWAGGER",
+            "MOVE_SUBSTITUTE",
+            "MOVE_FLASHCANNON",
+            "MOVE_BULLDOZE",
+            "MOVE_SLUDGEWAVE",
+            "MOVE_BRUTALSWING",
+            "MOVE_ROUND",
+            "MOVE_NATURALGIFT",
+            "MOVE_SURF"
+        ],
+        "tutor": [
+            "MOVE_SNORE",
+            "MOVE_HELPINGHAND",
+            "MOVE_BLOCK",
+            "MOVE_SPITE",
+            "MOVE_SYNTHESIS",
+            "MOVE_IRONDEFENSE",
+            "MOVE_TELEKINESIS",
+            "MOVE_ROLEPLAY",
+            "MOVE_IRONHEAD",
+            "MOVE_PAINSPLIT",
+            "MOVE_LIQUIDATION",
+            "MOVE_KNOCKOFF",
+            "MOVE_CONFIDE",
+            "MOVE_WHIRLPOOL",
+            "MOVE_BODYPRESS",
+            "MOVE_HEAVYSLAM",
+            "MOVE_HEX",
+            "MOVE_MUDDYWATER",
+            "MOVE_PHANTOMFORCE",
+            "MOVE_HYDROPUMP",
+            "MOVE_POWERWHIP",
+            "MOVE_SOLARBLADE",
+            "MOVE_POLTERGEIST",
+            "MOVE_GRASSYGLIDE"
+        ]
+    }
 }

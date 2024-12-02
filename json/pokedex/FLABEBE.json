@@ -1,171 +1,540 @@
 {
-    "baseHP": 44,
-    "baseAttack": 38,
-    "baseDefense": 39,
-    "baseSpAttack": 61,
-    "baseSpDefense": 79,
-    "baseSpeed": 42,
-    "type1": "TYPE_FAIRY",
-    "type2": "TYPE_FAIRY",
-    "catchRate": 225,
-    "expYield": 61,
-    "evYield_HP": 0,
-    "evYield_Attack": 0,
-    "evYield_Defense": 0,
-    "evYield_SpAttack": 0,
-    "evYield_SpDefense": 1,
-    "evYield_Speed": 0,
-    "item1": "ITEM_NONE",
-    "item2": "ITEM_NONE",
-    "genderRatio": 100.0,
-    "eggCycles": 20,
-    "friendship": 50,
-    "growthRate": "GROWTH_MEDIUM_FAST",
-    "eggGroup1": "EGG_GROUP_FAIRY",
-    "eggGroup2": "EGG_GROUP_FAIRY",
-    "ability1": "ABILITY_FLOWERVEIL",
-    "ability2": "ABILITY_AROMAVEIL",
-    "safariZoneFleeRate": 0,
-    "hiddenAbility": "ABILITY_SYMBIOSIS",
-    "noFlip": true,
-    "egg_moves": [
-        "MOVE_COPYCAT",
-        "MOVE_CAPTIVATE",
-        "MOVE_CAMOUFLAGE",
-        "MOVE_TEARFULLOOK",
-        "MOVE_SOLARBEAM",
-        "MOVE_DAZZLINGGLEAM"
-    ],
-    "evolve_to": [
-        {
-            "method": "EVO_LEVEL",
-            "condition": "19",
-            "target": "FLOETTE",
-            "extra": "0"
-        }
-    ],
-    "blurb": "It draws and controls the hidden power of flowers. The flower it holds is most likely part of its body.",
-    "name": "Flabebe",
-    "evolve_from": [],
-    "location": [
-        {
-            "route": "Route 14",
-            "area": "",
-            "method": "Good Rod"
-        },
-        {
-            "route": "Route 14",
-            "area": "",
-            "method": "Super Rod"
-        }
-    ],
-    "tm": [
-        "MOVE_CALMMIND",
-        "MOVE_TOXIC",
-        "MOVE_HIDDENPOWER",
-        "MOVE_SUNNYDAY",
-        "MOVE_PROTECT",
-        "MOVE_RAINDANCE",
-        "MOVE_GIGADRAIN",
-        "MOVE_SAFEGUARD",
-        "MOVE_FRUSTRATION",
-        "MOVE_SOLARBEAM",
-        "MOVE_RETURN",
-        "MOVE_PSYCHIC",
-        "MOVE_DOUBLETEAM",
-        "MOVE_FACADE",
-        "MOVE_SECRETPOWER",
-        "MOVE_REST",
-        "MOVE_ATTRACT",
-        "MOVE_ENERGYBALL",
-        "MOVE_ENDURE",
-        "MOVE_FLASH",
-        "MOVE_SLEEPTALK",
-        "MOVE_GRASSKNOT",
-        "MOVE_SWAGGER",
-        "MOVE_SUBSTITUTE",
-        "MOVE_DAZZLINGGLEAM",
-        "MOVE_ROUND",
-        "MOVE_ECHOEDVOICE",
-        "MOVE_NATURALGIFT",
-        "MOVE_NATUREPOWER"
-    ],
-    "tutor": [
-        "MOVE_SNORE",
-        "MOVE_HEALBELL",
-        "MOVE_HELPINGHAND",
-        "MOVE_WORRYSEED",
-        "MOVE_COVET",
-        "MOVE_AFTERYOU",
-        "MOVE_SYNTHESIS",
-        "MOVE_ENDEAVOR",
-        "MOVE_SEEDBOMB",
-        "MOVE_MAGICCOAT",
-        "MOVE_CONFIDE",
-        "MOVE_GRASSYTERRAIN",
-        "MOVE_MISTYTERRAIN",
-        "MOVE_GRASSYGLIDE"
-    ],
-    "learnset": [
-        {
-            "level": 1,
-            "move": "MOVE_TACKLE"
-        },
-        {
-            "level": 1,
-            "move": "MOVE_VINEWHIP"
-        },
-        {
-            "level": 6,
-            "move": "MOVE_FAIRYWIND"
-        },
-        {
-            "level": 10,
-            "move": "MOVE_LUCKYCHANT"
-        },
-        {
-            "level": 14,
-            "move": "MOVE_RAZORLEAF"
-        },
-        {
-            "level": 18,
-            "move": "MOVE_GRASSYTERRAIN"
-        },
-        {
-            "level": 21,
-            "move": "MOVE_SPIRITBREAK"
-        },
-        {
-            "level": 25,
-            "move": "MOVE_MAGICALLEAF"
-        },
-        {
-            "level": 29,
-            "move": "MOVE_PETALBLIZZARD"
-        },
-        {
-            "level": 33,
-            "move": "MOVE_DAZZLINGGLEAM"
-        },
-        {
-            "level": 37,
-            "move": "MOVE_AROMATHERAPY"
-        },
-        {
-            "level": 41,
-            "move": "MOVE_MISTYTERRAIN"
-        },
-        {
-            "level": 44,
-            "move": "MOVE_PETALDANCE"
-        },
-        {
-            "level": 48,
-            "move": "MOVE_MOONBLAST"
-        },
-        {
-            "level": 51,
-            "move": "MOVE_WISH"
-        }
-    ]
+    "FLABEBE": {
+        "blurb": "It draws and controls the hidden power of flowers. The flower it holds is most likely part of its body.",
+        "baseHP": 44,
+        "baseAttack": 38,
+        "baseDefense": 39,
+        "baseSpAttack": 61,
+        "baseSpDefense": 79,
+        "baseSpeed": 42,
+        "type1": "TYPE_FAIRY",
+        "type2": "TYPE_FAIRY",
+        "catchRate": 225,
+        "expYield": 61,
+        "evYield_HP": 0,
+        "evYield_Attack": 0,
+        "evYield_Defense": 0,
+        "evYield_SpAttack": 0,
+        "evYield_SpDefense": 1,
+        "evYield_Speed": 0,
+        "item1": "ITEM_NONE",
+        "item2": "ITEM_NONE",
+        "genderRatio": 100.0,
+        "eggCycles": 20,
+        "friendship": 50,
+        "growthRate": "GROWTH_MEDIUM_FAST",
+        "eggGroup1": "EGG_GROUP_FAIRY",
+        "eggGroup2": "EGG_GROUP_FAIRY",
+        "ability1": "ABILITY_FLOWERVEIL",
+        "ability2": "ABILITY_AROMAVEIL",
+        "safariZoneFleeRate": 0,
+        "hiddenAbility": "ABILITY_SYMBIOSIS",
+        "noFlip": true,
+        "evolve_to": [
+            {
+                "method": "EVO_LEVEL",
+                "condition": "19",
+                "target": "FLOETTE",
+                "extra": "0"
+            }
+        ],
+        "evolve_from": [],
+        "egg_moves": [
+            "MOVE_COPYCAT",
+            "MOVE_CAPTIVATE",
+            "MOVE_CAMOUFLAGE",
+            "MOVE_TEARFULLOOK",
+            "MOVE_SOLARBEAM",
+            "MOVE_DAZZLINGGLEAM"
+        ],
+        "tm": [
+            "MOVE_CALMMIND",
+            "MOVE_TOXIC",
+            "MOVE_HIDDENPOWER",
+            "MOVE_SUNNYDAY",
+            "MOVE_PROTECT",
+            "MOVE_RAINDANCE",
+            "MOVE_GIGADRAIN",
+            "MOVE_SAFEGUARD",
+            "MOVE_FRUSTRATION",
+            "MOVE_SOLARBEAM",
+            "MOVE_RETURN",
+            "MOVE_PSYCHIC",
+            "MOVE_DOUBLETEAM",
+            "MOVE_FACADE",
+            "MOVE_SECRETPOWER",
+            "MOVE_REST",
+            "MOVE_ATTRACT",
+            "MOVE_ENERGYBALL",
+            "MOVE_ENDURE",
+            "MOVE_FLASH",
+            "MOVE_SLEEPTALK",
+            "MOVE_GRASSKNOT",
+            "MOVE_SWAGGER",
+            "MOVE_SUBSTITUTE",
+            "MOVE_DAZZLINGGLEAM",
+            "MOVE_ROUND",
+            "MOVE_ECHOEDVOICE",
+            "MOVE_NATURALGIFT",
+            "MOVE_NATUREPOWER"
+        ],
+        "tutor": [
+            "MOVE_SNORE",
+            "MOVE_HEALBELL",
+            "MOVE_HELPINGHAND",
+            "MOVE_WORRYSEED",
+            "MOVE_COVET",
+            "MOVE_AFTERYOU",
+            "MOVE_SYNTHESIS",
+            "MOVE_ENDEAVOR",
+            "MOVE_SEEDBOMB",
+            "MOVE_MAGICCOAT",
+            "MOVE_CONFIDE",
+            "MOVE_GRASSYTERRAIN",
+            "MOVE_MISTYTERRAIN",
+            "MOVE_GRASSYGLIDE"
+        ]
+    },
+    "FLABEBE_BLUE": {
+        "baseHP": 44,
+        "baseAttack": 38,
+        "baseDefense": 39,
+        "baseSpAttack": 61,
+        "baseSpDefense": 79,
+        "baseSpeed": 42,
+        "type1": "TYPE_FAIRY",
+        "type2": "TYPE_FAIRY",
+        "catchRate": 225,
+        "expYield": 61,
+        "evYield_HP": 0,
+        "evYield_Attack": 0,
+        "evYield_Defense": 0,
+        "evYield_SpAttack": 0,
+        "evYield_SpDefense": 1,
+        "evYield_Speed": 0,
+        "item1": "ITEM_NONE",
+        "item2": "ITEM_NONE",
+        "genderRatio": 100.0,
+        "eggCycles": 20,
+        "friendship": 50,
+        "growthRate": "GROWTH_MEDIUM_FAST",
+        "eggGroup1": "EGG_GROUP_FAIRY",
+        "eggGroup2": "EGG_GROUP_FAIRY",
+        "ability1": "ABILITY_FLOWERVEIL",
+        "ability2": "ABILITY_AROMAVEIL",
+        "safariZoneFleeRate": 0,
+        "hiddenAbility": "ABILITY_SYMBIOSIS",
+        "noFlip": true,
+        "evolve_to": [
+            {
+                "method": "EVO_LEVEL",
+                "condition": "19",
+                "target": "FLOETTE_BLUE",
+                "extra": "0"
+            }
+        ],
+        "evolve_from": [],
+        "egg_moves": [
+            "MOVE_COPYCAT",
+            "MOVE_CAPTIVATE",
+            "MOVE_CAMOUFLAGE",
+            "MOVE_TEARFULLOOK",
+            "MOVE_SOLARBEAM",
+            "MOVE_DAZZLINGGLEAM"
+        ],
+        "tm": [
+            "MOVE_CALMMIND",
+            "MOVE_TOXIC",
+            "MOVE_HIDDENPOWER",
+            "MOVE_SUNNYDAY",
+            "MOVE_PROTECT",
+            "MOVE_RAINDANCE",
+            "MOVE_GIGADRAIN",
+            "MOVE_SAFEGUARD",
+            "MOVE_FRUSTRATION",
+            "MOVE_SOLARBEAM",
+            "MOVE_RETURN",
+            "MOVE_PSYCHIC",
+            "MOVE_DOUBLETEAM",
+            "MOVE_FACADE",
+            "MOVE_SECRETPOWER",
+            "MOVE_REST",
+            "MOVE_ATTRACT",
+            "MOVE_ENERGYBALL",
+            "MOVE_ENDURE",
+            "MOVE_FLASH",
+            "MOVE_SLEEPTALK",
+            "MOVE_GRASSKNOT",
+            "MOVE_SWAGGER",
+            "MOVE_SUBSTITUTE",
+            "MOVE_DAZZLINGGLEAM",
+            "MOVE_ROUND",
+            "MOVE_ECHOEDVOICE",
+            "MOVE_NATURALGIFT",
+            "MOVE_NATUREPOWER"
+        ],
+        "tutor": [
+            "MOVE_SNORE",
+            "MOVE_HEALBELL",
+            "MOVE_HELPINGHAND",
+            "MOVE_WORRYSEED",
+            "MOVE_COVET",
+            "MOVE_AFTERYOU",
+            "MOVE_SYNTHESIS",
+            "MOVE_ENDEAVOR",
+            "MOVE_SEEDBOMB",
+            "MOVE_MAGICCOAT",
+            "MOVE_CONFIDE",
+            "MOVE_GRASSYTERRAIN",
+            "MOVE_MISTYTERRAIN",
+            "MOVE_GRASSYGLIDE"
+        ]
+    },
+    "FLABEBE_ORANGE": {
+        "baseHP": 44,
+        "baseAttack": 38,
+        "baseDefense": 39,
+        "baseSpAttack": 61,
+        "baseSpDefense": 79,
+        "baseSpeed": 42,
+        "type1": "TYPE_FAIRY",
+        "type2": "TYPE_FAIRY",
+        "catchRate": 225,
+        "expYield": 61,
+        "evYield_HP": 0,
+        "evYield_Attack": 0,
+        "evYield_Defense": 0,
+        "evYield_SpAttack": 0,
+        "evYield_SpDefense": 1,
+        "evYield_Speed": 0,
+        "item1": "ITEM_NONE",
+        "item2": "ITEM_NONE",
+        "genderRatio": 100.0,
+        "eggCycles": 20,
+        "friendship": 50,
+        "growthRate": "GROWTH_MEDIUM_FAST",
+        "eggGroup1": "EGG_GROUP_FAIRY",
+        "eggGroup2": "EGG_GROUP_FAIRY",
+        "ability1": "ABILITY_FLOWERVEIL",
+        "ability2": "ABILITY_AROMAVEIL",
+        "safariZoneFleeRate": 0,
+        "hiddenAbility": "ABILITY_SYMBIOSIS",
+        "noFlip": true,
+        "evolve_to": [
+            {
+                "method": "EVO_LEVEL",
+                "condition": "19",
+                "target": "FLOETTE_ORANGE",
+                "extra": "0"
+            }
+        ],
+        "evolve_from": [],
+        "egg_moves": [
+            "MOVE_COPYCAT",
+            "MOVE_CAPTIVATE",
+            "MOVE_CAMOUFLAGE",
+            "MOVE_TEARFULLOOK",
+            "MOVE_SOLARBEAM",
+            "MOVE_DAZZLINGGLEAM"
+        ],
+        "tm": [
+            "MOVE_CALMMIND",
+            "MOVE_TOXIC",
+            "MOVE_HIDDENPOWER",
+            "MOVE_SUNNYDAY",
+            "MOVE_PROTECT",
+            "MOVE_RAINDANCE",
+            "MOVE_GIGADRAIN",
+            "MOVE_SAFEGUARD",
+            "MOVE_FRUSTRATION",
+            "MOVE_SOLARBEAM",
+            "MOVE_RETURN",
+            "MOVE_PSYCHIC",
+            "MOVE_DOUBLETEAM",
+            "MOVE_FACADE",
+            "MOVE_SECRETPOWER",
+            "MOVE_REST",
+            "MOVE_ATTRACT",
+            "MOVE_ENERGYBALL",
+            "MOVE_ENDURE",
+            "MOVE_FLASH",
+            "MOVE_SLEEPTALK",
+            "MOVE_GRASSKNOT",
+            "MOVE_SWAGGER",
+            "MOVE_SUBSTITUTE",
+            "MOVE_DAZZLINGGLEAM",
+            "MOVE_ROUND",
+            "MOVE_ECHOEDVOICE",
+            "MOVE_NATURALGIFT",
+            "MOVE_NATUREPOWER"
+        ],
+        "tutor": [
+            "MOVE_SNORE",
+            "MOVE_HEALBELL",
+            "MOVE_HELPINGHAND",
+            "MOVE_WORRYSEED",
+            "MOVE_COVET",
+            "MOVE_AFTERYOU",
+            "MOVE_SYNTHESIS",
+            "MOVE_ENDEAVOR",
+            "MOVE_SEEDBOMB",
+            "MOVE_MAGICCOAT",
+            "MOVE_CONFIDE",
+            "MOVE_GRASSYTERRAIN",
+            "MOVE_MISTYTERRAIN",
+            "MOVE_GRASSYGLIDE"
+        ]
+    },
+    "FLABEBE_YELLOW": {
+        "baseHP": 44,
+        "baseAttack": 38,
+        "baseDefense": 39,
+        "baseSpAttack": 61,
+        "baseSpDefense": 79,
+        "baseSpeed": 42,
+        "type1": "TYPE_FAIRY",
+        "type2": "TYPE_FAIRY",
+        "catchRate": 225,
+        "expYield": 61,
+        "evYield_HP": 0,
+        "evYield_Attack": 0,
+        "evYield_Defense": 0,
+        "evYield_SpAttack": 0,
+        "evYield_SpDefense": 1,
+        "evYield_Speed": 0,
+        "item1": "ITEM_NONE",
+        "item2": "ITEM_NONE",
+        "genderRatio": 100.0,
+        "eggCycles": 20,
+        "friendship": 50,
+        "growthRate": "GROWTH_MEDIUM_FAST",
+        "eggGroup1": "EGG_GROUP_FAIRY",
+        "eggGroup2": "EGG_GROUP_FAIRY",
+        "ability1": "ABILITY_FLOWERVEIL",
+        "ability2": "ABILITY_AROMAVEIL",
+        "safariZoneFleeRate": 0,
+        "hiddenAbility": "ABILITY_SYMBIOSIS",
+        "noFlip": true,
+        "evolve_to": [
+            {
+                "method": "EVO_LEVEL",
+                "condition": "19",
+                "target": "FLOETTE_YELLOW",
+                "extra": "0"
+            }
+        ],
+        "evolve_from": [],
+        "egg_moves": [
+            "MOVE_COPYCAT",
+            "MOVE_CAPTIVATE",
+            "MOVE_CAMOUFLAGE",
+            "MOVE_TEARFULLOOK",
+            "MOVE_SOLARBEAM",
+            "MOVE_DAZZLINGGLEAM"
+        ],
+        "tm": [
+            "MOVE_CALMMIND",
+            "MOVE_TOXIC",
+            "MOVE_HIDDENPOWER",
+            "MOVE_SUNNYDAY",
+            "MOVE_PROTECT",
+            "MOVE_RAINDANCE",
+            "MOVE_GIGADRAIN",
+            "MOVE_SAFEGUARD",
+            "MOVE_FRUSTRATION",
+            "MOVE_SOLARBEAM",
+            "MOVE_RETURN",
+            "MOVE_PSYCHIC",
+            "MOVE_DOUBLETEAM",
+            "MOVE_FACADE",
+            "MOVE_SECRETPOWER",
+            "MOVE_REST",
+            "MOVE_ATTRACT",
+            "MOVE_ENERGYBALL",
+            "MOVE_ENDURE",
+            "MOVE_FLASH",
+            "MOVE_SLEEPTALK",
+            "MOVE_GRASSKNOT",
+            "MOVE_SWAGGER",
+            "MOVE_SUBSTITUTE",
+            "MOVE_DAZZLINGGLEAM",
+            "MOVE_ROUND",
+            "MOVE_ECHOEDVOICE",
+            "MOVE_NATURALGIFT",
+            "MOVE_NATUREPOWER"
+        ],
+        "tutor": [
+            "MOVE_SNORE",
+            "MOVE_HEALBELL",
+            "MOVE_HELPINGHAND",
+            "MOVE_WORRYSEED",
+            "MOVE_COVET",
+            "MOVE_AFTERYOU",
+            "MOVE_SYNTHESIS",
+            "MOVE_ENDEAVOR",
+            "MOVE_SEEDBOMB",
+            "MOVE_MAGICCOAT",
+            "MOVE_CONFIDE",
+            "MOVE_GRASSYTERRAIN",
+            "MOVE_MISTYTERRAIN",
+            "MOVE_GRASSYGLIDE"
+        ]
+    },
+    "FLABEBE_WHITE": {
+        "baseHP": 44,
+        "baseAttack": 38,
+        "baseDefense": 39,
+        "baseSpAttack": 61,
+        "baseSpDefense": 79,
+        "baseSpeed": 42,
+        "type1": "TYPE_FAIRY",
+        "type2": "TYPE_FAIRY",
+        "catchRate": 225,
+        "expYield": 61,
+        "evYield_HP": 0,
+        "evYield_Attack": 0,
+        "evYield_Defense": 0,
+        "evYield_SpAttack": 0,
+        "evYield_SpDefense": 1,
+        "evYield_Speed": 0,
+        "item1": "ITEM_NONE",
+        "item2": "ITEM_NONE",
+        "genderRatio": 100.0,
+        "eggCycles": 20,
+        "friendship": 50,
+        "growthRate": "GROWTH_MEDIUM_FAST",
+        "eggGroup1": "EGG_GROUP_FAIRY",
+        "eggGroup2": "EGG_GROUP_FAIRY",
+        "ability1": "ABILITY_FLOWERVEIL",
+        "ability2": "ABILITY_AROMAVEIL",
+        "safariZoneFleeRate": 0,
+        "hiddenAbility": "ABILITY_SYMBIOSIS",
+        "noFlip": true,
+        "evolve_to": [
+            {
+                "method": "EVO_LEVEL",
+                "condition": "19",
+                "target": "FLOETTE_WHITE",
+                "extra": "0"
+            }
+        ],
+        "evolve_from": [],
+        "egg_moves": [
+            "MOVE_COPYCAT",
+            "MOVE_CAPTIVATE",
+            "MOVE_CAMOUFLAGE",
+            "MOVE_TEARFULLOOK",
+            "MOVE_SOLARBEAM",
+            "MOVE_DAZZLINGGLEAM"
+        ],
+        "learnset": [
+            {
+                "level": 1,
+                "move": "MOVE_TACKLE"
+            },
+            {
+                "level": 1,
+                "move": "MOVE_VINEWHIP"
+            },
+            {
+                "level": 6,
+                "move": "MOVE_FAIRYWIND"
+            },
+            {
+                "level": 10,
+                "move": "MOVE_LUCKYCHANT"
+            },
+            {
+                "level": 14,
+                "move": "MOVE_RAZORLEAF"
+            },
+            {
+                "level": 18,
+                "move": "MOVE_GRASSYTERRAIN"
+            },
+            {
+                "level": 21,
+                "move": "MOVE_SPIRITBREAK"
+            },
+            {
+                "level": 25,
+                "move": "MOVE_MAGICALLEAF"
+            },
+            {
+                "level": 29,
+                "move": "MOVE_PETALBLIZZARD"
+            },
+            {
+                "level": 33,
+                "move": "MOVE_DAZZLINGGLEAM"
+            },
+            {
+                "level": 37,
+                "move": "MOVE_AROMATHERAPY"
+            },
+            {
+                "level": 41,
+                "move": "MOVE_MISTYTERRAIN"
+            },
+            {
+                "level": 44,
+                "move": "MOVE_PETALDANCE"
+            },
+            {
+                "level": 48,
+                "move": "MOVE_MOONBLAST"
+            },
+            {
+                "level": 51,
+                "move": "MOVE_WISH"
+            }
+        ],
+        "tm": [
+            "MOVE_CALMMIND",
+            "MOVE_TOXIC",
+            "MOVE_HIDDENPOWER",
+            "MOVE_SUNNYDAY",
+            "MOVE_PROTECT",
+            "MOVE_RAINDANCE",
+            "MOVE_GIGADRAIN",
+            "MOVE_SAFEGUARD",
+            "MOVE_FRUSTRATION",
+            "MOVE_SOLARBEAM",
+            "MOVE_RETURN",
+            "MOVE_PSYCHIC",
+            "MOVE_DOUBLETEAM",
+            "MOVE_FACADE",
+            "MOVE_SECRETPOWER",
+            "MOVE_REST",
+            "MOVE_ATTRACT",
+            "MOVE_ENERGYBALL",
+            "MOVE_ENDURE",
+            "MOVE_FLASH",
+            "MOVE_SLEEPTALK",
+            "MOVE_GRASSKNOT",
+            "MOVE_SWAGGER",
+            "MOVE_SUBSTITUTE",
+            "MOVE_DAZZLINGGLEAM",
+            "MOVE_ROUND",
+            "MOVE_ECHOEDVOICE",
+            "MOVE_NATURALGIFT",
+            "MOVE_NATUREPOWER"
+        ],
+        "tutor": [
+            "MOVE_SNORE",
+            "MOVE_HEALBELL",
+            "MOVE_HELPINGHAND",
+            "MOVE_WORRYSEED",
+            "MOVE_COVET",
+            "MOVE_AFTERYOU",
+            "MOVE_SYNTHESIS",
+            "MOVE_ENDEAVOR",
+            "MOVE_SEEDBOMB",
+            "MOVE_MAGICCOAT",
+            "MOVE_CONFIDE",
+            "MOVE_GRASSYTERRAIN",
+            "MOVE_MISTYTERRAIN",
+            "MOVE_GRASSYGLIDE"
+        ]
+    }
 }

@@ -1,194 +1,183 @@
 {
-    "baseHP": 70,
-    "baseAttack": 85,
-    "baseDefense": 70,
-    "baseSpAttack": 60,
-    "baseSpDefense": 70,
-    "baseSpeed": 50,
-    "type1": "TYPE_WATER",
-    "type2": "TYPE_GROUND",
-    "catchRate": 45,
-    "expYield": 143,
-    "evYield_HP": 0,
-    "evYield_Attack": 2,
-    "evYield_Defense": 0,
-    "evYield_SpAttack": 0,
-    "evYield_SpDefense": 0,
-    "evYield_Speed": 0,
-    "item1": "ITEM_NONE",
-    "item2": "ITEM_NONE",
-    "genderRatio": 12.5,
-    "eggCycles": 20,
-    "friendship": 50,
-    "growthRate": "GROWTH_MEDIUM_SLOW",
-    "eggGroup1": "EGG_GROUP_MONSTER",
-    "eggGroup2": "EGG_GROUP_WATER_1",
-    "ability1": "ABILITY_TORRENT",
-    "ability2": "ABILITY_NONE",
-    "safariZoneFleeRate": 0,
-    "hiddenAbility": "ABILITY_DAMP",
-    "noFlip": true,
-    "evolve_to": [
-        {
-            "method": "EVO_LEVEL",
-            "condition": "36",
-            "target": "SWAMPERT",
-            "extra": "0"
-        }
-    ],
-    "name": "Marshtomp",
-    "evolve_from": [
-        "MUDKIP"
-    ],
-    "location": [
-        {
-            "route": "Safari Zone",
-            "area": "Hard",
-            "method": "land"
-        },
-        {
-            "route": "Safari Zone",
-            "area": "Insane",
-            "method": "land"
-        }
-    ],
-    "learnset": [
-        {
-            "level": 0,
-            "move": "MOVE_MUDSHOT"
-        },
-        {
-            "level": 1,
-            "move": "MOVE_SURF"
-        },
-        {
-            "level": 1,
-            "move": "MOVE_TACKLE"
-        },
-        {
-            "level": 1,
-            "move": "MOVE_GROWL"
-        },
-        {
-            "level": 1,
-            "move": "MOVE_WATERGUN"
-        },
-        {
-            "level": 1,
-            "move": "MOVE_ROCKSMASH"
-        },
-        {
-            "level": 9,
-            "move": "MOVE_ROCKTHROW"
-        },
-        {
-            "level": 12,
-            "move": "MOVE_PROTECT"
-        },
-        {
-            "level": 15,
-            "move": "MOVE_SUPERSONIC"
-        },
-        {
-            "level": 15,
-            "move": "MOVE_MUDSHOT"
-        },
-        {
-            "level": 20,
-            "move": "MOVE_WATERPULSE"
-        },
-        {
-            "level": 25,
-            "move": "MOVE_ROCKSLIDE"
-        },
-        {
-            "level": 30,
-            "move": "MOVE_TAKEDOWN"
-        },
-        {
-            "level": 35,
-            "move": "MOVE_AMNESIA"
-        },
-        {
-            "level": 39,
-            "move": "MOVE_MUDDYWATER"
-        },
-        {
-            "level": 44,
-            "move": "MOVE_MUDBOMB"
-        },
-        {
-            "level": 49,
-            "move": "MOVE_SCREECH"
-        },
-        {
-            "level": 53,
-            "move": "MOVE_ENDEAVOR"
-        },
-        {
-            "level": 58,
-            "move": "MOVE_HYDROPUMP"
-        }
-    ],
-    "tm": [
-        "MOVE_WATERPULSE",
-        "MOVE_TOXIC",
-        "MOVE_HAIL",
-        "MOVE_HIDDENPOWER",
-        "MOVE_ICEBEAM",
-        "MOVE_BLIZZARD",
-        "MOVE_PROTECT",
-        "MOVE_RAINDANCE",
-        "MOVE_FRUSTRATION",
-        "MOVE_IRONTAIL",
-        "MOVE_EARTHQUAKE",
-        "MOVE_RETURN",
-        "MOVE_DIG",
-        "MOVE_BRICKBREAK",
-        "MOVE_DOUBLETEAM",
-        "MOVE_ROCKTOMB",
-        "MOVE_FACADE",
-        "MOVE_SECRETPOWER",
-        "MOVE_REST",
-        "MOVE_ATTRACT",
-        "MOVE_ENDURE",
-        "MOVE_AVALANCHE",
-        "MOVE_STEALTHROCK",
-        "MOVE_ROCKSLIDE",
-        "MOVE_SLEEPTALK",
-        "MOVE_SCALD",
-        "MOVE_SWAGGER",
-        "MOVE_SUBSTITUTE",
-        "MOVE_BULLDOZE",
-        "MOVE_WORKUP",
-        "MOVE_POWERUPPUNCH",
-        "MOVE_SLUDGEWAVE",
-        "MOVE_ROUND",
-        "MOVE_ECHOEDVOICE",
-        "MOVE_NATURALGIFT",
-        "MOVE_FLING",
-        "MOVE_SURF",
-        "MOVE_STRENGTH",
-        "MOVE_DIVE",
-        "MOVE_ROCKSMASH",
-        "MOVE_WATERFALL"
-    ],
-    "tutor": [
-        "MOVE_ICEPUNCH",
-        "MOVE_SNORE",
-        "MOVE_LOWKICK",
-        "MOVE_UPROAR",
-        "MOVE_AQUATAIL",
-        "MOVE_ENDEAVOR",
-        "MOVE_ICYWIND",
-        "MOVE_EARTHPOWER",
-        "MOVE_SUPERPOWER",
-        "MOVE_CONFIDE",
-        "MOVE_WATERPLEDGE",
-        "MOVE_WHIRLPOOL",
-        "MOVE_SANDTOMB",
-        "MOVE_BODYSLAM",
-        "MOVE_MUDDYWATER",
-        "MOVE_HYDROPUMP"
-    ]
+    "MARSHTOMP": {
+        "baseHP": 70,
+        "baseAttack": 85,
+        "baseDefense": 70,
+        "baseSpAttack": 60,
+        "baseSpDefense": 70,
+        "baseSpeed": 50,
+        "type1": "TYPE_WATER",
+        "type2": "TYPE_GROUND",
+        "catchRate": 45,
+        "expYield": 143,
+        "evYield_HP": 0,
+        "evYield_Attack": 2,
+        "evYield_Defense": 0,
+        "evYield_SpAttack": 0,
+        "evYield_SpDefense": 0,
+        "evYield_Speed": 0,
+        "item1": "ITEM_NONE",
+        "item2": "ITEM_NONE",
+        "genderRatio": 12.5,
+        "eggCycles": 20,
+        "friendship": 50,
+        "growthRate": "GROWTH_MEDIUM_SLOW",
+        "eggGroup1": "EGG_GROUP_MONSTER",
+        "eggGroup2": "EGG_GROUP_WATER_1",
+        "ability1": "ABILITY_TORRENT",
+        "ability2": "ABILITY_NONE",
+        "safariZoneFleeRate": 0,
+        "hiddenAbility": "ABILITY_DAMP",
+        "noFlip": true,
+        "evolve_to": [
+            {
+                "method": "EVO_LEVEL",
+                "condition": "36",
+                "target": "SWAMPERT",
+                "extra": "0"
+            }
+        ],
+        "evolve_from": [
+            "MUDKIP"
+        ],
+        "learnset": [
+            {
+                "level": 0,
+                "move": "MOVE_MUDSHOT"
+            },
+            {
+                "level": 1,
+                "move": "MOVE_SURF"
+            },
+            {
+                "level": 1,
+                "move": "MOVE_TACKLE"
+            },
+            {
+                "level": 1,
+                "move": "MOVE_GROWL"
+            },
+            {
+                "level": 1,
+                "move": "MOVE_WATERGUN"
+            },
+            {
+                "level": 1,
+                "move": "MOVE_ROCKSMASH"
+            },
+            {
+                "level": 9,
+                "move": "MOVE_ROCKTHROW"
+            },
+            {
+                "level": 12,
+                "move": "MOVE_PROTECT"
+            },
+            {
+                "level": 15,
+                "move": "MOVE_SUPERSONIC"
+            },
+            {
+                "level": 15,
+                "move": "MOVE_MUDSHOT"
+            },
+            {
+                "level": 20,
+                "move": "MOVE_WATERPULSE"
+            },
+            {
+                "level": 25,
+                "move": "MOVE_ROCKSLIDE"
+            },
+            {
+                "level": 30,
+                "move": "MOVE_TAKEDOWN"
+            },
+            {
+                "level": 35,
+                "move": "MOVE_AMNESIA"
+            },
+            {
+                "level": 39,
+                "move": "MOVE_MUDDYWATER"
+            },
+            {
+                "level": 44,
+                "move": "MOVE_MUDBOMB"
+            },
+            {
+                "level": 49,
+                "move": "MOVE_SCREECH"
+            },
+            {
+                "level": 53,
+                "move": "MOVE_ENDEAVOR"
+            },
+            {
+                "level": 58,
+                "move": "MOVE_HYDROPUMP"
+            }
+        ],
+        "tm": [
+            "MOVE_WATERPULSE",
+            "MOVE_TOXIC",
+            "MOVE_HAIL",
+            "MOVE_HIDDENPOWER",
+            "MOVE_ICEBEAM",
+            "MOVE_BLIZZARD",
+            "MOVE_PROTECT",
+            "MOVE_RAINDANCE",
+            "MOVE_FRUSTRATION",
+            "MOVE_IRONTAIL",
+            "MOVE_EARTHQUAKE",
+            "MOVE_RETURN",
+            "MOVE_DIG",
+            "MOVE_BRICKBREAK",
+            "MOVE_DOUBLETEAM",
+            "MOVE_ROCKTOMB",
+            "MOVE_FACADE",
+            "MOVE_SECRETPOWER",
+            "MOVE_REST",
+            "MOVE_ATTRACT",
+            "MOVE_ENDURE",
+            "MOVE_AVALANCHE",
+            "MOVE_STEALTHROCK",
+            "MOVE_ROCKSLIDE",
+            "MOVE_SLEEPTALK",
+            "MOVE_SCALD",
+            "MOVE_SWAGGER",
+            "MOVE_SUBSTITUTE",
+            "MOVE_BULLDOZE",
+            "MOVE_WORKUP",
+            "MOVE_POWERUPPUNCH",
+            "MOVE_SLUDGEWAVE",
+            "MOVE_ROUND",
+            "MOVE_ECHOEDVOICE",
+            "MOVE_NATURALGIFT",
+            "MOVE_FLING",
+            "MOVE_SURF",
+            "MOVE_STRENGTH",
+            "MOVE_DIVE",
+            "MOVE_ROCKSMASH",
+            "MOVE_WATERFALL"
+        ],
+        "tutor": [
+            "MOVE_ICEPUNCH",
+            "MOVE_SNORE",
+            "MOVE_LOWKICK",
+            "MOVE_UPROAR",
+            "MOVE_AQUATAIL",
+            "MOVE_ENDEAVOR",
+            "MOVE_ICYWIND",
+            "MOVE_EARTHPOWER",
+            "MOVE_SUPERPOWER",
+            "MOVE_CONFIDE",
+            "MOVE_WATERPLEDGE",
+            "MOVE_WHIRLPOOL",
+            "MOVE_SANDTOMB",
+            "MOVE_BODYSLAM",
+            "MOVE_MUDDYWATER",
+            "MOVE_HYDROPUMP"
+        ]
+    }
 }

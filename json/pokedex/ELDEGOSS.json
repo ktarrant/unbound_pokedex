@@ -1,146 +1,140 @@
 {
-    "baseHP": 60,
-    "baseAttack": 50,
-    "baseDefense": 90,
-    "baseSpAttack": 80,
-    "baseSpDefense": 120,
-    "baseSpeed": 60,
-    "type1": "TYPE_GRASS",
-    "type2": "TYPE_GRASS",
-    "catchRate": 75,
-    "expYield": 161,
-    "evYield_HP": 0,
-    "evYield_Attack": 0,
-    "evYield_Defense": 0,
-    "evYield_SpAttack": 0,
-    "evYield_SpDefense": 2,
-    "evYield_Speed": 0,
-    "item1": "ITEM_NONE",
-    "item2": "ITEM_NONE",
-    "genderRatio": 50.0,
-    "eggCycles": 20,
-    "friendship": 50,
-    "growthRate": "GROWTH_MEDIUM_FAST",
-    "eggGroup1": "EGG_GROUP_GRASS",
-    "eggGroup2": "EGG_GROUP_GRASS",
-    "ability1": "ABILITY_COTTONDOWN",
-    "ability2": "ABILITY_REGENERATOR",
-    "safariZoneFleeRate": 0,
-    "hiddenAbility": "ABILITY_EFFECTSPORE",
-    "noFlip": true,
-    "blurb": "The seeds attached to its cotton fluff are full of nutrients. It spreads them on the wind so that others can benefit.",
-    "name": "Eldegoss",
-    "evolve_from": [
-        "GOSSIFLEUR"
-    ],
-    "location": [
-        {
-            "route": "Route 14",
-            "area": "Special Encounter",
-            "method": "land"
-        }
-    ],
-    "learnset": [
-        {
-            "level": 0,
-            "move": "MOVE_COTTONSPORE"
-        },
-        {
-            "level": 1,
-            "move": "MOVE_LEAFAGE"
-        },
-        {
-            "level": 1,
-            "move": "MOVE_SING"
-        },
-        {
-            "level": 4,
-            "move": "MOVE_RAPIDSPIN"
-        },
-        {
-            "level": 8,
-            "move": "MOVE_SWEETSCENT"
-        },
-        {
-            "level": 12,
-            "move": "MOVE_RAZORLEAF"
-        },
-        {
-            "level": 16,
-            "move": "MOVE_ROUND"
-        },
-        {
-            "level": 19,
-            "move": "MOVE_COTTONSPORE"
-        },
-        {
-            "level": 23,
-            "move": "MOVE_LEAFTORNADO"
-        },
-        {
-            "level": 28,
-            "move": "MOVE_SYNTHESIS"
-        },
-        {
-            "level": 34,
-            "move": "MOVE_HYPERVOICE"
-        },
-        {
-            "level": 40,
-            "move": "MOVE_AROMATHERAPY"
-        },
-        {
-            "level": 46,
-            "move": "MOVE_LEAFSTORM"
-        },
-        {
-            "level": 52,
-            "move": "MOVE_COTTONGUARD"
-        }
-    ],
-    "tm": [
-        "MOVE_TOXIC",
-        "MOVE_BULLETSEED",
-        "MOVE_HIDDENPOWER",
-        "MOVE_SUNNYDAY",
-        "MOVE_HYPERBEAM",
-        "MOVE_LIGHTSCREEN",
-        "MOVE_PROTECT",
-        "MOVE_GIGADRAIN",
-        "MOVE_FRUSTRATION",
-        "MOVE_SOLARBEAM",
-        "MOVE_RETURN",
-        "MOVE_DOUBLETEAM",
-        "MOVE_FACADE",
-        "MOVE_SECRETPOWER",
-        "MOVE_REST",
-        "MOVE_ATTRACT",
-        "MOVE_ENERGYBALL",
-        "MOVE_ENDURE",
-        "MOVE_SILVERWIND",
-        "MOVE_RECYCLE",
-        "MOVE_GIGAIMPACT",
-        "MOVE_SLEEPTALK",
-        "MOVE_GRASSKNOT",
-        "MOVE_SWAGGER",
-        "MOVE_SUBSTITUTE",
-        "MOVE_INFESTATION",
-        "MOVE_ROUND",
-        "MOVE_NATURALGIFT",
-        "MOVE_NATUREPOWER"
-    ],
-    "tutor": [
-        "MOVE_SNORE",
-        "MOVE_HELPINGHAND",
-        "MOVE_WORRYSEED",
-        "MOVE_SYNTHESIS",
-        "MOVE_SEEDBOMB",
-        "MOVE_HYPERVOICE",
-        "MOVE_CONFIDE",
-        "MOVE_GRASSYTERRAIN",
-        "MOVE_WEATHERBALL",
-        "MOVE_POLLENPUFF",
-        "MOVE_LEAFSTORM",
-        "MOVE_GRASSYGLIDE"
-    ]
+    "ELDEGOSS": {
+        "blurb": "The seeds attached to its cotton fluff are full of nutrients. It spreads them on the wind so that others can benefit.",
+        "baseHP": 60,
+        "baseAttack": 50,
+        "baseDefense": 90,
+        "baseSpAttack": 80,
+        "baseSpDefense": 120,
+        "baseSpeed": 60,
+        "type1": "TYPE_GRASS",
+        "type2": "TYPE_GRASS",
+        "catchRate": 75,
+        "expYield": 161,
+        "evYield_HP": 0,
+        "evYield_Attack": 0,
+        "evYield_Defense": 0,
+        "evYield_SpAttack": 0,
+        "evYield_SpDefense": 2,
+        "evYield_Speed": 0,
+        "item1": "ITEM_NONE",
+        "item2": "ITEM_NONE",
+        "genderRatio": 50.0,
+        "eggCycles": 20,
+        "friendship": 50,
+        "growthRate": "GROWTH_MEDIUM_FAST",
+        "eggGroup1": "EGG_GROUP_GRASS",
+        "eggGroup2": "EGG_GROUP_GRASS",
+        "ability1": "ABILITY_COTTONDOWN",
+        "ability2": "ABILITY_REGENERATOR",
+        "safariZoneFleeRate": 0,
+        "hiddenAbility": "ABILITY_EFFECTSPORE",
+        "noFlip": true,
+        "evolve_from": [
+            "GOSSIFLEUR"
+        ],
+        "learnset": [
+            {
+                "level": 0,
+                "move": "MOVE_COTTONSPORE"
+            },
+            {
+                "level": 1,
+                "move": "MOVE_LEAFAGE"
+            },
+            {
+                "level": 1,
+                "move": "MOVE_SING"
+            },
+            {
+                "level": 4,
+                "move": "MOVE_RAPIDSPIN"
+            },
+            {
+                "level": 8,
+                "move": "MOVE_SWEETSCENT"
+            },
+            {
+                "level": 12,
+                "move": "MOVE_RAZORLEAF"
+            },
+            {
+                "level": 16,
+                "move": "MOVE_ROUND"
+            },
+            {
+                "level": 19,
+                "move": "MOVE_COTTONSPORE"
+            },
+            {
+                "level": 23,
+                "move": "MOVE_LEAFTORNADO"
+            },
+            {
+                "level": 28,
+                "move": "MOVE_SYNTHESIS"
+            },
+            {
+                "level": 34,
+                "move": "MOVE_HYPERVOICE"
+            },
+            {
+                "level": 40,
+                "move": "MOVE_AROMATHERAPY"
+            },
+            {
+                "level": 46,
+                "move": "MOVE_LEAFSTORM"
+            },
+            {
+                "level": 52,
+                "move": "MOVE_COTTONGUARD"
+            }
+        ],
+        "tm": [
+            "MOVE_TOXIC",
+            "MOVE_BULLETSEED",
+            "MOVE_HIDDENPOWER",
+            "MOVE_SUNNYDAY",
+            "MOVE_HYPERBEAM",
+            "MOVE_LIGHTSCREEN",
+            "MOVE_PROTECT",
+            "MOVE_GIGADRAIN",
+            "MOVE_FRUSTRATION",
+            "MOVE_SOLARBEAM",
+            "MOVE_RETURN",
+            "MOVE_DOUBLETEAM",
+            "MOVE_FACADE",
+            "MOVE_SECRETPOWER",
+            "MOVE_REST",
+            "MOVE_ATTRACT",
+            "MOVE_ENERGYBALL",
+            "MOVE_ENDURE",
+            "MOVE_SILVERWIND",
+            "MOVE_RECYCLE",
+            "MOVE_GIGAIMPACT",
+            "MOVE_SLEEPTALK",
+            "MOVE_GRASSKNOT",
+            "MOVE_SWAGGER",
+            "MOVE_SUBSTITUTE",
+            "MOVE_INFESTATION",
+            "MOVE_ROUND",
+            "MOVE_NATURALGIFT",
+            "MOVE_NATUREPOWER"
+        ],
+        "tutor": [
+            "MOVE_SNORE",
+            "MOVE_HELPINGHAND",
+            "MOVE_WORRYSEED",
+            "MOVE_SYNTHESIS",
+            "MOVE_SEEDBOMB",
+            "MOVE_HYPERVOICE",
+            "MOVE_CONFIDE",
+            "MOVE_GRASSYTERRAIN",
+            "MOVE_WEATHERBALL",
+            "MOVE_POLLENPUFF",
+            "MOVE_LEAFSTORM",
+            "MOVE_GRASSYGLIDE"
+        ]
+    }
 }

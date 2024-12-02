@@ -1,186 +1,374 @@
 {
-    "baseHP": 38,
-    "baseAttack": 41,
-    "baseDefense": 40,
-    "baseSpAttack": 50,
-    "baseSpDefense": 65,
-    "baseSpeed": 65,
-    "type1": "TYPE_FIRE",
-    "type2": "TYPE_FIRE",
-    "catchRate": 190,
-    "expYield": 63,
-    "evYield_HP": 0,
-    "evYield_Attack": 0,
-    "evYield_Defense": 0,
-    "evYield_SpAttack": 0,
-    "evYield_SpDefense": 0,
-    "evYield_Speed": 1,
-    "item1": "ITEM_RAWST_BERRY",
-    "item2": "ITEM_CHARCOAL",
-    "genderRatio": 75.0,
-    "eggCycles": 20,
-    "friendship": 50,
-    "growthRate": "GROWTH_MEDIUM_FAST",
-    "eggGroup1": "EGG_GROUP_FIELD",
-    "eggGroup2": "EGG_GROUP_FIELD",
-    "ability1": "ABILITY_FLASHFIRE",
-    "ability2": "ABILITY_NONE",
-    "safariZoneFleeRate": 0,
-    "hiddenAbility": "ABILITY_DROUGHT",
-    "noFlip": true,
-    "egg_moves": [
-        "MOVE_FEINTATTACK",
-        "MOVE_HYPNOSIS",
-        "MOVE_FLAIL",
-        "MOVE_HOWL",
-        "MOVE_HEATWAVE",
-        "MOVE_FLAREBLITZ",
-        "MOVE_POWERSWAP",
-        "MOVE_SECRETPOWER",
-        "MOVE_TAILSLAP",
-        "MOVE_CAPTIVATE",
-        "MOVE_MEMENTO",
-        "MOVE_BABYDOLLEYES",
-        "MOVE_ROAR",
-        "MOVE_FLAMECHARGE"
-    ],
-    "evolve_to": [
-        {
-            "method": "EVO_ITEM",
-            "condition": "ITEM_FIRE_STONE",
-            "target": "NINETALES",
-            "extra": "0"
-        }
-    ],
-    "name": "Vulpix",
-    "evolve_from": [],
-    "learnset": [
-        {
-            "level": 1,
-            "move": "MOVE_EMBER"
-        },
-        {
-            "level": 1,
-            "move": "MOVE_TAILWHIP"
-        },
-        {
-            "level": 4,
-            "move": "MOVE_DISABLE"
-        },
-        {
-            "level": 8,
-            "move": "MOVE_QUICKATTACK"
-        },
-        {
-            "level": 11,
-            "move": "MOVE_SPITE"
-        },
-        {
-            "level": 14,
-            "move": "MOVE_INCINERATE"
-        },
-        {
-            "level": 17,
-            "move": "MOVE_CONFUSERAY"
-        },
-        {
-            "level": 20,
-            "move": "MOVE_HEX"
-        },
-        {
-            "level": 23,
-            "move": "MOVE_WILLOWISP"
-        },
-        {
-            "level": 26,
-            "move": "MOVE_FLAMEBURST"
-        },
-        {
-            "level": 30,
-            "move": "MOVE_EXTRASENSORY"
-        },
-        {
-            "level": 34,
-            "move": "MOVE_IMPRISON"
-        },
-        {
-            "level": 38,
-            "move": "MOVE_FLAMETHROWER"
-        },
-        {
-            "level": 42,
-            "move": "MOVE_SAFEGUARD"
-        },
-        {
-            "level": 46,
-            "move": "MOVE_FIRESPIN"
-        },
-        {
-            "level": 50,
-            "move": "MOVE_INFERNO"
-        },
-        {
-            "level": 54,
-            "move": "MOVE_GRUDGE"
-        },
-        {
-            "level": 58,
-            "move": "MOVE_FIREBLAST"
-        }
-    ],
-    "tm": [
-        "MOVE_ROAR",
-        "MOVE_TOXIC",
-        "MOVE_HIDDENPOWER",
-        "MOVE_SUNNYDAY",
-        "MOVE_PROTECT",
-        "MOVE_SAFEGUARD",
-        "MOVE_FRUSTRATION",
-        "MOVE_IRONTAIL",
-        "MOVE_RETURN",
-        "MOVE_DIG",
-        "MOVE_DOUBLETEAM",
-        "MOVE_FLAMETHROWER",
-        "MOVE_FIREBLAST",
-        "MOVE_FACADE",
-        "MOVE_SECRETPOWER",
-        "MOVE_REST",
-        "MOVE_ATTRACT",
-        "MOVE_OVERHEAT",
-        "MOVE_ENERGYBALL",
-        "MOVE_ENDURE",
-        "MOVE_WILLOWISP",
-        "MOVE_PAYBACK",
-        "MOVE_FLAMECHARGE",
-        "MOVE_DARKPULSE",
-        "MOVE_SLEEPTALK",
-        "MOVE_SWAGGER",
-        "MOVE_SUBSTITUTE",
-        "MOVE_INCINERATE",
-        "MOVE_ROUND",
-        "MOVE_NATURALGIFT"
-    ],
-    "tutor": [
-        "MOVE_SNORE",
-        "MOVE_COVET",
-        "MOVE_SPITE",
-        "MOVE_ROLEPLAY",
-        "MOVE_PAINSPLIT",
-        "MOVE_ZENHEADBUTT",
-        "MOVE_FOULPLAY",
-        "MOVE_HEATWAVE",
-        "MOVE_PSYCHUP",
-        "MOVE_CONFIDE",
-        "MOVE_ENCORE",
-        "MOVE_AGILITY",
-        "MOVE_NASTYPLOT",
-        "MOVE_FIRESPIN",
-        "MOVE_TAILSLAP",
-        "MOVE_BODYSLAM",
-        "MOVE_HEX",
-        "MOVE_WEATHERBALL",
-        "MOVE_MYSTICALFIRE",
-        "MOVE_FLAREBLITZ",
-        "MOVE_BURNINGJEALOUSY"
-    ]
+    "VULPIX": {
+        "baseHP": 38,
+        "baseAttack": 41,
+        "baseDefense": 40,
+        "baseSpAttack": 50,
+        "baseSpDefense": 65,
+        "baseSpeed": 65,
+        "type1": "TYPE_FIRE",
+        "type2": "TYPE_FIRE",
+        "catchRate": 190,
+        "expYield": 63,
+        "evYield_HP": 0,
+        "evYield_Attack": 0,
+        "evYield_Defense": 0,
+        "evYield_SpAttack": 0,
+        "evYield_SpDefense": 0,
+        "evYield_Speed": 1,
+        "item1": "ITEM_RAWST_BERRY",
+        "item2": "ITEM_CHARCOAL",
+        "genderRatio": 75.0,
+        "eggCycles": 20,
+        "friendship": 50,
+        "growthRate": "GROWTH_MEDIUM_FAST",
+        "eggGroup1": "EGG_GROUP_FIELD",
+        "eggGroup2": "EGG_GROUP_FIELD",
+        "ability1": "ABILITY_FLASHFIRE",
+        "ability2": "ABILITY_NONE",
+        "safariZoneFleeRate": 0,
+        "hiddenAbility": "ABILITY_DROUGHT",
+        "noFlip": true,
+        "evolve_to": [
+            {
+                "method": "EVO_ITEM",
+                "condition": "ITEM_FIRE_STONE",
+                "target": "NINETALES",
+                "extra": "0"
+            }
+        ],
+        "evolve_from": [],
+        "egg_moves": [
+            "MOVE_FEINTATTACK",
+            "MOVE_HYPNOSIS",
+            "MOVE_FLAIL",
+            "MOVE_HOWL",
+            "MOVE_HEATWAVE",
+            "MOVE_FLAREBLITZ",
+            "MOVE_POWERSWAP",
+            "MOVE_SECRETPOWER",
+            "MOVE_TAILSLAP",
+            "MOVE_CAPTIVATE",
+            "MOVE_MEMENTO",
+            "MOVE_BABYDOLLEYES",
+            "MOVE_ROAR",
+            "MOVE_FLAMECHARGE"
+        ],
+        "learnset": [
+            {
+                "level": 1,
+                "move": "MOVE_EMBER"
+            },
+            {
+                "level": 1,
+                "move": "MOVE_TAILWHIP"
+            },
+            {
+                "level": 4,
+                "move": "MOVE_DISABLE"
+            },
+            {
+                "level": 8,
+                "move": "MOVE_QUICKATTACK"
+            },
+            {
+                "level": 11,
+                "move": "MOVE_SPITE"
+            },
+            {
+                "level": 14,
+                "move": "MOVE_INCINERATE"
+            },
+            {
+                "level": 17,
+                "move": "MOVE_CONFUSERAY"
+            },
+            {
+                "level": 20,
+                "move": "MOVE_HEX"
+            },
+            {
+                "level": 23,
+                "move": "MOVE_WILLOWISP"
+            },
+            {
+                "level": 26,
+                "move": "MOVE_FLAMEBURST"
+            },
+            {
+                "level": 30,
+                "move": "MOVE_EXTRASENSORY"
+            },
+            {
+                "level": 34,
+                "move": "MOVE_IMPRISON"
+            },
+            {
+                "level": 38,
+                "move": "MOVE_FLAMETHROWER"
+            },
+            {
+                "level": 42,
+                "move": "MOVE_SAFEGUARD"
+            },
+            {
+                "level": 46,
+                "move": "MOVE_FIRESPIN"
+            },
+            {
+                "level": 50,
+                "move": "MOVE_INFERNO"
+            },
+            {
+                "level": 54,
+                "move": "MOVE_GRUDGE"
+            },
+            {
+                "level": 58,
+                "move": "MOVE_FIREBLAST"
+            }
+        ],
+        "tm": [
+            "MOVE_ROAR",
+            "MOVE_TOXIC",
+            "MOVE_HIDDENPOWER",
+            "MOVE_SUNNYDAY",
+            "MOVE_PROTECT",
+            "MOVE_SAFEGUARD",
+            "MOVE_FRUSTRATION",
+            "MOVE_IRONTAIL",
+            "MOVE_RETURN",
+            "MOVE_DIG",
+            "MOVE_DOUBLETEAM",
+            "MOVE_FLAMETHROWER",
+            "MOVE_FIREBLAST",
+            "MOVE_FACADE",
+            "MOVE_SECRETPOWER",
+            "MOVE_REST",
+            "MOVE_ATTRACT",
+            "MOVE_OVERHEAT",
+            "MOVE_ENERGYBALL",
+            "MOVE_ENDURE",
+            "MOVE_WILLOWISP",
+            "MOVE_PAYBACK",
+            "MOVE_FLAMECHARGE",
+            "MOVE_DARKPULSE",
+            "MOVE_SLEEPTALK",
+            "MOVE_SWAGGER",
+            "MOVE_SUBSTITUTE",
+            "MOVE_INCINERATE",
+            "MOVE_ROUND",
+            "MOVE_NATURALGIFT"
+        ],
+        "tutor": [
+            "MOVE_SNORE",
+            "MOVE_COVET",
+            "MOVE_SPITE",
+            "MOVE_ROLEPLAY",
+            "MOVE_PAINSPLIT",
+            "MOVE_ZENHEADBUTT",
+            "MOVE_FOULPLAY",
+            "MOVE_HEATWAVE",
+            "MOVE_PSYCHUP",
+            "MOVE_CONFIDE",
+            "MOVE_ENCORE",
+            "MOVE_AGILITY",
+            "MOVE_NASTYPLOT",
+            "MOVE_FIRESPIN",
+            "MOVE_TAILSLAP",
+            "MOVE_BODYSLAM",
+            "MOVE_HEX",
+            "MOVE_WEATHERBALL",
+            "MOVE_MYSTICALFIRE",
+            "MOVE_FLAREBLITZ",
+            "MOVE_BURNINGJEALOUSY"
+        ]
+    },
+    "VULPIX_A": {
+        "blurb": "In hot weather, this Pok\\emon makes ice shards with its six tails and sprays them around to cool itself off.",
+        "baseHP": 38,
+        "baseAttack": 41,
+        "baseDefense": 40,
+        "baseSpAttack": 50,
+        "baseSpDefense": 65,
+        "baseSpeed": 65,
+        "type1": "TYPE_ICE",
+        "type2": "TYPE_ICE",
+        "catchRate": 190,
+        "expYield": 63,
+        "evYield_HP": 0,
+        "evYield_Attack": 0,
+        "evYield_Defense": 0,
+        "evYield_SpAttack": 0,
+        "evYield_SpDefense": 0,
+        "evYield_Speed": 1,
+        "item1": "ITEM_NONE",
+        "item2": "ITEM_NONE",
+        "genderRatio": 75.0,
+        "eggCycles": 20,
+        "friendship": 50,
+        "growthRate": "GROWTH_MEDIUM_FAST",
+        "eggGroup1": "EGG_GROUP_FIELD",
+        "eggGroup2": "EGG_GROUP_FIELD",
+        "ability1": "ABILITY_SNOWCLOAK",
+        "ability2": "ABILITY_NONE",
+        "safariZoneFleeRate": 0,
+        "hiddenAbility": "ABILITY_SNOWWARNING",
+        "noFlip": true,
+        "evolve_to": [
+            {
+                "method": "EVO_ITEM",
+                "condition": "ITEM_ICE_STONE",
+                "target": "NINETALES_A",
+                "extra": "0"
+            }
+        ],
+        "evolve_from": [],
+        "egg_moves": [
+            "MOVE_FREEZEDRY",
+            "MOVE_HYPNOSIS",
+            "MOVE_FLAIL",
+            "MOVE_HOWL",
+            "MOVE_AGILITY",
+            "MOVE_ENCORE",
+            "MOVE_MOONBLAST",
+            "MOVE_POWERSWAP",
+            "MOVE_SECRETPOWER",
+            "MOVE_CHARM",
+            "MOVE_TAILSLAP",
+            "MOVE_BABYDOLLEYES",
+            "MOVE_ROAR",
+            "MOVE_FEINTATTACK",
+            "MOVE_QUICKATTACK"
+        ],
+        "learnset": [
+            {
+                "level": 1,
+                "move": "MOVE_POWDERSNOW"
+            },
+            {
+                "level": 1,
+                "move": "MOVE_TAILWHIP"
+            },
+            {
+                "level": 4,
+                "move": "MOVE_DISABLE"
+            },
+            {
+                "level": 8,
+                "move": "MOVE_ICESHARD"
+            },
+            {
+                "level": 11,
+                "move": "MOVE_SPITE"
+            },
+            {
+                "level": 14,
+                "move": "MOVE_ICYWIND"
+            },
+            {
+                "level": 17,
+                "move": "MOVE_CONFUSERAY"
+            },
+            {
+                "level": 20,
+                "move": "MOVE_HEX"
+            },
+            {
+                "level": 23,
+                "move": "MOVE_MIST"
+            },
+            {
+                "level": 26,
+                "move": "MOVE_AURORABEAM"
+            },
+            {
+                "level": 30,
+                "move": "MOVE_EXTRASENSORY"
+            },
+            {
+                "level": 34,
+                "move": "MOVE_IMPRISON"
+            },
+            {
+                "level": 38,
+                "move": "MOVE_ICEBEAM"
+            },
+            {
+                "level": 42,
+                "move": "MOVE_SAFEGUARD"
+            },
+            {
+                "level": 46,
+                "move": "MOVE_AURORAVEIL"
+            },
+            {
+                "level": 50,
+                "move": "MOVE_BLIZZARD"
+            },
+            {
+                "level": 54,
+                "move": "MOVE_GRUDGE"
+            },
+            {
+                "level": 58,
+                "move": "MOVE_SHEERCOLD"
+            }
+        ],
+        "tm": [
+            "MOVE_ROAR",
+            "MOVE_TOXIC",
+            "MOVE_HAIL",
+            "MOVE_HIDDENPOWER",
+            "MOVE_ICEBEAM",
+            "MOVE_BLIZZARD",
+            "MOVE_PROTECT",
+            "MOVE_RAINDANCE",
+            "MOVE_SAFEGUARD",
+            "MOVE_FRUSTRATION",
+            "MOVE_IRONTAIL",
+            "MOVE_RETURN",
+            "MOVE_DIG",
+            "MOVE_DOUBLETEAM",
+            "MOVE_FACADE",
+            "MOVE_SECRETPOWER",
+            "MOVE_REST",
+            "MOVE_ATTRACT",
+            "MOVE_ENERGYBALL",
+            "MOVE_ENDURE",
+            "MOVE_PAYBACK",
+            "MOVE_FLASH",
+            "MOVE_DARKPULSE",
+            "MOVE_SLEEPTALK",
+            "MOVE_SWAGGER",
+            "MOVE_SUBSTITUTE",
+            "MOVE_FROSTBREATH",
+            "MOVE_DAZZLINGGLEAM",
+            "MOVE_DRAININGKISS",
+            "MOVE_ROUND",
+            "MOVE_NATURALGIFT",
+            "MOVE_AURORAVEIL"
+        ],
+        "tutor": [
+            "MOVE_SNORE",
+            "MOVE_HEALBELL",
+            "MOVE_COVET",
+            "MOVE_SPITE",
+            "MOVE_ROLEPLAY",
+            "MOVE_AQUATAIL",
+            "MOVE_PAINSPLIT",
+            "MOVE_ICYWIND",
+            "MOVE_ZENHEADBUTT",
+            "MOVE_FOULPLAY",
+            "MOVE_PSYCHUP",
+            "MOVE_CONFIDE",
+            "MOVE_ENCORE",
+            "MOVE_AGILITY",
+            "MOVE_NASTYPLOT",
+            "MOVE_TAILSLAP",
+            "MOVE_BODYSLAM",
+            "MOVE_HEX",
+            "MOVE_WEATHERBALL"
+        ]
+    }
 }

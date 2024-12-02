@@ -1,180 +1,181 @@
 {
-    "baseHP": 70,
-    "baseAttack": 75,
-    "baseDefense": 115,
-    "baseSpAttack": 95,
-    "baseSpDefense": 130,
-    "baseSpeed": 85,
-    "type1": "TYPE_WATER",
-    "type2": "TYPE_FAIRY",
-    "catchRate": 3,
-    "expYield": 210,
-    "evYield_HP": 0,
-    "evYield_Attack": 0,
-    "evYield_Defense": 0,
-    "evYield_SpAttack": 0,
-    "evYield_SpDefense": 3,
-    "evYield_Speed": 0,
-    "item1": "ITEM_NONE",
-    "item2": "ITEM_NONE",
-    "genderRatio": "MON_GENDERLESS",
-    "eggCycles": 15,
-    "friendship": 50,
-    "growthRate": "GROWTH_SLOW",
-    "eggGroup1": "EGG_GROUP_UNDISCOVERED",
-    "eggGroup2": "EGG_GROUP_UNDISCOVERED",
-    "ability1": "ABILITY_MISTYSURGE",
-    "ability2": "ABILITY_NONE",
-    "safariZoneFleeRate": 0,
-    "hiddenAbility": "ABILITY_TELEPATHY",
-    "noFlip": true,
-    "blurb": "The guardian deity of Poni can control water. It can create pure water that will wash away any impurity.",
-    "name": "Tapu Fini",
-    "evolve_from": [],
-    "learnset": [
-        {
-            "level": 1,
-            "move": "MOVE_WHIRLPOOL"
-        },
-        {
-            "level": 1,
-            "move": "MOVE_REFRESH"
-        },
-        {
-            "level": 1,
-            "move": "MOVE_DISARMINGVOICE"
-        },
-        {
-            "level": 1,
-            "move": "MOVE_WATERGUN"
-        },
-        {
-            "level": 1,
-            "move": "MOVE_WITHDRAW"
-        },
-        {
-            "level": 1,
-            "move": "MOVE_MIST"
-        },
-        {
-            "level": 10,
-            "move": "MOVE_HAZE"
-        },
-        {
-            "level": 15,
-            "move": "MOVE_AQUARING"
-        },
-        {
-            "level": 20,
-            "move": "MOVE_WATERPULSE"
-        },
-        {
-            "level": 25,
-            "move": "MOVE_BRINE"
-        },
-        {
-            "level": 30,
-            "move": "MOVE_DEFOG"
-        },
-        {
-            "level": 35,
-            "move": "MOVE_HEALPULSE"
-        },
-        {
-            "level": 40,
-            "move": "MOVE_SURF"
-        },
-        {
-            "level": 45,
-            "move": "MOVE_MUDDYWATER"
-        },
-        {
-            "level": 50,
-            "move": "MOVE_MEANLOOK"
-        },
-        {
-            "level": 55,
-            "move": "MOVE_NATURESMADNESS"
-        },
-        {
-            "level": 60,
-            "move": "MOVE_MOONBLAST"
-        },
-        {
-            "level": 65,
-            "move": "MOVE_HYDROPUMP"
-        },
-        {
-            "level": 70,
-            "move": "MOVE_SOAK"
-        },
-        {
-            "level": 75,
-            "move": "MOVE_MISTYTERRAIN"
-        }
-    ],
-    "tm": [
-        "MOVE_WATERPULSE",
-        "MOVE_CALMMIND",
-        "MOVE_TOXIC",
-        "MOVE_HIDDENPOWER",
-        "MOVE_TAUNT",
-        "MOVE_ICEBEAM",
-        "MOVE_BLIZZARD",
-        "MOVE_HYPERBEAM",
-        "MOVE_LIGHTSCREEN",
-        "MOVE_PROTECT",
-        "MOVE_RAINDANCE",
-        "MOVE_SAFEGUARD",
-        "MOVE_FRUSTRATION",
-        "MOVE_RETURN",
-        "MOVE_SHADOWBALL",
-        "MOVE_DOUBLETEAM",
-        "MOVE_REFLECT",
-        "MOVE_TORMENT",
-        "MOVE_FACADE",
-        "MOVE_SECRETPOWER",
-        "MOVE_REST",
-        "MOVE_BRINE",
-        "MOVE_ENDURE",
-        "MOVE_GIGAIMPACT",
-        "MOVE_SLEEPTALK",
-        "MOVE_SCALD",
-        "MOVE_GRASSKNOT",
-        "MOVE_SWAGGER",
-        "MOVE_SUBSTITUTE",
-        "MOVE_DAZZLINGGLEAM",
-        "MOVE_SMARTSTRIKE",
-        "MOVE_DEFOG",
-        "MOVE_DRAININGKISS",
-        "MOVE_ROUND",
-        "MOVE_ECHOEDVOICE",
-        "MOVE_NATURALGIFT",
-        "MOVE_FLING",
-        "MOVE_NATUREPOWER",
-        "MOVE_SURF",
-        "MOVE_DIVE",
-        "MOVE_WATERFALL"
-    ],
-    "tutor": [
-        "MOVE_ICEPUNCH",
-        "MOVE_SNORE",
-        "MOVE_GRAVITY",
-        "MOVE_IRONDEFENSE",
-        "MOVE_TELEKINESIS",
-        "MOVE_ICYWIND",
-        "MOVE_TRICK",
-        "MOVE_MAGICCOAT",
-        "MOVE_MAGICROOM",
-        "MOVE_WONDERROOM",
-        "MOVE_KNOCKOFF",
-        "MOVE_PSYCHUP",
-        "MOVE_CONFIDE",
-        "MOVE_MISTYTERRAIN",
-        "MOVE_WHIRLPOOL",
-        "MOVE_STOREDPOWER",
-        "MOVE_MUDDYWATER",
-        "MOVE_PLAYROUGH",
-        "MOVE_HYDROPUMP"
-    ]
+    "TAPU_FINI": {
+        "blurb": "The guardian deity of Poni can control water. It can create pure water that will wash away any impurity.",
+        "baseHP": 70,
+        "baseAttack": 75,
+        "baseDefense": 115,
+        "baseSpAttack": 95,
+        "baseSpDefense": 130,
+        "baseSpeed": 85,
+        "type1": "TYPE_WATER",
+        "type2": "TYPE_FAIRY",
+        "catchRate": 3,
+        "expYield": 210,
+        "evYield_HP": 0,
+        "evYield_Attack": 0,
+        "evYield_Defense": 0,
+        "evYield_SpAttack": 0,
+        "evYield_SpDefense": 3,
+        "evYield_Speed": 0,
+        "item1": "ITEM_NONE",
+        "item2": "ITEM_NONE",
+        "genderRatio": "MON_GENDERLESS",
+        "eggCycles": 15,
+        "friendship": 50,
+        "growthRate": "GROWTH_SLOW",
+        "eggGroup1": "EGG_GROUP_UNDISCOVERED",
+        "eggGroup2": "EGG_GROUP_UNDISCOVERED",
+        "ability1": "ABILITY_MISTYSURGE",
+        "ability2": "ABILITY_NONE",
+        "safariZoneFleeRate": 0,
+        "hiddenAbility": "ABILITY_TELEPATHY",
+        "noFlip": true,
+        "evolve_from": [],
+        "learnset": [
+            {
+                "level": 1,
+                "move": "MOVE_WHIRLPOOL"
+            },
+            {
+                "level": 1,
+                "move": "MOVE_REFRESH"
+            },
+            {
+                "level": 1,
+                "move": "MOVE_DISARMINGVOICE"
+            },
+            {
+                "level": 1,
+                "move": "MOVE_WATERGUN"
+            },
+            {
+                "level": 1,
+                "move": "MOVE_WITHDRAW"
+            },
+            {
+                "level": 1,
+                "move": "MOVE_MIST"
+            },
+            {
+                "level": 10,
+                "move": "MOVE_HAZE"
+            },
+            {
+                "level": 15,
+                "move": "MOVE_AQUARING"
+            },
+            {
+                "level": 20,
+                "move": "MOVE_WATERPULSE"
+            },
+            {
+                "level": 25,
+                "move": "MOVE_BRINE"
+            },
+            {
+                "level": 30,
+                "move": "MOVE_DEFOG"
+            },
+            {
+                "level": 35,
+                "move": "MOVE_HEALPULSE"
+            },
+            {
+                "level": 40,
+                "move": "MOVE_SURF"
+            },
+            {
+                "level": 45,
+                "move": "MOVE_MUDDYWATER"
+            },
+            {
+                "level": 50,
+                "move": "MOVE_MEANLOOK"
+            },
+            {
+                "level": 55,
+                "move": "MOVE_NATURESMADNESS"
+            },
+            {
+                "level": 60,
+                "move": "MOVE_MOONBLAST"
+            },
+            {
+                "level": 65,
+                "move": "MOVE_HYDROPUMP"
+            },
+            {
+                "level": 70,
+                "move": "MOVE_SOAK"
+            },
+            {
+                "level": 75,
+                "move": "MOVE_MISTYTERRAIN"
+            }
+        ],
+        "tm": [
+            "MOVE_WATERPULSE",
+            "MOVE_CALMMIND",
+            "MOVE_TOXIC",
+            "MOVE_HIDDENPOWER",
+            "MOVE_TAUNT",
+            "MOVE_ICEBEAM",
+            "MOVE_BLIZZARD",
+            "MOVE_HYPERBEAM",
+            "MOVE_LIGHTSCREEN",
+            "MOVE_PROTECT",
+            "MOVE_RAINDANCE",
+            "MOVE_SAFEGUARD",
+            "MOVE_FRUSTRATION",
+            "MOVE_RETURN",
+            "MOVE_SHADOWBALL",
+            "MOVE_DOUBLETEAM",
+            "MOVE_REFLECT",
+            "MOVE_TORMENT",
+            "MOVE_FACADE",
+            "MOVE_SECRETPOWER",
+            "MOVE_REST",
+            "MOVE_BRINE",
+            "MOVE_ENDURE",
+            "MOVE_GIGAIMPACT",
+            "MOVE_SLEEPTALK",
+            "MOVE_SCALD",
+            "MOVE_GRASSKNOT",
+            "MOVE_SWAGGER",
+            "MOVE_SUBSTITUTE",
+            "MOVE_DAZZLINGGLEAM",
+            "MOVE_SMARTSTRIKE",
+            "MOVE_DEFOG",
+            "MOVE_DRAININGKISS",
+            "MOVE_ROUND",
+            "MOVE_ECHOEDVOICE",
+            "MOVE_NATURALGIFT",
+            "MOVE_FLING",
+            "MOVE_NATUREPOWER",
+            "MOVE_SURF",
+            "MOVE_DIVE",
+            "MOVE_WATERFALL"
+        ],
+        "tutor": [
+            "MOVE_ICEPUNCH",
+            "MOVE_SNORE",
+            "MOVE_GRAVITY",
+            "MOVE_IRONDEFENSE",
+            "MOVE_TELEKINESIS",
+            "MOVE_ICYWIND",
+            "MOVE_TRICK",
+            "MOVE_MAGICCOAT",
+            "MOVE_MAGICROOM",
+            "MOVE_WONDERROOM",
+            "MOVE_KNOCKOFF",
+            "MOVE_PSYCHUP",
+            "MOVE_CONFIDE",
+            "MOVE_MISTYTERRAIN",
+            "MOVE_WHIRLPOOL",
+            "MOVE_STOREDPOWER",
+            "MOVE_MUDDYWATER",
+            "MOVE_PLAYROUGH",
+            "MOVE_HYDROPUMP"
+        ]
+    }
 }

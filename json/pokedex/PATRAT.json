@@ -1,183 +1,177 @@
 {
-    "baseHP": 45,
-    "baseAttack": 55,
-    "baseDefense": 39,
-    "baseSpAttack": 35,
-    "baseSpDefense": 39,
-    "baseSpeed": 42,
-    "type1": "TYPE_NORMAL",
-    "type2": "TYPE_NORMAL",
-    "catchRate": 255,
-    "expYield": 57,
-    "evYield_HP": 0,
-    "evYield_Attack": 1,
-    "evYield_Defense": 0,
-    "evYield_SpAttack": 0,
-    "evYield_SpDefense": 0,
-    "evYield_Speed": 0,
-    "item1": "ITEM_NONE",
-    "item2": "ITEM_NONE",
-    "genderRatio": 50.0,
-    "eggCycles": 15,
-    "friendship": 50,
-    "growthRate": "GROWTH_MEDIUM_FAST",
-    "eggGroup1": "EGG_GROUP_FIELD",
-    "eggGroup2": "EGG_GROUP_FIELD",
-    "ability1": "ABILITY_STAKEOUT",
-    "ability2": "ABILITY_KEENEYE",
-    "safariZoneFleeRate": 0,
-    "hiddenAbility": "ABILITY_ANALYTIC",
-    "noFlip": true,
-    "egg_moves": [
-        "MOVE_FORESIGHT",
-        "MOVE_IRONTAIL",
-        "MOVE_SCREECH",
-        "MOVE_ASSURANCE",
-        "MOVE_PURSUIT",
-        "MOVE_REVENGE",
-        "MOVE_FLAIL",
-        "MOVE_TEARFULLOOK",
-        "MOVE_BULLETSEED",
-        "MOVE_BIDE"
-    ],
-    "evolve_to": [
-        {
-            "method": "EVO_LEVEL",
-            "condition": "20",
-            "target": "WATCHOG",
-            "extra": "0"
-        }
-    ],
-    "blurb": "Extremely cautious, one of them is always on a lookout, but it won't notice a foe coming from behind.",
-    "name": "Patrat",
-    "evolve_from": [],
-    "location": [
-        {
-            "route": "Route 2",
-            "area": "",
-            "method": "land"
-        }
-    ],
-    "learnset": [
-        {
-            "level": 1,
-            "move": "MOVE_TACKLE"
-        },
-        {
-            "level": 3,
-            "move": "MOVE_LEER"
-        },
-        {
-            "level": 6,
-            "move": "MOVE_BITE"
-        },
-        {
-            "level": 8,
-            "move": "MOVE_SANDATTACK"
-        },
-        {
-            "level": 10,
-            "move": "MOVE_COVET"
-        },
-        {
-            "level": 13,
-            "move": "MOVE_DETECT"
-        },
-        {
-            "level": 15,
-            "move": "MOVE_CRUNCH"
-        },
-        {
-            "level": 18,
-            "move": "MOVE_HYPNOSIS"
-        },
-        {
-            "level": 20,
-            "move": "MOVE_SLAM"
-        },
-        {
-            "level": 23,
-            "move": "MOVE_FOCUSENERGY"
-        },
-        {
-            "level": 25,
-            "move": "MOVE_WORKUP"
-        },
-        {
-            "level": 27,
-            "move": "MOVE_AFTERYOU"
-        },
-        {
-            "level": 29,
-            "move": "MOVE_HYPERFANG"
-        },
-        {
-            "level": 32,
-            "move": "MOVE_NASTYPLOT"
-        },
-        {
-            "level": 34,
-            "move": "MOVE_MEANLOOK"
-        },
-        {
-            "level": 36,
-            "move": "MOVE_BATONPASS"
-        },
-        {
-            "level": 39,
-            "move": "MOVE_SUPERFANG"
-        }
-    ],
-    "tm": [
-        "MOVE_TOXIC",
-        "MOVE_BULLETSEED",
-        "MOVE_HIDDENPOWER",
-        "MOVE_SUNNYDAY",
-        "MOVE_PROTECT",
-        "MOVE_RAINDANCE",
-        "MOVE_FRUSTRATION",
-        "MOVE_IRONTAIL",
-        "MOVE_THUNDERBOLT",
-        "MOVE_RETURN",
-        "MOVE_DIG",
-        "MOVE_SHADOWBALL",
-        "MOVE_DOUBLETEAM",
-        "MOVE_SHOCKWAVE",
-        "MOVE_FACADE",
-        "MOVE_SECRETPOWER",
-        "MOVE_REST",
-        "MOVE_ATTRACT",
-        "MOVE_ENDURE",
-        "MOVE_SWORDSDANCE",
-        "MOVE_SLEEPTALK",
-        "MOVE_GRASSKNOT",
-        "MOVE_SWAGGER",
-        "MOVE_SUBSTITUTE",
-        "MOVE_WORKUP",
-        "MOVE_ROUND",
-        "MOVE_NATURALGIFT",
-        "MOVE_FLING",
-        "MOVE_CUT"
-    ],
-    "tutor": [
-        "MOVE_SNORE",
-        "MOVE_LOWKICK",
-        "MOVE_HELPINGHAND",
-        "MOVE_COVET",
-        "MOVE_AFTERYOU",
-        "MOVE_AQUATAIL",
-        "MOVE_ENDEAVOR",
-        "MOVE_ZENHEADBUTT",
-        "MOVE_SEEDBOMB",
-        "MOVE_LASERFOCUS",
-        "MOVE_SUPERFANG",
-        "MOVE_GUNKSHOT",
-        "MOVE_LASTRESORT",
-        "MOVE_CONFIDE",
-        "MOVE_FOCUSENERGY",
-        "MOVE_BATONPASS",
-        "MOVE_SCREECH",
-        "MOVE_NASTYPLOT",
-        "MOVE_CRUNCH"
-    ]
+    "PATRAT": {
+        "blurb": "Extremely cautious, one of them is always on a lookout, but it won't notice a foe coming from behind.",
+        "baseHP": 45,
+        "baseAttack": 55,
+        "baseDefense": 39,
+        "baseSpAttack": 35,
+        "baseSpDefense": 39,
+        "baseSpeed": 42,
+        "type1": "TYPE_NORMAL",
+        "type2": "TYPE_NORMAL",
+        "catchRate": 255,
+        "expYield": 57,
+        "evYield_HP": 0,
+        "evYield_Attack": 1,
+        "evYield_Defense": 0,
+        "evYield_SpAttack": 0,
+        "evYield_SpDefense": 0,
+        "evYield_Speed": 0,
+        "item1": "ITEM_NONE",
+        "item2": "ITEM_NONE",
+        "genderRatio": 50.0,
+        "eggCycles": 15,
+        "friendship": 50,
+        "growthRate": "GROWTH_MEDIUM_FAST",
+        "eggGroup1": "EGG_GROUP_FIELD",
+        "eggGroup2": "EGG_GROUP_FIELD",
+        "ability1": "ABILITY_STAKEOUT",
+        "ability2": "ABILITY_KEENEYE",
+        "safariZoneFleeRate": 0,
+        "hiddenAbility": "ABILITY_ANALYTIC",
+        "noFlip": true,
+        "evolve_to": [
+            {
+                "method": "EVO_LEVEL",
+                "condition": "20",
+                "target": "WATCHOG",
+                "extra": "0"
+            }
+        ],
+        "evolve_from": [],
+        "egg_moves": [
+            "MOVE_FORESIGHT",
+            "MOVE_IRONTAIL",
+            "MOVE_SCREECH",
+            "MOVE_ASSURANCE",
+            "MOVE_PURSUIT",
+            "MOVE_REVENGE",
+            "MOVE_FLAIL",
+            "MOVE_TEARFULLOOK",
+            "MOVE_BULLETSEED",
+            "MOVE_BIDE"
+        ],
+        "learnset": [
+            {
+                "level": 1,
+                "move": "MOVE_TACKLE"
+            },
+            {
+                "level": 3,
+                "move": "MOVE_LEER"
+            },
+            {
+                "level": 6,
+                "move": "MOVE_BITE"
+            },
+            {
+                "level": 8,
+                "move": "MOVE_SANDATTACK"
+            },
+            {
+                "level": 10,
+                "move": "MOVE_COVET"
+            },
+            {
+                "level": 13,
+                "move": "MOVE_DETECT"
+            },
+            {
+                "level": 15,
+                "move": "MOVE_CRUNCH"
+            },
+            {
+                "level": 18,
+                "move": "MOVE_HYPNOSIS"
+            },
+            {
+                "level": 20,
+                "move": "MOVE_SLAM"
+            },
+            {
+                "level": 23,
+                "move": "MOVE_FOCUSENERGY"
+            },
+            {
+                "level": 25,
+                "move": "MOVE_WORKUP"
+            },
+            {
+                "level": 27,
+                "move": "MOVE_AFTERYOU"
+            },
+            {
+                "level": 29,
+                "move": "MOVE_HYPERFANG"
+            },
+            {
+                "level": 32,
+                "move": "MOVE_NASTYPLOT"
+            },
+            {
+                "level": 34,
+                "move": "MOVE_MEANLOOK"
+            },
+            {
+                "level": 36,
+                "move": "MOVE_BATONPASS"
+            },
+            {
+                "level": 39,
+                "move": "MOVE_SUPERFANG"
+            }
+        ],
+        "tm": [
+            "MOVE_TOXIC",
+            "MOVE_BULLETSEED",
+            "MOVE_HIDDENPOWER",
+            "MOVE_SUNNYDAY",
+            "MOVE_PROTECT",
+            "MOVE_RAINDANCE",
+            "MOVE_FRUSTRATION",
+            "MOVE_IRONTAIL",
+            "MOVE_THUNDERBOLT",
+            "MOVE_RETURN",
+            "MOVE_DIG",
+            "MOVE_SHADOWBALL",
+            "MOVE_DOUBLETEAM",
+            "MOVE_SHOCKWAVE",
+            "MOVE_FACADE",
+            "MOVE_SECRETPOWER",
+            "MOVE_REST",
+            "MOVE_ATTRACT",
+            "MOVE_ENDURE",
+            "MOVE_SWORDSDANCE",
+            "MOVE_SLEEPTALK",
+            "MOVE_GRASSKNOT",
+            "MOVE_SWAGGER",
+            "MOVE_SUBSTITUTE",
+            "MOVE_WORKUP",
+            "MOVE_ROUND",
+            "MOVE_NATURALGIFT",
+            "MOVE_FLING",
+            "MOVE_CUT"
+        ],
+        "tutor": [
+            "MOVE_SNORE",
+            "MOVE_LOWKICK",
+            "MOVE_HELPINGHAND",
+            "MOVE_COVET",
+            "MOVE_AFTERYOU",
+            "MOVE_AQUATAIL",
+            "MOVE_ENDEAVOR",
+            "MOVE_ZENHEADBUTT",
+            "MOVE_SEEDBOMB",
+            "MOVE_LASERFOCUS",
+            "MOVE_SUPERFANG",
+            "MOVE_GUNKSHOT",
+            "MOVE_LASTRESORT",
+            "MOVE_CONFIDE",
+            "MOVE_FOCUSENERGY",
+            "MOVE_BATONPASS",
+            "MOVE_SCREECH",
+            "MOVE_NASTYPLOT",
+            "MOVE_CRUNCH"
+        ]
+    }
 }

@@ -1,225 +1,214 @@
 {
-    "baseHP": 65,
-    "baseAttack": 110,
-    "baseDefense": 130,
-    "baseSpAttack": 60,
-    "baseSpDefense": 65,
-    "baseSpeed": 95,
-    "type1": "TYPE_GRASS",
-    "type2": "TYPE_GRASS",
-    "catchRate": 45,
-    "expYield": 196,
-    "evYield_HP": 0,
-    "evYield_Attack": 0,
-    "evYield_Defense": 2,
-    "evYield_SpAttack": 0,
-    "evYield_SpDefense": 0,
-    "evYield_Speed": 0,
-    "item1": "ITEM_NONE",
-    "item2": "ITEM_NONE",
-    "genderRatio": 12.5,
-    "eggCycles": 35,
-    "friendship": 35,
-    "growthRate": "GROWTH_MEDIUM_FAST",
-    "eggGroup1": "EGG_GROUP_FIELD",
-    "eggGroup2": "EGG_GROUP_FIELD",
-    "ability1": "ABILITY_SAPSIPPER",
-    "ability2": "ABILITY_SAPSIPPER",
-    "safariZoneFleeRate": 0,
-    "hiddenAbility": "ABILITY_CHLOROPHYLL",
-    "noFlip": true,
-    "blurb": "Just like a plant, it uses photosynthesis. As a result, it is always enveloped in clear air.",
-    "name": "Leafeon",
-    "evolve_from": [],
-    "location": [
-        {
-            "route": "Route 14",
-            "area": "",
-            "method": "Good Rod"
-        },
-        {
-            "route": "Route 14",
-            "area": "",
-            "method": "Super Rod"
-        }
-    ],
-    "learnset": [
-        {
-            "level": 0,
-            "move": "MOVE_RAZORLEAF"
-        },
-        {
-            "level": 1,
-            "move": "MOVE_COVET"
-        },
-        {
-            "level": 1,
-            "move": "MOVE_SWIFT"
-        },
-        {
-            "level": 1,
-            "move": "MOVE_BITE"
-        },
-        {
-            "level": 1,
-            "move": "MOVE_COPYCAT"
-        },
-        {
-            "level": 1,
-            "move": "MOVE_BATONPASS"
-        },
-        {
-            "level": 1,
-            "move": "MOVE_TAKEDOWN"
-        },
-        {
-            "level": 1,
-            "move": "MOVE_CHARM"
-        },
-        {
-            "level": 1,
-            "move": "MOVE_DOUBLEEDGE"
-        },
-        {
-            "level": 1,
-            "move": "MOVE_HELPINGHAND"
-        },
-        {
-            "level": 1,
-            "move": "MOVE_TRUMPCARD"
-        },
-        {
-            "level": 1,
-            "move": "MOVE_GRASSWHISTLE"
-        },
-        {
-            "level": 1,
-            "move": "MOVE_TACKLE"
-        },
-        {
-            "level": 1,
-            "move": "MOVE_GROWL"
-        },
-        {
-            "level": 1,
-            "move": "MOVE_TAILWHIP"
-        },
-        {
-            "level": 1,
-            "move": "MOVE_RAZORLEAF"
-        },
-        {
-            "level": 5,
-            "move": "MOVE_SANDATTACK"
-        },
-        {
-            "level": 10,
-            "move": "MOVE_QUICKATTACK"
-        },
-        {
-            "level": 15,
-            "move": "MOVE_BABYDOLLEYES"
-        },
-        {
-            "level": 20,
-            "move": "MOVE_LEECHSEED"
-        },
-        {
-            "level": 25,
-            "move": "MOVE_MAGICALLEAF"
-        },
-        {
-            "level": 30,
-            "move": "MOVE_SYNTHESIS"
-        },
-        {
-            "level": 35,
-            "move": "MOVE_SUNNYDAY"
-        },
-        {
-            "level": 40,
-            "move": "MOVE_GIGADRAIN"
-        },
-        {
-            "level": 45,
-            "move": "MOVE_SWORDSDANCE"
-        },
-        {
-            "level": 50,
-            "move": "MOVE_TROPKICK"
-        },
-        {
-            "level": 55,
-            "move": "MOVE_LASTRESORT"
-        },
-        {
-            "level": 60,
-            "move": "MOVE_LEAFBLADE"
-        }
-    ],
-    "tm": [
-        "MOVE_CALMMIND",
-        "MOVE_ROAR",
-        "MOVE_TOXIC",
-        "MOVE_BULLETSEED",
-        "MOVE_HIDDENPOWER",
-        "MOVE_SUNNYDAY",
-        "MOVE_HYPERBEAM",
-        "MOVE_PROTECT",
-        "MOVE_RAINDANCE",
-        "MOVE_GIGADRAIN",
-        "MOVE_FRUSTRATION",
-        "MOVE_SOLARBEAM",
-        "MOVE_IRONTAIL",
-        "MOVE_RETURN",
-        "MOVE_DIG",
-        "MOVE_SHADOWBALL",
-        "MOVE_DOUBLETEAM",
-        "MOVE_AERIALACE",
-        "MOVE_FACADE",
-        "MOVE_SECRETPOWER",
-        "MOVE_REST",
-        "MOVE_ATTRACT",
-        "MOVE_ENERGYBALL",
-        "MOVE_ENDURE",
-        "MOVE_GIGAIMPACT",
-        "MOVE_FLASH",
-        "MOVE_SWORDSDANCE",
-        "MOVE_XSCISSOR",
-        "MOVE_SLEEPTALK",
-        "MOVE_GRASSKNOT",
-        "MOVE_SWAGGER",
-        "MOVE_SUBSTITUTE",
-        "MOVE_WORKUP",
-        "MOVE_ROUND",
-        "MOVE_ECHOEDVOICE",
-        "MOVE_NATURALGIFT",
-        "MOVE_NATUREPOWER",
-        "MOVE_STRENGTH",
-        "MOVE_ROCKSMASH"
-    ],
-    "tutor": [
-        "MOVE_SNORE",
-        "MOVE_HEALBELL",
-        "MOVE_HELPINGHAND",
-        "MOVE_WORRYSEED",
-        "MOVE_COVET",
-        "MOVE_SYNTHESIS",
-        "MOVE_SEEDBOMB",
-        "MOVE_LASERFOCUS",
-        "MOVE_HYPERVOICE",
-        "MOVE_KNOCKOFF",
-        "MOVE_LASTRESORT",
-        "MOVE_CONFIDE",
-        "MOVE_FOCUSENERGY",
-        "MOVE_BATONPASS",
-        "MOVE_FAKETEARS",
-        "MOVE_BODYSLAM",
-        "MOVE_STOREDPOWER",
-        "MOVE_WEATHERBALL",
-        "MOVE_LEAFBLADE",
-        "MOVE_LEAFSTORM",
-        "MOVE_SOLARBLADE",
-        "MOVE_GRASSYGLIDE"
-    ]
+    "LEAFEON": {
+        "blurb": "Just like a plant, it uses photosynthesis. As a result, it is always enveloped in clear air.",
+        "baseHP": 65,
+        "baseAttack": 110,
+        "baseDefense": 130,
+        "baseSpAttack": 60,
+        "baseSpDefense": 65,
+        "baseSpeed": 95,
+        "type1": "TYPE_GRASS",
+        "type2": "TYPE_GRASS",
+        "catchRate": 45,
+        "expYield": 196,
+        "evYield_HP": 0,
+        "evYield_Attack": 0,
+        "evYield_Defense": 2,
+        "evYield_SpAttack": 0,
+        "evYield_SpDefense": 0,
+        "evYield_Speed": 0,
+        "item1": "ITEM_NONE",
+        "item2": "ITEM_NONE",
+        "genderRatio": 12.5,
+        "eggCycles": 35,
+        "friendship": 35,
+        "growthRate": "GROWTH_MEDIUM_FAST",
+        "eggGroup1": "EGG_GROUP_FIELD",
+        "eggGroup2": "EGG_GROUP_FIELD",
+        "ability1": "ABILITY_SAPSIPPER",
+        "ability2": "ABILITY_SAPSIPPER",
+        "safariZoneFleeRate": 0,
+        "hiddenAbility": "ABILITY_CHLOROPHYLL",
+        "noFlip": true,
+        "evolve_from": [],
+        "learnset": [
+            {
+                "level": 0,
+                "move": "MOVE_RAZORLEAF"
+            },
+            {
+                "level": 1,
+                "move": "MOVE_COVET"
+            },
+            {
+                "level": 1,
+                "move": "MOVE_SWIFT"
+            },
+            {
+                "level": 1,
+                "move": "MOVE_BITE"
+            },
+            {
+                "level": 1,
+                "move": "MOVE_COPYCAT"
+            },
+            {
+                "level": 1,
+                "move": "MOVE_BATONPASS"
+            },
+            {
+                "level": 1,
+                "move": "MOVE_TAKEDOWN"
+            },
+            {
+                "level": 1,
+                "move": "MOVE_CHARM"
+            },
+            {
+                "level": 1,
+                "move": "MOVE_DOUBLEEDGE"
+            },
+            {
+                "level": 1,
+                "move": "MOVE_HELPINGHAND"
+            },
+            {
+                "level": 1,
+                "move": "MOVE_TRUMPCARD"
+            },
+            {
+                "level": 1,
+                "move": "MOVE_GRASSWHISTLE"
+            },
+            {
+                "level": 1,
+                "move": "MOVE_TACKLE"
+            },
+            {
+                "level": 1,
+                "move": "MOVE_GROWL"
+            },
+            {
+                "level": 1,
+                "move": "MOVE_TAILWHIP"
+            },
+            {
+                "level": 1,
+                "move": "MOVE_RAZORLEAF"
+            },
+            {
+                "level": 5,
+                "move": "MOVE_SANDATTACK"
+            },
+            {
+                "level": 10,
+                "move": "MOVE_QUICKATTACK"
+            },
+            {
+                "level": 15,
+                "move": "MOVE_BABYDOLLEYES"
+            },
+            {
+                "level": 20,
+                "move": "MOVE_LEECHSEED"
+            },
+            {
+                "level": 25,
+                "move": "MOVE_MAGICALLEAF"
+            },
+            {
+                "level": 30,
+                "move": "MOVE_SYNTHESIS"
+            },
+            {
+                "level": 35,
+                "move": "MOVE_SUNNYDAY"
+            },
+            {
+                "level": 40,
+                "move": "MOVE_GIGADRAIN"
+            },
+            {
+                "level": 45,
+                "move": "MOVE_SWORDSDANCE"
+            },
+            {
+                "level": 50,
+                "move": "MOVE_TROPKICK"
+            },
+            {
+                "level": 55,
+                "move": "MOVE_LASTRESORT"
+            },
+            {
+                "level": 60,
+                "move": "MOVE_LEAFBLADE"
+            }
+        ],
+        "tm": [
+            "MOVE_CALMMIND",
+            "MOVE_ROAR",
+            "MOVE_TOXIC",
+            "MOVE_BULLETSEED",
+            "MOVE_HIDDENPOWER",
+            "MOVE_SUNNYDAY",
+            "MOVE_HYPERBEAM",
+            "MOVE_PROTECT",
+            "MOVE_RAINDANCE",
+            "MOVE_GIGADRAIN",
+            "MOVE_FRUSTRATION",
+            "MOVE_SOLARBEAM",
+            "MOVE_IRONTAIL",
+            "MOVE_RETURN",
+            "MOVE_DIG",
+            "MOVE_SHADOWBALL",
+            "MOVE_DOUBLETEAM",
+            "MOVE_AERIALACE",
+            "MOVE_FACADE",
+            "MOVE_SECRETPOWER",
+            "MOVE_REST",
+            "MOVE_ATTRACT",
+            "MOVE_ENERGYBALL",
+            "MOVE_ENDURE",
+            "MOVE_GIGAIMPACT",
+            "MOVE_FLASH",
+            "MOVE_SWORDSDANCE",
+            "MOVE_XSCISSOR",
+            "MOVE_SLEEPTALK",
+            "MOVE_GRASSKNOT",
+            "MOVE_SWAGGER",
+            "MOVE_SUBSTITUTE",
+            "MOVE_WORKUP",
+            "MOVE_ROUND",
+            "MOVE_ECHOEDVOICE",
+            "MOVE_NATURALGIFT",
+            "MOVE_NATUREPOWER",
+            "MOVE_STRENGTH",
+            "MOVE_ROCKSMASH"
+        ],
+        "tutor": [
+            "MOVE_SNORE",
+            "MOVE_HEALBELL",
+            "MOVE_HELPINGHAND",
+            "MOVE_WORRYSEED",
+            "MOVE_COVET",
+            "MOVE_SYNTHESIS",
+            "MOVE_SEEDBOMB",
+            "MOVE_LASERFOCUS",
+            "MOVE_HYPERVOICE",
+            "MOVE_KNOCKOFF",
+            "MOVE_LASTRESORT",
+            "MOVE_CONFIDE",
+            "MOVE_FOCUSENERGY",
+            "MOVE_BATONPASS",
+            "MOVE_FAKETEARS",
+            "MOVE_BODYSLAM",
+            "MOVE_STOREDPOWER",
+            "MOVE_WEATHERBALL",
+            "MOVE_LEAFBLADE",
+            "MOVE_LEAFSTORM",
+            "MOVE_SOLARBLADE",
+            "MOVE_GRASSYGLIDE"
+        ]
+    }
 }

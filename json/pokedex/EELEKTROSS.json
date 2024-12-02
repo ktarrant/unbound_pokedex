@@ -1,200 +1,189 @@
 {
-    "baseHP": 85,
-    "baseAttack": 115,
-    "baseDefense": 80,
-    "baseSpAttack": 105,
-    "baseSpDefense": 80,
-    "baseSpeed": 50,
-    "type1": "TYPE_ELECTRIC",
-    "type2": "TYPE_ELECTRIC",
-    "catchRate": 30,
-    "expYield": 232,
-    "evYield_HP": 0,
-    "evYield_Attack": 3,
-    "evYield_Defense": 0,
-    "evYield_SpAttack": 0,
-    "evYield_SpDefense": 0,
-    "evYield_Speed": 0,
-    "item1": "ITEM_NONE",
-    "item2": "ITEM_NONE",
-    "genderRatio": 50.0,
-    "eggCycles": 20,
-    "friendship": 50,
-    "growthRate": "GROWTH_SLOW",
-    "eggGroup1": "EGG_GROUP_AMORPHOUS",
-    "eggGroup2": "EGG_GROUP_AMORPHOUS",
-    "ability1": "ABILITY_LEVITATE",
-    "ability2": "ABILITY_NONE",
-    "safariZoneFleeRate": 0,
-    "hiddenAbility": "ABILITY_NONE",
-    "noFlip": true,
-    "blurb": "With its sucker mouth, it sucks in prey. Then it uses its fangs to shock the prey with electricity.",
-    "name": "Eelektross",
-    "evolve_from": [
-        "EELEKTRIK"
-    ],
-    "location": [
-        {
-            "route": "Route 14",
-            "area": "",
-            "method": "Good Rod"
-        },
-        {
-            "route": "Route 14",
-            "area": "",
-            "method": "Super Rod"
-        }
-    ],
-    "learnset": [
-        {
-            "level": 0,
-            "move": "MOVE_IONDELUGE"
-        },
-        {
-            "level": 1,
-            "move": "MOVE_TACKLE"
-        },
-        {
-            "level": 1,
-            "move": "MOVE_THUNDERWAVE"
-        },
-        {
-            "level": 1,
-            "move": "MOVE_SPARK"
-        },
-        {
-            "level": 1,
-            "move": "MOVE_CHARGEBEAM"
-        },
-        {
-            "level": 1,
-            "move": "MOVE_HEADBUTT"
-        },
-        {
-            "level": 1,
-            "move": "MOVE_BIND"
-        },
-        {
-            "level": 1,
-            "move": "MOVE_ACID"
-        },
-        {
-            "level": 1,
-            "move": "MOVE_THUNDERBOLT"
-        },
-        {
-            "level": 1,
-            "move": "MOVE_ACIDSPRAY"
-        },
-        {
-            "level": 1,
-            "move": "MOVE_COIL"
-        },
-        {
-            "level": 1,
-            "move": "MOVE_WILDCHARGE"
-        },
-        {
-            "level": 1,
-            "move": "MOVE_GASTROACID"
-        },
-        {
-            "level": 1,
-            "move": "MOVE_ZAPCANNON"
-        },
-        {
-            "level": 1,
-            "move": "MOVE_CRUSHCLAW"
-        },
-        {
-            "level": 1,
-            "move": "MOVE_DISCHARGE"
-        },
-        {
-            "level": 1,
-            "move": "MOVE_IONDELUGE"
-        },
-        {
-            "level": 1,
-            "move": "MOVE_CRUNCH"
-        },
-        {
-            "level": 66,
-            "move": "MOVE_THRASH"
-        },
-        {
-            "level": 70,
-            "move": "MOVE_THUNDERCAGE"
-        }
-    ],
-    "tm": [
-        "MOVE_FOCUSPUNCH",
-        "MOVE_DRAGONCLAW",
-        "MOVE_ROAR",
-        "MOVE_TOXIC",
-        "MOVE_HIDDENPOWER",
-        "MOVE_HYPERBEAM",
-        "MOVE_LIGHTSCREEN",
-        "MOVE_PROTECT",
-        "MOVE_RAINDANCE",
-        "MOVE_GIGADRAIN",
-        "MOVE_FRUSTRATION",
-        "MOVE_IRONTAIL",
-        "MOVE_THUNDERBOLT",
-        "MOVE_THUNDER",
-        "MOVE_RETURN",
-        "MOVE_BRICKBREAK",
-        "MOVE_DOUBLETEAM",
-        "MOVE_SHOCKWAVE",
-        "MOVE_FLAMETHROWER",
-        "MOVE_ROCKTOMB",
-        "MOVE_FACADE",
-        "MOVE_SECRETPOWER",
-        "MOVE_REST",
-        "MOVE_ATTRACT",
-        "MOVE_HONECLAWS",
-        "MOVE_CHARGEBEAM",
-        "MOVE_ENDURE",
-        "MOVE_DRAGONPULSE",
-        "MOVE_DRAINPUNCH",
-        "MOVE_GIGAIMPACT",
-        "MOVE_FLASH",
-        "MOVE_THUNDERWAVE",
-        "MOVE_ROCKSLIDE",
-        "MOVE_SLEEPTALK",
-        "MOVE_GRASSKNOT",
-        "MOVE_SWAGGER",
-        "MOVE_UTURN",
-        "MOVE_SUBSTITUTE",
-        "MOVE_FLASHCANNON",
-        "MOVE_VOLTSWITCH",
-        "MOVE_DRAGONTAIL",
-        "MOVE_WILDCHARGE",
-        "MOVE_POWERUPPUNCH",
-        "MOVE_ACROBATICS",
-        "MOVE_ROUND",
-        "MOVE_NATURALGIFT",
-        "MOVE_CUT",
-        "MOVE_STRENGTH",
-        "MOVE_ROCKSMASH"
-    ],
-    "tutor": [
-        "MOVE_FIREPUNCH",
-        "MOVE_THUNDERPUNCH",
-        "MOVE_SNORE",
-        "MOVE_BIND",
-        "MOVE_SIGNALBEAM",
-        "MOVE_MAGNETRISE",
-        "MOVE_BOUNCE",
-        "MOVE_AQUATAIL",
-        "MOVE_GASTROACID",
-        "MOVE_SUPERFANG",
-        "MOVE_OUTRAGE",
-        "MOVE_THROATCHOP",
-        "MOVE_SUPERPOWER",
-        "MOVE_KNOCKOFF",
-        "MOVE_CONFIDE",
-        "MOVE_CRUNCH",
-        "MOVE_RISINGVOLTAGE"
-    ]
+    "EELEKTROSS": {
+        "blurb": "With its sucker mouth, it sucks in prey. Then it uses its fangs to shock the prey with electricity.",
+        "baseHP": 85,
+        "baseAttack": 115,
+        "baseDefense": 80,
+        "baseSpAttack": 105,
+        "baseSpDefense": 80,
+        "baseSpeed": 50,
+        "type1": "TYPE_ELECTRIC",
+        "type2": "TYPE_ELECTRIC",
+        "catchRate": 30,
+        "expYield": 232,
+        "evYield_HP": 0,
+        "evYield_Attack": 3,
+        "evYield_Defense": 0,
+        "evYield_SpAttack": 0,
+        "evYield_SpDefense": 0,
+        "evYield_Speed": 0,
+        "item1": "ITEM_NONE",
+        "item2": "ITEM_NONE",
+        "genderRatio": 50.0,
+        "eggCycles": 20,
+        "friendship": 50,
+        "growthRate": "GROWTH_SLOW",
+        "eggGroup1": "EGG_GROUP_AMORPHOUS",
+        "eggGroup2": "EGG_GROUP_AMORPHOUS",
+        "ability1": "ABILITY_LEVITATE",
+        "ability2": "ABILITY_NONE",
+        "safariZoneFleeRate": 0,
+        "hiddenAbility": "ABILITY_NONE",
+        "noFlip": true,
+        "evolve_from": [
+            "EELEKTRIK"
+        ],
+        "learnset": [
+            {
+                "level": 0,
+                "move": "MOVE_IONDELUGE"
+            },
+            {
+                "level": 1,
+                "move": "MOVE_TACKLE"
+            },
+            {
+                "level": 1,
+                "move": "MOVE_THUNDERWAVE"
+            },
+            {
+                "level": 1,
+                "move": "MOVE_SPARK"
+            },
+            {
+                "level": 1,
+                "move": "MOVE_CHARGEBEAM"
+            },
+            {
+                "level": 1,
+                "move": "MOVE_HEADBUTT"
+            },
+            {
+                "level": 1,
+                "move": "MOVE_BIND"
+            },
+            {
+                "level": 1,
+                "move": "MOVE_ACID"
+            },
+            {
+                "level": 1,
+                "move": "MOVE_THUNDERBOLT"
+            },
+            {
+                "level": 1,
+                "move": "MOVE_ACIDSPRAY"
+            },
+            {
+                "level": 1,
+                "move": "MOVE_COIL"
+            },
+            {
+                "level": 1,
+                "move": "MOVE_WILDCHARGE"
+            },
+            {
+                "level": 1,
+                "move": "MOVE_GASTROACID"
+            },
+            {
+                "level": 1,
+                "move": "MOVE_ZAPCANNON"
+            },
+            {
+                "level": 1,
+                "move": "MOVE_CRUSHCLAW"
+            },
+            {
+                "level": 1,
+                "move": "MOVE_DISCHARGE"
+            },
+            {
+                "level": 1,
+                "move": "MOVE_IONDELUGE"
+            },
+            {
+                "level": 1,
+                "move": "MOVE_CRUNCH"
+            },
+            {
+                "level": 66,
+                "move": "MOVE_THRASH"
+            },
+            {
+                "level": 70,
+                "move": "MOVE_THUNDERCAGE"
+            }
+        ],
+        "tm": [
+            "MOVE_FOCUSPUNCH",
+            "MOVE_DRAGONCLAW",
+            "MOVE_ROAR",
+            "MOVE_TOXIC",
+            "MOVE_HIDDENPOWER",
+            "MOVE_HYPERBEAM",
+            "MOVE_LIGHTSCREEN",
+            "MOVE_PROTECT",
+            "MOVE_RAINDANCE",
+            "MOVE_GIGADRAIN",
+            "MOVE_FRUSTRATION",
+            "MOVE_IRONTAIL",
+            "MOVE_THUNDERBOLT",
+            "MOVE_THUNDER",
+            "MOVE_RETURN",
+            "MOVE_BRICKBREAK",
+            "MOVE_DOUBLETEAM",
+            "MOVE_SHOCKWAVE",
+            "MOVE_FLAMETHROWER",
+            "MOVE_ROCKTOMB",
+            "MOVE_FACADE",
+            "MOVE_SECRETPOWER",
+            "MOVE_REST",
+            "MOVE_ATTRACT",
+            "MOVE_HONECLAWS",
+            "MOVE_CHARGEBEAM",
+            "MOVE_ENDURE",
+            "MOVE_DRAGONPULSE",
+            "MOVE_DRAINPUNCH",
+            "MOVE_GIGAIMPACT",
+            "MOVE_FLASH",
+            "MOVE_THUNDERWAVE",
+            "MOVE_ROCKSLIDE",
+            "MOVE_SLEEPTALK",
+            "MOVE_GRASSKNOT",
+            "MOVE_SWAGGER",
+            "MOVE_UTURN",
+            "MOVE_SUBSTITUTE",
+            "MOVE_FLASHCANNON",
+            "MOVE_VOLTSWITCH",
+            "MOVE_DRAGONTAIL",
+            "MOVE_WILDCHARGE",
+            "MOVE_POWERUPPUNCH",
+            "MOVE_ACROBATICS",
+            "MOVE_ROUND",
+            "MOVE_NATURALGIFT",
+            "MOVE_CUT",
+            "MOVE_STRENGTH",
+            "MOVE_ROCKSMASH"
+        ],
+        "tutor": [
+            "MOVE_FIREPUNCH",
+            "MOVE_THUNDERPUNCH",
+            "MOVE_SNORE",
+            "MOVE_BIND",
+            "MOVE_SIGNALBEAM",
+            "MOVE_MAGNETRISE",
+            "MOVE_BOUNCE",
+            "MOVE_AQUATAIL",
+            "MOVE_GASTROACID",
+            "MOVE_SUPERFANG",
+            "MOVE_OUTRAGE",
+            "MOVE_THROATCHOP",
+            "MOVE_SUPERPOWER",
+            "MOVE_KNOCKOFF",
+            "MOVE_CONFIDE",
+            "MOVE_CRUNCH",
+            "MOVE_RISINGVOLTAGE"
+        ]
+    }
 }

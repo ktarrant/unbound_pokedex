@@ -1,181 +1,170 @@
 {
-    "baseHP": 85,
-    "baseAttack": 105,
-    "baseDefense": 55,
-    "baseSpAttack": 85,
-    "baseSpDefense": 50,
-    "baseSpeed": 115,
-    "type1": "TYPE_WATER",
-    "type2": "TYPE_WATER",
-    "catchRate": 75,
-    "expYield": 178,
-    "evYield_HP": 0,
-    "evYield_Attack": 0,
-    "evYield_Defense": 0,
-    "evYield_SpAttack": 0,
-    "evYield_SpDefense": 0,
-    "evYield_Speed": 2,
-    "item1": "ITEM_NONE",
-    "item2": "ITEM_WACAN_BERRY",
-    "genderRatio": 50.0,
-    "eggCycles": 20,
-    "friendship": 50,
-    "growthRate": "GROWTH_MEDIUM_FAST",
-    "eggGroup1": "EGG_GROUP_WATER_1",
-    "eggGroup2": "EGG_GROUP_FIELD",
-    "ability1": "ABILITY_SWIFTSWIM",
-    "ability2": "ABILITY_WATERVEIL",
-    "safariZoneFleeRate": 0,
-    "hiddenAbility": "ABILITY_TECHNICIAN",
-    "noFlip": true,
-    "blurb": "It is a common sight around fishing ports. It is known to rescue people and carry off prey.",
-    "name": "Floatzel",
-    "evolve_from": [
-        "BUIZEL"
-    ],
-    "location": [
-        {
-            "route": "Route 14",
-            "area": "",
-            "method": "land"
-        },
-        {
-            "route": "Victory Road",
-            "area": "Maze Area",
-            "method": "surf"
-        }
-    ],
-    "learnset": [
-        {
-            "level": 0,
-            "move": "MOVE_FLIPTURN"
-        },
-        {
-            "level": 1,
-            "move": "MOVE_ICEFANG"
-        },
-        {
-            "level": 1,
-            "move": "MOVE_TAILSLAP"
-        },
-        {
-            "level": 1,
-            "move": "MOVE_WATERGUN"
-        },
-        {
-            "level": 1,
-            "move": "MOVE_GROWL"
-        },
-        {
-            "level": 1,
-            "move": "MOVE_WATERSPORT"
-        },
-        {
-            "level": 1,
-            "move": "MOVE_QUICKATTACK"
-        },
-        {
-            "level": 15,
-            "move": "MOVE_AQUAJET"
-        },
-        {
-            "level": 19,
-            "move": "MOVE_SONICBOOM"
-        },
-        {
-            "level": 23,
-            "move": "MOVE_SWIFT"
-        },
-        {
-            "level": 25,
-            "move": "MOVE_FLIPTURN"
-        },
-        {
-            "level": 28,
-            "move": "MOVE_DOUBLEHIT"
-        },
-        {
-            "level": 33,
-            "move": "MOVE_CRUNCH"
-        },
-        {
-            "level": 38,
-            "move": "MOVE_AQUATAIL"
-        },
-        {
-            "level": 43,
-            "move": "MOVE_RAZORWIND"
-        },
-        {
-            "level": 48,
-            "move": "MOVE_AGILITY"
-        },
-        {
-            "level": 52,
-            "move": "MOVE_HYDROPUMP"
-        }
-    ],
-    "tm": [
-        "MOVE_FOCUSPUNCH",
-        "MOVE_WATERPULSE",
-        "MOVE_ROAR",
-        "MOVE_TOXIC",
-        "MOVE_HAIL",
-        "MOVE_BULKUP",
-        "MOVE_HIDDENPOWER",
-        "MOVE_TAUNT",
-        "MOVE_ICEBEAM",
-        "MOVE_BLIZZARD",
-        "MOVE_HYPERBEAM",
-        "MOVE_PROTECT",
-        "MOVE_RAINDANCE",
-        "MOVE_FRUSTRATION",
-        "MOVE_IRONTAIL",
-        "MOVE_RETURN",
-        "MOVE_DIG",
-        "MOVE_BRICKBREAK",
-        "MOVE_DOUBLETEAM",
-        "MOVE_ROCKTOMB",
-        "MOVE_TORMENT",
-        "MOVE_FACADE",
-        "MOVE_SECRETPOWER",
-        "MOVE_REST",
-        "MOVE_ATTRACT",
-        "MOVE_FOCUSBLAST",
-        "MOVE_BRINE",
-        "MOVE_ENDURE",
-        "MOVE_PAYBACK",
-        "MOVE_GIGAIMPACT",
-        "MOVE_SLEEPTALK",
-        "MOVE_SCALD",
-        "MOVE_SWAGGER",
-        "MOVE_SUBSTITUTE",
-        "MOVE_POWERUPPUNCH",
-        "MOVE_ROUND",
-        "MOVE_ECHOEDVOICE",
-        "MOVE_NATURALGIFT",
-        "MOVE_SURF",
-        "MOVE_STRENGTH",
-        "MOVE_DIVE",
-        "MOVE_ROCKSMASH",
-        "MOVE_WATERFALL"
-    ],
-    "tutor": [
-        "MOVE_ICEPUNCH",
-        "MOVE_SNORE",
-        "MOVE_LOWKICK",
-        "MOVE_HELPINGHAND",
-        "MOVE_AQUATAIL",
-        "MOVE_ICYWIND",
-        "MOVE_LIQUIDATION",
-        "MOVE_CONFIDE",
-        "MOVE_BATONPASS",
-        "MOVE_AGILITY",
-        "MOVE_WHIRLPOOL",
-        "MOVE_TAILSLAP",
-        "MOVE_ICEFANG",
-        "MOVE_CRUNCH",
-        "MOVE_HYDROPUMP",
-        "MOVE_FLIPTURN"
-    ]
+    "FLOATZEL": {
+        "blurb": "It is a common sight around fishing ports. It is known to rescue people and carry off prey.",
+        "baseHP": 85,
+        "baseAttack": 105,
+        "baseDefense": 55,
+        "baseSpAttack": 85,
+        "baseSpDefense": 50,
+        "baseSpeed": 115,
+        "type1": "TYPE_WATER",
+        "type2": "TYPE_WATER",
+        "catchRate": 75,
+        "expYield": 178,
+        "evYield_HP": 0,
+        "evYield_Attack": 0,
+        "evYield_Defense": 0,
+        "evYield_SpAttack": 0,
+        "evYield_SpDefense": 0,
+        "evYield_Speed": 2,
+        "item1": "ITEM_NONE",
+        "item2": "ITEM_WACAN_BERRY",
+        "genderRatio": 50.0,
+        "eggCycles": 20,
+        "friendship": 50,
+        "growthRate": "GROWTH_MEDIUM_FAST",
+        "eggGroup1": "EGG_GROUP_WATER_1",
+        "eggGroup2": "EGG_GROUP_FIELD",
+        "ability1": "ABILITY_SWIFTSWIM",
+        "ability2": "ABILITY_WATERVEIL",
+        "safariZoneFleeRate": 0,
+        "hiddenAbility": "ABILITY_TECHNICIAN",
+        "noFlip": true,
+        "evolve_from": [
+            "BUIZEL"
+        ],
+        "learnset": [
+            {
+                "level": 0,
+                "move": "MOVE_FLIPTURN"
+            },
+            {
+                "level": 1,
+                "move": "MOVE_ICEFANG"
+            },
+            {
+                "level": 1,
+                "move": "MOVE_TAILSLAP"
+            },
+            {
+                "level": 1,
+                "move": "MOVE_WATERGUN"
+            },
+            {
+                "level": 1,
+                "move": "MOVE_GROWL"
+            },
+            {
+                "level": 1,
+                "move": "MOVE_WATERSPORT"
+            },
+            {
+                "level": 1,
+                "move": "MOVE_QUICKATTACK"
+            },
+            {
+                "level": 15,
+                "move": "MOVE_AQUAJET"
+            },
+            {
+                "level": 19,
+                "move": "MOVE_SONICBOOM"
+            },
+            {
+                "level": 23,
+                "move": "MOVE_SWIFT"
+            },
+            {
+                "level": 25,
+                "move": "MOVE_FLIPTURN"
+            },
+            {
+                "level": 28,
+                "move": "MOVE_DOUBLEHIT"
+            },
+            {
+                "level": 33,
+                "move": "MOVE_CRUNCH"
+            },
+            {
+                "level": 38,
+                "move": "MOVE_AQUATAIL"
+            },
+            {
+                "level": 43,
+                "move": "MOVE_RAZORWIND"
+            },
+            {
+                "level": 48,
+                "move": "MOVE_AGILITY"
+            },
+            {
+                "level": 52,
+                "move": "MOVE_HYDROPUMP"
+            }
+        ],
+        "tm": [
+            "MOVE_FOCUSPUNCH",
+            "MOVE_WATERPULSE",
+            "MOVE_ROAR",
+            "MOVE_TOXIC",
+            "MOVE_HAIL",
+            "MOVE_BULKUP",
+            "MOVE_HIDDENPOWER",
+            "MOVE_TAUNT",
+            "MOVE_ICEBEAM",
+            "MOVE_BLIZZARD",
+            "MOVE_HYPERBEAM",
+            "MOVE_PROTECT",
+            "MOVE_RAINDANCE",
+            "MOVE_FRUSTRATION",
+            "MOVE_IRONTAIL",
+            "MOVE_RETURN",
+            "MOVE_DIG",
+            "MOVE_BRICKBREAK",
+            "MOVE_DOUBLETEAM",
+            "MOVE_ROCKTOMB",
+            "MOVE_TORMENT",
+            "MOVE_FACADE",
+            "MOVE_SECRETPOWER",
+            "MOVE_REST",
+            "MOVE_ATTRACT",
+            "MOVE_FOCUSBLAST",
+            "MOVE_BRINE",
+            "MOVE_ENDURE",
+            "MOVE_PAYBACK",
+            "MOVE_GIGAIMPACT",
+            "MOVE_SLEEPTALK",
+            "MOVE_SCALD",
+            "MOVE_SWAGGER",
+            "MOVE_SUBSTITUTE",
+            "MOVE_POWERUPPUNCH",
+            "MOVE_ROUND",
+            "MOVE_ECHOEDVOICE",
+            "MOVE_NATURALGIFT",
+            "MOVE_SURF",
+            "MOVE_STRENGTH",
+            "MOVE_DIVE",
+            "MOVE_ROCKSMASH",
+            "MOVE_WATERFALL"
+        ],
+        "tutor": [
+            "MOVE_ICEPUNCH",
+            "MOVE_SNORE",
+            "MOVE_LOWKICK",
+            "MOVE_HELPINGHAND",
+            "MOVE_AQUATAIL",
+            "MOVE_ICYWIND",
+            "MOVE_LIQUIDATION",
+            "MOVE_CONFIDE",
+            "MOVE_BATONPASS",
+            "MOVE_AGILITY",
+            "MOVE_WHIRLPOOL",
+            "MOVE_TAILSLAP",
+            "MOVE_ICEFANG",
+            "MOVE_CRUNCH",
+            "MOVE_HYDROPUMP",
+            "MOVE_FLIPTURN"
+        ]
+    }
 }

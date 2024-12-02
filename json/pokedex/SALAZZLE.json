@@ -1,223 +1,217 @@
 {
-    "baseHP": 68,
-    "baseAttack": 64,
-    "baseDefense": 60,
-    "baseSpAttack": 111,
-    "baseSpDefense": 60,
-    "baseSpeed": 117,
-    "type1": "TYPE_POISON",
-    "type2": "TYPE_FIRE",
-    "catchRate": 45,
-    "expYield": 171,
-    "evYield_HP": 0,
-    "evYield_Attack": 0,
-    "evYield_Defense": 0,
-    "evYield_SpAttack": 0,
-    "evYield_SpDefense": 0,
-    "evYield_Speed": 2,
-    "item1": "ITEM_NONE",
-    "item2": "ITEM_SMOKE_BALL",
-    "genderRatio": 100.0,
-    "eggCycles": 20,
-    "friendship": 50,
-    "growthRate": "GROWTH_MEDIUM_FAST",
-    "eggGroup1": "EGG_GROUP_MONSTER",
-    "eggGroup2": "EGG_GROUP_DRAGON",
-    "ability1": "ABILITY_CORROSION",
-    "ability2": "ABILITY_NONE",
-    "safariZoneFleeRate": 0,
-    "hiddenAbility": "ABILITY_OBLIVIOUS",
-    "noFlip": true,
-    "blurb": "It punishes Salandit that couldn't bring it food with a fierce slap of its flame-spewing palm.",
-    "name": "Salazzle",
-    "evolve_from": [
-        "SALANDIT"
-    ],
-    "location": [
-        {
-            "route": "Victory Road",
-            "area": "B1F",
-            "method": "land"
-        }
-    ],
-    "learnset": [
-        {
-            "level": 0,
-            "move": "MOVE_FIRELASH"
-        },
-        {
-            "level": 0,
-            "move": "MOVE_CAPTIVATE"
-        },
-        {
-            "level": 1,
-            "move": "MOVE_CAPTIVATE"
-        },
-        {
-            "level": 1,
-            "move": "MOVE_VENOMDRENCH"
-        },
-        {
-            "level": 1,
-            "move": "MOVE_KNOCKOFF"
-        },
-        {
-            "level": 1,
-            "move": "MOVE_ENCORE"
-        },
-        {
-            "level": 1,
-            "move": "MOVE_TORMENT"
-        },
-        {
-            "level": 1,
-            "move": "MOVE_SWAGGER"
-        },
-        {
-            "level": 1,
-            "move": "MOVE_DISABLE"
-        },
-        {
-            "level": 1,
-            "move": "MOVE_SCRATCH"
-        },
-        {
-            "level": 1,
-            "move": "MOVE_ENDEAVOR"
-        },
-        {
-            "level": 1,
-            "move": "MOVE_POUND"
-        },
-        {
-            "level": 1,
-            "move": "MOVE_POISONGAS"
-        },
-        {
-            "level": 1,
-            "move": "MOVE_SMOG"
-        },
-        {
-            "level": 1,
-            "move": "MOVE_EMBER"
-        },
-        {
-            "level": 15,
-            "move": "MOVE_POISONFANG"
-        },
-        {
-            "level": 20,
-            "move": "MOVE_SWEETSCENT"
-        },
-        {
-            "level": 22,
-            "move": "MOVE_DOUBLESLAP"
-        },
-        {
-            "level": 25,
-            "move": "MOVE_NASTYPLOT"
-        },
-        {
-            "level": 30,
-            "move": "MOVE_INCINERATE"
-        },
-        {
-            "level": 32,
-            "move": "MOVE_DRAGONRAGE"
-        },
-        {
-            "level": 32,
-            "move": "MOVE_FIRELASH"
-        },
-        {
-            "level": 37,
-            "move": "MOVE_VENOSHOCK"
-        },
-        {
-            "level": 40,
-            "move": "MOVE_FLAMEBURST"
-        },
-        {
-            "level": 44,
-            "move": "MOVE_DRAGONPULSE"
-        },
-        {
-            "level": 51,
-            "move": "MOVE_SLUDGEBOMB"
-        },
-        {
-            "level": 58,
-            "move": "MOVE_FLAMETHROWER"
-        },
-        {
-            "level": 65,
-            "move": "MOVE_TOXIC"
-        }
-    ],
-    "tm": [
-        "MOVE_DRAGONCLAW",
-        "MOVE_TOXIC",
-        "MOVE_HIDDENPOWER",
-        "MOVE_TAUNT",
-        "MOVE_PROTECT",
-        "MOVE_FRUSTRATION",
-        "MOVE_IRONTAIL",
-        "MOVE_RETURN",
-        "MOVE_DOUBLETEAM",
-        "MOVE_FLAMETHROWER",
-        "MOVE_SLUDGEBOMB",
-        "MOVE_FIREBLAST",
-        "MOVE_TORMENT",
-        "MOVE_FACADE",
-        "MOVE_SECRETPOWER",
-        "MOVE_REST",
-        "MOVE_ATTRACT",
-        "MOVE_THIEF",
-        "MOVE_LEECHFANG",
-        "MOVE_OVERHEAT",
-        "MOVE_HONECLAWS",
-        "MOVE_ENDURE",
-        "MOVE_DRAGONPULSE",
-        "MOVE_WILLOWISP",
-        "MOVE_VENOSHOCK",
-        "MOVE_SHADOWCLAW",
-        "MOVE_PAYBACK",
-        "MOVE_THUNDERWAVE",
-        "MOVE_FLAMECHARGE",
-        "MOVE_SLEEPTALK",
-        "MOVE_POISONJAB",
-        "MOVE_SWAGGER",
-        "MOVE_SUBSTITUTE",
-        "MOVE_DRAGONTAIL",
-        "MOVE_INCINERATE",
-        "MOVE_SLUDGEWAVE",
-        "MOVE_ACROBATICS",
-        "MOVE_ROUND",
-        "MOVE_NATURALGIFT",
-        "MOVE_FLING",
-        "MOVE_CUT"
-    ],
-    "tutor": [
-        "MOVE_SNORE",
-        "MOVE_HELPINGHAND",
-        "MOVE_COVET",
-        "MOVE_SNATCH",
-        "MOVE_LASERFOCUS",
-        "MOVE_FOULPLAY",
-        "MOVE_GUNKSHOT",
-        "MOVE_HEATWAVE",
-        "MOVE_KNOCKOFF",
-        "MOVE_CONFIDE",
-        "MOVE_ENCORE",
-        "MOVE_FAKETEARS",
-        "MOVE_VENOMDRENCH",
-        "MOVE_DRAGONDANCE",
-        "MOVE_NASTYPLOT",
-        "MOVE_BREAKINGSWIPE",
-        "MOVE_CROSSPOISON",
-        "MOVE_FLAREBLITZ",
-        "MOVE_SCALESHOT",
-        "MOVE_SKITTERSMACK",
-        "MOVE_CORROSIVEGAS"
-    ]
+    "SALAZZLE": {
+        "blurb": "It punishes Salandit that couldn't bring it food with a fierce slap of its flame-spewing palm.",
+        "baseHP": 68,
+        "baseAttack": 64,
+        "baseDefense": 60,
+        "baseSpAttack": 111,
+        "baseSpDefense": 60,
+        "baseSpeed": 117,
+        "type1": "TYPE_POISON",
+        "type2": "TYPE_FIRE",
+        "catchRate": 45,
+        "expYield": 171,
+        "evYield_HP": 0,
+        "evYield_Attack": 0,
+        "evYield_Defense": 0,
+        "evYield_SpAttack": 0,
+        "evYield_SpDefense": 0,
+        "evYield_Speed": 2,
+        "item1": "ITEM_NONE",
+        "item2": "ITEM_SMOKE_BALL",
+        "genderRatio": 100.0,
+        "eggCycles": 20,
+        "friendship": 50,
+        "growthRate": "GROWTH_MEDIUM_FAST",
+        "eggGroup1": "EGG_GROUP_MONSTER",
+        "eggGroup2": "EGG_GROUP_DRAGON",
+        "ability1": "ABILITY_CORROSION",
+        "ability2": "ABILITY_NONE",
+        "safariZoneFleeRate": 0,
+        "hiddenAbility": "ABILITY_OBLIVIOUS",
+        "noFlip": true,
+        "evolve_from": [
+            "SALANDIT"
+        ],
+        "learnset": [
+            {
+                "level": 0,
+                "move": "MOVE_FIRELASH"
+            },
+            {
+                "level": 0,
+                "move": "MOVE_CAPTIVATE"
+            },
+            {
+                "level": 1,
+                "move": "MOVE_CAPTIVATE"
+            },
+            {
+                "level": 1,
+                "move": "MOVE_VENOMDRENCH"
+            },
+            {
+                "level": 1,
+                "move": "MOVE_KNOCKOFF"
+            },
+            {
+                "level": 1,
+                "move": "MOVE_ENCORE"
+            },
+            {
+                "level": 1,
+                "move": "MOVE_TORMENT"
+            },
+            {
+                "level": 1,
+                "move": "MOVE_SWAGGER"
+            },
+            {
+                "level": 1,
+                "move": "MOVE_DISABLE"
+            },
+            {
+                "level": 1,
+                "move": "MOVE_SCRATCH"
+            },
+            {
+                "level": 1,
+                "move": "MOVE_ENDEAVOR"
+            },
+            {
+                "level": 1,
+                "move": "MOVE_POUND"
+            },
+            {
+                "level": 1,
+                "move": "MOVE_POISONGAS"
+            },
+            {
+                "level": 1,
+                "move": "MOVE_SMOG"
+            },
+            {
+                "level": 1,
+                "move": "MOVE_EMBER"
+            },
+            {
+                "level": 15,
+                "move": "MOVE_POISONFANG"
+            },
+            {
+                "level": 20,
+                "move": "MOVE_SWEETSCENT"
+            },
+            {
+                "level": 22,
+                "move": "MOVE_DOUBLESLAP"
+            },
+            {
+                "level": 25,
+                "move": "MOVE_NASTYPLOT"
+            },
+            {
+                "level": 30,
+                "move": "MOVE_INCINERATE"
+            },
+            {
+                "level": 32,
+                "move": "MOVE_DRAGONRAGE"
+            },
+            {
+                "level": 32,
+                "move": "MOVE_FIRELASH"
+            },
+            {
+                "level": 37,
+                "move": "MOVE_VENOSHOCK"
+            },
+            {
+                "level": 40,
+                "move": "MOVE_FLAMEBURST"
+            },
+            {
+                "level": 44,
+                "move": "MOVE_DRAGONPULSE"
+            },
+            {
+                "level": 51,
+                "move": "MOVE_SLUDGEBOMB"
+            },
+            {
+                "level": 58,
+                "move": "MOVE_FLAMETHROWER"
+            },
+            {
+                "level": 65,
+                "move": "MOVE_TOXIC"
+            }
+        ],
+        "tm": [
+            "MOVE_DRAGONCLAW",
+            "MOVE_TOXIC",
+            "MOVE_HIDDENPOWER",
+            "MOVE_TAUNT",
+            "MOVE_PROTECT",
+            "MOVE_FRUSTRATION",
+            "MOVE_IRONTAIL",
+            "MOVE_RETURN",
+            "MOVE_DOUBLETEAM",
+            "MOVE_FLAMETHROWER",
+            "MOVE_SLUDGEBOMB",
+            "MOVE_FIREBLAST",
+            "MOVE_TORMENT",
+            "MOVE_FACADE",
+            "MOVE_SECRETPOWER",
+            "MOVE_REST",
+            "MOVE_ATTRACT",
+            "MOVE_THIEF",
+            "MOVE_LEECHFANG",
+            "MOVE_OVERHEAT",
+            "MOVE_HONECLAWS",
+            "MOVE_ENDURE",
+            "MOVE_DRAGONPULSE",
+            "MOVE_WILLOWISP",
+            "MOVE_VENOSHOCK",
+            "MOVE_SHADOWCLAW",
+            "MOVE_PAYBACK",
+            "MOVE_THUNDERWAVE",
+            "MOVE_FLAMECHARGE",
+            "MOVE_SLEEPTALK",
+            "MOVE_POISONJAB",
+            "MOVE_SWAGGER",
+            "MOVE_SUBSTITUTE",
+            "MOVE_DRAGONTAIL",
+            "MOVE_INCINERATE",
+            "MOVE_SLUDGEWAVE",
+            "MOVE_ACROBATICS",
+            "MOVE_ROUND",
+            "MOVE_NATURALGIFT",
+            "MOVE_FLING",
+            "MOVE_CUT"
+        ],
+        "tutor": [
+            "MOVE_SNORE",
+            "MOVE_HELPINGHAND",
+            "MOVE_COVET",
+            "MOVE_SNATCH",
+            "MOVE_LASERFOCUS",
+            "MOVE_FOULPLAY",
+            "MOVE_GUNKSHOT",
+            "MOVE_HEATWAVE",
+            "MOVE_KNOCKOFF",
+            "MOVE_CONFIDE",
+            "MOVE_ENCORE",
+            "MOVE_FAKETEARS",
+            "MOVE_VENOMDRENCH",
+            "MOVE_DRAGONDANCE",
+            "MOVE_NASTYPLOT",
+            "MOVE_BREAKINGSWIPE",
+            "MOVE_CROSSPOISON",
+            "MOVE_FLAREBLITZ",
+            "MOVE_SCALESHOT",
+            "MOVE_SKITTERSMACK",
+            "MOVE_CORROSIVEGAS"
+        ]
+    }
 }

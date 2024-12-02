@@ -1,201 +1,190 @@
 {
-    "baseHP": 100,
-    "baseAttack": 125,
-    "baseDefense": 52,
-    "baseSpAttack": 105,
-    "baseSpDefense": 52,
-    "baseSpeed": 71,
-    "type1": "TYPE_DARK",
-    "type2": "TYPE_FLYING",
-    "catchRate": 30,
-    "expYield": 187,
-    "evYield_HP": 0,
-    "evYield_Attack": 2,
-    "evYield_Defense": 0,
-    "evYield_SpAttack": 0,
-    "evYield_SpDefense": 0,
-    "evYield_Speed": 0,
-    "item1": "ITEM_NONE",
-    "item2": "ITEM_NONE",
-    "genderRatio": 50.0,
-    "eggCycles": 20,
-    "friendship": 35,
-    "growthRate": "GROWTH_MEDIUM_SLOW",
-    "eggGroup1": "EGG_GROUP_FLYING",
-    "eggGroup2": "EGG_GROUP_FLYING",
-    "ability1": "ABILITY_INSOMNIA",
-    "ability2": "ABILITY_SUPERLUCK",
-    "safariZoneFleeRate": 0,
-    "hiddenAbility": "ABILITY_MOXIE",
-    "noFlip": true,
-    "blurb": "Becoming active at night, it is known to swarm with numerous Murkrow in tow.",
-    "name": "Honchkrow",
-    "evolve_from": [
-        "MURKROW"
-    ],
-    "location": [
-        {
-            "route": "Route 14",
-            "area": "",
-            "method": "Good Rod"
-        },
-        {
-            "route": "Route 14",
-            "area": "",
-            "method": "Super Rod"
-        }
-    ],
-    "learnset": [
-        {
-            "level": 1,
-            "move": "MOVE_FEINTATTACK"
-        },
-        {
-            "level": 1,
-            "move": "MOVE_DUALWINGBEAT"
-        },
-        {
-            "level": 1,
-            "move": "MOVE_MEANLOOK"
-        },
-        {
-            "level": 1,
-            "move": "MOVE_TAILWIND"
-        },
-        {
-            "level": 1,
-            "move": "MOVE_FOULPLAY"
-        },
-        {
-            "level": 1,
-            "move": "MOVE_PECK"
-        },
-        {
-            "level": 1,
-            "move": "MOVE_ASTONISH"
-        },
-        {
-            "level": 5,
-            "move": "MOVE_PURSUIT"
-        },
-        {
-            "level": 11,
-            "move": "MOVE_HAZE"
-        },
-        {
-            "level": 15,
-            "move": "MOVE_WINGATTACK"
-        },
-        {
-            "level": 21,
-            "move": "MOVE_NIGHTSHADE"
-        },
-        {
-            "level": 25,
-            "move": "MOVE_ASSURANCE"
-        },
-        {
-            "level": 30,
-            "move": "MOVE_TAUNT"
-        },
-        {
-            "level": 34,
-            "move": "MOVE_DRILLPECK"
-        },
-        {
-            "level": 39,
-            "move": "MOVE_NIGHTSLASH"
-        },
-        {
-            "level": 44,
-            "move": "MOVE_SWAGGER"
-        },
-        {
-            "level": 48,
-            "move": "MOVE_SUCKERPUNCH"
-        },
-        {
-            "level": 53,
-            "move": "MOVE_NASTYPLOT"
-        },
-        {
-            "level": 57,
-            "move": "MOVE_DARKPULSE"
-        },
-        {
-            "level": 62,
-            "move": "MOVE_OBLIVIONWING"
-        },
-        {
-            "level": 66,
-            "move": "MOVE_QUASH"
-        },
-        {
-            "level": 70,
-            "move": "MOVE_BRAVEBIRD"
-        }
-    ],
-    "tm": [
-        "MOVE_CALMMIND",
-        "MOVE_TOXIC",
-        "MOVE_HIDDENPOWER",
-        "MOVE_SUNNYDAY",
-        "MOVE_TAUNT",
-        "MOVE_HYPERBEAM",
-        "MOVE_PROTECT",
-        "MOVE_RAINDANCE",
-        "MOVE_FRUSTRATION",
-        "MOVE_RETURN",
-        "MOVE_PSYCHIC",
-        "MOVE_SHADOWBALL",
-        "MOVE_DOUBLETEAM",
-        "MOVE_AERIALACE",
-        "MOVE_TORMENT",
-        "MOVE_FACADE",
-        "MOVE_SECRETPOWER",
-        "MOVE_REST",
-        "MOVE_ATTRACT",
-        "MOVE_THIEF",
-        "MOVE_STEELWING",
-        "MOVE_ROOST",
-        "MOVE_ENDURE",
-        "MOVE_PAYBACK",
-        "MOVE_GIGAIMPACT",
-        "MOVE_THUNDERWAVE",
-        "MOVE_DARKPULSE",
-        "MOVE_SLEEPTALK",
-        "MOVE_DREAMEATER",
-        "MOVE_SWAGGER",
-        "MOVE_PLUCK",
-        "MOVE_SUBSTITUTE",
-        "MOVE_INCINERATE",
-        "MOVE_SNARL",
-        "MOVE_DEFOG",
-        "MOVE_ROUND",
-        "MOVE_NATURALGIFT",
-        "MOVE_QUASH",
-        "MOVE_FLY"
-    ],
-    "tutor": [
-        "MOVE_SNORE",
-        "MOVE_UPROAR",
-        "MOVE_SNATCH",
-        "MOVE_SPITE",
-        "MOVE_TAILWIND",
-        "MOVE_ICYWIND",
-        "MOVE_FOULPLAY",
-        "MOVE_SKYATTACK",
-        "MOVE_HEATWAVE",
-        "MOVE_SUPERPOWER",
-        "MOVE_PSYCHUP",
-        "MOVE_CONFIDE",
-        "MOVE_SCREECH",
-        "MOVE_SCARYFACE",
-        "MOVE_NASTYPLOT",
-        "MOVE_AIRSLASH",
-        "MOVE_BRAVEBIRD",
-        "MOVE_HURRICANE",
-        "MOVE_LASHOUT",
-        "MOVE_DUALWINGBEAT"
-    ]
+    "HONCHKROW": {
+        "blurb": "Becoming active at night, it is known to swarm with numerous Murkrow in tow.",
+        "baseHP": 100,
+        "baseAttack": 125,
+        "baseDefense": 52,
+        "baseSpAttack": 105,
+        "baseSpDefense": 52,
+        "baseSpeed": 71,
+        "type1": "TYPE_DARK",
+        "type2": "TYPE_FLYING",
+        "catchRate": 30,
+        "expYield": 187,
+        "evYield_HP": 0,
+        "evYield_Attack": 2,
+        "evYield_Defense": 0,
+        "evYield_SpAttack": 0,
+        "evYield_SpDefense": 0,
+        "evYield_Speed": 0,
+        "item1": "ITEM_NONE",
+        "item2": "ITEM_NONE",
+        "genderRatio": 50.0,
+        "eggCycles": 20,
+        "friendship": 35,
+        "growthRate": "GROWTH_MEDIUM_SLOW",
+        "eggGroup1": "EGG_GROUP_FLYING",
+        "eggGroup2": "EGG_GROUP_FLYING",
+        "ability1": "ABILITY_INSOMNIA",
+        "ability2": "ABILITY_SUPERLUCK",
+        "safariZoneFleeRate": 0,
+        "hiddenAbility": "ABILITY_MOXIE",
+        "noFlip": true,
+        "evolve_from": [
+            "MURKROW"
+        ],
+        "learnset": [
+            {
+                "level": 1,
+                "move": "MOVE_FEINTATTACK"
+            },
+            {
+                "level": 1,
+                "move": "MOVE_DUALWINGBEAT"
+            },
+            {
+                "level": 1,
+                "move": "MOVE_MEANLOOK"
+            },
+            {
+                "level": 1,
+                "move": "MOVE_TAILWIND"
+            },
+            {
+                "level": 1,
+                "move": "MOVE_FOULPLAY"
+            },
+            {
+                "level": 1,
+                "move": "MOVE_PECK"
+            },
+            {
+                "level": 1,
+                "move": "MOVE_ASTONISH"
+            },
+            {
+                "level": 5,
+                "move": "MOVE_PURSUIT"
+            },
+            {
+                "level": 11,
+                "move": "MOVE_HAZE"
+            },
+            {
+                "level": 15,
+                "move": "MOVE_WINGATTACK"
+            },
+            {
+                "level": 21,
+                "move": "MOVE_NIGHTSHADE"
+            },
+            {
+                "level": 25,
+                "move": "MOVE_ASSURANCE"
+            },
+            {
+                "level": 30,
+                "move": "MOVE_TAUNT"
+            },
+            {
+                "level": 34,
+                "move": "MOVE_DRILLPECK"
+            },
+            {
+                "level": 39,
+                "move": "MOVE_NIGHTSLASH"
+            },
+            {
+                "level": 44,
+                "move": "MOVE_SWAGGER"
+            },
+            {
+                "level": 48,
+                "move": "MOVE_SUCKERPUNCH"
+            },
+            {
+                "level": 53,
+                "move": "MOVE_NASTYPLOT"
+            },
+            {
+                "level": 57,
+                "move": "MOVE_DARKPULSE"
+            },
+            {
+                "level": 62,
+                "move": "MOVE_OBLIVIONWING"
+            },
+            {
+                "level": 66,
+                "move": "MOVE_QUASH"
+            },
+            {
+                "level": 70,
+                "move": "MOVE_BRAVEBIRD"
+            }
+        ],
+        "tm": [
+            "MOVE_CALMMIND",
+            "MOVE_TOXIC",
+            "MOVE_HIDDENPOWER",
+            "MOVE_SUNNYDAY",
+            "MOVE_TAUNT",
+            "MOVE_HYPERBEAM",
+            "MOVE_PROTECT",
+            "MOVE_RAINDANCE",
+            "MOVE_FRUSTRATION",
+            "MOVE_RETURN",
+            "MOVE_PSYCHIC",
+            "MOVE_SHADOWBALL",
+            "MOVE_DOUBLETEAM",
+            "MOVE_AERIALACE",
+            "MOVE_TORMENT",
+            "MOVE_FACADE",
+            "MOVE_SECRETPOWER",
+            "MOVE_REST",
+            "MOVE_ATTRACT",
+            "MOVE_THIEF",
+            "MOVE_STEELWING",
+            "MOVE_ROOST",
+            "MOVE_ENDURE",
+            "MOVE_PAYBACK",
+            "MOVE_GIGAIMPACT",
+            "MOVE_THUNDERWAVE",
+            "MOVE_DARKPULSE",
+            "MOVE_SLEEPTALK",
+            "MOVE_DREAMEATER",
+            "MOVE_SWAGGER",
+            "MOVE_PLUCK",
+            "MOVE_SUBSTITUTE",
+            "MOVE_INCINERATE",
+            "MOVE_SNARL",
+            "MOVE_DEFOG",
+            "MOVE_ROUND",
+            "MOVE_NATURALGIFT",
+            "MOVE_QUASH",
+            "MOVE_FLY"
+        ],
+        "tutor": [
+            "MOVE_SNORE",
+            "MOVE_UPROAR",
+            "MOVE_SNATCH",
+            "MOVE_SPITE",
+            "MOVE_TAILWIND",
+            "MOVE_ICYWIND",
+            "MOVE_FOULPLAY",
+            "MOVE_SKYATTACK",
+            "MOVE_HEATWAVE",
+            "MOVE_SUPERPOWER",
+            "MOVE_PSYCHUP",
+            "MOVE_CONFIDE",
+            "MOVE_SCREECH",
+            "MOVE_SCARYFACE",
+            "MOVE_NASTYPLOT",
+            "MOVE_AIRSLASH",
+            "MOVE_BRAVEBIRD",
+            "MOVE_HURRICANE",
+            "MOVE_LASHOUT",
+            "MOVE_DUALWINGBEAT"
+        ]
+    }
 }

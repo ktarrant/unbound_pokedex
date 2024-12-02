@@ -1,155 +1,149 @@
 {
-    "baseHP": 100,
-    "baseAttack": 5,
-    "baseDefense": 5,
-    "baseSpAttack": 15,
-    "baseSpDefense": 65,
-    "baseSpeed": 30,
-    "type1": "TYPE_NORMAL",
-    "type2": "TYPE_NORMAL",
-    "catchRate": 130,
-    "expYield": 255,
-    "evYield_HP": 1,
-    "evYield_Attack": 0,
-    "evYield_Defense": 0,
-    "evYield_SpAttack": 0,
-    "evYield_SpDefense": 0,
-    "evYield_Speed": 0,
-    "item1": "ITEM_OVAL_STONE",
-    "item2": "ITEM_LUCKY_EGG",
-    "genderRatio": 100.0,
-    "eggCycles": 40,
-    "friendship": 140,
-    "growthRate": "GROWTH_FAST",
-    "eggGroup1": "EGG_GROUP_UNDISCOVERED",
-    "eggGroup2": "EGG_GROUP_UNDISCOVERED",
-    "ability1": "ABILITY_NATURALCURE",
-    "ability2": "ABILITY_SERENEGRACE",
-    "safariZoneFleeRate": 0,
-    "hiddenAbility": "ABILITY_FRIENDGUARD",
-    "noFlip": true,
-    "egg_moves": [
-        "MOVE_PRESENT",
-        "MOVE_METRONOME",
-        "MOVE_HEALBELL",
-        "MOVE_AROMATHERAPY",
-        "MOVE_COUNTER",
-        "MOVE_HELPINGHAND",
-        "MOVE_GRAVITY",
-        "MOVE_MUDBOMB",
-        "MOVE_NATURALGIFT",
-        "MOVE_ENDURE",
-        "MOVE_SEISMICTOSS",
-        "MOVE_BESTOW"
-    ],
-    "evolve_to": [
-        {
-            "method": "EVO_HOLD_ITEM_DAY",
-            "condition": "ITEM_OVAL_STONE",
-            "target": "CHANSEY",
-            "extra": "0"
-        }
-    ],
-    "blurb": "It loves round white things. It carries an egg-shaped rock in imitation of Chansey.",
-    "name": "Happiny",
-    "evolve_from": [],
-    "location": [
-        {
-            "route": "Route 18",
-            "area": "",
-            "method": "land"
-        }
-    ],
-    "learnset": [
-        {
-            "level": 1,
-            "move": "MOVE_REFRESH"
-        },
-        {
-            "level": 1,
-            "move": "MOVE_POUND"
-        },
-        {
-            "level": 1,
-            "move": "MOVE_COPYCAT"
-        },
-        {
-            "level": 4,
-            "move": "MOVE_DEFENSECURL"
-        },
-        {
-            "level": 8,
-            "move": "MOVE_SWEETKISS"
-        },
-        {
-            "level": 12,
-            "move": "MOVE_DISARMINGVOICE"
-        },
-        {
-            "level": 16,
-            "move": "MOVE_COVET"
-        },
-        {
-            "level": 20,
-            "move": "MOVE_CHARM"
-        }
-    ],
-    "tm": [
-        "MOVE_WATERPULSE",
-        "MOVE_CALMMIND",
-        "MOVE_TOXIC",
-        "MOVE_HAIL",
-        "MOVE_HIDDENPOWER",
-        "MOVE_SUNNYDAY",
-        "MOVE_LIGHTSCREEN",
-        "MOVE_PROTECT",
-        "MOVE_RAINDANCE",
-        "MOVE_SAFEGUARD",
-        "MOVE_FRUSTRATION",
-        "MOVE_SOLARBEAM",
-        "MOVE_RETURN",
-        "MOVE_PSYCHIC",
-        "MOVE_SHADOWBALL",
-        "MOVE_DOUBLETEAM",
-        "MOVE_SHOCKWAVE",
-        "MOVE_FLAMETHROWER",
-        "MOVE_FIREBLAST",
-        "MOVE_FACADE",
-        "MOVE_SECRETPOWER",
-        "MOVE_REST",
-        "MOVE_ATTRACT",
-        "MOVE_ENDURE",
-        "MOVE_DRAINPUNCH",
-        "MOVE_RECYCLE",
-        "MOVE_FLASH",
-        "MOVE_THUNDERWAVE",
-        "MOVE_SLEEPTALK",
-        "MOVE_DREAMEATER",
-        "MOVE_GRASSKNOT",
-        "MOVE_SWAGGER",
-        "MOVE_SUBSTITUTE",
-        "MOVE_INCINERATE",
-        "MOVE_WORKUP",
-        "MOVE_DRAININGKISS",
-        "MOVE_ROUND",
-        "MOVE_ECHOEDVOICE",
-        "MOVE_NATURALGIFT",
-        "MOVE_FLING"
-    ],
-    "tutor": [
-        "MOVE_SNORE",
-        "MOVE_HEALBELL",
-        "MOVE_UPROAR",
-        "MOVE_HELPINGHAND",
-        "MOVE_COVET",
-        "MOVE_GRAVITY",
-        "MOVE_ENDEAVOR",
-        "MOVE_ICYWIND",
-        "MOVE_ZENHEADBUTT",
-        "MOVE_HYPERVOICE",
-        "MOVE_PSYCHUP",
-        "MOVE_LASTRESORT",
-        "MOVE_CONFIDE",
-        "MOVE_STOREDPOWER"
-    ]
+    "HAPPINY": {
+        "blurb": "It loves round white things. It carries an egg-shaped rock in imitation of Chansey.",
+        "baseHP": 100,
+        "baseAttack": 5,
+        "baseDefense": 5,
+        "baseSpAttack": 15,
+        "baseSpDefense": 65,
+        "baseSpeed": 30,
+        "type1": "TYPE_NORMAL",
+        "type2": "TYPE_NORMAL",
+        "catchRate": 130,
+        "expYield": 255,
+        "evYield_HP": 1,
+        "evYield_Attack": 0,
+        "evYield_Defense": 0,
+        "evYield_SpAttack": 0,
+        "evYield_SpDefense": 0,
+        "evYield_Speed": 0,
+        "item1": "ITEM_OVAL_STONE",
+        "item2": "ITEM_LUCKY_EGG",
+        "genderRatio": 100.0,
+        "eggCycles": 40,
+        "friendship": 140,
+        "growthRate": "GROWTH_FAST",
+        "eggGroup1": "EGG_GROUP_UNDISCOVERED",
+        "eggGroup2": "EGG_GROUP_UNDISCOVERED",
+        "ability1": "ABILITY_NATURALCURE",
+        "ability2": "ABILITY_SERENEGRACE",
+        "safariZoneFleeRate": 0,
+        "hiddenAbility": "ABILITY_FRIENDGUARD",
+        "noFlip": true,
+        "evolve_to": [
+            {
+                "method": "EVO_HOLD_ITEM_DAY",
+                "condition": "ITEM_OVAL_STONE",
+                "target": "CHANSEY",
+                "extra": "0"
+            }
+        ],
+        "evolve_from": [],
+        "egg_moves": [
+            "MOVE_PRESENT",
+            "MOVE_METRONOME",
+            "MOVE_HEALBELL",
+            "MOVE_AROMATHERAPY",
+            "MOVE_COUNTER",
+            "MOVE_HELPINGHAND",
+            "MOVE_GRAVITY",
+            "MOVE_MUDBOMB",
+            "MOVE_NATURALGIFT",
+            "MOVE_ENDURE",
+            "MOVE_SEISMICTOSS",
+            "MOVE_BESTOW"
+        ],
+        "learnset": [
+            {
+                "level": 1,
+                "move": "MOVE_REFRESH"
+            },
+            {
+                "level": 1,
+                "move": "MOVE_POUND"
+            },
+            {
+                "level": 1,
+                "move": "MOVE_COPYCAT"
+            },
+            {
+                "level": 4,
+                "move": "MOVE_DEFENSECURL"
+            },
+            {
+                "level": 8,
+                "move": "MOVE_SWEETKISS"
+            },
+            {
+                "level": 12,
+                "move": "MOVE_DISARMINGVOICE"
+            },
+            {
+                "level": 16,
+                "move": "MOVE_COVET"
+            },
+            {
+                "level": 20,
+                "move": "MOVE_CHARM"
+            }
+        ],
+        "tm": [
+            "MOVE_WATERPULSE",
+            "MOVE_CALMMIND",
+            "MOVE_TOXIC",
+            "MOVE_HAIL",
+            "MOVE_HIDDENPOWER",
+            "MOVE_SUNNYDAY",
+            "MOVE_LIGHTSCREEN",
+            "MOVE_PROTECT",
+            "MOVE_RAINDANCE",
+            "MOVE_SAFEGUARD",
+            "MOVE_FRUSTRATION",
+            "MOVE_SOLARBEAM",
+            "MOVE_RETURN",
+            "MOVE_PSYCHIC",
+            "MOVE_SHADOWBALL",
+            "MOVE_DOUBLETEAM",
+            "MOVE_SHOCKWAVE",
+            "MOVE_FLAMETHROWER",
+            "MOVE_FIREBLAST",
+            "MOVE_FACADE",
+            "MOVE_SECRETPOWER",
+            "MOVE_REST",
+            "MOVE_ATTRACT",
+            "MOVE_ENDURE",
+            "MOVE_DRAINPUNCH",
+            "MOVE_RECYCLE",
+            "MOVE_FLASH",
+            "MOVE_THUNDERWAVE",
+            "MOVE_SLEEPTALK",
+            "MOVE_DREAMEATER",
+            "MOVE_GRASSKNOT",
+            "MOVE_SWAGGER",
+            "MOVE_SUBSTITUTE",
+            "MOVE_INCINERATE",
+            "MOVE_WORKUP",
+            "MOVE_DRAININGKISS",
+            "MOVE_ROUND",
+            "MOVE_ECHOEDVOICE",
+            "MOVE_NATURALGIFT",
+            "MOVE_FLING"
+        ],
+        "tutor": [
+            "MOVE_SNORE",
+            "MOVE_HEALBELL",
+            "MOVE_UPROAR",
+            "MOVE_HELPINGHAND",
+            "MOVE_COVET",
+            "MOVE_GRAVITY",
+            "MOVE_ENDEAVOR",
+            "MOVE_ICYWIND",
+            "MOVE_ZENHEADBUTT",
+            "MOVE_HYPERVOICE",
+            "MOVE_PSYCHUP",
+            "MOVE_LASTRESORT",
+            "MOVE_CONFIDE",
+            "MOVE_STOREDPOWER"
+        ]
+    }
 }

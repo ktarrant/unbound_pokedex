@@ -1,202 +1,196 @@
 {
-    "baseHP": 50,
-    "baseAttack": 45,
-    "baseDefense": 45,
-    "baseSpAttack": 35,
-    "baseSpDefense": 35,
-    "baseSpeed": 50,
-    "type1": "TYPE_NORMAL",
-    "type2": "TYPE_NORMAL",
-    "catchRate": 255,
-    "expYield": 65,
-    "evYield_HP": 0,
-    "evYield_Attack": 0,
-    "evYield_Defense": 0,
-    "evYield_SpAttack": 0,
-    "evYield_SpDefense": 0,
-    "evYield_Speed": 1,
-    "item1": "ITEM_PECHA_BERRY",
-    "item2": "ITEM_LEPPA_BERRY",
-    "genderRatio": 75.0,
-    "eggCycles": 15,
-    "friendship": 50,
-    "growthRate": "GROWTH_FAST",
-    "eggGroup1": "EGG_GROUP_FIELD",
-    "eggGroup2": "EGG_GROUP_FAIRY",
-    "ability1": "ABILITY_CUTECHARM",
-    "ability2": "ABILITY_NORMALIZE",
-    "safariZoneFleeRate": 0,
-    "hiddenAbility": "ABILITY_WONDERSKIN",
-    "noFlip": true,
-    "egg_moves": [
-        "MOVE_HELPINGHAND",
-        "MOVE_UPROAR",
-        "MOVE_FAKETEARS",
-        "MOVE_WISH",
-        "MOVE_BATONPASS",
-        "MOVE_TICKLE",
-        "MOVE_ZENHEADBUTT",
-        "MOVE_SUCKERPUNCH",
-        "MOVE_MUDBOMB",
-        "MOVE_SIMPLEBEAM",
-        "MOVE_COSMICPOWER",
-        "MOVE_PAYDAY",
-        "MOVE_SWEETKISS"
-    ],
-    "evolve_to": [
-        {
-            "method": "EVO_ITEM",
-            "condition": "ITEM_MOON_STONE",
-            "target": "DELCATTY",
-            "extra": "0"
-        }
-    ],
-    "name": "Skitty",
-    "evolve_from": [],
-    "location": [
-        {
-            "route": "Safari Zone",
-            "area": "Easy",
-            "method": "land"
-        }
-    ],
-    "learnset": [
-        {
-            "level": 1,
-            "move": "MOVE_FAKEOUT"
-        },
-        {
-            "level": 1,
-            "move": "MOVE_GROWL"
-        },
-        {
-            "level": 1,
-            "move": "MOVE_TAILWHIP"
-        },
-        {
-            "level": 1,
-            "move": "MOVE_TACKLE"
-        },
-        {
-            "level": 4,
-            "move": "MOVE_FORESIGHT"
-        },
-        {
-            "level": 7,
-            "move": "MOVE_SING"
-        },
-        {
-            "level": 10,
-            "move": "MOVE_ATTRACT"
-        },
-        {
-            "level": 13,
-            "move": "MOVE_DISARMINGVOICE"
-        },
-        {
-            "level": 16,
-            "move": "MOVE_DOUBLESLAP"
-        },
-        {
-            "level": 19,
-            "move": "MOVE_COPYCAT"
-        },
-        {
-            "level": 22,
-            "move": "MOVE_FEINTATTACK"
-        },
-        {
-            "level": 25,
-            "move": "MOVE_CHARM"
-        },
-        {
-            "level": 28,
-            "move": "MOVE_WAKEUPSLAP"
-        },
-        {
-            "level": 31,
-            "move": "MOVE_ASSIST"
-        },
-        {
-            "level": 34,
-            "move": "MOVE_COVET"
-        },
-        {
-            "level": 37,
-            "move": "MOVE_HEALBELL"
-        },
-        {
-            "level": 40,
-            "move": "MOVE_DOUBLEEDGE"
-        },
-        {
-            "level": 43,
-            "move": "MOVE_CAPTIVATE"
-        },
-        {
-            "level": 46,
-            "move": "MOVE_PLAYROUGH"
-        }
-    ],
-    "tm": [
-        "MOVE_WATERPULSE",
-        "MOVE_CALMMIND",
-        "MOVE_TOXIC",
-        "MOVE_HIDDENPOWER",
-        "MOVE_SUNNYDAY",
-        "MOVE_ICEBEAM",
-        "MOVE_BLIZZARD",
-        "MOVE_PROTECT",
-        "MOVE_RAINDANCE",
-        "MOVE_SAFEGUARD",
-        "MOVE_FRUSTRATION",
-        "MOVE_SOLARBEAM",
-        "MOVE_IRONTAIL",
-        "MOVE_THUNDERBOLT",
-        "MOVE_THUNDER",
-        "MOVE_RETURN",
-        "MOVE_DIG",
-        "MOVE_SHADOWBALL",
-        "MOVE_DOUBLETEAM",
-        "MOVE_SHOCKWAVE",
-        "MOVE_FACADE",
-        "MOVE_SECRETPOWER",
-        "MOVE_REST",
-        "MOVE_ATTRACT",
-        "MOVE_CHARGEBEAM",
-        "MOVE_ENDURE",
-        "MOVE_PAYBACK",
-        "MOVE_FLASH",
-        "MOVE_THUNDERWAVE",
-        "MOVE_SLEEPTALK",
-        "MOVE_DREAMEATER",
-        "MOVE_GRASSKNOT",
-        "MOVE_SWAGGER",
-        "MOVE_SUBSTITUTE",
-        "MOVE_WORKUP",
-        "MOVE_WILDCHARGE",
-        "MOVE_ROUND",
-        "MOVE_ECHOEDVOICE",
-        "MOVE_NATURALGIFT"
-    ],
-    "tutor": [
-        "MOVE_SNORE",
-        "MOVE_HEALBELL",
-        "MOVE_UPROAR",
-        "MOVE_HELPINGHAND",
-        "MOVE_COVET",
-        "MOVE_ICYWIND",
-        "MOVE_ZENHEADBUTT",
-        "MOVE_HYPERVOICE",
-        "MOVE_PSYCHUP",
-        "MOVE_LASTRESORT",
-        "MOVE_CONFIDE",
-        "MOVE_COSMICPOWER",
-        "MOVE_BATONPASS",
-        "MOVE_FAKETEARS",
-        "MOVE_NASTYPLOT",
-        "MOVE_TAILSLAP",
-        "MOVE_BODYSLAM",
-        "MOVE_PLAYROUGH"
-    ]
+    "SKITTY": {
+        "baseHP": 50,
+        "baseAttack": 45,
+        "baseDefense": 45,
+        "baseSpAttack": 35,
+        "baseSpDefense": 35,
+        "baseSpeed": 50,
+        "type1": "TYPE_NORMAL",
+        "type2": "TYPE_NORMAL",
+        "catchRate": 255,
+        "expYield": 65,
+        "evYield_HP": 0,
+        "evYield_Attack": 0,
+        "evYield_Defense": 0,
+        "evYield_SpAttack": 0,
+        "evYield_SpDefense": 0,
+        "evYield_Speed": 1,
+        "item1": "ITEM_PECHA_BERRY",
+        "item2": "ITEM_LEPPA_BERRY",
+        "genderRatio": 75.0,
+        "eggCycles": 15,
+        "friendship": 50,
+        "growthRate": "GROWTH_FAST",
+        "eggGroup1": "EGG_GROUP_FIELD",
+        "eggGroup2": "EGG_GROUP_FAIRY",
+        "ability1": "ABILITY_CUTECHARM",
+        "ability2": "ABILITY_NORMALIZE",
+        "safariZoneFleeRate": 0,
+        "hiddenAbility": "ABILITY_WONDERSKIN",
+        "noFlip": true,
+        "evolve_to": [
+            {
+                "method": "EVO_ITEM",
+                "condition": "ITEM_MOON_STONE",
+                "target": "DELCATTY",
+                "extra": "0"
+            }
+        ],
+        "evolve_from": [],
+        "egg_moves": [
+            "MOVE_HELPINGHAND",
+            "MOVE_UPROAR",
+            "MOVE_FAKETEARS",
+            "MOVE_WISH",
+            "MOVE_BATONPASS",
+            "MOVE_TICKLE",
+            "MOVE_ZENHEADBUTT",
+            "MOVE_SUCKERPUNCH",
+            "MOVE_MUDBOMB",
+            "MOVE_SIMPLEBEAM",
+            "MOVE_COSMICPOWER",
+            "MOVE_PAYDAY",
+            "MOVE_SWEETKISS"
+        ],
+        "learnset": [
+            {
+                "level": 1,
+                "move": "MOVE_FAKEOUT"
+            },
+            {
+                "level": 1,
+                "move": "MOVE_GROWL"
+            },
+            {
+                "level": 1,
+                "move": "MOVE_TAILWHIP"
+            },
+            {
+                "level": 1,
+                "move": "MOVE_TACKLE"
+            },
+            {
+                "level": 4,
+                "move": "MOVE_FORESIGHT"
+            },
+            {
+                "level": 7,
+                "move": "MOVE_SING"
+            },
+            {
+                "level": 10,
+                "move": "MOVE_ATTRACT"
+            },
+            {
+                "level": 13,
+                "move": "MOVE_DISARMINGVOICE"
+            },
+            {
+                "level": 16,
+                "move": "MOVE_DOUBLESLAP"
+            },
+            {
+                "level": 19,
+                "move": "MOVE_COPYCAT"
+            },
+            {
+                "level": 22,
+                "move": "MOVE_FEINTATTACK"
+            },
+            {
+                "level": 25,
+                "move": "MOVE_CHARM"
+            },
+            {
+                "level": 28,
+                "move": "MOVE_WAKEUPSLAP"
+            },
+            {
+                "level": 31,
+                "move": "MOVE_ASSIST"
+            },
+            {
+                "level": 34,
+                "move": "MOVE_COVET"
+            },
+            {
+                "level": 37,
+                "move": "MOVE_HEALBELL"
+            },
+            {
+                "level": 40,
+                "move": "MOVE_DOUBLEEDGE"
+            },
+            {
+                "level": 43,
+                "move": "MOVE_CAPTIVATE"
+            },
+            {
+                "level": 46,
+                "move": "MOVE_PLAYROUGH"
+            }
+        ],
+        "tm": [
+            "MOVE_WATERPULSE",
+            "MOVE_CALMMIND",
+            "MOVE_TOXIC",
+            "MOVE_HIDDENPOWER",
+            "MOVE_SUNNYDAY",
+            "MOVE_ICEBEAM",
+            "MOVE_BLIZZARD",
+            "MOVE_PROTECT",
+            "MOVE_RAINDANCE",
+            "MOVE_SAFEGUARD",
+            "MOVE_FRUSTRATION",
+            "MOVE_SOLARBEAM",
+            "MOVE_IRONTAIL",
+            "MOVE_THUNDERBOLT",
+            "MOVE_THUNDER",
+            "MOVE_RETURN",
+            "MOVE_DIG",
+            "MOVE_SHADOWBALL",
+            "MOVE_DOUBLETEAM",
+            "MOVE_SHOCKWAVE",
+            "MOVE_FACADE",
+            "MOVE_SECRETPOWER",
+            "MOVE_REST",
+            "MOVE_ATTRACT",
+            "MOVE_CHARGEBEAM",
+            "MOVE_ENDURE",
+            "MOVE_PAYBACK",
+            "MOVE_FLASH",
+            "MOVE_THUNDERWAVE",
+            "MOVE_SLEEPTALK",
+            "MOVE_DREAMEATER",
+            "MOVE_GRASSKNOT",
+            "MOVE_SWAGGER",
+            "MOVE_SUBSTITUTE",
+            "MOVE_WORKUP",
+            "MOVE_WILDCHARGE",
+            "MOVE_ROUND",
+            "MOVE_ECHOEDVOICE",
+            "MOVE_NATURALGIFT"
+        ],
+        "tutor": [
+            "MOVE_SNORE",
+            "MOVE_HEALBELL",
+            "MOVE_UPROAR",
+            "MOVE_HELPINGHAND",
+            "MOVE_COVET",
+            "MOVE_ICYWIND",
+            "MOVE_ZENHEADBUTT",
+            "MOVE_HYPERVOICE",
+            "MOVE_PSYCHUP",
+            "MOVE_LASTRESORT",
+            "MOVE_CONFIDE",
+            "MOVE_COSMICPOWER",
+            "MOVE_BATONPASS",
+            "MOVE_FAKETEARS",
+            "MOVE_NASTYPLOT",
+            "MOVE_TAILSLAP",
+            "MOVE_BODYSLAM",
+            "MOVE_PLAYROUGH"
+        ]
+    }
 }

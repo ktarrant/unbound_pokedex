@@ -1,165 +1,309 @@
 {
-    "baseHP": 60,
-    "baseAttack": 65,
-    "baseDefense": 55,
-    "baseSpAttack": 105,
-    "baseSpDefense": 95,
-    "baseSpeed": 95,
-    "type1": "TYPE_PSYCHIC",
-    "type2": "TYPE_NORMAL",
-    "catchRate": 30,
-    "expYield": 166,
-    "evYield_HP": 0,
-    "evYield_Attack": 0,
-    "evYield_Defense": 0,
-    "evYield_SpAttack": 2,
-    "evYield_SpDefense": 0,
-    "evYield_Speed": 0,
-    "item1": "ITEM_NONE",
-    "item2": "ITEM_NONE",
-    "genderRatio": 0.0,
-    "eggCycles": 40,
-    "friendship": 140,
-    "growthRate": "GROWTH_FAST",
-    "eggGroup1": "EGG_GROUP_FAIRY",
-    "eggGroup2": "EGG_GROUP_FAIRY",
-    "ability1": "ABILITY_INNERFOCUS",
-    "ability2": "ABILITY_SYNCHRONIZE",
-    "safariZoneFleeRate": 0,
-    "hiddenAbility": "ABILITY_PSYCHICSURGE",
-    "noFlip": true,
-    "egg_moves": [
-        "MOVE_PSYCHUP",
-        "MOVE_FAKEOUT",
-        "MOVE_EXTRASENSORY"
-    ],
-    "blurb": "Through its horns, it can pick up on the emotions of creatures around it. Males will act as valets for those they serve.",
-    "name": "Indeedee",
-    "evolve_from": [],
-    "location": [
-        {
-            "route": "Route 14",
-            "area": "",
-            "method": "Good Rod"
-        },
-        {
-            "route": "Route 14",
-            "area": "",
-            "method": "Super Rod"
-        }
-    ],
-    "learnset": [
-        {
-            "level": 1,
-            "move": "MOVE_PLAYNICE"
-        },
-        {
-            "level": 1,
-            "move": "MOVE_STOREDPOWER"
-        },
-        {
-            "level": 5,
-            "move": "MOVE_ENCORE"
-        },
-        {
-            "level": 10,
-            "move": "MOVE_DISARMINGVOICE"
-        },
-        {
-            "level": 15,
-            "move": "MOVE_PSYBEAM"
-        },
-        {
-            "level": 20,
-            "move": "MOVE_HELPINGHAND"
-        },
-        {
-            "level": 25,
-            "move": "MOVE_AFTERYOU"
-        },
-        {
-            "level": 30,
-            "move": "MOVE_AROMATHERAPY"
-        },
-        {
-            "level": 35,
-            "move": "MOVE_PSYCHIC"
-        },
-        {
-            "level": 40,
-            "move": "MOVE_CALMMIND"
-        },
-        {
-            "level": 45,
-            "move": "MOVE_POWERSPLIT"
-        },
-        {
-            "level": 50,
-            "move": "MOVE_PSYCHICTERRAIN"
-        },
-        {
-            "level": 55,
-            "move": "MOVE_LASTRESORT"
-        }
-    ],
-    "tm": [
-        "MOVE_FOCUSPUNCH",
-        "MOVE_CALMMIND",
-        "MOVE_TOXIC",
-        "MOVE_HIDDENPOWER",
-        "MOVE_PROTECT",
-        "MOVE_FRUSTRATION",
-        "MOVE_RETURN",
-        "MOVE_PSYCHIC",
-        "MOVE_SHADOWBALL",
-        "MOVE_DOUBLETEAM",
-        "MOVE_SHOCKWAVE",
-        "MOVE_FACADE",
-        "MOVE_SECRETPOWER",
-        "MOVE_REST",
-        "MOVE_ATTRACT",
-        "MOVE_ENERGYBALL",
-        "MOVE_CHARGEBEAM",
-        "MOVE_ENDURE",
-        "MOVE_DRAINPUNCH",
-        "MOVE_RECYCLE",
-        "MOVE_FLASH",
-        "MOVE_SLEEPTALK",
-        "MOVE_DREAMEATER",
-        "MOVE_SWAGGER",
-        "MOVE_SUBSTITUTE",
-        "MOVE_DAZZLINGGLEAM",
-        "MOVE_PSYSHOCK",
-        "MOVE_DRAININGKISS",
-        "MOVE_ROUND",
-        "MOVE_NATURALGIFT",
-        "MOVE_TRICKROOM",
-        "MOVE_NATUREPOWER",
-        "MOVE_STRENGTH"
-    ],
-    "tutor": [
-        "MOVE_SNORE",
-        "MOVE_HELPINGHAND",
-        "MOVE_COVET",
-        "MOVE_AFTERYOU",
-        "MOVE_SIGNALBEAM",
-        "MOVE_TELEKINESIS",
-        "MOVE_ROLEPLAY",
-        "MOVE_ENDEAVOR",
-        "MOVE_ZENHEADBUTT",
-        "MOVE_TRICK",
-        "MOVE_MAGICROOM",
-        "MOVE_WONDERROOM",
-        "MOVE_HYPERVOICE",
-        "MOVE_PSYCHUP",
-        "MOVE_LASTRESORT",
-        "MOVE_CONFIDE",
-        "MOVE_ENCORE",
-        "MOVE_PSYCHICTERRAIN",
-        "MOVE_STOREDPOWER",
-        "MOVE_MYSTICALFIRE",
-        "MOVE_PLAYROUGH",
-        "MOVE_EXPANDINGFORCE",
-        "MOVE_TERRAINPULSE"
-    ]
+    "INDEEDEE": {
+        "blurb": "Through its horns, it can pick up on the emotions of creatures around it. Males will act as valets for those they serve.",
+        "baseHP": 60,
+        "baseAttack": 65,
+        "baseDefense": 55,
+        "baseSpAttack": 105,
+        "baseSpDefense": 95,
+        "baseSpeed": 95,
+        "type1": "TYPE_PSYCHIC",
+        "type2": "TYPE_NORMAL",
+        "catchRate": 30,
+        "expYield": 166,
+        "evYield_HP": 0,
+        "evYield_Attack": 0,
+        "evYield_Defense": 0,
+        "evYield_SpAttack": 2,
+        "evYield_SpDefense": 0,
+        "evYield_Speed": 0,
+        "item1": "ITEM_NONE",
+        "item2": "ITEM_NONE",
+        "genderRatio": 0.0,
+        "eggCycles": 40,
+        "friendship": 140,
+        "growthRate": "GROWTH_FAST",
+        "eggGroup1": "EGG_GROUP_FAIRY",
+        "eggGroup2": "EGG_GROUP_FAIRY",
+        "ability1": "ABILITY_INNERFOCUS",
+        "ability2": "ABILITY_SYNCHRONIZE",
+        "safariZoneFleeRate": 0,
+        "hiddenAbility": "ABILITY_PSYCHICSURGE",
+        "noFlip": true,
+        "evolve_from": [],
+        "egg_moves": [
+            "MOVE_PSYCHUP",
+            "MOVE_FAKEOUT",
+            "MOVE_EXTRASENSORY"
+        ],
+        "learnset": [
+            {
+                "level": 1,
+                "move": "MOVE_PLAYNICE"
+            },
+            {
+                "level": 1,
+                "move": "MOVE_STOREDPOWER"
+            },
+            {
+                "level": 5,
+                "move": "MOVE_ENCORE"
+            },
+            {
+                "level": 10,
+                "move": "MOVE_DISARMINGVOICE"
+            },
+            {
+                "level": 15,
+                "move": "MOVE_PSYBEAM"
+            },
+            {
+                "level": 20,
+                "move": "MOVE_HELPINGHAND"
+            },
+            {
+                "level": 25,
+                "move": "MOVE_AFTERYOU"
+            },
+            {
+                "level": 30,
+                "move": "MOVE_AROMATHERAPY"
+            },
+            {
+                "level": 35,
+                "move": "MOVE_PSYCHIC"
+            },
+            {
+                "level": 40,
+                "move": "MOVE_CALMMIND"
+            },
+            {
+                "level": 45,
+                "move": "MOVE_POWERSPLIT"
+            },
+            {
+                "level": 50,
+                "move": "MOVE_PSYCHICTERRAIN"
+            },
+            {
+                "level": 55,
+                "move": "MOVE_LASTRESORT"
+            }
+        ],
+        "tm": [
+            "MOVE_FOCUSPUNCH",
+            "MOVE_CALMMIND",
+            "MOVE_TOXIC",
+            "MOVE_HIDDENPOWER",
+            "MOVE_PROTECT",
+            "MOVE_FRUSTRATION",
+            "MOVE_RETURN",
+            "MOVE_PSYCHIC",
+            "MOVE_SHADOWBALL",
+            "MOVE_DOUBLETEAM",
+            "MOVE_SHOCKWAVE",
+            "MOVE_FACADE",
+            "MOVE_SECRETPOWER",
+            "MOVE_REST",
+            "MOVE_ATTRACT",
+            "MOVE_ENERGYBALL",
+            "MOVE_CHARGEBEAM",
+            "MOVE_ENDURE",
+            "MOVE_DRAINPUNCH",
+            "MOVE_RECYCLE",
+            "MOVE_FLASH",
+            "MOVE_SLEEPTALK",
+            "MOVE_DREAMEATER",
+            "MOVE_SWAGGER",
+            "MOVE_SUBSTITUTE",
+            "MOVE_DAZZLINGGLEAM",
+            "MOVE_PSYSHOCK",
+            "MOVE_DRAININGKISS",
+            "MOVE_ROUND",
+            "MOVE_NATURALGIFT",
+            "MOVE_TRICKROOM",
+            "MOVE_NATUREPOWER",
+            "MOVE_STRENGTH"
+        ],
+        "tutor": [
+            "MOVE_SNORE",
+            "MOVE_HELPINGHAND",
+            "MOVE_COVET",
+            "MOVE_AFTERYOU",
+            "MOVE_SIGNALBEAM",
+            "MOVE_TELEKINESIS",
+            "MOVE_ROLEPLAY",
+            "MOVE_ENDEAVOR",
+            "MOVE_ZENHEADBUTT",
+            "MOVE_TRICK",
+            "MOVE_MAGICROOM",
+            "MOVE_WONDERROOM",
+            "MOVE_HYPERVOICE",
+            "MOVE_PSYCHUP",
+            "MOVE_LASTRESORT",
+            "MOVE_CONFIDE",
+            "MOVE_ENCORE",
+            "MOVE_PSYCHICTERRAIN",
+            "MOVE_STOREDPOWER",
+            "MOVE_MYSTICALFIRE",
+            "MOVE_PLAYROUGH",
+            "MOVE_EXPANDINGFORCE",
+            "MOVE_TERRAINPULSE"
+        ]
+    },
+    "INDEEDEE_FEMALE": {
+        "blurb": "These intelligent Pok\\emon touch horns with each other to share information between them.",
+        "baseHP": 70,
+        "baseAttack": 55,
+        "baseDefense": 65,
+        "baseSpAttack": 95,
+        "baseSpDefense": 105,
+        "baseSpeed": 85,
+        "type1": "TYPE_PSYCHIC",
+        "type2": "TYPE_NORMAL",
+        "catchRate": 30,
+        "expYield": 166,
+        "evYield_HP": 0,
+        "evYield_Attack": 0,
+        "evYield_Defense": 0,
+        "evYield_SpAttack": 0,
+        "evYield_SpDefense": 2,
+        "evYield_Speed": 0,
+        "item1": "ITEM_NONE",
+        "item2": "ITEM_NONE",
+        "genderRatio": 100.0,
+        "eggCycles": 40,
+        "friendship": 140,
+        "growthRate": "GROWTH_FAST",
+        "eggGroup1": "EGG_GROUP_FAIRY",
+        "eggGroup2": "EGG_GROUP_FAIRY",
+        "ability1": "ABILITY_OWNTEMPO",
+        "ability2": "ABILITY_SYNCHRONIZE",
+        "safariZoneFleeRate": 0,
+        "hiddenAbility": "ABILITY_PSYCHICSURGE",
+        "noFlip": true,
+        "evolve_from": [],
+        "egg_moves": [
+            "MOVE_PSYCHUP",
+            "MOVE_FAKEOUT",
+            "MOVE_PSYCHOSHIFT",
+            "MOVE_HEALPULSE"
+        ],
+        "learnset": [
+            {
+                "level": 1,
+                "move": "MOVE_PLAYNICE"
+            },
+            {
+                "level": 1,
+                "move": "MOVE_STOREDPOWER"
+            },
+            {
+                "level": 5,
+                "move": "MOVE_BATONPASS"
+            },
+            {
+                "level": 10,
+                "move": "MOVE_DISARMINGVOICE"
+            },
+            {
+                "level": 15,
+                "move": "MOVE_PSYBEAM"
+            },
+            {
+                "level": 20,
+                "move": "MOVE_HELPINGHAND"
+            },
+            {
+                "level": 25,
+                "move": "MOVE_FOLLOWME"
+            },
+            {
+                "level": 30,
+                "move": "MOVE_AROMATHERAPY"
+            },
+            {
+                "level": 35,
+                "move": "MOVE_PSYCHIC"
+            },
+            {
+                "level": 40,
+                "move": "MOVE_CALMMIND"
+            },
+            {
+                "level": 45,
+                "move": "MOVE_GUARDSPLIT"
+            },
+            {
+                "level": 50,
+                "move": "MOVE_PSYCHICTERRAIN"
+            },
+            {
+                "level": 55,
+                "move": "MOVE_HEALINGWISH"
+            }
+        ],
+        "tm": [
+            "MOVE_FOCUSPUNCH",
+            "MOVE_CALMMIND",
+            "MOVE_TOXIC",
+            "MOVE_HIDDENPOWER",
+            "MOVE_LIGHTSCREEN",
+            "MOVE_PROTECT",
+            "MOVE_SAFEGUARD",
+            "MOVE_FRUSTRATION",
+            "MOVE_RETURN",
+            "MOVE_PSYCHIC",
+            "MOVE_SHADOWBALL",
+            "MOVE_DOUBLETEAM",
+            "MOVE_REFLECT",
+            "MOVE_SHOCKWAVE",
+            "MOVE_FACADE",
+            "MOVE_SECRETPOWER",
+            "MOVE_REST",
+            "MOVE_ATTRACT",
+            "MOVE_ENERGYBALL",
+            "MOVE_CHARGEBEAM",
+            "MOVE_ENDURE",
+            "MOVE_DRAINPUNCH",
+            "MOVE_RECYCLE",
+            "MOVE_FLASH",
+            "MOVE_SLEEPTALK",
+            "MOVE_DREAMEATER",
+            "MOVE_SWAGGER",
+            "MOVE_SUBSTITUTE",
+            "MOVE_DAZZLINGGLEAM",
+            "MOVE_PSYSHOCK",
+            "MOVE_DRAININGKISS",
+            "MOVE_ROUND",
+            "MOVE_NATURALGIFT",
+            "MOVE_TRICKROOM",
+            "MOVE_NATUREPOWER",
+            "MOVE_STRENGTH"
+        ],
+        "tutor": [
+            "MOVE_SNORE",
+            "MOVE_HELPINGHAND",
+            "MOVE_COVET",
+            "MOVE_AFTERYOU",
+            "MOVE_SIGNALBEAM",
+            "MOVE_TELEKINESIS",
+            "MOVE_ROLEPLAY",
+            "MOVE_ENDEAVOR",
+            "MOVE_ZENHEADBUTT",
+            "MOVE_TRICK",
+            "MOVE_MAGICROOM",
+            "MOVE_HYPERVOICE",
+            "MOVE_PSYCHUP",
+            "MOVE_CONFIDE",
+            "MOVE_BATONPASS",
+            "MOVE_ENCORE",
+            "MOVE_PSYCHICTERRAIN",
+            "MOVE_STOREDPOWER",
+            "MOVE_MYSTICALFIRE",
+            "MOVE_PLAYROUGH",
+            "MOVE_EXPANDINGFORCE",
+            "MOVE_TERRAINPULSE"
+        ]
+    }
 }

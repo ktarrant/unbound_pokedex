@@ -1,213 +1,202 @@
 {
-    "baseHP": 85,
-    "baseAttack": 56,
-    "baseDefense": 77,
-    "baseSpAttack": 50,
-    "baseSpDefense": 77,
-    "baseSpeed": 78,
-    "type1": "TYPE_NORMAL",
-    "type2": "TYPE_GROUND",
-    "catchRate": 127,
-    "expYield": 148,
-    "evYield_HP": 2,
-    "evYield_Attack": 0,
-    "evYield_Defense": 0,
-    "evYield_SpAttack": 0,
-    "evYield_SpDefense": 0,
-    "evYield_Speed": 0,
-    "item1": "ITEM_NONE",
-    "item2": "ITEM_NONE",
-    "genderRatio": 50.0,
-    "eggCycles": 15,
-    "friendship": 50,
-    "growthRate": "GROWTH_MEDIUM_FAST",
-    "eggGroup1": "EGG_GROUP_FIELD",
-    "eggGroup2": "EGG_GROUP_FIELD",
-    "ability1": "ABILITY_PICKUP",
-    "ability2": "ABILITY_CHEEKPOUCH",
-    "safariZoneFleeRate": 0,
-    "hiddenAbility": "ABILITY_HUGEPOWER",
-    "noFlip": true,
-    "blurb": "As powerful as an excavator, its ears can reduce dense bedrock to rubble.",
-    "name": "Diggersby",
-    "evolve_from": [
-        "BUNNELBY"
-    ],
-    "location": [
-        {
-            "route": "Route 14",
-            "area": "",
-            "method": "Good Rod"
-        },
-        {
-            "route": "Route 14",
-            "area": "",
-            "method": "Super Rod"
-        }
-    ],
-    "learnset": [
-        {
-            "level": 1,
-            "move": "MOVE_ROTOTILLER"
-        },
-        {
-            "level": 1,
-            "move": "MOVE_FLAIL"
-        },
-        {
-            "level": 1,
-            "move": "MOVE_ODORSLEUTH"
-        },
-        {
-            "level": 1,
-            "move": "MOVE_LEER"
-        },
-        {
-            "level": 1,
-            "move": "MOVE_MUDSLAP"
-        },
-        {
-            "level": 1,
-            "move": "MOVE_TACKLE"
-        },
-        {
-            "level": 1,
-            "move": "MOVE_LASERFOCUS"
-        },
-        {
-            "level": 1,
-            "move": "MOVE_QUICKATTACK"
-        },
-        {
-            "level": 12,
-            "move": "MOVE_MUDSHOT"
-        },
-        {
-            "level": 15,
-            "move": "MOVE_DOUBLESLAP"
-        },
-        {
-            "level": 18,
-            "move": "MOVE_DOUBLEKICK"
-        },
-        {
-            "level": 23,
-            "move": "MOVE_BULLDOZE"
-        },
-        {
-            "level": 27,
-            "move": "MOVE_FACADE"
-        },
-        {
-            "level": 31,
-            "move": "MOVE_DIG"
-        },
-        {
-            "level": 35,
-            "move": "MOVE_BOUNCE"
-        },
-        {
-            "level": 39,
-            "move": "MOVE_AGILITY"
-        },
-        {
-            "level": 43,
-            "move": "MOVE_TAKEDOWN"
-        },
-        {
-            "level": 48,
-            "move": "MOVE_SWORDSDANCE"
-        },
-        {
-            "level": 52,
-            "move": "MOVE_HAMMERARM"
-        },
-        {
-            "level": 56,
-            "move": "MOVE_EARTHQUAKE"
-        },
-        {
-            "level": 60,
-            "move": "MOVE_SUPERFANG"
-        }
-    ],
-    "tm": [
-        "MOVE_FOCUSPUNCH",
-        "MOVE_TOXIC",
-        "MOVE_BULKUP",
-        "MOVE_HIDDENPOWER",
-        "MOVE_HYPERBEAM",
-        "MOVE_PROTECT",
-        "MOVE_FRUSTRATION",
-        "MOVE_IRONTAIL",
-        "MOVE_EARTHQUAKE",
-        "MOVE_RETURN",
-        "MOVE_DIG",
-        "MOVE_BRICKBREAK",
-        "MOVE_DOUBLETEAM",
-        "MOVE_SLUDGEBOMB",
-        "MOVE_SANDSTORM",
-        "MOVE_ROCKTOMB",
-        "MOVE_TORMENT",
-        "MOVE_FACADE",
-        "MOVE_SECRETPOWER",
-        "MOVE_REST",
-        "MOVE_ATTRACT",
-        "MOVE_THIEF",
-        "MOVE_ENDURE",
-        "MOVE_PAYBACK",
-        "MOVE_RECYCLE",
-        "MOVE_GIGAIMPACT",
-        "MOVE_STONEEDGE",
-        "MOVE_SWORDSDANCE",
-        "MOVE_ROCKSLIDE",
-        "MOVE_SLEEPTALK",
-        "MOVE_GRASSKNOT",
-        "MOVE_SWAGGER",
-        "MOVE_UTURN",
-        "MOVE_SUBSTITUTE",
-        "MOVE_BULLDOZE",
-        "MOVE_WORKUP",
-        "MOVE_WILDCHARGE",
-        "MOVE_POWERUPPUNCH",
-        "MOVE_BRUTALSWING",
-        "MOVE_SMACKDOWN",
-        "MOVE_ROUND",
-        "MOVE_NATURALGIFT",
-        "MOVE_FLING",
-        "MOVE_NATUREPOWER",
-        "MOVE_CUT",
-        "MOVE_SURF",
-        "MOVE_STRENGTH",
-        "MOVE_ROCKSMASH",
-        "MOVE_ROCKCLIMB"
-    ],
-    "tutor": [
-        "MOVE_FIREPUNCH",
-        "MOVE_ICEPUNCH",
-        "MOVE_THUNDERPUNCH",
-        "MOVE_SNORE",
-        "MOVE_LOWKICK",
-        "MOVE_UPROAR",
-        "MOVE_SNATCH",
-        "MOVE_BOUNCE",
-        "MOVE_IRONHEAD",
-        "MOVE_ENDEAVOR",
-        "MOVE_GASTROACID",
-        "MOVE_FOULPLAY",
-        "MOVE_SUPERFANG",
-        "MOVE_STOMPINGTANTRUM",
-        "MOVE_EARTHPOWER",
-        "MOVE_GUNKSHOT",
-        "MOVE_SUPERPOWER",
-        "MOVE_KNOCKOFF",
-        "MOVE_LASTRESORT",
-        "MOVE_CONFIDE",
-        "MOVE_SPIKES",
-        "MOVE_AGILITY",
-        "MOVE_SANDTOMB",
-        "MOVE_BODYSLAM",
-        "MOVE_HIGHHORSEPOWER",
-        "MOVE_SCORCHINGSANDS"
-    ]
+    "DIGGERSBY": {
+        "blurb": "As powerful as an excavator, its ears can reduce dense bedrock to rubble.",
+        "baseHP": 85,
+        "baseAttack": 56,
+        "baseDefense": 77,
+        "baseSpAttack": 50,
+        "baseSpDefense": 77,
+        "baseSpeed": 78,
+        "type1": "TYPE_NORMAL",
+        "type2": "TYPE_GROUND",
+        "catchRate": 127,
+        "expYield": 148,
+        "evYield_HP": 2,
+        "evYield_Attack": 0,
+        "evYield_Defense": 0,
+        "evYield_SpAttack": 0,
+        "evYield_SpDefense": 0,
+        "evYield_Speed": 0,
+        "item1": "ITEM_NONE",
+        "item2": "ITEM_NONE",
+        "genderRatio": 50.0,
+        "eggCycles": 15,
+        "friendship": 50,
+        "growthRate": "GROWTH_MEDIUM_FAST",
+        "eggGroup1": "EGG_GROUP_FIELD",
+        "eggGroup2": "EGG_GROUP_FIELD",
+        "ability1": "ABILITY_PICKUP",
+        "ability2": "ABILITY_CHEEKPOUCH",
+        "safariZoneFleeRate": 0,
+        "hiddenAbility": "ABILITY_HUGEPOWER",
+        "noFlip": true,
+        "evolve_from": [
+            "BUNNELBY"
+        ],
+        "learnset": [
+            {
+                "level": 1,
+                "move": "MOVE_ROTOTILLER"
+            },
+            {
+                "level": 1,
+                "move": "MOVE_FLAIL"
+            },
+            {
+                "level": 1,
+                "move": "MOVE_ODORSLEUTH"
+            },
+            {
+                "level": 1,
+                "move": "MOVE_LEER"
+            },
+            {
+                "level": 1,
+                "move": "MOVE_MUDSLAP"
+            },
+            {
+                "level": 1,
+                "move": "MOVE_TACKLE"
+            },
+            {
+                "level": 1,
+                "move": "MOVE_LASERFOCUS"
+            },
+            {
+                "level": 1,
+                "move": "MOVE_QUICKATTACK"
+            },
+            {
+                "level": 12,
+                "move": "MOVE_MUDSHOT"
+            },
+            {
+                "level": 15,
+                "move": "MOVE_DOUBLESLAP"
+            },
+            {
+                "level": 18,
+                "move": "MOVE_DOUBLEKICK"
+            },
+            {
+                "level": 23,
+                "move": "MOVE_BULLDOZE"
+            },
+            {
+                "level": 27,
+                "move": "MOVE_FACADE"
+            },
+            {
+                "level": 31,
+                "move": "MOVE_DIG"
+            },
+            {
+                "level": 35,
+                "move": "MOVE_BOUNCE"
+            },
+            {
+                "level": 39,
+                "move": "MOVE_AGILITY"
+            },
+            {
+                "level": 43,
+                "move": "MOVE_TAKEDOWN"
+            },
+            {
+                "level": 48,
+                "move": "MOVE_SWORDSDANCE"
+            },
+            {
+                "level": 52,
+                "move": "MOVE_HAMMERARM"
+            },
+            {
+                "level": 56,
+                "move": "MOVE_EARTHQUAKE"
+            },
+            {
+                "level": 60,
+                "move": "MOVE_SUPERFANG"
+            }
+        ],
+        "tm": [
+            "MOVE_FOCUSPUNCH",
+            "MOVE_TOXIC",
+            "MOVE_BULKUP",
+            "MOVE_HIDDENPOWER",
+            "MOVE_HYPERBEAM",
+            "MOVE_PROTECT",
+            "MOVE_FRUSTRATION",
+            "MOVE_IRONTAIL",
+            "MOVE_EARTHQUAKE",
+            "MOVE_RETURN",
+            "MOVE_DIG",
+            "MOVE_BRICKBREAK",
+            "MOVE_DOUBLETEAM",
+            "MOVE_SLUDGEBOMB",
+            "MOVE_SANDSTORM",
+            "MOVE_ROCKTOMB",
+            "MOVE_TORMENT",
+            "MOVE_FACADE",
+            "MOVE_SECRETPOWER",
+            "MOVE_REST",
+            "MOVE_ATTRACT",
+            "MOVE_THIEF",
+            "MOVE_ENDURE",
+            "MOVE_PAYBACK",
+            "MOVE_RECYCLE",
+            "MOVE_GIGAIMPACT",
+            "MOVE_STONEEDGE",
+            "MOVE_SWORDSDANCE",
+            "MOVE_ROCKSLIDE",
+            "MOVE_SLEEPTALK",
+            "MOVE_GRASSKNOT",
+            "MOVE_SWAGGER",
+            "MOVE_UTURN",
+            "MOVE_SUBSTITUTE",
+            "MOVE_BULLDOZE",
+            "MOVE_WORKUP",
+            "MOVE_WILDCHARGE",
+            "MOVE_POWERUPPUNCH",
+            "MOVE_BRUTALSWING",
+            "MOVE_SMACKDOWN",
+            "MOVE_ROUND",
+            "MOVE_NATURALGIFT",
+            "MOVE_FLING",
+            "MOVE_NATUREPOWER",
+            "MOVE_CUT",
+            "MOVE_SURF",
+            "MOVE_STRENGTH",
+            "MOVE_ROCKSMASH",
+            "MOVE_ROCKCLIMB"
+        ],
+        "tutor": [
+            "MOVE_FIREPUNCH",
+            "MOVE_ICEPUNCH",
+            "MOVE_THUNDERPUNCH",
+            "MOVE_SNORE",
+            "MOVE_LOWKICK",
+            "MOVE_UPROAR",
+            "MOVE_SNATCH",
+            "MOVE_BOUNCE",
+            "MOVE_IRONHEAD",
+            "MOVE_ENDEAVOR",
+            "MOVE_GASTROACID",
+            "MOVE_FOULPLAY",
+            "MOVE_SUPERFANG",
+            "MOVE_STOMPINGTANTRUM",
+            "MOVE_EARTHPOWER",
+            "MOVE_GUNKSHOT",
+            "MOVE_SUPERPOWER",
+            "MOVE_KNOCKOFF",
+            "MOVE_LASTRESORT",
+            "MOVE_CONFIDE",
+            "MOVE_SPIKES",
+            "MOVE_AGILITY",
+            "MOVE_SANDTOMB",
+            "MOVE_BODYSLAM",
+            "MOVE_HIGHHORSEPOWER",
+            "MOVE_SCORCHINGSANDS"
+        ]
+    }
 }

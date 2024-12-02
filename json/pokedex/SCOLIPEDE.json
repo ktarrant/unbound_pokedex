@@ -1,206 +1,195 @@
 {
-    "baseHP": 60,
-    "baseAttack": 100,
-    "baseDefense": 89,
-    "baseSpAttack": 55,
-    "baseSpDefense": 69,
-    "baseSpeed": 112,
-    "type1": "TYPE_BUG",
-    "type2": "TYPE_POISON",
-    "catchRate": 45,
-    "expYield": 184,
-    "evYield_HP": 0,
-    "evYield_Attack": 0,
-    "evYield_Defense": 0,
-    "evYield_SpAttack": 0,
-    "evYield_SpDefense": 0,
-    "evYield_Speed": 3,
-    "item1": "ITEM_PECHA_BERRY",
-    "item2": "ITEM_POISON_BARB",
-    "genderRatio": 50.0,
-    "eggCycles": 20,
-    "friendship": 50,
-    "growthRate": "GROWTH_MEDIUM_SLOW",
-    "eggGroup1": "EGG_GROUP_BUG",
-    "eggGroup2": "EGG_GROUP_BUG",
-    "ability1": "ABILITY_POISONPOINT",
-    "ability2": "ABILITY_SWARM",
-    "safariZoneFleeRate": 0,
-    "hiddenAbility": "ABILITY_SPEEDBOOST",
-    "noFlip": true,
-    "blurb": "Highly aggressive, it uses the claws near its neck to dig into its opponents and poison them.",
-    "name": "Scolipede",
-    "evolve_from": [
-        "WHIRLIPEDE"
-    ],
-    "location": [
-        {
-            "route": "Route 14",
-            "area": "",
-            "method": "Good Rod"
-        },
-        {
-            "route": "Route 14",
-            "area": "",
-            "method": "Super Rod"
-        }
-    ],
-    "learnset": [
-        {
-            "level": 0,
-            "move": "MOVE_BATONPASS"
-        },
-        {
-            "level": 1,
-            "move": "MOVE_BUGBITE"
-        },
-        {
-            "level": 1,
-            "move": "MOVE_POISONSTING"
-        },
-        {
-            "level": 1,
-            "move": "MOVE_PURSUIT"
-        },
-        {
-            "level": 1,
-            "move": "MOVE_DEFENSECURL"
-        },
-        {
-            "level": 1,
-            "move": "MOVE_ROLLOUT"
-        },
-        {
-            "level": 1,
-            "move": "MOVE_PROTECT"
-        },
-        {
-            "level": 12,
-            "move": "MOVE_POISONTAIL"
-        },
-        {
-            "level": 16,
-            "move": "MOVE_SCREECH"
-        },
-        {
-            "level": 20,
-            "move": "MOVE_STEAMROLLER"
-        },
-        {
-            "level": 21,
-            "move": "MOVE_IRONDEFENSE"
-        },
-        {
-            "level": 25,
-            "move": "MOVE_VENOSHOCK"
-        },
-        {
-            "level": 29,
-            "move": "MOVE_BATONPASS"
-        },
-        {
-            "level": 30,
-            "move": "MOVE_TAKEDOWN"
-        },
-        {
-            "level": 38,
-            "move": "MOVE_XSCISSOR"
-        },
-        {
-            "level": 44,
-            "move": "MOVE_AGILITY"
-        },
-        {
-            "level": 49,
-            "move": "MOVE_POISONJAB"
-        },
-        {
-            "level": 54,
-            "move": "MOVE_TOXIC"
-        },
-        {
-            "level": 59,
-            "move": "MOVE_VENOMDRENCH"
-        },
-        {
-            "level": 64,
-            "move": "MOVE_ROCKCLIMB"
-        },
-        {
-            "level": 70,
-            "move": "MOVE_DOUBLEEDGE"
-        },
-        {
-            "level": 76,
-            "move": "MOVE_MEGAHORN"
-        }
-    ],
-    "tm": [
-        "MOVE_TOXIC",
-        "MOVE_HIDDENPOWER",
-        "MOVE_SUNNYDAY",
-        "MOVE_HYPERBEAM",
-        "MOVE_PROTECT",
-        "MOVE_FRUSTRATION",
-        "MOVE_SOLARBEAM",
-        "MOVE_IRONTAIL",
-        "MOVE_EARTHQUAKE",
-        "MOVE_RETURN",
-        "MOVE_DIG",
-        "MOVE_DOUBLETEAM",
-        "MOVE_SLUDGEBOMB",
-        "MOVE_ROCKTOMB",
-        "MOVE_FACADE",
-        "MOVE_SECRETPOWER",
-        "MOVE_REST",
-        "MOVE_ATTRACT",
-        "MOVE_ENDURE",
-        "MOVE_SILVERWIND",
-        "MOVE_VENOSHOCK",
-        "MOVE_PAYBACK",
-        "MOVE_GIGAIMPACT",
-        "MOVE_GYROBALL",
-        "MOVE_SWORDSDANCE",
-        "MOVE_ROCKSLIDE",
-        "MOVE_XSCISSOR",
-        "MOVE_SLEEPTALK",
-        "MOVE_POISONJAB",
-        "MOVE_SWAGGER",
-        "MOVE_SUBSTITUTE",
-        "MOVE_STRUGGLEBUG",
-        "MOVE_BULLDOZE",
-        "MOVE_INFESTATION",
-        "MOVE_SMARTSTRIKE",
-        "MOVE_ROUND",
-        "MOVE_NATURALGIFT",
-        "MOVE_CUT",
-        "MOVE_STRENGTH",
-        "MOVE_ROCKSMASH",
-        "MOVE_ROCKCLIMB"
-    ],
-    "tutor": [
-        "MOVE_SNORE",
-        "MOVE_BUGBITE",
-        "MOVE_SNATCH",
-        "MOVE_SIGNALBEAM",
-        "MOVE_IRONDEFENSE",
-        "MOVE_AQUATAIL",
-        "MOVE_ENDEAVOR",
-        "MOVE_THROATCHOP",
-        "MOVE_STOMPINGTANTRUM",
-        "MOVE_SUPERPOWER",
-        "MOVE_CONFIDE",
-        "MOVE_BATONPASS",
-        "MOVE_SCREECH",
-        "MOVE_VENOMDRENCH",
-        "MOVE_SPIKES",
-        "MOVE_TOXICSPIKES",
-        "MOVE_AGILITY",
-        "MOVE_PINMISSILE",
-        "MOVE_HEX",
-        "MOVE_CROSSPOISON",
-        "MOVE_MEGAHORN",
-        "MOVE_POLTERGEIST",
-        "MOVE_SKITTERSMACK"
-    ]
+    "SCOLIPEDE": {
+        "blurb": "Highly aggressive, it uses the claws near its neck to dig into its opponents and poison them.",
+        "baseHP": 60,
+        "baseAttack": 100,
+        "baseDefense": 89,
+        "baseSpAttack": 55,
+        "baseSpDefense": 69,
+        "baseSpeed": 112,
+        "type1": "TYPE_BUG",
+        "type2": "TYPE_POISON",
+        "catchRate": 45,
+        "expYield": 184,
+        "evYield_HP": 0,
+        "evYield_Attack": 0,
+        "evYield_Defense": 0,
+        "evYield_SpAttack": 0,
+        "evYield_SpDefense": 0,
+        "evYield_Speed": 3,
+        "item1": "ITEM_PECHA_BERRY",
+        "item2": "ITEM_POISON_BARB",
+        "genderRatio": 50.0,
+        "eggCycles": 20,
+        "friendship": 50,
+        "growthRate": "GROWTH_MEDIUM_SLOW",
+        "eggGroup1": "EGG_GROUP_BUG",
+        "eggGroup2": "EGG_GROUP_BUG",
+        "ability1": "ABILITY_POISONPOINT",
+        "ability2": "ABILITY_SWARM",
+        "safariZoneFleeRate": 0,
+        "hiddenAbility": "ABILITY_SPEEDBOOST",
+        "noFlip": true,
+        "evolve_from": [
+            "WHIRLIPEDE"
+        ],
+        "learnset": [
+            {
+                "level": 0,
+                "move": "MOVE_BATONPASS"
+            },
+            {
+                "level": 1,
+                "move": "MOVE_BUGBITE"
+            },
+            {
+                "level": 1,
+                "move": "MOVE_POISONSTING"
+            },
+            {
+                "level": 1,
+                "move": "MOVE_PURSUIT"
+            },
+            {
+                "level": 1,
+                "move": "MOVE_DEFENSECURL"
+            },
+            {
+                "level": 1,
+                "move": "MOVE_ROLLOUT"
+            },
+            {
+                "level": 1,
+                "move": "MOVE_PROTECT"
+            },
+            {
+                "level": 12,
+                "move": "MOVE_POISONTAIL"
+            },
+            {
+                "level": 16,
+                "move": "MOVE_SCREECH"
+            },
+            {
+                "level": 20,
+                "move": "MOVE_STEAMROLLER"
+            },
+            {
+                "level": 21,
+                "move": "MOVE_IRONDEFENSE"
+            },
+            {
+                "level": 25,
+                "move": "MOVE_VENOSHOCK"
+            },
+            {
+                "level": 29,
+                "move": "MOVE_BATONPASS"
+            },
+            {
+                "level": 30,
+                "move": "MOVE_TAKEDOWN"
+            },
+            {
+                "level": 38,
+                "move": "MOVE_XSCISSOR"
+            },
+            {
+                "level": 44,
+                "move": "MOVE_AGILITY"
+            },
+            {
+                "level": 49,
+                "move": "MOVE_POISONJAB"
+            },
+            {
+                "level": 54,
+                "move": "MOVE_TOXIC"
+            },
+            {
+                "level": 59,
+                "move": "MOVE_VENOMDRENCH"
+            },
+            {
+                "level": 64,
+                "move": "MOVE_ROCKCLIMB"
+            },
+            {
+                "level": 70,
+                "move": "MOVE_DOUBLEEDGE"
+            },
+            {
+                "level": 76,
+                "move": "MOVE_MEGAHORN"
+            }
+        ],
+        "tm": [
+            "MOVE_TOXIC",
+            "MOVE_HIDDENPOWER",
+            "MOVE_SUNNYDAY",
+            "MOVE_HYPERBEAM",
+            "MOVE_PROTECT",
+            "MOVE_FRUSTRATION",
+            "MOVE_SOLARBEAM",
+            "MOVE_IRONTAIL",
+            "MOVE_EARTHQUAKE",
+            "MOVE_RETURN",
+            "MOVE_DIG",
+            "MOVE_DOUBLETEAM",
+            "MOVE_SLUDGEBOMB",
+            "MOVE_ROCKTOMB",
+            "MOVE_FACADE",
+            "MOVE_SECRETPOWER",
+            "MOVE_REST",
+            "MOVE_ATTRACT",
+            "MOVE_ENDURE",
+            "MOVE_SILVERWIND",
+            "MOVE_VENOSHOCK",
+            "MOVE_PAYBACK",
+            "MOVE_GIGAIMPACT",
+            "MOVE_GYROBALL",
+            "MOVE_SWORDSDANCE",
+            "MOVE_ROCKSLIDE",
+            "MOVE_XSCISSOR",
+            "MOVE_SLEEPTALK",
+            "MOVE_POISONJAB",
+            "MOVE_SWAGGER",
+            "MOVE_SUBSTITUTE",
+            "MOVE_STRUGGLEBUG",
+            "MOVE_BULLDOZE",
+            "MOVE_INFESTATION",
+            "MOVE_SMARTSTRIKE",
+            "MOVE_ROUND",
+            "MOVE_NATURALGIFT",
+            "MOVE_CUT",
+            "MOVE_STRENGTH",
+            "MOVE_ROCKSMASH",
+            "MOVE_ROCKCLIMB"
+        ],
+        "tutor": [
+            "MOVE_SNORE",
+            "MOVE_BUGBITE",
+            "MOVE_SNATCH",
+            "MOVE_SIGNALBEAM",
+            "MOVE_IRONDEFENSE",
+            "MOVE_AQUATAIL",
+            "MOVE_ENDEAVOR",
+            "MOVE_THROATCHOP",
+            "MOVE_STOMPINGTANTRUM",
+            "MOVE_SUPERPOWER",
+            "MOVE_CONFIDE",
+            "MOVE_BATONPASS",
+            "MOVE_SCREECH",
+            "MOVE_VENOMDRENCH",
+            "MOVE_SPIKES",
+            "MOVE_TOXICSPIKES",
+            "MOVE_AGILITY",
+            "MOVE_PINMISSILE",
+            "MOVE_HEX",
+            "MOVE_CROSSPOISON",
+            "MOVE_MEGAHORN",
+            "MOVE_POLTERGEIST",
+            "MOVE_SKITTERSMACK"
+        ]
+    }
 }

@@ -1,178 +1,167 @@
 {
-    "baseHP": 58,
-    "baseAttack": 109,
-    "baseDefense": 112,
-    "baseSpAttack": 48,
-    "baseSpDefense": 48,
-    "baseSpeed": 109,
-    "type1": "TYPE_BUG",
-    "type2": "TYPE_STEEL",
-    "catchRate": 90,
-    "expYield": 169,
-    "evYield_HP": 0,
-    "evYield_Attack": 0,
-    "evYield_Defense": 2,
-    "evYield_SpAttack": 0,
-    "evYield_SpDefense": 0,
-    "evYield_Speed": 0,
-    "item1": "ITEM_NONE",
-    "item2": "ITEM_NONE",
-    "genderRatio": 50.0,
-    "eggCycles": 20,
-    "friendship": 50,
-    "growthRate": "GROWTH_MEDIUM_FAST",
-    "eggGroup1": "EGG_GROUP_BUG",
-    "eggGroup2": "EGG_GROUP_BUG",
-    "ability1": "ABILITY_SWARM",
-    "ability2": "ABILITY_HUSTLE",
-    "safariZoneFleeRate": 0,
-    "hiddenAbility": "ABILITY_TRUANT",
-    "noFlip": true,
-    "egg_moves": [
-        "MOVE_SCREECH",
-        "MOVE_ENDURE",
-        "MOVE_ROCKCLIMB",
-        "MOVE_BATONPASS",
-        "MOVE_THUNDERFANG",
-        "MOVE_FEINTATTACK",
-        "MOVE_STRUGGLEBUG",
-        "MOVE_FIRSTIMPRESSION",
-        "MOVE_METALBURST",
-        "MOVE_INFESTATION",
-        "MOVE_FLAIL"
-    ],
-    "blurb": "Durant dig nests in mountains. They build their complicated, interconnected tunnels in mazes.",
-    "name": "Durant",
-    "evolve_from": [],
-    "location": [
-        {
-            "route": "Victory Road",
-            "area": "1F",
-            "method": "land"
-        },
-        {
-            "route": "Victory Road",
-            "area": "3F",
-            "method": "land"
-        }
-    ],
-    "learnset": [
-        {
-            "level": 1,
-            "move": "MOVE_FURYCUTTER"
-        },
-        {
-            "level": 1,
-            "move": "MOVE_SANDATTACK"
-        },
-        {
-            "level": 4,
-            "move": "MOVE_VICEGRIP"
-        },
-        {
-            "level": 8,
-            "move": "MOVE_METALCLAW"
-        },
-        {
-            "level": 12,
-            "move": "MOVE_BEATUP"
-        },
-        {
-            "level": 16,
-            "move": "MOVE_BUGBITE"
-        },
-        {
-            "level": 20,
-            "move": "MOVE_BITE"
-        },
-        {
-            "level": 24,
-            "move": "MOVE_AGILITY"
-        },
-        {
-            "level": 28,
-            "move": "MOVE_DIG"
-        },
-        {
-            "level": 32,
-            "move": "MOVE_XSCISSOR"
-        },
-        {
-            "level": 36,
-            "move": "MOVE_CRUNCH"
-        },
-        {
-            "level": 40,
-            "move": "MOVE_METALSOUND"
-        },
-        {
-            "level": 44,
-            "move": "MOVE_IRONHEAD"
-        },
-        {
-            "level": 48,
-            "move": "MOVE_ENTRAINMENT"
-        },
-        {
-            "level": 52,
-            "move": "MOVE_IRONDEFENSE"
-        },
-        {
-            "level": 56,
-            "move": "MOVE_GUILLOTINE"
-        }
-    ],
-    "tm": [
-        "MOVE_TOXIC",
-        "MOVE_HIDDENPOWER",
-        "MOVE_PROTECT",
-        "MOVE_FRUSTRATION",
-        "MOVE_RETURN",
-        "MOVE_DIG",
-        "MOVE_DOUBLETEAM",
-        "MOVE_SANDSTORM",
-        "MOVE_ROCKTOMB",
-        "MOVE_AERIALACE",
-        "MOVE_FACADE",
-        "MOVE_SECRETPOWER",
-        "MOVE_REST",
-        "MOVE_ATTRACT",
-        "MOVE_ENERGYBALL",
-        "MOVE_HONECLAWS",
-        "MOVE_ENDURE",
-        "MOVE_SHADOWCLAW",
-        "MOVE_GIGAIMPACT",
-        "MOVE_STONEEDGE",
-        "MOVE_THUNDERWAVE",
-        "MOVE_ROCKSLIDE",
-        "MOVE_XSCISSOR",
-        "MOVE_SLEEPTALK",
-        "MOVE_SWAGGER",
-        "MOVE_SUBSTITUTE",
-        "MOVE_FLASHCANNON",
-        "MOVE_STRUGGLEBUG",
-        "MOVE_ROUND",
-        "MOVE_NATURALGIFT",
-        "MOVE_CUT",
-        "MOVE_STRENGTH",
-        "MOVE_ROCKSMASH",
-        "MOVE_ROCKCLIMB"
-    ],
-    "tutor": [
-        "MOVE_SNORE",
-        "MOVE_HELPINGHAND",
-        "MOVE_BUGBITE",
-        "MOVE_IRONDEFENSE",
-        "MOVE_IRONHEAD",
-        "MOVE_ENDEAVOR",
-        "MOVE_STOMPINGTANTRUM",
-        "MOVE_SUPERPOWER",
-        "MOVE_CONFIDE",
-        "MOVE_BATONPASS",
-        "MOVE_SCREECH",
-        "MOVE_AGILITY",
-        "MOVE_THUNDERFANG",
-        "MOVE_CRUNCH",
-        "MOVE_SKITTERSMACK"
-    ]
+    "DURANT": {
+        "blurb": "Durant dig nests in mountains. They build their complicated, interconnected tunnels in mazes.",
+        "baseHP": 58,
+        "baseAttack": 109,
+        "baseDefense": 112,
+        "baseSpAttack": 48,
+        "baseSpDefense": 48,
+        "baseSpeed": 109,
+        "type1": "TYPE_BUG",
+        "type2": "TYPE_STEEL",
+        "catchRate": 90,
+        "expYield": 169,
+        "evYield_HP": 0,
+        "evYield_Attack": 0,
+        "evYield_Defense": 2,
+        "evYield_SpAttack": 0,
+        "evYield_SpDefense": 0,
+        "evYield_Speed": 0,
+        "item1": "ITEM_NONE",
+        "item2": "ITEM_NONE",
+        "genderRatio": 50.0,
+        "eggCycles": 20,
+        "friendship": 50,
+        "growthRate": "GROWTH_MEDIUM_FAST",
+        "eggGroup1": "EGG_GROUP_BUG",
+        "eggGroup2": "EGG_GROUP_BUG",
+        "ability1": "ABILITY_SWARM",
+        "ability2": "ABILITY_HUSTLE",
+        "safariZoneFleeRate": 0,
+        "hiddenAbility": "ABILITY_TRUANT",
+        "noFlip": true,
+        "evolve_from": [],
+        "egg_moves": [
+            "MOVE_SCREECH",
+            "MOVE_ENDURE",
+            "MOVE_ROCKCLIMB",
+            "MOVE_BATONPASS",
+            "MOVE_THUNDERFANG",
+            "MOVE_FEINTATTACK",
+            "MOVE_STRUGGLEBUG",
+            "MOVE_FIRSTIMPRESSION",
+            "MOVE_METALBURST",
+            "MOVE_INFESTATION",
+            "MOVE_FLAIL"
+        ],
+        "learnset": [
+            {
+                "level": 1,
+                "move": "MOVE_FURYCUTTER"
+            },
+            {
+                "level": 1,
+                "move": "MOVE_SANDATTACK"
+            },
+            {
+                "level": 4,
+                "move": "MOVE_VICEGRIP"
+            },
+            {
+                "level": 8,
+                "move": "MOVE_METALCLAW"
+            },
+            {
+                "level": 12,
+                "move": "MOVE_BEATUP"
+            },
+            {
+                "level": 16,
+                "move": "MOVE_BUGBITE"
+            },
+            {
+                "level": 20,
+                "move": "MOVE_BITE"
+            },
+            {
+                "level": 24,
+                "move": "MOVE_AGILITY"
+            },
+            {
+                "level": 28,
+                "move": "MOVE_DIG"
+            },
+            {
+                "level": 32,
+                "move": "MOVE_XSCISSOR"
+            },
+            {
+                "level": 36,
+                "move": "MOVE_CRUNCH"
+            },
+            {
+                "level": 40,
+                "move": "MOVE_METALSOUND"
+            },
+            {
+                "level": 44,
+                "move": "MOVE_IRONHEAD"
+            },
+            {
+                "level": 48,
+                "move": "MOVE_ENTRAINMENT"
+            },
+            {
+                "level": 52,
+                "move": "MOVE_IRONDEFENSE"
+            },
+            {
+                "level": 56,
+                "move": "MOVE_GUILLOTINE"
+            }
+        ],
+        "tm": [
+            "MOVE_TOXIC",
+            "MOVE_HIDDENPOWER",
+            "MOVE_PROTECT",
+            "MOVE_FRUSTRATION",
+            "MOVE_RETURN",
+            "MOVE_DIG",
+            "MOVE_DOUBLETEAM",
+            "MOVE_SANDSTORM",
+            "MOVE_ROCKTOMB",
+            "MOVE_AERIALACE",
+            "MOVE_FACADE",
+            "MOVE_SECRETPOWER",
+            "MOVE_REST",
+            "MOVE_ATTRACT",
+            "MOVE_ENERGYBALL",
+            "MOVE_HONECLAWS",
+            "MOVE_ENDURE",
+            "MOVE_SHADOWCLAW",
+            "MOVE_GIGAIMPACT",
+            "MOVE_STONEEDGE",
+            "MOVE_THUNDERWAVE",
+            "MOVE_ROCKSLIDE",
+            "MOVE_XSCISSOR",
+            "MOVE_SLEEPTALK",
+            "MOVE_SWAGGER",
+            "MOVE_SUBSTITUTE",
+            "MOVE_FLASHCANNON",
+            "MOVE_STRUGGLEBUG",
+            "MOVE_ROUND",
+            "MOVE_NATURALGIFT",
+            "MOVE_CUT",
+            "MOVE_STRENGTH",
+            "MOVE_ROCKSMASH",
+            "MOVE_ROCKCLIMB"
+        ],
+        "tutor": [
+            "MOVE_SNORE",
+            "MOVE_HELPINGHAND",
+            "MOVE_BUGBITE",
+            "MOVE_IRONDEFENSE",
+            "MOVE_IRONHEAD",
+            "MOVE_ENDEAVOR",
+            "MOVE_STOMPINGTANTRUM",
+            "MOVE_SUPERPOWER",
+            "MOVE_CONFIDE",
+            "MOVE_BATONPASS",
+            "MOVE_SCREECH",
+            "MOVE_AGILITY",
+            "MOVE_THUNDERFANG",
+            "MOVE_CRUNCH",
+            "MOVE_SKITTERSMACK"
+        ]
+    }
 }

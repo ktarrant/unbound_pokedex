@@ -1,192 +1,181 @@
 {
-    "baseHP": 73,
-    "baseAttack": 73,
-    "baseDefense": 73,
-    "baseSpAttack": 127,
-    "baseSpDefense": 73,
-    "baseSpeed": 121,
-    "type1": "TYPE_POISON",
-    "type2": "TYPE_DRAGON",
-    "catchRate": 45,
-    "expYield": 199,
-    "evYield_HP": 0,
-    "evYield_Attack": 0,
-    "evYield_Defense": 0,
-    "evYield_SpAttack": 3,
-    "evYield_SpDefense": 0,
-    "evYield_Speed": 0,
-    "item1": "ITEM_NONE",
-    "item2": "ITEM_NONE",
-    "genderRatio": "MON_GENDERLESS",
-    "eggCycles": 120,
-    "friendship": 0,
-    "growthRate": "GROWTH_SLOW",
-    "eggGroup1": "EGG_GROUP_UNDISCOVERED",
-    "eggGroup2": "EGG_GROUP_UNDISCOVERED",
-    "ability1": "ABILITY_BEASTBOOST",
-    "ability2": "ABILITY_NONE",
-    "safariZoneFleeRate": 0,
-    "hiddenAbility": "ABILITY_NONE",
-    "noFlip": true,
-    "blurb": "It stores hundreds of liters of poisonous liquid in its body. It is one of the organisms known as UBs.",
-    "name": "Naganadel",
-    "evolve_from": [
-        "POIPOLE"
-    ],
-    "location": [
-        {
-            "route": "Route 14",
-            "area": "",
-            "method": "Good Rod"
-        },
-        {
-            "route": "Route 14",
-            "area": "",
-            "method": "Super Rod"
-        }
-    ],
-    "learnset": [
-        {
-            "level": 0,
-            "move": "MOVE_AIRCUTTER"
-        },
-        {
-            "level": 1,
-            "move": "MOVE_AIRSLASH"
-        },
-        {
-            "level": 1,
-            "move": "MOVE_DRAGONPULSE"
-        },
-        {
-            "level": 1,
-            "move": "MOVE_PECK"
-        },
-        {
-            "level": 1,
-            "move": "MOVE_GROWL"
-        },
-        {
-            "level": 1,
-            "move": "MOVE_HELPINGHAND"
-        },
-        {
-            "level": 1,
-            "move": "MOVE_ACID"
-        },
-        {
-            "level": 7,
-            "move": "MOVE_FURYATTACK"
-        },
-        {
-            "level": 14,
-            "move": "MOVE_FELLSTINGER"
-        },
-        {
-            "level": 21,
-            "move": "MOVE_CHARM"
-        },
-        {
-            "level": 28,
-            "move": "MOVE_VENOSHOCK"
-        },
-        {
-            "level": 35,
-            "move": "MOVE_VENOMDRENCH"
-        },
-        {
-            "level": 42,
-            "move": "MOVE_NASTYPLOT"
-        },
-        {
-            "level": 49,
-            "move": "MOVE_POISONJAB"
-        },
-        {
-            "level": 56,
-            "move": "MOVE_GASTROACID"
-        },
-        {
-            "level": 63,
-            "move": "MOVE_TOXIC"
-        },
-        {
-            "level": 70,
-            "move": "MOVE_DRAGONRUSH"
-        }
-    ],
-    "tm": [
-        "MOVE_DRAGONCLAW",
-        "MOVE_TOXIC",
-        "MOVE_HIDDENPOWER",
-        "MOVE_HYPERBEAM",
-        "MOVE_PROTECT",
-        "MOVE_FRUSTRATION",
-        "MOVE_IRONTAIL",
-        "MOVE_THUNDERBOLT",
-        "MOVE_RETURN",
-        "MOVE_DOUBLETEAM",
-        "MOVE_SHOCKWAVE",
-        "MOVE_FLAMETHROWER",
-        "MOVE_SLUDGEBOMB",
-        "MOVE_FIREBLAST",
-        "MOVE_AERIALACE",
-        "MOVE_FACADE",
-        "MOVE_SECRETPOWER",
-        "MOVE_REST",
-        "MOVE_THIEF",
-        "MOVE_LEECHFANG",
-        "MOVE_ENDURE",
-        "MOVE_DRAGONPULSE",
-        "MOVE_SILVERWIND",
-        "MOVE_VENOSHOCK",
-        "MOVE_SHADOWCLAW",
-        "MOVE_GIGAIMPACT",
-        "MOVE_DARKPULSE",
-        "MOVE_XSCISSOR",
-        "MOVE_SLEEPTALK",
-        "MOVE_POISONJAB",
-        "MOVE_UTURN",
-        "MOVE_SUBSTITUTE",
-        "MOVE_DRAGONTAIL",
-        "MOVE_INCINERATE",
-        "MOVE_SLUDGEWAVE",
-        "MOVE_SMARTSTRIKE",
-        "MOVE_ACROBATICS",
-        "MOVE_SNARL",
-        "MOVE_ROUND",
-        "MOVE_ECHOEDVOICE",
-        "MOVE_NATURALGIFT",
-        "MOVE_SKYDROP",
-        "MOVE_CUT",
-        "MOVE_FLY"
-    ],
-    "tutor": [
-        "MOVE_SNORE",
-        "MOVE_UPROAR",
-        "MOVE_HELPINGHAND",
-        "MOVE_SNATCH",
-        "MOVE_SIGNALBEAM",
-        "MOVE_TAILWIND",
-        "MOVE_LASERFOCUS",
-        "MOVE_GASTROACID",
-        "MOVE_OUTRAGE",
-        "MOVE_SKYATTACK",
-        "MOVE_THROATCHOP",
-        "MOVE_GUNKSHOT",
-        "MOVE_HEATWAVE",
-        "MOVE_CONFIDE",
-        "MOVE_VENOMDRENCH",
-        "MOVE_SPIKES",
-        "MOVE_TOXICSPIKES",
-        "MOVE_DRAGONDANCE",
-        "MOVE_NASTYPLOT",
-        "MOVE_PINMISSILE",
-        "MOVE_BREAKINGSWIPE",
-        "MOVE_HEX",
-        "MOVE_AIRSLASH",
-        "MOVE_CROSSPOISON",
-        "MOVE_SCALESHOT",
-        "MOVE_DUALWINGBEAT"
-    ]
+    "NAGANADEL": {
+        "blurb": "It stores hundreds of liters of poisonous liquid in its body. It is one of the organisms known as UBs.",
+        "baseHP": 73,
+        "baseAttack": 73,
+        "baseDefense": 73,
+        "baseSpAttack": 127,
+        "baseSpDefense": 73,
+        "baseSpeed": 121,
+        "type1": "TYPE_POISON",
+        "type2": "TYPE_DRAGON",
+        "catchRate": 45,
+        "expYield": 199,
+        "evYield_HP": 0,
+        "evYield_Attack": 0,
+        "evYield_Defense": 0,
+        "evYield_SpAttack": 3,
+        "evYield_SpDefense": 0,
+        "evYield_Speed": 0,
+        "item1": "ITEM_NONE",
+        "item2": "ITEM_NONE",
+        "genderRatio": "MON_GENDERLESS",
+        "eggCycles": 120,
+        "friendship": 0,
+        "growthRate": "GROWTH_SLOW",
+        "eggGroup1": "EGG_GROUP_UNDISCOVERED",
+        "eggGroup2": "EGG_GROUP_UNDISCOVERED",
+        "ability1": "ABILITY_BEASTBOOST",
+        "ability2": "ABILITY_NONE",
+        "safariZoneFleeRate": 0,
+        "hiddenAbility": "ABILITY_NONE",
+        "noFlip": true,
+        "evolve_from": [
+            "POIPOLE"
+        ],
+        "learnset": [
+            {
+                "level": 0,
+                "move": "MOVE_AIRCUTTER"
+            },
+            {
+                "level": 1,
+                "move": "MOVE_AIRSLASH"
+            },
+            {
+                "level": 1,
+                "move": "MOVE_DRAGONPULSE"
+            },
+            {
+                "level": 1,
+                "move": "MOVE_PECK"
+            },
+            {
+                "level": 1,
+                "move": "MOVE_GROWL"
+            },
+            {
+                "level": 1,
+                "move": "MOVE_HELPINGHAND"
+            },
+            {
+                "level": 1,
+                "move": "MOVE_ACID"
+            },
+            {
+                "level": 7,
+                "move": "MOVE_FURYATTACK"
+            },
+            {
+                "level": 14,
+                "move": "MOVE_FELLSTINGER"
+            },
+            {
+                "level": 21,
+                "move": "MOVE_CHARM"
+            },
+            {
+                "level": 28,
+                "move": "MOVE_VENOSHOCK"
+            },
+            {
+                "level": 35,
+                "move": "MOVE_VENOMDRENCH"
+            },
+            {
+                "level": 42,
+                "move": "MOVE_NASTYPLOT"
+            },
+            {
+                "level": 49,
+                "move": "MOVE_POISONJAB"
+            },
+            {
+                "level": 56,
+                "move": "MOVE_GASTROACID"
+            },
+            {
+                "level": 63,
+                "move": "MOVE_TOXIC"
+            },
+            {
+                "level": 70,
+                "move": "MOVE_DRAGONRUSH"
+            }
+        ],
+        "tm": [
+            "MOVE_DRAGONCLAW",
+            "MOVE_TOXIC",
+            "MOVE_HIDDENPOWER",
+            "MOVE_HYPERBEAM",
+            "MOVE_PROTECT",
+            "MOVE_FRUSTRATION",
+            "MOVE_IRONTAIL",
+            "MOVE_THUNDERBOLT",
+            "MOVE_RETURN",
+            "MOVE_DOUBLETEAM",
+            "MOVE_SHOCKWAVE",
+            "MOVE_FLAMETHROWER",
+            "MOVE_SLUDGEBOMB",
+            "MOVE_FIREBLAST",
+            "MOVE_AERIALACE",
+            "MOVE_FACADE",
+            "MOVE_SECRETPOWER",
+            "MOVE_REST",
+            "MOVE_THIEF",
+            "MOVE_LEECHFANG",
+            "MOVE_ENDURE",
+            "MOVE_DRAGONPULSE",
+            "MOVE_SILVERWIND",
+            "MOVE_VENOSHOCK",
+            "MOVE_SHADOWCLAW",
+            "MOVE_GIGAIMPACT",
+            "MOVE_DARKPULSE",
+            "MOVE_XSCISSOR",
+            "MOVE_SLEEPTALK",
+            "MOVE_POISONJAB",
+            "MOVE_UTURN",
+            "MOVE_SUBSTITUTE",
+            "MOVE_DRAGONTAIL",
+            "MOVE_INCINERATE",
+            "MOVE_SLUDGEWAVE",
+            "MOVE_SMARTSTRIKE",
+            "MOVE_ACROBATICS",
+            "MOVE_SNARL",
+            "MOVE_ROUND",
+            "MOVE_ECHOEDVOICE",
+            "MOVE_NATURALGIFT",
+            "MOVE_SKYDROP",
+            "MOVE_CUT",
+            "MOVE_FLY"
+        ],
+        "tutor": [
+            "MOVE_SNORE",
+            "MOVE_UPROAR",
+            "MOVE_HELPINGHAND",
+            "MOVE_SNATCH",
+            "MOVE_SIGNALBEAM",
+            "MOVE_TAILWIND",
+            "MOVE_LASERFOCUS",
+            "MOVE_GASTROACID",
+            "MOVE_OUTRAGE",
+            "MOVE_SKYATTACK",
+            "MOVE_THROATCHOP",
+            "MOVE_GUNKSHOT",
+            "MOVE_HEATWAVE",
+            "MOVE_CONFIDE",
+            "MOVE_VENOMDRENCH",
+            "MOVE_SPIKES",
+            "MOVE_TOXICSPIKES",
+            "MOVE_DRAGONDANCE",
+            "MOVE_NASTYPLOT",
+            "MOVE_PINMISSILE",
+            "MOVE_BREAKINGSWIPE",
+            "MOVE_HEX",
+            "MOVE_AIRSLASH",
+            "MOVE_CROSSPOISON",
+            "MOVE_SCALESHOT",
+            "MOVE_DUALWINGBEAT"
+        ]
+    }
 }

@@ -1,179 +1,168 @@
 {
-    "baseHP": 55,
-    "baseAttack": 75,
-    "baseDefense": 60,
-    "baseSpAttack": 75,
-    "baseSpDefense": 60,
-    "baseSpeed": 103,
-    "type1": "TYPE_ELECTRIC",
-    "type2": "TYPE_FLYING",
-    "catchRate": 200,
-    "expYield": 150,
-    "evYield_HP": 0,
-    "evYield_Attack": 0,
-    "evYield_Defense": 0,
-    "evYield_SpAttack": 0,
-    "evYield_SpDefense": 0,
-    "evYield_Speed": 2,
-    "item1": "ITEM_CHERI_BERRY",
-    "item2": "ITEM_CHERI_BERRY",
-    "genderRatio": 50.0,
-    "eggCycles": 20,
-    "friendship": 50,
-    "growthRate": "GROWTH_MEDIUM_FAST",
-    "eggGroup1": "EGG_GROUP_FIELD",
-    "eggGroup2": "EGG_GROUP_FIELD",
-    "ability1": "ABILITY_STATIC",
-    "ability2": "ABILITY_MOTORDRIVE",
-    "safariZoneFleeRate": 0,
-    "hiddenAbility": "ABILITY_ELECTRICSURGE",
-    "noFlip": true,
-    "egg_moves": [
-        "MOVE_ROOST",
-        "MOVE_IRONTAIL",
-        "MOVE_ASTONISH",
-        "MOVE_AIRSLASH",
-        "MOVE_SHOCKWAVE",
-        "MOVE_CHARM",
-        "MOVE_COVET",
-        "MOVE_TICKLE",
-        "MOVE_BATONPASS",
-        "MOVE_IONDELUGE",
-        "MOVE_SPEEDSWAP",
-        "MOVE_DEFOG"
-    ],
-    "blurb": "They live on treetops and glide using the inside of a cape-like membrane while discharging electricity.",
-    "name": "Emolga",
-    "evolve_from": [],
-    "location": [
-        {
-            "route": "Route 14",
-            "area": "",
-            "method": "Good Rod"
-        },
-        {
-            "route": "Route 14",
-            "area": "",
-            "method": "Super Rod"
-        }
-    ],
-    "learnset": [
-        {
-            "level": 1,
-            "move": "MOVE_NUZZLE"
-        },
-        {
-            "level": 1,
-            "move": "MOVE_TAILWHIP"
-        },
-        {
-            "level": 5,
-            "move": "MOVE_DOUBLETEAM"
-        },
-        {
-            "level": 9,
-            "move": "MOVE_QUICKATTACK"
-        },
-        {
-            "level": 13,
-            "move": "MOVE_THUNDERSHOCK"
-        },
-        {
-            "level": 17,
-            "move": "MOVE_PURSUIT"
-        },
-        {
-            "level": 21,
-            "move": "MOVE_CHARGE"
-        },
-        {
-            "level": 25,
-            "move": "MOVE_SPARK"
-        },
-        {
-            "level": 29,
-            "move": "MOVE_ACROBATICS"
-        },
-        {
-            "level": 33,
-            "move": "MOVE_ENCORE"
-        },
-        {
-            "level": 37,
-            "move": "MOVE_VOLTSWITCH"
-        },
-        {
-            "level": 42,
-            "move": "MOVE_LIGHTSCREEN"
-        },
-        {
-            "level": 47,
-            "move": "MOVE_ELECTROBALL"
-        },
-        {
-            "level": 52,
-            "move": "MOVE_DISCHARGE"
-        },
-        {
-            "level": 57,
-            "move": "MOVE_AGILITY"
-        }
-    ],
-    "tm": [
-        "MOVE_TOXIC",
-        "MOVE_HIDDENPOWER",
-        "MOVE_TAUNT",
-        "MOVE_LIGHTSCREEN",
-        "MOVE_PROTECT",
-        "MOVE_RAINDANCE",
-        "MOVE_FRUSTRATION",
-        "MOVE_SOLARBEAM",
-        "MOVE_IRONTAIL",
-        "MOVE_THUNDERBOLT",
-        "MOVE_THUNDER",
-        "MOVE_RETURN",
-        "MOVE_DOUBLETEAM",
-        "MOVE_SHOCKWAVE",
-        "MOVE_AERIALACE",
-        "MOVE_FACADE",
-        "MOVE_SECRETPOWER",
-        "MOVE_REST",
-        "MOVE_ATTRACT",
-        "MOVE_ROOST",
-        "MOVE_ENERGYBALL",
-        "MOVE_CHARGEBEAM",
-        "MOVE_ENDURE",
-        "MOVE_FLASH",
-        "MOVE_THUNDERWAVE",
-        "MOVE_SLEEPTALK",
-        "MOVE_SWAGGER",
-        "MOVE_UTURN",
-        "MOVE_SUBSTITUTE",
-        "MOVE_VOLTSWITCH",
-        "MOVE_WILDCHARGE",
-        "MOVE_ACROBATICS",
-        "MOVE_DEFOG",
-        "MOVE_ROUND",
-        "MOVE_NATURALGIFT",
-        "MOVE_FLING",
-        "MOVE_CUT"
-    ],
-    "tutor": [
-        "MOVE_SNORE",
-        "MOVE_ELECTROWEB",
-        "MOVE_HELPINGHAND",
-        "MOVE_COVET",
-        "MOVE_SIGNALBEAM",
-        "MOVE_TAILWIND",
-        "MOVE_KNOCKOFF",
-        "MOVE_LASTRESORT",
-        "MOVE_CONFIDE",
-        "MOVE_BATONPASS",
-        "MOVE_ENCORE",
-        "MOVE_AGILITY",
-        "MOVE_ELECTROBALL",
-        "MOVE_AIRSLASH",
-        "MOVE_RISINGVOLTAGE",
-        "MOVE_DUALWINGBEAT"
-    ]
+    "EMOLGA": {
+        "blurb": "They live on treetops and glide using the inside of a cape-like membrane while discharging electricity.",
+        "baseHP": 55,
+        "baseAttack": 75,
+        "baseDefense": 60,
+        "baseSpAttack": 75,
+        "baseSpDefense": 60,
+        "baseSpeed": 103,
+        "type1": "TYPE_ELECTRIC",
+        "type2": "TYPE_FLYING",
+        "catchRate": 200,
+        "expYield": 150,
+        "evYield_HP": 0,
+        "evYield_Attack": 0,
+        "evYield_Defense": 0,
+        "evYield_SpAttack": 0,
+        "evYield_SpDefense": 0,
+        "evYield_Speed": 2,
+        "item1": "ITEM_CHERI_BERRY",
+        "item2": "ITEM_CHERI_BERRY",
+        "genderRatio": 50.0,
+        "eggCycles": 20,
+        "friendship": 50,
+        "growthRate": "GROWTH_MEDIUM_FAST",
+        "eggGroup1": "EGG_GROUP_FIELD",
+        "eggGroup2": "EGG_GROUP_FIELD",
+        "ability1": "ABILITY_STATIC",
+        "ability2": "ABILITY_MOTORDRIVE",
+        "safariZoneFleeRate": 0,
+        "hiddenAbility": "ABILITY_ELECTRICSURGE",
+        "noFlip": true,
+        "evolve_from": [],
+        "egg_moves": [
+            "MOVE_ROOST",
+            "MOVE_IRONTAIL",
+            "MOVE_ASTONISH",
+            "MOVE_AIRSLASH",
+            "MOVE_SHOCKWAVE",
+            "MOVE_CHARM",
+            "MOVE_COVET",
+            "MOVE_TICKLE",
+            "MOVE_BATONPASS",
+            "MOVE_IONDELUGE",
+            "MOVE_SPEEDSWAP",
+            "MOVE_DEFOG"
+        ],
+        "learnset": [
+            {
+                "level": 1,
+                "move": "MOVE_NUZZLE"
+            },
+            {
+                "level": 1,
+                "move": "MOVE_TAILWHIP"
+            },
+            {
+                "level": 5,
+                "move": "MOVE_DOUBLETEAM"
+            },
+            {
+                "level": 9,
+                "move": "MOVE_QUICKATTACK"
+            },
+            {
+                "level": 13,
+                "move": "MOVE_THUNDERSHOCK"
+            },
+            {
+                "level": 17,
+                "move": "MOVE_PURSUIT"
+            },
+            {
+                "level": 21,
+                "move": "MOVE_CHARGE"
+            },
+            {
+                "level": 25,
+                "move": "MOVE_SPARK"
+            },
+            {
+                "level": 29,
+                "move": "MOVE_ACROBATICS"
+            },
+            {
+                "level": 33,
+                "move": "MOVE_ENCORE"
+            },
+            {
+                "level": 37,
+                "move": "MOVE_VOLTSWITCH"
+            },
+            {
+                "level": 42,
+                "move": "MOVE_LIGHTSCREEN"
+            },
+            {
+                "level": 47,
+                "move": "MOVE_ELECTROBALL"
+            },
+            {
+                "level": 52,
+                "move": "MOVE_DISCHARGE"
+            },
+            {
+                "level": 57,
+                "move": "MOVE_AGILITY"
+            }
+        ],
+        "tm": [
+            "MOVE_TOXIC",
+            "MOVE_HIDDENPOWER",
+            "MOVE_TAUNT",
+            "MOVE_LIGHTSCREEN",
+            "MOVE_PROTECT",
+            "MOVE_RAINDANCE",
+            "MOVE_FRUSTRATION",
+            "MOVE_SOLARBEAM",
+            "MOVE_IRONTAIL",
+            "MOVE_THUNDERBOLT",
+            "MOVE_THUNDER",
+            "MOVE_RETURN",
+            "MOVE_DOUBLETEAM",
+            "MOVE_SHOCKWAVE",
+            "MOVE_AERIALACE",
+            "MOVE_FACADE",
+            "MOVE_SECRETPOWER",
+            "MOVE_REST",
+            "MOVE_ATTRACT",
+            "MOVE_ROOST",
+            "MOVE_ENERGYBALL",
+            "MOVE_CHARGEBEAM",
+            "MOVE_ENDURE",
+            "MOVE_FLASH",
+            "MOVE_THUNDERWAVE",
+            "MOVE_SLEEPTALK",
+            "MOVE_SWAGGER",
+            "MOVE_UTURN",
+            "MOVE_SUBSTITUTE",
+            "MOVE_VOLTSWITCH",
+            "MOVE_WILDCHARGE",
+            "MOVE_ACROBATICS",
+            "MOVE_DEFOG",
+            "MOVE_ROUND",
+            "MOVE_NATURALGIFT",
+            "MOVE_FLING",
+            "MOVE_CUT"
+        ],
+        "tutor": [
+            "MOVE_SNORE",
+            "MOVE_ELECTROWEB",
+            "MOVE_HELPINGHAND",
+            "MOVE_COVET",
+            "MOVE_SIGNALBEAM",
+            "MOVE_TAILWIND",
+            "MOVE_KNOCKOFF",
+            "MOVE_LASTRESORT",
+            "MOVE_CONFIDE",
+            "MOVE_BATONPASS",
+            "MOVE_ENCORE",
+            "MOVE_AGILITY",
+            "MOVE_ELECTROBALL",
+            "MOVE_AIRSLASH",
+            "MOVE_RISINGVOLTAGE",
+            "MOVE_DUALWINGBEAT"
+        ]
+    }
 }

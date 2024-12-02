@@ -1,208 +1,192 @@
 {
-    "baseHP": 100,
-    "baseAttack": 50,
-    "baseDefense": 80,
-    "baseSpAttack": 60,
-    "baseSpDefense": 80,
-    "baseSpeed": 50,
-    "type1": "TYPE_WATER",
-    "type2": "TYPE_FAIRY",
-    "catchRate": 75,
-    "expYield": 153,
-    "evYield_HP": 3,
-    "evYield_Attack": 0,
-    "evYield_Defense": 0,
-    "evYield_SpAttack": 0,
-    "evYield_SpDefense": 0,
-    "evYield_Speed": 0,
-    "item1": "ITEM_NONE",
-    "item2": "ITEM_NONE",
-    "genderRatio": 50.0,
-    "eggCycles": 10,
-    "friendship": 50,
-    "growthRate": "GROWTH_FAST",
-    "eggGroup1": "EGG_GROUP_WATER_1",
-    "eggGroup2": "EGG_GROUP_FAIRY",
-    "ability1": "ABILITY_THICKFAT",
-    "ability2": "ABILITY_HUGEPOWER",
-    "safariZoneFleeRate": 0,
-    "hiddenAbility": "ABILITY_SAPSIPPER",
-    "noFlip": true,
-    "name": "Azumarill",
-    "evolve_from": [
-        "MARILL"
-    ],
-    "location": [
-        {
-            "route": "Route 9 + Autl Woods",
-            "area": "",
-            "method": "surf"
-        },
-        {
-            "route": "Victory Road",
-            "area": "1F - B1F",
-            "method": "surf"
-        },
-        {
-            "route": "Victory Road",
-            "area": "2F",
-            "method": "surf"
-        }
-    ],
-    "learnset": [
-        {
-            "level": 1,
-            "move": "MOVE_ROLLOUT"
-        },
-        {
-            "level": 1,
-            "move": "MOVE_DEFENSECURL"
-        },
-        {
-            "level": 1,
-            "move": "MOVE_BUBBLE"
-        },
-        {
-            "level": 1,
-            "move": "MOVE_SPLASH"
-        },
-        {
-            "level": 1,
-            "move": "MOVE_WATERSPORT"
-        },
-        {
-            "level": 1,
-            "move": "MOVE_TAILWHIP"
-        },
-        {
-            "level": 1,
-            "move": "MOVE_WATERGUN"
-        },
-        {
-            "level": 1,
-            "move": "MOVE_TACKLE"
-        },
-        {
-            "level": 1,
-            "move": "MOVE_HELPINGHAND"
-        },
-        {
-            "level": 1,
-            "move": "MOVE_CHARM"
-        },
-        {
-            "level": 1,
-            "move": "MOVE_BUBBLEBEAM"
-        },
-        {
-            "level": 12,
-            "move": "MOVE_SLAM"
-        },
-        {
-            "level": 15,
-            "move": "MOVE_BOUNCE"
-        },
-        {
-            "level": 20,
-            "move": "MOVE_DRAININGKISS"
-        },
-        {
-            "level": 24,
-            "move": "MOVE_HYDROPUMP"
-        },
-        {
-            "level": 28,
-            "move": "MOVE_AQUARING"
-        },
-        {
-            "level": 32,
-            "move": "MOVE_RAINDANCE"
-        },
-        {
-            "level": 36,
-            "move": "MOVE_PLAYROUGH"
-        },
-        {
-            "level": 40,
-            "move": "MOVE_AQUATAIL"
-        },
-        {
-            "level": 44,
-            "move": "MOVE_DOUBLEEDGE"
-        },
-        {
-            "level": 48,
-            "move": "MOVE_SUPERPOWER"
-        }
-    ],
-    "tm": [
-        "MOVE_FOCUSPUNCH",
-        "MOVE_WATERPULSE",
-        "MOVE_TOXIC",
-        "MOVE_HAIL",
-        "MOVE_HIDDENPOWER",
-        "MOVE_ICEBEAM",
-        "MOVE_BLIZZARD",
-        "MOVE_HYPERBEAM",
-        "MOVE_LIGHTSCREEN",
-        "MOVE_PROTECT",
-        "MOVE_RAINDANCE",
-        "MOVE_FRUSTRATION",
-        "MOVE_IRONTAIL",
-        "MOVE_RETURN",
-        "MOVE_DIG",
-        "MOVE_BRICKBREAK",
-        "MOVE_DOUBLETEAM",
-        "MOVE_FACADE",
-        "MOVE_SECRETPOWER",
-        "MOVE_REST",
-        "MOVE_ATTRACT",
-        "MOVE_FOCUSBLAST",
-        "MOVE_ENDURE",
-        "MOVE_GIGAIMPACT",
-        "MOVE_SLEEPTALK",
-        "MOVE_SCALD",
-        "MOVE_GRASSKNOT",
-        "MOVE_SWAGGER",
-        "MOVE_SUBSTITUTE",
-        "MOVE_BULLDOZE",
-        "MOVE_WORKUP",
-        "MOVE_POWERUPPUNCH",
-        "MOVE_BRUTALSWING",
-        "MOVE_DRAININGKISS",
-        "MOVE_ROUND",
-        "MOVE_NATURALGIFT",
-        "MOVE_FLING",
-        "MOVE_SURF",
-        "MOVE_STRENGTH",
-        "MOVE_DIVE",
-        "MOVE_ROCKSMASH",
-        "MOVE_WATERFALL"
-    ],
-    "tutor": [
-        "MOVE_ICEPUNCH",
-        "MOVE_SNORE",
-        "MOVE_UPROAR",
-        "MOVE_HELPINGHAND",
-        "MOVE_COVET",
-        "MOVE_BOUNCE",
-        "MOVE_AQUATAIL",
-        "MOVE_ICYWIND",
-        "MOVE_LIQUIDATION",
-        "MOVE_HYPERVOICE",
-        "MOVE_SUPERPOWER",
-        "MOVE_KNOCKOFF",
-        "MOVE_CONFIDE",
-        "MOVE_ENCORE",
-        "MOVE_FAKETEARS",
-        "MOVE_MISTYTERRAIN",
-        "MOVE_WHIRLPOOL",
-        "MOVE_BODYSLAM",
-        "MOVE_HIGHHORSEPOWER",
-        "MOVE_MUDDYWATER",
-        "MOVE_PLAYROUGH",
-        "MOVE_HYDROPUMP",
-        "MOVE_POLTERGEIST",
-        "MOVE_MISTYEXPLOSION"
-    ]
+    "AZUMARILL": {
+        "baseHP": 100,
+        "baseAttack": 50,
+        "baseDefense": 80,
+        "baseSpAttack": 60,
+        "baseSpDefense": 80,
+        "baseSpeed": 50,
+        "type1": "TYPE_WATER",
+        "type2": "TYPE_FAIRY",
+        "catchRate": 75,
+        "expYield": 153,
+        "evYield_HP": 3,
+        "evYield_Attack": 0,
+        "evYield_Defense": 0,
+        "evYield_SpAttack": 0,
+        "evYield_SpDefense": 0,
+        "evYield_Speed": 0,
+        "item1": "ITEM_NONE",
+        "item2": "ITEM_NONE",
+        "genderRatio": 50.0,
+        "eggCycles": 10,
+        "friendship": 50,
+        "growthRate": "GROWTH_FAST",
+        "eggGroup1": "EGG_GROUP_WATER_1",
+        "eggGroup2": "EGG_GROUP_FAIRY",
+        "ability1": "ABILITY_THICKFAT",
+        "ability2": "ABILITY_HUGEPOWER",
+        "safariZoneFleeRate": 0,
+        "hiddenAbility": "ABILITY_SAPSIPPER",
+        "noFlip": true,
+        "evolve_from": [
+            "MARILL"
+        ],
+        "learnset": [
+            {
+                "level": 1,
+                "move": "MOVE_ROLLOUT"
+            },
+            {
+                "level": 1,
+                "move": "MOVE_DEFENSECURL"
+            },
+            {
+                "level": 1,
+                "move": "MOVE_BUBBLE"
+            },
+            {
+                "level": 1,
+                "move": "MOVE_SPLASH"
+            },
+            {
+                "level": 1,
+                "move": "MOVE_WATERSPORT"
+            },
+            {
+                "level": 1,
+                "move": "MOVE_TAILWHIP"
+            },
+            {
+                "level": 1,
+                "move": "MOVE_WATERGUN"
+            },
+            {
+                "level": 1,
+                "move": "MOVE_TACKLE"
+            },
+            {
+                "level": 1,
+                "move": "MOVE_HELPINGHAND"
+            },
+            {
+                "level": 1,
+                "move": "MOVE_CHARM"
+            },
+            {
+                "level": 1,
+                "move": "MOVE_BUBBLEBEAM"
+            },
+            {
+                "level": 12,
+                "move": "MOVE_SLAM"
+            },
+            {
+                "level": 15,
+                "move": "MOVE_BOUNCE"
+            },
+            {
+                "level": 20,
+                "move": "MOVE_DRAININGKISS"
+            },
+            {
+                "level": 24,
+                "move": "MOVE_HYDROPUMP"
+            },
+            {
+                "level": 28,
+                "move": "MOVE_AQUARING"
+            },
+            {
+                "level": 32,
+                "move": "MOVE_RAINDANCE"
+            },
+            {
+                "level": 36,
+                "move": "MOVE_PLAYROUGH"
+            },
+            {
+                "level": 40,
+                "move": "MOVE_AQUATAIL"
+            },
+            {
+                "level": 44,
+                "move": "MOVE_DOUBLEEDGE"
+            },
+            {
+                "level": 48,
+                "move": "MOVE_SUPERPOWER"
+            }
+        ],
+        "tm": [
+            "MOVE_FOCUSPUNCH",
+            "MOVE_WATERPULSE",
+            "MOVE_TOXIC",
+            "MOVE_HAIL",
+            "MOVE_HIDDENPOWER",
+            "MOVE_ICEBEAM",
+            "MOVE_BLIZZARD",
+            "MOVE_HYPERBEAM",
+            "MOVE_LIGHTSCREEN",
+            "MOVE_PROTECT",
+            "MOVE_RAINDANCE",
+            "MOVE_FRUSTRATION",
+            "MOVE_IRONTAIL",
+            "MOVE_RETURN",
+            "MOVE_DIG",
+            "MOVE_BRICKBREAK",
+            "MOVE_DOUBLETEAM",
+            "MOVE_FACADE",
+            "MOVE_SECRETPOWER",
+            "MOVE_REST",
+            "MOVE_ATTRACT",
+            "MOVE_FOCUSBLAST",
+            "MOVE_ENDURE",
+            "MOVE_GIGAIMPACT",
+            "MOVE_SLEEPTALK",
+            "MOVE_SCALD",
+            "MOVE_GRASSKNOT",
+            "MOVE_SWAGGER",
+            "MOVE_SUBSTITUTE",
+            "MOVE_BULLDOZE",
+            "MOVE_WORKUP",
+            "MOVE_POWERUPPUNCH",
+            "MOVE_BRUTALSWING",
+            "MOVE_DRAININGKISS",
+            "MOVE_ROUND",
+            "MOVE_NATURALGIFT",
+            "MOVE_FLING",
+            "MOVE_SURF",
+            "MOVE_STRENGTH",
+            "MOVE_DIVE",
+            "MOVE_ROCKSMASH",
+            "MOVE_WATERFALL"
+        ],
+        "tutor": [
+            "MOVE_ICEPUNCH",
+            "MOVE_SNORE",
+            "MOVE_UPROAR",
+            "MOVE_HELPINGHAND",
+            "MOVE_COVET",
+            "MOVE_BOUNCE",
+            "MOVE_AQUATAIL",
+            "MOVE_ICYWIND",
+            "MOVE_LIQUIDATION",
+            "MOVE_HYPERVOICE",
+            "MOVE_SUPERPOWER",
+            "MOVE_KNOCKOFF",
+            "MOVE_CONFIDE",
+            "MOVE_ENCORE",
+            "MOVE_FAKETEARS",
+            "MOVE_MISTYTERRAIN",
+            "MOVE_WHIRLPOOL",
+            "MOVE_BODYSLAM",
+            "MOVE_HIGHHORSEPOWER",
+            "MOVE_MUDDYWATER",
+            "MOVE_PLAYROUGH",
+            "MOVE_HYDROPUMP",
+            "MOVE_POLTERGEIST",
+            "MOVE_MISTYEXPLOSION"
+        ]
+    }
 }

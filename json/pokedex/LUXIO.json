@@ -1,172 +1,161 @@
 {
-    "baseHP": 60,
-    "baseAttack": 85,
-    "baseDefense": 49,
-    "baseSpAttack": 60,
-    "baseSpDefense": 49,
-    "baseSpeed": 60,
-    "type1": "TYPE_ELECTRIC",
-    "type2": "TYPE_ELECTRIC",
-    "catchRate": 120,
-    "expYield": 117,
-    "evYield_HP": 0,
-    "evYield_Attack": 2,
-    "evYield_Defense": 0,
-    "evYield_SpAttack": 0,
-    "evYield_SpDefense": 0,
-    "evYield_Speed": 0,
-    "item1": "ITEM_NONE",
-    "item2": "ITEM_NONE",
-    "genderRatio": 50.0,
-    "eggCycles": 20,
-    "friendship": 100,
-    "growthRate": "GROWTH_MEDIUM_SLOW",
-    "eggGroup1": "EGG_GROUP_FIELD",
-    "eggGroup2": "EGG_GROUP_FIELD",
-    "ability1": "ABILITY_RIVALRY",
-    "ability2": "ABILITY_INTIMIDATE",
-    "safariZoneFleeRate": 0,
-    "hiddenAbility": "ABILITY_GUTS",
-    "noFlip": true,
-    "evolve_to": [
-        {
-            "method": "EVO_LEVEL",
-            "condition": "30",
-            "target": "LUXRAY",
-            "extra": "0"
-        }
-    ],
-    "blurb": "It rests its forelegs on others to communicate with rhythmic electric pulses from its claws.",
-    "name": "Luxio",
-    "evolve_from": [
-        "SHINX"
-    ],
-    "location": [
-        {
-            "route": "Route 6",
-            "area": "",
-            "method": "land"
-        },
-        {
-            "route": "Route 7",
-            "area": "",
-            "method": "land"
-        }
-    ],
-    "learnset": [
-        {
-            "level": 1,
-            "move": "MOVE_TACKLE"
-        },
-        {
-            "level": 1,
-            "move": "MOVE_LEER"
-        },
-        {
-            "level": 1,
-            "move": "MOVE_THUNDERSHOCK"
-        },
-        {
-            "level": 1,
-            "move": "MOVE_BABYDOLLEYES"
-        },
-        {
-            "level": 9,
-            "move": "MOVE_CHARGE"
-        },
-        {
-            "level": 12,
-            "move": "MOVE_BITE"
-        },
-        {
-            "level": 18,
-            "move": "MOVE_SPARK"
-        },
-        {
-            "level": 22,
-            "move": "MOVE_ROAR"
-        },
-        {
-            "level": 26,
-            "move": "MOVE_VOLTSWITCH"
-        },
-        {
-            "level": 30,
-            "move": "MOVE_SCARYFACE"
-        },
-        {
-            "level": 34,
-            "move": "MOVE_THUNDERWAVE"
-        },
-        {
-            "level": 37,
-            "move": "MOVE_THUNDERFANG"
-        },
-        {
-            "level": 41,
-            "move": "MOVE_CRUNCH"
-        },
-        {
-            "level": 45,
-            "move": "MOVE_WILDCHARGE"
-        },
-        {
-            "level": 49,
-            "move": "MOVE_SWAGGER"
-        },
-        {
-            "level": 52,
-            "move": "MOVE_VOLTTACKLE"
-        }
-    ],
-    "tm": [
-        "MOVE_ROAR",
-        "MOVE_TOXIC",
-        "MOVE_HIDDENPOWER",
-        "MOVE_LIGHTSCREEN",
-        "MOVE_PROTECT",
-        "MOVE_RAINDANCE",
-        "MOVE_FRUSTRATION",
-        "MOVE_IRONTAIL",
-        "MOVE_THUNDERBOLT",
-        "MOVE_THUNDER",
-        "MOVE_RETURN",
-        "MOVE_DOUBLETEAM",
-        "MOVE_SHOCKWAVE",
-        "MOVE_FACADE",
-        "MOVE_SECRETPOWER",
-        "MOVE_REST",
-        "MOVE_ATTRACT",
-        "MOVE_THIEF",
-        "MOVE_CHARGEBEAM",
-        "MOVE_ENDURE",
-        "MOVE_FLASH",
-        "MOVE_THUNDERWAVE",
-        "MOVE_SLEEPTALK",
-        "MOVE_SWAGGER",
-        "MOVE_SUBSTITUTE",
-        "MOVE_VOLTSWITCH",
-        "MOVE_WILDCHARGE",
-        "MOVE_SNARL",
-        "MOVE_ROUND",
-        "MOVE_NATURALGIFT",
-        "MOVE_STRENGTH"
-    ],
-    "tutor": [
-        "MOVE_SNORE",
-        "MOVE_HELPINGHAND",
-        "MOVE_SIGNALBEAM",
-        "MOVE_MAGNETRISE",
-        "MOVE_CONFIDE",
-        "MOVE_FAKETEARS",
-        "MOVE_SCARYFACE",
-        "MOVE_THUNDERFANG",
-        "MOVE_ICEFANG",
-        "MOVE_FIREFANG",
-        "MOVE_ELECTROBALL",
-        "MOVE_CRUNCH",
-        "MOVE_PLAYROUGH",
-        "MOVE_PSYCHICFANGS",
-        "MOVE_RISINGVOLTAGE"
-    ]
+    "LUXIO": {
+        "blurb": "It rests its forelegs on others to communicate with rhythmic electric pulses from its claws.",
+        "baseHP": 60,
+        "baseAttack": 85,
+        "baseDefense": 49,
+        "baseSpAttack": 60,
+        "baseSpDefense": 49,
+        "baseSpeed": 60,
+        "type1": "TYPE_ELECTRIC",
+        "type2": "TYPE_ELECTRIC",
+        "catchRate": 120,
+        "expYield": 117,
+        "evYield_HP": 0,
+        "evYield_Attack": 2,
+        "evYield_Defense": 0,
+        "evYield_SpAttack": 0,
+        "evYield_SpDefense": 0,
+        "evYield_Speed": 0,
+        "item1": "ITEM_NONE",
+        "item2": "ITEM_NONE",
+        "genderRatio": 50.0,
+        "eggCycles": 20,
+        "friendship": 100,
+        "growthRate": "GROWTH_MEDIUM_SLOW",
+        "eggGroup1": "EGG_GROUP_FIELD",
+        "eggGroup2": "EGG_GROUP_FIELD",
+        "ability1": "ABILITY_RIVALRY",
+        "ability2": "ABILITY_INTIMIDATE",
+        "safariZoneFleeRate": 0,
+        "hiddenAbility": "ABILITY_GUTS",
+        "noFlip": true,
+        "evolve_to": [
+            {
+                "method": "EVO_LEVEL",
+                "condition": "30",
+                "target": "LUXRAY",
+                "extra": "0"
+            }
+        ],
+        "evolve_from": [
+            "SHINX"
+        ],
+        "learnset": [
+            {
+                "level": 1,
+                "move": "MOVE_TACKLE"
+            },
+            {
+                "level": 1,
+                "move": "MOVE_LEER"
+            },
+            {
+                "level": 1,
+                "move": "MOVE_THUNDERSHOCK"
+            },
+            {
+                "level": 1,
+                "move": "MOVE_BABYDOLLEYES"
+            },
+            {
+                "level": 9,
+                "move": "MOVE_CHARGE"
+            },
+            {
+                "level": 12,
+                "move": "MOVE_BITE"
+            },
+            {
+                "level": 18,
+                "move": "MOVE_SPARK"
+            },
+            {
+                "level": 22,
+                "move": "MOVE_ROAR"
+            },
+            {
+                "level": 26,
+                "move": "MOVE_VOLTSWITCH"
+            },
+            {
+                "level": 30,
+                "move": "MOVE_SCARYFACE"
+            },
+            {
+                "level": 34,
+                "move": "MOVE_THUNDERWAVE"
+            },
+            {
+                "level": 37,
+                "move": "MOVE_THUNDERFANG"
+            },
+            {
+                "level": 41,
+                "move": "MOVE_CRUNCH"
+            },
+            {
+                "level": 45,
+                "move": "MOVE_WILDCHARGE"
+            },
+            {
+                "level": 49,
+                "move": "MOVE_SWAGGER"
+            },
+            {
+                "level": 52,
+                "move": "MOVE_VOLTTACKLE"
+            }
+        ],
+        "tm": [
+            "MOVE_ROAR",
+            "MOVE_TOXIC",
+            "MOVE_HIDDENPOWER",
+            "MOVE_LIGHTSCREEN",
+            "MOVE_PROTECT",
+            "MOVE_RAINDANCE",
+            "MOVE_FRUSTRATION",
+            "MOVE_IRONTAIL",
+            "MOVE_THUNDERBOLT",
+            "MOVE_THUNDER",
+            "MOVE_RETURN",
+            "MOVE_DOUBLETEAM",
+            "MOVE_SHOCKWAVE",
+            "MOVE_FACADE",
+            "MOVE_SECRETPOWER",
+            "MOVE_REST",
+            "MOVE_ATTRACT",
+            "MOVE_THIEF",
+            "MOVE_CHARGEBEAM",
+            "MOVE_ENDURE",
+            "MOVE_FLASH",
+            "MOVE_THUNDERWAVE",
+            "MOVE_SLEEPTALK",
+            "MOVE_SWAGGER",
+            "MOVE_SUBSTITUTE",
+            "MOVE_VOLTSWITCH",
+            "MOVE_WILDCHARGE",
+            "MOVE_SNARL",
+            "MOVE_ROUND",
+            "MOVE_NATURALGIFT",
+            "MOVE_STRENGTH"
+        ],
+        "tutor": [
+            "MOVE_SNORE",
+            "MOVE_HELPINGHAND",
+            "MOVE_SIGNALBEAM",
+            "MOVE_MAGNETRISE",
+            "MOVE_CONFIDE",
+            "MOVE_FAKETEARS",
+            "MOVE_SCARYFACE",
+            "MOVE_THUNDERFANG",
+            "MOVE_ICEFANG",
+            "MOVE_FIREFANG",
+            "MOVE_ELECTROBALL",
+            "MOVE_CRUNCH",
+            "MOVE_PLAYROUGH",
+            "MOVE_PSYCHICFANGS",
+            "MOVE_RISINGVOLTAGE"
+        ]
+    }
 }

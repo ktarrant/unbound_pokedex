@@ -66,34 +66,35 @@ merge_species_data(pokedex, learnsets_data, "learnset")
 add_compatible_moves(pokedex, move_data)
 
 save_errors()
+
+# Create output files
+pokedex_dir = os.path.join(dst_dir, "pokedex")
+move_file = os.path.join(dst_dir, "moves.json")
+fields_file = os.path.join(dst_dir, "fields.json")
+locations_file = os.path.join(dst_dir, "locations.json")
+
 pprint.pprint(pokedex)
 
-# # Create output files
-# pokedex_dir = os.path.join(dst_dir, "pokedex")
-# move_file = os.path.join(dst_dir, "moves.json")
-# fields_file = os.path.join(dst_dir, "fields.json")
-# locations_file = os.path.join(dst_dir, "locations.json")
-#
 # with open(locations_file, 'w') as json_file:
 #     json.dump(location_data, json_file, indent=1)
 # print(f"Locations data successfully parsed and saved to {locations_file}")
-#
-# with open(move_file, 'w') as json_file:
-#     json.dump(move_data, json_file, indent=1)
-# print(f"Move data successfully parsed and saved to {move_file}")
-#
-# fields_data = collect_field_types(pokedex)
-# with open(fields_file, 'w') as json_file:
-#     json.dump(fields_data, json_file, indent=1)
-# print(f"Fields data successfully parsed and saved to {fields_file}")
-#
-# # Output each species Pokedex entry to a separate JSON file
-# for species in pokedex:
-#     out_file = os.path.join(pokedex_dir, species + ".json")
-#
-#     # Output the merged data to a JSON file
-#     with open(out_file, 'w') as json_file:
-#         json.dump(pokedex[species], json_file, indent=4)
-#         print(f"Saving pokedex data: {out_file}")
-#
-#
+
+with open(move_file, 'w') as json_file:
+    json.dump(move_data, json_file, indent=1)
+print(f"Move data successfully parsed and saved to {move_file}")
+
+fields_data = collect_field_types(pokedex)
+with open(fields_file, 'w') as json_file:
+    json.dump(fields_data, json_file, indent=1)
+print(f"Fields data successfully parsed and saved to {fields_file}")
+
+# Output each Pokedex entry to a separate JSON file
+for dex in pokedex:
+    out_file = os.path.join(pokedex_dir, dex + ".json")
+
+    # Output the merged data to a JSON file
+    with open(out_file, 'w') as json_file:
+        json.dump(pokedex[dex], json_file, indent=4)
+        print(f"Saving pokedex data: {out_file}")
+
+

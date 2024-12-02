@@ -1,170 +1,171 @@
 {
-    "baseHP": 45,
-    "baseAttack": 49,
-    "baseDefense": 65,
-    "baseSpAttack": 49,
-    "baseSpDefense": 65,
-    "baseSpeed": 45,
-    "type1": "TYPE_GRASS",
-    "type2": "TYPE_GRASS",
-    "catchRate": 45,
-    "expYield": 64,
-    "evYield_HP": 0,
-    "evYield_Attack": 0,
-    "evYield_Defense": 0,
-    "evYield_SpAttack": 0,
-    "evYield_SpDefense": 1,
-    "evYield_Speed": 0,
-    "item1": "ITEM_NONE",
-    "item2": "ITEM_NONE",
-    "genderRatio": 12.5,
-    "eggCycles": 20,
-    "friendship": 50,
-    "growthRate": "GROWTH_MEDIUM_SLOW",
-    "eggGroup1": "EGG_GROUP_MONSTER",
-    "eggGroup2": "EGG_GROUP_GRASS",
-    "ability1": "ABILITY_OVERGROW",
-    "ability2": "ABILITY_NONE",
-    "safariZoneFleeRate": 0,
-    "hiddenAbility": "ABILITY_LEAFGUARD",
-    "noFlip": true,
-    "egg_moves": [
-        "MOVE_VINEWHIP",
-        "MOVE_LEECHSEED",
-        "MOVE_COUNTER",
-        "MOVE_ANCIENTPOWER",
-        "MOVE_FLAIL",
-        "MOVE_NATUREPOWER",
-        "MOVE_INGRAIN",
-        "MOVE_GRASSWHISTLE",
-        "MOVE_WRINGOUT",
-        "MOVE_REFRESH",
-        "MOVE_HEALPULSE",
-        "MOVE_GRASSYTERRAIN"
-    ],
-    "evolve_to": [
-        {
-            "method": "EVO_LEVEL",
-            "condition": "16",
-            "target": "BAYLEEF",
-            "extra": "0"
-        }
-    ],
-    "name": "Chikorita",
-    "evolve_from": [],
-    "learnset": [
-        {
-            "level": 1,
-            "move": "MOVE_TACKLE"
-        },
-        {
-            "level": 1,
-            "move": "MOVE_GROWL"
-        },
-        {
-            "level": 6,
-            "move": "MOVE_RAZORLEAF"
-        },
-        {
-            "level": 9,
-            "move": "MOVE_POISONPOWDER"
-        },
-        {
-            "level": 12,
-            "move": "MOVE_SYNTHESIS"
-        },
-        {
-            "level": 15,
-            "move": "MOVE_REFLECT"
-        },
-        {
-            "level": 18,
-            "move": "MOVE_MAGICALLEAF"
-        },
-        {
-            "level": 22,
-            "move": "MOVE_NATURALGIFT"
-        },
-        {
-            "level": 26,
-            "move": "MOVE_GRASSYGLIDE"
-        },
-        {
-            "level": 30,
-            "move": "MOVE_SWEETSCENT"
-        },
-        {
-            "level": 33,
-            "move": "MOVE_BODYSLAM"
-        },
-        {
-            "level": 37,
-            "move": "MOVE_LIGHTSCREEN"
-        },
-        {
-            "level": 40,
-            "move": "MOVE_SAFEGUARD"
-        },
-        {
-            "level": 43,
-            "move": "MOVE_AROMATHERAPY"
-        },
-        {
-            "level": 46,
-            "move": "MOVE_SOLARBEAM"
-        },
-        {
-            "level": 50,
-            "move": "MOVE_LEAFSTORM"
-        }
-    ],
-    "tm": [
-        "MOVE_TOXIC",
-        "MOVE_BULLETSEED",
-        "MOVE_HIDDENPOWER",
-        "MOVE_SUNNYDAY",
-        "MOVE_LIGHTSCREEN",
-        "MOVE_PROTECT",
-        "MOVE_GIGADRAIN",
-        "MOVE_SAFEGUARD",
-        "MOVE_FRUSTRATION",
-        "MOVE_SOLARBEAM",
-        "MOVE_IRONTAIL",
-        "MOVE_RETURN",
-        "MOVE_DOUBLETEAM",
-        "MOVE_REFLECT",
-        "MOVE_FACADE",
-        "MOVE_SECRETPOWER",
-        "MOVE_REST",
-        "MOVE_ATTRACT",
-        "MOVE_ENERGYBALL",
-        "MOVE_ENDURE",
-        "MOVE_FLASH",
-        "MOVE_SWORDSDANCE",
-        "MOVE_SLEEPTALK",
-        "MOVE_GRASSKNOT",
-        "MOVE_SWAGGER",
-        "MOVE_SUBSTITUTE",
-        "MOVE_WORKUP",
-        "MOVE_ROUND",
-        "MOVE_ECHOEDVOICE",
-        "MOVE_NATURALGIFT",
-        "MOVE_NATUREPOWER",
-        "MOVE_CUT"
-    ],
-    "tutor": [
-        "MOVE_SNORE",
-        "MOVE_WORRYSEED",
-        "MOVE_SYNTHESIS",
-        "MOVE_SEEDBOMB",
-        "MOVE_MAGICCOAT",
-        "MOVE_CONFIDE",
-        "MOVE_GRASSPLEDGE",
-        "MOVE_GRASSYTERRAIN",
-        "MOVE_BODYSLAM",
-        "MOVE_POLLENPUFF",
-        "MOVE_LEAFSTORM",
-        "MOVE_SOLARBLADE",
-        "MOVE_GRASSYGLIDE"
-    ]
+    "CHIKORITA": {
+        "baseHP": 45,
+        "baseAttack": 49,
+        "baseDefense": 65,
+        "baseSpAttack": 49,
+        "baseSpDefense": 65,
+        "baseSpeed": 45,
+        "type1": "TYPE_GRASS",
+        "type2": "TYPE_GRASS",
+        "catchRate": 45,
+        "expYield": 64,
+        "evYield_HP": 0,
+        "evYield_Attack": 0,
+        "evYield_Defense": 0,
+        "evYield_SpAttack": 0,
+        "evYield_SpDefense": 1,
+        "evYield_Speed": 0,
+        "item1": "ITEM_NONE",
+        "item2": "ITEM_NONE",
+        "genderRatio": 12.5,
+        "eggCycles": 20,
+        "friendship": 50,
+        "growthRate": "GROWTH_MEDIUM_SLOW",
+        "eggGroup1": "EGG_GROUP_MONSTER",
+        "eggGroup2": "EGG_GROUP_GRASS",
+        "ability1": "ABILITY_OVERGROW",
+        "ability2": "ABILITY_NONE",
+        "safariZoneFleeRate": 0,
+        "hiddenAbility": "ABILITY_LEAFGUARD",
+        "noFlip": true,
+        "evolve_to": [
+            {
+                "method": "EVO_LEVEL",
+                "condition": "16",
+                "target": "BAYLEEF",
+                "extra": "0"
+            }
+        ],
+        "evolve_from": [],
+        "egg_moves": [
+            "MOVE_VINEWHIP",
+            "MOVE_LEECHSEED",
+            "MOVE_COUNTER",
+            "MOVE_ANCIENTPOWER",
+            "MOVE_FLAIL",
+            "MOVE_NATUREPOWER",
+            "MOVE_INGRAIN",
+            "MOVE_GRASSWHISTLE",
+            "MOVE_WRINGOUT",
+            "MOVE_REFRESH",
+            "MOVE_HEALPULSE",
+            "MOVE_GRASSYTERRAIN"
+        ],
+        "learnset": [
+            {
+                "level": 1,
+                "move": "MOVE_TACKLE"
+            },
+            {
+                "level": 1,
+                "move": "MOVE_GROWL"
+            },
+            {
+                "level": 6,
+                "move": "MOVE_RAZORLEAF"
+            },
+            {
+                "level": 9,
+                "move": "MOVE_POISONPOWDER"
+            },
+            {
+                "level": 12,
+                "move": "MOVE_SYNTHESIS"
+            },
+            {
+                "level": 15,
+                "move": "MOVE_REFLECT"
+            },
+            {
+                "level": 18,
+                "move": "MOVE_MAGICALLEAF"
+            },
+            {
+                "level": 22,
+                "move": "MOVE_NATURALGIFT"
+            },
+            {
+                "level": 26,
+                "move": "MOVE_GRASSYGLIDE"
+            },
+            {
+                "level": 30,
+                "move": "MOVE_SWEETSCENT"
+            },
+            {
+                "level": 33,
+                "move": "MOVE_BODYSLAM"
+            },
+            {
+                "level": 37,
+                "move": "MOVE_LIGHTSCREEN"
+            },
+            {
+                "level": 40,
+                "move": "MOVE_SAFEGUARD"
+            },
+            {
+                "level": 43,
+                "move": "MOVE_AROMATHERAPY"
+            },
+            {
+                "level": 46,
+                "move": "MOVE_SOLARBEAM"
+            },
+            {
+                "level": 50,
+                "move": "MOVE_LEAFSTORM"
+            }
+        ],
+        "tm": [
+            "MOVE_TOXIC",
+            "MOVE_BULLETSEED",
+            "MOVE_HIDDENPOWER",
+            "MOVE_SUNNYDAY",
+            "MOVE_LIGHTSCREEN",
+            "MOVE_PROTECT",
+            "MOVE_GIGADRAIN",
+            "MOVE_SAFEGUARD",
+            "MOVE_FRUSTRATION",
+            "MOVE_SOLARBEAM",
+            "MOVE_IRONTAIL",
+            "MOVE_RETURN",
+            "MOVE_DOUBLETEAM",
+            "MOVE_REFLECT",
+            "MOVE_FACADE",
+            "MOVE_SECRETPOWER",
+            "MOVE_REST",
+            "MOVE_ATTRACT",
+            "MOVE_ENERGYBALL",
+            "MOVE_ENDURE",
+            "MOVE_FLASH",
+            "MOVE_SWORDSDANCE",
+            "MOVE_SLEEPTALK",
+            "MOVE_GRASSKNOT",
+            "MOVE_SWAGGER",
+            "MOVE_SUBSTITUTE",
+            "MOVE_WORKUP",
+            "MOVE_ROUND",
+            "MOVE_ECHOEDVOICE",
+            "MOVE_NATURALGIFT",
+            "MOVE_NATUREPOWER",
+            "MOVE_CUT"
+        ],
+        "tutor": [
+            "MOVE_SNORE",
+            "MOVE_WORRYSEED",
+            "MOVE_SYNTHESIS",
+            "MOVE_SEEDBOMB",
+            "MOVE_MAGICCOAT",
+            "MOVE_CONFIDE",
+            "MOVE_GRASSPLEDGE",
+            "MOVE_GRASSYTERRAIN",
+            "MOVE_BODYSLAM",
+            "MOVE_POLLENPUFF",
+            "MOVE_LEAFSTORM",
+            "MOVE_SOLARBLADE",
+            "MOVE_GRASSYGLIDE"
+        ]
+    }
 }

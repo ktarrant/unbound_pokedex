@@ -1,155 +1,144 @@
 {
-    "baseHP": 80,
-    "baseAttack": 80,
-    "baseDefense": 80,
-    "baseSpAttack": 80,
-    "baseSpDefense": 80,
-    "baseSpeed": 80,
-    "type1": "TYPE_WATER",
-    "type2": "TYPE_WATER",
-    "catchRate": 30,
-    "expYield": 165,
-    "evYield_HP": 1,
-    "evYield_Attack": 0,
-    "evYield_Defense": 0,
-    "evYield_SpAttack": 0,
-    "evYield_SpDefense": 0,
-    "evYield_Speed": 0,
-    "item1": "ITEM_NONE",
-    "item2": "ITEM_NONE",
-    "genderRatio": "MON_GENDERLESS",
-    "eggCycles": 40,
-    "friendship": 50,
-    "growthRate": "GROWTH_SLOW",
-    "eggGroup1": "EGG_GROUP_WATER_1",
-    "eggGroup2": "EGG_GROUP_FAIRY",
-    "ability1": "ABILITY_HYDRATION",
-    "ability2": "ABILITY_NONE",
-    "safariZoneFleeRate": 0,
-    "hiddenAbility": "ABILITY_DRIZZLE",
-    "noFlip": true,
-    "blurb": "It drifts in warm seas. It always returns to where it was born, no matter how far it may have drifted.",
-    "name": "Phione",
-    "evolve_from": [],
-    "location": [
-        {
-            "route": "Route 14",
-            "area": "",
-            "method": "Good Rod"
-        },
-        {
-            "route": "Route 14",
-            "area": "",
-            "method": "Super Rod"
-        }
-    ],
-    "learnset": [
-        {
-            "level": 1,
-            "move": "MOVE_BUBBLE"
-        },
-        {
-            "level": 1,
-            "move": "MOVE_WATERSPORT"
-        },
-        {
-            "level": 7,
-            "move": "MOVE_CHARM"
-        },
-        {
-            "level": 12,
-            "move": "MOVE_SUPERSONIC"
-        },
-        {
-            "level": 17,
-            "move": "MOVE_WATERPULSE"
-        },
-        {
-            "level": 23,
-            "move": "MOVE_AQUARING"
-        },
-        {
-            "level": 28,
-            "move": "MOVE_WHIRLPOOL"
-        },
-        {
-            "level": 34,
-            "move": "MOVE_ACIDARMOR"
-        },
-        {
-            "level": 39,
-            "move": "MOVE_BUBBLEBEAM"
-        },
-        {
-            "level": 45,
-            "move": "MOVE_LIFEDEW"
-        },
-        {
-            "level": 50,
-            "move": "MOVE_RAINDANCE"
-        },
-        {
-            "level": 55,
-            "move": "MOVE_TAKEHEART"
-        },
-        {
-            "level": 60,
-            "move": "MOVE_DIVE"
-        },
-        {
-            "level": 66,
-            "move": "MOVE_MOONBLAST"
-        }
-    ],
-    "tm": [
-        "MOVE_WATERPULSE",
-        "MOVE_CALMMIND",
-        "MOVE_TOXIC",
-        "MOVE_HAIL",
-        "MOVE_HIDDENPOWER",
-        "MOVE_ICEBEAM",
-        "MOVE_BLIZZARD",
-        "MOVE_PROTECT",
-        "MOVE_RAINDANCE",
-        "MOVE_SAFEGUARD",
-        "MOVE_FRUSTRATION",
-        "MOVE_RETURN",
-        "MOVE_DOUBLETEAM",
-        "MOVE_FACADE",
-        "MOVE_SECRETPOWER",
-        "MOVE_REST",
-        "MOVE_BRINE",
-        "MOVE_ENDURE",
-        "MOVE_SLEEPTALK",
-        "MOVE_SCALD",
-        "MOVE_GRASSKNOT",
-        "MOVE_SWAGGER",
-        "MOVE_UTURN",
-        "MOVE_SUBSTITUTE",
-        "MOVE_DAZZLINGGLEAM",
-        "MOVE_ROUND",
-        "MOVE_NATURALGIFT",
-        "MOVE_FLING",
-        "MOVE_SURF",
-        "MOVE_DIVE",
-        "MOVE_WATERFALL"
-    ],
-    "tutor": [
-        "MOVE_SNORE",
-        "MOVE_HEALBELL",
-        "MOVE_UPROAR",
-        "MOVE_HELPINGHAND",
-        "MOVE_COVET",
-        "MOVE_SIGNALBEAM",
-        "MOVE_BOUNCE",
-        "MOVE_ICYWIND",
-        "MOVE_ZENHEADBUTT",
-        "MOVE_LIQUIDATION",
-        "MOVE_KNOCKOFF",
-        "MOVE_PSYCHUP",
-        "MOVE_LASTRESORT",
-        "MOVE_CONFIDE",
-        "MOVE_WHIRLPOOL",
-        "MOVE_FLIPTURN"
-    ]
+    "PHIONE": {
+        "blurb": "It drifts in warm seas. It always returns to where it was born, no matter how far it may have drifted.",
+        "baseHP": 80,
+        "baseAttack": 80,
+        "baseDefense": 80,
+        "baseSpAttack": 80,
+        "baseSpDefense": 80,
+        "baseSpeed": 80,
+        "type1": "TYPE_WATER",
+        "type2": "TYPE_WATER",
+        "catchRate": 30,
+        "expYield": 165,
+        "evYield_HP": 1,
+        "evYield_Attack": 0,
+        "evYield_Defense": 0,
+        "evYield_SpAttack": 0,
+        "evYield_SpDefense": 0,
+        "evYield_Speed": 0,
+        "item1": "ITEM_NONE",
+        "item2": "ITEM_NONE",
+        "genderRatio": "MON_GENDERLESS",
+        "eggCycles": 40,
+        "friendship": 50,
+        "growthRate": "GROWTH_SLOW",
+        "eggGroup1": "EGG_GROUP_WATER_1",
+        "eggGroup2": "EGG_GROUP_FAIRY",
+        "ability1": "ABILITY_HYDRATION",
+        "ability2": "ABILITY_NONE",
+        "safariZoneFleeRate": 0,
+        "hiddenAbility": "ABILITY_DRIZZLE",
+        "noFlip": true,
+        "evolve_from": [],
+        "learnset": [
+            {
+                "level": 1,
+                "move": "MOVE_BUBBLE"
+            },
+            {
+                "level": 1,
+                "move": "MOVE_WATERSPORT"
+            },
+            {
+                "level": 7,
+                "move": "MOVE_CHARM"
+            },
+            {
+                "level": 12,
+                "move": "MOVE_SUPERSONIC"
+            },
+            {
+                "level": 17,
+                "move": "MOVE_WATERPULSE"
+            },
+            {
+                "level": 23,
+                "move": "MOVE_AQUARING"
+            },
+            {
+                "level": 28,
+                "move": "MOVE_WHIRLPOOL"
+            },
+            {
+                "level": 34,
+                "move": "MOVE_ACIDARMOR"
+            },
+            {
+                "level": 39,
+                "move": "MOVE_BUBBLEBEAM"
+            },
+            {
+                "level": 45,
+                "move": "MOVE_LIFEDEW"
+            },
+            {
+                "level": 50,
+                "move": "MOVE_RAINDANCE"
+            },
+            {
+                "level": 55,
+                "move": "MOVE_TAKEHEART"
+            },
+            {
+                "level": 60,
+                "move": "MOVE_DIVE"
+            },
+            {
+                "level": 66,
+                "move": "MOVE_MOONBLAST"
+            }
+        ],
+        "tm": [
+            "MOVE_WATERPULSE",
+            "MOVE_CALMMIND",
+            "MOVE_TOXIC",
+            "MOVE_HAIL",
+            "MOVE_HIDDENPOWER",
+            "MOVE_ICEBEAM",
+            "MOVE_BLIZZARD",
+            "MOVE_PROTECT",
+            "MOVE_RAINDANCE",
+            "MOVE_SAFEGUARD",
+            "MOVE_FRUSTRATION",
+            "MOVE_RETURN",
+            "MOVE_DOUBLETEAM",
+            "MOVE_FACADE",
+            "MOVE_SECRETPOWER",
+            "MOVE_REST",
+            "MOVE_BRINE",
+            "MOVE_ENDURE",
+            "MOVE_SLEEPTALK",
+            "MOVE_SCALD",
+            "MOVE_GRASSKNOT",
+            "MOVE_SWAGGER",
+            "MOVE_UTURN",
+            "MOVE_SUBSTITUTE",
+            "MOVE_DAZZLINGGLEAM",
+            "MOVE_ROUND",
+            "MOVE_NATURALGIFT",
+            "MOVE_FLING",
+            "MOVE_SURF",
+            "MOVE_DIVE",
+            "MOVE_WATERFALL"
+        ],
+        "tutor": [
+            "MOVE_SNORE",
+            "MOVE_HEALBELL",
+            "MOVE_UPROAR",
+            "MOVE_HELPINGHAND",
+            "MOVE_COVET",
+            "MOVE_SIGNALBEAM",
+            "MOVE_BOUNCE",
+            "MOVE_ICYWIND",
+            "MOVE_ZENHEADBUTT",
+            "MOVE_LIQUIDATION",
+            "MOVE_KNOCKOFF",
+            "MOVE_PSYCHUP",
+            "MOVE_LASTRESORT",
+            "MOVE_CONFIDE",
+            "MOVE_WHIRLPOOL",
+            "MOVE_FLIPTURN"
+        ]
+    }
 }

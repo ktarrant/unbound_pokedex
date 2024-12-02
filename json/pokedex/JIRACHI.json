@@ -1,199 +1,200 @@
 {
-    "baseHP": 100,
-    "baseAttack": 100,
-    "baseDefense": 100,
-    "baseSpAttack": 100,
-    "baseSpDefense": 100,
-    "baseSpeed": 100,
-    "type1": "TYPE_STEEL",
-    "type2": "TYPE_PSYCHIC",
-    "catchRate": 8,
-    "expYield": 215,
-    "evYield_HP": 3,
-    "evYield_Attack": 0,
-    "evYield_Defense": 0,
-    "evYield_SpAttack": 0,
-    "evYield_SpDefense": 0,
-    "evYield_Speed": 0,
-    "item1": "ITEM_STAR_PIECE",
-    "item2": "ITEM_STAR_PIECE",
-    "genderRatio": "MON_GENDERLESS",
-    "eggCycles": 120,
-    "friendship": 100,
-    "growthRate": "GROWTH_SLOW",
-    "eggGroup1": "EGG_GROUP_UNDISCOVERED",
-    "eggGroup2": "EGG_GROUP_UNDISCOVERED",
-    "ability1": "ABILITY_SERENEGRACE",
-    "ability2": "ABILITY_NONE",
-    "safariZoneFleeRate": 0,
-    "hiddenAbility": "ABILITY_SUPERLUCK",
-    "noFlip": true,
-    "name": "Jirachi",
-    "evolve_from": [],
-    "learnset": [
-        {
-            "level": 1,
-            "move": "MOVE_DRACOMETEOR"
-        },
-        {
-            "level": 1,
-            "move": "MOVE_HAPPYHOUR"
-        },
-        {
-            "level": 1,
-            "move": "MOVE_CONFUSION"
-        },
-        {
-            "level": 1,
-            "move": "MOVE_WISH"
-        },
-        {
-            "level": 1,
-            "move": "MOVE_SWIFT"
-        },
-        {
-            "level": 14,
-            "move": "MOVE_HELPINGHAND"
-        },
-        {
-            "level": 20,
-            "move": "MOVE_LIFEDEW"
-        },
-        {
-            "level": 26,
-            "move": "MOVE_MISTBALL"
-        },
-        {
-            "level": 26,
-            "move": "MOVE_ZENHEADBUTT"
-        },
-        {
-            "level": 32,
-            "move": "MOVE_REFRESH"
-        },
-        {
-            "level": 32,
-            "move": "MOVE_LUCKYCHANT"
-        },
-        {
-            "level": 38,
-            "move": "MOVE_GRAVITY"
-        },
-        {
-            "level": 44,
-            "move": "MOVE_PSYCHIC"
-        },
-        {
-            "level": 50,
-            "move": "MOVE_METEORMASH"
-        },
-        {
-            "level": 56,
-            "move": "MOVE_COSMICPOWER"
-        },
-        {
-            "level": 62,
-            "move": "MOVE_DOUBLEEDGE"
-        },
-        {
-            "level": 68,
-            "move": "MOVE_FUTURESIGHT"
-        },
-        {
-            "level": 75,
-            "move": "MOVE_REST"
-        },
-        {
-            "level": 82,
-            "move": "MOVE_HEALINGWISH"
-        },
-        {
-            "level": 89,
-            "move": "MOVE_LASTRESORT"
-        },
-        {
-            "level": 96,
-            "move": "MOVE_DOOMDESIRE"
-        }
-    ],
-    "tm": [
-        "MOVE_WATERPULSE",
-        "MOVE_CALMMIND",
-        "MOVE_TOXIC",
-        "MOVE_HIDDENPOWER",
-        "MOVE_SUNNYDAY",
-        "MOVE_HYPERBEAM",
-        "MOVE_LIGHTSCREEN",
-        "MOVE_PROTECT",
-        "MOVE_RAINDANCE",
-        "MOVE_SAFEGUARD",
-        "MOVE_FRUSTRATION",
-        "MOVE_THUNDERBOLT",
-        "MOVE_THUNDER",
-        "MOVE_RETURN",
-        "MOVE_PSYCHIC",
-        "MOVE_SHADOWBALL",
-        "MOVE_DOUBLETEAM",
-        "MOVE_REFLECT",
-        "MOVE_SHOCKWAVE",
-        "MOVE_SANDSTORM",
-        "MOVE_AERIALACE",
-        "MOVE_FACADE",
-        "MOVE_SECRETPOWER",
-        "MOVE_REST",
-        "MOVE_SKILLSWAP",
-        "MOVE_ENERGYBALL",
-        "MOVE_CHARGEBEAM",
-        "MOVE_ENDURE",
-        "MOVE_DRAINPUNCH",
-        "MOVE_RECYCLE",
-        "MOVE_GIGAIMPACT",
-        "MOVE_FLASH",
-        "MOVE_THUNDERWAVE",
-        "MOVE_STEALTHROCK",
-        "MOVE_SLEEPTALK",
-        "MOVE_DREAMEATER",
-        "MOVE_GRASSKNOT",
-        "MOVE_SWAGGER",
-        "MOVE_UTURN",
-        "MOVE_SUBSTITUTE",
-        "MOVE_FLASHCANNON",
-        "MOVE_POWERUPPUNCH",
-        "MOVE_DAZZLINGGLEAM",
-        "MOVE_PSYSHOCK",
-        "MOVE_ROUND",
-        "MOVE_NATURALGIFT",
-        "MOVE_TRICKROOM",
-        "MOVE_FLING"
-    ],
-    "tutor": [
-        "MOVE_FIREPUNCH",
-        "MOVE_ICEPUNCH",
-        "MOVE_THUNDERPUNCH",
-        "MOVE_SNORE",
-        "MOVE_UPROAR",
-        "MOVE_HELPINGHAND",
-        "MOVE_SIGNALBEAM",
-        "MOVE_GRAVITY",
-        "MOVE_IRONDEFENSE",
-        "MOVE_TELEKINESIS",
-        "MOVE_IRONHEAD",
-        "MOVE_ICYWIND",
-        "MOVE_ZENHEADBUTT",
-        "MOVE_TRICK",
-        "MOVE_MAGICCOAT",
-        "MOVE_MAGICROOM",
-        "MOVE_PSYCHUP",
-        "MOVE_LASTRESORT",
-        "MOVE_CONFIDE",
-        "MOVE_COSMICPOWER",
-        "MOVE_BATONPASS",
-        "MOVE_ENCORE",
-        "MOVE_BODYSLAM",
-        "MOVE_STOREDPOWER",
-        "MOVE_AURASPHERE",
-        "MOVE_PLAYROUGH",
-        "MOVE_EXPANDINGFORCE",
-        "MOVE_METEORBEAM"
-    ]
+    "JIRACHI": {
+        "baseHP": 100,
+        "baseAttack": 100,
+        "baseDefense": 100,
+        "baseSpAttack": 100,
+        "baseSpDefense": 100,
+        "baseSpeed": 100,
+        "type1": "TYPE_STEEL",
+        "type2": "TYPE_PSYCHIC",
+        "catchRate": 8,
+        "expYield": 215,
+        "evYield_HP": 3,
+        "evYield_Attack": 0,
+        "evYield_Defense": 0,
+        "evYield_SpAttack": 0,
+        "evYield_SpDefense": 0,
+        "evYield_Speed": 0,
+        "item1": "ITEM_STAR_PIECE",
+        "item2": "ITEM_STAR_PIECE",
+        "genderRatio": "MON_GENDERLESS",
+        "eggCycles": 120,
+        "friendship": 100,
+        "growthRate": "GROWTH_SLOW",
+        "eggGroup1": "EGG_GROUP_UNDISCOVERED",
+        "eggGroup2": "EGG_GROUP_UNDISCOVERED",
+        "ability1": "ABILITY_SERENEGRACE",
+        "ability2": "ABILITY_NONE",
+        "safariZoneFleeRate": 0,
+        "hiddenAbility": "ABILITY_SUPERLUCK",
+        "noFlip": true,
+        "evolve_from": [],
+        "learnset": [
+            {
+                "level": 1,
+                "move": "MOVE_DRACOMETEOR"
+            },
+            {
+                "level": 1,
+                "move": "MOVE_HAPPYHOUR"
+            },
+            {
+                "level": 1,
+                "move": "MOVE_CONFUSION"
+            },
+            {
+                "level": 1,
+                "move": "MOVE_WISH"
+            },
+            {
+                "level": 1,
+                "move": "MOVE_SWIFT"
+            },
+            {
+                "level": 14,
+                "move": "MOVE_HELPINGHAND"
+            },
+            {
+                "level": 20,
+                "move": "MOVE_LIFEDEW"
+            },
+            {
+                "level": 26,
+                "move": "MOVE_MISTBALL"
+            },
+            {
+                "level": 26,
+                "move": "MOVE_ZENHEADBUTT"
+            },
+            {
+                "level": 32,
+                "move": "MOVE_REFRESH"
+            },
+            {
+                "level": 32,
+                "move": "MOVE_LUCKYCHANT"
+            },
+            {
+                "level": 38,
+                "move": "MOVE_GRAVITY"
+            },
+            {
+                "level": 44,
+                "move": "MOVE_PSYCHIC"
+            },
+            {
+                "level": 50,
+                "move": "MOVE_METEORMASH"
+            },
+            {
+                "level": 56,
+                "move": "MOVE_COSMICPOWER"
+            },
+            {
+                "level": 62,
+                "move": "MOVE_DOUBLEEDGE"
+            },
+            {
+                "level": 68,
+                "move": "MOVE_FUTURESIGHT"
+            },
+            {
+                "level": 75,
+                "move": "MOVE_REST"
+            },
+            {
+                "level": 82,
+                "move": "MOVE_HEALINGWISH"
+            },
+            {
+                "level": 89,
+                "move": "MOVE_LASTRESORT"
+            },
+            {
+                "level": 96,
+                "move": "MOVE_DOOMDESIRE"
+            }
+        ],
+        "tm": [
+            "MOVE_WATERPULSE",
+            "MOVE_CALMMIND",
+            "MOVE_TOXIC",
+            "MOVE_HIDDENPOWER",
+            "MOVE_SUNNYDAY",
+            "MOVE_HYPERBEAM",
+            "MOVE_LIGHTSCREEN",
+            "MOVE_PROTECT",
+            "MOVE_RAINDANCE",
+            "MOVE_SAFEGUARD",
+            "MOVE_FRUSTRATION",
+            "MOVE_THUNDERBOLT",
+            "MOVE_THUNDER",
+            "MOVE_RETURN",
+            "MOVE_PSYCHIC",
+            "MOVE_SHADOWBALL",
+            "MOVE_DOUBLETEAM",
+            "MOVE_REFLECT",
+            "MOVE_SHOCKWAVE",
+            "MOVE_SANDSTORM",
+            "MOVE_AERIALACE",
+            "MOVE_FACADE",
+            "MOVE_SECRETPOWER",
+            "MOVE_REST",
+            "MOVE_SKILLSWAP",
+            "MOVE_ENERGYBALL",
+            "MOVE_CHARGEBEAM",
+            "MOVE_ENDURE",
+            "MOVE_DRAINPUNCH",
+            "MOVE_RECYCLE",
+            "MOVE_GIGAIMPACT",
+            "MOVE_FLASH",
+            "MOVE_THUNDERWAVE",
+            "MOVE_STEALTHROCK",
+            "MOVE_SLEEPTALK",
+            "MOVE_DREAMEATER",
+            "MOVE_GRASSKNOT",
+            "MOVE_SWAGGER",
+            "MOVE_UTURN",
+            "MOVE_SUBSTITUTE",
+            "MOVE_FLASHCANNON",
+            "MOVE_POWERUPPUNCH",
+            "MOVE_DAZZLINGGLEAM",
+            "MOVE_PSYSHOCK",
+            "MOVE_ROUND",
+            "MOVE_NATURALGIFT",
+            "MOVE_TRICKROOM",
+            "MOVE_FLING"
+        ],
+        "tutor": [
+            "MOVE_FIREPUNCH",
+            "MOVE_ICEPUNCH",
+            "MOVE_THUNDERPUNCH",
+            "MOVE_SNORE",
+            "MOVE_UPROAR",
+            "MOVE_HELPINGHAND",
+            "MOVE_SIGNALBEAM",
+            "MOVE_GRAVITY",
+            "MOVE_IRONDEFENSE",
+            "MOVE_TELEKINESIS",
+            "MOVE_IRONHEAD",
+            "MOVE_ICYWIND",
+            "MOVE_ZENHEADBUTT",
+            "MOVE_TRICK",
+            "MOVE_MAGICCOAT",
+            "MOVE_MAGICROOM",
+            "MOVE_PSYCHUP",
+            "MOVE_LASTRESORT",
+            "MOVE_CONFIDE",
+            "MOVE_COSMICPOWER",
+            "MOVE_BATONPASS",
+            "MOVE_ENCORE",
+            "MOVE_BODYSLAM",
+            "MOVE_STOREDPOWER",
+            "MOVE_AURASPHERE",
+            "MOVE_PLAYROUGH",
+            "MOVE_EXPANDINGFORCE",
+            "MOVE_METEORBEAM"
+        ]
+    }
 }

@@ -1,187 +1,176 @@
 {
-    "baseHP": 100,
-    "baseAttack": 100,
-    "baseDefense": 100,
-    "baseSpAttack": 100,
-    "baseSpDefense": 100,
-    "baseSpeed": 100,
-    "type1": "TYPE_PSYCHIC",
-    "type2": "TYPE_GRASS",
-    "catchRate": 45,
-    "expYield": 215,
-    "evYield_HP": 3,
-    "evYield_Attack": 0,
-    "evYield_Defense": 0,
-    "evYield_SpAttack": 0,
-    "evYield_SpDefense": 0,
-    "evYield_Speed": 0,
-    "item1": "ITEM_LUM_BERRY",
-    "item2": "ITEM_LUM_BERRY",
-    "genderRatio": "MON_GENDERLESS",
-    "eggCycles": 120,
-    "friendship": 100,
-    "growthRate": "GROWTH_MEDIUM_SLOW",
-    "eggGroup1": "EGG_GROUP_UNDISCOVERED",
-    "eggGroup2": "EGG_GROUP_UNDISCOVERED",
-    "ability1": "ABILITY_NATURALCURE",
-    "ability2": "ABILITY_NONE",
-    "safariZoneFleeRate": 0,
-    "hiddenAbility": "ABILITY_REGENERATOR",
-    "noFlip": true,
-    "name": "Celebi",
-    "evolve_from": [],
-    "location": [
-        {
-            "route": "Route 14",
-            "area": "",
-            "method": "Good Rod"
-        },
-        {
-            "route": "Route 14",
-            "area": "",
-            "method": "Super Rod"
-        }
-    ],
-    "learnset": [
-        {
-            "level": 1,
-            "move": "MOVE_CONFUSION"
-        },
-        {
-            "level": 1,
-            "move": "MOVE_HEALBELL"
-        },
-        {
-            "level": 8,
-            "move": "MOVE_MAGICALLEAF"
-        },
-        {
-            "level": 16,
-            "move": "MOVE_BATONPASS"
-        },
-        {
-            "level": 24,
-            "move": "MOVE_ANCIENTPOWER"
-        },
-        {
-            "level": 32,
-            "move": "MOVE_SAFEGUARD"
-        },
-        {
-            "level": 40,
-            "move": "MOVE_LIFEDEW"
-        },
-        {
-            "level": 48,
-            "move": "MOVE_LEECHSEED"
-        },
-        {
-            "level": 56,
-            "move": "MOVE_RECOVER"
-        },
-        {
-            "level": 64,
-            "move": "MOVE_FUTURESIGHT"
-        },
-        {
-            "level": 72,
-            "move": "MOVE_HEALBLOCK"
-        },
-        {
-            "level": 80,
-            "move": "MOVE_HEALINGWISH"
-        },
-        {
-            "level": 88,
-            "move": "MOVE_LEAFSTORM"
-        },
-        {
-            "level": 96,
-            "move": "MOVE_PERISHSONG"
-        }
-    ],
-    "tm": [
-        "MOVE_WATERPULSE",
-        "MOVE_CALMMIND",
-        "MOVE_HIDDENPOWER",
-        "MOVE_SUNNYDAY",
-        "MOVE_HYPERBEAM",
-        "MOVE_LIGHTSCREEN",
-        "MOVE_PROTECT",
-        "MOVE_RAINDANCE",
-        "MOVE_GIGADRAIN",
-        "MOVE_SAFEGUARD",
-        "MOVE_FRUSTRATION",
-        "MOVE_SOLARBEAM",
-        "MOVE_RETURN",
-        "MOVE_PSYCHIC",
-        "MOVE_SHADOWBALL",
-        "MOVE_DOUBLETEAM",
-        "MOVE_REFLECT",
-        "MOVE_SHOCKWAVE",
-        "MOVE_SANDSTORM",
-        "MOVE_AERIALACE",
-        "MOVE_FACADE",
-        "MOVE_SECRETPOWER",
-        "MOVE_REST",
-        "MOVE_SKILLSWAP",
-        "MOVE_ENERGYBALL",
-        "MOVE_CHARGEBEAM",
-        "MOVE_ENDURE",
-        "MOVE_SILVERWIND",
-        "MOVE_GIGAIMPACT",
-        "MOVE_FLASH",
-        "MOVE_THUNDERWAVE",
-        "MOVE_SWORDSDANCE",
-        "MOVE_STEALTHROCK",
-        "MOVE_SLEEPTALK",
-        "MOVE_DREAMEATER",
-        "MOVE_GRASSKNOT",
-        "MOVE_SWAGGER",
-        "MOVE_UTURN",
-        "MOVE_SUBSTITUTE",
-        "MOVE_DAZZLINGGLEAM",
-        "MOVE_ROUND",
-        "MOVE_ECHOEDVOICE",
-        "MOVE_NATURALGIFT",
-        "MOVE_TRICKROOM",
-        "MOVE_FLING",
-        "MOVE_NATUREPOWER",
-        "MOVE_CUT"
-    ],
-    "tutor": [
-        "MOVE_SNORE",
-        "MOVE_HEALBELL",
-        "MOVE_UPROAR",
-        "MOVE_HELPINGHAND",
-        "MOVE_WORRYSEED",
-        "MOVE_SYNTHESIS",
-        "MOVE_SIGNALBEAM",
-        "MOVE_TELEKINESIS",
-        "MOVE_ZENHEADBUTT",
-        "MOVE_SEEDBOMB",
-        "MOVE_LASERFOCUS",
-        "MOVE_TRICK",
-        "MOVE_MAGICCOAT",
-        "MOVE_MAGICROOM",
-        "MOVE_WONDERROOM",
-        "MOVE_EARTHPOWER",
-        "MOVE_PSYCHUP",
-        "MOVE_LASTRESORT",
-        "MOVE_CONFIDE",
-        "MOVE_BATONPASS",
-        "MOVE_NASTYPLOT",
-        "MOVE_GRASSYTERRAIN",
-        "MOVE_PSYCHICTERRAIN",
-        "MOVE_WEATHERBALL",
-        "MOVE_AURASPHERE",
-        "MOVE_LEAFBLADE",
-        "MOVE_POLLENPUFF",
-        "MOVE_PSYCHOCUT",
-        "MOVE_LEAFSTORM",
-        "MOVE_SOLARBLADE",
-        "MOVE_EXPANDINGFORCE",
-        "MOVE_GRASSYGLIDE",
-        "MOVE_DUALWINGBEAT"
-    ]
+    "CELEBI": {
+        "baseHP": 100,
+        "baseAttack": 100,
+        "baseDefense": 100,
+        "baseSpAttack": 100,
+        "baseSpDefense": 100,
+        "baseSpeed": 100,
+        "type1": "TYPE_PSYCHIC",
+        "type2": "TYPE_GRASS",
+        "catchRate": 45,
+        "expYield": 215,
+        "evYield_HP": 3,
+        "evYield_Attack": 0,
+        "evYield_Defense": 0,
+        "evYield_SpAttack": 0,
+        "evYield_SpDefense": 0,
+        "evYield_Speed": 0,
+        "item1": "ITEM_LUM_BERRY",
+        "item2": "ITEM_LUM_BERRY",
+        "genderRatio": "MON_GENDERLESS",
+        "eggCycles": 120,
+        "friendship": 100,
+        "growthRate": "GROWTH_MEDIUM_SLOW",
+        "eggGroup1": "EGG_GROUP_UNDISCOVERED",
+        "eggGroup2": "EGG_GROUP_UNDISCOVERED",
+        "ability1": "ABILITY_NATURALCURE",
+        "ability2": "ABILITY_NONE",
+        "safariZoneFleeRate": 0,
+        "hiddenAbility": "ABILITY_REGENERATOR",
+        "noFlip": true,
+        "evolve_from": [],
+        "learnset": [
+            {
+                "level": 1,
+                "move": "MOVE_CONFUSION"
+            },
+            {
+                "level": 1,
+                "move": "MOVE_HEALBELL"
+            },
+            {
+                "level": 8,
+                "move": "MOVE_MAGICALLEAF"
+            },
+            {
+                "level": 16,
+                "move": "MOVE_BATONPASS"
+            },
+            {
+                "level": 24,
+                "move": "MOVE_ANCIENTPOWER"
+            },
+            {
+                "level": 32,
+                "move": "MOVE_SAFEGUARD"
+            },
+            {
+                "level": 40,
+                "move": "MOVE_LIFEDEW"
+            },
+            {
+                "level": 48,
+                "move": "MOVE_LEECHSEED"
+            },
+            {
+                "level": 56,
+                "move": "MOVE_RECOVER"
+            },
+            {
+                "level": 64,
+                "move": "MOVE_FUTURESIGHT"
+            },
+            {
+                "level": 72,
+                "move": "MOVE_HEALBLOCK"
+            },
+            {
+                "level": 80,
+                "move": "MOVE_HEALINGWISH"
+            },
+            {
+                "level": 88,
+                "move": "MOVE_LEAFSTORM"
+            },
+            {
+                "level": 96,
+                "move": "MOVE_PERISHSONG"
+            }
+        ],
+        "tm": [
+            "MOVE_WATERPULSE",
+            "MOVE_CALMMIND",
+            "MOVE_HIDDENPOWER",
+            "MOVE_SUNNYDAY",
+            "MOVE_HYPERBEAM",
+            "MOVE_LIGHTSCREEN",
+            "MOVE_PROTECT",
+            "MOVE_RAINDANCE",
+            "MOVE_GIGADRAIN",
+            "MOVE_SAFEGUARD",
+            "MOVE_FRUSTRATION",
+            "MOVE_SOLARBEAM",
+            "MOVE_RETURN",
+            "MOVE_PSYCHIC",
+            "MOVE_SHADOWBALL",
+            "MOVE_DOUBLETEAM",
+            "MOVE_REFLECT",
+            "MOVE_SHOCKWAVE",
+            "MOVE_SANDSTORM",
+            "MOVE_AERIALACE",
+            "MOVE_FACADE",
+            "MOVE_SECRETPOWER",
+            "MOVE_REST",
+            "MOVE_SKILLSWAP",
+            "MOVE_ENERGYBALL",
+            "MOVE_CHARGEBEAM",
+            "MOVE_ENDURE",
+            "MOVE_SILVERWIND",
+            "MOVE_GIGAIMPACT",
+            "MOVE_FLASH",
+            "MOVE_THUNDERWAVE",
+            "MOVE_SWORDSDANCE",
+            "MOVE_STEALTHROCK",
+            "MOVE_SLEEPTALK",
+            "MOVE_DREAMEATER",
+            "MOVE_GRASSKNOT",
+            "MOVE_SWAGGER",
+            "MOVE_UTURN",
+            "MOVE_SUBSTITUTE",
+            "MOVE_DAZZLINGGLEAM",
+            "MOVE_ROUND",
+            "MOVE_ECHOEDVOICE",
+            "MOVE_NATURALGIFT",
+            "MOVE_TRICKROOM",
+            "MOVE_FLING",
+            "MOVE_NATUREPOWER",
+            "MOVE_CUT"
+        ],
+        "tutor": [
+            "MOVE_SNORE",
+            "MOVE_HEALBELL",
+            "MOVE_UPROAR",
+            "MOVE_HELPINGHAND",
+            "MOVE_WORRYSEED",
+            "MOVE_SYNTHESIS",
+            "MOVE_SIGNALBEAM",
+            "MOVE_TELEKINESIS",
+            "MOVE_ZENHEADBUTT",
+            "MOVE_SEEDBOMB",
+            "MOVE_LASERFOCUS",
+            "MOVE_TRICK",
+            "MOVE_MAGICCOAT",
+            "MOVE_MAGICROOM",
+            "MOVE_WONDERROOM",
+            "MOVE_EARTHPOWER",
+            "MOVE_PSYCHUP",
+            "MOVE_LASTRESORT",
+            "MOVE_CONFIDE",
+            "MOVE_BATONPASS",
+            "MOVE_NASTYPLOT",
+            "MOVE_GRASSYTERRAIN",
+            "MOVE_PSYCHICTERRAIN",
+            "MOVE_WEATHERBALL",
+            "MOVE_AURASPHERE",
+            "MOVE_LEAFBLADE",
+            "MOVE_POLLENPUFF",
+            "MOVE_PSYCHOCUT",
+            "MOVE_LEAFSTORM",
+            "MOVE_SOLARBLADE",
+            "MOVE_EXPANDINGFORCE",
+            "MOVE_GRASSYGLIDE",
+            "MOVE_DUALWINGBEAT"
+        ]
+    }
 }

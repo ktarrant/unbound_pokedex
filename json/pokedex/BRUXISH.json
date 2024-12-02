@@ -1,178 +1,157 @@
 {
-    "baseHP": 68,
-    "baseAttack": 105,
-    "baseDefense": 70,
-    "baseSpAttack": 70,
-    "baseSpDefense": 70,
-    "baseSpeed": 92,
-    "type1": "TYPE_WATER",
-    "type2": "TYPE_PSYCHIC",
-    "catchRate": 80,
-    "expYield": 173,
-    "evYield_HP": 0,
-    "evYield_Attack": 2,
-    "evYield_Defense": 0,
-    "evYield_SpAttack": 0,
-    "evYield_SpDefense": 0,
-    "evYield_Speed": 0,
-    "item1": "ITEM_NONE",
-    "item2": "ITEM_RAZOR_FANG",
-    "genderRatio": 50.0,
-    "eggCycles": 25,
-    "friendship": 50,
-    "growthRate": "GROWTH_MEDIUM_SLOW",
-    "eggGroup1": "EGG_GROUP_WATER_2",
-    "eggGroup2": "EGG_GROUP_WATER_2",
-    "ability1": "ABILITY_DAZZLING",
-    "ability2": "ABILITY_STRONGJAW",
-    "safariZoneFleeRate": 0,
-    "hiddenAbility": "ABILITY_WONDERSKIN",
-    "noFlip": true,
-    "egg_moves": [
-        "MOVE_WATERPULSE",
-        "MOVE_POISONFANG",
-        "MOVE_ICEFANG",
-        "MOVE_RAGE"
-    ],
-    "blurb": "Its skin is thick enough to fend off spikes. With its robust teeth, it crunches up and eats the spikes.",
-    "name": "Bruxish",
-    "evolve_from": [],
-    "location": [
-        {
-            "route": "Route 9 + Autl Woods",
-            "area": "",
-            "method": "Super Rod"
-        },
-        {
-            "route": "Route 10",
-            "area": "",
-            "method": "Super Rod"
-        },
-        {
-            "route": "Auburn Waterway",
-            "area": "",
-            "method": "Super Rod"
-        },
-        {
-            "route": "Victory Road",
-            "area": "Maze Area",
-            "method": "Super Rod"
-        }
-    ],
-    "learnset": [
-        {
-            "level": 1,
-            "move": "MOVE_WATERGUN"
-        },
-        {
-            "level": 4,
-            "move": "MOVE_ASTONISH"
-        },
-        {
-            "level": 9,
-            "move": "MOVE_CONFUSION"
-        },
-        {
-            "level": 12,
-            "move": "MOVE_BITE"
-        },
-        {
-            "level": 17,
-            "move": "MOVE_AQUAJET"
-        },
-        {
-            "level": 20,
-            "move": "MOVE_DISABLE"
-        },
-        {
-            "level": 25,
-            "move": "MOVE_PSYWAVE"
-        },
-        {
-            "level": 28,
-            "move": "MOVE_CRUNCH"
-        },
-        {
-            "level": 33,
-            "move": "MOVE_AQUATAIL"
-        },
-        {
-            "level": 36,
-            "move": "MOVE_SCREECH"
-        },
-        {
-            "level": 41,
-            "move": "MOVE_PSYCHICFANGS"
-        },
-        {
-            "level": 44,
-            "move": "MOVE_SYNCHRONOISE"
-        }
-    ],
-    "tm": [
-        "MOVE_WATERPULSE",
-        "MOVE_CALMMIND",
-        "MOVE_TOXIC",
-        "MOVE_BULKUP",
-        "MOVE_HIDDENPOWER",
-        "MOVE_TAUNT",
-        "MOVE_ICEBEAM",
-        "MOVE_BLIZZARD",
-        "MOVE_LIGHTSCREEN",
-        "MOVE_PROTECT",
-        "MOVE_RAINDANCE",
-        "MOVE_SAFEGUARD",
-        "MOVE_FRUSTRATION",
-        "MOVE_IRONTAIL",
-        "MOVE_RETURN",
-        "MOVE_PSYCHIC",
-        "MOVE_DOUBLETEAM",
-        "MOVE_REFLECT",
-        "MOVE_AERIALACE",
-        "MOVE_TORMENT",
-        "MOVE_FACADE",
-        "MOVE_SECRETPOWER",
-        "MOVE_REST",
-        "MOVE_ATTRACT",
-        "MOVE_ENDURE",
-        "MOVE_VENOSHOCK",
-        "MOVE_PAYBACK",
-        "MOVE_GIGAIMPACT",
-        "MOVE_FLASH",
-        "MOVE_SWORDSDANCE",
-        "MOVE_SLEEPTALK",
-        "MOVE_SCALD",
-        "MOVE_DREAMEATER",
-        "MOVE_SWAGGER",
-        "MOVE_PLUCK",
-        "MOVE_SUBSTITUTE",
-        "MOVE_FROSTBREATH",
-        "MOVE_ROUND",
-        "MOVE_NATURALGIFT",
-        "MOVE_TRICKROOM",
-        "MOVE_FLING",
-        "MOVE_SURF",
-        "MOVE_WATERFALL"
-    ],
-    "tutor": [
-        "MOVE_SNORE",
-        "MOVE_UPROAR",
-        "MOVE_SNATCH",
-        "MOVE_AFTERYOU",
-        "MOVE_SIGNALBEAM",
-        "MOVE_TELEKINESIS",
-        "MOVE_AQUATAIL",
-        "MOVE_PAINSPLIT",
-        "MOVE_MAGICCOAT",
-        "MOVE_MAGICROOM",
-        "MOVE_WONDERROOM",
-        "MOVE_LIQUIDATION",
-        "MOVE_CONFIDE",
-        "MOVE_SCREECH",
-        "MOVE_ICEFANG",
-        "MOVE_CRUNCH",
-        "MOVE_PSYCHICFANGS",
-        "MOVE_EXPANDINGFORCE",
-        "MOVE_SCALESHOT"
-    ]
+    "BRUXISH": {
+        "blurb": "Its skin is thick enough to fend off spikes. With its robust teeth, it crunches up and eats the spikes.",
+        "baseHP": 68,
+        "baseAttack": 105,
+        "baseDefense": 70,
+        "baseSpAttack": 70,
+        "baseSpDefense": 70,
+        "baseSpeed": 92,
+        "type1": "TYPE_WATER",
+        "type2": "TYPE_PSYCHIC",
+        "catchRate": 80,
+        "expYield": 173,
+        "evYield_HP": 0,
+        "evYield_Attack": 2,
+        "evYield_Defense": 0,
+        "evYield_SpAttack": 0,
+        "evYield_SpDefense": 0,
+        "evYield_Speed": 0,
+        "item1": "ITEM_NONE",
+        "item2": "ITEM_RAZOR_FANG",
+        "genderRatio": 50.0,
+        "eggCycles": 25,
+        "friendship": 50,
+        "growthRate": "GROWTH_MEDIUM_SLOW",
+        "eggGroup1": "EGG_GROUP_WATER_2",
+        "eggGroup2": "EGG_GROUP_WATER_2",
+        "ability1": "ABILITY_DAZZLING",
+        "ability2": "ABILITY_STRONGJAW",
+        "safariZoneFleeRate": 0,
+        "hiddenAbility": "ABILITY_WONDERSKIN",
+        "noFlip": true,
+        "evolve_from": [],
+        "egg_moves": [
+            "MOVE_WATERPULSE",
+            "MOVE_POISONFANG",
+            "MOVE_ICEFANG",
+            "MOVE_RAGE"
+        ],
+        "learnset": [
+            {
+                "level": 1,
+                "move": "MOVE_WATERGUN"
+            },
+            {
+                "level": 4,
+                "move": "MOVE_ASTONISH"
+            },
+            {
+                "level": 9,
+                "move": "MOVE_CONFUSION"
+            },
+            {
+                "level": 12,
+                "move": "MOVE_BITE"
+            },
+            {
+                "level": 17,
+                "move": "MOVE_AQUAJET"
+            },
+            {
+                "level": 20,
+                "move": "MOVE_DISABLE"
+            },
+            {
+                "level": 25,
+                "move": "MOVE_PSYWAVE"
+            },
+            {
+                "level": 28,
+                "move": "MOVE_CRUNCH"
+            },
+            {
+                "level": 33,
+                "move": "MOVE_AQUATAIL"
+            },
+            {
+                "level": 36,
+                "move": "MOVE_SCREECH"
+            },
+            {
+                "level": 41,
+                "move": "MOVE_PSYCHICFANGS"
+            },
+            {
+                "level": 44,
+                "move": "MOVE_SYNCHRONOISE"
+            }
+        ],
+        "tm": [
+            "MOVE_WATERPULSE",
+            "MOVE_CALMMIND",
+            "MOVE_TOXIC",
+            "MOVE_BULKUP",
+            "MOVE_HIDDENPOWER",
+            "MOVE_TAUNT",
+            "MOVE_ICEBEAM",
+            "MOVE_BLIZZARD",
+            "MOVE_LIGHTSCREEN",
+            "MOVE_PROTECT",
+            "MOVE_RAINDANCE",
+            "MOVE_SAFEGUARD",
+            "MOVE_FRUSTRATION",
+            "MOVE_IRONTAIL",
+            "MOVE_RETURN",
+            "MOVE_PSYCHIC",
+            "MOVE_DOUBLETEAM",
+            "MOVE_REFLECT",
+            "MOVE_AERIALACE",
+            "MOVE_TORMENT",
+            "MOVE_FACADE",
+            "MOVE_SECRETPOWER",
+            "MOVE_REST",
+            "MOVE_ATTRACT",
+            "MOVE_ENDURE",
+            "MOVE_VENOSHOCK",
+            "MOVE_PAYBACK",
+            "MOVE_GIGAIMPACT",
+            "MOVE_FLASH",
+            "MOVE_SWORDSDANCE",
+            "MOVE_SLEEPTALK",
+            "MOVE_SCALD",
+            "MOVE_DREAMEATER",
+            "MOVE_SWAGGER",
+            "MOVE_PLUCK",
+            "MOVE_SUBSTITUTE",
+            "MOVE_FROSTBREATH",
+            "MOVE_ROUND",
+            "MOVE_NATURALGIFT",
+            "MOVE_TRICKROOM",
+            "MOVE_FLING",
+            "MOVE_SURF",
+            "MOVE_WATERFALL"
+        ],
+        "tutor": [
+            "MOVE_SNORE",
+            "MOVE_UPROAR",
+            "MOVE_SNATCH",
+            "MOVE_AFTERYOU",
+            "MOVE_SIGNALBEAM",
+            "MOVE_TELEKINESIS",
+            "MOVE_AQUATAIL",
+            "MOVE_PAINSPLIT",
+            "MOVE_MAGICCOAT",
+            "MOVE_MAGICROOM",
+            "MOVE_WONDERROOM",
+            "MOVE_LIQUIDATION",
+            "MOVE_CONFIDE",
+            "MOVE_SCREECH",
+            "MOVE_ICEFANG",
+            "MOVE_CRUNCH",
+            "MOVE_PSYCHICFANGS",
+            "MOVE_EXPANDINGFORCE",
+            "MOVE_SCALESHOT"
+        ]
+    }
 }

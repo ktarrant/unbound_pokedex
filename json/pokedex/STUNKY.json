@@ -1,196 +1,197 @@
 {
-    "baseHP": 63,
-    "baseAttack": 63,
-    "baseDefense": 47,
-    "baseSpAttack": 41,
-    "baseSpDefense": 41,
-    "baseSpeed": 74,
-    "type1": "TYPE_POISON",
-    "type2": "TYPE_DARK",
-    "catchRate": 225,
-    "expYield": 79,
-    "evYield_HP": 0,
-    "evYield_Attack": 0,
-    "evYield_Defense": 0,
-    "evYield_SpAttack": 0,
-    "evYield_SpDefense": 0,
-    "evYield_Speed": 1,
-    "item1": "ITEM_NONE",
-    "item2": "ITEM_PECHA_BERRY",
-    "genderRatio": 50.0,
-    "eggCycles": 20,
-    "friendship": 50,
-    "growthRate": "GROWTH_MEDIUM_FAST",
-    "eggGroup1": "EGG_GROUP_FIELD",
-    "eggGroup2": "EGG_GROUP_FIELD",
-    "ability1": "ABILITY_STENCH",
-    "ability2": "ABILITY_AFTERMATH",
-    "safariZoneFleeRate": 0,
-    "hiddenAbility": "ABILITY_KEENEYE",
-    "noFlip": true,
-    "egg_moves": [
-        "MOVE_PURSUIT",
-        "MOVE_LEER",
-        "MOVE_SMOG",
-        "MOVE_DOUBLEEDGE",
-        "MOVE_CRUNCH",
-        "MOVE_SCARYFACE",
-        "MOVE_ASTONISH",
-        "MOVE_PUNISHMENT",
-        "MOVE_HAZE",
-        "MOVE_IRONTAIL",
-        "MOVE_FOULPLAY",
-        "MOVE_FLAMEBURST",
-        "MOVE_PLAYROUGH",
-        "MOVE_MEMENTO"
-    ],
-    "evolve_to": [
-        {
-            "method": "EVO_LEVEL",
-            "condition": "34",
-            "target": "SKUNTANK",
-            "extra": "0"
-        }
-    ],
-    "blurb": "It sprays a nose-curling, stinky fluid from its rear to repel attackers.",
-    "name": "Stunky",
-    "evolve_from": [],
-    "learnset": [
-        {
-            "level": 1,
-            "move": "MOVE_POISONGAS"
-        },
-        {
-            "level": 1,
-            "move": "MOVE_SCRATCH"
-        },
-        {
-            "level": 3,
-            "move": "MOVE_FEINT"
-        },
-        {
-            "level": 6,
-            "move": "MOVE_SMOKESCREEN"
-        },
-        {
-            "level": 9,
-            "move": "MOVE_ACIDSPRAY"
-        },
-        {
-            "level": 12,
-            "move": "MOVE_FURYSWIPES"
-        },
-        {
-            "level": 15,
-            "move": "MOVE_FOCUSENERGY"
-        },
-        {
-            "level": 18,
-            "move": "MOVE_BITE"
-        },
-        {
-            "level": 21,
-            "move": "MOVE_VENOSHOCK"
-        },
-        {
-            "level": 24,
-            "move": "MOVE_SCREECH"
-        },
-        {
-            "level": 25,
-            "move": "MOVE_SLASH"
-        },
-        {
-            "level": 27,
-            "move": "MOVE_TOXIC"
-        },
-        {
-            "level": 30,
-            "move": "MOVE_SUCKERPUNCH"
-        },
-        {
-            "level": 33,
-            "move": "MOVE_DIRECLAW"
-        },
-        {
-            "level": 36,
-            "move": "MOVE_NIGHTSLASH"
-        },
-        {
-            "level": 39,
-            "move": "MOVE_VENOMDRENCH"
-        },
-        {
-            "level": 42,
-            "move": "MOVE_SLUDGEBOMB"
-        },
-        {
-            "level": 45,
-            "move": "MOVE_BELCH"
-        },
-        {
-            "level": 48,
-            "move": "MOVE_EXPLOSION"
-        }
-    ],
-    "tm": [
-        "MOVE_ROAR",
-        "MOVE_TOXIC",
-        "MOVE_HIDDENPOWER",
-        "MOVE_SUNNYDAY",
-        "MOVE_TAUNT",
-        "MOVE_PROTECT",
-        "MOVE_RAINDANCE",
-        "MOVE_FRUSTRATION",
-        "MOVE_IRONTAIL",
-        "MOVE_RETURN",
-        "MOVE_DIG",
-        "MOVE_SHADOWBALL",
-        "MOVE_DOUBLETEAM",
-        "MOVE_FLAMETHROWER",
-        "MOVE_SLUDGEBOMB",
-        "MOVE_FIREBLAST",
-        "MOVE_TORMENT",
-        "MOVE_FACADE",
-        "MOVE_SECRETPOWER",
-        "MOVE_REST",
-        "MOVE_ATTRACT",
-        "MOVE_THIEF",
-        "MOVE_HONECLAWS",
-        "MOVE_ENDURE",
-        "MOVE_VENOSHOCK",
-        "MOVE_EXPLOSION",
-        "MOVE_SHADOWCLAW",
-        "MOVE_PAYBACK",
-        "MOVE_DARKPULSE",
-        "MOVE_SLEEPTALK",
-        "MOVE_POISONJAB",
-        "MOVE_SWAGGER",
-        "MOVE_SUBSTITUTE",
-        "MOVE_INCINERATE",
-        "MOVE_SNARL",
-        "MOVE_DEFOG",
-        "MOVE_ROUND",
-        "MOVE_NATURALGIFT",
-        "MOVE_CUT",
-        "MOVE_ROCKSMASH"
-    ],
-    "tutor": [
-        "MOVE_SNORE",
-        "MOVE_SNATCH",
-        "MOVE_FOULPLAY",
-        "MOVE_THROATCHOP",
-        "MOVE_CONFIDE",
-        "MOVE_FOCUSENERGY",
-        "MOVE_SCREECH",
-        "MOVE_SCARYFACE",
-        "MOVE_VENOMDRENCH",
-        "MOVE_NASTYPLOT",
-        "MOVE_TAILSLAP",
-        "MOVE_HEX",
-        "MOVE_CRUNCH",
-        "MOVE_PLAYROUGH",
-        "MOVE_LASHOUT",
-        "MOVE_CORROSIVEGAS"
-    ]
+    "STUNKY": {
+        "blurb": "It sprays a nose-curling, stinky fluid from its rear to repel attackers.",
+        "baseHP": 63,
+        "baseAttack": 63,
+        "baseDefense": 47,
+        "baseSpAttack": 41,
+        "baseSpDefense": 41,
+        "baseSpeed": 74,
+        "type1": "TYPE_POISON",
+        "type2": "TYPE_DARK",
+        "catchRate": 225,
+        "expYield": 79,
+        "evYield_HP": 0,
+        "evYield_Attack": 0,
+        "evYield_Defense": 0,
+        "evYield_SpAttack": 0,
+        "evYield_SpDefense": 0,
+        "evYield_Speed": 1,
+        "item1": "ITEM_NONE",
+        "item2": "ITEM_PECHA_BERRY",
+        "genderRatio": 50.0,
+        "eggCycles": 20,
+        "friendship": 50,
+        "growthRate": "GROWTH_MEDIUM_FAST",
+        "eggGroup1": "EGG_GROUP_FIELD",
+        "eggGroup2": "EGG_GROUP_FIELD",
+        "ability1": "ABILITY_STENCH",
+        "ability2": "ABILITY_AFTERMATH",
+        "safariZoneFleeRate": 0,
+        "hiddenAbility": "ABILITY_KEENEYE",
+        "noFlip": true,
+        "evolve_to": [
+            {
+                "method": "EVO_LEVEL",
+                "condition": "34",
+                "target": "SKUNTANK",
+                "extra": "0"
+            }
+        ],
+        "evolve_from": [],
+        "egg_moves": [
+            "MOVE_PURSUIT",
+            "MOVE_LEER",
+            "MOVE_SMOG",
+            "MOVE_DOUBLEEDGE",
+            "MOVE_CRUNCH",
+            "MOVE_SCARYFACE",
+            "MOVE_ASTONISH",
+            "MOVE_PUNISHMENT",
+            "MOVE_HAZE",
+            "MOVE_IRONTAIL",
+            "MOVE_FOULPLAY",
+            "MOVE_FLAMEBURST",
+            "MOVE_PLAYROUGH",
+            "MOVE_MEMENTO"
+        ],
+        "learnset": [
+            {
+                "level": 1,
+                "move": "MOVE_POISONGAS"
+            },
+            {
+                "level": 1,
+                "move": "MOVE_SCRATCH"
+            },
+            {
+                "level": 3,
+                "move": "MOVE_FEINT"
+            },
+            {
+                "level": 6,
+                "move": "MOVE_SMOKESCREEN"
+            },
+            {
+                "level": 9,
+                "move": "MOVE_ACIDSPRAY"
+            },
+            {
+                "level": 12,
+                "move": "MOVE_FURYSWIPES"
+            },
+            {
+                "level": 15,
+                "move": "MOVE_FOCUSENERGY"
+            },
+            {
+                "level": 18,
+                "move": "MOVE_BITE"
+            },
+            {
+                "level": 21,
+                "move": "MOVE_VENOSHOCK"
+            },
+            {
+                "level": 24,
+                "move": "MOVE_SCREECH"
+            },
+            {
+                "level": 25,
+                "move": "MOVE_SLASH"
+            },
+            {
+                "level": 27,
+                "move": "MOVE_TOXIC"
+            },
+            {
+                "level": 30,
+                "move": "MOVE_SUCKERPUNCH"
+            },
+            {
+                "level": 33,
+                "move": "MOVE_DIRECLAW"
+            },
+            {
+                "level": 36,
+                "move": "MOVE_NIGHTSLASH"
+            },
+            {
+                "level": 39,
+                "move": "MOVE_VENOMDRENCH"
+            },
+            {
+                "level": 42,
+                "move": "MOVE_SLUDGEBOMB"
+            },
+            {
+                "level": 45,
+                "move": "MOVE_BELCH"
+            },
+            {
+                "level": 48,
+                "move": "MOVE_EXPLOSION"
+            }
+        ],
+        "tm": [
+            "MOVE_ROAR",
+            "MOVE_TOXIC",
+            "MOVE_HIDDENPOWER",
+            "MOVE_SUNNYDAY",
+            "MOVE_TAUNT",
+            "MOVE_PROTECT",
+            "MOVE_RAINDANCE",
+            "MOVE_FRUSTRATION",
+            "MOVE_IRONTAIL",
+            "MOVE_RETURN",
+            "MOVE_DIG",
+            "MOVE_SHADOWBALL",
+            "MOVE_DOUBLETEAM",
+            "MOVE_FLAMETHROWER",
+            "MOVE_SLUDGEBOMB",
+            "MOVE_FIREBLAST",
+            "MOVE_TORMENT",
+            "MOVE_FACADE",
+            "MOVE_SECRETPOWER",
+            "MOVE_REST",
+            "MOVE_ATTRACT",
+            "MOVE_THIEF",
+            "MOVE_HONECLAWS",
+            "MOVE_ENDURE",
+            "MOVE_VENOSHOCK",
+            "MOVE_EXPLOSION",
+            "MOVE_SHADOWCLAW",
+            "MOVE_PAYBACK",
+            "MOVE_DARKPULSE",
+            "MOVE_SLEEPTALK",
+            "MOVE_POISONJAB",
+            "MOVE_SWAGGER",
+            "MOVE_SUBSTITUTE",
+            "MOVE_INCINERATE",
+            "MOVE_SNARL",
+            "MOVE_DEFOG",
+            "MOVE_ROUND",
+            "MOVE_NATURALGIFT",
+            "MOVE_CUT",
+            "MOVE_ROCKSMASH"
+        ],
+        "tutor": [
+            "MOVE_SNORE",
+            "MOVE_SNATCH",
+            "MOVE_FOULPLAY",
+            "MOVE_THROATCHOP",
+            "MOVE_CONFIDE",
+            "MOVE_FOCUSENERGY",
+            "MOVE_SCREECH",
+            "MOVE_SCARYFACE",
+            "MOVE_VENOMDRENCH",
+            "MOVE_NASTYPLOT",
+            "MOVE_TAILSLAP",
+            "MOVE_HEX",
+            "MOVE_CRUNCH",
+            "MOVE_PLAYROUGH",
+            "MOVE_LASHOUT",
+            "MOVE_CORROSIVEGAS"
+        ]
+    }
 }

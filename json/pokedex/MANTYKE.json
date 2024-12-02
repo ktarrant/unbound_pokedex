@@ -1,189 +1,163 @@
 {
-    "baseHP": 45,
-    "baseAttack": 20,
-    "baseDefense": 50,
-    "baseSpAttack": 60,
-    "baseSpDefense": 120,
-    "baseSpeed": 50,
-    "type1": "TYPE_WATER",
-    "type2": "TYPE_FLYING",
-    "catchRate": 25,
-    "expYield": 108,
-    "evYield_HP": 0,
-    "evYield_Attack": 0,
-    "evYield_Defense": 0,
-    "evYield_SpAttack": 0,
-    "evYield_SpDefense": 1,
-    "evYield_Speed": 0,
-    "item1": "ITEM_NONE",
-    "item2": "ITEM_NONE",
-    "genderRatio": 50.0,
-    "eggCycles": 25,
-    "friendship": 50,
-    "growthRate": "GROWTH_SLOW",
-    "eggGroup1": "EGG_GROUP_UNDISCOVERED",
-    "eggGroup2": "EGG_GROUP_UNDISCOVERED",
-    "ability1": "ABILITY_SWIFTSWIM",
-    "ability2": "ABILITY_WATERABSORB",
-    "safariZoneFleeRate": 0,
-    "hiddenAbility": "ABILITY_WATERVEIL",
-    "noFlip": true,
-    "egg_moves": [
-        "MOVE_TWISTER",
-        "MOVE_HAZE",
-        "MOVE_SLAM",
-        "MOVE_MUDSPORT",
-        "MOVE_MIRRORCOAT",
-        "MOVE_WATERSPORT",
-        "MOVE_SPLASH",
-        "MOVE_SIGNALBEAM",
-        "MOVE_AMNESIA",
-        "MOVE_TAILWIND"
-    ],
-    "evolve_to": [
-        {
-            "method": "EVO_OTHER_PARTY_MON",
-            "condition": "SPECIES_REMORAID",
-            "target": "MANTINE",
-            "extra": "0"
-        }
-    ],
-    "blurb": "Scientists discovered that the distinctive patterns on its back differ by region.",
-    "name": "Mantyke",
-    "evolve_from": [],
-    "location": [
-        {
-            "route": "Route 6",
-            "area": "",
-            "method": "surf"
-        },
-        {
-            "route": "Route 7",
-            "area": "",
-            "method": "surf"
-        },
-        {
-            "route": "Route 12",
-            "area": "",
-            "method": "surf"
-        },
-        {
-            "route": "Route 16",
-            "area": "",
-            "method": "surf"
-        },
-        {
-            "route": "Route 17",
-            "area": "",
-            "method": "surf"
-        }
-    ],
-    "learnset": [
-        {
-            "level": 1,
-            "move": "MOVE_TACKLE"
-        },
-        {
-            "level": 1,
-            "move": "MOVE_BUBBLE"
-        },
-        {
-            "level": 4,
-            "move": "MOVE_SUPERSONIC"
-        },
-        {
-            "level": 8,
-            "move": "MOVE_WINGATTACK"
-        },
-        {
-            "level": 10,
-            "move": "MOVE_CONFUSERAY"
-        },
-        {
-            "level": 12,
-            "move": "MOVE_WATERPULSE"
-        },
-        {
-            "level": 16,
-            "move": "MOVE_WIDEGUARD"
-        },
-        {
-            "level": 20,
-            "move": "MOVE_AGILITY"
-        },
-        {
-            "level": 24,
-            "move": "MOVE_BUBBLEBEAM"
-        },
-        {
-            "level": 28,
-            "move": "MOVE_HEADBUTT"
-        },
-        {
-            "level": 32,
-            "move": "MOVE_AIRSLASH"
-        },
-        {
-            "level": 36,
-            "move": "MOVE_AQUARING"
-        },
-        {
-            "level": 40,
-            "move": "MOVE_BOUNCE"
-        },
-        {
-            "level": 44,
-            "move": "MOVE_TAKEDOWN"
-        },
-        {
-            "level": 48,
-            "move": "MOVE_HYDROPUMP"
-        }
-    ],
-    "tm": [
-        "MOVE_WATERPULSE",
-        "MOVE_TOXIC",
-        "MOVE_HAIL",
-        "MOVE_HIDDENPOWER",
-        "MOVE_ICEBEAM",
-        "MOVE_BLIZZARD",
-        "MOVE_PROTECT",
-        "MOVE_RAINDANCE",
-        "MOVE_FRUSTRATION",
-        "MOVE_EARTHQUAKE",
-        "MOVE_RETURN",
-        "MOVE_DOUBLETEAM",
-        "MOVE_AERIALACE",
-        "MOVE_FACADE",
-        "MOVE_SECRETPOWER",
-        "MOVE_REST",
-        "MOVE_ATTRACT",
-        "MOVE_ROOST",
-        "MOVE_ENDURE",
-        "MOVE_ROCKSLIDE",
-        "MOVE_SLEEPTALK",
-        "MOVE_SCALD",
-        "MOVE_SWAGGER",
-        "MOVE_SUBSTITUTE",
-        "MOVE_BULLDOZE",
-        "MOVE_ACROBATICS",
-        "MOVE_ROUND",
-        "MOVE_NATURALGIFT",
-        "MOVE_SURF",
-        "MOVE_DIVE",
-        "MOVE_WATERFALL"
-    ],
-    "tutor": [
-        "MOVE_SNORE",
-        "MOVE_HELPINGHAND",
-        "MOVE_SIGNALBEAM",
-        "MOVE_BOUNCE",
-        "MOVE_TAILWIND",
-        "MOVE_ICYWIND",
-        "MOVE_CONFIDE",
-        "MOVE_AGILITY",
-        "MOVE_WHIRLPOOL",
-        "MOVE_AIRSLASH",
-        "MOVE_HYDROPUMP"
-    ]
+    "MANTYKE": {
+        "blurb": "Scientists discovered that the distinctive patterns on its back differ by region.",
+        "baseHP": 45,
+        "baseAttack": 20,
+        "baseDefense": 50,
+        "baseSpAttack": 60,
+        "baseSpDefense": 120,
+        "baseSpeed": 50,
+        "type1": "TYPE_WATER",
+        "type2": "TYPE_FLYING",
+        "catchRate": 25,
+        "expYield": 108,
+        "evYield_HP": 0,
+        "evYield_Attack": 0,
+        "evYield_Defense": 0,
+        "evYield_SpAttack": 0,
+        "evYield_SpDefense": 1,
+        "evYield_Speed": 0,
+        "item1": "ITEM_NONE",
+        "item2": "ITEM_NONE",
+        "genderRatio": 50.0,
+        "eggCycles": 25,
+        "friendship": 50,
+        "growthRate": "GROWTH_SLOW",
+        "eggGroup1": "EGG_GROUP_UNDISCOVERED",
+        "eggGroup2": "EGG_GROUP_UNDISCOVERED",
+        "ability1": "ABILITY_SWIFTSWIM",
+        "ability2": "ABILITY_WATERABSORB",
+        "safariZoneFleeRate": 0,
+        "hiddenAbility": "ABILITY_WATERVEIL",
+        "noFlip": true,
+        "evolve_to": [
+            {
+                "method": "EVO_OTHER_PARTY_MON",
+                "condition": "SPECIES_REMORAID",
+                "target": "MANTINE",
+                "extra": "0"
+            }
+        ],
+        "evolve_from": [],
+        "egg_moves": [
+            "MOVE_TWISTER",
+            "MOVE_HAZE",
+            "MOVE_SLAM",
+            "MOVE_MUDSPORT",
+            "MOVE_MIRRORCOAT",
+            "MOVE_WATERSPORT",
+            "MOVE_SPLASH",
+            "MOVE_SIGNALBEAM",
+            "MOVE_AMNESIA",
+            "MOVE_TAILWIND"
+        ],
+        "learnset": [
+            {
+                "level": 1,
+                "move": "MOVE_TACKLE"
+            },
+            {
+                "level": 1,
+                "move": "MOVE_BUBBLE"
+            },
+            {
+                "level": 4,
+                "move": "MOVE_SUPERSONIC"
+            },
+            {
+                "level": 8,
+                "move": "MOVE_WINGATTACK"
+            },
+            {
+                "level": 10,
+                "move": "MOVE_CONFUSERAY"
+            },
+            {
+                "level": 12,
+                "move": "MOVE_WATERPULSE"
+            },
+            {
+                "level": 16,
+                "move": "MOVE_WIDEGUARD"
+            },
+            {
+                "level": 20,
+                "move": "MOVE_AGILITY"
+            },
+            {
+                "level": 24,
+                "move": "MOVE_BUBBLEBEAM"
+            },
+            {
+                "level": 28,
+                "move": "MOVE_HEADBUTT"
+            },
+            {
+                "level": 32,
+                "move": "MOVE_AIRSLASH"
+            },
+            {
+                "level": 36,
+                "move": "MOVE_AQUARING"
+            },
+            {
+                "level": 40,
+                "move": "MOVE_BOUNCE"
+            },
+            {
+                "level": 44,
+                "move": "MOVE_TAKEDOWN"
+            },
+            {
+                "level": 48,
+                "move": "MOVE_HYDROPUMP"
+            }
+        ],
+        "tm": [
+            "MOVE_WATERPULSE",
+            "MOVE_TOXIC",
+            "MOVE_HAIL",
+            "MOVE_HIDDENPOWER",
+            "MOVE_ICEBEAM",
+            "MOVE_BLIZZARD",
+            "MOVE_PROTECT",
+            "MOVE_RAINDANCE",
+            "MOVE_FRUSTRATION",
+            "MOVE_EARTHQUAKE",
+            "MOVE_RETURN",
+            "MOVE_DOUBLETEAM",
+            "MOVE_AERIALACE",
+            "MOVE_FACADE",
+            "MOVE_SECRETPOWER",
+            "MOVE_REST",
+            "MOVE_ATTRACT",
+            "MOVE_ROOST",
+            "MOVE_ENDURE",
+            "MOVE_ROCKSLIDE",
+            "MOVE_SLEEPTALK",
+            "MOVE_SCALD",
+            "MOVE_SWAGGER",
+            "MOVE_SUBSTITUTE",
+            "MOVE_BULLDOZE",
+            "MOVE_ACROBATICS",
+            "MOVE_ROUND",
+            "MOVE_NATURALGIFT",
+            "MOVE_SURF",
+            "MOVE_DIVE",
+            "MOVE_WATERFALL"
+        ],
+        "tutor": [
+            "MOVE_SNORE",
+            "MOVE_HELPINGHAND",
+            "MOVE_SIGNALBEAM",
+            "MOVE_BOUNCE",
+            "MOVE_TAILWIND",
+            "MOVE_ICYWIND",
+            "MOVE_CONFIDE",
+            "MOVE_AGILITY",
+            "MOVE_WHIRLPOOL",
+            "MOVE_AIRSLASH",
+            "MOVE_HYDROPUMP"
+        ]
+    }
 }

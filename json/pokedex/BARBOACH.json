@@ -1,185 +1,159 @@
 {
-    "baseHP": 50,
-    "baseAttack": 48,
-    "baseDefense": 43,
-    "baseSpAttack": 46,
-    "baseSpDefense": 41,
-    "baseSpeed": 60,
-    "type1": "TYPE_WATER",
-    "type2": "TYPE_GROUND",
-    "catchRate": 190,
-    "expYield": 92,
-    "evYield_HP": 1,
-    "evYield_Attack": 0,
-    "evYield_Defense": 0,
-    "evYield_SpAttack": 0,
-    "evYield_SpDefense": 0,
-    "evYield_Speed": 0,
-    "item1": "ITEM_NONE",
-    "item2": "ITEM_NONE",
-    "genderRatio": 50.0,
-    "eggCycles": 20,
-    "friendship": 50,
-    "growthRate": "GROWTH_MEDIUM_FAST",
-    "eggGroup1": "EGG_GROUP_WATER_2",
-    "eggGroup2": "EGG_GROUP_WATER_2",
-    "ability1": "ABILITY_OBLIVIOUS",
-    "ability2": "ABILITY_ANTICIPATION",
-    "safariZoneFleeRate": 0,
-    "hiddenAbility": "ABILITY_ADAPTABILITY",
-    "noFlip": true,
-    "egg_moves": [
-        "MOVE_THRASH",
-        "MOVE_WHIRLPOOL",
-        "MOVE_SPARK",
-        "MOVE_HYDROPUMP",
-        "MOVE_FLAIL",
-        "MOVE_TAKEDOWN",
-        "MOVE_DRAGONDANCE",
-        "MOVE_EARTHPOWER",
-        "MOVE_MUDSHOT"
-    ],
-    "evolve_to": [
-        {
-            "method": "EVO_LEVEL",
-            "condition": "30",
-            "target": "WHISCASH",
-            "extra": "0"
-        }
-    ],
-    "name": "Barboach",
-    "evolve_from": [],
-    "location": [
-        {
-            "route": "Route 11",
-            "area": "",
-            "method": "Good Rod"
-        },
-        {
-            "route": "Grim Woods",
-            "area": "",
-            "method": "Good Rod"
-        },
-        {
-            "route": "Vivill Woods",
-            "area": "",
-            "method": "Good Rod"
-        },
-        {
-            "route": "Cootes Bog",
-            "area": "",
-            "method": "Good Rod"
-        },
-        {
-            "route": "Redwood Forest",
-            "area": "",
-            "method": "Good Rod"
-        }
-    ],
-    "learnset": [
-        {
-            "level": 1,
-            "move": "MOVE_MUDSLAP"
-        },
-        {
-            "level": 1,
-            "move": "MOVE_WATERGUN"
-        },
-        {
-            "level": 6,
-            "move": "MOVE_MUDSPORT"
-        },
-        {
-            "level": 6,
-            "move": "MOVE_WATERSPORT"
-        },
-        {
-            "level": 12,
-            "move": "MOVE_MUDBOMB"
-        },
-        {
-            "level": 16,
-            "move": "MOVE_WATERPULSE"
-        },
-        {
-            "level": 20,
-            "move": "MOVE_AMNESIA"
-        },
-        {
-            "level": 23,
-            "move": "MOVE_REST"
-        },
-        {
-            "level": 23,
-            "move": "MOVE_SNORE"
-        },
-        {
-            "level": 27,
-            "move": "MOVE_MAGNITUDE"
-        },
-        {
-            "level": 31,
-            "move": "MOVE_AQUATAIL"
-        },
-        {
-            "level": 35,
-            "move": "MOVE_MUDDYWATER"
-        },
-        {
-            "level": 39,
-            "move": "MOVE_EARTHQUAKE"
-        },
-        {
-            "level": 43,
-            "move": "MOVE_FUTURESIGHT"
-        },
-        {
-            "level": 47,
-            "move": "MOVE_FISSURE"
-        }
-    ],
-    "tm": [
-        "MOVE_WATERPULSE",
-        "MOVE_TOXIC",
-        "MOVE_HAIL",
-        "MOVE_HIDDENPOWER",
-        "MOVE_ICEBEAM",
-        "MOVE_BLIZZARD",
-        "MOVE_PROTECT",
-        "MOVE_RAINDANCE",
-        "MOVE_FRUSTRATION",
-        "MOVE_EARTHQUAKE",
-        "MOVE_RETURN",
-        "MOVE_DOUBLETEAM",
-        "MOVE_SANDSTORM",
-        "MOVE_ROCKTOMB",
-        "MOVE_FACADE",
-        "MOVE_SECRETPOWER",
-        "MOVE_REST",
-        "MOVE_ATTRACT",
-        "MOVE_ENDURE",
-        "MOVE_SLEEPTALK",
-        "MOVE_SCALD",
-        "MOVE_SWAGGER",
-        "MOVE_SUBSTITUTE",
-        "MOVE_BULLDOZE",
-        "MOVE_ROUND",
-        "MOVE_NATURALGIFT",
-        "MOVE_SURF",
-        "MOVE_DIVE",
-        "MOVE_WATERFALL"
-    ],
-    "tutor": [
-        "MOVE_SNORE",
-        "MOVE_BOUNCE",
-        "MOVE_AQUATAIL",
-        "MOVE_ICYWIND",
-        "MOVE_ZENHEADBUTT",
-        "MOVE_EARTHPOWER",
-        "MOVE_CONFIDE",
-        "MOVE_DRAGONDANCE",
-        "MOVE_WHIRLPOOL",
-        "MOVE_MUDDYWATER",
-        "MOVE_HYDROPUMP"
-    ]
+    "BARBOACH": {
+        "baseHP": 50,
+        "baseAttack": 48,
+        "baseDefense": 43,
+        "baseSpAttack": 46,
+        "baseSpDefense": 41,
+        "baseSpeed": 60,
+        "type1": "TYPE_WATER",
+        "type2": "TYPE_GROUND",
+        "catchRate": 190,
+        "expYield": 92,
+        "evYield_HP": 1,
+        "evYield_Attack": 0,
+        "evYield_Defense": 0,
+        "evYield_SpAttack": 0,
+        "evYield_SpDefense": 0,
+        "evYield_Speed": 0,
+        "item1": "ITEM_NONE",
+        "item2": "ITEM_NONE",
+        "genderRatio": 50.0,
+        "eggCycles": 20,
+        "friendship": 50,
+        "growthRate": "GROWTH_MEDIUM_FAST",
+        "eggGroup1": "EGG_GROUP_WATER_2",
+        "eggGroup2": "EGG_GROUP_WATER_2",
+        "ability1": "ABILITY_OBLIVIOUS",
+        "ability2": "ABILITY_ANTICIPATION",
+        "safariZoneFleeRate": 0,
+        "hiddenAbility": "ABILITY_ADAPTABILITY",
+        "noFlip": true,
+        "evolve_to": [
+            {
+                "method": "EVO_LEVEL",
+                "condition": "30",
+                "target": "WHISCASH",
+                "extra": "0"
+            }
+        ],
+        "evolve_from": [],
+        "egg_moves": [
+            "MOVE_THRASH",
+            "MOVE_WHIRLPOOL",
+            "MOVE_SPARK",
+            "MOVE_HYDROPUMP",
+            "MOVE_FLAIL",
+            "MOVE_TAKEDOWN",
+            "MOVE_DRAGONDANCE",
+            "MOVE_EARTHPOWER",
+            "MOVE_MUDSHOT"
+        ],
+        "learnset": [
+            {
+                "level": 1,
+                "move": "MOVE_MUDSLAP"
+            },
+            {
+                "level": 1,
+                "move": "MOVE_WATERGUN"
+            },
+            {
+                "level": 6,
+                "move": "MOVE_MUDSPORT"
+            },
+            {
+                "level": 6,
+                "move": "MOVE_WATERSPORT"
+            },
+            {
+                "level": 12,
+                "move": "MOVE_MUDBOMB"
+            },
+            {
+                "level": 16,
+                "move": "MOVE_WATERPULSE"
+            },
+            {
+                "level": 20,
+                "move": "MOVE_AMNESIA"
+            },
+            {
+                "level": 23,
+                "move": "MOVE_REST"
+            },
+            {
+                "level": 23,
+                "move": "MOVE_SNORE"
+            },
+            {
+                "level": 27,
+                "move": "MOVE_MAGNITUDE"
+            },
+            {
+                "level": 31,
+                "move": "MOVE_AQUATAIL"
+            },
+            {
+                "level": 35,
+                "move": "MOVE_MUDDYWATER"
+            },
+            {
+                "level": 39,
+                "move": "MOVE_EARTHQUAKE"
+            },
+            {
+                "level": 43,
+                "move": "MOVE_FUTURESIGHT"
+            },
+            {
+                "level": 47,
+                "move": "MOVE_FISSURE"
+            }
+        ],
+        "tm": [
+            "MOVE_WATERPULSE",
+            "MOVE_TOXIC",
+            "MOVE_HAIL",
+            "MOVE_HIDDENPOWER",
+            "MOVE_ICEBEAM",
+            "MOVE_BLIZZARD",
+            "MOVE_PROTECT",
+            "MOVE_RAINDANCE",
+            "MOVE_FRUSTRATION",
+            "MOVE_EARTHQUAKE",
+            "MOVE_RETURN",
+            "MOVE_DOUBLETEAM",
+            "MOVE_SANDSTORM",
+            "MOVE_ROCKTOMB",
+            "MOVE_FACADE",
+            "MOVE_SECRETPOWER",
+            "MOVE_REST",
+            "MOVE_ATTRACT",
+            "MOVE_ENDURE",
+            "MOVE_SLEEPTALK",
+            "MOVE_SCALD",
+            "MOVE_SWAGGER",
+            "MOVE_SUBSTITUTE",
+            "MOVE_BULLDOZE",
+            "MOVE_ROUND",
+            "MOVE_NATURALGIFT",
+            "MOVE_SURF",
+            "MOVE_DIVE",
+            "MOVE_WATERFALL"
+        ],
+        "tutor": [
+            "MOVE_SNORE",
+            "MOVE_BOUNCE",
+            "MOVE_AQUATAIL",
+            "MOVE_ICYWIND",
+            "MOVE_ZENHEADBUTT",
+            "MOVE_EARTHPOWER",
+            "MOVE_CONFIDE",
+            "MOVE_DRAGONDANCE",
+            "MOVE_WHIRLPOOL",
+            "MOVE_MUDDYWATER",
+            "MOVE_HYDROPUMP"
+        ]
+    }
 }

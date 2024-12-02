@@ -1,181 +1,222 @@
 {
-    "baseHP": 70,
-    "baseAttack": 60,
-    "baseDefense": 70,
-    "baseSpAttack": 87,
-    "baseSpDefense": 78,
-    "baseSpeed": 85,
-    "type1": "TYPE_GRASS",
-    "type2": "TYPE_GRASS",
-    "catchRate": 75,
-    "expYield": 133,
-    "evYield_HP": 0,
-    "evYield_Attack": 0,
-    "evYield_Defense": 0,
-    "evYield_SpAttack": 2,
-    "evYield_SpDefense": 0,
-    "evYield_Speed": 0,
-    "item1": "ITEM_NONE",
-    "item2": "ITEM_MIRACLE_SEED",
-    "genderRatio": 50.0,
-    "eggCycles": 20,
-    "friendship": 50,
-    "growthRate": "GROWTH_MEDIUM_FAST",
-    "eggGroup1": "EGG_GROUP_FAIRY",
-    "eggGroup2": "EGG_GROUP_GRASS",
-    "ability1": "ABILITY_FLOWERGIFT",
-    "ability2": "ABILITY_NONE",
-    "safariZoneFleeRate": 0,
-    "hiddenAbility": "ABILITY_NONE",
-    "noFlip": true,
-    "blurb": "It blooms during times of strong sunlight. It tries to make up for everything it endured as a bud.",
-    "name": "Cherrim",
-    "evolve_from": [
-        "CHERUBI"
-    ],
-    "location": [
-        {
-            "route": "Route 14",
-            "area": "",
-            "method": "Good Rod"
-        },
-        {
-            "route": "Route 14",
-            "area": "",
-            "method": "Super Rod"
-        }
-    ],
-    "tm": [
-        "MOVE_TOXIC",
-        "MOVE_BULLETSEED",
-        "MOVE_HIDDENPOWER",
-        "MOVE_SUNNYDAY",
-        "MOVE_HYPERBEAM",
-        "MOVE_PROTECT",
-        "MOVE_GIGADRAIN",
-        "MOVE_SAFEGUARD",
-        "MOVE_FRUSTRATION",
-        "MOVE_SOLARBEAM",
-        "MOVE_RETURN",
-        "MOVE_DOUBLETEAM",
-        "MOVE_FACADE",
-        "MOVE_SECRETPOWER",
-        "MOVE_REST",
-        "MOVE_ATTRACT",
-        "MOVE_ENERGYBALL",
-        "MOVE_ENDURE",
-        "MOVE_GIGAIMPACT",
-        "MOVE_FLASH",
-        "MOVE_SWORDSDANCE",
-        "MOVE_SLEEPTALK",
-        "MOVE_GRASSKNOT",
-        "MOVE_SWAGGER",
-        "MOVE_SUBSTITUTE",
-        "MOVE_DAZZLINGGLEAM",
-        "MOVE_DRAININGKISS",
-        "MOVE_ROUND",
-        "MOVE_NATURALGIFT",
-        "MOVE_NATUREPOWER"
-    ],
-    "tutor": [
-        "MOVE_SNORE",
-        "MOVE_HELPINGHAND",
-        "MOVE_WORRYSEED",
-        "MOVE_SYNTHESIS",
-        "MOVE_SEEDBOMB",
-        "MOVE_LASERFOCUS",
-        "MOVE_CONFIDE",
-        "MOVE_GRASSYTERRAIN",
-        "MOVE_WEATHERBALL",
-        "MOVE_PLAYROUGH",
-        "MOVE_POLLENPUFF",
-        "MOVE_SOLARBLADE",
-        "MOVE_GRASSYGLIDE"
-    ],
-    "learnset": [
-        {
-            "level": 0,
-            "move": "MOVE_SUNNYDAY"
-        },
-        {
-            "level": 1,
-            "move": "MOVE_FLOWERSHIELD"
-        },
-        {
-            "level": 1,
-            "move": "MOVE_SOLARBLADE"
-        },
-        {
-            "level": 1,
-            "move": "MOVE_TAKEDOWN"
-        },
-        {
-            "level": 1,
-            "move": "MOVE_MORNINGSUN"
-        },
-        {
-            "level": 1,
-            "move": "MOVE_TACKLE"
-        },
-        {
-            "level": 1,
-            "move": "MOVE_LEAFAGE"
-        },
-        {
-            "level": 1,
-            "move": "MOVE_GROWTH"
-        },
-        {
-            "level": 13,
-            "move": "MOVE_HELPINGHAND"
-        },
-        {
-            "level": 16,
-            "move": "MOVE_MAGICALLEAF"
-        },
-        {
-            "level": 20,
-            "move": "MOVE_LUCKYCHANT"
-        },
-        {
-            "level": 23,
-            "move": "MOVE_LEECHSEED"
-        },
-        {
-            "level": 24,
-            "move": "MOVE_SUNNYDAY"
-        },
-        {
-            "level": 28,
-            "move": "MOVE_WEATHERBALL"
-        },
-        {
-            "level": 33,
-            "move": "MOVE_PETALBLIZZARD"
-        },
-        {
-            "level": 38,
-            "move": "MOVE_GIGADRAIN"
-        },
-        {
-            "level": 43,
-            "move": "MOVE_WORRYSEED"
-        },
-        {
-            "level": 47,
-            "move": "MOVE_DAZZLINGGLEAM"
-        },
-        {
-            "level": 52,
-            "move": "MOVE_DOUBLEEDGE"
-        },
-        {
-            "level": 57,
-            "move": "MOVE_PETALDANCE"
-        },
-        {
-            "level": 62,
-            "move": "MOVE_SOLARBEAM"
-        }
-    ]
+    "CHERRIM": {
+        "blurb": "It blooms during times of strong sunlight. It tries to make up for everything it endured as a bud.",
+        "baseHP": 70,
+        "baseAttack": 60,
+        "baseDefense": 70,
+        "baseSpAttack": 87,
+        "baseSpDefense": 78,
+        "baseSpeed": 85,
+        "type1": "TYPE_GRASS",
+        "type2": "TYPE_GRASS",
+        "catchRate": 75,
+        "expYield": 133,
+        "evYield_HP": 0,
+        "evYield_Attack": 0,
+        "evYield_Defense": 0,
+        "evYield_SpAttack": 2,
+        "evYield_SpDefense": 0,
+        "evYield_Speed": 0,
+        "item1": "ITEM_NONE",
+        "item2": "ITEM_MIRACLE_SEED",
+        "genderRatio": 50.0,
+        "eggCycles": 20,
+        "friendship": 50,
+        "growthRate": "GROWTH_MEDIUM_FAST",
+        "eggGroup1": "EGG_GROUP_FAIRY",
+        "eggGroup2": "EGG_GROUP_GRASS",
+        "ability1": "ABILITY_FLOWERGIFT",
+        "ability2": "ABILITY_NONE",
+        "safariZoneFleeRate": 0,
+        "hiddenAbility": "ABILITY_NONE",
+        "noFlip": true,
+        "evolve_from": [
+            "CHERUBI"
+        ],
+        "tm": [
+            "MOVE_TOXIC",
+            "MOVE_BULLETSEED",
+            "MOVE_HIDDENPOWER",
+            "MOVE_SUNNYDAY",
+            "MOVE_HYPERBEAM",
+            "MOVE_PROTECT",
+            "MOVE_GIGADRAIN",
+            "MOVE_SAFEGUARD",
+            "MOVE_FRUSTRATION",
+            "MOVE_SOLARBEAM",
+            "MOVE_RETURN",
+            "MOVE_DOUBLETEAM",
+            "MOVE_FACADE",
+            "MOVE_SECRETPOWER",
+            "MOVE_REST",
+            "MOVE_ATTRACT",
+            "MOVE_ENERGYBALL",
+            "MOVE_ENDURE",
+            "MOVE_GIGAIMPACT",
+            "MOVE_FLASH",
+            "MOVE_SWORDSDANCE",
+            "MOVE_SLEEPTALK",
+            "MOVE_GRASSKNOT",
+            "MOVE_SWAGGER",
+            "MOVE_SUBSTITUTE",
+            "MOVE_DAZZLINGGLEAM",
+            "MOVE_DRAININGKISS",
+            "MOVE_ROUND",
+            "MOVE_NATURALGIFT",
+            "MOVE_NATUREPOWER"
+        ],
+        "tutor": [
+            "MOVE_SNORE",
+            "MOVE_HELPINGHAND",
+            "MOVE_WORRYSEED",
+            "MOVE_SYNTHESIS",
+            "MOVE_SEEDBOMB",
+            "MOVE_LASERFOCUS",
+            "MOVE_CONFIDE",
+            "MOVE_GRASSYTERRAIN",
+            "MOVE_WEATHERBALL",
+            "MOVE_PLAYROUGH",
+            "MOVE_POLLENPUFF",
+            "MOVE_SOLARBLADE",
+            "MOVE_GRASSYGLIDE"
+        ]
+    },
+    "CHERRIM_SUN": {
+        "baseHP": 70,
+        "baseAttack": 60,
+        "baseDefense": 70,
+        "baseSpAttack": 87,
+        "baseSpDefense": 78,
+        "baseSpeed": 85,
+        "type1": "TYPE_GRASS",
+        "type2": "TYPE_GRASS",
+        "catchRate": 75,
+        "expYield": 158,
+        "evYield_HP": 0,
+        "evYield_Attack": 0,
+        "evYield_Defense": 0,
+        "evYield_SpAttack": 2,
+        "evYield_SpDefense": 0,
+        "evYield_Speed": 0,
+        "item1": "ITEM_NONE",
+        "item2": "ITEM_NONE",
+        "genderRatio": 50.0,
+        "eggCycles": 20,
+        "friendship": 50,
+        "growthRate": "GROWTH_MEDIUM_FAST",
+        "eggGroup1": "EGG_GROUP_FAIRY",
+        "eggGroup2": "EGG_GROUP_GRASS",
+        "ability1": "ABILITY_FLOWERGIFT",
+        "ability2": "ABILITY_NONE",
+        "safariZoneFleeRate": 0,
+        "hiddenAbility": "ABILITY_NONE",
+        "noFlip": true,
+        "evolve_from": [],
+        "learnset": [
+            {
+                "level": 0,
+                "move": "MOVE_SUNNYDAY"
+            },
+            {
+                "level": 1,
+                "move": "MOVE_FLOWERSHIELD"
+            },
+            {
+                "level": 1,
+                "move": "MOVE_SOLARBLADE"
+            },
+            {
+                "level": 1,
+                "move": "MOVE_TAKEDOWN"
+            },
+            {
+                "level": 1,
+                "move": "MOVE_MORNINGSUN"
+            },
+            {
+                "level": 1,
+                "move": "MOVE_TACKLE"
+            },
+            {
+                "level": 1,
+                "move": "MOVE_LEAFAGE"
+            },
+            {
+                "level": 1,
+                "move": "MOVE_GROWTH"
+            },
+            {
+                "level": 13,
+                "move": "MOVE_HELPINGHAND"
+            },
+            {
+                "level": 16,
+                "move": "MOVE_MAGICALLEAF"
+            },
+            {
+                "level": 20,
+                "move": "MOVE_LUCKYCHANT"
+            },
+            {
+                "level": 23,
+                "move": "MOVE_LEECHSEED"
+            },
+            {
+                "level": 24,
+                "move": "MOVE_SUNNYDAY"
+            },
+            {
+                "level": 28,
+                "move": "MOVE_WEATHERBALL"
+            },
+            {
+                "level": 33,
+                "move": "MOVE_PETALBLIZZARD"
+            },
+            {
+                "level": 38,
+                "move": "MOVE_GIGADRAIN"
+            },
+            {
+                "level": 43,
+                "move": "MOVE_WORRYSEED"
+            },
+            {
+                "level": 47,
+                "move": "MOVE_DAZZLINGGLEAM"
+            },
+            {
+                "level": 52,
+                "move": "MOVE_DOUBLEEDGE"
+            },
+            {
+                "level": 57,
+                "move": "MOVE_PETALDANCE"
+            },
+            {
+                "level": 62,
+                "move": "MOVE_SOLARBEAM"
+            }
+        ],
+        "tm": [
+            "MOVE_TOXIC",
+            "MOVE_HIDDENPOWER",
+            "MOVE_FRUSTRATION",
+            "MOVE_SOLARBEAM",
+            "MOVE_RETURN",
+            "MOVE_DOUBLETEAM",
+            "MOVE_FACADE",
+            "MOVE_SECRETPOWER",
+            "MOVE_FLASH",
+            "MOVE_SWAGGER",
+            "MOVE_NATURALGIFT",
+            "MOVE_NATUREPOWER"
+        ],
+        "tutor": [
+            "MOVE_WORRYSEED",
+            "MOVE_SYNTHESIS",
+            "MOVE_LASERFOCUS",
+            "MOVE_CONFIDE"
+        ]
+    }
 }

@@ -1,146 +1,147 @@
 {
-    "baseHP": 85,
-    "baseAttack": 120,
-    "baseDefense": 70,
-    "baseSpAttack": 50,
-    "baseSpDefense": 60,
-    "baseSpeed": 100,
-    "type1": "TYPE_NORMAL",
-    "type2": "TYPE_FLYING",
-    "catchRate": 45,
-    "expYield": 172,
-    "evYield_HP": 0,
-    "evYield_Attack": 3,
-    "evYield_Defense": 0,
-    "evYield_SpAttack": 0,
-    "evYield_SpDefense": 0,
-    "evYield_Speed": 0,
-    "item1": "ITEM_NONE",
-    "item2": "ITEM_YACHE_BERRY",
-    "genderRatio": 50.0,
-    "eggCycles": 15,
-    "friendship": 50,
-    "growthRate": "GROWTH_MEDIUM_SLOW",
-    "eggGroup1": "EGG_GROUP_FLYING",
-    "eggGroup2": "EGG_GROUP_FLYING",
-    "ability1": "ABILITY_INTIMIDATE",
-    "ability2": "ABILITY_NONE",
-    "safariZoneFleeRate": 0,
-    "hiddenAbility": "ABILITY_RECKLESS",
-    "noFlip": true,
-    "blurb": "It has a savage nature. It will courageously challenge foes that are much larger.",
-    "name": "Staraptor",
-    "evolve_from": [
-        "STARAVIA"
-    ],
-    "learnset": [
-        {
-            "level": 0,
-            "move": "MOVE_CLOSECOMBAT"
-        },
-        {
-            "level": 1,
-            "move": "MOVE_TACKLE"
-        },
-        {
-            "level": 1,
-            "move": "MOVE_GROWL"
-        },
-        {
-            "level": 1,
-            "move": "MOVE_QUICKATTACK"
-        },
-        {
-            "level": 1,
-            "move": "MOVE_WINGATTACK"
-        },
-        {
-            "level": 13,
-            "move": "MOVE_DOUBLETEAM"
-        },
-        {
-            "level": 18,
-            "move": "MOVE_ENDEAVOR"
-        },
-        {
-            "level": 23,
-            "move": "MOVE_WHIRLWIND"
-        },
-        {
-            "level": 28,
-            "move": "MOVE_AERIALACE"
-        },
-        {
-            "level": 33,
-            "move": "MOVE_TAKEDOWN"
-        },
-        {
-            "level": 33,
-            "move": "MOVE_CLOSECOMBAT"
-        },
-        {
-            "level": 38,
-            "move": "MOVE_DUALWINGBEAT"
-        },
-        {
-            "level": 41,
-            "move": "MOVE_AGILITY"
-        },
-        {
-            "level": 49,
-            "move": "MOVE_BRAVEBIRD"
-        },
-        {
-            "level": 57,
-            "move": "MOVE_FINALGAMBIT"
-        }
-    ],
-    "tm": [
-        "MOVE_TOXIC",
-        "MOVE_HIDDENPOWER",
-        "MOVE_SUNNYDAY",
-        "MOVE_HYPERBEAM",
-        "MOVE_PROTECT",
-        "MOVE_RAINDANCE",
-        "MOVE_FRUSTRATION",
-        "MOVE_RETURN",
-        "MOVE_DOUBLETEAM",
-        "MOVE_AERIALACE",
-        "MOVE_FACADE",
-        "MOVE_SECRETPOWER",
-        "MOVE_REST",
-        "MOVE_ATTRACT",
-        "MOVE_THIEF",
-        "MOVE_STEELWING",
-        "MOVE_ROOST",
-        "MOVE_ENDURE",
-        "MOVE_GIGAIMPACT",
-        "MOVE_SLEEPTALK",
-        "MOVE_SWAGGER",
-        "MOVE_PLUCK",
-        "MOVE_UTURN",
-        "MOVE_SUBSTITUTE",
-        "MOVE_WORKUP",
-        "MOVE_DEFOG",
-        "MOVE_ROUND",
-        "MOVE_ECHOEDVOICE",
-        "MOVE_NATURALGIFT",
-        "MOVE_FLY"
-    ],
-    "tutor": [
-        "MOVE_SNORE",
-        "MOVE_UPROAR",
-        "MOVE_TAILWIND",
-        "MOVE_ENDEAVOR",
-        "MOVE_LASERFOCUS",
-        "MOVE_SKYATTACK",
-        "MOVE_HEATWAVE",
-        "MOVE_CONFIDE",
-        "MOVE_FOCUSENERGY",
-        "MOVE_AGILITY",
-        "MOVE_AIRSLASH",
-        "MOVE_BRAVEBIRD",
-        "MOVE_CLOSECOMBAT",
-        "MOVE_DUALWINGBEAT"
-    ]
+    "STARAPTOR": {
+        "blurb": "It has a savage nature. It will courageously challenge foes that are much larger.",
+        "baseHP": 85,
+        "baseAttack": 120,
+        "baseDefense": 70,
+        "baseSpAttack": 50,
+        "baseSpDefense": 60,
+        "baseSpeed": 100,
+        "type1": "TYPE_NORMAL",
+        "type2": "TYPE_FLYING",
+        "catchRate": 45,
+        "expYield": 172,
+        "evYield_HP": 0,
+        "evYield_Attack": 3,
+        "evYield_Defense": 0,
+        "evYield_SpAttack": 0,
+        "evYield_SpDefense": 0,
+        "evYield_Speed": 0,
+        "item1": "ITEM_NONE",
+        "item2": "ITEM_YACHE_BERRY",
+        "genderRatio": 50.0,
+        "eggCycles": 15,
+        "friendship": 50,
+        "growthRate": "GROWTH_MEDIUM_SLOW",
+        "eggGroup1": "EGG_GROUP_FLYING",
+        "eggGroup2": "EGG_GROUP_FLYING",
+        "ability1": "ABILITY_INTIMIDATE",
+        "ability2": "ABILITY_NONE",
+        "safariZoneFleeRate": 0,
+        "hiddenAbility": "ABILITY_RECKLESS",
+        "noFlip": true,
+        "evolve_from": [
+            "STARAVIA"
+        ],
+        "learnset": [
+            {
+                "level": 0,
+                "move": "MOVE_CLOSECOMBAT"
+            },
+            {
+                "level": 1,
+                "move": "MOVE_TACKLE"
+            },
+            {
+                "level": 1,
+                "move": "MOVE_GROWL"
+            },
+            {
+                "level": 1,
+                "move": "MOVE_QUICKATTACK"
+            },
+            {
+                "level": 1,
+                "move": "MOVE_WINGATTACK"
+            },
+            {
+                "level": 13,
+                "move": "MOVE_DOUBLETEAM"
+            },
+            {
+                "level": 18,
+                "move": "MOVE_ENDEAVOR"
+            },
+            {
+                "level": 23,
+                "move": "MOVE_WHIRLWIND"
+            },
+            {
+                "level": 28,
+                "move": "MOVE_AERIALACE"
+            },
+            {
+                "level": 33,
+                "move": "MOVE_TAKEDOWN"
+            },
+            {
+                "level": 33,
+                "move": "MOVE_CLOSECOMBAT"
+            },
+            {
+                "level": 38,
+                "move": "MOVE_DUALWINGBEAT"
+            },
+            {
+                "level": 41,
+                "move": "MOVE_AGILITY"
+            },
+            {
+                "level": 49,
+                "move": "MOVE_BRAVEBIRD"
+            },
+            {
+                "level": 57,
+                "move": "MOVE_FINALGAMBIT"
+            }
+        ],
+        "tm": [
+            "MOVE_TOXIC",
+            "MOVE_HIDDENPOWER",
+            "MOVE_SUNNYDAY",
+            "MOVE_HYPERBEAM",
+            "MOVE_PROTECT",
+            "MOVE_RAINDANCE",
+            "MOVE_FRUSTRATION",
+            "MOVE_RETURN",
+            "MOVE_DOUBLETEAM",
+            "MOVE_AERIALACE",
+            "MOVE_FACADE",
+            "MOVE_SECRETPOWER",
+            "MOVE_REST",
+            "MOVE_ATTRACT",
+            "MOVE_THIEF",
+            "MOVE_STEELWING",
+            "MOVE_ROOST",
+            "MOVE_ENDURE",
+            "MOVE_GIGAIMPACT",
+            "MOVE_SLEEPTALK",
+            "MOVE_SWAGGER",
+            "MOVE_PLUCK",
+            "MOVE_UTURN",
+            "MOVE_SUBSTITUTE",
+            "MOVE_WORKUP",
+            "MOVE_DEFOG",
+            "MOVE_ROUND",
+            "MOVE_ECHOEDVOICE",
+            "MOVE_NATURALGIFT",
+            "MOVE_FLY"
+        ],
+        "tutor": [
+            "MOVE_SNORE",
+            "MOVE_UPROAR",
+            "MOVE_TAILWIND",
+            "MOVE_ENDEAVOR",
+            "MOVE_LASERFOCUS",
+            "MOVE_SKYATTACK",
+            "MOVE_HEATWAVE",
+            "MOVE_CONFIDE",
+            "MOVE_FOCUSENERGY",
+            "MOVE_AGILITY",
+            "MOVE_AIRSLASH",
+            "MOVE_BRAVEBIRD",
+            "MOVE_CLOSECOMBAT",
+            "MOVE_DUALWINGBEAT"
+        ]
+    }
 }

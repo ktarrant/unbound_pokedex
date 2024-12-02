@@ -1,178 +1,172 @@
 {
-    "baseHP": 45,
-    "baseAttack": 60,
-    "baseDefense": 45,
-    "baseSpAttack": 25,
-    "baseSpDefense": 45,
-    "baseSpeed": 55,
-    "type1": "TYPE_NORMAL",
-    "type2": "TYPE_NORMAL",
-    "catchRate": 255,
-    "expYield": 60,
-    "evYield_HP": 0,
-    "evYield_Attack": 1,
-    "evYield_Defense": 0,
-    "evYield_SpAttack": 0,
-    "evYield_SpDefense": 0,
-    "evYield_Speed": 0,
-    "item1": "ITEM_NONE",
-    "item2": "ITEM_NONE",
-    "genderRatio": 50.0,
-    "eggCycles": 15,
-    "friendship": 50,
-    "growthRate": "GROWTH_MEDIUM_SLOW",
-    "eggGroup1": "EGG_GROUP_FIELD",
-    "eggGroup2": "EGG_GROUP_FIELD",
-    "ability1": "ABILITY_INSOMNIA",
-    "ability2": "ABILITY_PICKUP",
-    "safariZoneFleeRate": 0,
-    "hiddenAbility": "ABILITY_RUNAWAY",
-    "noFlip": true,
-    "egg_moves": [
-        "MOVE_HOWL",
-        "MOVE_SANDATTACK",
-        "MOVE_MUDSLAP",
-        "MOVE_LICK",
-        "MOVE_CHARM",
-        "MOVE_ENDURE",
-        "MOVE_YAWN",
-        "MOVE_PURSUIT",
-        "MOVE_FIREFANG",
-        "MOVE_THUNDERFANG",
-        "MOVE_ICEFANG",
-        "MOVE_AFTERYOU",
-        "MOVE_PSYCHICFANGS",
-        "MOVE_COVET"
-    ],
-    "evolve_to": [
-        {
-            "method": "EVO_LEVEL",
-            "condition": "16",
-            "target": "HERDIER",
-            "extra": "0"
-        }
-    ],
-    "blurb": "Though it is a very brave Pokemon, it's also smart enough to check its foe's strength and avoid battle.",
-    "name": "Lillipup",
-    "evolve_from": [],
-    "location": [
-        {
-            "route": "Route 4",
-            "area": "",
-            "method": "land"
-        }
-    ],
-    "learnset": [
-        {
-            "level": 1,
-            "move": "MOVE_TACKLE"
-        },
-        {
-            "level": 1,
-            "move": "MOVE_LEER"
-        },
-        {
-            "level": 4,
-            "move": "MOVE_WORKUP"
-        },
-        {
-            "level": 6,
-            "move": "MOVE_ODORSLEUTH"
-        },
-        {
-            "level": 8,
-            "move": "MOVE_BITE"
-        },
-        {
-            "level": 12,
-            "move": "MOVE_BABYDOLLEYES"
-        },
-        {
-            "level": 17,
-            "move": "MOVE_RETALIATE"
-        },
-        {
-            "level": 20,
-            "move": "MOVE_REVERSAL"
-        },
-        {
-            "level": 24,
-            "move": "MOVE_CRUNCH"
-        },
-        {
-            "level": 28,
-            "move": "MOVE_TAKEDOWN"
-        },
-        {
-            "level": 32,
-            "move": "MOVE_HELPINGHAND"
-        },
-        {
-            "level": 36,
-            "move": "MOVE_ROAR"
-        },
-        {
-            "level": 40,
-            "move": "MOVE_PLAYROUGH"
-        },
-        {
-            "level": 44,
-            "move": "MOVE_LASTRESORT"
-        },
-        {
-            "level": 48,
-            "move": "MOVE_GIGAIMPACT"
-        }
-    ],
-    "tm": [
-        "MOVE_ROAR",
-        "MOVE_TOXIC",
-        "MOVE_HIDDENPOWER",
-        "MOVE_SUNNYDAY",
-        "MOVE_PROTECT",
-        "MOVE_RAINDANCE",
-        "MOVE_FRUSTRATION",
-        "MOVE_THUNDERBOLT",
-        "MOVE_RETURN",
-        "MOVE_DIG",
-        "MOVE_SHADOWBALL",
-        "MOVE_DOUBLETEAM",
-        "MOVE_SHOCKWAVE",
-        "MOVE_ROCKTOMB",
-        "MOVE_AERIALACE",
-        "MOVE_FACADE",
-        "MOVE_SECRETPOWER",
-        "MOVE_REST",
-        "MOVE_ATTRACT",
-        "MOVE_ENDURE",
-        "MOVE_PAYBACK",
-        "MOVE_GIGAIMPACT",
-        "MOVE_THUNDERWAVE",
-        "MOVE_SLEEPTALK",
-        "MOVE_SWAGGER",
-        "MOVE_SUBSTITUTE",
-        "MOVE_WORKUP",
-        "MOVE_WILDCHARGE",
-        "MOVE_SNARL",
-        "MOVE_ROUND",
-        "MOVE_NATURALGIFT",
-        "MOVE_ROCKSMASH"
-    ],
-    "tutor": [
-        "MOVE_SNORE",
-        "MOVE_UPROAR",
-        "MOVE_HELPINGHAND",
-        "MOVE_COVET",
-        "MOVE_AFTERYOU",
-        "MOVE_HYPERVOICE",
-        "MOVE_LASTRESORT",
-        "MOVE_CONFIDE",
-        "MOVE_THUNDERFANG",
-        "MOVE_ICEFANG",
-        "MOVE_FIREFANG",
-        "MOVE_REVERSAL",
-        "MOVE_CRUNCH",
-        "MOVE_PLAYROUGH",
-        "MOVE_PSYCHICFANGS"
-    ]
+    "LILLIPUP": {
+        "blurb": "Though it is a very brave Pok\\emon, it's also smart enough to check its foe's strength and avoid battle.",
+        "baseHP": 45,
+        "baseAttack": 60,
+        "baseDefense": 45,
+        "baseSpAttack": 25,
+        "baseSpDefense": 45,
+        "baseSpeed": 55,
+        "type1": "TYPE_NORMAL",
+        "type2": "TYPE_NORMAL",
+        "catchRate": 255,
+        "expYield": 60,
+        "evYield_HP": 0,
+        "evYield_Attack": 1,
+        "evYield_Defense": 0,
+        "evYield_SpAttack": 0,
+        "evYield_SpDefense": 0,
+        "evYield_Speed": 0,
+        "item1": "ITEM_NONE",
+        "item2": "ITEM_NONE",
+        "genderRatio": 50.0,
+        "eggCycles": 15,
+        "friendship": 50,
+        "growthRate": "GROWTH_MEDIUM_SLOW",
+        "eggGroup1": "EGG_GROUP_FIELD",
+        "eggGroup2": "EGG_GROUP_FIELD",
+        "ability1": "ABILITY_INSOMNIA",
+        "ability2": "ABILITY_PICKUP",
+        "safariZoneFleeRate": 0,
+        "hiddenAbility": "ABILITY_RUNAWAY",
+        "noFlip": true,
+        "evolve_to": [
+            {
+                "method": "EVO_LEVEL",
+                "condition": "16",
+                "target": "HERDIER",
+                "extra": "0"
+            }
+        ],
+        "evolve_from": [],
+        "egg_moves": [
+            "MOVE_HOWL",
+            "MOVE_SANDATTACK",
+            "MOVE_MUDSLAP",
+            "MOVE_LICK",
+            "MOVE_CHARM",
+            "MOVE_ENDURE",
+            "MOVE_YAWN",
+            "MOVE_PURSUIT",
+            "MOVE_FIREFANG",
+            "MOVE_THUNDERFANG",
+            "MOVE_ICEFANG",
+            "MOVE_AFTERYOU",
+            "MOVE_PSYCHICFANGS",
+            "MOVE_COVET"
+        ],
+        "learnset": [
+            {
+                "level": 1,
+                "move": "MOVE_TACKLE"
+            },
+            {
+                "level": 1,
+                "move": "MOVE_LEER"
+            },
+            {
+                "level": 4,
+                "move": "MOVE_WORKUP"
+            },
+            {
+                "level": 6,
+                "move": "MOVE_ODORSLEUTH"
+            },
+            {
+                "level": 8,
+                "move": "MOVE_BITE"
+            },
+            {
+                "level": 12,
+                "move": "MOVE_BABYDOLLEYES"
+            },
+            {
+                "level": 17,
+                "move": "MOVE_RETALIATE"
+            },
+            {
+                "level": 20,
+                "move": "MOVE_REVERSAL"
+            },
+            {
+                "level": 24,
+                "move": "MOVE_CRUNCH"
+            },
+            {
+                "level": 28,
+                "move": "MOVE_TAKEDOWN"
+            },
+            {
+                "level": 32,
+                "move": "MOVE_HELPINGHAND"
+            },
+            {
+                "level": 36,
+                "move": "MOVE_ROAR"
+            },
+            {
+                "level": 40,
+                "move": "MOVE_PLAYROUGH"
+            },
+            {
+                "level": 44,
+                "move": "MOVE_LASTRESORT"
+            },
+            {
+                "level": 48,
+                "move": "MOVE_GIGAIMPACT"
+            }
+        ],
+        "tm": [
+            "MOVE_ROAR",
+            "MOVE_TOXIC",
+            "MOVE_HIDDENPOWER",
+            "MOVE_SUNNYDAY",
+            "MOVE_PROTECT",
+            "MOVE_RAINDANCE",
+            "MOVE_FRUSTRATION",
+            "MOVE_THUNDERBOLT",
+            "MOVE_RETURN",
+            "MOVE_DIG",
+            "MOVE_SHADOWBALL",
+            "MOVE_DOUBLETEAM",
+            "MOVE_SHOCKWAVE",
+            "MOVE_ROCKTOMB",
+            "MOVE_AERIALACE",
+            "MOVE_FACADE",
+            "MOVE_SECRETPOWER",
+            "MOVE_REST",
+            "MOVE_ATTRACT",
+            "MOVE_ENDURE",
+            "MOVE_PAYBACK",
+            "MOVE_GIGAIMPACT",
+            "MOVE_THUNDERWAVE",
+            "MOVE_SLEEPTALK",
+            "MOVE_SWAGGER",
+            "MOVE_SUBSTITUTE",
+            "MOVE_WORKUP",
+            "MOVE_WILDCHARGE",
+            "MOVE_SNARL",
+            "MOVE_ROUND",
+            "MOVE_NATURALGIFT",
+            "MOVE_ROCKSMASH"
+        ],
+        "tutor": [
+            "MOVE_SNORE",
+            "MOVE_UPROAR",
+            "MOVE_HELPINGHAND",
+            "MOVE_COVET",
+            "MOVE_AFTERYOU",
+            "MOVE_HYPERVOICE",
+            "MOVE_LASTRESORT",
+            "MOVE_CONFIDE",
+            "MOVE_THUNDERFANG",
+            "MOVE_ICEFANG",
+            "MOVE_FIREFANG",
+            "MOVE_REVERSAL",
+            "MOVE_CRUNCH",
+            "MOVE_PLAYROUGH",
+            "MOVE_PSYCHICFANGS"
+        ]
+    }
 }

@@ -1,171 +1,214 @@
 {
-    "baseHP": 98,
-    "baseAttack": 87,
-    "baseDefense": 105,
-    "baseSpAttack": 53,
-    "baseSpDefense": 85,
-    "baseSpeed": 67,
-    "type1": "TYPE_FLYING",
-    "type2": "TYPE_STEEL",
-    "catchRate": 45,
-    "expYield": 175,
-    "evYield_HP": 0,
-    "evYield_Attack": 0,
-    "evYield_Defense": 3,
-    "evYield_SpAttack": 0,
-    "evYield_SpDefense": 0,
-    "evYield_Speed": 0,
-    "item1": "ITEM_NONE",
-    "item2": "ITEM_NONE",
-    "genderRatio": 50.0,
-    "eggCycles": 15,
-    "friendship": 50,
-    "growthRate": "GROWTH_MEDIUM_SLOW",
-    "eggGroup1": "EGG_GROUP_FLYING",
-    "eggGroup2": "EGG_GROUP_FLYING",
-    "ability1": "ABILITY_PRESSURE",
-    "ability2": "ABILITY_UNNERVE",
-    "safariZoneFleeRate": 0,
-    "hiddenAbility": "ABILITY_MIRRORARMOR",
-    "noFlip": true,
-    "evolve_to": [
-        {
-            "method": "EVO_GIGANTAMAX",
-            "condition": "TRUE",
-            "target": "CORVIKNIGHT_GIGA",
-            "extra": "0"
-        }
-    ],
-    "blurb": "The black luster of its steel body could drive terror into the heart of any foe.",
-    "name": "Corvknight",
-    "evolve_from": [
-        "CORVISQUIRE",
-        "CORVIKNIGHT_GIGA"
-    ],
-    "tm": [
-        "MOVE_TOXIC",
-        "MOVE_BULKUP",
-        "MOVE_HIDDENPOWER",
-        "MOVE_TAUNT",
-        "MOVE_HYPERBEAM",
-        "MOVE_LIGHTSCREEN",
-        "MOVE_PROTECT",
-        "MOVE_FRUSTRATION",
-        "MOVE_RETURN",
-        "MOVE_DOUBLETEAM",
-        "MOVE_REFLECT",
-        "MOVE_AERIALACE",
-        "MOVE_TORMENT",
-        "MOVE_FACADE",
-        "MOVE_SECRETPOWER",
-        "MOVE_REST",
-        "MOVE_ATTRACT",
-        "MOVE_THIEF",
-        "MOVE_STEELWING",
-        "MOVE_ROOST",
-        "MOVE_HONECLAWS",
-        "MOVE_ENDURE",
-        "MOVE_PAYBACK",
-        "MOVE_GIGAIMPACT",
-        "MOVE_SLEEPTALK",
-        "MOVE_SWAGGER",
-        "MOVE_PLUCK",
-        "MOVE_UTURN",
-        "MOVE_SUBSTITUTE",
-        "MOVE_FLASHCANNON",
-        "MOVE_WORKUP",
-        "MOVE_DEFOG",
-        "MOVE_ROUND",
-        "MOVE_NATURALGIFT",
-        "MOVE_QUASH",
-        "MOVE_SKYDROP",
-        "MOVE_FLY",
-        "MOVE_ROCKSMASH"
-    ],
-    "tutor": [
-        "MOVE_SNORE",
-        "MOVE_SPITE",
-        "MOVE_IRONDEFENSE",
-        "MOVE_IRONHEAD",
-        "MOVE_TAILWIND",
-        "MOVE_ENDEAVOR",
-        "MOVE_SKYATTACK",
-        "MOVE_CONFIDE",
-        "MOVE_FOCUSENERGY",
-        "MOVE_SCREECH",
-        "MOVE_FAKETEARS",
-        "MOVE_SCARYFACE",
-        "MOVE_AGILITY",
-        "MOVE_NASTYPLOT",
-        "MOVE_BODYSLAM",
-        "MOVE_BODYPRESS",
-        "MOVE_HEAVYSLAM",
-        "MOVE_REVERSAL",
-        "MOVE_AIRSLASH",
-        "MOVE_BRAVEBIRD",
-        "MOVE_HURRICANE",
-        "MOVE_DUALWINGBEAT"
-    ],
-    "learnset": [
-        {
-            "level": 0,
-            "move": "MOVE_STEELWING"
-        },
-        {
-            "level": 1,
-            "move": "MOVE_IRONDEFENSE"
-        },
-        {
-            "level": 1,
-            "move": "MOVE_METALSOUND"
-        },
-        {
-            "level": 1,
-            "move": "MOVE_LEER"
-        },
-        {
-            "level": 1,
-            "move": "MOVE_PECK"
-        },
-        {
-            "level": 1,
-            "move": "MOVE_POWERTRIP"
-        },
-        {
-            "level": 1,
-            "move": "MOVE_HONECLAWS"
-        },
-        {
-            "level": 12,
-            "move": "MOVE_FURYATTACK"
-        },
-        {
-            "level": 16,
-            "move": "MOVE_PLUCK"
-        },
-        {
-            "level": 22,
-            "move": "MOVE_TAUNT"
-        },
-        {
-            "level": 28,
-            "move": "MOVE_SCARYFACE"
-        },
-        {
-            "level": 34,
-            "move": "MOVE_DRILLPECK"
-        },
-        {
-            "level": 37,
-            "move": "MOVE_STEELWING"
-        },
-        {
-            "level": 42,
-            "move": "MOVE_SWAGGER"
-        },
-        {
-            "level": 50,
-            "move": "MOVE_BRAVEBIRD"
-        }
-    ]
+    "CORVIKNIGHT": {
+        "blurb": "The black luster of its steel body could drive terror into the heart of any foe.",
+        "baseHP": 98,
+        "baseAttack": 87,
+        "baseDefense": 105,
+        "baseSpAttack": 53,
+        "baseSpDefense": 85,
+        "baseSpeed": 67,
+        "type1": "TYPE_FLYING",
+        "type2": "TYPE_STEEL",
+        "catchRate": 45,
+        "expYield": 175,
+        "evYield_HP": 0,
+        "evYield_Attack": 0,
+        "evYield_Defense": 3,
+        "evYield_SpAttack": 0,
+        "evYield_SpDefense": 0,
+        "evYield_Speed": 0,
+        "item1": "ITEM_NONE",
+        "item2": "ITEM_NONE",
+        "genderRatio": 50.0,
+        "eggCycles": 15,
+        "friendship": 50,
+        "growthRate": "GROWTH_MEDIUM_SLOW",
+        "eggGroup1": "EGG_GROUP_FLYING",
+        "eggGroup2": "EGG_GROUP_FLYING",
+        "ability1": "ABILITY_PRESSURE",
+        "ability2": "ABILITY_UNNERVE",
+        "safariZoneFleeRate": 0,
+        "hiddenAbility": "ABILITY_MIRRORARMOR",
+        "noFlip": true,
+        "evolve_to": [
+            {
+                "method": "EVO_GIGANTAMAX",
+                "condition": "TRUE",
+                "target": "CORVIKNIGHT_GIGA",
+                "extra": "0"
+            }
+        ],
+        "evolve_from": [
+            "CORVISQUIRE",
+            "CORVIKNIGHT_GIGA"
+        ],
+        "tm": [
+            "MOVE_TOXIC",
+            "MOVE_BULKUP",
+            "MOVE_HIDDENPOWER",
+            "MOVE_TAUNT",
+            "MOVE_HYPERBEAM",
+            "MOVE_LIGHTSCREEN",
+            "MOVE_PROTECT",
+            "MOVE_FRUSTRATION",
+            "MOVE_RETURN",
+            "MOVE_DOUBLETEAM",
+            "MOVE_REFLECT",
+            "MOVE_AERIALACE",
+            "MOVE_TORMENT",
+            "MOVE_FACADE",
+            "MOVE_SECRETPOWER",
+            "MOVE_REST",
+            "MOVE_ATTRACT",
+            "MOVE_THIEF",
+            "MOVE_STEELWING",
+            "MOVE_ROOST",
+            "MOVE_HONECLAWS",
+            "MOVE_ENDURE",
+            "MOVE_PAYBACK",
+            "MOVE_GIGAIMPACT",
+            "MOVE_SLEEPTALK",
+            "MOVE_SWAGGER",
+            "MOVE_PLUCK",
+            "MOVE_UTURN",
+            "MOVE_SUBSTITUTE",
+            "MOVE_FLASHCANNON",
+            "MOVE_WORKUP",
+            "MOVE_DEFOG",
+            "MOVE_ROUND",
+            "MOVE_NATURALGIFT",
+            "MOVE_QUASH",
+            "MOVE_SKYDROP",
+            "MOVE_FLY",
+            "MOVE_ROCKSMASH"
+        ],
+        "tutor": [
+            "MOVE_SNORE",
+            "MOVE_SPITE",
+            "MOVE_IRONDEFENSE",
+            "MOVE_IRONHEAD",
+            "MOVE_TAILWIND",
+            "MOVE_ENDEAVOR",
+            "MOVE_SKYATTACK",
+            "MOVE_CONFIDE",
+            "MOVE_FOCUSENERGY",
+            "MOVE_SCREECH",
+            "MOVE_FAKETEARS",
+            "MOVE_SCARYFACE",
+            "MOVE_AGILITY",
+            "MOVE_NASTYPLOT",
+            "MOVE_BODYSLAM",
+            "MOVE_BODYPRESS",
+            "MOVE_HEAVYSLAM",
+            "MOVE_REVERSAL",
+            "MOVE_AIRSLASH",
+            "MOVE_BRAVEBIRD",
+            "MOVE_HURRICANE",
+            "MOVE_DUALWINGBEAT"
+        ]
+    },
+    "CORVIKNIGHT_GIGA": {
+        "baseHP": 98,
+        "baseAttack": 87,
+        "baseDefense": 105,
+        "baseSpAttack": 53,
+        "baseSpDefense": 85,
+        "baseSpeed": 67,
+        "type1": "TYPE_FLYING",
+        "type2": "TYPE_STEEL",
+        "catchRate": 45,
+        "expYield": 175,
+        "evYield_HP": 0,
+        "evYield_Attack": 0,
+        "evYield_Defense": 3,
+        "evYield_SpAttack": 0,
+        "evYield_SpDefense": 0,
+        "evYield_Speed": 0,
+        "item1": "ITEM_NONE",
+        "item2": "ITEM_NONE",
+        "genderRatio": 50.0,
+        "eggCycles": 15,
+        "friendship": 50,
+        "growthRate": "GROWTH_MEDIUM_SLOW",
+        "eggGroup1": "EGG_GROUP_FLYING",
+        "eggGroup2": "EGG_GROUP_FLYING",
+        "ability1": "ABILITY_PRESSURE",
+        "ability2": "ABILITY_UNNERVE",
+        "safariZoneFleeRate": 0,
+        "hiddenAbility": "ABILITY_MIRRORARMOR",
+        "noFlip": true,
+        "evolve_to": [
+            {
+                "method": "EVO_GIGANTAMAX",
+                "condition": "FALSE",
+                "target": "CORVIKNIGHT",
+                "extra": "0"
+            }
+        ],
+        "evolve_from": [
+            "CORVIKNIGHT"
+        ],
+        "learnset": [
+            {
+                "level": 0,
+                "move": "MOVE_STEELWING"
+            },
+            {
+                "level": 1,
+                "move": "MOVE_IRONDEFENSE"
+            },
+            {
+                "level": 1,
+                "move": "MOVE_METALSOUND"
+            },
+            {
+                "level": 1,
+                "move": "MOVE_LEER"
+            },
+            {
+                "level": 1,
+                "move": "MOVE_PECK"
+            },
+            {
+                "level": 1,
+                "move": "MOVE_POWERTRIP"
+            },
+            {
+                "level": 1,
+                "move": "MOVE_HONECLAWS"
+            },
+            {
+                "level": 12,
+                "move": "MOVE_FURYATTACK"
+            },
+            {
+                "level": 16,
+                "move": "MOVE_PLUCK"
+            },
+            {
+                "level": 22,
+                "move": "MOVE_TAUNT"
+            },
+            {
+                "level": 28,
+                "move": "MOVE_SCARYFACE"
+            },
+            {
+                "level": 34,
+                "move": "MOVE_DRILLPECK"
+            },
+            {
+                "level": 37,
+                "move": "MOVE_STEELWING"
+            },
+            {
+                "level": 42,
+                "move": "MOVE_SWAGGER"
+            },
+            {
+                "level": 50,
+                "move": "MOVE_BRAVEBIRD"
+            }
+        ]
+    }
 }

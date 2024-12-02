@@ -1,162 +1,156 @@
 {
-    "baseHP": 60,
-    "baseAttack": 80,
-    "baseDefense": 95,
-    "baseSpAttack": 70,
-    "baseSpDefense": 85,
-    "baseSpeed": 50,
-    "type1": "TYPE_STEEL",
-    "type2": "TYPE_STEEL",
-    "catchRate": 60,
-    "expYield": 154,
-    "evYield_HP": 0,
-    "evYield_Attack": 0,
-    "evYield_Defense": 2,
-    "evYield_SpAttack": 0,
-    "evYield_SpDefense": 0,
-    "evYield_Speed": 0,
-    "item1": "ITEM_NONE",
-    "item2": "ITEM_NONE",
-    "genderRatio": "MON_GENDERLESS",
-    "eggCycles": 20,
-    "friendship": 50,
-    "growthRate": "GROWTH_MEDIUM_SLOW",
-    "eggGroup1": "EGG_GROUP_MINERAL",
-    "eggGroup2": "EGG_GROUP_MINERAL",
-    "ability1": "ABILITY_PLUS",
-    "ability2": "ABILITY_CLEARBODY",
-    "safariZoneFleeRate": 0,
-    "hiddenAbility": "ABILITY_MOTORDRIVE",
-    "noFlip": true,
-    "evolve_to": [
-        {
-            "method": "EVO_LEVEL",
-            "condition": "45",
-            "target": "KLINKLANG",
-            "extra": "0"
-        }
-    ],
-    "blurb": "A mini and big gear comprise its body. If the mini gear it launches at a foe doesn't return, it will die.",
-    "name": "Klang",
-    "evolve_from": [
-        "KLINK"
-    ],
-    "location": [
-        {
-            "route": "Thundercap Mt.",
-            "area": "2F (Small Floor)",
-            "method": "land"
-        }
-    ],
-    "learnset": [
-        {
-            "level": 1,
-            "move": "MOVE_THUNDERSHOCK"
-        },
-        {
-            "level": 1,
-            "move": "MOVE_VICEGRIP"
-        },
-        {
-            "level": 1,
-            "move": "MOVE_BIND"
-        },
-        {
-            "level": 1,
-            "move": "MOVE_CHARGE"
-        },
-        {
-            "level": 12,
-            "move": "MOVE_CHARGEBEAM"
-        },
-        {
-            "level": 16,
-            "move": "MOVE_METALSOUND"
-        },
-        {
-            "level": 20,
-            "move": "MOVE_MIRRORSHOT"
-        },
-        {
-            "level": 24,
-            "move": "MOVE_AUTOTOMIZE"
-        },
-        {
-            "level": 28,
-            "move": "MOVE_DISCHARGE"
-        },
-        {
-            "level": 32,
-            "move": "MOVE_GEARGRIND"
-        },
-        {
-            "level": 36,
-            "move": "MOVE_SCREECH"
-        },
-        {
-            "level": 41,
-            "move": "MOVE_SHIFTGEAR"
-        },
-        {
-            "level": 46,
-            "move": "MOVE_FLASHCANNON"
-        },
-        {
-            "level": 51,
-            "move": "MOVE_LOCKON"
-        },
-        {
-            "level": 56,
-            "move": "MOVE_ZAPCANNON"
-        },
-        {
-            "level": 61,
-            "move": "MOVE_HYPERBEAM"
-        }
-    ],
-    "tm": [
-        "MOVE_TOXIC",
-        "MOVE_HIDDENPOWER",
-        "MOVE_HYPERBEAM",
-        "MOVE_PROTECT",
-        "MOVE_FRUSTRATION",
-        "MOVE_THUNDERBOLT",
-        "MOVE_RETURN",
-        "MOVE_DOUBLETEAM",
-        "MOVE_SHOCKWAVE",
-        "MOVE_SANDSTORM",
-        "MOVE_FACADE",
-        "MOVE_SECRETPOWER",
-        "MOVE_REST",
-        "MOVE_CHARGEBEAM",
-        "MOVE_ENDURE",
-        "MOVE_RECYCLE",
-        "MOVE_ROCKPOLISH",
-        "MOVE_THUNDERWAVE",
-        "MOVE_SLEEPTALK",
-        "MOVE_SWAGGER",
-        "MOVE_SUBSTITUTE",
-        "MOVE_FLASHCANNON",
-        "MOVE_VOLTSWITCH",
-        "MOVE_WILDCHARGE",
-        "MOVE_ROUND",
-        "MOVE_NATURALGIFT",
-        "MOVE_ROCKSMASH"
-    ],
-    "tutor": [
-        "MOVE_SNORE",
-        "MOVE_UPROAR",
-        "MOVE_BIND",
-        "MOVE_SIGNALBEAM",
-        "MOVE_GRAVITY",
-        "MOVE_IRONDEFENSE",
-        "MOVE_TELEKINESIS",
-        "MOVE_MAGNETRISE",
-        "MOVE_MAGICCOAT",
-        "MOVE_CONFIDE",
-        "MOVE_SCREECH",
-        "MOVE_POWERGEM",
-        "MOVE_POLTERGEIST",
-        "MOVE_RISINGVOLTAGE"
-    ]
+    "KLANG": {
+        "blurb": "A mini and big gear comprise its body. If the mini gear it launches at a foe doesn't return, it will die.",
+        "baseHP": 60,
+        "baseAttack": 80,
+        "baseDefense": 95,
+        "baseSpAttack": 70,
+        "baseSpDefense": 85,
+        "baseSpeed": 50,
+        "type1": "TYPE_STEEL",
+        "type2": "TYPE_STEEL",
+        "catchRate": 60,
+        "expYield": 154,
+        "evYield_HP": 0,
+        "evYield_Attack": 0,
+        "evYield_Defense": 2,
+        "evYield_SpAttack": 0,
+        "evYield_SpDefense": 0,
+        "evYield_Speed": 0,
+        "item1": "ITEM_NONE",
+        "item2": "ITEM_NONE",
+        "genderRatio": "MON_GENDERLESS",
+        "eggCycles": 20,
+        "friendship": 50,
+        "growthRate": "GROWTH_MEDIUM_SLOW",
+        "eggGroup1": "EGG_GROUP_MINERAL",
+        "eggGroup2": "EGG_GROUP_MINERAL",
+        "ability1": "ABILITY_PLUS",
+        "ability2": "ABILITY_CLEARBODY",
+        "safariZoneFleeRate": 0,
+        "hiddenAbility": "ABILITY_MOTORDRIVE",
+        "noFlip": true,
+        "evolve_to": [
+            {
+                "method": "EVO_LEVEL",
+                "condition": "45",
+                "target": "KLINKLANG",
+                "extra": "0"
+            }
+        ],
+        "evolve_from": [
+            "KLINK"
+        ],
+        "learnset": [
+            {
+                "level": 1,
+                "move": "MOVE_THUNDERSHOCK"
+            },
+            {
+                "level": 1,
+                "move": "MOVE_VICEGRIP"
+            },
+            {
+                "level": 1,
+                "move": "MOVE_BIND"
+            },
+            {
+                "level": 1,
+                "move": "MOVE_CHARGE"
+            },
+            {
+                "level": 12,
+                "move": "MOVE_CHARGEBEAM"
+            },
+            {
+                "level": 16,
+                "move": "MOVE_METALSOUND"
+            },
+            {
+                "level": 20,
+                "move": "MOVE_MIRRORSHOT"
+            },
+            {
+                "level": 24,
+                "move": "MOVE_AUTOTOMIZE"
+            },
+            {
+                "level": 28,
+                "move": "MOVE_DISCHARGE"
+            },
+            {
+                "level": 32,
+                "move": "MOVE_GEARGRIND"
+            },
+            {
+                "level": 36,
+                "move": "MOVE_SCREECH"
+            },
+            {
+                "level": 41,
+                "move": "MOVE_SHIFTGEAR"
+            },
+            {
+                "level": 46,
+                "move": "MOVE_FLASHCANNON"
+            },
+            {
+                "level": 51,
+                "move": "MOVE_LOCKON"
+            },
+            {
+                "level": 56,
+                "move": "MOVE_ZAPCANNON"
+            },
+            {
+                "level": 61,
+                "move": "MOVE_HYPERBEAM"
+            }
+        ],
+        "tm": [
+            "MOVE_TOXIC",
+            "MOVE_HIDDENPOWER",
+            "MOVE_HYPERBEAM",
+            "MOVE_PROTECT",
+            "MOVE_FRUSTRATION",
+            "MOVE_THUNDERBOLT",
+            "MOVE_RETURN",
+            "MOVE_DOUBLETEAM",
+            "MOVE_SHOCKWAVE",
+            "MOVE_SANDSTORM",
+            "MOVE_FACADE",
+            "MOVE_SECRETPOWER",
+            "MOVE_REST",
+            "MOVE_CHARGEBEAM",
+            "MOVE_ENDURE",
+            "MOVE_RECYCLE",
+            "MOVE_ROCKPOLISH",
+            "MOVE_THUNDERWAVE",
+            "MOVE_SLEEPTALK",
+            "MOVE_SWAGGER",
+            "MOVE_SUBSTITUTE",
+            "MOVE_FLASHCANNON",
+            "MOVE_VOLTSWITCH",
+            "MOVE_WILDCHARGE",
+            "MOVE_ROUND",
+            "MOVE_NATURALGIFT",
+            "MOVE_ROCKSMASH"
+        ],
+        "tutor": [
+            "MOVE_SNORE",
+            "MOVE_UPROAR",
+            "MOVE_BIND",
+            "MOVE_SIGNALBEAM",
+            "MOVE_GRAVITY",
+            "MOVE_IRONDEFENSE",
+            "MOVE_TELEKINESIS",
+            "MOVE_MAGNETRISE",
+            "MOVE_MAGICCOAT",
+            "MOVE_CONFIDE",
+            "MOVE_SCREECH",
+            "MOVE_POWERGEM",
+            "MOVE_POLTERGEIST",
+            "MOVE_RISINGVOLTAGE"
+        ]
+    }
 }

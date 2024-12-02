@@ -1,162 +1,151 @@
 {
-    "baseHP": 47,
-    "baseAttack": 82,
-    "baseDefense": 57,
-    "baseSpAttack": 42,
-    "baseSpDefense": 47,
-    "baseSpeed": 63,
-    "type1": "TYPE_FIGHTING",
-    "type2": "TYPE_FIGHTING",
-    "catchRate": 225,
-    "expYield": 114,
-    "evYield_HP": 0,
-    "evYield_Attack": 1,
-    "evYield_Defense": 0,
-    "evYield_SpAttack": 0,
-    "evYield_SpDefense": 0,
-    "evYield_Speed": 0,
-    "item1": "ITEM_NONE",
-    "item2": "ITEM_ASPEAR_BERRY",
-    "genderRatio": 50.0,
-    "eggCycles": 20,
-    "friendship": 50,
-    "growthRate": "GROWTH_MEDIUM_FAST",
-    "eggGroup1": "EGG_GROUP_WATER_3",
-    "eggGroup2": "EGG_GROUP_WATER_3",
-    "ability1": "ABILITY_HYPERCUTTER",
-    "ability2": "ABILITY_IRONFIST",
-    "safariZoneFleeRate": 0,
-    "hiddenAbility": "ABILITY_ANGERPOINT",
-    "noFlip": true,
-    "egg_moves": [
-        "MOVE_WIDEGUARD",
-        "MOVE_SUPERPOWER",
-        "MOVE_ENDEAVOR",
-        "MOVE_AMNESIA"
-    ],
-    "blurb": "Its hard pincers are well suited to both offense and defense.",
-    "name": "Crabrawler",
-    "evolve_from": [],
-    "location": [
-        {
-            "route": "Route 14",
-            "area": "",
-            "method": "Good Rod"
-        },
-        {
-            "route": "Route 14",
-            "area": "",
-            "method": "Super Rod"
-        }
-    ],
-    "learnset": [
-        {
-            "level": 1,
-            "move": "MOVE_BUBBLE"
-        },
-        {
-            "level": 5,
-            "move": "MOVE_ROCKSMASH"
-        },
-        {
-            "level": 9,
-            "move": "MOVE_LEER"
-        },
-        {
-            "level": 13,
-            "move": "MOVE_PURSUIT"
-        },
-        {
-            "level": 17,
-            "move": "MOVE_BUBBLEBEAM"
-        },
-        {
-            "level": 22,
-            "move": "MOVE_POWERUPPUNCH"
-        },
-        {
-            "level": 25,
-            "move": "MOVE_DIZZYPUNCH"
-        },
-        {
-            "level": 29,
-            "move": "MOVE_PAYBACK"
-        },
-        {
-            "level": 33,
-            "move": "MOVE_REVERSAL"
-        },
-        {
-            "level": 37,
-            "move": "MOVE_CRABHAMMER"
-        },
-        {
-            "level": 42,
-            "move": "MOVE_IRONDEFENSE"
-        },
-        {
-            "level": 45,
-            "move": "MOVE_DYNAMICPUNCH"
-        },
-        {
-            "level": 49,
-            "move": "MOVE_CLOSECOMBAT"
-        }
-    ],
-    "tm": [
-        "MOVE_FOCUSPUNCH",
-        "MOVE_TOXIC",
-        "MOVE_BULKUP",
-        "MOVE_HIDDENPOWER",
-        "MOVE_SUNNYDAY",
-        "MOVE_PROTECT",
-        "MOVE_RAINDANCE",
-        "MOVE_FRUSTRATION",
-        "MOVE_EARTHQUAKE",
-        "MOVE_RETURN",
-        "MOVE_BRICKBREAK",
-        "MOVE_DOUBLETEAM",
-        "MOVE_ROCKTOMB",
-        "MOVE_FACADE",
-        "MOVE_SECRETPOWER",
-        "MOVE_REST",
-        "MOVE_ATTRACT",
-        "MOVE_THIEF",
-        "MOVE_FOCUSBLAST",
-        "MOVE_ENDURE",
-        "MOVE_DRAINPUNCH",
-        "MOVE_PAYBACK",
-        "MOVE_STONEEDGE",
-        "MOVE_ROCKSLIDE",
-        "MOVE_SLEEPTALK",
-        "MOVE_SCALD",
-        "MOVE_SWAGGER",
-        "MOVE_SUBSTITUTE",
-        "MOVE_BULLDOZE",
-        "MOVE_FROSTBREATH",
-        "MOVE_WORKUP",
-        "MOVE_POWERUPPUNCH",
-        "MOVE_BRUTALSWING",
-        "MOVE_ROUND",
-        "MOVE_NATURALGIFT",
-        "MOVE_FLING",
-        "MOVE_STRENGTH",
-        "MOVE_ROCKSMASH",
-        "MOVE_ROCKCLIMB"
-    ],
-    "tutor": [
-        "MOVE_ICEPUNCH",
-        "MOVE_THUNDERPUNCH",
-        "MOVE_SNORE",
-        "MOVE_IRONDEFENSE",
-        "MOVE_IRONHEAD",
-        "MOVE_ENDEAVOR",
-        "MOVE_ZENHEADBUTT",
-        "MOVE_DUALCHOP",
-        "MOVE_SUPERPOWER",
-        "MOVE_CONFIDE",
-        "MOVE_REVERSAL",
-        "MOVE_CLOSECOMBAT",
-        "MOVE_COACHING"
-    ]
+    "CRABRAWLER": {
+        "blurb": "Its hard pincers are well suited to both offense and defense.",
+        "baseHP": 47,
+        "baseAttack": 82,
+        "baseDefense": 57,
+        "baseSpAttack": 42,
+        "baseSpDefense": 47,
+        "baseSpeed": 63,
+        "type1": "TYPE_FIGHTING",
+        "type2": "TYPE_FIGHTING",
+        "catchRate": 225,
+        "expYield": 114,
+        "evYield_HP": 0,
+        "evYield_Attack": 1,
+        "evYield_Defense": 0,
+        "evYield_SpAttack": 0,
+        "evYield_SpDefense": 0,
+        "evYield_Speed": 0,
+        "item1": "ITEM_NONE",
+        "item2": "ITEM_ASPEAR_BERRY",
+        "genderRatio": 50.0,
+        "eggCycles": 20,
+        "friendship": 50,
+        "growthRate": "GROWTH_MEDIUM_FAST",
+        "eggGroup1": "EGG_GROUP_WATER_3",
+        "eggGroup2": "EGG_GROUP_WATER_3",
+        "ability1": "ABILITY_HYPERCUTTER",
+        "ability2": "ABILITY_IRONFIST",
+        "safariZoneFleeRate": 0,
+        "hiddenAbility": "ABILITY_ANGERPOINT",
+        "noFlip": true,
+        "evolve_from": [],
+        "egg_moves": [
+            "MOVE_WIDEGUARD",
+            "MOVE_SUPERPOWER",
+            "MOVE_ENDEAVOR",
+            "MOVE_AMNESIA"
+        ],
+        "learnset": [
+            {
+                "level": 1,
+                "move": "MOVE_BUBBLE"
+            },
+            {
+                "level": 5,
+                "move": "MOVE_ROCKSMASH"
+            },
+            {
+                "level": 9,
+                "move": "MOVE_LEER"
+            },
+            {
+                "level": 13,
+                "move": "MOVE_PURSUIT"
+            },
+            {
+                "level": 17,
+                "move": "MOVE_BUBBLEBEAM"
+            },
+            {
+                "level": 22,
+                "move": "MOVE_POWERUPPUNCH"
+            },
+            {
+                "level": 25,
+                "move": "MOVE_DIZZYPUNCH"
+            },
+            {
+                "level": 29,
+                "move": "MOVE_PAYBACK"
+            },
+            {
+                "level": 33,
+                "move": "MOVE_REVERSAL"
+            },
+            {
+                "level": 37,
+                "move": "MOVE_CRABHAMMER"
+            },
+            {
+                "level": 42,
+                "move": "MOVE_IRONDEFENSE"
+            },
+            {
+                "level": 45,
+                "move": "MOVE_DYNAMICPUNCH"
+            },
+            {
+                "level": 49,
+                "move": "MOVE_CLOSECOMBAT"
+            }
+        ],
+        "tm": [
+            "MOVE_FOCUSPUNCH",
+            "MOVE_TOXIC",
+            "MOVE_BULKUP",
+            "MOVE_HIDDENPOWER",
+            "MOVE_SUNNYDAY",
+            "MOVE_PROTECT",
+            "MOVE_RAINDANCE",
+            "MOVE_FRUSTRATION",
+            "MOVE_EARTHQUAKE",
+            "MOVE_RETURN",
+            "MOVE_BRICKBREAK",
+            "MOVE_DOUBLETEAM",
+            "MOVE_ROCKTOMB",
+            "MOVE_FACADE",
+            "MOVE_SECRETPOWER",
+            "MOVE_REST",
+            "MOVE_ATTRACT",
+            "MOVE_THIEF",
+            "MOVE_FOCUSBLAST",
+            "MOVE_ENDURE",
+            "MOVE_DRAINPUNCH",
+            "MOVE_PAYBACK",
+            "MOVE_STONEEDGE",
+            "MOVE_ROCKSLIDE",
+            "MOVE_SLEEPTALK",
+            "MOVE_SCALD",
+            "MOVE_SWAGGER",
+            "MOVE_SUBSTITUTE",
+            "MOVE_BULLDOZE",
+            "MOVE_FROSTBREATH",
+            "MOVE_WORKUP",
+            "MOVE_POWERUPPUNCH",
+            "MOVE_BRUTALSWING",
+            "MOVE_ROUND",
+            "MOVE_NATURALGIFT",
+            "MOVE_FLING",
+            "MOVE_STRENGTH",
+            "MOVE_ROCKSMASH",
+            "MOVE_ROCKCLIMB"
+        ],
+        "tutor": [
+            "MOVE_ICEPUNCH",
+            "MOVE_THUNDERPUNCH",
+            "MOVE_SNORE",
+            "MOVE_IRONDEFENSE",
+            "MOVE_IRONHEAD",
+            "MOVE_ENDEAVOR",
+            "MOVE_ZENHEADBUTT",
+            "MOVE_DUALCHOP",
+            "MOVE_SUPERPOWER",
+            "MOVE_CONFIDE",
+            "MOVE_REVERSAL",
+            "MOVE_CLOSECOMBAT",
+            "MOVE_COACHING"
+        ]
+    }
 }

@@ -1,215 +1,216 @@
 {
-    "baseHP": 81,
-    "baseAttack": 102,
-    "baseDefense": 77,
-    "baseSpAttack": 85,
-    "baseSpDefense": 75,
-    "baseSpeed": 85,
-    "type1": "TYPE_POISON",
-    "type2": "TYPE_GROUND",
-    "catchRate": 45,
-    "expYield": 195,
-    "evYield_HP": 0,
-    "evYield_Attack": 3,
-    "evYield_Defense": 0,
-    "evYield_SpAttack": 0,
-    "evYield_SpDefense": 0,
-    "evYield_Speed": 0,
-    "item1": "ITEM_NONE",
-    "item2": "ITEM_NONE",
-    "genderRatio": 0.0,
-    "eggCycles": 20,
-    "friendship": 50,
-    "growthRate": "GROWTH_MEDIUM_SLOW",
-    "eggGroup1": "EGG_GROUP_MONSTER",
-    "eggGroup2": "EGG_GROUP_FIELD",
-    "ability1": "ABILITY_POISONPOINT",
-    "ability2": "ABILITY_RIVALRY",
-    "safariZoneFleeRate": 0,
-    "hiddenAbility": "ABILITY_SHEERFORCE",
-    "noFlip": true,
-    "name": "Nidoking",
-    "evolve_from": [
-        "NIDORINO"
-    ],
-    "learnset": [
-        {
-            "level": 0,
-            "move": "MOVE_CHIPAWAY"
-        },
-        {
-            "level": 1,
-            "move": "MOVE_THRASH"
-        },
-        {
-            "level": 1,
-            "move": "MOVE_LEER"
-        },
-        {
-            "level": 1,
-            "move": "MOVE_POISONSTING"
-        },
-        {
-            "level": 1,
-            "move": "MOVE_PECK"
-        },
-        {
-            "level": 1,
-            "move": "MOVE_FURYATTACK"
-        },
-        {
-            "level": 1,
-            "move": "MOVE_TOXICSPIKES"
-        },
-        {
-            "level": 1,
-            "move": "MOVE_HORNATTACK"
-        },
-        {
-            "level": 1,
-            "move": "MOVE_HELPINGHAND"
-        },
-        {
-            "level": 1,
-            "move": "MOVE_CAPTIVATE"
-        },
-        {
-            "level": 1,
-            "move": "MOVE_TOXIC"
-        },
-        {
-            "level": 1,
-            "move": "MOVE_FLATTER"
-        },
-        {
-            "level": 1,
-            "move": "MOVE_HORNDRILL"
-        },
-        {
-            "level": 1,
-            "move": "MOVE_CHIPAWAY"
-        },
-        {
-            "level": 1,
-            "move": "MOVE_POISONTAIL"
-        },
-        {
-            "level": 1,
-            "move": "MOVE_DOUBLEKICK"
-        },
-        {
-            "level": 1,
-            "move": "MOVE_FOCUSENERGY"
-        },
-        {
-            "level": 48,
-            "move": "MOVE_MEGAHORN"
-        },
-        {
-            "level": 52,
-            "move": "MOVE_POISONJAB"
-        },
-        {
-            "level": 57,
-            "move": "MOVE_EARTHPOWER"
-        }
-    ],
-    "tm": [
-        "MOVE_FOCUSPUNCH",
-        "MOVE_WATERPULSE",
-        "MOVE_ROAR",
-        "MOVE_TOXIC",
-        "MOVE_HIDDENPOWER",
-        "MOVE_SUNNYDAY",
-        "MOVE_TAUNT",
-        "MOVE_ICEBEAM",
-        "MOVE_BLIZZARD",
-        "MOVE_HYPERBEAM",
-        "MOVE_PROTECT",
-        "MOVE_RAINDANCE",
-        "MOVE_FRUSTRATION",
-        "MOVE_IRONTAIL",
-        "MOVE_THUNDERBOLT",
-        "MOVE_THUNDER",
-        "MOVE_EARTHQUAKE",
-        "MOVE_RETURN",
-        "MOVE_DIG",
-        "MOVE_SHADOWBALL",
-        "MOVE_BRICKBREAK",
-        "MOVE_DOUBLETEAM",
-        "MOVE_SHOCKWAVE",
-        "MOVE_FLAMETHROWER",
-        "MOVE_SLUDGEBOMB",
-        "MOVE_SANDSTORM",
-        "MOVE_FIREBLAST",
-        "MOVE_ROCKTOMB",
-        "MOVE_TORMENT",
-        "MOVE_FACADE",
-        "MOVE_SECRETPOWER",
-        "MOVE_REST",
-        "MOVE_ATTRACT",
-        "MOVE_THIEF",
-        "MOVE_FOCUSBLAST",
-        "MOVE_HONECLAWS",
-        "MOVE_ENDURE",
-        "MOVE_DRAGONPULSE",
-        "MOVE_VENOSHOCK",
-        "MOVE_SHADOWCLAW",
-        "MOVE_GIGAIMPACT",
-        "MOVE_STONEEDGE",
-        "MOVE_AVALANCHE",
-        "MOVE_STEALTHROCK",
-        "MOVE_ROCKSLIDE",
-        "MOVE_SLEEPTALK",
-        "MOVE_POISONJAB",
-        "MOVE_SWAGGER",
-        "MOVE_SUBSTITUTE",
-        "MOVE_DRAGONTAIL",
-        "MOVE_INCINERATE",
-        "MOVE_BULLDOZE",
-        "MOVE_POWERUPPUNCH",
-        "MOVE_SLUDGEWAVE",
-        "MOVE_SMARTSTRIKE",
-        "MOVE_SMACKDOWN",
-        "MOVE_ROUND",
-        "MOVE_ECHOEDVOICE",
-        "MOVE_NATURALGIFT",
-        "MOVE_QUASH",
-        "MOVE_FLING",
-        "MOVE_CUT",
-        "MOVE_SURF",
-        "MOVE_STRENGTH",
-        "MOVE_ROCKSMASH",
-        "MOVE_ROCKCLIMB"
-    ],
-    "tutor": [
-        "MOVE_FIREPUNCH",
-        "MOVE_ICEPUNCH",
-        "MOVE_THUNDERPUNCH",
-        "MOVE_SNORE",
-        "MOVE_UPROAR",
-        "MOVE_HELPINGHAND",
-        "MOVE_AQUATAIL",
-        "MOVE_ICYWIND",
-        "MOVE_DRILLRUN",
-        "MOVE_SUPERFANG",
-        "MOVE_OUTRAGE",
-        "MOVE_THROATCHOP",
-        "MOVE_STOMPINGTANTRUM",
-        "MOVE_EARTHPOWER",
-        "MOVE_SUPERPOWER",
-        "MOVE_CONFIDE",
-        "MOVE_FOCUSENERGY",
-        "MOVE_VENOMDRENCH",
-        "MOVE_TOXICSPIKES",
-        "MOVE_WHIRLPOOL",
-        "MOVE_SANDTOMB",
-        "MOVE_ROCKBLAST",
-        "MOVE_BODYSLAM",
-        "MOVE_BODYPRESS",
-        "MOVE_HEX",
-        "MOVE_HIGHHORSEPOWER",
-        "MOVE_MEGAHORN",
-        "MOVE_SCORCHINGSANDS"
-    ]
+    "NIDOKING": {
+        "baseHP": 81,
+        "baseAttack": 102,
+        "baseDefense": 77,
+        "baseSpAttack": 85,
+        "baseSpDefense": 75,
+        "baseSpeed": 85,
+        "type1": "TYPE_POISON",
+        "type2": "TYPE_GROUND",
+        "catchRate": 45,
+        "expYield": 195,
+        "evYield_HP": 0,
+        "evYield_Attack": 3,
+        "evYield_Defense": 0,
+        "evYield_SpAttack": 0,
+        "evYield_SpDefense": 0,
+        "evYield_Speed": 0,
+        "item1": "ITEM_NONE",
+        "item2": "ITEM_NONE",
+        "genderRatio": 0.0,
+        "eggCycles": 20,
+        "friendship": 50,
+        "growthRate": "GROWTH_MEDIUM_SLOW",
+        "eggGroup1": "EGG_GROUP_MONSTER",
+        "eggGroup2": "EGG_GROUP_FIELD",
+        "ability1": "ABILITY_POISONPOINT",
+        "ability2": "ABILITY_RIVALRY",
+        "safariZoneFleeRate": 0,
+        "hiddenAbility": "ABILITY_SHEERFORCE",
+        "noFlip": true,
+        "evolve_from": [
+            "NIDORINO"
+        ],
+        "learnset": [
+            {
+                "level": 0,
+                "move": "MOVE_CHIPAWAY"
+            },
+            {
+                "level": 1,
+                "move": "MOVE_THRASH"
+            },
+            {
+                "level": 1,
+                "move": "MOVE_LEER"
+            },
+            {
+                "level": 1,
+                "move": "MOVE_POISONSTING"
+            },
+            {
+                "level": 1,
+                "move": "MOVE_PECK"
+            },
+            {
+                "level": 1,
+                "move": "MOVE_FURYATTACK"
+            },
+            {
+                "level": 1,
+                "move": "MOVE_TOXICSPIKES"
+            },
+            {
+                "level": 1,
+                "move": "MOVE_HORNATTACK"
+            },
+            {
+                "level": 1,
+                "move": "MOVE_HELPINGHAND"
+            },
+            {
+                "level": 1,
+                "move": "MOVE_CAPTIVATE"
+            },
+            {
+                "level": 1,
+                "move": "MOVE_TOXIC"
+            },
+            {
+                "level": 1,
+                "move": "MOVE_FLATTER"
+            },
+            {
+                "level": 1,
+                "move": "MOVE_HORNDRILL"
+            },
+            {
+                "level": 1,
+                "move": "MOVE_CHIPAWAY"
+            },
+            {
+                "level": 1,
+                "move": "MOVE_POISONTAIL"
+            },
+            {
+                "level": 1,
+                "move": "MOVE_DOUBLEKICK"
+            },
+            {
+                "level": 1,
+                "move": "MOVE_FOCUSENERGY"
+            },
+            {
+                "level": 48,
+                "move": "MOVE_MEGAHORN"
+            },
+            {
+                "level": 52,
+                "move": "MOVE_POISONJAB"
+            },
+            {
+                "level": 57,
+                "move": "MOVE_EARTHPOWER"
+            }
+        ],
+        "tm": [
+            "MOVE_FOCUSPUNCH",
+            "MOVE_WATERPULSE",
+            "MOVE_ROAR",
+            "MOVE_TOXIC",
+            "MOVE_HIDDENPOWER",
+            "MOVE_SUNNYDAY",
+            "MOVE_TAUNT",
+            "MOVE_ICEBEAM",
+            "MOVE_BLIZZARD",
+            "MOVE_HYPERBEAM",
+            "MOVE_PROTECT",
+            "MOVE_RAINDANCE",
+            "MOVE_FRUSTRATION",
+            "MOVE_IRONTAIL",
+            "MOVE_THUNDERBOLT",
+            "MOVE_THUNDER",
+            "MOVE_EARTHQUAKE",
+            "MOVE_RETURN",
+            "MOVE_DIG",
+            "MOVE_SHADOWBALL",
+            "MOVE_BRICKBREAK",
+            "MOVE_DOUBLETEAM",
+            "MOVE_SHOCKWAVE",
+            "MOVE_FLAMETHROWER",
+            "MOVE_SLUDGEBOMB",
+            "MOVE_SANDSTORM",
+            "MOVE_FIREBLAST",
+            "MOVE_ROCKTOMB",
+            "MOVE_TORMENT",
+            "MOVE_FACADE",
+            "MOVE_SECRETPOWER",
+            "MOVE_REST",
+            "MOVE_ATTRACT",
+            "MOVE_THIEF",
+            "MOVE_FOCUSBLAST",
+            "MOVE_HONECLAWS",
+            "MOVE_ENDURE",
+            "MOVE_DRAGONPULSE",
+            "MOVE_VENOSHOCK",
+            "MOVE_SHADOWCLAW",
+            "MOVE_GIGAIMPACT",
+            "MOVE_STONEEDGE",
+            "MOVE_AVALANCHE",
+            "MOVE_STEALTHROCK",
+            "MOVE_ROCKSLIDE",
+            "MOVE_SLEEPTALK",
+            "MOVE_POISONJAB",
+            "MOVE_SWAGGER",
+            "MOVE_SUBSTITUTE",
+            "MOVE_DRAGONTAIL",
+            "MOVE_INCINERATE",
+            "MOVE_BULLDOZE",
+            "MOVE_POWERUPPUNCH",
+            "MOVE_SLUDGEWAVE",
+            "MOVE_SMARTSTRIKE",
+            "MOVE_SMACKDOWN",
+            "MOVE_ROUND",
+            "MOVE_ECHOEDVOICE",
+            "MOVE_NATURALGIFT",
+            "MOVE_QUASH",
+            "MOVE_FLING",
+            "MOVE_CUT",
+            "MOVE_SURF",
+            "MOVE_STRENGTH",
+            "MOVE_ROCKSMASH",
+            "MOVE_ROCKCLIMB"
+        ],
+        "tutor": [
+            "MOVE_FIREPUNCH",
+            "MOVE_ICEPUNCH",
+            "MOVE_THUNDERPUNCH",
+            "MOVE_SNORE",
+            "MOVE_UPROAR",
+            "MOVE_HELPINGHAND",
+            "MOVE_AQUATAIL",
+            "MOVE_ICYWIND",
+            "MOVE_DRILLRUN",
+            "MOVE_SUPERFANG",
+            "MOVE_OUTRAGE",
+            "MOVE_THROATCHOP",
+            "MOVE_STOMPINGTANTRUM",
+            "MOVE_EARTHPOWER",
+            "MOVE_SUPERPOWER",
+            "MOVE_CONFIDE",
+            "MOVE_FOCUSENERGY",
+            "MOVE_VENOMDRENCH",
+            "MOVE_TOXICSPIKES",
+            "MOVE_WHIRLPOOL",
+            "MOVE_SANDTOMB",
+            "MOVE_ROCKBLAST",
+            "MOVE_BODYSLAM",
+            "MOVE_BODYPRESS",
+            "MOVE_HEX",
+            "MOVE_HIGHHORSEPOWER",
+            "MOVE_MEGAHORN",
+            "MOVE_SCORCHINGSANDS"
+        ]
+    }
 }

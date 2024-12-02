@@ -1,177 +1,275 @@
 {
-    "baseHP": 55,
-    "baseAttack": 40,
-    "baseDefense": 50,
-    "baseSpAttack": 65,
-    "baseSpDefense": 85,
-    "baseSpeed": 40,
-    "type1": "TYPE_WATER",
-    "type2": "TYPE_GHOST",
-    "catchRate": 190,
-    "expYield": 67,
-    "evYield_HP": 0,
-    "evYield_Attack": 0,
-    "evYield_Defense": 0,
-    "evYield_SpAttack": 0,
-    "evYield_SpDefense": 1,
-    "evYield_Speed": 0,
-    "item1": "ITEM_NONE",
-    "item2": "ITEM_NONE",
-    "genderRatio": 50.0,
-    "eggCycles": 20,
-    "friendship": 50,
-    "growthRate": "GROWTH_MEDIUM_FAST",
-    "eggGroup1": "EGG_GROUP_AMORPHOUS",
-    "eggGroup2": "EGG_GROUP_AMORPHOUS",
-    "ability1": "ABILITY_WATERABSORB",
-    "ability2": "ABILITY_CURSEDBODY",
-    "safariZoneFleeRate": 0,
-    "hiddenAbility": "ABILITY_WATERBUBBLE",
-    "noFlip": true,
-    "egg_moves": [
-        "MOVE_ACIDARMOR",
-        "MOVE_CONFUSERAY",
-        "MOVE_PAINSPLIT",
-        "MOVE_MIST",
-        "MOVE_CONSTRICT",
-        "MOVE_STRENGTHSAP"
-    ],
-    "evolve_to": [
-        {
-            "method": "EVO_LEVEL",
-            "condition": "40",
-            "target": "JELLICENT",
-            "extra": "0"
-        }
-    ],
-    "blurb": "They paralyze prey with poison, then drag them down to their lairs, five miles below the surface.",
-    "name": "Frillish",
-    "evolve_from": [],
-    "tm": [
-        "MOVE_WATERPULSE",
-        "MOVE_TOXIC",
-        "MOVE_HAIL",
-        "MOVE_HIDDENPOWER",
-        "MOVE_TAUNT",
-        "MOVE_ICEBEAM",
-        "MOVE_BLIZZARD",
-        "MOVE_PROTECT",
-        "MOVE_RAINDANCE",
-        "MOVE_GIGADRAIN",
-        "MOVE_SAFEGUARD",
-        "MOVE_FRUSTRATION",
-        "MOVE_RETURN",
-        "MOVE_PSYCHIC",
-        "MOVE_SHADOWBALL",
-        "MOVE_DOUBLETEAM",
-        "MOVE_SHOCKWAVE",
-        "MOVE_SLUDGEBOMB",
-        "MOVE_FACADE",
-        "MOVE_SECRETPOWER",
-        "MOVE_REST",
-        "MOVE_ATTRACT",
-        "MOVE_ENERGYBALL",
-        "MOVE_BRINE",
-        "MOVE_ENDURE",
-        "MOVE_WILLOWISP",
-        "MOVE_FLASH",
-        "MOVE_DARKPULSE",
-        "MOVE_SLEEPTALK",
-        "MOVE_SCALD",
-        "MOVE_DREAMEATER",
-        "MOVE_SWAGGER",
-        "MOVE_SUBSTITUTE",
-        "MOVE_DAZZLINGGLEAM",
-        "MOVE_SLUDGEWAVE",
-        "MOVE_ROUND",
-        "MOVE_NATURALGIFT",
-        "MOVE_TRICKROOM",
-        "MOVE_SURF",
-        "MOVE_DIVE",
-        "MOVE_WATERFALL"
-    ],
-    "tutor": [
-        "MOVE_SNORE",
-        "MOVE_BIND",
-        "MOVE_SPITE",
-        "MOVE_PAINSPLIT",
-        "MOVE_ICYWIND",
-        "MOVE_TRICK",
-        "MOVE_MAGICCOAT",
-        "MOVE_PSYCHUP",
-        "MOVE_CONFIDE",
-        "MOVE_WHIRLPOOL",
-        "MOVE_HEX",
-        "MOVE_HYDROPUMP"
-    ],
-    "learnset": [
-        {
-            "level": 1,
-            "move": "MOVE_WATERSPORT"
-        },
-        {
-            "level": 1,
-            "move": "MOVE_ABSORB"
-        },
-        {
-            "level": 1,
-            "move": "MOVE_BUBBLE"
-        },
-        {
-            "level": 4,
-            "move": "MOVE_POISONSTING"
-        },
-        {
-            "level": 8,
-            "move": "MOVE_NIGHTSHADE"
-        },
-        {
-            "level": 12,
-            "move": "MOVE_BUBBLEBEAM"
-        },
-        {
-            "level": 16,
-            "move": "MOVE_RAINDANCE"
-        },
-        {
-            "level": 20,
-            "move": "MOVE_OMINOUSWIND"
-        },
-        {
-            "level": 24,
-            "move": "MOVE_BRINE"
-        },
-        {
-            "level": 28,
-            "move": "MOVE_RECOVER"
-        },
-        {
-            "level": 32,
-            "move": "MOVE_HEX"
-        },
-        {
-            "level": 36,
-            "move": "MOVE_WHIRLPOOL"
-        },
-        {
-            "level": 41,
-            "move": "MOVE_HYDROPUMP"
-        },
-        {
-            "level": 44,
-            "move": "MOVE_DESTINYBOND"
-        },
-        {
-            "level": 48,
-            "move": "MOVE_SHADOWBALL"
-        },
-        {
-            "level": 52,
-            "move": "MOVE_WRINGOUT"
-        },
-        {
-            "level": 56,
-            "move": "MOVE_WATERSPOUT"
-        }
-    ]
+    "FRILLISH": {
+        "blurb": "They paralyze prey with poison, then drag them down to their lairs, five miles below the surface.",
+        "baseHP": 55,
+        "baseAttack": 40,
+        "baseDefense": 50,
+        "baseSpAttack": 65,
+        "baseSpDefense": 85,
+        "baseSpeed": 40,
+        "type1": "TYPE_WATER",
+        "type2": "TYPE_GHOST",
+        "catchRate": 190,
+        "expYield": 67,
+        "evYield_HP": 0,
+        "evYield_Attack": 0,
+        "evYield_Defense": 0,
+        "evYield_SpAttack": 0,
+        "evYield_SpDefense": 1,
+        "evYield_Speed": 0,
+        "item1": "ITEM_NONE",
+        "item2": "ITEM_NONE",
+        "genderRatio": 50.0,
+        "eggCycles": 20,
+        "friendship": 50,
+        "growthRate": "GROWTH_MEDIUM_FAST",
+        "eggGroup1": "EGG_GROUP_AMORPHOUS",
+        "eggGroup2": "EGG_GROUP_AMORPHOUS",
+        "ability1": "ABILITY_WATERABSORB",
+        "ability2": "ABILITY_CURSEDBODY",
+        "safariZoneFleeRate": 0,
+        "hiddenAbility": "ABILITY_WATERBUBBLE",
+        "noFlip": true,
+        "evolve_to": [
+            {
+                "method": "EVO_LEVEL",
+                "condition": "40",
+                "target": "JELLICENT",
+                "extra": "0"
+            }
+        ],
+        "evolve_from": [],
+        "egg_moves": [
+            "MOVE_ACIDARMOR",
+            "MOVE_CONFUSERAY",
+            "MOVE_PAINSPLIT",
+            "MOVE_MIST",
+            "MOVE_CONSTRICT",
+            "MOVE_STRENGTHSAP"
+        ],
+        "tm": [
+            "MOVE_WATERPULSE",
+            "MOVE_TOXIC",
+            "MOVE_HAIL",
+            "MOVE_HIDDENPOWER",
+            "MOVE_TAUNT",
+            "MOVE_ICEBEAM",
+            "MOVE_BLIZZARD",
+            "MOVE_PROTECT",
+            "MOVE_RAINDANCE",
+            "MOVE_GIGADRAIN",
+            "MOVE_SAFEGUARD",
+            "MOVE_FRUSTRATION",
+            "MOVE_RETURN",
+            "MOVE_PSYCHIC",
+            "MOVE_SHADOWBALL",
+            "MOVE_DOUBLETEAM",
+            "MOVE_SHOCKWAVE",
+            "MOVE_SLUDGEBOMB",
+            "MOVE_FACADE",
+            "MOVE_SECRETPOWER",
+            "MOVE_REST",
+            "MOVE_ATTRACT",
+            "MOVE_ENERGYBALL",
+            "MOVE_BRINE",
+            "MOVE_ENDURE",
+            "MOVE_WILLOWISP",
+            "MOVE_FLASH",
+            "MOVE_DARKPULSE",
+            "MOVE_SLEEPTALK",
+            "MOVE_SCALD",
+            "MOVE_DREAMEATER",
+            "MOVE_SWAGGER",
+            "MOVE_SUBSTITUTE",
+            "MOVE_DAZZLINGGLEAM",
+            "MOVE_SLUDGEWAVE",
+            "MOVE_ROUND",
+            "MOVE_NATURALGIFT",
+            "MOVE_TRICKROOM",
+            "MOVE_SURF",
+            "MOVE_DIVE",
+            "MOVE_WATERFALL"
+        ],
+        "tutor": [
+            "MOVE_SNORE",
+            "MOVE_BIND",
+            "MOVE_SPITE",
+            "MOVE_PAINSPLIT",
+            "MOVE_ICYWIND",
+            "MOVE_TRICK",
+            "MOVE_MAGICCOAT",
+            "MOVE_PSYCHUP",
+            "MOVE_CONFIDE",
+            "MOVE_WHIRLPOOL",
+            "MOVE_HEX",
+            "MOVE_HYDROPUMP"
+        ]
+    },
+    "FRILLISH_F": {
+        "baseHP": 55,
+        "baseAttack": 40,
+        "baseDefense": 50,
+        "baseSpAttack": 65,
+        "baseSpDefense": 85,
+        "baseSpeed": 40,
+        "type1": "TYPE_WATER",
+        "type2": "TYPE_GHOST",
+        "catchRate": 190,
+        "expYield": 67,
+        "evYield_HP": 0,
+        "evYield_Attack": 0,
+        "evYield_Defense": 0,
+        "evYield_SpAttack": 0,
+        "evYield_SpDefense": 1,
+        "evYield_Speed": 0,
+        "item1": "ITEM_NONE",
+        "item2": "ITEM_NONE",
+        "genderRatio": 100.0,
+        "eggCycles": 20,
+        "friendship": 50,
+        "growthRate": "GROWTH_MEDIUM_FAST",
+        "eggGroup1": "EGG_GROUP_AMORPHOUS",
+        "eggGroup2": "EGG_GROUP_AMORPHOUS",
+        "ability1": "ABILITY_CURSEDBODY",
+        "ability2": "ABILITY_WATERABSORB",
+        "safariZoneFleeRate": 0,
+        "hiddenAbility": "ABILITY_DAMP",
+        "noFlip": true,
+        "evolve_to": [
+            {
+                "method": "EVO_LEVEL",
+                "condition": "40",
+                "target": "JELLICENT_F",
+                "extra": "0"
+            }
+        ],
+        "evolve_from": [],
+        "learnset": [
+            {
+                "level": 1,
+                "move": "MOVE_WATERSPORT"
+            },
+            {
+                "level": 1,
+                "move": "MOVE_ABSORB"
+            },
+            {
+                "level": 1,
+                "move": "MOVE_BUBBLE"
+            },
+            {
+                "level": 4,
+                "move": "MOVE_POISONSTING"
+            },
+            {
+                "level": 8,
+                "move": "MOVE_NIGHTSHADE"
+            },
+            {
+                "level": 12,
+                "move": "MOVE_BUBBLEBEAM"
+            },
+            {
+                "level": 16,
+                "move": "MOVE_RAINDANCE"
+            },
+            {
+                "level": 20,
+                "move": "MOVE_OMINOUSWIND"
+            },
+            {
+                "level": 24,
+                "move": "MOVE_BRINE"
+            },
+            {
+                "level": 28,
+                "move": "MOVE_RECOVER"
+            },
+            {
+                "level": 32,
+                "move": "MOVE_HEX"
+            },
+            {
+                "level": 36,
+                "move": "MOVE_WHIRLPOOL"
+            },
+            {
+                "level": 41,
+                "move": "MOVE_HYDROPUMP"
+            },
+            {
+                "level": 44,
+                "move": "MOVE_DESTINYBOND"
+            },
+            {
+                "level": 48,
+                "move": "MOVE_SHADOWBALL"
+            },
+            {
+                "level": 52,
+                "move": "MOVE_WRINGOUT"
+            },
+            {
+                "level": 56,
+                "move": "MOVE_WATERSPOUT"
+            }
+        ],
+        "tm": [
+            "MOVE_WATERPULSE",
+            "MOVE_TOXIC",
+            "MOVE_HAIL",
+            "MOVE_HIDDENPOWER",
+            "MOVE_TAUNT",
+            "MOVE_ICEBEAM",
+            "MOVE_BLIZZARD",
+            "MOVE_PROTECT",
+            "MOVE_RAINDANCE",
+            "MOVE_GIGADRAIN",
+            "MOVE_SAFEGUARD",
+            "MOVE_FRUSTRATION",
+            "MOVE_RETURN",
+            "MOVE_PSYCHIC",
+            "MOVE_SHADOWBALL",
+            "MOVE_DOUBLETEAM",
+            "MOVE_SHOCKWAVE",
+            "MOVE_SLUDGEBOMB",
+            "MOVE_FACADE",
+            "MOVE_SECRETPOWER",
+            "MOVE_REST",
+            "MOVE_ATTRACT",
+            "MOVE_ENERGYBALL",
+            "MOVE_BRINE",
+            "MOVE_ENDURE",
+            "MOVE_WILLOWISP",
+            "MOVE_FLASH",
+            "MOVE_DARKPULSE",
+            "MOVE_SLEEPTALK",
+            "MOVE_SCALD",
+            "MOVE_DREAMEATER",
+            "MOVE_SWAGGER",
+            "MOVE_SUBSTITUTE",
+            "MOVE_DAZZLINGGLEAM",
+            "MOVE_SLUDGEWAVE",
+            "MOVE_ROUND",
+            "MOVE_NATURALGIFT",
+            "MOVE_TRICKROOM",
+            "MOVE_SURF",
+            "MOVE_DIVE",
+            "MOVE_WATERFALL"
+        ],
+        "tutor": [
+            "MOVE_SNORE",
+            "MOVE_BIND",
+            "MOVE_SPITE",
+            "MOVE_PAINSPLIT",
+            "MOVE_ICYWIND",
+            "MOVE_TRICK",
+            "MOVE_MAGICCOAT",
+            "MOVE_PSYCHUP",
+            "MOVE_CONFIDE",
+            "MOVE_WHIRLPOOL",
+            "MOVE_HEX",
+            "MOVE_HYDROPUMP"
+        ]
+    }
 }

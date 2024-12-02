@@ -1,171 +1,172 @@
 {
-    "baseHP": 75,
-    "baseAttack": 55,
-    "baseDefense": 70,
-    "baseSpAttack": 55,
-    "baseSpDefense": 95,
-    "baseSpeed": 110,
-    "type1": "TYPE_GRASS",
-    "type2": "TYPE_FLYING",
-    "catchRate": 45,
-    "expYield": 176,
-    "evYield_HP": 0,
-    "evYield_Attack": 0,
-    "evYield_Defense": 0,
-    "evYield_SpAttack": 0,
-    "evYield_SpDefense": 0,
-    "evYield_Speed": 3,
-    "item1": "ITEM_NONE",
-    "item2": "ITEM_NONE",
-    "genderRatio": 50.0,
-    "eggCycles": 20,
-    "friendship": 50,
-    "growthRate": "GROWTH_MEDIUM_SLOW",
-    "eggGroup1": "EGG_GROUP_FAIRY",
-    "eggGroup2": "EGG_GROUP_GRASS",
-    "ability1": "ABILITY_CHLOROPHYLL",
-    "ability2": "ABILITY_INFILTRATOR",
-    "safariZoneFleeRate": 0,
-    "hiddenAbility": "ABILITY_SIMPLE",
-    "noFlip": true,
-    "name": "Jumpluff",
-    "evolve_from": [
-        "SKIPLOOM"
-    ],
-    "learnset": [
-        {
-            "level": 1,
-            "move": "MOVE_UTURN"
-        },
-        {
-            "level": 1,
-            "move": "MOVE_SPLASH"
-        },
-        {
-            "level": 1,
-            "move": "MOVE_ABSORB"
-        },
-        {
-            "level": 1,
-            "move": "MOVE_SYNTHESIS"
-        },
-        {
-            "level": 1,
-            "move": "MOVE_TAILWHIP"
-        },
-        {
-            "level": 1,
-            "move": "MOVE_TACKLE"
-        },
-        {
-            "level": 10,
-            "move": "MOVE_FAIRYWIND"
-        },
-        {
-            "level": 12,
-            "move": "MOVE_POISONPOWDER"
-        },
-        {
-            "level": 14,
-            "move": "MOVE_STUNSPORE"
-        },
-        {
-            "level": 16,
-            "move": "MOVE_SLEEPPOWDER"
-        },
-        {
-            "level": 18,
-            "move": "MOVE_MEGADRAIN"
-        },
-        {
-            "level": 23,
-            "move": "MOVE_LEECHSEED"
-        },
-        {
-            "level": 26,
-            "move": "MOVE_BULLETSEED"
-        },
-        {
-            "level": 32,
-            "move": "MOVE_ACROBATICS"
-        },
-        {
-            "level": 37,
-            "move": "MOVE_RAGEPOWDER"
-        },
-        {
-            "level": 41,
-            "move": "MOVE_COTTONSPORE"
-        },
-        {
-            "level": 45,
-            "move": "MOVE_GIGADRAIN"
-        },
-        {
-            "level": 50,
-            "move": "MOVE_WORRYSEED"
-        },
-        {
-            "level": 54,
-            "move": "MOVE_POLLENPUFF"
-        },
-        {
-            "level": 59,
-            "move": "MOVE_BOUNCE"
-        },
-        {
-            "level": 64,
-            "move": "MOVE_MEMENTO"
-        }
-    ],
-    "tm": [
-        "MOVE_TOXIC",
-        "MOVE_BULLETSEED",
-        "MOVE_HIDDENPOWER",
-        "MOVE_SUNNYDAY",
-        "MOVE_HYPERBEAM",
-        "MOVE_PROTECT",
-        "MOVE_GIGADRAIN",
-        "MOVE_FRUSTRATION",
-        "MOVE_SOLARBEAM",
-        "MOVE_RETURN",
-        "MOVE_DOUBLETEAM",
-        "MOVE_REFLECT",
-        "MOVE_AERIALACE",
-        "MOVE_FACADE",
-        "MOVE_SECRETPOWER",
-        "MOVE_REST",
-        "MOVE_ATTRACT",
-        "MOVE_ENERGYBALL",
-        "MOVE_ENDURE",
-        "MOVE_SILVERWIND",
-        "MOVE_GIGAIMPACT",
-        "MOVE_FLASH",
-        "MOVE_SWORDSDANCE",
-        "MOVE_SLEEPTALK",
-        "MOVE_GRASSKNOT",
-        "MOVE_SWAGGER",
-        "MOVE_UTURN",
-        "MOVE_SUBSTITUTE",
-        "MOVE_INFESTATION",
-        "MOVE_DAZZLINGGLEAM",
-        "MOVE_ACROBATICS",
-        "MOVE_ROUND",
-        "MOVE_NATURALGIFT"
-    ],
-    "tutor": [
-        "MOVE_SNORE",
-        "MOVE_HELPINGHAND",
-        "MOVE_WORRYSEED",
-        "MOVE_SYNTHESIS",
-        "MOVE_BOUNCE",
-        "MOVE_SEEDBOMB",
-        "MOVE_PSYCHUP",
-        "MOVE_CONFIDE",
-        "MOVE_BATONPASS",
-        "MOVE_ENCORE",
-        "MOVE_GRASSYTERRAIN",
-        "MOVE_POLLENPUFF",
-        "MOVE_LEAFSTORM"
-    ]
+    "JUMPLUFF": {
+        "baseHP": 75,
+        "baseAttack": 55,
+        "baseDefense": 70,
+        "baseSpAttack": 55,
+        "baseSpDefense": 95,
+        "baseSpeed": 110,
+        "type1": "TYPE_GRASS",
+        "type2": "TYPE_FLYING",
+        "catchRate": 45,
+        "expYield": 176,
+        "evYield_HP": 0,
+        "evYield_Attack": 0,
+        "evYield_Defense": 0,
+        "evYield_SpAttack": 0,
+        "evYield_SpDefense": 0,
+        "evYield_Speed": 3,
+        "item1": "ITEM_NONE",
+        "item2": "ITEM_NONE",
+        "genderRatio": 50.0,
+        "eggCycles": 20,
+        "friendship": 50,
+        "growthRate": "GROWTH_MEDIUM_SLOW",
+        "eggGroup1": "EGG_GROUP_FAIRY",
+        "eggGroup2": "EGG_GROUP_GRASS",
+        "ability1": "ABILITY_CHLOROPHYLL",
+        "ability2": "ABILITY_INFILTRATOR",
+        "safariZoneFleeRate": 0,
+        "hiddenAbility": "ABILITY_SIMPLE",
+        "noFlip": true,
+        "evolve_from": [
+            "SKIPLOOM"
+        ],
+        "learnset": [
+            {
+                "level": 1,
+                "move": "MOVE_UTURN"
+            },
+            {
+                "level": 1,
+                "move": "MOVE_SPLASH"
+            },
+            {
+                "level": 1,
+                "move": "MOVE_ABSORB"
+            },
+            {
+                "level": 1,
+                "move": "MOVE_SYNTHESIS"
+            },
+            {
+                "level": 1,
+                "move": "MOVE_TAILWHIP"
+            },
+            {
+                "level": 1,
+                "move": "MOVE_TACKLE"
+            },
+            {
+                "level": 10,
+                "move": "MOVE_FAIRYWIND"
+            },
+            {
+                "level": 12,
+                "move": "MOVE_POISONPOWDER"
+            },
+            {
+                "level": 14,
+                "move": "MOVE_STUNSPORE"
+            },
+            {
+                "level": 16,
+                "move": "MOVE_SLEEPPOWDER"
+            },
+            {
+                "level": 18,
+                "move": "MOVE_MEGADRAIN"
+            },
+            {
+                "level": 23,
+                "move": "MOVE_LEECHSEED"
+            },
+            {
+                "level": 26,
+                "move": "MOVE_BULLETSEED"
+            },
+            {
+                "level": 32,
+                "move": "MOVE_ACROBATICS"
+            },
+            {
+                "level": 37,
+                "move": "MOVE_RAGEPOWDER"
+            },
+            {
+                "level": 41,
+                "move": "MOVE_COTTONSPORE"
+            },
+            {
+                "level": 45,
+                "move": "MOVE_GIGADRAIN"
+            },
+            {
+                "level": 50,
+                "move": "MOVE_WORRYSEED"
+            },
+            {
+                "level": 54,
+                "move": "MOVE_POLLENPUFF"
+            },
+            {
+                "level": 59,
+                "move": "MOVE_BOUNCE"
+            },
+            {
+                "level": 64,
+                "move": "MOVE_MEMENTO"
+            }
+        ],
+        "tm": [
+            "MOVE_TOXIC",
+            "MOVE_BULLETSEED",
+            "MOVE_HIDDENPOWER",
+            "MOVE_SUNNYDAY",
+            "MOVE_HYPERBEAM",
+            "MOVE_PROTECT",
+            "MOVE_GIGADRAIN",
+            "MOVE_FRUSTRATION",
+            "MOVE_SOLARBEAM",
+            "MOVE_RETURN",
+            "MOVE_DOUBLETEAM",
+            "MOVE_REFLECT",
+            "MOVE_AERIALACE",
+            "MOVE_FACADE",
+            "MOVE_SECRETPOWER",
+            "MOVE_REST",
+            "MOVE_ATTRACT",
+            "MOVE_ENERGYBALL",
+            "MOVE_ENDURE",
+            "MOVE_SILVERWIND",
+            "MOVE_GIGAIMPACT",
+            "MOVE_FLASH",
+            "MOVE_SWORDSDANCE",
+            "MOVE_SLEEPTALK",
+            "MOVE_GRASSKNOT",
+            "MOVE_SWAGGER",
+            "MOVE_UTURN",
+            "MOVE_SUBSTITUTE",
+            "MOVE_INFESTATION",
+            "MOVE_DAZZLINGGLEAM",
+            "MOVE_ACROBATICS",
+            "MOVE_ROUND",
+            "MOVE_NATURALGIFT"
+        ],
+        "tutor": [
+            "MOVE_SNORE",
+            "MOVE_HELPINGHAND",
+            "MOVE_WORRYSEED",
+            "MOVE_SYNTHESIS",
+            "MOVE_BOUNCE",
+            "MOVE_SEEDBOMB",
+            "MOVE_PSYCHUP",
+            "MOVE_CONFIDE",
+            "MOVE_BATONPASS",
+            "MOVE_ENCORE",
+            "MOVE_GRASSYTERRAIN",
+            "MOVE_POLLENPUFF",
+            "MOVE_LEAFSTORM"
+        ]
+    }
 }
