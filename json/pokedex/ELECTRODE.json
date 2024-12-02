@@ -158,6 +158,7 @@
         ]
     },
     "ELECTRODE_H": {
+        "name": "Electrode",
         "blurb": "When irritated, this Pok\\emon lets loose an electric current equal to 20 lightning bolts.",
         "baseHP": 60,
         "baseAttack": 50,

@@ -175,6 +175,7 @@
         ]
     },
     "KYUREM_BLACK": {
+        "name": "Kyurem",
         "baseHP": 125,
         "baseAttack": 170,
         "baseDefense": 100,
@@ -348,6 +349,7 @@
         ]
     },
     "KYUREM_WHITE": {
+        "name": "Kyurem",
         "baseHP": 125,
         "baseAttack": 120,
         "baseDefense": 90,

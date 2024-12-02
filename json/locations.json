@@ -130,7 +130,7 @@
     "RALTS"
    ],
    "Swarm": [
-    "Burmy"
+    "BURMY"
    ],
    "Special Encounter": [
     "SIZZLIPEDE"
@@ -499,7 +499,7 @@
     "PONYTA",
     "SNUBBULL",
     "Deerling",
-    "Fletchinder",
+    "FLETCHINDER",
     "NOCTOWL",
     "DEDENNE"
    ],
@@ -898,13 +898,13 @@
   "land": {
    "": [],
    "Yellow Flowers": [
-    "Flabebe",
+    "FLABEBE",
     "CUTIEFLY",
     "ORICORIO",
     "COMBEE"
    ],
    "Pink Flowers": [
-    "Flabebe",
+    "FLABEBE",
     "CUTIEFLY",
     "ORICORIO",
     "COMFEY",
@@ -912,13 +912,13 @@
     "COMBEE"
    ],
    "Blue Flowers": [
-    "Flabebe",
+    "FLABEBE",
     "CUTIEFLY",
     "PANPOUR",
     "COMBEE"
    ],
    "Red Flowers": [
-    "Flabebe",
+    "FLABEBE",
     "CUTIEFLY",
     "ORICORIO",
     "COMFEY",
@@ -926,13 +926,13 @@
     "COMBEE"
    ],
    "Blue-Yellow Flowers": [
-    "Flabebe",
+    "FLABEBE",
     "CUTIEFLY",
     "ORICORIO",
     "COMBEE"
    ],
    "Pink-Purple Flowers": [
-    "Flabebe",
+    "FLABEBE",
     "CUTIEFLY",
     "ORICORIO",
     "COMFEY",
@@ -946,7 +946,7 @@
     "CATERPIE",
     "WEEDLE",
     "SEEDOT",
-    "Pumpkaboo",
+    "PUMPKABOO",
     "GASTLY",
     "SHUPPET",
     "DUSKULL",
@@ -1951,7 +1951,7 @@
     "DURANT",
     "TURTONATOR",
     "DRAMPA",
-    "HAKAMO_O"
+    "Hakamo-o"
    ],
    "Snowy Area": [
     "ABOMASNOW",

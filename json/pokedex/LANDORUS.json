@@ -99,6 +99,7 @@
         ]
     },
     "LANDORUS_THERIAN": {
+        "name": "Landorus",
         "baseHP": 89,
         "baseAttack": 145,
         "baseDefense": 90,

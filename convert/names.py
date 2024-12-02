@@ -15,8 +15,9 @@ short_suffixes = [
     "EAST", "ORIGIN", "SKY", "PIROUETTE",
     "RED", "BLUE",
     "SUN", "BLACK", "WHITE", "THERIAN",
-    "RESOLUTE",
-    "F", "M", "Z",
+    "RESOLUTE", "UNBOUND", "BLADE",
+    "FEMALE",
+    "F", "M", "Z", "L", "XL", "X", "Y",
 ]
 ignore_suffixes = [
     "G", "H"
@@ -35,6 +36,18 @@ special_maps = {
     "DARMANITANZEN": "ZENITAN",
     "HIPPOPOTAS_F": "HIPPOPOTAF",
     "FLETCHINDER": "FLETCHINDR",
+    "PUMPKABOO": "PUMPKABOOS",
+    "GOURGEIST": "GOURGEISTS",
+    "FURFROU_HEART": 'FURFROU_A',
+    "FURFROU_DIAMOND": 'FURFROU_B',
+    "FURFROU_STAR": 'FURFROU_C',
+    "FURFROU_PHAROAH": 'FURFROU_D',
+    "FURFROU_KABUKI": 'FURFROU_E',
+    "FURFROU_LA_REINE": 'FURFROU_F',
+    "FURFROU_MATRON": 'FURFROU_G',
+    "FURFROU_DANDY": 'FURFROU_H',
+    "FURFROU_DEBUTANTE": 'FURFROU_I',
+    "ASHEGRENINJA": "AGRENINJA",
 }
 
 
@@ -92,14 +105,20 @@ def handle_flabebe(pokedex_name):
     if (pokedex_name.startswith("FLABEBE")
             or pokedex_name.startswith("FLOETTE")
             or pokedex_name.startswith("FLORGES")):
-        pokedex_name = pokedex_name.replace("_ORANGE", "_RED")
         args = pokedex_name.split("_")
         if len(args) == 1:
-            return pokedex_name
+            return pokedex_name + "_R"
         if args[1] == "ETERNAL":
             return args[0] + "_AZ"
         return args[0] + "_" + args[1][0]
     return pokedex_name
+
+
+def handle_alolan(pokedex_name):
+    if pokedex_name.endswith("_A"):
+        return "A" + pokedex_name.replace("_A", "")
+    else:
+        return pokedex_name
 
 
 special_cases = [
@@ -109,13 +128,11 @@ special_cases = [
     handle_unown,
     handle_genesect,
     handle_flabebe,
+    handle_alolan,
 ]
 
 
 def name_mapper(pokedex_name):
-    # special_cases handles naming cases that require stranger transformations
-    for case in special_cases:
-        pokedex_name = case(pokedex_name)
     # special_maps maps pokedex_name to file name manually
     for key in special_maps:
         if pokedex_name == key:
@@ -124,6 +141,9 @@ def name_mapper(pokedex_name):
     for suffix in ignore_suffixes:
         if pokedex_name.endswith(suffix):
             return pokedex_name
+    # special_cases handles naming cases that require stranger transformations
+    for case in special_cases:
+        pokedex_name = case(pokedex_name)
     # short suffixes is for suffixed variants, i.e. NIDORAN_F -> NIDORANF
     for suffix in short_suffixes:
         if pokedex_name.endswith("_" + suffix):

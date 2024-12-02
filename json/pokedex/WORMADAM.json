@@ -1,5 +1,6 @@
 {
     "WORMADAM": {
+        "name": "Wormadam",
         "blurb": "It is said that a Wormadam that evolves on a cold day will have a thicker cloak.",
         "baseHP": 60,
         "baseAttack": 59,

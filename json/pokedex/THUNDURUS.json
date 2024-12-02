@@ -107,6 +107,7 @@
         ]
     },
     "THUNDURUS_THERIAN": {
+        "name": "Thundurus",
         "baseHP": 79,
         "baseAttack": 105,
         "baseDefense": 70,

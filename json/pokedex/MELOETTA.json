@@ -123,6 +123,7 @@
         ]
     },
     "MELOETTA_PIROUETTE": {
+        "name": "Meloetta",
         "baseHP": 100,
         "baseAttack": 128,
         "baseDefense": 90,

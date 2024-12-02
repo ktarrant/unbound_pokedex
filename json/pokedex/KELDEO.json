@@ -102,6 +102,7 @@
         ]
     },
     "KELDEO_RESOLUTE": {
+        "name": "Keldeo",
         "baseHP": 91,
         "baseAttack": 72,
         "baseDefense": 90,

@@ -189,6 +189,7 @@
         ]
     },
     "AVALUGG_H": {
+        "name": "Avalugg",
         "blurb": "The armor of ice covering its lower jaw puts steel to shame and can shatter rocks with ease.",
         "baseHP": 95,
         "baseAttack": 127,

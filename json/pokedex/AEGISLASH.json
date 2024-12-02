@@ -89,6 +89,7 @@
         ]
     },
     "AEGISLASH_BLADE": {
+        "name": "Aegislash",
         "baseHP": 60,
         "baseAttack": 150,
         "baseDefense": 50,

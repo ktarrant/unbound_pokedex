@@ -200,6 +200,7 @@
         ]
     },
     "DEERLING_AUTUMN": {
+        "name": "Deerling",
         "baseHP": 60,
         "baseAttack": 60,
         "baseDefense": 50,

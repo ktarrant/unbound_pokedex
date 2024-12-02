@@ -97,6 +97,7 @@
         ]
     },
     "HIPPOPOTAS_F": {
+        "name": "Hippopotas",
         "baseHP": 68,
         "baseAttack": 72,
         "baseDefense": 78,

@@ -98,7 +98,6 @@
         ]
     },
     "MAGEARNA_P": {
-        "name": "Magearna",
         "blurb": "It functions thanks to its artificial soul. The vivid decoration is proof that it was presented as a gift to royalty.",
         "baseHP": 80,
         "baseAttack": 95,

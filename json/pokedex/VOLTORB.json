@@ -157,6 +157,7 @@
         ]
     },
     "VOLTORB_H": {
+        "name": "Voltorb",
         "blurb": "When excited, Voltorb discharges the electric current it has stored in its belly, then lets out a great laugh.",
         "baseHP": 40,
         "baseAttack": 30,

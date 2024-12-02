@@ -188,7 +188,6 @@
         ]
     },
     "LYCANROC_N": {
-        "name": "Lycanroc",
         "blurb": "They live alone without forming packs. They only listen to orders from those who can draw out their true power.",
         "baseHP": 85,
         "baseAttack": 115,

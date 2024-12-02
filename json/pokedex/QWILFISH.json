@@ -198,6 +198,7 @@
         ]
     },
     "QWILFISH_H": {
+        "name": "Qwilfish",
         "blurb": "Fisherman detest this troublesome Pok\\emon because it sprays poison from its spines, getting it everywhere.",
         "baseHP": 65,
         "baseAttack": 95,

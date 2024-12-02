@@ -132,6 +132,7 @@
         ]
     },
     "SLIGGOO_H": {
+        "name": "Sliggoo",
         "blurb": "It is said its metallic shell developed as a result of the mucus on its skin reacting with the iron in ancient water.",
         "baseHP": 58,
         "baseAttack": 75,

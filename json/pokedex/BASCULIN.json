@@ -267,6 +267,7 @@
         ]
     },
     "BASCULIN_H": {
+        "name": "Basculin",
         "blurb": "This Basculin differs from others in several respects, including its demeanor - this one is gentle.",
         "baseHP": 70,
         "baseAttack": 92,

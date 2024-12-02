@@ -186,6 +186,7 @@
         ]
     },
     "GROWLITHE_H": {
+        "name": "Growlithe",
         "blurb": "These Pok\\emon live in packs in the snowy mountains and defend themselves with icy breath.",
         "baseHP": 60,
         "baseAttack": 75,

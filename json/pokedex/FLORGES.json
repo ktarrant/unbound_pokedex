@@ -1,5 +1,6 @@
 {
     "FLORGES": {
+        "name": "Florges",
         "blurb": "Its life can span several hundred years. It's said to devote its entire life to protecting gardens.",
         "baseHP": 78,
         "baseAttack": 65,
@@ -86,6 +87,7 @@
         ]
     },
     "FLORGES_BLUE": {
+        "name": "Florges",
         "baseHP": 78,
         "baseAttack": 65,
         "baseDefense": 68,
@@ -171,6 +173,7 @@
         ]
     },
     "FLORGES_ORANGE": {
+        "name": "Florges",
         "baseHP": 78,
         "baseAttack": 65,
         "baseDefense": 68,
@@ -341,6 +344,7 @@
         ]
     },
     "FLORGES_WHITE": {
+        "name": "Florges",
         "baseHP": 78,
         "baseAttack": 65,
         "baseDefense": 68,

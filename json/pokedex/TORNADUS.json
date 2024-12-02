@@ -101,6 +101,7 @@
         ]
     },
     "TORNADUS_THERIAN": {
+        "name": "Tornadus",
         "baseHP": 79,
         "baseAttack": 100,
         "baseDefense": 80,

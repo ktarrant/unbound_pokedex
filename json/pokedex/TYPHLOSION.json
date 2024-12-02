@@ -171,6 +171,7 @@
         ]
     },
     "TYPHLOSION_H": {
+        "name": "Typhlosion",
         "blurb": "It is said to purify lost, forsaken souls with its flames and guide them to the afterlife.",
         "baseHP": 73,
         "baseAttack": 84,

@@ -90,7 +90,6 @@
         ]
     },
     "ENAMORUS_THERIAN": {
-        "name": "Enamorus",
         "baseHP": 74,
         "baseAttack": 115,
         "baseDefense": 110,

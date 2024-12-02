@@ -89,6 +89,7 @@
         ]
     },
     "FURFROU_HEART": {
+        "name": "Furfrou",
         "baseHP": 75,
         "baseAttack": 80,
         "baseDefense": 60,
@@ -168,6 +169,7 @@
         ]
     },
     "FURFROU_DIAMOND": {
+        "name": "Furfrou",
         "baseHP": 75,
         "baseAttack": 80,
         "baseDefense": 60,
@@ -247,6 +249,7 @@
         ]
     },
     "FURFROU_STAR": {
+        "name": "Furfrou",
         "baseHP": 75,
         "baseAttack": 80,
         "baseDefense": 60,
@@ -326,6 +329,7 @@
         ]
     },
     "FURFROU_PHAROAH": {
+        "name": "Furfrou",
         "baseHP": 75,
         "baseAttack": 80,
         "baseDefense": 60,
@@ -405,6 +409,7 @@
         ]
     },
     "FURFROU_KABUKI": {
+        "name": "Furfrou",
         "baseHP": 75,
         "baseAttack": 80,
         "baseDefense": 60,
@@ -484,6 +489,7 @@
         ]
     },
     "FURFROU_LA_REINE": {
+        "name": "Furfrou",
         "baseHP": 75,
         "baseAttack": 80,
         "baseDefense": 60,
@@ -563,6 +569,7 @@
         ]
     },
     "FURFROU_MATRON": {
+        "name": "Furfrou",
         "baseHP": 75,
         "baseAttack": 80,
         "baseDefense": 60,
@@ -642,6 +649,7 @@
         ]
     },
     "FURFROU_DANDY": {
+        "name": "Furfrou",
         "baseHP": 75,
         "baseAttack": 80,
         "baseDefense": 60,
@@ -721,6 +729,7 @@
         ]
     },
     "FURFROU_DEBUTANTE": {
+        "name": "Furfrou",
         "baseHP": 75,
         "baseAttack": 80,
         "baseDefense": 60,

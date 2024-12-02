@@ -194,6 +194,7 @@
         ]
     },
     "ARCANINE_H": {
+        "name": "Arcanine",
         "blurb": "It is said to guide virtuous people who have lost their way on mountain paths back down to the mountain's base.",
         "baseHP": 95,
         "baseAttack": 115,

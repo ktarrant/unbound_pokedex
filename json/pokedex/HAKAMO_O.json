@@ -1,6 +1,5 @@
 {
     "HAKAMO_O": {
-        "name": "Hakamo-o",
         "blurb": "It leaps at its prey with a courageous shout. Its scaly punches tear its opponents to shreds.",
         "baseHP": 55,
         "baseAttack": 75,

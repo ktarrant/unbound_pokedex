@@ -194,6 +194,7 @@
         ]
     },
     "HOOPA_UNBOUND": {
+        "name": "Hoopa",
         "baseHP": 80,
         "baseAttack": 160,
         "baseDefense": 60,

@@ -1,5 +1,6 @@
 {
     "FLABEBE": {
+        "name": "Flab\\eb\\e",
         "blurb": "It draws and controls the hidden power of flowers. The flower it holds is most likely part of its body.",
         "baseHP": 44,
         "baseAttack": 38,
@@ -96,6 +97,7 @@
         ]
     },
     "FLABEBE_BLUE": {
+        "name": "Flab\\eb\\e",
         "baseHP": 44,
         "baseAttack": 38,
         "baseDefense": 39,
@@ -191,6 +193,7 @@
         ]
     },
     "FLABEBE_ORANGE": {
+        "name": "Flab\\eb\\e",
         "baseHP": 44,
         "baseAttack": 38,
         "baseDefense": 39,
@@ -381,6 +384,7 @@
         ]
     },
     "FLABEBE_WHITE": {
+        "name": "Flab\\eb\\e",
         "baseHP": 44,
         "baseAttack": 38,
         "baseDefense": 39,

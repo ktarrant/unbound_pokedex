@@ -199,6 +199,7 @@
         ]
     },
     "DECIDUEYE_H": {
+        "name": "Decidueye",
         "blurb": "The air stored inside the rachises of Decidueye's feathers insulates the Pok\\emon against extreme cold.",
         "baseHP": 88,
         "baseAttack": 112,

@@ -180,6 +180,7 @@
         ]
     },
     "GOODRA_H": {
+        "name": "Goodra",
         "blurb": "Able to freely control the hardness of its metallic shell. It loathes solitude and is extremely clingy.",
         "baseHP": 80,
         "baseAttack": 100,

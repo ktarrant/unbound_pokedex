@@ -103,6 +103,7 @@
         ]
     },
     "GENESECT_SHOCK": {
+        "name": "Genesect",
         "baseHP": 71,
         "baseAttack": 120,
         "baseDefense": 95,
@@ -202,6 +203,7 @@
         ]
     },
     "GENESECT_BURN": {
+        "name": "Genesect",
         "baseHP": 71,
         "baseAttack": 120,
         "baseDefense": 95,
@@ -301,6 +303,7 @@
         ]
     },
     "GENESECT_CHILL": {
+        "name": "Genesect",
         "baseHP": 71,
         "baseAttack": 120,
         "baseDefense": 95,
@@ -400,6 +403,7 @@
         ]
     },
     "GENESECT_DOUSE": {
+        "name": "Genesect",
         "baseHP": 71,
         "baseAttack": 120,
         "baseDefense": 95,

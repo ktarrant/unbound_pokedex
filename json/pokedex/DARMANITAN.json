@@ -116,6 +116,7 @@
         ]
     },
     "DARMANITANZEN": {
+        "name": "Darmanitan",
         "baseHP": 105,
         "baseAttack": 30,
         "baseDefense": 105,

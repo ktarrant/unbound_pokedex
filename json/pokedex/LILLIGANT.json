@@ -172,6 +172,7 @@
         ]
     },
     "LILLIGANT_H": {
+        "name": "Lilligant",
         "blurb": "The leaves on its head are highly valued for medicinal purposes when dried in the sun and boiled.",
         "baseHP": 70,
         "baseAttack": 105,

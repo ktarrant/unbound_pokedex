@@ -182,6 +182,7 @@
         ]
     },
     "ZORUA_H": {
+        "name": "Zorua",
         "blurb": "A once-departed soul, returned to life. It derives power from resentment, which rises as energy atop its head.",
         "baseHP": 35,
         "baseAttack": 60,

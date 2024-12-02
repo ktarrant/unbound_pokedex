@@ -83,6 +83,7 @@
         ]
     },
     "CHERRIM_SUN": {
+        "name": "Cherrim",
         "baseHP": 70,
         "baseAttack": 60,
         "baseDefense": 70,

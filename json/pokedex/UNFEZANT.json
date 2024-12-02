@@ -83,7 +83,6 @@
         ]
     },
     "UNFEZANT_F": {
-        "name": "Unfezant",
         "baseHP": 80,
         "baseAttack": 115,
         "baseDefense": 80,

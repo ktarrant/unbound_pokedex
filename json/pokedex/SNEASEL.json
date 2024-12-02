@@ -204,6 +204,7 @@
         ]
     },
     "SNEASEL_H": {
+        "name": "Sneasel",
         "blurb": "From the tips of its claws drips a venom that infiltrates the nerves of any prey caught in its grasp.",
         "baseHP": 55,
         "baseAttack": 95,
