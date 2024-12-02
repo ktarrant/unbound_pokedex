@@ -11,27 +11,34 @@ species_map_line = re.compile(r'\[(SPECIES_[\w]+(?:_\w+)?)\s*-\s*1\]\s*=\s*(NATI
 name_line = re.compile(r'#org\s*(@NAME_\w+)\n(.*)')
 blurb_line = re.compile(r'#org\s*(@DEX_ENTRY_\w+)\n((?:.*\n)*?.*)', re.MULTILINE)
 
-
-suffixes = [
-
+short_suffixes = [
+    "EAST", "ORIGIN", "SKY", "PIROUETTE",
+    "RED", "BLUE",
+    "SUN", "BLACK", "WHITE", "THERIAN",
+    "RESOLUTE",
+    "F", "M", "Z",
+]
+ignore_suffixes = [
+    "G", "H"
+    "UNFEZANT_F",
+    "FRILLISH_F",
 ]
 
-def name_mapper(pokedex_name):
-    if pokedex_name == "HO_OH": return "HOOH"
-    if pokedex_name == "BURMY_SANDY": return "BURMYS"
-    if pokedex_name == "WORMADAM_SANDY": return "WORMADAM_S"
-    if pokedex_name == "BURMY_TRASH": return "BURMYT"
-    if pokedex_name == "WORMADAM_TRASH": return "WORMADAM_T"
-    if pokedex_name == "BURMY": return "BURMYP"
-    if pokedex_name == "WORMADAM": return "WORMADAM_P"
-    if pokedex_name.startswith("BASCULIN"):
-        return "BASCULIN" + pokedex_name.split("_")[-1][0]
-    if pokedex_name == "ARCEUS": return "ARCEUS"
-    if pokedex_name == "SAWSBUCK": return "SAWSBUCKS"
-    if pokedex_name in ["UNFEZANT_F", "FRILLISH_F"]:
-        return pokedex_name
-    if pokedex_name.endswith("_G"):
-        return pokedex_name
+special_maps = {
+    "HO_OH": "HOOH",
+    "BURMY_SANDY": "BURMYS",
+    "WORMADAM_SANDY": "WORMADAM_S",
+    "BURMY_TRASH": "BURMYT",
+    "WORMADAM_TRASH": "WORMADAM_T",
+    "BURMY": "BURMYP",
+    "WORMADAM": "WORMADAM_P",
+    "DARMANITANZEN": "ZENITAN",
+    "HIPPOPOTAS_F": "HIPPOPOTAF",
+    "FLETCHINDER": "FLETCHINDR",
+}
+
+
+def handle_rotom(pokedex_name):
     if "ROTOM" in pokedex_name:
         rsplit = list(pokedex_name.split("_"))
         if len(rsplit) == 1:
@@ -39,23 +46,88 @@ def name_mapper(pokedex_name):
         else:
             rsplit[1] = rsplit[1].replace("FROST", "FROS")
             return "".join(rsplit)
-    if pokedex_name == "DARMANITANZEN": return "ZENITAN"
-    if pokedex_name == "HIPPOPOTAS_F": return "HIPPOPOTAF"
+    else:
+        return pokedex_name
+
+
+def handle_deerling(pokedex_name):
     if pokedex_name.startswith("DEERLING") or pokedex_name.startswith("SAWSBUCK"):
         filters = {"_SUMMER": "S", "_AUTUMN": "F", "_WINTER": "W"}
         for filter in filters:
-            pokedex_name = pokedex_name.replace(filter, filters[filter])
+            if pokedex_name.endswith(filter):
+                return pokedex_name.replace(filter, filters[filter])
+        return pokedex_name + "M"
+    else:
+        return pokedex_name
+
+
+def handle_mega(pokedex_name):
     if "_MEGA" in pokedex_name:
-        pokedex_name = "M" + pokedex_name.replace("_MEGA", "")
-    if pokedex_name.endswith("_A"):
-        pokedex_name = "A" + pokedex_name[:-2]
-    for suffix in ["_EAST", "_ORIGIN", "_SKY", "_F", "_M",
-                   "_PIROUETTE",
-                   "_SHOCK", "_BURN", "_CHILL", "_DOUSE"]:
+        return "M" + pokedex_name.replace("_MEGA", "")
+    else:
+        return pokedex_name
+
+
+def handle_unown(pokedex_name):
+    if pokedex_name.startswith("UNOWN_"):
+        if "QUESTION" in pokedex_name or "EXCLAMATION" in pokedex_name:
+            return pokedex_name
+        return pokedex_name.replace("UNOWN_", "UNOWN")
+    else:
+        return pokedex_name
+
+
+def handle_genesect(pokedex_name):
+    if pokedex_name.startswith("GENESECT"):
+        filters = {"_CHILL": "I", "_DOUSE": "W", "_BURN": "F", "_SHOCK": "E"}
+        for filter in filters:
+            if pokedex_name.endswith(filter):
+                return pokedex_name.replace(filter, filters[filter])
+        return pokedex_name
+    else:
+        return pokedex_name
+
+
+def handle_flabebe(pokedex_name):
+    if (pokedex_name.startswith("FLABEBE")
+            or pokedex_name.startswith("FLOETTE")
+            or pokedex_name.startswith("FLORGES")):
+        pokedex_name = pokedex_name.replace("_ORANGE", "_RED")
+        args = pokedex_name.split("_")
+        if len(args) == 1:
+            return pokedex_name
+        if args[1] == "ETERNAL":
+            return args[0] + "_AZ"
+        return args[0] + "_" + args[1][0]
+    return pokedex_name
+
+
+special_cases = [
+    handle_rotom,
+    handle_deerling,
+    handle_mega,
+    handle_unown,
+    handle_genesect,
+    handle_flabebe,
+]
+
+
+def name_mapper(pokedex_name):
+    # special_cases handles naming cases that require stranger transformations
+    for case in special_cases:
+        pokedex_name = case(pokedex_name)
+    # special_maps maps pokedex_name to file name manually
+    for key in special_maps:
+        if pokedex_name == key:
+            return special_maps[key]
+    # ignore_suffixes is a list of key suffixes that indicate the name needs no changes
+    for suffix in ignore_suffixes:
         if pokedex_name.endswith(suffix):
-            pokedex_name = pokedex_name.replace(suffix, suffix[1])
-    if pokedex_name[-2] == "_":
-        pokedex_name = pokedex_name[:-2] + pokedex_name[-1]
+            return pokedex_name
+    # short suffixes is for suffixed variants, i.e. NIDORAN_F -> NIDORANF
+    for suffix in short_suffixes:
+        if pokedex_name.endswith("_" + suffix):
+            pokedex_name = pokedex_name.replace("_" + suffix, suffix[0])
     return pokedex_name
 
 
