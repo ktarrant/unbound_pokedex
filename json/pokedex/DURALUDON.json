@@ -1,5 +1,6 @@
 {
     "DURALUDON": {
+        "name": "Duraludon",
         "blurb": "Its body resembles polished metal, and it's both lightweight and strong. However, its body rusts easily.",
         "baseHP": 70,
         "baseAttack": 95,
@@ -117,6 +118,7 @@
         ]
     },
     "DURALUDON_GIGA": {
+        "name": "Duraludon",
         "baseHP": 70,
         "baseAttack": 95,
         "baseDefense": 115,

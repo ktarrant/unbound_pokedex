@@ -1,5 +1,6 @@
 {
     "RAYQUAZA": {
+        "name": "Rayquaza",
         "baseHP": 105,
         "baseAttack": 150,
         "baseDefense": 90,
@@ -132,6 +133,7 @@
         ]
     },
     "RAYQUAZA_MEGA": {
+        "name": "Rayquaza",
         "baseHP": 105,
         "baseAttack": 180,
         "baseDefense": 100,

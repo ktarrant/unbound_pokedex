@@ -1,5 +1,6 @@
 {
     "EXEGGCUTE": {
+        "name": "Exeggcute",
         "baseHP": 60,
         "baseAttack": 40,
         "baseDefense": 80,
@@ -113,6 +114,7 @@
         ]
     },
     "EXEGGCUTE_A": {
+        "name": "Exeggcute",
         "baseHP": 60,
         "baseAttack": 40,
         "baseDefense": 80,

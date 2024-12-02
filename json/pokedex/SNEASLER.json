@@ -1,5 +1,6 @@
 {
     "SNEASLER": {
+        "name": "Sneasler",
         "blurb": "It has virulent poison and daunting physical prowess. Preferring solitude, this species does not form packs.",
         "baseHP": 80,
         "baseAttack": 130,

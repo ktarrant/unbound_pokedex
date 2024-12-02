@@ -1,5 +1,6 @@
 {
     "MILCERY": {
+        "name": "Milcery",
         "blurb": "They say that any patisserie visited by Milcery is guaranteed success and good fortune.",
         "baseHP": 45,
         "baseAttack": 40,

@@ -1,5 +1,6 @@
 {
     "SEAKING": {
+        "name": "Seaking",
         "baseHP": 80,
         "baseAttack": 92,
         "baseDefense": 65,

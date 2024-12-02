@@ -1,5 +1,6 @@
 {
     "UMBREON": {
+        "name": "Umbreon",
         "baseHP": 95,
         "baseAttack": 65,
         "baseDefense": 110,

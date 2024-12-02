@@ -1,5 +1,6 @@
 {
     "PANPOUR": {
+        "name": "Panpour",
         "blurb": "The water stored inside the tuft on its head is full of nutrients. It waters plants using its tail.",
         "baseHP": 50,
         "baseAttack": 53,

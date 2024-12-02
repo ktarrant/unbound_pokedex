@@ -1,5 +1,6 @@
 {
     "SLOWPOKE": {
+        "name": "Slowpoke",
         "baseHP": 90,
         "baseAttack": 65,
         "baseDefense": 65,
@@ -188,6 +189,7 @@
         ]
     },
     "SLOWPOKE_G": {
+        "name": "Slowpoke",
         "blurb": "Because it eats the seeds of a plant that grows only in Galar, their tails have developed a spicy flavor.",
         "baseHP": 90,
         "baseAttack": 65,

@@ -1,5 +1,6 @@
 {
     "GOGOAT": {
+        "name": "Gogoat",
         "blurb": "They inhabit mountainous regions. The leader of the herd is decided by a battle of clashing horns.",
         "baseHP": 123,
         "baseAttack": 100,

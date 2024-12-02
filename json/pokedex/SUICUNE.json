@@ -1,5 +1,6 @@
 {
     "SUICUNE": {
+        "name": "Suicune",
         "baseHP": 100,
         "baseAttack": 75,
         "baseDefense": 115,

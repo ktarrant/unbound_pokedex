@@ -1,5 +1,6 @@
 {
     "VIGOROTH": {
+        "name": "Vigoroth",
         "baseHP": 80,
         "baseAttack": 80,
         "baseDefense": 80,

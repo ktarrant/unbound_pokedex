@@ -1,5 +1,6 @@
 {
     "UXIE": {
+        "name": "Uxie",
         "blurb": "Known as \"The Being of Knowledge.\\\" It is said that it can wipe out the memory of those who see its eyes.",
         "baseHP": 75,
         "baseAttack": 75,

@@ -1,5 +1,6 @@
 {
     "SINISTEA": {
+        "name": "Sinistea",
         "blurb": "This Pok\\emon is said to have been born when a lonely spirit possessed a cold, leftover cup of tea.",
         "baseHP": 40,
         "baseAttack": 45,
@@ -82,6 +83,7 @@
         ]
     },
     "SINISTEA_CHIPPED": {
+        "name": "Sinistea",
         "blurb": "The swirl pattern in its body is its weakness. If it gets stirred, the swirl loses its shape, and it gets dizzy.",
         "baseHP": 40,
         "baseAttack": 45,

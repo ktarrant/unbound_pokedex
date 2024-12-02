@@ -1,5 +1,6 @@
 {
     "DEWOTT": {
+        "name": "Dewott",
         "blurb": "Strict training is how it learns its flowing double-scalchop technique.",
         "baseHP": 75,
         "baseAttack": 75,

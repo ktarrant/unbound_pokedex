@@ -1,5 +1,6 @@
 {
     "MANAPHY_EGG": {
+        "name": "Egg",
         "noFlip": true,
         "evolve_from": []
     },

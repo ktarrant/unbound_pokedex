@@ -1,5 +1,6 @@
 {
     "SCRAFTY": {
+        "name": "Scrafty",
         "blurb": "This Pok\\emon may be rude, but it takes very good care of its family, its friends, and its turf.",
         "baseHP": 65,
         "baseAttack": 90,

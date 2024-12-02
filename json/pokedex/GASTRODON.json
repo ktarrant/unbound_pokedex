@@ -1,5 +1,6 @@
 {
     "GASTRODON": {
+        "name": "Gastrodon",
         "blurb": "When its natural enemy attacks, it oozes purple fluid and escapes.",
         "baseHP": 111,
         "baseAttack": 83,
@@ -94,6 +95,7 @@
         ]
     },
     "GASTRODON_EAST": {
+        "name": "Gastrodon",
         "baseHP": 111,
         "baseAttack": 83,
         "baseDefense": 68,

@@ -1,5 +1,6 @@
 {
     "TYMPOLE": {
+        "name": "Tympole",
         "blurb": "They warn others of danger by vibrating their cheeks to create a high-pitched sound.",
         "baseHP": 50,
         "baseAttack": 50,

@@ -1,5 +1,6 @@
 {
     "CRABRAWLER": {
+        "name": "Crabrawler",
         "blurb": "Its hard pincers are well suited to both offense and defense.",
         "baseHP": 47,
         "baseAttack": 82,

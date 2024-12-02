@@ -1,5 +1,6 @@
 {
     "HOOTHOOT": {
+        "name": "Hoothoot",
         "baseHP": 60,
         "baseAttack": 30,
         "baseDefense": 30,

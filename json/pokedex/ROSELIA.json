@@ -1,5 +1,6 @@
 {
     "ROSELIA": {
+        "name": "Roselia",
         "baseHP": 50,
         "baseAttack": 60,
         "baseDefense": 45,

@@ -1,5 +1,6 @@
 {
     "CLOYSTER": {
+        "name": "Cloyster",
         "baseHP": 50,
         "baseAttack": 95,
         "baseDefense": 180,

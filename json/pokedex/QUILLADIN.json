@@ -1,5 +1,6 @@
 {
     "QUILLADIN": {
+        "name": "Quilladin",
         "blurb": "It relies on its sturdy shell to deflect predators' attacks. It counterattacks with its sharp quills.",
         "baseHP": 61,
         "baseAttack": 78,

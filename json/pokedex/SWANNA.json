@@ -1,5 +1,6 @@
 {
     "SWANNA": {
+        "name": "Swanna",
         "blurb": "Swanna start to dance at dusk. The one dancing in the middle is the leader of the flock.",
         "baseHP": 75,
         "baseAttack": 87,

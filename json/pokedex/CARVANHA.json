@@ -1,5 +1,6 @@
 {
     "CARVANHA": {
+        "name": "Carvanha",
         "baseHP": 45,
         "baseAttack": 90,
         "baseDefense": 20,

@@ -1,5 +1,6 @@
 {
     "GURDURR": {
+        "name": "Gurdurr",
         "blurb": "With strengthened bodies, they skillfully wield steel beams to take down buildings.",
         "baseHP": 85,
         "baseAttack": 105,

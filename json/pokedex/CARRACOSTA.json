@@ -1,5 +1,6 @@
 {
     "CARRACOSTA": {
+        "name": "Carracosta",
         "blurb": "Incredible jaw strength enables them to chew up steel beams and rocks along with their prey.",
         "baseHP": 74,
         "baseAttack": 108,

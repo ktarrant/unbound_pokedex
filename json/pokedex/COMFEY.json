@@ -1,5 +1,6 @@
 {
     "COMFEY": {
+        "name": "Comfey",
         "blurb": "Baths prepared with the flowers from its vine have a relaxing effect so it is a hit to many people.",
         "baseHP": 51,
         "baseAttack": 52,

@@ -1,5 +1,6 @@
 {
     "FLAPPLE": {
+        "name": "Flapple",
         "blurb": "It ate a sour apple, which induced its evolution. It stores an acid capable of causing chemical burns in its cheeks.",
         "baseHP": 70,
         "baseAttack": 110,
@@ -99,6 +100,7 @@
         ]
     },
     "FLAPPLE_GIGA": {
+        "name": "Flapple",
         "baseHP": 70,
         "baseAttack": 110,
         "baseDefense": 80,

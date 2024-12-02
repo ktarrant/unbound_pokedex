@@ -1,5 +1,6 @@
 {
     "PANGORO": {
+        "name": "Pangoro",
         "blurb": "This Pok\\emon boasts great physical strength. Many Trainers are also smitten by its lively character.",
         "baseHP": 95,
         "baseAttack": 124,

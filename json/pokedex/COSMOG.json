@@ -1,5 +1,6 @@
 {
     "COSMOG": {
+        "name": "Cosmog",
         "blurb": "Its body is gaseous and frail. It slowly grows as it collects dust from the atmosphere.",
         "baseHP": 43,
         "baseAttack": 29,

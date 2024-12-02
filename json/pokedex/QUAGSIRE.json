@@ -1,5 +1,6 @@
 {
     "QUAGSIRE": {
+        "name": "Quagsire",
         "baseHP": 95,
         "baseAttack": 85,
         "baseDefense": 85,

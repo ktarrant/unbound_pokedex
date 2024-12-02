@@ -1,5 +1,6 @@
 {
     "GOLBAT": {
+        "name": "Golbat",
         "baseHP": 75,
         "baseAttack": 80,
         "baseDefense": 70,

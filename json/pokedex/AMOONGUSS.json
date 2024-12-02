@@ -1,5 +1,6 @@
 {
     "AMOONGUSS": {
+        "name": "Amoonguss",
         "blurb": "It moves the caps on both arms and does a dance to lure prey. It prefers damp places.",
         "baseHP": 114,
         "baseAttack": 85,

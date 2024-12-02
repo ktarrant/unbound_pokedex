@@ -1,5 +1,6 @@
 {
     "SPRITZEE": {
+        "name": "Spritzee",
         "blurb": "It emits a scent that delights those who smell it. The fragrance changes depending on what it has eaten.",
         "baseHP": 78,
         "baseAttack": 52,

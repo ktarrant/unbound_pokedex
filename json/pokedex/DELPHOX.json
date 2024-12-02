@@ -1,5 +1,6 @@
 {
     "DELPHOX": {
+        "name": "Delphox",
         "blurb": "It gazes into the flame at its branch to achieve a focused state, allowing it to see the future.",
         "baseHP": 75,
         "baseAttack": 69,

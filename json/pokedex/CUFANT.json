@@ -1,5 +1,6 @@
 {
     "CUFANT": {
+        "name": "Cufant",
         "blurb": "If a job requires serious strength, Cufant will excel at it. Its copper body tarnishes in the rain, turning green.",
         "baseHP": 72,
         "baseAttack": 80,

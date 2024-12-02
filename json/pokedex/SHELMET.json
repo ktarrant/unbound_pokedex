@@ -1,5 +1,6 @@
 {
     "SHELMET": {
+        "name": "Shelmet",
         "blurb": "When it and Karrablast are together, and both receive electrical stimulation, they both evolve.",
         "baseHP": 50,
         "baseAttack": 40,

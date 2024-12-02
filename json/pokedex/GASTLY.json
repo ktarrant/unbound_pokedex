@@ -1,5 +1,6 @@
 {
     "GASTLY": {
+        "name": "Gastly",
         "baseHP": 30,
         "baseAttack": 35,
         "baseDefense": 30,

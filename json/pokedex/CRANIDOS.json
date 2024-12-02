@@ -1,5 +1,6 @@
 {
     "CRANIDOS": {
+        "name": "Cranidos",
         "blurb": "It lived in jungles around 100 million years ago. Its skull is as hard as iron.",
         "baseHP": 67,
         "baseAttack": 125,

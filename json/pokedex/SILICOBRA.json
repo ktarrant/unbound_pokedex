@@ -1,5 +1,6 @@
 {
     "SILICOBRA": {
+        "name": "Silicobra",
         "blurb": "It spews sand from its nostrils. While the enemy is blinded, it burrows into the ground to hide.",
         "baseHP": 52,
         "baseAttack": 57,

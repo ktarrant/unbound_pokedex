@@ -1,5 +1,6 @@
 {
     "MUDBRAY": {
+        "name": "Mudbray",
         "blurb": "The mud stuck to Mudbray's hooves enhances its grip and its powerful running gait.",
         "baseHP": 70,
         "baseAttack": 100,

@@ -1,5 +1,6 @@
 {
     "SABLEYE": {
+        "name": "Sableye",
         "baseHP": 50,
         "baseAttack": 75,
         "baseDefense": 75,
@@ -138,6 +139,7 @@
         ]
     },
     "SABLEYE_MEGA": {
+        "name": "Sableye",
         "baseHP": 50,
         "baseAttack": 85,
         "baseDefense": 125,

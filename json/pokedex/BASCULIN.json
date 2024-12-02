@@ -1,5 +1,6 @@
 {
     "BASCULIN_RED": {
+        "name": "Basculin",
         "blurb": "Savage, violent Pok\\emon, red and blue Basculin are always fighting each other over territory.",
         "baseHP": 70,
         "baseAttack": 92,
@@ -98,6 +99,7 @@
         ]
     },
     "BASCULIN_BLUE": {
+        "name": "Basculin",
         "baseHP": 70,
         "baseAttack": 92,
         "baseDefense": 65,

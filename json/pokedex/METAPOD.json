@@ -1,5 +1,6 @@
 {
     "METAPOD": {
+        "name": "Metapod",
         "baseHP": 50,
         "baseAttack": 20,
         "baseDefense": 55,

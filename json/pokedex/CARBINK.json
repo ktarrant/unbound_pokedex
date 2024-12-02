@@ -1,5 +1,6 @@
 {
     "CARBINK": {
+        "name": "Carbink",
         "blurb": "Born from temperatures and pressures deep underground, it fires beams from the stone in its head.",
         "baseHP": 50,
         "baseAttack": 50,

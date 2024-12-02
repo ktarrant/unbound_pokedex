@@ -1,5 +1,6 @@
 {
     "CUTIEFLY": {
+        "name": "Cutiefly",
         "blurb": "Myriads of Cutiefly flutter above the heads of people who have auras resembling those of flowers.",
         "baseHP": 40,
         "baseAttack": 45,

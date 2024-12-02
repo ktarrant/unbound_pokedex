@@ -1,5 +1,6 @@
 {
     "BOUFFALANT": {
+        "name": "Bouffalant",
         "blurb": "Their fluffy fur absorbs damage, even if they strike foes with a fierce headbutt.",
         "baseHP": 95,
         "baseAttack": 110,

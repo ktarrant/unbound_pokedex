@@ -1,5 +1,6 @@
 {
     "SIRFETCHD": {
+        "name": "Sirfetch'd",
         "blurb": "After deflecting attacks with its hard leaf shield, it strikes back with its sharp leek stalk. ",
         "baseHP": 62,
         "baseAttack": 135,

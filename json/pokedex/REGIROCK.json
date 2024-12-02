@@ -1,5 +1,6 @@
 {
     "REGIROCK": {
+        "name": "Regirock",
         "baseHP": 80,
         "baseAttack": 100,
         "baseDefense": 200,

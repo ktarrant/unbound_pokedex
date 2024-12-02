@@ -1,5 +1,6 @@
 {
     "LUGIA": {
+        "name": "Lugia",
         "baseHP": 106,
         "baseAttack": 90,
         "baseDefense": 130,

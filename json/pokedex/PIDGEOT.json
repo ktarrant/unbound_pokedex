@@ -1,5 +1,6 @@
 {
     "PIDGEOT": {
+        "name": "Pidgeot",
         "baseHP": 83,
         "baseAttack": 80,
         "baseDefense": 75,
@@ -88,6 +89,7 @@
         ]
     },
     "PIDGEOT_MEGA": {
+        "name": "Pidgeot",
         "baseHP": 83,
         "baseAttack": 80,
         "baseDefense": 80,

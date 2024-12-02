@@ -1,5 +1,6 @@
 {
     "PROBOPASS": {
+        "name": "Probopass",
         "blurb": "It freely controls three small units called Mini-Noses using magnetic force.",
         "baseHP": 60,
         "baseAttack": 55,

@@ -1,5 +1,6 @@
 {
     "SOBBLE": {
+        "name": "Sobble",
         "blurb": "When it gets wet, its skin changes color, and this Pok\\emon becomes invisible as if it were camouflaged.",
         "baseHP": 50,
         "baseAttack": 40,

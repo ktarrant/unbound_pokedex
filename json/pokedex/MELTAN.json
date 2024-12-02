@@ -1,5 +1,6 @@
 {
     "MELTAN": {
+        "name": "Meltan",
         "blurb": "It melts particles of iron and other metals found in the subsoil, so it can absorb them into its molten steel body.",
         "baseHP": 46,
         "baseAttack": 65,

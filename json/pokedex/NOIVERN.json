@@ -1,5 +1,6 @@
 {
     "NOIVERN": {
+        "name": "Noivern",
         "blurb": "This hot-blooded Pok\\emon attacks anything it sees with ultrasonic waves that can crush boulders.",
         "baseHP": 85,
         "baseAttack": 70,

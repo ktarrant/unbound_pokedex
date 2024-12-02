@@ -1,5 +1,6 @@
 {
     "MAGNEMITE": {
+        "name": "Magnemite",
         "baseHP": 25,
         "baseAttack": 35,
         "baseDefense": 70,

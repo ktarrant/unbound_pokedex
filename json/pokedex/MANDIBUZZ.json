@@ -1,5 +1,6 @@
 {
     "MANDIBUZZ": {
+        "name": "Mandibuzz",
         "blurb": "It skillfully arranges the bones of its prey to construct its nest. Most of the bones are Cubone.",
         "baseHP": 110,
         "baseAttack": 65,

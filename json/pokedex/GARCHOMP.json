@@ -1,5 +1,6 @@
 {
     "GARCHOMP": {
+        "name": "Garchomp",
         "blurb": "It flies at speeds equal to a jet fighter plane. It never allows its prey to escape.",
         "baseHP": 108,
         "baseAttack": 130,
@@ -117,6 +118,7 @@
         ]
     },
     "GARCHOMP_MEGA": {
+        "name": "Garchomp",
         "baseHP": 108,
         "baseAttack": 170,
         "baseDefense": 115,

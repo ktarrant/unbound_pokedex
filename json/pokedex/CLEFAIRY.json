@@ -1,5 +1,6 @@
 {
     "CLEFAIRY": {
+        "name": "Clefairy",
         "baseHP": 70,
         "baseAttack": 45,
         "baseDefense": 48,

@@ -1,5 +1,6 @@
 {
     "SLIGGOO": {
+        "name": "Sliggoo",
         "blurb": "It crawls along sluggishly. The swirly protrusion on its back is filled with its brain and other organs.",
         "baseHP": 68,
         "baseAttack": 75,

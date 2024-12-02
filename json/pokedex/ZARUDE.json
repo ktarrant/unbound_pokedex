@@ -1,5 +1,6 @@
 {
     "ZARUDE": {
+        "name": "Zarude",
         "blurb": "Once the vines on its body tear off, they become nutrients in the soil. This helps the plants of the forest grow.",
         "baseHP": 105,
         "baseAttack": 120,
@@ -117,6 +118,7 @@
         ]
     },
     "ZARUDE_DADA": {
+        "name": "Zarude",
         "blurb": "This Zarude left its pack to raise a human child. It would wrap the child with its cloth to calm the child's crying.",
         "baseHP": 105,
         "baseAttack": 120,

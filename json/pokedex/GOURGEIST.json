@@ -209,6 +209,7 @@
         ]
     },
     "GOURGEIST_L": {
+        "name": "Gourgeist",
         "baseHP": 75,
         "baseAttack": 95,
         "baseDefense": 122,
@@ -313,6 +314,7 @@
         ]
     },
     "GOURGEIST_M": {
+        "name": "Gourgeist",
         "baseHP": 65,
         "baseAttack": 90,
         "baseDefense": 122,

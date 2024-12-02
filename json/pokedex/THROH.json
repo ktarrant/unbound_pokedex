@@ -1,5 +1,6 @@
 {
     "THROH": {
+        "name": "Throh",
         "blurb": "When it tightens its belt, it becomes stronger. Wild Throh use vines to weave their own belts.",
         "baseHP": 120,
         "baseAttack": 100,

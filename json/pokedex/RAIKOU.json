@@ -1,5 +1,6 @@
 {
     "RAIKOU": {
+        "name": "Raikou",
         "baseHP": 90,
         "baseAttack": 85,
         "baseDefense": 75,

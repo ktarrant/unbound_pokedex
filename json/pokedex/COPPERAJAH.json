@@ -1,5 +1,6 @@
 {
     "COPPERAJAH": {
+        "name": "Copperajah",
         "blurb": "These Pok\\emon live in herds. Their trunks have incredible grip strength, strong enough to crush giant rocks.",
         "baseHP": 122,
         "baseAttack": 130,
@@ -106,6 +107,7 @@
         ]
     },
     "COPPERAJAH_GIGA": {
+        "name": "Copperajah",
         "baseHP": 122,
         "baseAttack": 130,
         "baseDefense": 69,

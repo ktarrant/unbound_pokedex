@@ -1,5 +1,6 @@
 {
     "KARRABLAST": {
+        "name": "Karrablast",
         "blurb": "For some reason they evolve when they receive electrical energy while they are attacking Shelmet.",
         "baseHP": 50,
         "baseAttack": 75,

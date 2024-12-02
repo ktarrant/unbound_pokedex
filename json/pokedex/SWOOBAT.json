@@ -1,5 +1,6 @@
 {
     "SWOOBAT": {
+        "name": "Swoobat",
         "blurb": "It shakes its tail vigorously when it emits ultrasonic waves strong enough to reduce concrete to rubble.",
         "baseHP": 67,
         "baseAttack": 57,

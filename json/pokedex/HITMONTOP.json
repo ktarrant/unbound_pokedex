@@ -1,5 +1,6 @@
 {
     "HITMONTOP": {
+        "name": "Hitmontop",
         "baseHP": 50,
         "baseAttack": 95,
         "baseDefense": 95,

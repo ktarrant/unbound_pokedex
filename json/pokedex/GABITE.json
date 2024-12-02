@@ -1,5 +1,6 @@
 {
     "GABITE": {
+        "name": "Gabite",
         "blurb": "It loves sparkly things. It seeks treasures in caves and hoards the loot into its nest.",
         "baseHP": 68,
         "baseAttack": 90,

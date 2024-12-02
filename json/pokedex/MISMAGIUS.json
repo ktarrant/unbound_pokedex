@@ -1,5 +1,6 @@
 {
     "MISMAGIUS": {
+        "name": "Mismagius",
         "blurb": "It chants incantations. While they usually torment targets, some chants bring happiness.",
         "baseHP": 60,
         "baseAttack": 60,

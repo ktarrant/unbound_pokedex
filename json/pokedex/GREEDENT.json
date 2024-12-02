@@ -1,5 +1,6 @@
 {
     "GREEDENT": {
+        "name": "Greedent",
         "blurb": "This Pok\\emon has strong teeth and can chew through the toughest of berry shells.",
         "baseHP": 120,
         "baseAttack": 95,

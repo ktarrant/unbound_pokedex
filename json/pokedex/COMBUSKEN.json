@@ -1,5 +1,6 @@
 {
     "COMBUSKEN": {
+        "name": "Combusken",
         "baseHP": 60,
         "baseAttack": 85,
         "baseDefense": 60,

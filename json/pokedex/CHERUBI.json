@@ -1,5 +1,6 @@
 {
     "CHERUBI": {
+        "name": "Cherubi",
         "blurb": "The small ball is not only full of nutrients, it is also tasty. Starly try to peck it off.",
         "baseHP": 45,
         "baseAttack": 35,

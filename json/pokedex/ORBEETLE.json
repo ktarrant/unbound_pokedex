@@ -1,5 +1,6 @@
 {
     "ORBEETLE": {
+        "name": "Orbeetle",
         "blurb": "It's famous for its high intelligence, and the large size of its brain is proof that it has immense psychic power.",
         "baseHP": 60,
         "baseAttack": 45,
@@ -113,6 +114,7 @@
         ]
     },
     "ORBEETLE_GIGA": {
+        "name": "Orbeetle",
         "baseHP": 60,
         "baseAttack": 45,
         "baseDefense": 110,

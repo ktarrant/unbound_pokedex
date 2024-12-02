@@ -1,5 +1,6 @@
 {
     "SNORLAX": {
+        "name": "Snorlax",
         "baseHP": 160,
         "baseAttack": 110,
         "baseDefense": 65,
@@ -145,6 +146,7 @@
         ]
     },
     "SNORLAX_GIGA": {
+        "name": "Snorlax",
         "baseHP": 160,
         "baseAttack": 110,
         "baseDefense": 65,

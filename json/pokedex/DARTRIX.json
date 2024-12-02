@@ -1,5 +1,6 @@
 {
     "DARTRIX": {
+        "name": "Dartrix",
         "blurb": "It throws sharp feathers called blade quills at enemies or prey. It seldom misses.",
         "baseHP": 78,
         "baseAttack": 75,

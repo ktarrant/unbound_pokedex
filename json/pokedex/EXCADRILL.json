@@ -1,5 +1,6 @@
 {
     "EXCADRILL": {
+        "name": "Excadrill",
         "blurb": "Forming a drill with its steel claws and head, it can cut through a steel plate, no matter the thickness.",
         "baseHP": 110,
         "baseAttack": 135,

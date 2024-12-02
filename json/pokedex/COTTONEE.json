@@ -1,5 +1,6 @@
 {
     "COTTONEE": {
+        "name": "Cottonee",
         "blurb": "When attacked, it escapes by shooting cotton from its body to serve as a decoy to distract the attacker.",
         "baseHP": 40,
         "baseAttack": 27,

@@ -1,5 +1,6 @@
 {
     "ARCHEN": {
+        "name": "Archen",
         "blurb": "Restored from a fossil, this ancient bird Pok\\emon has wings but can't yet fly.",
         "baseHP": 55,
         "baseAttack": 112,

@@ -1,5 +1,6 @@
 {
     "TORTERRA": {
+        "name": "Torterra",
         "blurb": "Ancient people imagined that beneath the ground, a gigantic Torterra dwelled.",
         "baseHP": 95,
         "baseAttack": 109,

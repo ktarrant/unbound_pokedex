@@ -1,5 +1,6 @@
 {
     "ROOKIDEE": {
+        "name": "Rookidee",
         "blurb": "It will bravely challenge any foe, no matter how powerful. Even suffering a defeat increases its strength a bit.",
         "baseHP": 38,
         "baseAttack": 47,

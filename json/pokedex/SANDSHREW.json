@@ -1,5 +1,6 @@
 {
     "SANDSHREW": {
+        "name": "Sandshrew",
         "baseHP": 50,
         "baseAttack": 75,
         "baseDefense": 85,
@@ -187,6 +188,7 @@
         ]
     },
     "SANDSHREW_A": {
+        "name": "Sandshrew",
         "blurb": "It lives on snowy mountains. Its steel shell is very hard-so much so, it can't roll its body up into a ball.",
         "baseHP": 50,
         "baseAttack": 75,

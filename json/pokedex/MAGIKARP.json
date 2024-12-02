@@ -1,5 +1,6 @@
 {
     "MAGIKARP": {
+        "name": "Magikarp",
         "baseHP": 20,
         "baseAttack": 10,
         "baseDefense": 55,

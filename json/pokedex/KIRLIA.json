@@ -1,5 +1,6 @@
 {
     "KIRLIA": {
+        "name": "Kirlia",
         "baseHP": 38,
         "baseAttack": 35,
         "baseDefense": 35,

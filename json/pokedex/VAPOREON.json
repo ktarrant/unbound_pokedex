@@ -1,5 +1,6 @@
 {
     "VAPOREON": {
+        "name": "Vaporeon",
         "baseHP": 130,
         "baseAttack": 65,
         "baseDefense": 60,

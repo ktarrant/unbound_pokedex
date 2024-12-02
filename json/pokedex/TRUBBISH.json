@@ -1,5 +1,6 @@
 {
     "TRUBBISH": {
+        "name": "Trubbish",
         "blurb": "Wanting more garbage, they follow people who litter. They always belch poison gas.",
         "baseHP": 50,
         "baseAttack": 50,

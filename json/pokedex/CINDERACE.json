@@ -1,5 +1,6 @@
 {
     "CINDERACE": {
+        "name": "Cinderace",
         "blurb": "It gets pumped up when cheered on. But if it starts showboating, it could put itself in a tough spot.",
         "baseHP": 80,
         "baseAttack": 116,
@@ -113,6 +114,7 @@
         ]
     },
     "CINDERACE_GIGA": {
+        "name": "Cinderace",
         "baseHP": 80,
         "baseAttack": 116,
         "baseDefense": 75,

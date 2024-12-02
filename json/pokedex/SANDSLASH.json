@@ -1,5 +1,6 @@
 {
     "SANDSLASH": {
+        "name": "Sandslash",
         "baseHP": 75,
         "baseAttack": 100,
         "baseDefense": 110,
@@ -187,6 +188,7 @@
         ]
     },
     "SANDSLASH_A": {
+        "name": "Sandslash",
         "blurb": "It runs across snow-covered plains at high speeds. It developed thick, sharp claws to plow through the snow.",
         "baseHP": 75,
         "baseAttack": 100,

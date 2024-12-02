@@ -1,5 +1,6 @@
 {
     "RESHIRAM": {
+        "name": "Reshiram",
         "blurb": "When Reshiram's tail flares, the heat energy moves the atmosphere and changes the world's weather.",
         "baseHP": 100,
         "baseAttack": 120,

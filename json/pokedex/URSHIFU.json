@@ -1,5 +1,6 @@
 {
     "URSHIFU_SINGLE": {
+        "name": "Urshifu",
         "blurb": "Inhabiting the mountains of a distant region, it races across sheer cliffs, training its legs and refining its moves.",
         "baseHP": 100,
         "baseAttack": 130,
@@ -122,6 +123,7 @@
         ]
     },
     "URSHIFU_RAPID": {
+        "name": "Urshifu",
         "blurb": "This form of Urshifu strongly believes in defeating foes by raining many blows down on them.",
         "baseHP": 100,
         "baseAttack": 130,
@@ -241,6 +243,7 @@
         ]
     },
     "URSHIFU_SINGLE_GIGA": {
+        "name": "Urshifu",
         "baseHP": 100,
         "baseAttack": 130,
         "baseDefense": 100,
@@ -353,6 +356,7 @@
         ]
     },
     "URSHIFU_RAPID_GIGA": {
+        "name": "Urshifu",
         "baseHP": 100,
         "baseAttack": 130,
         "baseDefense": 100,

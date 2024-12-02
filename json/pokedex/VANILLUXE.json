@@ -1,5 +1,6 @@
 {
     "VANILLUXE": {
+        "name": "Vanilluxe",
         "blurb": "If both heads get angry simultaneously, this Pok\\emon expels a blizzard, burying everything in snow.",
         "baseHP": 71,
         "baseAttack": 95,

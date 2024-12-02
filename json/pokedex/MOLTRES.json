@@ -1,5 +1,6 @@
 {
     "MOLTRES": {
+        "name": "Moltres",
         "baseHP": 90,
         "baseAttack": 100,
         "baseDefense": 90,
@@ -170,6 +171,7 @@
         ]
     },
     "MOLTRES_G": {
+        "name": "Moltres",
         "blurb": "Its sinister, flame-like aura consumes the spirit of any creature it hits. Victims become burned-out shadows of themselves.",
         "baseHP": 90,
         "baseAttack": 85,

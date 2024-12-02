@@ -1,5 +1,6 @@
 {
     "SCRAGGY": {
+        "name": "Scraggy",
         "blurb": "It immediately headbutts anyone that makes eye contact with it. Its skull is massively thick.",
         "baseHP": 50,
         "baseAttack": 75,

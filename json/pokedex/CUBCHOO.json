@@ -1,5 +1,6 @@
 {
     "CUBCHOO": {
+        "name": "Cubchoo",
         "blurb": "When it is not feeling well, its mucus gets watery and the power of its Ice-type moves decreases.",
         "baseHP": 55,
         "baseAttack": 70,

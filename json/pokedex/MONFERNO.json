@@ -1,5 +1,6 @@
 {
     "MONFERNO": {
+        "name": "Monferno",
         "blurb": "To intimidate attackers, it stretches the fire on its tail to make itself appear bigger.",
         "baseHP": 64,
         "baseAttack": 78,

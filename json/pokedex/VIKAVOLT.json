@@ -1,5 +1,6 @@
 {
     "VIKAVOLT": {
+        "name": "Vikavolt",
         "blurb": "It flusters opponents with acrobatic flying maneuvers. This creates an opening for it to attack.",
         "baseHP": 77,
         "baseAttack": 70,

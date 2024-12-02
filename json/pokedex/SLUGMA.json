@@ -1,5 +1,6 @@
 {
     "SLUGMA": {
+        "name": "Slugma",
         "baseHP": 40,
         "baseAttack": 40,
         "baseDefense": 40,

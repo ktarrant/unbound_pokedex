@@ -1,5 +1,6 @@
 {
     "FLETCHLING": {
+        "name": "Fletchling",
         "blurb": "When it's excited, its temperature can double, spiking hormone production in its body.",
         "baseHP": 45,
         "baseAttack": 50,

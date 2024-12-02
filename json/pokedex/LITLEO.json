@@ -1,5 +1,6 @@
 {
     "LITLEO": {
+        "name": "Litleo",
         "blurb": "The stronger the opponent it faces, the more heat and power flow through its body.",
         "baseHP": 62,
         "baseAttack": 50,

@@ -1,5 +1,6 @@
 {
     "KYOGRE": {
+        "name": "Kyogre",
         "baseHP": 100,
         "baseAttack": 100,
         "baseDefense": 90,

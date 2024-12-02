@@ -1,5 +1,6 @@
 {
     "KLANG": {
+        "name": "Klang",
         "blurb": "A mini and big gear comprise its body. If the mini gear it launches at a foe doesn't return, it will die.",
         "baseHP": 60,
         "baseAttack": 80,

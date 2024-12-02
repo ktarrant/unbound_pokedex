@@ -1,5 +1,6 @@
 {
     "TOGEPI": {
+        "name": "Togepi",
         "baseHP": 35,
         "baseAttack": 20,
         "baseDefense": 65,

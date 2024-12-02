@@ -1,5 +1,6 @@
 {
     "INCINEROAR": {
+        "name": "Incineroar",
         "blurb": "When its fighting spirit is set alight, the flames around its waist become especially intense.",
         "baseHP": 95,
         "baseAttack": 115,

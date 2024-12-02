@@ -1,5 +1,6 @@
 {
     "TYPE_NULL": {
+        "name": "Type: Null",
         "blurb": "There's danger of its going on a rampage, so its true power is sealed away beneath its control mask.",
         "baseHP": 95,
         "baseAttack": 95,

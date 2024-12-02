@@ -1,5 +1,6 @@
 {
     "TRAPINCH": {
+        "name": "Trapinch",
         "baseHP": 45,
         "baseAttack": 100,
         "baseDefense": 45,

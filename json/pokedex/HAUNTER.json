@@ -1,5 +1,6 @@
 {
     "HAUNTER": {
+        "name": "Haunter",
         "baseHP": 45,
         "baseAttack": 50,
         "baseDefense": 45,

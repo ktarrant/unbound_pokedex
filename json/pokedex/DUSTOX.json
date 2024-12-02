@@ -1,5 +1,6 @@
 {
     "DUSTOX": {
+        "name": "Dustox",
         "baseHP": 60,
         "baseAttack": 50,
         "baseDefense": 70,

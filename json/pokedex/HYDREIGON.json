@@ -1,5 +1,6 @@
 {
     "HYDREIGON": {
+        "name": "Hydreigon",
         "blurb": "It responds to movement by attacking. This scary, three-headed Pok\\emon devours everything in its path!",
         "baseHP": 92,
         "baseAttack": 105,

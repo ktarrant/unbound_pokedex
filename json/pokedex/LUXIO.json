@@ -1,5 +1,6 @@
 {
     "LUXIO": {
+        "name": "Luxio",
         "blurb": "It rests its forelegs on others to communicate with rhythmic electric pulses from its claws.",
         "baseHP": 60,
         "baseAttack": 85,

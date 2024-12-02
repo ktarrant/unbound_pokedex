@@ -1,5 +1,6 @@
 {
     "DIGGERSBY": {
+        "name": "Diggersby",
         "blurb": "As powerful as an excavator, its ears can reduce dense bedrock to rubble.",
         "baseHP": 85,
         "baseAttack": 56,

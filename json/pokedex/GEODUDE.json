@@ -1,5 +1,6 @@
 {
     "GEODUDE": {
+        "name": "Geodude",
         "baseHP": 40,
         "baseAttack": 80,
         "baseDefense": 100,
@@ -181,6 +182,7 @@
         ]
     },
     "GEODUDE_A": {
+        "name": "Geodude",
         "blurb": "Its body is a magnetic stone. Iron sand attaches firmly to the portions of its body that are particularly magnetic.",
         "baseHP": 40,
         "baseAttack": 80,

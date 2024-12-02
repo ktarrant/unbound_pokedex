@@ -1,5 +1,6 @@
 {
     "SHINX": {
+        "name": "Shinx",
         "blurb": "All of its fur dazzles if danger is sensed. It flees while the foe is momentarily blinded.",
         "baseHP": 45,
         "baseAttack": 65,

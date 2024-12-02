@@ -1,5 +1,6 @@
 {
     "PANCHAM": {
+        "name": "Pancham",
         "blurb": "It grows up imitating the behavior of Pangoro, which it looks up to as a leader.",
         "baseHP": 67,
         "baseAttack": 82,

@@ -1,5 +1,6 @@
 {
     "TORRACAT": {
+        "name": "Torracat",
         "blurb": "It boasts powerful front legs. With a single punch, it can bend an iron bar right over.",
         "baseHP": 65,
         "baseAttack": 85,

@@ -1,5 +1,6 @@
 {
     "LANTURN": {
+        "name": "Lanturn",
         "baseHP": 125,
         "baseAttack": 58,
         "baseDefense": 58,

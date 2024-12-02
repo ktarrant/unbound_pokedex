@@ -1,5 +1,6 @@
 {
     "CHARJABUG": {
+        "name": "Charjabug",
         "blurb": "From the food it digests, it generates electricity, and it stores this energy in its electric sac.",
         "baseHP": 57,
         "baseAttack": 82,

@@ -1,5 +1,6 @@
 {
     "CRADILY": {
+        "name": "Cradily",
         "baseHP": 86,
         "baseAttack": 81,
         "baseDefense": 97,

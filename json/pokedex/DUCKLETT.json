@@ -1,5 +1,6 @@
 {
     "DUCKLETT": {
+        "name": "Ducklett",
         "blurb": "When attacked, it uses its feathers to splash water, escaping under cover of the spray.",
         "baseHP": 62,
         "baseAttack": 44,

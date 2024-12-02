@@ -1,5 +1,6 @@
 {
     "GALVANTULA": {
+        "name": "Galvantula",
         "blurb": "When attacked, they create an electric barrier by spitting out many electrically charged threads.",
         "baseHP": 70,
         "baseAttack": 77,

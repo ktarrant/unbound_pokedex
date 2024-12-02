@@ -1,5 +1,6 @@
 {
     "GUMSHOOS": {
+        "name": "Gumshoos",
         "blurb": "Patient by nature, it loses control of itself and pounces when it spots its favorite meal-Rattata!",
         "baseHP": 88,
         "baseAttack": 110,

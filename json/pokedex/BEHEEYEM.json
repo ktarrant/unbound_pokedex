@@ -1,5 +1,6 @@
 {
     "BEHEEYEM": {
+        "name": "Beheeyem",
         "blurb": "It uses psychic power to control an opponent's brain and tamper with its memories.",
         "baseHP": 75,
         "baseAttack": 75,

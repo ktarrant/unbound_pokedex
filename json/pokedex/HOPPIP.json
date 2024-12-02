@@ -1,5 +1,6 @@
 {
     "HOPPIP": {
+        "name": "Hoppip",
         "baseHP": 35,
         "baseAttack": 35,
         "baseDefense": 40,

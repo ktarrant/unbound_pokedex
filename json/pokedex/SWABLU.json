@@ -1,5 +1,6 @@
 {
     "SWABLU": {
+        "name": "Swablu",
         "baseHP": 45,
         "baseAttack": 40,
         "baseDefense": 60,

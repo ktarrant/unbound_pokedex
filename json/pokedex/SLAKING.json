@@ -1,5 +1,6 @@
 {
     "SLAKING": {
+        "name": "Slaking",
         "baseHP": 150,
         "baseAttack": 160,
         "baseDefense": 100,

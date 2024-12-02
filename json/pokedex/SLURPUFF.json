@@ -1,5 +1,6 @@
 {
     "SLURPUFF": {
+        "name": "Slurpuff",
         "blurb": "It can distinguish the faintest of scents. It puts its sense of smell to use by helping pastry chefs.",
         "baseHP": 82,
         "baseAttack": 80,

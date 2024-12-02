@@ -1,5 +1,6 @@
 {
     "LATIAS": {
+        "name": "Latias",
         "baseHP": 80,
         "baseAttack": 80,
         "baseDefense": 90,
@@ -131,6 +132,7 @@
         ]
     },
     "LATIAS_MEGA": {
+        "name": "Latias",
         "baseHP": 80,
         "baseAttack": 100,
         "baseDefense": 120,

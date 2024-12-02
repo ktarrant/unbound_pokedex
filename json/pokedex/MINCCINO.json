@@ -1,5 +1,6 @@
 {
     "MINCCINO": {
+        "name": "Minccino",
         "blurb": "Minccino greet each other by grooming one another thoroughly with their tails.",
         "baseHP": 55,
         "baseAttack": 50,

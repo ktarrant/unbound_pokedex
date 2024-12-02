@@ -1,5 +1,6 @@
 {
     "MACHAMP": {
+        "name": "Machamp",
         "baseHP": 90,
         "baseAttack": 130,
         "baseDefense": 80,
@@ -118,6 +119,7 @@
         ]
     },
     "MACHAMP_GIGA": {
+        "name": "Machamp",
         "baseHP": 90,
         "baseAttack": 130,
         "baseDefense": 80,

@@ -1,5 +1,6 @@
 {
     "WAILORD": {
+        "name": "Wailord",
         "baseHP": 170,
         "baseAttack": 90,
         "baseDefense": 45,

@@ -1,5 +1,6 @@
 {
     "SHUCKLE": {
+        "name": "Shuckle",
         "baseHP": 20,
         "baseAttack": 10,
         "baseDefense": 230,

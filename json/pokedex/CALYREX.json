@@ -1,5 +1,6 @@
 {
     "CALYREX": {
+        "name": "Calyrex",
         "blurb": "Its every move is filled with grace and dignity. Extremely intelligent, it is said to see past, present, and future events.",
         "baseHP": 100,
         "baseAttack": 80,

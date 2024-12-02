@@ -1,5 +1,6 @@
 {
     "KINGDRA": {
+        "name": "Kingdra",
         "baseHP": 75,
         "baseAttack": 95,
         "baseDefense": 95,

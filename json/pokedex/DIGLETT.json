@@ -1,5 +1,6 @@
 {
     "DIGLETT": {
+        "name": "Diglett",
         "baseHP": 10,
         "baseAttack": 55,
         "baseDefense": 25,
@@ -163,6 +164,7 @@
         ]
     },
     "DIGLETT_A": {
+        "name": "Diglett",
         "blurb": "Its golden hairs function as sensors. It pokes them out of its burrow to monitor its surroundings.",
         "baseHP": 10,
         "baseAttack": 55,

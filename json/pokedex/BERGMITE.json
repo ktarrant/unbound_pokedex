@@ -1,5 +1,6 @@
 {
     "BERGMITE": {
+        "name": "Bergmite",
         "blurb": "It blocks opponents' attacks with the ice that shields its body. It uses cold air to repair any crack.",
         "baseHP": 55,
         "baseAttack": 69,

@@ -1,5 +1,6 @@
 {
     "COFAGRIGUS": {
+        "name": "Cofagrigus",
         "blurb": "Grave robbers who mistake them for real coffins and get too close end up trapped inside their bodies.",
         "baseHP": 58,
         "baseAttack": 50,

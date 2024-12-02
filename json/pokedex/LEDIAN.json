@@ -1,5 +1,6 @@
 {
     "LEDIAN": {
+        "name": "Ledian",
         "baseHP": 55,
         "baseAttack": 35,
         "baseDefense": 50,

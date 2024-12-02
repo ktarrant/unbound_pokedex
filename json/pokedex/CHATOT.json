@@ -1,5 +1,6 @@
 {
     "CHATOT": {
+        "name": "Chatot",
         "blurb": "Its tongue is just like a human's. As a result, it can cleverly mimic human speech.",
         "baseHP": 76,
         "baseAttack": 65,

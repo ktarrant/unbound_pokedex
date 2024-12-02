@@ -1,5 +1,6 @@
 {
     "ALAKAZAM": {
+        "name": "Alakazam",
         "baseHP": 55,
         "baseAttack": 50,
         "baseDefense": 45,
@@ -118,6 +119,7 @@
         ]
     },
     "ALAKAZAM_MEGA": {
+        "name": "Alakazam",
         "baseHP": 55,
         "baseAttack": 50,
         "baseDefense": 65,

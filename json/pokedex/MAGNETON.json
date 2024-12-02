@@ -1,5 +1,6 @@
 {
     "MAGNETON": {
+        "name": "Magneton",
         "baseHP": 50,
         "baseAttack": 60,
         "baseDefense": 95,

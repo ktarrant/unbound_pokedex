@@ -1,5 +1,6 @@
 {
     "TAUROS": {
+        "name": "Tauros",
         "baseHP": 75,
         "baseAttack": 100,
         "baseDefense": 95,

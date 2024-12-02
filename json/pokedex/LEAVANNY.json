@@ -1,5 +1,6 @@
 {
     "LEAVANNY": {
+        "name": "Leavanny",
         "blurb": "It keeps its eggs warm with heat from fermenting leaves.",
         "baseHP": 75,
         "baseAttack": 103,

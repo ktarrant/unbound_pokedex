@@ -1,5 +1,6 @@
 {
     "BUIZEL": {
+        "name": "Buizel",
         "blurb": "It swims by rotating its two tails like a screw. When it dives, its flotation sac collapses.",
         "baseHP": 55,
         "baseAttack": 65,

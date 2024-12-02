@@ -1,5 +1,6 @@
 {
     "GOLURK": {
+        "name": "Golurk",
         "blurb": "Golurk were created to protect people and Pok\\emon. They run on a mysterious energy.",
         "baseHP": 89,
         "baseAttack": 124,

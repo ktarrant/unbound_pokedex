@@ -1,5 +1,6 @@
 {
     "SWELLOW": {
+        "name": "Swellow",
         "baseHP": 60,
         "baseAttack": 85,
         "baseDefense": 60,

@@ -1,5 +1,6 @@
 {
     "LOPUNNY": {
+        "name": "Lopunny",
         "blurb": "It sheds its fur twice a year. Its winter fur is soft and fluffy.",
         "baseHP": 65,
         "baseAttack": 76,
@@ -123,6 +124,7 @@
         ]
     },
     "LOPUNNY_MEGA": {
+        "name": "Lopunny",
         "baseHP": 65,
         "baseAttack": 136,
         "baseDefense": 94,

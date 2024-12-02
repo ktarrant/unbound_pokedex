@@ -1,5 +1,6 @@
 {
     "LILLIPUP": {
+        "name": "Lillipup",
         "blurb": "Though it is a very brave Pok\\emon, it's also smart enough to check its foe's strength and avoid battle.",
         "baseHP": 45,
         "baseAttack": 60,

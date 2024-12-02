@@ -1,5 +1,6 @@
 {
     "SAMUROTT": {
+        "name": "Samurott",
         "blurb": "In the time it takes a foe to blink, it can draw and sheathe the seamitars attached to its front legs.",
         "baseHP": 95,
         "baseAttack": 100,

@@ -1,5 +1,6 @@
 {
     "RUNERIGUS": {
+        "name": "Runerigus",
         "blurb": "Never touch its shadowlike body, or you'll be shown the horrific memories behind the picture carved into it.",
         "baseHP": 58,
         "baseAttack": 95,

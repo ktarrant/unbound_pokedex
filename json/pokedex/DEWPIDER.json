@@ -1,5 +1,6 @@
 {
     "DEWPIDER": {
+        "name": "Dewpider",
         "blurb": "It crawls onto the land in search of food. Its water bubble allows it to breathe and protects its head.",
         "baseHP": 38,
         "baseAttack": 40,

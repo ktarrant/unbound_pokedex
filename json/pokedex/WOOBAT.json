@@ -1,5 +1,6 @@
 {
     "WOOBAT": {
+        "name": "Woobat",
         "blurb": "It emits ultrasonic waves from its nose to learn about its surroundings.",
         "baseHP": 65,
         "baseAttack": 45,

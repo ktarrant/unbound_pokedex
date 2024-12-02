@@ -1,5 +1,6 @@
 {
     "DEWGONG": {
+        "name": "Dewgong",
         "baseHP": 90,
         "baseAttack": 70,
         "baseDefense": 80,

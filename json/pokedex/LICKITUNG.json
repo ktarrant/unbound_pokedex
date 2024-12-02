@@ -1,5 +1,6 @@
 {
     "LICKITUNG": {
+        "name": "Lickitung",
         "baseHP": 90,
         "baseAttack": 55,
         "baseDefense": 75,

@@ -1,5 +1,6 @@
 {
     "GOLDUCK": {
+        "name": "Golduck",
         "baseHP": 80,
         "baseAttack": 82,
         "baseDefense": 78,

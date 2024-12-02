@@ -1,5 +1,6 @@
 {
     "BRONZOR": {
+        "name": "Bronzor",
         "blurb": "X-ray photos were taken to check its body structure. Nothing appeared, however.",
         "baseHP": 57,
         "baseAttack": 24,

@@ -1,5 +1,6 @@
 {
     "ROWLET": {
+        "name": "Rowlet",
         "blurb": "It feels relaxed in tight, dark places and has been known to use its Trainer's pocket or bag as a nest.",
         "baseHP": 68,
         "baseAttack": 55,

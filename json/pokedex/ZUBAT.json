@@ -1,5 +1,6 @@
 {
     "ZUBAT": {
+        "name": "Zubat",
         "baseHP": 40,
         "baseAttack": 45,
         "baseDefense": 35,

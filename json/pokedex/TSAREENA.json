@@ -1,5 +1,6 @@
 {
     "TSAREENA": {
+        "name": "Tsareena",
         "blurb": "A master of grand and beautiful kicks, it can knock out even kickboxing champions with a single blow.",
         "baseHP": 72,
         "baseAttack": 120,

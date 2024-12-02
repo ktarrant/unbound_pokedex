@@ -1,5 +1,6 @@
 {
     "BLASTOISE": {
+        "name": "Blastoise",
         "baseHP": 79,
         "baseAttack": 83,
         "baseDefense": 100,
@@ -115,6 +116,7 @@
         ]
     },
     "BLASTOISE_MEGA": {
+        "name": "Blastoise",
         "baseHP": 79,
         "baseAttack": 103,
         "baseDefense": 120,
@@ -155,6 +157,7 @@
         "evolve_from": []
     },
     "BLASTOISE_GIGA": {
+        "name": "Blastoise",
         "baseHP": 79,
         "baseAttack": 83,
         "baseDefense": 100,

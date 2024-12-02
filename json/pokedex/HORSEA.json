@@ -1,5 +1,6 @@
 {
     "HORSEA": {
+        "name": "Horsea",
         "baseHP": 30,
         "baseAttack": 40,
         "baseDefense": 70,

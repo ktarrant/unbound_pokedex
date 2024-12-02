@@ -1,5 +1,6 @@
 {
     "ELECTRODE": {
+        "name": "Electrode",
         "baseHP": 60,
         "baseAttack": 50,
         "baseDefense": 70,

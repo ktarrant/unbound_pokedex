@@ -1,5 +1,6 @@
 {
     "ZEKROM": {
+        "name": "Zekrom",
         "blurb": "This Pok\\emon appears in legends. In its tail, it has a giant generator that creates electricity.",
         "baseHP": 100,
         "baseAttack": 150,

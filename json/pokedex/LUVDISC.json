@@ -1,5 +1,6 @@
 {
     "LUVDISC": {
+        "name": "Luvdisc",
         "baseHP": 43,
         "baseAttack": 30,
         "baseDefense": 55,

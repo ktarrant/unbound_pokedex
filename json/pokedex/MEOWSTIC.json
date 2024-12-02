@@ -1,5 +1,6 @@
 {
     "MEOWSTIC": {
+        "name": "Meowstic",
         "blurb": "When in danger, it raises its ears and releases enough psychic power to grind a 10-ton truck to dust.",
         "baseHP": 74,
         "baseAttack": 48,

@@ -1,5 +1,6 @@
 {
     "OSHAWOTT": {
+        "name": "Oshawott",
         "blurb": "The scalchop on its stomach isn't just used for battle--it is also used to break open hard berries.",
         "baseHP": 55,
         "baseAttack": 55,

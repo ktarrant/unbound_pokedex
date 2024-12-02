@@ -1,5 +1,6 @@
 {
     "RHYPERIOR": {
+        "name": "Rhyperior",
         "blurb": "From holes in its palms, it fires out Geodude. Its carapace can withstand volcanic eruptions.",
         "baseHP": 115,
         "baseAttack": 140,

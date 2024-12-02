@@ -1,5 +1,6 @@
 {
     "SAWSBUCK": {
+        "name": "Sawsbuck",
         "blurb": "They migrate according to seasons, so some people call Sawsbuck the harbingers of spring.",
         "baseHP": 80,
         "baseAttack": 100,
@@ -260,6 +261,7 @@
         ]
     },
     "SAWSBUCK_WINTER": {
+        "name": "Sawsbuck",
         "baseHP": 80,
         "baseAttack": 100,
         "baseDefense": 70,

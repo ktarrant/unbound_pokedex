@@ -1,5 +1,6 @@
 {
     "HONEDGE": {
+        "name": "Honedge",
         "blurb": "It is born when a departed spirit inhabits a sword. It attaches to people and drinks their life force.",
         "baseHP": 45,
         "baseAttack": 80,

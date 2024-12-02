@@ -1,5 +1,6 @@
 {
     "SKORUPI": {
+        "name": "Skorupi",
         "blurb": "It lives in arid lands. It buries itself in sand and lies in wait for unsuspecting prey.",
         "baseHP": 40,
         "baseAttack": 50,

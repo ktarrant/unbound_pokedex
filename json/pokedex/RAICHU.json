@@ -1,5 +1,6 @@
 {
     "RAICHU": {
+        "name": "Raichu",
         "baseHP": 60,
         "baseAttack": 90,
         "baseDefense": 55,
@@ -195,6 +196,7 @@
         ]
     },
     "RAICHU_A": {
+        "name": "Raichu",
         "blurb": "It focuses psychic energy into its tail and rides it like it's surfing. Another name for this Pok\\emon is \"hodad.\\\"",
         "baseHP": 60,
         "baseAttack": 85,

@@ -1,5 +1,6 @@
 {
     "GRENINJA": {
+        "name": "Greninja",
         "blurb": "It creates throwing stars out of compressed water, that can split metal in two.",
         "baseHP": 72,
         "baseAttack": 95,

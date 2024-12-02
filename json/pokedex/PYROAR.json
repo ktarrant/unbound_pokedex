@@ -1,5 +1,6 @@
 {
     "PYROAR": {
+        "name": "Pyroar",
         "blurb": "The male with the largest mane of fire is the leader of the pride.",
         "baseHP": 86,
         "baseAttack": 68,

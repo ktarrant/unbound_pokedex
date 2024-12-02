@@ -1,5 +1,6 @@
 {
     "REMORAID": {
+        "name": "Remoraid",
         "baseHP": 35,
         "baseAttack": 65,
         "baseDefense": 35,

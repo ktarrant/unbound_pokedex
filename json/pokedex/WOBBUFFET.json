@@ -1,5 +1,6 @@
 {
     "WOBBUFFET": {
+        "name": "Wobbuffet",
         "baseHP": 190,
         "baseAttack": 33,
         "baseDefense": 58,

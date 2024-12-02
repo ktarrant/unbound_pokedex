@@ -1,5 +1,6 @@
 {
     "DUNSPARCE": {
+        "name": "Dunsparce",
         "baseHP": 100,
         "baseAttack": 70,
         "baseDefense": 70,

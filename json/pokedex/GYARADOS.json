@@ -1,5 +1,6 @@
 {
     "GYARADOS": {
+        "name": "Gyarados",
         "baseHP": 95,
         "baseAttack": 125,
         "baseDefense": 79,
@@ -119,6 +120,7 @@
         ]
     },
     "GYARADOS_MEGA": {
+        "name": "Gyarados",
         "baseHP": 95,
         "baseAttack": 155,
         "baseDefense": 109,

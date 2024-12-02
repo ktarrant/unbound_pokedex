@@ -1,5 +1,6 @@
 {
     "STARAVIA": {
+        "name": "Staravia",
         "blurb": "It lives in forests and fields. Squabbles over territory occur when flocks collide.",
         "baseHP": 55,
         "baseAttack": 75,

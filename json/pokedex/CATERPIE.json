@@ -1,5 +1,6 @@
 {
     "CATERPIE": {
+        "name": "Caterpie",
         "baseHP": 45,
         "baseAttack": 30,
         "baseDefense": 35,

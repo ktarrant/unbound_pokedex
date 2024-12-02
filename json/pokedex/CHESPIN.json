@@ -1,5 +1,6 @@
 {
     "CHESPIN": {
+        "name": "Chespin",
         "blurb": "Such a thick shell of wood covers its head and back that even a direct hit from a truck wouldn't faze it.",
         "baseHP": 56,
         "baseAttack": 61,

@@ -1,5 +1,6 @@
 {
     "ELECTRIKE": {
+        "name": "Electrike",
         "baseHP": 40,
         "baseAttack": 45,
         "baseDefense": 40,

@@ -1,5 +1,6 @@
 {
     "STOUTLAND": {
+        "name": "Stoutland",
         "blurb": "This extremely wise Pok\\emon excels at rescuing people stranded at sea or in the mountains.",
         "baseHP": 85,
         "baseAttack": 110,

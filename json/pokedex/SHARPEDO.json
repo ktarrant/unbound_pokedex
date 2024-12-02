@@ -1,5 +1,6 @@
 {
     "SHARPEDO": {
+        "name": "Sharpedo",
         "baseHP": 70,
         "baseAttack": 120,
         "baseDefense": 40,
@@ -110,6 +111,7 @@
         ]
     },
     "SHARPEDO_MEGA": {
+        "name": "Sharpedo",
         "baseHP": 70,
         "baseAttack": 140,
         "baseDefense": 70,

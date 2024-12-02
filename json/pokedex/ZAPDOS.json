@@ -1,5 +1,6 @@
 {
     "ZAPDOS": {
+        "name": "Zapdos",
         "baseHP": 90,
         "baseAttack": 90,
         "baseDefense": 85,
@@ -161,6 +162,7 @@
         ]
     },
     "ZAPDOS_G": {
+        "name": "Zapdos",
         "blurb": "One kick from its powerful legs will pulverize a dump truck. It runs through the mountains at over 180 mph.",
         "baseHP": 90,
         "baseAttack": 125,

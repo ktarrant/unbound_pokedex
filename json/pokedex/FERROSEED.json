@@ -1,5 +1,6 @@
 {
     "FERROSEED": {
+        "name": "Ferroseed",
         "blurb": "They stick their spikes into cave walls and absorb the minerals they find in the rock.",
         "baseHP": 44,
         "baseAttack": 50,

@@ -1,5 +1,6 @@
 {
     "BANETTE": {
+        "name": "Banette",
         "baseHP": 64,
         "baseAttack": 115,
         "baseDefense": 65,
@@ -111,6 +112,7 @@
         ]
     },
     "BANETTE_MEGA": {
+        "name": "Banette",
         "baseHP": 64,
         "baseAttack": 165,
         "baseDefense": 75,

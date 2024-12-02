@@ -1,5 +1,6 @@
 {
     "HIPPOWDON": {
+        "name": "Hippowdon",
         "blurb": "Surprisingly quick to anger. It holds its mouth agape as a display of strength.",
         "baseHP": 108,
         "baseAttack": 112,
@@ -89,6 +90,7 @@
         ]
     },
     "HIPPOWDON_F": {
+        "name": "Hippowdon",
         "baseHP": 108,
         "baseAttack": 112,
         "baseDefense": 118,

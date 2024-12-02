@@ -1,5 +1,6 @@
 {
     "MACHOKE": {
+        "name": "Machoke",
         "baseHP": 80,
         "baseAttack": 100,
         "baseDefense": 70,

@@ -1,5 +1,6 @@
 {
     "CHIKORITA": {
+        "name": "Chikorita",
         "baseHP": 45,
         "baseAttack": 49,
         "baseDefense": 65,

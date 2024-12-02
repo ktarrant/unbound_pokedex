@@ -1,5 +1,6 @@
 {
     "DODUO": {
+        "name": "Doduo",
         "baseHP": 35,
         "baseAttack": 85,
         "baseDefense": 45,

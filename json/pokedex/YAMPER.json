@@ -1,5 +1,6 @@
 {
     "YAMPER": {
+        "name": "Yamper",
         "blurb": "This greedy Pok\\emon only helps people with their work because it wants treats. As it runs, it crackles with electricity.",
         "baseHP": 59,
         "baseAttack": 45,

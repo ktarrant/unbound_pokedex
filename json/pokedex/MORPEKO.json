@@ -1,5 +1,6 @@
 {
     "MORPEKO": {
+        "name": "Morpeko",
         "blurb": "As it eats the seeds stored up in its pouches, it generates electricity while satisfying its constant hunger.",
         "baseHP": 58,
         "baseAttack": 95,
@@ -109,6 +110,7 @@
         ]
     },
     "MORPEKO_HANGRY": {
+        "name": "Morpeko",
         "blurb": "Intense hunger drives it to extremes of violence. Until its hunger is appeased, it gets up to all manner of evil deeds.",
         "baseHP": 58,
         "baseAttack": 95,

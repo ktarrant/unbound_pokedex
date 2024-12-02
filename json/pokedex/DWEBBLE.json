@@ -1,5 +1,6 @@
 {
     "DWEBBLE": {
+        "name": "Dwebble",
         "blurb": "This Pok\\emon can easily melt holes in hard rocks with a liquid secreted from its mouth.",
         "baseHP": 50,
         "baseAttack": 65,

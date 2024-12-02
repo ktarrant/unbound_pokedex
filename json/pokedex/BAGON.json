@@ -1,5 +1,6 @@
 {
     "BAGON": {
+        "name": "Bagon",
         "baseHP": 45,
         "baseAttack": 75,
         "baseDefense": 60,

@@ -1,5 +1,6 @@
 {
     "MAWILE": {
+        "name": "Mawile",
         "baseHP": 50,
         "baseAttack": 85,
         "baseDefense": 85,
@@ -141,6 +142,7 @@
         ]
     },
     "MAWILE_MEGA": {
+        "name": "Mawile",
         "baseHP": 50,
         "baseAttack": 105,
         "baseDefense": 125,

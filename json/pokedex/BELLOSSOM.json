@@ -1,5 +1,6 @@
 {
     "BELLOSSOM": {
+        "name": "Bellossom",
         "baseHP": 75,
         "baseAttack": 80,
         "baseDefense": 95,

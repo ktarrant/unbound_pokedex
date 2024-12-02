@@ -1,5 +1,6 @@
 {
     "DRAPION": {
+        "name": "Drapion",
         "blurb": "Its body is encased in a sturdy shell. Its head rotates 180 degrees, eliminating blind spots.",
         "baseHP": 70,
         "baseAttack": 90,

@@ -1,5 +1,6 @@
 {
     "TYRANITAR": {
+        "name": "Tyranitar",
         "baseHP": 100,
         "baseAttack": 134,
         "baseDefense": 110,
@@ -148,6 +149,7 @@
         ]
     },
     "TYRANITAR_MEGA": {
+        "name": "Tyranitar",
         "baseHP": 100,
         "baseAttack": 164,
         "baseDefense": 150,

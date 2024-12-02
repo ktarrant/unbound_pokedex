@@ -1,5 +1,6 @@
 {
     "MAGMORTAR": {
+        "name": "Magmortar",
         "blurb": "When launching 3,600 degrees F fireballs, its body takes on a whitish hue from the intense heat.",
         "baseHP": 75,
         "baseAttack": 95,

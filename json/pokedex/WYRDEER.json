@@ -1,5 +1,6 @@
 {
     "WYRDEER": {
+        "name": "Wyrdeer",
         "blurb": "The fur shed from its beard retains heat well and is a highly useful material for winter clothing.",
         "baseHP": 103,
         "baseAttack": 105,

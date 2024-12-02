@@ -1,5 +1,6 @@
 {
     "DREDNAW": {
+        "name": "Drednaw",
         "blurb": "With jaws that can shear through steel rods, this highly aggressive Pok\\emon chomps down on its unfortunate prey.",
         "baseHP": 90,
         "baseAttack": 115,
@@ -122,6 +123,7 @@
         ]
     },
     "DREDNAW_GIGA": {
+        "name": "Drednaw",
         "baseHP": 90,
         "baseAttack": 115,
         "baseDefense": 90,

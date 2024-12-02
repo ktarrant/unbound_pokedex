@@ -1,5 +1,6 @@
 {
     "GALLADE": {
+        "name": "Gallade",
         "blurb": "A master of courtesy and swordsmanship, it fights using extending swords on its elbows.",
         "baseHP": 68,
         "baseAttack": 125,
@@ -154,6 +155,7 @@
         ]
     },
     "GALLADE_MEGA": {
+        "name": "Gallade",
         "baseHP": 68,
         "baseAttack": 165,
         "baseDefense": 95,

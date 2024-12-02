@@ -1,5 +1,6 @@
 {
     "SILVALLY": {
+        "name": "Silvally",
         "blurb": "It destroyed its own control mask. It has become capable of changing type by equipping special memories.",
         "baseHP": 95,
         "baseAttack": 95,

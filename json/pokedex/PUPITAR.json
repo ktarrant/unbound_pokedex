@@ -1,5 +1,6 @@
 {
     "PUPITAR": {
+        "name": "Pupitar",
         "baseHP": 70,
         "baseAttack": 84,
         "baseDefense": 70,

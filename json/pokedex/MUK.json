@@ -1,5 +1,6 @@
 {
     "MUK": {
+        "name": "Muk",
         "baseHP": 105,
         "baseAttack": 105,
         "baseDefense": 75,
@@ -181,6 +182,7 @@
         ]
     },
     "MUK_A": {
+        "name": "Muk",
         "blurb": "The garbage it eats causes continuous chemical changes in its body, which produce its vivid coloration.",
         "baseHP": 105,
         "baseAttack": 105,

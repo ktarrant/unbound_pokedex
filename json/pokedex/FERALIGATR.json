@@ -1,5 +1,6 @@
 {
     "FERALIGATR": {
+        "name": "Feraligatr",
         "baseHP": 85,
         "baseAttack": 105,
         "baseDefense": 100,

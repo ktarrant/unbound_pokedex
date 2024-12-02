@@ -1,5 +1,6 @@
 {
     "SPOINK": {
+        "name": "Spoink",
         "baseHP": 60,
         "baseAttack": 25,
         "baseDefense": 35,

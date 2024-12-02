@@ -1,5 +1,6 @@
 {
     "WISHIWASHI": {
+        "name": "Wishiwashi",
         "blurb": "They're weak, so they move in schools. However, they can also often be seen all alone, having strayed from the school.",
         "baseHP": 45,
         "baseAttack": 20,

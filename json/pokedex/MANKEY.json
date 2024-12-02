@@ -1,5 +1,6 @@
 {
     "MANKEY": {
+        "name": "Mankey",
         "baseHP": 40,
         "baseAttack": 80,
         "baseDefense": 35,

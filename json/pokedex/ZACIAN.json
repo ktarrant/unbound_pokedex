@@ -1,5 +1,6 @@
 {
     "ZACIAN": {
+        "name": "Zacian",
         "blurb": "It has slumbered for many years. Some say it is Zamazenta's elder sister, others say the two are rivals.",
         "baseHP": 92,
         "baseAttack": 130,
@@ -90,6 +91,7 @@
         ]
     },
     "ZACIAN_CROWNED": {
+        "name": "Zacian",
         "blurb": "Now armed with a weapon it used in ancient times, this Pok\\emon needs only a single strike to fell any target.",
         "baseHP": 92,
         "baseAttack": 170,

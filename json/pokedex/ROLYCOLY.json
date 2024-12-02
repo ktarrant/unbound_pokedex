@@ -1,5 +1,6 @@
 {
     "ROLYCOLY": {
+        "name": "Rolycoly",
         "blurb": "It can race around like a unicycle, even on rough, rocky terrain. Burning coal sustains it.",
         "baseHP": 30,
         "baseAttack": 40,

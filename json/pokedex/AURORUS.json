@@ -1,5 +1,6 @@
 {
     "AURORUS": {
+        "name": "Aurorus",
         "blurb": "This usually quiet and kindly Pok\\emon has a surface temperature of around -240 degrees Fahrenheit.",
         "baseHP": 123,
         "baseAttack": 77,

@@ -1,5 +1,6 @@
 {
     "GIRAFARIG": {
+        "name": "Girafarig",
         "baseHP": 70,
         "baseAttack": 80,
         "baseDefense": 65,

@@ -1,5 +1,6 @@
 {
     "MEWTWO": {
+        "name": "Mewtwo",
         "baseHP": 106,
         "baseAttack": 110,
         "baseDefense": 90,
@@ -142,6 +143,7 @@
         ]
     },
     "MEWTWO_MEGA_X": {
+        "name": "Mewtwo",
         "baseHP": 106,
         "baseAttack": 190,
         "baseDefense": 100,
@@ -182,6 +184,7 @@
         "evolve_from": []
     },
     "MEWTWO_MEGA_Y": {
+        "name": "Mewtwo",
         "baseHP": 106,
         "baseAttack": 150,
         "baseDefense": 70,

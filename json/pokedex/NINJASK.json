@@ -1,5 +1,6 @@
 {
     "NINJASK": {
+        "name": "Ninjask",
         "baseHP": 61,
         "baseAttack": 90,
         "baseDefense": 45,

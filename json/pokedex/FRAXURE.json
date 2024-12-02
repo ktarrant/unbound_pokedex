@@ -1,5 +1,6 @@
 {
     "FRAXURE": {
+        "name": "Fraxure",
         "blurb": "Their tusks can shatter rocks. Territory battles between Fraxure can be intensely violent.",
         "baseHP": 66,
         "baseAttack": 117,

@@ -1,5 +1,6 @@
 {
     "BRELOOM": {
+        "name": "Breloom",
         "baseHP": 60,
         "baseAttack": 130,
         "baseDefense": 80,

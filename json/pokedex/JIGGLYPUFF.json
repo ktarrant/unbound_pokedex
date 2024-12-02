@@ -1,5 +1,6 @@
 {
     "JIGGLYPUFF": {
+        "name": "Jigglypuff",
         "baseHP": 115,
         "baseAttack": 45,
         "baseDefense": 20,

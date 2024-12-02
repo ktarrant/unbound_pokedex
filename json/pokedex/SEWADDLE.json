@@ -1,5 +1,6 @@
 {
     "SEWADDLE": {
+        "name": "Sewaddle",
         "blurb": "Since this Pok\\emon makes its own clothes out of leaves, it is a popular mascot for fashion designers.",
         "baseHP": 45,
         "baseAttack": 53,

@@ -1,5 +1,6 @@
 {
     "PORYGON_Z": {
+        "name": "Porygon-Z",
         "blurb": "Its programming was modified to enable work in alien dimensions. It did not work as planned.",
         "baseHP": 85,
         "baseAttack": 80,

@@ -1,5 +1,6 @@
 {
     "ONIX": {
+        "name": "Onix",
         "baseHP": 35,
         "baseAttack": 45,
         "baseDefense": 160,

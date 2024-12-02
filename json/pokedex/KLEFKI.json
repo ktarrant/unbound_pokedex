@@ -1,5 +1,6 @@
 {
     "KLEFKI": {
+        "name": "Klefki",
         "blurb": "These key collectors threaten any attackers by fiercely jingling their keys at them.",
         "baseHP": 57,
         "baseAttack": 80,

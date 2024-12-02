@@ -1,5 +1,6 @@
 {
     "PLUSLE": {
+        "name": "Plusle",
         "baseHP": 60,
         "baseAttack": 50,
         "baseDefense": 40,

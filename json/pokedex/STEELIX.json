@@ -1,5 +1,6 @@
 {
     "STEELIX": {
+        "name": "Steelix",
         "baseHP": 75,
         "baseAttack": 85,
         "baseDefense": 200,
@@ -123,6 +124,7 @@
         ]
     },
     "STEELIX_MEGA": {
+        "name": "Steelix",
         "baseHP": 75,
         "baseAttack": 125,
         "baseDefense": 230,

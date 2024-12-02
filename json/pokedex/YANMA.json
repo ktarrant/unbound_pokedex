@@ -1,5 +1,6 @@
 {
     "YANMA": {
+        "name": "Yanma",
         "baseHP": 65,
         "baseAttack": 65,
         "baseDefense": 45,

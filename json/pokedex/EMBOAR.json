@@ -1,5 +1,6 @@
 {
     "EMBOAR": {
+        "name": "Emboar",
         "blurb": "It has mastered fast and powerful fighting moves. It grows a beard of fire.",
         "baseHP": 110,
         "baseAttack": 123,

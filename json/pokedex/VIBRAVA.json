@@ -1,5 +1,6 @@
 {
     "VIBRAVA": {
+        "name": "Vibrava",
         "baseHP": 50,
         "baseAttack": 70,
         "baseDefense": 50,

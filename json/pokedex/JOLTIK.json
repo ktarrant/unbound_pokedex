@@ -1,5 +1,6 @@
 {
     "JOLTIK": {
+        "name": "Joltik",
         "blurb": "Joltik that live in cities have learned a technique for sucking electricity from the outlets in houses.",
         "baseHP": 50,
         "baseAttack": 47,

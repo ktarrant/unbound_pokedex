@@ -1,5 +1,6 @@
 {
     "GENESECT": {
+        "name": "Genesect",
         "blurb": "This ancient bug Pok\\emon was altered by Team Plasma. They upgraded the cannon on its back.",
         "baseHP": 71,
         "baseAttack": 120,

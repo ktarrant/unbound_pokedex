@@ -1,5 +1,6 @@
 {
     "SIGILYPH": {
+        "name": "Sigilyph",
         "blurb": "The guardians of an ancient city, they always fly the same route while keeping watch for invaders.",
         "baseHP": 72,
         "baseAttack": 58,

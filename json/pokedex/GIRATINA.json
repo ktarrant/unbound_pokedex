@@ -1,5 +1,6 @@
 {
     "GIRATINA": {
+        "name": "Giratina",
         "blurb": "It was banished for its violence. It silently gazed upon the old world from the Distortion World.",
         "baseHP": 150,
         "baseAttack": 100,
@@ -113,6 +114,7 @@
         ]
     },
     "GIRATINA_ORIGIN": {
+        "name": "Giratina",
         "baseHP": 150,
         "baseAttack": 120,
         "baseDefense": 100,

@@ -1,5 +1,6 @@
 {
     "TYPHLOSION": {
+        "name": "Typhlosion",
         "baseHP": 78,
         "baseAttack": 84,
         "baseDefense": 78,

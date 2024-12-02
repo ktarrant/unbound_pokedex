@@ -1,5 +1,6 @@
 {
     "ZIGZAGOON": {
+        "name": "Zigzagoon",
         "baseHP": 38,
         "baseAttack": 30,
         "baseDefense": 41,
@@ -180,6 +181,7 @@
         ]
     },
     "ZIGZAGOON_G": {
+        "name": "Zigzagoon",
         "blurb": "It moves in zigzags and wreaks havoc upon its surroundings. It is thought to be the oldest form of Zigzagoon.",
         "baseHP": 38,
         "baseAttack": 30,

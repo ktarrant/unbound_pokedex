@@ -1,5 +1,6 @@
 {
     "TOXTRICITY": {
+        "name": "Toxtricity",
         "blurb": "This short-tempered and aggressive Pok\\emon chugs stagnant water to absorb any toxins it might contain.",
         "baseHP": 75,
         "baseAttack": 98,
@@ -111,6 +112,7 @@
         ]
     },
     "TOXTRICITY_LOW_KEY": {
+        "name": "Toxtricity",
         "blurb": "While generating electricity, it fills surroundings with what sounds like the strumming of a bass guitar.",
         "baseHP": 75,
         "baseAttack": 98,
@@ -222,6 +224,7 @@
         ]
     },
     "TOXTRICITY_GIGA": {
+        "name": "Toxtricity",
         "baseHP": 75,
         "baseAttack": 98,
         "baseDefense": 70,
@@ -374,6 +377,7 @@
         ]
     },
     "TOXTRICITY_LOW_KEY_GIGA": {
+        "name": "Toxtricity",
         "baseHP": 75,
         "baseAttack": 98,
         "baseDefense": 70,

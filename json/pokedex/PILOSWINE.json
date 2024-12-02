@@ -1,5 +1,6 @@
 {
     "PILOSWINE": {
+        "name": "Piloswine",
         "baseHP": 100,
         "baseAttack": 100,
         "baseDefense": 80,

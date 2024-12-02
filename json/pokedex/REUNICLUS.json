@@ -1,5 +1,6 @@
 {
     "REUNICLUS": {
+        "name": "Reuniclus",
         "blurb": "When Reuniclus shake hands, a network forms between their brains, increasing their psychic power.",
         "baseHP": 110,
         "baseAttack": 65,

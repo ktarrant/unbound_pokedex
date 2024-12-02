@@ -1,5 +1,6 @@
 {
     "SUNKERN": {
+        "name": "Sunkern",
         "baseHP": 30,
         "baseAttack": 30,
         "baseDefense": 30,

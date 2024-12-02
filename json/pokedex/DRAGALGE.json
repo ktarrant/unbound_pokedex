@@ -1,5 +1,6 @@
 {
     "DRAGALGE": {
+        "name": "Dragalge",
         "blurb": "Tales are told of ships that wander into seas where Dragalge live, never to return.",
         "baseHP": 65,
         "baseAttack": 75,

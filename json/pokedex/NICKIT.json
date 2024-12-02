@@ -1,5 +1,6 @@
 {
     "NICKIT": {
+        "name": "Nickit",
         "blurb": "Aided by the soft pads on its feet, it silently raids the food stores of others. It survives off its ill-gotten gains.",
         "baseHP": 40,
         "baseAttack": 28,

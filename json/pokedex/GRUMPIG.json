@@ -1,5 +1,6 @@
 {
     "GRUMPIG": {
+        "name": "Grumpig",
         "baseHP": 80,
         "baseAttack": 45,
         "baseDefense": 65,

@@ -1,5 +1,6 @@
 {
     "ZORUA": {
+        "name": "Zorua",
         "blurb": "It changes so it looks just like its foe, tricks it, and then uses that opportunity to flee.",
         "baseHP": 40,
         "baseAttack": 65,

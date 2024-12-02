@@ -1,5 +1,6 @@
 {
     "DRIFBLIM": {
+        "name": "Drifblim",
         "blurb": "It grabs people and Pok\\emon and carries them off somewhere. Where do they go? Nobody knows.",
         "baseHP": 150,
         "baseAttack": 80,

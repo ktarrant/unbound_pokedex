@@ -1,5 +1,6 @@
 {
     "RELICANTH": {
+        "name": "Relicanth",
         "baseHP": 100,
         "baseAttack": 90,
         "baseDefense": 130,

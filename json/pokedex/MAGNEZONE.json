@@ -1,5 +1,6 @@
 {
     "MAGNEZONE": {
+        "name": "Magnezone",
         "blurb": "It evolved from exposure to a special magnetic field. Three units generate magnetism.",
         "baseHP": 70,
         "baseAttack": 70,

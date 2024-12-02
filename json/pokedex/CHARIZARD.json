@@ -1,5 +1,6 @@
 {
     "CHARIZARD": {
+        "name": "Charizard",
         "baseHP": 78,
         "baseAttack": 84,
         "baseDefense": 78,
@@ -206,6 +207,7 @@
         "evolve_from": []
     },
     "CHARIZARD_GIGA": {
+        "name": "Charizard",
         "baseHP": 78,
         "baseAttack": 84,
         "baseDefense": 78,

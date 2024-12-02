@@ -1,5 +1,6 @@
 {
     "SUNFLORA": {
+        "name": "Sunflora",
         "baseHP": 75,
         "baseAttack": 75,
         "baseDefense": 55,

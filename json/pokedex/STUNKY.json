@@ -1,5 +1,6 @@
 {
     "STUNKY": {
+        "name": "Stunky",
         "blurb": "It sprays a nose-curling, stinky fluid from its rear to repel attackers.",
         "baseHP": 63,
         "baseAttack": 63,

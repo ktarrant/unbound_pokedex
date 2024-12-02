@@ -1,5 +1,6 @@
 {
     "QUILAVA": {
+        "name": "Quilava",
         "baseHP": 58,
         "baseAttack": 64,
         "baseDefense": 58,

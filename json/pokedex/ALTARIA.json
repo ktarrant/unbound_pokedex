@@ -1,5 +1,6 @@
 {
     "ALTARIA": {
+        "name": "Altaria",
         "baseHP": 75,
         "baseAttack": 70,
         "baseDefense": 90,
@@ -111,6 +112,7 @@
         ]
     },
     "ALTARIA_MEGA": {
+        "name": "Altaria",
         "baseHP": 75,
         "baseAttack": 110,
         "baseDefense": 110,

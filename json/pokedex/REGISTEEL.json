@@ -1,5 +1,6 @@
 {
     "REGISTEEL": {
+        "name": "Registeel",
         "baseHP": 80,
         "baseAttack": 75,
         "baseDefense": 150,

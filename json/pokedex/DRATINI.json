@@ -1,5 +1,6 @@
 {
     "DRATINI": {
+        "name": "Dratini",
         "baseHP": 41,
         "baseAttack": 64,
         "baseDefense": 45,

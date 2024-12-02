@@ -1,5 +1,6 @@
 {
     "BRIONNE": {
+        "name": "Brionne",
         "blurb": "It attacks by smacking its enemies with the exploding water balloons that it creates.",
         "baseHP": 60,
         "baseAttack": 69,

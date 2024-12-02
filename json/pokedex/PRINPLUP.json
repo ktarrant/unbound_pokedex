@@ -1,5 +1,6 @@
 {
     "PRINPLUP": {
+        "name": "Prinplup",
         "blurb": "Because every Prinplup considers itself to be the most important, they can never form a group.",
         "baseHP": 64,
         "baseAttack": 66,

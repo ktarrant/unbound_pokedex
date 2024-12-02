@@ -1,5 +1,6 @@
 {
     "RALTS": {
+        "name": "Ralts",
         "baseHP": 28,
         "baseAttack": 25,
         "baseDefense": 25,

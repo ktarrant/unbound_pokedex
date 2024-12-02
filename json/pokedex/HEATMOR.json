@@ -1,5 +1,6 @@
 {
     "HEATMOR": {
+        "name": "Heatmor",
         "blurb": "It breathes through a hole in its tail while it burns with an internal fire. Durant is its prey.",
         "baseHP": 85,
         "baseAttack": 97,

@@ -1,5 +1,6 @@
 {
     "ENTEI": {
+        "name": "Entei",
         "baseHP": 115,
         "baseAttack": 115,
         "baseDefense": 85,

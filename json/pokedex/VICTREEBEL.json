@@ -1,5 +1,6 @@
 {
     "VICTREEBEL": {
+        "name": "Victreebel",
         "baseHP": 80,
         "baseAttack": 105,
         "baseDefense": 65,

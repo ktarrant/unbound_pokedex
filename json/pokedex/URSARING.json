@@ -1,5 +1,6 @@
 {
     "URSARING": {
+        "name": "Ursaring",
         "baseHP": 90,
         "baseAttack": 130,
         "baseDefense": 75,

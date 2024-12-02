@@ -1,5 +1,6 @@
 {
     "PONYTA": {
+        "name": "Ponyta",
         "baseHP": 50,
         "baseAttack": 85,
         "baseDefense": 55,
@@ -159,6 +160,7 @@
         ]
     },
     "PONYTA_G": {
+        "name": "Ponyta",
         "blurb": "Its small horn hides a healing power. With a few rubs from this its horn, any slight wound you have will be healed.",
         "baseHP": 50,
         "baseAttack": 85,

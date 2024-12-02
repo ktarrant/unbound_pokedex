@@ -1,5 +1,6 @@
 {
     "AMBIPOM": {
+        "name": "Ambipom",
         "blurb": "It is very difficult to dodge the consecutive strikes of its two tails.",
         "baseHP": 75,
         "baseAttack": 100,

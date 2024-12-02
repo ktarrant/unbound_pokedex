@@ -1,5 +1,6 @@
 {
     "SHELLDER": {
+        "name": "Shellder",
         "baseHP": 30,
         "baseAttack": 65,
         "baseDefense": 100,

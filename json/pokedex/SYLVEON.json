@@ -1,5 +1,6 @@
 {
     "SYLVEON": {
+        "name": "Sylveon",
         "blurb": "It sends a soothing aura from its ribbonlike feelers to calm fights.",
         "baseHP": 95,
         "baseAttack": 65,

@@ -1,5 +1,6 @@
 {
     "AVALUGG": {
+        "name": "Avalugg",
         "blurb": "The way several Bergmite huddle on its back make it look like an aircraft carrier made of ice.",
         "baseHP": 95,
         "baseAttack": 117,

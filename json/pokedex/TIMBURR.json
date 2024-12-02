@@ -1,5 +1,6 @@
 {
     "TIMBURR": {
+        "name": "Timburr",
         "blurb": "Always carrying squared logs, they help out with construction. As they grow, they carry bigger logs.",
         "baseHP": 75,
         "baseAttack": 80,

@@ -1,5 +1,6 @@
 {
     "ROGGENROLA": {
+        "name": "Roggenrola",
         "blurb": "Its ear is hexagonal in shape. Compressed underground, its body is as hard as steel.",
         "baseHP": 55,
         "baseAttack": 75,

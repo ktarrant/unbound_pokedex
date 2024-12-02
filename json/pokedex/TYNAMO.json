@@ -1,5 +1,6 @@
 {
     "TYNAMO": {
+        "name": "Tynamo",
         "blurb": "While one alone doesn't have much power, a chain of many Tynamo can be as powerful as lightning.",
         "baseHP": 35,
         "baseAttack": 55,

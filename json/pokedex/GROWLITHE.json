@@ -1,5 +1,6 @@
 {
     "GROWLITHE": {
+        "name": "Growlithe",
         "baseHP": 55,
         "baseAttack": 70,
         "baseDefense": 45,

@@ -1,5 +1,6 @@
 {
     "PARASECT": {
+        "name": "Parasect",
         "baseHP": 60,
         "baseAttack": 95,
         "baseDefense": 80,

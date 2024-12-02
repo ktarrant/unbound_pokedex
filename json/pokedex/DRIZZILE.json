@@ -1,5 +1,6 @@
 {
     "DRIZZILE": {
+        "name": "Drizzile",
         "blurb": "Highly intelligent but also very lazy, it keeps enemies out of its territory by laying traps everywhere.",
         "baseHP": 65,
         "baseAttack": 60,

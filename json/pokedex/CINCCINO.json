@@ -1,5 +1,6 @@
 {
     "CINCCINO": {
+        "name": "Cinccino",
         "blurb": "Their white fur is coated in a special oil that makes it easy for them to deflect attacks.",
         "baseHP": 75,
         "baseAttack": 95,

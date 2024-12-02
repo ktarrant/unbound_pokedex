@@ -1,5 +1,6 @@
 {
     "GLACEON": {
+        "name": "Glaceon",
         "blurb": "It causes small ice crystals to form by lowering the temperature of the surrounding atmosphere.",
         "baseHP": 65,
         "baseAttack": 60,

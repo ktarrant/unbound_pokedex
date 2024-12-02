@@ -1,5 +1,6 @@
 {
     "WALREIN": {
+        "name": "Walrein",
         "baseHP": 110,
         "baseAttack": 80,
         "baseDefense": 90,

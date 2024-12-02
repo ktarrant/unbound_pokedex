@@ -1,5 +1,6 @@
 {
     "LUCARIO": {
+        "name": "Lucario",
         "blurb": "It has the ability to sense the Auras of all things. It understands human speech.",
         "baseHP": 70,
         "baseAttack": 110,
@@ -125,6 +126,7 @@
         ]
     },
     "LUCARIO_MEGA": {
+        "name": "Lucario",
         "baseHP": 70,
         "baseAttack": 145,
         "baseDefense": 88,

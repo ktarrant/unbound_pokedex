@@ -1,5 +1,6 @@
 {
     "PORYGON2": {
+        "name": "Porygon2",
         "baseHP": 85,
         "baseAttack": 80,
         "baseDefense": 90,

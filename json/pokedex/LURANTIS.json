@@ -1,5 +1,6 @@
 {
     "LURANTIS": {
+        "name": "Lurantis",
         "blurb": "For self-protection, it pretends to be a bug Pok\\emon. Both of its arms bear keen-edged petals.",
         "baseHP": 70,
         "baseAttack": 105,

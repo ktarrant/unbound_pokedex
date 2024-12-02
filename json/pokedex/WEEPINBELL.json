@@ -1,5 +1,6 @@
 {
     "WEEPINBELL": {
+        "name": "Weepinbell",
         "baseHP": 65,
         "baseAttack": 90,
         "baseDefense": 50,

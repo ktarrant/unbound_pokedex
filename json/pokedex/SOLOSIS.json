@@ -1,5 +1,6 @@
 {
     "SOLOSIS": {
+        "name": "Solosis",
         "blurb": "Because their bodies are enveloped in a special liquid, they can survive in any environment.",
         "baseHP": 45,
         "baseAttack": 30,

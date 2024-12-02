@@ -1,5 +1,6 @@
 {
     "MOTHIM": {
+        "name": "Mothim",
         "blurb": "It flutters around at night and steals honey from the Combee hive.",
         "baseHP": 70,
         "baseAttack": 94,

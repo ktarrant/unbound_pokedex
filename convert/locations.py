@@ -152,7 +152,14 @@ def get_pokemon_key(name, name_lookup):
 
 
 def update_pokemon_names(location_data, pokedex):
-    name_lookup = {entry["name"]: key for key, entry in pokedex.items() if "name" in entry}
+    name_lookup = {}
+    for dex, dex_entry in pokedex.items():
+        first_species = list(dex_entry.keys())[0]
+        if "name" not in dex_entry[first_species]:
+            continue
+        first_name = dex_entry[first_species]["name"]
+        name_lookup[first_name] = dex
+
     for route, route_entry in location_data.items():
         for method, method_entry in route_entry.items():
             for area, area_entry in method_entry.items():

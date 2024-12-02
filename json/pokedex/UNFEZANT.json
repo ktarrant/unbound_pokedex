@@ -1,5 +1,6 @@
 {
     "UNFEZANT": {
+        "name": "Unfezant",
         "blurb": "Males swing the plumage on their heads to threaten others, but females are better at flying.",
         "baseHP": 80,
         "baseAttack": 115,
@@ -82,6 +83,7 @@
         ]
     },
     "UNFEZANT_F": {
+        "name": "Unfezant",
         "baseHP": 80,
         "baseAttack": 115,
         "baseDefense": 80,

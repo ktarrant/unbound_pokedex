@@ -1,5 +1,6 @@
 {
     "FERROTHORN": {
+        "name": "Ferrothorn",
         "blurb": "By swinging around its three spiky feels and shooting spikes, it can obliterate an opponent.",
         "baseHP": 74,
         "baseAttack": 94,

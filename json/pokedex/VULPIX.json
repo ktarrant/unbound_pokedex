@@ -1,5 +1,6 @@
 {
     "VULPIX": {
+        "name": "Vulpix",
         "baseHP": 38,
         "baseAttack": 41,
         "baseDefense": 40,
@@ -185,6 +186,7 @@
         ]
     },
     "VULPIX_A": {
+        "name": "Vulpix",
         "blurb": "In hot weather, this Pok\\emon makes ice shards with its six tails and sprays them around to cool itself off.",
         "baseHP": 38,
         "baseAttack": 41,

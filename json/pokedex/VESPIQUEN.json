@@ -1,5 +1,6 @@
 {
     "VESPIQUEN": {
+        "name": "Vespiquen",
         "blurb": "It raises grubs in the holes in its body. It secretes pheromones to control Combee.",
         "baseHP": 70,
         "baseAttack": 80,

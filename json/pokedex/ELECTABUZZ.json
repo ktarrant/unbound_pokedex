@@ -1,5 +1,6 @@
 {
     "ELECTABUZZ": {
+        "name": "Electabuzz",
         "baseHP": 65,
         "baseAttack": 83,
         "baseDefense": 57,

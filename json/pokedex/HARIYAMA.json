@@ -1,5 +1,6 @@
 {
     "HARIYAMA": {
+        "name": "Hariyama",
         "baseHP": 144,
         "baseAttack": 120,
         "baseDefense": 60,

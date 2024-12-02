@@ -1,5 +1,6 @@
 {
     "PANSAGE": {
+        "name": "Pansage",
         "blurb": "It shares the leaf on its head with weary-looking Pok\\emon. These leaves are known to relieve stress.",
         "baseHP": 50,
         "baseAttack": 53,

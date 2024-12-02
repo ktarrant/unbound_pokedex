@@ -1,5 +1,6 @@
 {
     "KOMMO_O": {
+        "name": "Kommo-o",
         "blurb": "It battles valiantly with its fists, which are armored in steel scales. Kommo-o specializes in uppercuts.",
         "baseHP": 75,
         "baseAttack": 110,

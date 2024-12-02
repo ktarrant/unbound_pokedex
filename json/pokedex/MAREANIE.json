@@ -1,5 +1,6 @@
 {
     "MAREANIE": {
+        "name": "Mareanie",
         "blurb": "Aside from its head, its body parts regenerate quickly if they're cut off.",
         "baseHP": 50,
         "baseAttack": 53,

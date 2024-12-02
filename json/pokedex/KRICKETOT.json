@@ -1,5 +1,6 @@
 {
     "KRICKETOT": {
+        "name": "Kricketot",
         "blurb": "When its antennae hit each other, it sounds like the music of a xylophone.",
         "baseHP": 37,
         "baseAttack": 25,

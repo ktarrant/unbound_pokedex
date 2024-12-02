@@ -1,5 +1,6 @@
 {
     "FOONGUS": {
+        "name": "Foongus",
         "blurb": "It lures Pok\\emon with its pattern that looks just like a Pok\\e Ball then releases poison spores.",
         "baseHP": 69,
         "baseAttack": 55,

@@ -1,5 +1,6 @@
 {
     "CROAGUNK": {
+        "name": "Croagunk",
         "blurb": "Inflating its poison sacs, it makes an eerie blubbering sound for intimidation.",
         "baseHP": 48,
         "baseAttack": 61,

@@ -1,5 +1,6 @@
 {
     "CARNIVINE": {
+        "name": "Carnivine",
         "blurb": "Hanging from branches using its tentacles, it looks like a plant. It awaits prey, mouth wide open.",
         "baseHP": 74,
         "baseAttack": 100,

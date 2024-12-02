@@ -1,5 +1,6 @@
 {
     "JIRACHI": {
+        "name": "Jirachi",
         "baseHP": 100,
         "baseAttack": 100,
         "baseDefense": 100,

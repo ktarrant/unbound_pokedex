@@ -1,5 +1,6 @@
 {
     "CROCONAW": {
+        "name": "Croconaw",
         "baseHP": 65,
         "baseAttack": 80,
         "baseDefense": 80,

@@ -1,5 +1,6 @@
 {
     "FALINKS": {
+        "name": "Falinks",
         "blurb": "The six of them work together as one. Teamwork is also their battle strategy, and they constantly change formation.",
         "baseHP": 65,
         "baseAttack": 100,

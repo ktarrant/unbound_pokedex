@@ -1,5 +1,6 @@
 {
     "VENOMOTH": {
+        "name": "Venomoth",
         "baseHP": 70,
         "baseAttack": 65,
         "baseDefense": 60,

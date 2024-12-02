@@ -1,5 +1,6 @@
 {
     "POLIWRATH": {
+        "name": "Poliwrath",
         "baseHP": 90,
         "baseAttack": 95,
         "baseDefense": 95,

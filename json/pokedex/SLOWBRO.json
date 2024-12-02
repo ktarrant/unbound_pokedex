@@ -1,5 +1,6 @@
 {
     "SLOWBRO": {
+        "name": "Slowbro",
         "baseHP": 95,
         "baseAttack": 75,
         "baseDefense": 110,
@@ -132,6 +133,7 @@
         ]
     },
     "SLOWBRO_MEGA": {
+        "name": "Slowbro",
         "baseHP": 95,
         "baseAttack": 75,
         "baseDefense": 180,
@@ -248,6 +250,7 @@
         ]
     },
     "SLOWBRO_G": {
+        "name": "Slowbro",
         "blurb": "A Shellder bite set off a chemical reaction with the spices inside its body, causing Slowbro to become a Poison-type.",
         "baseHP": 95,
         "baseAttack": 100,

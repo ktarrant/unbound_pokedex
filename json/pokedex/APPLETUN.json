@@ -1,5 +1,6 @@
 {
     "APPLETUN": {
+        "name": "Appletun",
         "blurb": "It ate a sweet apple, which induced its evolution. Back in the day, children used to have it as a snack.",
         "baseHP": 110,
         "baseAttack": 85,
@@ -101,6 +102,7 @@
         ]
     },
     "APPLETUN_GIGA": {
+        "name": "Appletun",
         "baseHP": 110,
         "baseAttack": 85,
         "baseDefense": 80,

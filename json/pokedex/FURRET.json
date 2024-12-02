@@ -1,5 +1,6 @@
 {
     "FURRET": {
+        "name": "Furret",
         "baseHP": 85,
         "baseAttack": 76,
         "baseDefense": 64,

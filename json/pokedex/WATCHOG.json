@@ -1,5 +1,6 @@
 {
     "WATCHOG": {
+        "name": "Watchog",
         "blurb": "Using luminescent matter, it makes its eyes and body glow and stuns attacking opponents.",
         "baseHP": 60,
         "baseAttack": 85,

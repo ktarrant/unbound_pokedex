@@ -1,5 +1,6 @@
 {
     "GRUBBIN": {
+        "name": "Grubbin",
         "blurb": "Its strong jaw enables it to scrape trees and slurp out the sap. It normally lives underground.",
         "baseHP": 47,
         "baseAttack": 62,

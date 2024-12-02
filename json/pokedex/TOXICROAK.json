@@ -1,5 +1,6 @@
 {
     "TOXICROAK": {
+        "name": "Toxicroak",
         "blurb": "Its knuckle claws secrete a toxin so vile that even a scratch could prove fatal.",
         "baseHP": 83,
         "baseAttack": 106,

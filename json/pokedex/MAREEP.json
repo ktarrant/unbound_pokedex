@@ -1,5 +1,6 @@
 {
     "MAREEP": {
+        "name": "Mareep",
         "baseHP": 55,
         "baseAttack": 40,
         "baseDefense": 40,

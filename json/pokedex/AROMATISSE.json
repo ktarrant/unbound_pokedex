@@ -1,5 +1,6 @@
 {
     "AROMATISSE": {
+        "name": "Aromatisse",
         "blurb": "It devises various scents and emits scents that its enemies dislike in order to gain an edge in battle.",
         "baseHP": 101,
         "baseAttack": 72,

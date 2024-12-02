@@ -1,5 +1,6 @@
 {
     "LITTEN": {
+        "name": "Litten",
         "blurb": "It doesn't allow its emotions to be easily seen. Earning its trust takes time. It prefers solitude.",
         "baseHP": 45,
         "baseAttack": 65,

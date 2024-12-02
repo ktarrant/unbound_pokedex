@@ -1,5 +1,6 @@
 {
     "BEEDRILL": {
+        "name": "Beedrill",
         "baseHP": 65,
         "baseAttack": 90,
         "baseDefense": 40,
@@ -109,6 +110,7 @@
         ]
     },
     "BEEDRILL_MEGA": {
+        "name": "Beedrill",
         "baseHP": 65,
         "baseAttack": 150,
         "baseDefense": 40,

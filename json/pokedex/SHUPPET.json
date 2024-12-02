@@ -1,5 +1,6 @@
 {
     "SHUPPET": {
+        "name": "Shuppet",
         "baseHP": 44,
         "baseAttack": 75,
         "baseDefense": 35,

@@ -1,5 +1,6 @@
 {
     "HOUNDOOM": {
+        "name": "Houndoom",
         "baseHP": 75,
         "baseAttack": 90,
         "baseDefense": 50,
@@ -109,6 +110,7 @@
         ]
     },
     "HOUNDOOM_MEGA": {
+        "name": "Houndoom",
         "baseHP": 75,
         "baseAttack": 90,
         "baseDefense": 90,

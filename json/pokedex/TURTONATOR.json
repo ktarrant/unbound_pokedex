@@ -1,5 +1,6 @@
 {
     "TURTONATOR": {
+        "name": "Turtonator",
         "blurb": "It gushes fire and poisonous gases from its nostrils. Its dung is an explosive substance.",
         "baseHP": 60,
         "baseAttack": 78,

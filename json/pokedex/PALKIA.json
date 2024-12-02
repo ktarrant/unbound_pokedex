@@ -1,5 +1,6 @@
 {
     "PALKIA": {
+        "name": "Palkia",
         "blurb": "It has the ability to distort space. It is described as a deity in Sinnoh-region mythology.",
         "baseHP": 90,
         "baseAttack": 120,

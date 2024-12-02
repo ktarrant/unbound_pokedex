@@ -1,5 +1,6 @@
 {
     "SPINDA": {
+        "name": "Spinda",
         "baseHP": 60,
         "baseAttack": 60,
         "baseDefense": 60,

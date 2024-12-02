@@ -1,5 +1,6 @@
 {
     "ALCREMIE_STRAWBERRY": {
+        "name": "Alcremie",
         "blurb": "It evolved from a Milcery that held onto a Strawberry Sweet. Its flavor depends on how it was mixed.",
         "baseHP": 65,
         "baseAttack": 60,
@@ -93,6 +94,7 @@
         ]
     },
     "ALCREMIE_BERRY": {
+        "name": "Alcremie",
         "blurb": "It evolved from a Milcery that held onto a Berry Sweet. The flavor of its cream depends on how it was mixed.",
         "baseHP": 65,
         "baseAttack": 60,
@@ -184,6 +186,7 @@
         ]
     },
     "ALCREMIE_CLOVER": {
+        "name": "Alcremie",
         "blurb": "It evolved from a Milcery that held onto a Clover Sweet. The flavor of its cream depends on how it was mixed.",
         "baseHP": 65,
         "baseAttack": 60,
@@ -275,6 +278,7 @@
         ]
     },
     "ALCREMIE_FLOWER": {
+        "name": "Alcremie",
         "blurb": "It evolved from a Milcery that held onto a Flower Sweet. The flavor of its cream depends on how it was mixed.",
         "baseHP": 65,
         "baseAttack": 60,
@@ -366,6 +370,7 @@
         ]
     },
     "ALCREMIE_LOVE": {
+        "name": "Alcremie",
         "blurb": "It evolved from a Milcery that held onto a Love Sweet. The flavor of its cream depends on how it was mixed.",
         "baseHP": 65,
         "baseAttack": 60,
@@ -457,6 +462,7 @@
         ]
     },
     "ALCREMIE_RIBBON": {
+        "name": "Alcremie",
         "blurb": "It evolved from a Milcery that held onto a Ribbon Sweet. The flavor of its cream depends on how it was mixed.",
         "baseHP": 65,
         "baseAttack": 60,
@@ -548,6 +554,7 @@
         ]
     },
     "ALCREMIE_STAR": {
+        "name": "Alcremie",
         "blurb": "It evolved from a Milcery that held onto a Star Sweet. The flavor of its cream depends on how it was mixed.",
         "baseHP": 65,
         "baseAttack": 60,
@@ -639,6 +646,7 @@
         ]
     },
     "ALCREMIE_GIGA": {
+        "name": "Alcremie",
         "baseHP": 65,
         "baseAttack": 60,
         "baseDefense": 75,

@@ -1,5 +1,6 @@
 {
     "HIPPOPOTAS": {
+        "name": "Hippopotas",
         "blurb": "It lives in arid places. Instead of perspiration, it expels grainy sand from its body.",
         "baseHP": 68,
         "baseAttack": 72,

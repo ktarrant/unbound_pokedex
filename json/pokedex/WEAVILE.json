@@ -1,5 +1,6 @@
 {
     "WEAVILE": {
+        "name": "Weavile",
         "blurb": "It sends signals to others by carving odd patterns in frost-covered trees and ice.",
         "baseHP": 70,
         "baseAttack": 120,

@@ -1,5 +1,6 @@
 {
     "EISCUE": {
+        "name": "Eiscue",
         "blurb": "It drifted in on the flow of ocean waters from a frigid place. It keeps its head iced constantly to stay cold.",
         "baseHP": 75,
         "baseAttack": 80,
@@ -87,6 +88,7 @@
         ]
     },
     "EISCUE_NOICE": {
+        "name": "Eiscue",
         "blurb": "The ice covering this Pok\\emon's face has shattered, revealing a worried expression that many are enamored with.",
         "baseHP": 75,
         "baseAttack": 80,

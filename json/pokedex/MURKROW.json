@@ -1,5 +1,6 @@
 {
     "MURKROW": {
+        "name": "Murkrow",
         "baseHP": 60,
         "baseAttack": 85,
         "baseDefense": 42,

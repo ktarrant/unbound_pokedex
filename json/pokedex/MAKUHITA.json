@@ -1,5 +1,6 @@
 {
     "MAKUHITA": {
+        "name": "Makuhita",
         "baseHP": 72,
         "baseAttack": 60,
         "baseDefense": 30,

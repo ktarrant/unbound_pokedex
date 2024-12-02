@@ -1,5 +1,6 @@
 {
     "SIMISAGE": {
+        "name": "Simisage",
         "blurb": "It strikes its enemies with a thorn-covered tail. The leaf on its head is bitter.",
         "baseHP": 75,
         "baseAttack": 98,

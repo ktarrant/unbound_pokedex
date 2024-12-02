@@ -1,5 +1,6 @@
 {
     "CLEFABLE": {
+        "name": "Clefable",
         "baseHP": 95,
         "baseAttack": 70,
         "baseDefense": 73,

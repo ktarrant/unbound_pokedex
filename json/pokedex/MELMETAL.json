@@ -1,5 +1,6 @@
 {
     "MELMETAL": {
+        "name": "Melmetal",
         "blurb": "Revered long ago for its capacity to create iron from nothing, it has come back to life after 3000 years.",
         "baseHP": 135,
         "baseAttack": 143,
@@ -94,6 +95,7 @@
         ]
     },
     "MELMETAL_GIGA": {
+        "name": "Melmetal",
         "baseHP": 135,
         "baseAttack": 143,
         "baseDefense": 143,

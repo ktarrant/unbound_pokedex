@@ -1,5 +1,6 @@
 {
     "ROCKRUFF": {
+        "name": "Rockruff",
         "blurb": "When it rubs the rocks on its neck against you, that's proof of its love for you.",
         "baseHP": 45,
         "baseAttack": 65,

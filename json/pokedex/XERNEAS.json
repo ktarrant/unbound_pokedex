@@ -1,5 +1,6 @@
 {
     "XERNEAS": {
+        "name": "Xerneas",
         "blurb": "When the horns on its head shine in seven different colors, it is said to be sharing everlasting life.",
         "baseHP": 126,
         "baseAttack": 131,
@@ -96,6 +97,7 @@
         ]
     },
     "XERNEAS_NATURAL": {
+        "name": "Xerneas",
         "baseHP": 126,
         "baseAttack": 131,
         "baseDefense": 95,

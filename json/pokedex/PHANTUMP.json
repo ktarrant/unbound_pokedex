@@ -1,5 +1,6 @@
 {
     "PHANTUMP": {
+        "name": "Phantump",
         "blurb": "It is created when a spirit possesses rotten tree stumps. It prefers to live in abandoned forests.",
         "baseHP": 43,
         "baseAttack": 70,

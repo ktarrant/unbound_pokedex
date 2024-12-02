@@ -1,5 +1,6 @@
 {
     "HELIOLISK": {
+        "name": "Heliolisk",
         "blurb": "It flares its frill and generates energy. It can generate sufficient electricity to power a skyscraper.",
         "baseHP": 62,
         "baseAttack": 55,

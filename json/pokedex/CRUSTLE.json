@@ -1,5 +1,6 @@
 {
     "CRUSTLE": {
+        "name": "Crustle",
         "blurb": "When its boulder is broken in battles for territory, it feels unsure and begins to weaken.",
         "baseHP": 70,
         "baseAttack": 105,

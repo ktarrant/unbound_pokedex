@@ -1,5 +1,6 @@
 {
     "MANTINE": {
+        "name": "Mantine",
         "baseHP": 85,
         "baseAttack": 40,
         "baseDefense": 70,

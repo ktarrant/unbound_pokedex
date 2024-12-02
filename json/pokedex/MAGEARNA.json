@@ -1,5 +1,6 @@
 {
     "MAGEARNA": {
+        "name": "Magearna",
         "blurb": "Its mechanized body is merely a vessel. Its true self is its Soul-Heart, an artificial soul.",
         "baseHP": 80,
         "baseAttack": 95,
@@ -97,6 +98,7 @@
         ]
     },
     "MAGEARNA_P": {
+        "name": "Magearna",
         "blurb": "It functions thanks to its artificial soul. The vivid decoration is proof that it was presented as a gift to royalty.",
         "baseHP": 80,
         "baseAttack": 95,

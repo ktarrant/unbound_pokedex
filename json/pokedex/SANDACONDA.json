@@ -1,5 +1,6 @@
 {
     "SANDACONDA": {
+        "name": "Sandaconda",
         "blurb": "When it contracts its body, over 220 pounds of sand sprays from its nose. It becomes disheartened if it runs out.",
         "baseHP": 72,
         "baseAttack": 107,
@@ -102,6 +103,7 @@
         ]
     },
     "SANDACONDA_GIGA": {
+        "name": "Sandaconda",
         "baseHP": 72,
         "baseAttack": 107,
         "baseDefense": 125,

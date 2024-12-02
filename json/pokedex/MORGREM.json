@@ -1,5 +1,6 @@
 {
     "MORGREM": {
+        "name": "Morgrem",
         "blurb": "With sly cunning, it lures people into the woods. Some believe it to have the power to make crops grow.",
         "baseHP": 65,
         "baseAttack": 60,

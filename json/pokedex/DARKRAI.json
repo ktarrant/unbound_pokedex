@@ -1,5 +1,6 @@
 {
     "DARKRAI": {
+        "name": "Darkrai",
         "blurb": "To protect itself, it afflicts those around it with nightmares. However, it means no harm.",
         "baseHP": 70,
         "baseAttack": 90,

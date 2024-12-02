@@ -1,5 +1,6 @@
 {
     "RIBOMBEE": {
+        "name": "Ribombee",
         "blurb": "Some of Ribombee's pollen puffs are highly nutritious. They are sometimes sold as supplements.",
         "baseHP": 60,
         "baseAttack": 55,

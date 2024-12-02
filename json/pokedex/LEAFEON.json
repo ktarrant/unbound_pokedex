@@ -1,5 +1,6 @@
 {
     "LEAFEON": {
+        "name": "Leafeon",
         "blurb": "Just like a plant, it uses photosynthesis. As a result, it is always enveloped in clear air.",
         "baseHP": 65,
         "baseAttack": 110,

@@ -1,5 +1,6 @@
 {
     "DRUDDIGON": {
+        "name": "Druddigon",
         "blurb": "It runs through the narrow tunnels formed by Excadrill and Onix. It uses its sharp claws to catch prey.",
         "baseHP": 77,
         "baseAttack": 120,

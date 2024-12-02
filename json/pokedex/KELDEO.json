@@ -1,5 +1,6 @@
 {
     "KELDEO": {
+        "name": "Keldeo",
         "blurb": "It crosses the world, running over the surfaces of oceans and rivers. It appears at scenic waterfronts.",
         "baseHP": 91,
         "baseAttack": 72,

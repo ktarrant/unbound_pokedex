@@ -1,5 +1,6 @@
 {
     "ARMALDO": {
+        "name": "Armaldo",
         "baseHP": 75,
         "baseAttack": 125,
         "baseDefense": 100,

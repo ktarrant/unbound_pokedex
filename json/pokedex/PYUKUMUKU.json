@@ -1,5 +1,6 @@
 {
     "PYUKUMUKU": {
+        "name": "Pyukumuku",
         "blurb": "Its body is covered with slime. If you accidentally step on it, you'll slip, and it will get mad at you!",
         "baseHP": 55,
         "baseAttack": 60,

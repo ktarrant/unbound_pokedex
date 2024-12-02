@@ -1,5 +1,6 @@
 {
     "ZWEILOUS": {
+        "name": "Zweilous",
         "blurb": "The two heads do not get along. Whichever head eats more than the other gets to be the leader.",
         "baseHP": 72,
         "baseAttack": 85,

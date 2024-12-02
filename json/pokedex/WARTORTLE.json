@@ -1,5 +1,6 @@
 {
     "WARTORTLE": {
+        "name": "Wartortle",
         "baseHP": 59,
         "baseAttack": 63,
         "baseDefense": 80,

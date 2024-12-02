@@ -1,5 +1,6 @@
 {
     "EXEGGUTOR": {
+        "name": "Exeggutor",
         "baseHP": 95,
         "baseAttack": 95,
         "baseDefense": 85,
@@ -193,6 +194,7 @@
         ]
     },
     "EXEGGUTOR_A": {
+        "name": "Exeggutor",
         "blurb": "It swings its long neck like a whip and smacks its opponents. This makes Exeggutor itself dizzy, too.",
         "baseHP": 95,
         "baseAttack": 105,

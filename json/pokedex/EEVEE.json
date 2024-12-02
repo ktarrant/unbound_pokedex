@@ -1,5 +1,6 @@
 {
     "EEVEE": {
+        "name": "Eevee",
         "baseHP": 55,
         "baseAttack": 55,
         "baseDefense": 50,
@@ -94,6 +95,7 @@
         ]
     },
     "EEVEE_GIGA": {
+        "name": "Eevee",
         "baseHP": 55,
         "baseAttack": 55,
         "baseDefense": 50,

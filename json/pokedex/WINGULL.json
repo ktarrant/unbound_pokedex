@@ -1,5 +1,6 @@
 {
     "WINGULL": {
+        "name": "Wingull",
         "baseHP": 40,
         "baseAttack": 30,
         "baseDefense": 30,

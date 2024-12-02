@@ -1,5 +1,6 @@
 {
     "WHISCASH": {
+        "name": "Whiscash",
         "baseHP": 110,
         "baseAttack": 78,
         "baseDefense": 73,

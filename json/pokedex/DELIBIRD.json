@@ -1,5 +1,6 @@
 {
     "DELIBIRD": {
+        "name": "Delibird",
         "baseHP": 45,
         "baseAttack": 55,
         "baseDefense": 45,

@@ -1,5 +1,6 @@
 {
     "EKANS": {
+        "name": "Ekans",
         "baseHP": 35,
         "baseAttack": 60,
         "baseDefense": 44,

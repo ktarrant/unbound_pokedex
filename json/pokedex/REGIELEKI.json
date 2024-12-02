@@ -1,5 +1,6 @@
 {
     "REGIELEKI": {
+        "name": "Regieleki",
         "blurb": "Its entire body is made of an organ that generates electricity. It is capable of generating a region's worth of electricity.",
         "baseHP": 80,
         "baseAttack": 100,

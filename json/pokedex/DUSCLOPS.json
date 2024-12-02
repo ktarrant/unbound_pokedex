@@ -1,5 +1,6 @@
 {
     "DUSCLOPS": {
+        "name": "Dusclops",
         "baseHP": 40,
         "baseAttack": 70,
         "baseDefense": 130,

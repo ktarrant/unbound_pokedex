@@ -1,5 +1,6 @@
 {
     "ALOMOMOLA": {
+        "name": "Alomomola",
         "blurb": "The special membrane enveloping Alomomola has the ability to heal wounds.",
         "baseHP": 165,
         "baseAttack": 75,

@@ -1,5 +1,6 @@
 {
     "TRUMBEAK": {
+        "name": "Trumbeak",
         "blurb": "It can bend the tip of its beak to produce over a hundred different cries at will.",
         "baseHP": 55,
         "baseAttack": 85,

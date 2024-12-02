@@ -1,5 +1,6 @@
 {
     "SANDILE": {
+        "name": "Sandile",
         "blurb": "They live hidden under hot desert sands in order to keep their body temperature from dropping.",
         "baseHP": 50,
         "baseAttack": 72,

@@ -1,5 +1,6 @@
 {
     "STANTLER": {
+        "name": "Stantler",
         "baseHP": 73,
         "baseAttack": 95,
         "baseDefense": 62,

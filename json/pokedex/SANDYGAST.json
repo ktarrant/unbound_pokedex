@@ -1,5 +1,6 @@
 {
     "SANDYGAST": {
+        "name": "Sandygast",
         "blurb": "Born from a sand mound playfully built by a child, this Pok\\emon embodies the grudges of the departed.",
         "baseHP": 55,
         "baseAttack": 55,

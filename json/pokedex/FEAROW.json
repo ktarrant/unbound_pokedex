@@ -1,5 +1,6 @@
 {
     "FEAROW": {
+        "name": "Fearow",
         "baseHP": 65,
         "baseAttack": 90,
         "baseDefense": 65,

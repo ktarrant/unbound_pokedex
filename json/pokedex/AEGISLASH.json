@@ -1,5 +1,6 @@
 {
     "AEGISLASH": {
+        "name": "Aegislash",
         "blurb": "It can detect the innate qualities of leadership. Whoever it recognizes is destined to become king.",
         "baseHP": 60,
         "baseAttack": 50,

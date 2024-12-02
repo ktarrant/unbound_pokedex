@@ -1,5 +1,6 @@
 {
     "AGGRON": {
+        "name": "Aggron",
         "baseHP": 70,
         "baseAttack": 110,
         "baseDefense": 180,
@@ -146,6 +147,7 @@
         ]
     },
     "AGGRON_MEGA": {
+        "name": "Aggron",
         "baseHP": 70,
         "baseAttack": 140,
         "baseDefense": 230,

@@ -1,5 +1,6 @@
 {
     "SQUIRTLE": {
+        "name": "Squirtle",
         "baseHP": 44,
         "baseAttack": 48,
         "baseDefense": 65,

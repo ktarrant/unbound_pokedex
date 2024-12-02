@@ -1,5 +1,6 @@
 {
     "RATTATA": {
+        "name": "Rattata",
         "baseHP": 30,
         "baseAttack": 56,
         "baseDefense": 35,
@@ -170,6 +171,7 @@
         ]
     },
     "RATTATA_A": {
+        "name": "Rattata",
         "blurb": "When the sun goes down, it becomes active. It runs around town on a chase for good food for its boss-Raticate.",
         "baseHP": 30,
         "baseAttack": 56,

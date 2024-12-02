@@ -1,5 +1,6 @@
 {
     "FRILLISH": {
+        "name": "Frillish",
         "blurb": "They paralyze prey with poison, then drag them down to their lairs, five miles below the surface.",
         "baseHP": 55,
         "baseAttack": 40,
@@ -106,6 +107,7 @@
         ]
     },
     "FRILLISH_F": {
+        "name": "Frillish",
         "baseHP": 55,
         "baseAttack": 40,
         "baseDefense": 50,

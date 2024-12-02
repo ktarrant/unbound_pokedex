@@ -1,5 +1,6 @@
 {
     "GRAVELER": {
+        "name": "Graveler",
         "baseHP": 55,
         "baseAttack": 95,
         "baseDefense": 115,
@@ -164,6 +165,7 @@
         ]
     },
     "GRAVELER_A": {
+        "name": "Graveler",
         "blurb": "Graveler's entire body is tinged with electricity due to the stones it likes to eat. It's very quick-tempered.",
         "baseHP": 55,
         "baseAttack": 95,

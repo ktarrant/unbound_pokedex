@@ -1,5 +1,6 @@
 {
     "STARLY": {
+        "name": "Starly",
         "blurb": "They flock in great numbers. Though small, they flap their wings with great power.",
         "baseHP": 40,
         "baseAttack": 55,

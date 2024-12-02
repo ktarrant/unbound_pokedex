@@ -1,5 +1,6 @@
 {
     "CYNDAQUIL": {
+        "name": "Cyndaquil",
         "baseHP": 39,
         "baseAttack": 52,
         "baseDefense": 43,

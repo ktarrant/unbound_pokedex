@@ -1,5 +1,6 @@
 {
     "KOMALA": {
+        "name": "Komala",
         "blurb": "It stays asleep from the moment it's born. When it falls into a deep sleep, it stops moving altogether.",
         "baseHP": 65,
         "baseAttack": 115,

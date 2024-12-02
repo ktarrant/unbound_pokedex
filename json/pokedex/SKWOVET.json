@@ -1,5 +1,6 @@
 {
     "SKWOVET": {
+        "name": "Skwovet",
         "blurb": "This Pok\\emon becomes uneasy if its cheeks are ever completely empty of berries.",
         "baseHP": 70,
         "baseAttack": 55,

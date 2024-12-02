@@ -1,5 +1,6 @@
 {
     "HYPNO": {
+        "name": "Hypno",
         "baseHP": 85,
         "baseAttack": 73,
         "baseDefense": 70,

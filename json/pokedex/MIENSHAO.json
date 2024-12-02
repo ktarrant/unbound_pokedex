@@ -1,5 +1,6 @@
 {
     "MIENSHAO": {
+        "name": "Mienshao",
         "blurb": "They use the long fur on their arms as a whip to strike their opponents.",
         "baseHP": 65,
         "baseAttack": 125,

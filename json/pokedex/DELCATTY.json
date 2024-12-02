@@ -1,5 +1,6 @@
 {
     "DELCATTY": {
+        "name": "Delcatty",
         "baseHP": 70,
         "baseAttack": 65,
         "baseDefense": 65,

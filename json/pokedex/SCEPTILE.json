@@ -1,5 +1,6 @@
 {
     "SCEPTILE": {
+        "name": "Sceptile",
         "baseHP": 70,
         "baseAttack": 85,
         "baseDefense": 65,
@@ -129,6 +130,7 @@
         ]
     },
     "SCEPTILE_MEGA": {
+        "name": "Sceptile",
         "baseHP": 70,
         "baseAttack": 110,
         "baseDefense": 75,

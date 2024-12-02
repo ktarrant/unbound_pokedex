@@ -1,5 +1,6 @@
 {
     "CORSOLA": {
+        "name": "Corsola",
         "baseHP": 65,
         "baseAttack": 55,
         "baseDefense": 95,
@@ -193,6 +194,7 @@
         ]
     },
     "CORSOLA_G": {
+        "name": "Corsola",
         "blurb": "Sudden climate change wiped out this ancient kind of Corsola. It absorbs the life force of others through its branches.",
         "baseHP": 60,
         "baseAttack": 55,

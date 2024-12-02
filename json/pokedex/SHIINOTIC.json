@@ -1,5 +1,6 @@
 {
     "SHIINOTIC": {
+        "name": "Shiinotic",
         "blurb": "When it starts fighting for territory with Parasect, the entire area gets completely coated in spores!",
         "baseHP": 60,
         "baseAttack": 45,

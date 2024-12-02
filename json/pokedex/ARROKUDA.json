@@ -1,5 +1,6 @@
 {
     "ARROKUDA": {
+        "name": "Arrokuda",
         "blurb": "It becomes extremely sluggish after eating its fill. That's when Cramorant swallows it up.",
         "baseHP": 41,
         "baseAttack": 63,

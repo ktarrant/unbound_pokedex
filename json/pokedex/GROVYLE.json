@@ -1,5 +1,6 @@
 {
     "GROVYLE": {
+        "name": "Grovyle",
         "baseHP": 50,
         "baseAttack": 65,
         "baseDefense": 45,

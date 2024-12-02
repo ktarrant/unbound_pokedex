@@ -1,5 +1,6 @@
 {
     "MARACTUS": {
+        "name": "Maractus",
         "blurb": "Arid regions are their habitat. They move rhythmically, making a sound similar to maracas.",
         "baseHP": 75,
         "baseAttack": 86,

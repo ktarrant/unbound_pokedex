@@ -1,5 +1,6 @@
 {
     "SPHEAL": {
+        "name": "Spheal",
         "baseHP": 70,
         "baseAttack": 40,
         "baseDefense": 50,

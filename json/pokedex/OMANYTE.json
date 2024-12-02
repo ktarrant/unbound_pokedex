@@ -1,5 +1,6 @@
 {
     "OMANYTE": {
+        "name": "Omanyte",
         "baseHP": 35,
         "baseAttack": 40,
         "baseDefense": 100,

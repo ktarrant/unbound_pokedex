@@ -1,5 +1,6 @@
 {
     "VIVILLON": {
+        "name": "Vivillon",
         "blurb": "The colorful patterns on this Pok\\emon's wings depend on the climate and topography of its habitat.",
         "baseHP": 80,
         "baseAttack": 52,
@@ -92,6 +93,7 @@
         ]
     },
     "VIVILLON_FANCY": {
+        "name": "Vivillon",
         "baseHP": 80,
         "baseAttack": 52,
         "baseDefense": 50,

@@ -1,5 +1,6 @@
 {
     "AUDINO": {
+        "name": "Audino",
         "blurb": "Using the feelers on its ears, it can tell how someone is feeling or when an egg might hatch.",
         "baseHP": 103,
         "baseAttack": 60,
@@ -144,6 +145,7 @@
         ]
     },
     "AUDINO_MEGA": {
+        "name": "Audino",
         "baseHP": 103,
         "baseAttack": 60,
         "baseDefense": 126,

@@ -1,5 +1,6 @@
 {
     "LINOONE": {
+        "name": "Linoone",
         "baseHP": 78,
         "baseAttack": 70,
         "baseDefense": 61,
@@ -198,6 +199,7 @@
         ]
     },
     "LINOONE_G": {
+        "name": "Linoone",
         "blurb": "It uses its long tongue to taunt foes. Once the opposition is enraged, it hurls itself, tackling them forcefully.",
         "baseHP": 78,
         "baseAttack": 70,

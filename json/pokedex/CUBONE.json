@@ -1,5 +1,6 @@
 {
     "CUBONE": {
+        "name": "Cubone",
         "baseHP": 50,
         "baseAttack": 50,
         "baseDefense": 95,
@@ -110,6 +111,7 @@
         ]
     },
     "CUBONE_A": {
+        "name": "Cubone",
         "baseHP": 50,
         "baseAttack": 50,
         "baseDefense": 95,

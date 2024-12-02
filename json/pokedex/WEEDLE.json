@@ -1,5 +1,6 @@
 {
     "WEEDLE": {
+        "name": "Weedle",
         "baseHP": 40,
         "baseAttack": 35,
         "baseDefense": 30,

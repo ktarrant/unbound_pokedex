@@ -1,5 +1,6 @@
 {
     "GRIMMSNARL": {
+        "name": "Grimmsnarl",
         "blurb": "Its hairs work like muscle fibers. When its hairs unfurl, they latch on to foes, ensnaring them like tentacles.",
         "baseHP": 95,
         "baseAttack": 120,
@@ -126,6 +127,7 @@
         ]
     },
     "GRIMMSNARL_GIGA": {
+        "name": "Grimmsnarl",
         "baseHP": 95,
         "baseAttack": 120,
         "baseDefense": 65,

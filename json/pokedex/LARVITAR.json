@@ -1,5 +1,6 @@
 {
     "LARVITAR": {
+        "name": "Larvitar",
         "baseHP": 50,
         "baseAttack": 64,
         "baseDefense": 50,

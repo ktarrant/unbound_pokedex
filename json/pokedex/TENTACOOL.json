@@ -1,5 +1,6 @@
 {
     "TENTACOOL": {
+        "name": "Tentacool",
         "baseHP": 40,
         "baseAttack": 40,
         "baseDefense": 35,

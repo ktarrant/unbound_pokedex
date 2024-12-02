@@ -1,5 +1,6 @@
 {
     "POLIWHIRL": {
+        "name": "Poliwhirl",
         "baseHP": 65,
         "baseAttack": 65,
         "baseDefense": 65,

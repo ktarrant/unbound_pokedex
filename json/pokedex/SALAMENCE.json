@@ -1,5 +1,6 @@
 {
     "SALAMENCE": {
+        "name": "Salamence",
         "baseHP": 95,
         "baseAttack": 135,
         "baseDefense": 80,
@@ -114,6 +115,7 @@
         ]
     },
     "SALAMENCE_MEGA": {
+        "name": "Salamence",
         "baseHP": 95,
         "baseAttack": 145,
         "baseDefense": 130,

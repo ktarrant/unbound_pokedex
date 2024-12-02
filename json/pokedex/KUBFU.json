@@ -1,5 +1,6 @@
 {
     "KUBFU": {
+        "name": "Kubfu",
         "blurb": "If it pulls the long white hair on its head, its fighting spirit heightens and power wells up from deep in its belly.",
         "baseHP": 60,
         "baseAttack": 90,

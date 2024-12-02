@@ -1,5 +1,6 @@
 {
     "PIPLUP": {
+        "name": "Piplup",
         "blurb": "Because it is very proud, it hates accepting food from people. Its thick down guards it from cold.",
         "baseHP": 53,
         "baseAttack": 51,

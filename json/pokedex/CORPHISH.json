@@ -1,5 +1,6 @@
 {
     "CORPHISH": {
+        "name": "Corphish",
         "baseHP": 43,
         "baseAttack": 80,
         "baseDefense": 65,

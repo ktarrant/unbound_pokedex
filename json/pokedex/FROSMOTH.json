@@ -1,5 +1,6 @@
 {
     "FROSMOTH": {
+        "name": "Frosmoth",
         "blurb": "Icy scales fall from its wings like snow as it flies over fields and mountains.",
         "baseHP": 70,
         "baseAttack": 65,

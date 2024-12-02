@@ -1,5 +1,6 @@
 {
     "SEALEO": {
+        "name": "Sealeo",
         "baseHP": 90,
         "baseAttack": 60,
         "baseDefense": 70,

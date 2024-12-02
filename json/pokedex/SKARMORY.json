@@ -1,5 +1,6 @@
 {
     "SKARMORY": {
+        "name": "Skarmory",
         "baseHP": 65,
         "baseAttack": 80,
         "baseDefense": 140,

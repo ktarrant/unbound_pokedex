@@ -1,5 +1,6 @@
 {
     "PERSIAN": {
+        "name": "Persian",
         "baseHP": 65,
         "baseAttack": 70,
         "baseDefense": 60,
@@ -174,6 +175,7 @@
         ]
     },
     "PERSIAN_A": {
+        "name": "Persian",
         "blurb": "It has the classiest coat. The rippling of its fur in the heat of battle has a beauty all its own.",
         "baseHP": 65,
         "baseAttack": 60,

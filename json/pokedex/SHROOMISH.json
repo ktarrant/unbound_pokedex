@@ -1,5 +1,6 @@
 {
     "SHROOMISH": {
+        "name": "Shroomish",
         "baseHP": 60,
         "baseAttack": 40,
         "baseDefense": 60,

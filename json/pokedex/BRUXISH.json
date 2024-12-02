@@ -1,5 +1,6 @@
 {
     "BRUXISH": {
+        "name": "Bruxish",
         "blurb": "Its skin is thick enough to fend off spikes. With its robust teeth, it crunches up and eats the spikes.",
         "baseHP": 68,
         "baseAttack": 105,

@@ -1,5 +1,6 @@
 {
     "BLIPBUG": {
+        "name": "Blipbug",
         "blurb": "A constant collector of information, this Pok\\emon is very smart. Very strong is what it isn't.",
         "baseHP": 25,
         "baseAttack": 20,

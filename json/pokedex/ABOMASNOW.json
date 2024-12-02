@@ -1,5 +1,6 @@
 {
     "ABOMASNOW": {
+        "name": "Abomasnow",
         "blurb": "It blankets wide areas in snow by whipping up blizzards. It is also known as \"The Ice Monster.\\\"",
         "baseHP": 90,
         "baseAttack": 92,
@@ -112,6 +113,7 @@
         ]
     },
     "ABOMASNOW_MEGA": {
+        "name": "Abomasnow",
         "baseHP": 90,
         "baseAttack": 132,
         "baseDefense": 105,

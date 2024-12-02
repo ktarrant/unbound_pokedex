@@ -1,5 +1,6 @@
 {
     "GLASTRIER": {
+        "name": "Glastrier",
         "blurb": "Glastrier has tremendous physical strength. The mask covering its face is 100 times stronger than diamond.",
         "baseHP": 100,
         "baseAttack": 145,

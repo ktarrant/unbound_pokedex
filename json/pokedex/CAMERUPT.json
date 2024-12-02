@@ -1,5 +1,6 @@
 {
     "CAMERUPT": {
+        "name": "Camerupt",
         "baseHP": 70,
         "baseAttack": 100,
         "baseDefense": 70,
@@ -107,6 +108,7 @@
         ]
     },
     "CAMERUPT_MEGA": {
+        "name": "Camerupt",
         "baseHP": 70,
         "baseAttack": 120,
         "baseDefense": 100,

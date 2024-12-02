@@ -1,5 +1,6 @@
 {
     "ROTOM": {
+        "name": "Rotom",
         "blurb": "Its body is composed of plasma. It is known to infiltrate electronic devices and wreak havoc.",
         "baseHP": 50,
         "baseAttack": 50,
@@ -89,6 +90,7 @@
         ]
     },
     "ROTOM_HEAT": {
+        "name": "Rotom",
         "baseHP": 50,
         "baseAttack": 65,
         "baseDefense": 107,
@@ -177,6 +179,7 @@
         ]
     },
     "ROTOM_WASH": {
+        "name": "Rotom",
         "baseHP": 50,
         "baseAttack": 65,
         "baseDefense": 107,
@@ -265,6 +268,7 @@
         ]
     },
     "ROTOM_FROST": {
+        "name": "Rotom",
         "baseHP": 50,
         "baseAttack": 65,
         "baseDefense": 107,
@@ -353,6 +357,7 @@
         ]
     },
     "ROTOM_FAN": {
+        "name": "Rotom",
         "baseHP": 50,
         "baseAttack": 65,
         "baseDefense": 107,
@@ -441,6 +446,7 @@
         ]
     },
     "ROTOM_MOW": {
+        "name": "Rotom",
         "baseHP": 50,
         "baseAttack": 65,
         "baseDefense": 107,

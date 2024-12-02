@@ -1,5 +1,6 @@
 {
     "SAWK": {
+        "name": "Sawk",
         "blurb": "Desiring the strongest karate chop, they seclude themselves in mountains and train without sleeping.",
         "baseHP": 75,
         "baseAttack": 125,

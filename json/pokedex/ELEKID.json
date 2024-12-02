@@ -1,5 +1,6 @@
 {
     "ELEKID": {
+        "name": "Elekid",
         "baseHP": 45,
         "baseAttack": 63,
         "baseDefense": 37,

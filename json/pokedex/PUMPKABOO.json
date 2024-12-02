@@ -207,6 +207,7 @@
         ]
     },
     "PUMPKABOO_L": {
+        "name": "Pumpkaboo",
         "baseHP": 54,
         "baseAttack": 66,
         "baseDefense": 70,
@@ -310,6 +311,7 @@
         ]
     },
     "PUMPKABOO_M": {
+        "name": "Pumpkaboo",
         "baseHP": 49,
         "baseAttack": 66,
         "baseDefense": 70,

@@ -39,8 +39,8 @@ pokedex = get_pokedex_outline()
 
 # Add Pokedex names and blurbs
 # TODO: Still some naming mismatches here, is there a table I am missing?
-# names = parse_names()
-# merge_species_data(pokedex, names, "name")
+names = parse_names()
+merge_species_data(pokedex, names, "name", extra_mapper=name_mapper)
 blurbs = parse_blurbs()
 merge_species_data(pokedex, blurbs, "blurb")
 
@@ -65,6 +65,11 @@ add_learned_moves(move_data, learnsets_data)
 merge_species_data(pokedex, learnsets_data, "learnset")
 add_compatible_moves(pokedex, move_data)
 
+# Add locations data
+location_data = parse_location_files()
+location_lookup = create_location_lookup(location_data)
+update_pokemon_names(location_data, pokedex)
+
 save_errors()
 
 # Create output files
@@ -73,11 +78,9 @@ move_file = os.path.join(dst_dir, "moves.json")
 fields_file = os.path.join(dst_dir, "fields.json")
 locations_file = os.path.join(dst_dir, "locations.json")
 
-pprint.pprint(pokedex)
-
-# with open(locations_file, 'w') as json_file:
-#     json.dump(location_data, json_file, indent=1)
-# print(f"Locations data successfully parsed and saved to {locations_file}")
+with open(locations_file, 'w') as json_file:
+    json.dump(location_data, json_file, indent=1)
+print(f"Locations data successfully parsed and saved to {locations_file}")
 
 with open(move_file, 'w') as json_file:
     json.dump(move_data, json_file, indent=1)
@@ -96,5 +99,3 @@ for dex in pokedex:
     with open(out_file, 'w') as json_file:
         json.dump(pokedex[dex], json_file, indent=4)
         print(f"Saving pokedex data: {out_file}")
-
-

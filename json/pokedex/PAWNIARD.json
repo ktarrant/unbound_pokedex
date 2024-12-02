@@ -1,5 +1,6 @@
 {
     "PAWNIARD": {
+        "name": "Pawniard",
         "blurb": "Ignoring their injuries, groups attack by sinking the blades that cover their bodies into their prey.",
         "baseHP": 45,
         "baseAttack": 85,

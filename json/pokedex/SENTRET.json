@@ -1,5 +1,6 @@
 {
     "SENTRET": {
+        "name": "Sentret",
         "baseHP": 35,
         "baseAttack": 46,
         "baseDefense": 34,

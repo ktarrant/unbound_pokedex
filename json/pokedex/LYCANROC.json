@@ -1,5 +1,6 @@
 {
     "LYCANROC": {
+        "name": "Lycanroc",
         "blurb": "Well equipped with claws and fangs, it uses the sharp rocks in its mane as weapons.",
         "baseHP": 75,
         "baseAttack": 115,
@@ -187,6 +188,7 @@
         ]
     },
     "LYCANROC_N": {
+        "name": "Lycanroc",
         "blurb": "They live alone without forming packs. They only listen to orders from those who can draw out their true power.",
         "baseHP": 85,
         "baseAttack": 115,

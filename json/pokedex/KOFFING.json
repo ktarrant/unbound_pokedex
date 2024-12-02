@@ -1,5 +1,6 @@
 {
     "KOFFING": {
+        "name": "Koffing",
         "baseHP": 40,
         "baseAttack": 65,
         "baseDefense": 95,
@@ -105,6 +106,7 @@
         ]
     },
     "KOFFING_G": {
+        "name": "Koffing",
         "baseHP": 40,
         "baseAttack": 65,
         "baseDefense": 95,

@@ -1,5 +1,6 @@
 {
     "SWALOT": {
+        "name": "Swalot",
         "baseHP": 100,
         "baseAttack": 73,
         "baseDefense": 83,

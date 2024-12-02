@@ -1,5 +1,6 @@
 {
     "TAPU_KOKO": {
+        "name": "Tapu Koko",
         "blurb": "This guardian deity of Melemele summons thunderclouds and stores their lightning inside its body.",
         "baseHP": 70,
         "baseAttack": 115,

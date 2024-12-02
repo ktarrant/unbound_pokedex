@@ -1,5 +1,6 @@
 {
     "NOSEPASS": {
+        "name": "Nosepass",
         "baseHP": 30,
         "baseAttack": 45,
         "baseDefense": 135,

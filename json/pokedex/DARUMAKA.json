@@ -1,5 +1,6 @@
 {
     "DARUMAKA": {
+        "name": "Darumaka",
         "blurb": "When it sleeps, it pulls its limbs into its body and its internal fire goes down to 1,100 degrees F.",
         "baseHP": 70,
         "baseAttack": 90,
@@ -179,6 +180,7 @@
         ]
     },
     "DARUMAKA_G": {
+        "name": "Darumaka",
         "blurb": "They freeze their breath to make snowballs, using them as ammo for playful snowball fights.",
         "baseHP": 70,
         "baseAttack": 90,

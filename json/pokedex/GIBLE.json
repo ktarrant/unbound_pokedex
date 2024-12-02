@@ -1,5 +1,6 @@
 {
     "GIBLE": {
+        "name": "Gible",
         "blurb": "It once lived in the tropics. To avoid the cold, it lives in caves warmed by geothermal heat.",
         "baseHP": 58,
         "baseAttack": 70,

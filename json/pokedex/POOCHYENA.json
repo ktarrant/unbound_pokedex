@@ -1,5 +1,6 @@
 {
     "POOCHYENA": {
+        "name": "Poochyena",
         "baseHP": 35,
         "baseAttack": 55,
         "baseDefense": 35,

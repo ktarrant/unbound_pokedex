@@ -1,5 +1,6 @@
 {
     "TEDDIURSA": {
+        "name": "Teddiursa",
         "baseHP": 60,
         "baseAttack": 80,
         "baseDefense": 50,

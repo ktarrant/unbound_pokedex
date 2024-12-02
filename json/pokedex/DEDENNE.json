@@ -1,5 +1,6 @@
 {
     "DEDENNE": {
+        "name": "Dedenne",
         "blurb": "Its upper whiskers are sensors that survey its surroundings. Its lower whiskers shoot electricity.",
         "baseHP": 67,
         "baseAttack": 58,

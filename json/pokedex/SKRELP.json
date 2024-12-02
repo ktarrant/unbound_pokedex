@@ -1,5 +1,6 @@
 {
     "SKRELP": {
+        "name": "Skrelp",
         "blurb": "It looks just like rotten kelp. It hides from foes while storing up power for its evolution.",
         "baseHP": 50,
         "baseAttack": 60,

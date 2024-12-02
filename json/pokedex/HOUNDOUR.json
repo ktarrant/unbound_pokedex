@@ -1,5 +1,6 @@
 {
     "HOUNDOUR": {
+        "name": "Houndour",
         "baseHP": 45,
         "baseAttack": 60,
         "baseDefense": 30,

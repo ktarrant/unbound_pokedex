@@ -1,5 +1,6 @@
 {
     "SNORUNT": {
+        "name": "Snorunt",
         "baseHP": 50,
         "baseAttack": 50,
         "baseDefense": 50,

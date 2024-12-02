@@ -1,5 +1,6 @@
 {
     "SWADLOON": {
+        "name": "Swadloon",
         "blurb": "Preferring dark, damp places, it spends the entire day eating fallen leaves that lie around it.",
         "baseHP": 55,
         "baseAttack": 63,

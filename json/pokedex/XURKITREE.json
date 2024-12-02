@@ -1,5 +1,6 @@
 {
     "XURKITREE": {
+        "name": "Xurkitree",
         "blurb": "It appeared from the Ultra Wormhole. It raided a power plant, so it energizes itself with electricity.",
         "baseHP": 83,
         "baseAttack": 89,

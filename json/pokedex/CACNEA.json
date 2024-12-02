@@ -1,5 +1,6 @@
 {
     "CACNEA": {
+        "name": "Cacnea",
         "baseHP": 50,
         "baseAttack": 85,
         "baseDefense": 40,

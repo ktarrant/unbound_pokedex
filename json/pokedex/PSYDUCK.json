@@ -1,5 +1,6 @@
 {
     "PSYDUCK": {
+        "name": "Psyduck",
         "baseHP": 50,
         "baseAttack": 52,
         "baseDefense": 48,

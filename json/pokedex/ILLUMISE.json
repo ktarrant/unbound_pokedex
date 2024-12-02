@@ -1,5 +1,6 @@
 {
     "ILLUMISE": {
+        "name": "Illumise",
         "baseHP": 65,
         "baseAttack": 47,
         "baseDefense": 75,

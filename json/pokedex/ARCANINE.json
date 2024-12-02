@@ -1,5 +1,6 @@
 {
     "ARCANINE": {
+        "name": "Arcanine",
         "baseHP": 90,
         "baseAttack": 110,
         "baseDefense": 80,

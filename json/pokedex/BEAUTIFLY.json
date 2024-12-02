@@ -1,5 +1,6 @@
 {
     "BEAUTIFLY": {
+        "name": "Beautifly",
         "baseHP": 60,
         "baseAttack": 70,
         "baseDefense": 50,

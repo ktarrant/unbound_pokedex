@@ -1,5 +1,6 @@
 {
     "SURSKIT": {
+        "name": "Surskit",
         "baseHP": 40,
         "baseAttack": 30,
         "baseDefense": 32,

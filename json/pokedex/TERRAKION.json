@@ -1,5 +1,6 @@
 {
     "TERRAKION": {
+        "name": "Terrakion",
         "blurb": "This Pok\\emon came to the defense of Pok\\emon that had lost their homes in a war among humans.",
         "baseHP": 91,
         "baseAttack": 129,

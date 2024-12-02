@@ -1,5 +1,6 @@
 {
     "FROAKIE": {
+        "name": "Froakie",
         "blurb": "It secretes bubbles from its chest and back. The bubbles reduce the damage it would take when attacked.",
         "baseHP": 41,
         "baseAttack": 56,

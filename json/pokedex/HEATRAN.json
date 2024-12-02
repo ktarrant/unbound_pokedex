@@ -1,5 +1,6 @@
 {
     "HEATRAN": {
+        "name": "Heatran",
         "blurb": "It dwells in volcanic caves. It digs in with its cross-shaped feet to crawl on ceilings and walls.",
         "baseHP": 91,
         "baseAttack": 90,

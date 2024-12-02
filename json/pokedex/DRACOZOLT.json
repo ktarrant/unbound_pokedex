@@ -1,5 +1,6 @@
 {
     "DRACOZOLT": {
+        "name": "Dracozolt",
         "blurb": "The powerful muscles in its tail generate its electricity. Its upper half is entirely too small. ",
         "baseHP": 90,
         "baseAttack": 100,

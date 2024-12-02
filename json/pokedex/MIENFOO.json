@@ -1,5 +1,6 @@
 {
     "MIENFOO": {
+        "name": "Mienfoo",
         "blurb": "It takes pride in the speed at which it uses moves. What it loses in power, it makes up for in quantity.",
         "baseHP": 45,
         "baseAttack": 85,

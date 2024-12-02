@@ -1,5 +1,6 @@
 {
     "MEOWTH": {
+        "name": "Meowth",
         "baseHP": 40,
         "baseAttack": 45,
         "baseDefense": 35,
@@ -114,6 +115,7 @@
         ]
     },
     "MEOWTH_A": {
+        "name": "Meowth",
         "blurb": "It's impulsive, selfish, and fickle. It's very popular with Trainers who like giving it the attention it needs.",
         "baseHP": 40,
         "baseAttack": 35,
@@ -298,6 +300,7 @@
         ]
     },
     "MEOWTH_G": {
+        "name": "Meowth",
         "blurb": "These daring Pok\\emon have coins on their foreheads. Darker coins are harder, and harder coins garner more respect.",
         "baseHP": 50,
         "baseAttack": 65,
@@ -471,6 +474,7 @@
         ]
     },
     "MEOWTH_GIGA": {
+        "name": "Meowth",
         "baseHP": 40,
         "baseAttack": 45,
         "baseDefense": 35,

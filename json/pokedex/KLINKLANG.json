@@ -1,5 +1,6 @@
 {
     "KLINKLANG": {
+        "name": "Klinklang",
         "blurb": "The gear with the red core is rotated at high speed for a rapid energy charge.",
         "baseHP": 60,
         "baseAttack": 100,

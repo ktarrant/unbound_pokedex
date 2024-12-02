@@ -1,5 +1,6 @@
 {
     "OBSTAGOON": {
+        "name": "Obstagoon",
         "blurb": "It evolved after experiencing numerous fights. While crossing its arms, it lets out a shout that'd make anyone flinch.",
         "baseHP": 93,
         "baseAttack": 90,

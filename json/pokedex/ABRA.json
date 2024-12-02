@@ -1,5 +1,6 @@
 {
     "ABRA": {
+        "name": "Abra",
         "baseHP": 25,
         "baseAttack": 20,
         "baseDefense": 15,

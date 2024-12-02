@@ -1,5 +1,6 @@
 {
     "KRICKETUNE": {
+        "name": "Kricketune",
         "blurb": "It signals its emotions with its melodies. Scientists are studying these melodic patterns.",
         "baseHP": 77,
         "baseAttack": 85,

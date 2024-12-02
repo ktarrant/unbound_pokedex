@@ -1,5 +1,6 @@
 {
     "SNOVER": {
+        "name": "Snover",
         "blurb": "In the spring, it grows berries with the texture of frozen treats around its belly.",
         "baseHP": 60,
         "baseAttack": 62,

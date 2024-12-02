@@ -1,5 +1,6 @@
 {
     "SEEDOT": {
+        "name": "Seedot",
         "baseHP": 40,
         "baseAttack": 40,
         "baseDefense": 50,

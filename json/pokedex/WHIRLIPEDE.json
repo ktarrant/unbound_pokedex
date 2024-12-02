@@ -1,5 +1,6 @@
 {
     "WHIRLIPEDE": {
+        "name": "Whirlipede",
         "blurb": "Protected by a hard shell, it spins its body like a wheel and crashes furiously into its enemies.",
         "baseHP": 40,
         "baseAttack": 55,

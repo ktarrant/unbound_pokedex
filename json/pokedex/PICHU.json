@@ -1,5 +1,6 @@
 {
     "PICHU": {
+        "name": "Pichu",
         "baseHP": 20,
         "baseAttack": 40,
         "baseDefense": 15,
@@ -112,6 +113,7 @@
         ]
     },
     "PICHU_SPIKY": {
+        "name": "Pichu",
         "baseHP": 20,
         "baseAttack": 40,
         "baseDefense": 15,

@@ -1,5 +1,6 @@
 {
     "SMEARGLE": {
+        "name": "Smeargle",
         "baseHP": 55,
         "baseAttack": 20,
         "baseDefense": 35,

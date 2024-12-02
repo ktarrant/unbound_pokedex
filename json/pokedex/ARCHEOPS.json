@@ -1,5 +1,6 @@
 {
     "ARCHEOPS": {
+        "name": "Archeops",
         "blurb": "It runs better than it flies. It takes off into the sky by running at a speed of 25 mph.",
         "baseHP": 75,
         "baseAttack": 140,

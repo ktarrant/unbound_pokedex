@@ -1,5 +1,6 @@
 {
     "FURFROU": {
+        "name": "Furfrou",
         "blurb": "Historically, in the Kalos region, these Pok\\emon were the designated guardians of the king.",
         "baseHP": 75,
         "baseAttack": 80,

@@ -1,5 +1,6 @@
 {
     "GROUDON": {
+        "name": "Groudon",
         "baseHP": 100,
         "baseAttack": 150,
         "baseDefense": 140,

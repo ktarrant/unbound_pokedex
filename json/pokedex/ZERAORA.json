@@ -1,5 +1,6 @@
 {
     "ZERAORA": {
+        "name": "Zeraora",
         "blurb": "It approaches its enemies at the speed of lightning, then tears them limb from limb with its sharp claws.",
         "baseHP": 88,
         "baseAttack": 112,

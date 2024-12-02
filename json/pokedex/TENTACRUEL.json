@@ -1,5 +1,6 @@
 {
     "TENTACRUEL": {
+        "name": "Tentacruel",
         "baseHP": 80,
         "baseAttack": 70,
         "baseDefense": 65,

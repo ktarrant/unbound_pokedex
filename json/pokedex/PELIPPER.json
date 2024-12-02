@@ -1,5 +1,6 @@
 {
     "PELIPPER": {
+        "name": "Pelipper",
         "baseHP": 60,
         "baseAttack": 50,
         "baseDefense": 100,

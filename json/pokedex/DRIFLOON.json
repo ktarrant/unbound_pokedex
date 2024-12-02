@@ -1,5 +1,6 @@
 {
     "DRIFLOON": {
+        "name": "Drifloon",
         "blurb": "Stories go that it grabs the hands of small children and drags them away to the afterlife.",
         "baseHP": 90,
         "baseAttack": 50,

@@ -1,5 +1,6 @@
 {
     "MANAPHY": {
+        "name": "Manaphy",
         "blurb": "It is born with a wondrous power that lets it bond with any kind of Pok\\emon.",
         "baseHP": 100,
         "baseAttack": 100,

@@ -1,5 +1,6 @@
 {
     "NINETALES": {
+        "name": "Ninetales",
         "baseHP": 73,
         "baseAttack": 76,
         "baseDefense": 75,
@@ -178,6 +179,7 @@
         ]
     },
     "NINETALES_A": {
+        "name": "Ninetales",
         "blurb": "It lives on mountains perpetually covered in snow and is revered as a deity incarnate.",
         "baseHP": 73,
         "baseAttack": 67,

@@ -1,5 +1,6 @@
 {
     "CHANDELURE": {
+        "name": "Chandelure",
         "blurb": "Being consumed in Chandelure's flame burns up the spirit, leaving the body behind.",
         "baseHP": 60,
         "baseAttack": 55,

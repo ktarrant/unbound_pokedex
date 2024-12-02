@@ -1,5 +1,6 @@
 {
     "DROWZEE": {
+        "name": "Drowzee",
         "baseHP": 60,
         "baseAttack": 48,
         "baseDefense": 45,

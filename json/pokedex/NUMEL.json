@@ -1,5 +1,6 @@
 {
     "NUMEL": {
+        "name": "Numel",
         "baseHP": 60,
         "baseAttack": 60,
         "baseDefense": 40,

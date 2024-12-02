@@ -1,5 +1,6 @@
 {
     "RIOLU": {
+        "name": "Riolu",
         "blurb": "The aura that emanates from its body intensifies to alert others if it is afraid or sad.",
         "baseHP": 40,
         "baseAttack": 70,

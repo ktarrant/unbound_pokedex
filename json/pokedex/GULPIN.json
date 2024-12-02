@@ -1,5 +1,6 @@
 {
     "GULPIN": {
+        "name": "Gulpin",
         "baseHP": 70,
         "baseAttack": 43,
         "baseDefense": 53,

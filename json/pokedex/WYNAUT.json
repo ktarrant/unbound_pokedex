@@ -1,5 +1,6 @@
 {
     "WYNAUT": {
+        "name": "Wynaut",
         "baseHP": 95,
         "baseAttack": 23,
         "baseDefense": 48,

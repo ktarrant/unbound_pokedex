@@ -1,5 +1,6 @@
 {
     "MEW": {
+        "name": "Mew",
         "baseHP": 100,
         "baseAttack": 100,
         "baseDefense": 100,

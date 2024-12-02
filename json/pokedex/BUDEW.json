@@ -1,5 +1,6 @@
 {
     "BUDEW": {
+        "name": "Budew",
         "blurb": "It lives alongside clear ponds. It scatters pollen that induces harsh sneezing and runny noses.",
         "baseHP": 40,
         "baseAttack": 30,

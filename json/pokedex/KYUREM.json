@@ -1,5 +1,6 @@
 {
     "KYUREM": {
+        "name": "Kyurem",
         "blurb": "It can produce ultracold air. Its body is frozen.",
         "baseHP": 125,
         "baseAttack": 130,

@@ -1,5 +1,6 @@
 {
     "POLTEAGEIST": {
+        "name": "Poltegeist",
         "blurb": "This species lives in antique teapots. Most pots are forgeries, but on rare occasions, an authentic work is found.",
         "baseHP": 60,
         "baseAttack": 65,
@@ -81,6 +82,7 @@
         ]
     },
     "POLTEAGEIST_CHIPPED": {
+        "name": "Poltegeist",
         "blurb": "When angered, it launches tea from its body at the offender's mouth. The tea causes strong chills if swallowed.",
         "baseHP": 60,
         "baseAttack": 65,

@@ -1,5 +1,6 @@
 {
     "SHELLOS": {
+        "name": "Shellos",
         "blurb": "Its shape and coloration vary, depending on its habitat.",
         "baseHP": 76,
         "baseAttack": 48,
@@ -97,6 +98,7 @@
         ]
     },
     "SHELLOS_EAST": {
+        "name": "Shellos",
         "baseHP": 76,
         "baseAttack": 48,
         "baseDefense": 48,

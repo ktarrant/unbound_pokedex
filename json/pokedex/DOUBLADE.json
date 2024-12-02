@@ -1,5 +1,6 @@
 {
     "DOUBLADE": {
+        "name": "Doublade",
         "blurb": "The complex attack patterns of its two swords are unstoppable, even for an accomplished opponent.",
         "baseHP": 59,
         "baseAttack": 110,

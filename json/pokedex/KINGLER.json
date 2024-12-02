@@ -1,5 +1,6 @@
 {
     "KINGLER": {
+        "name": "Kingler",
         "baseHP": 55,
         "baseAttack": 130,
         "baseDefense": 115,
@@ -103,6 +104,7 @@
         ]
     },
     "KINGLER_GIGA": {
+        "name": "Kingler",
         "baseHP": 55,
         "baseAttack": 130,
         "baseDefense": 115,

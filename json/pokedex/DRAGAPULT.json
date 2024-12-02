@@ -1,5 +1,6 @@
 {
     "DRAGAPULT": {
+        "name": "Dragapult",
         "blurb": "Apparently the Dreepy inside its horns eagerly look forward to being launched out at Mach speeds.",
         "baseHP": 88,
         "baseAttack": 120,

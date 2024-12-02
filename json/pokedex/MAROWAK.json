@@ -1,5 +1,6 @@
 {
     "MAROWAK": {
+        "name": "Marowak",
         "baseHP": 60,
         "baseAttack": 80,
         "baseDefense": 110,
@@ -179,6 +180,7 @@
         ]
     },
     "MAROWAK_A": {
+        "name": "Marowak",
         "blurb": "Its custom is to mourn its lost friends. Mounds of dirt by the side of the road mark the graves of the Marowak.",
         "baseHP": 60,
         "baseAttack": 80,

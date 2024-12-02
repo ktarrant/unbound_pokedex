@@ -1,5 +1,6 @@
 {
     "CASTFORM": {
+        "name": "Castform",
         "baseHP": 70,
         "baseAttack": 70,
         "baseDefense": 70,

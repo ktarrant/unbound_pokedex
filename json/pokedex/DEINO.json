@@ -1,5 +1,6 @@
 {
     "DEINO": {
+        "name": "Deino",
         "blurb": "It tends to bite everything, and it is not a picky eater. Approaching it carelessly is dangerous.",
         "baseHP": 52,
         "baseAttack": 65,

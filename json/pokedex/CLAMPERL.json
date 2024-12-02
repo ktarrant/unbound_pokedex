@@ -1,5 +1,6 @@
 {
     "CLAMPERL": {
+        "name": "Clamperl",
         "baseHP": 35,
         "baseAttack": 64,
         "baseDefense": 85,

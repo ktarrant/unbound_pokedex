@@ -1,5 +1,6 @@
 {
     "MILTANK": {
+        "name": "Miltank",
         "baseHP": 95,
         "baseAttack": 80,
         "baseDefense": 105,

@@ -1,5 +1,6 @@
 {
     "DUBWOOL": {
+        "name": "Dubwool",
         "blurb": "Its majestic horns are meant only to impress the opposite gender. They never see use in battle.",
         "baseHP": 72,
         "baseAttack": 80,

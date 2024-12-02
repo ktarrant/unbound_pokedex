@@ -1,5 +1,6 @@
 {
     "VOLCARONA": {
+        "name": "Volcarona",
         "blurb": "When volcanic ash darkened the atmosphere, Volcarona's fire provided a replacement for the sun.",
         "baseHP": 85,
         "baseAttack": 60,

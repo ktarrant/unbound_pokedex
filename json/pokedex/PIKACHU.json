@@ -1,5 +1,6 @@
 {
     "PIKACHU": {
+        "name": "Pikachu",
         "baseHP": 35,
         "baseAttack": 55,
         "baseDefense": 40,
@@ -100,6 +101,7 @@
         ]
     },
     "PIKACHU_SURFING": {
+        "name": "Pikachu",
         "baseHP": 35,
         "baseAttack": 55,
         "baseDefense": 40,
@@ -205,6 +207,7 @@
         ]
     },
     "PIKACHU_FLYING": {
+        "name": "Pikachu",
         "baseHP": 35,
         "baseAttack": 55,
         "baseDefense": 40,
@@ -311,6 +314,7 @@
         ]
     },
     "PIKACHU_COSPLAY": {
+        "name": "Pikachu",
         "baseHP": 35,
         "baseAttack": 55,
         "baseDefense": 40,
@@ -416,6 +420,7 @@
         ]
     },
     "PIKACHU_LIBRE": {
+        "name": "Pikachu",
         "baseHP": 35,
         "baseAttack": 55,
         "baseDefense": 40,
@@ -521,6 +526,7 @@
         ]
     },
     "PIKACHU_POP_STAR": {
+        "name": "Pikachu",
         "baseHP": 35,
         "baseAttack": 55,
         "baseDefense": 40,
@@ -626,6 +632,7 @@
         ]
     },
     "PIKACHU_ROCK_STAR": {
+        "name": "Pikachu",
         "baseHP": 35,
         "baseAttack": 55,
         "baseDefense": 40,
@@ -731,6 +738,7 @@
         ]
     },
     "PIKACHU_BELLE": {
+        "name": "Pikachu",
         "baseHP": 35,
         "baseAttack": 55,
         "baseDefense": 40,
@@ -836,6 +844,7 @@
         ]
     },
     "PIKACHU_PHD": {
+        "name": "Pikachu",
         "baseHP": 35,
         "baseAttack": 55,
         "baseDefense": 40,
@@ -941,6 +950,7 @@
         ]
     },
     "PIKACHU_CAP_ORIGINAL": {
+        "name": "Pikachu",
         "baseHP": 35,
         "baseAttack": 55,
         "baseDefense": 40,
@@ -1046,6 +1056,7 @@
         ]
     },
     "PIKACHU_CAP_HOENN": {
+        "name": "Pikachu",
         "baseHP": 35,
         "baseAttack": 55,
         "baseDefense": 40,
@@ -1151,6 +1162,7 @@
         ]
     },
     "PIKACHU_CAP_SINNOH": {
+        "name": "Pikachu",
         "baseHP": 35,
         "baseAttack": 55,
         "baseDefense": 40,
@@ -1256,6 +1268,7 @@
         ]
     },
     "PIKACHU_CAP_UNOVA": {
+        "name": "Pikachu",
         "baseHP": 35,
         "baseAttack": 55,
         "baseDefense": 40,
@@ -1361,6 +1374,7 @@
         ]
     },
     "PIKACHU_CAP_KALOS": {
+        "name": "Pikachu",
         "baseHP": 35,
         "baseAttack": 55,
         "baseDefense": 40,
@@ -1466,6 +1480,7 @@
         ]
     },
     "PIKACHU_CAP_ALOLA": {
+        "name": "Pikachu",
         "baseHP": 35,
         "baseAttack": 55,
         "baseDefense": 40,
@@ -1571,6 +1586,7 @@
         ]
     },
     "PIKACHU_CAP_PARTNER": {
+        "name": "Pikachu",
         "baseHP": 35,
         "baseAttack": 55,
         "baseDefense": 40,
@@ -1676,6 +1692,7 @@
         ]
     },
     "PIKACHU_GIGA": {
+        "name": "Pikachu",
         "baseHP": 35,
         "baseAttack": 55,
         "baseDefense": 40,

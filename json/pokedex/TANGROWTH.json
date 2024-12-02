@@ -1,5 +1,6 @@
 {
     "TANGROWTH": {
+        "name": "Tangrowth",
         "blurb": "Its vines grow so profusely that, in the warm season, you can't even see its eyes.",
         "baseHP": 100,
         "baseAttack": 100,

@@ -1,5 +1,6 @@
 {
     "VANILLISH": {
+        "name": "Vanillish",
         "blurb": "This hearty Pok\\emon survived the Ice Age. It's incredibly popular in very hot regions.",
         "baseHP": 51,
         "baseAttack": 65,

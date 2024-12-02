@@ -1,5 +1,6 @@
 {
     "ODDISH": {
+        "name": "Oddish",
         "baseHP": 45,
         "baseAttack": 50,
         "baseDefense": 55,

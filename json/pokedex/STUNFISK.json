@@ -1,5 +1,6 @@
 {
     "STUNFISK": {
+        "name": "Stunfisk",
         "blurb": "When its opponent can't be paralyzed, it contorts itself with unexpected speed and flops away.",
         "baseHP": 109,
         "baseAttack": 66,
@@ -194,6 +195,7 @@
         ]
     },
     "STUNFISK_G": {
+        "name": "Stunfisk",
         "blurb": "Its conspicuous lips lure prey in as it lies in wait in the mud. When prey gets close, it will clamp down hard.",
         "baseHP": 109,
         "baseAttack": 81,

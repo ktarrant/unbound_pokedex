@@ -1,5 +1,6 @@
 {
     "GOREBYSS": {
+        "name": "Gorebyss",
         "baseHP": 55,
         "baseAttack": 84,
         "baseDefense": 105,

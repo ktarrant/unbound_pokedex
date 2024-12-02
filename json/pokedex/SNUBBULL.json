@@ -1,5 +1,6 @@
 {
     "SNUBBULL": {
+        "name": "Snubbull",
         "baseHP": 60,
         "baseAttack": 80,
         "baseDefense": 50,

@@ -1,5 +1,6 @@
 {
     "MIMIKYU": {
+        "name": "Mimikyu",
         "blurb": "It conceals its terrifying appearance beneath an old rag so it can get closer to people and Pok\\emon.",
         "baseHP": 55,
         "baseAttack": 90,

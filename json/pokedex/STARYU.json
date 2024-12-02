@@ -1,5 +1,6 @@
 {
     "STARYU": {
+        "name": "Staryu",
         "baseHP": 30,
         "baseAttack": 45,
         "baseDefense": 55,

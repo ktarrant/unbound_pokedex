@@ -1,5 +1,6 @@
 {
     "LOMBRE": {
+        "name": "Lombre",
         "baseHP": 60,
         "baseAttack": 50,
         "baseDefense": 50,

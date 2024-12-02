@@ -1,5 +1,6 @@
 {
     "PANSEAR": {
+        "name": "Pansear",
         "blurb": "Very intelligent, it roasts berries before eating them. It likes to help people.",
         "baseHP": 50,
         "baseAttack": 53,

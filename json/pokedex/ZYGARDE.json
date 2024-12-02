@@ -1,5 +1,6 @@
 {
     "ZYGARDE": {
+        "name": "Zygarde",
         "blurb": "When the Kalos region's ecosystem falls into disarray, it appears and reveals its secret power.",
         "baseHP": 108,
         "baseAttack": 100,

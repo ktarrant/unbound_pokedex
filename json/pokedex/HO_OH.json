@@ -1,5 +1,6 @@
 {
     "HO_OH": {
+        "name": "Ho-Oh",
         "baseHP": 106,
         "baseAttack": 130,
         "baseDefense": 90,

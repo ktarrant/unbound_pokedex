@@ -1,5 +1,6 @@
 {
     "CHIMECHO": {
+        "name": "Chimecho",
         "baseHP": 75,
         "baseAttack": 50,
         "baseDefense": 80,

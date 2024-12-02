@@ -1,5 +1,6 @@
 {
     "ARCEUS": {
+        "name": "Arceus",
         "blurb": "It is told in mythology that this Pok\\emon was born before the universe even existed.",
         "baseHP": 120,
         "baseAttack": 120,

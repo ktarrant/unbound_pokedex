@@ -1,5 +1,6 @@
 {
     "TREECKO": {
+        "name": "Treecko",
         "baseHP": 40,
         "baseAttack": 45,
         "baseDefense": 35,

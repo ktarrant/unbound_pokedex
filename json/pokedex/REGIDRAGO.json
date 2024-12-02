@@ -1,5 +1,6 @@
 {
     "REGIDRAGO": {
+        "name": "Regidrago",
         "blurb": "Its body is composed of crystallized dragon energy. It is said to contain the power of every Dragon Pok\\emon.",
         "baseHP": 200,
         "baseAttack": 100,

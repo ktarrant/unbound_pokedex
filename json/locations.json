@@ -5,7 +5,7 @@
     "SNORUNT",
     "VANILLITE",
     "DELIBIRD",
-    "MINIOR_VIOLET"
+    "MINIOR"
    ]
   }
  },
@@ -17,7 +17,7 @@
     "MINCCINO",
     "INKAY",
     "HOOTHOOT",
-    "RATTATA_A",
+    "RATTATA",
     "ELECTRIKE",
     "AZURILL",
     "STUFFUL",
@@ -36,7 +36,7 @@
     "TENTACOOL",
     "PELIPPER",
     "TENTACRUEL",
-    "BASCULIN_H"
+    "BASCULIN"
    ]
   },
   "Fishing": {},
@@ -72,7 +72,7 @@
    "": [
     "WINGULL",
     "BIDOOF",
-    "SLOWPOKE_G",
+    "SLOWPOKE",
     "SHELLOS",
     "CHERUBI",
     "DEWPIDER",
@@ -112,7 +112,7 @@
    "": [
     "STARYU",
     "SHELLDER",
-    "KINGLER_GIGA",
+    "KINGLER",
     "CLOYSTER"
    ]
   }
@@ -130,7 +130,7 @@
     "RALTS"
    ],
    "Swarm": [
-    "GENESECT_BURN"
+    "Burmy"
    ],
    "Special Encounter": [
     "SIZZLIPEDE"
@@ -141,7 +141,7 @@
     "TENTACOOL",
     "PELIPPER",
     "TENTACRUEL",
-    "BASCULIN_H"
+    "BASCULIN"
    ]
   },
   "Old Rod": {
@@ -172,7 +172,7 @@
     "MURKROW",
     "Nidoran",
     "Nidoran",
-    "GROWLITHE_H",
+    "GROWLITHE",
     "YANMA",
     "HOUNDOUR",
     "VENONAT",
@@ -192,7 +192,7 @@
     "TENTACOOL",
     "PELIPPER",
     "TENTACRUEL",
-    "BASCULIN_H"
+    "BASCULIN"
    ]
   },
   "Old Rod": {
@@ -222,7 +222,7 @@
     "LEDYBA",
     "SPINARAK",
     "SHINX",
-    "DEERLING_WINTER",
+    "Deerling",
     "SUNKERN",
     "LEDIAN",
     "KRICKETOT",
@@ -233,7 +233,7 @@
     "SMEARGLE"
    ],
    "Special Encounter": [
-    "MORPEKO_HANGRY"
+    "MORPEKO"
    ]
   },
   "surf": {
@@ -281,11 +281,11 @@
     "RATICATE_A"
    ],
    "Swarm": [
-    "MR_MIME_G"
+    "MR_MIME"
    ],
    "Special Encounter": [
-    "INDEEDEE_FEMALE",
-    "INDEEDEE_FEMALE"
+    "INDEEDEE",
+    "INDEEDEE"
    ]
   },
   "surf": {
@@ -320,11 +320,11 @@
    "": [
     "SNOVER",
     "SNORUNT",
-    "SNEASEL_H",
+    "SNEASEL",
     "CUBCHOO",
-    "DEERLING_WINTER",
+    "Deerling",
     "FLAAFFY",
-    "MINIOR_VIOLET"
+    "MINIOR"
    ],
    "Swarm": [
     "STANTLER"
@@ -350,10 +350,10 @@
     "SPEAROW",
     "GRUBBIN",
     "MARILL",
-    "DEERLING_WINTER",
+    "Deerling",
     "SHROOMISH",
     "SKORUPI",
-    "AUDINO_MEGA"
+    "AUDINO"
    ],
    "Swarm": [
     "KARRABLAST"
@@ -399,7 +399,7 @@
     "LOTAD",
     "TYMPOLE",
     "MARILL",
-    "LINOONE_G",
+    "LINOONE",
     "LOMBRE",
     "PALPITOAD",
     "GOOMY",
@@ -421,7 +421,7 @@
     "MASQUERAIN"
    ],
    "Special Encounter": [
-    "CRAMORANT_GORGING"
+    "CRAMORANT"
    ]
   },
   "Old Rod": {
@@ -464,7 +464,7 @@
     "TENTACOOL",
     "PELIPPER",
     "TENTACRUEL",
-    "BASCULIN_H"
+    "BASCULIN"
    ]
   },
   "Old Rod": {
@@ -496,9 +496,9 @@
     "SOLOSIS",
     "GOTHITA",
     "MIENFOO",
-    "PONYTA_G",
+    "PONYTA",
     "SNUBBULL",
-    "DEERLING_WINTER",
+    "Deerling",
     "Fletchinder",
     "NOCTOWL",
     "DEDENNE"
@@ -545,9 +545,9 @@
     "PELIPPER",
     "BIBAREL",
     "GOLDUCK",
-    "GASTRODON_EAST",
+    "GASTRODON",
     "FLOATZEL",
-    "SLOWPOKE_G",
+    "SLOWPOKE",
     "WEEPINBELL",
     "BELLSPROUT",
     "GLOOM",
@@ -615,10 +615,10 @@
   "Rock Smash": {
    "": [
     "BINACLE",
-    "GEODUDE_A",
-    "CORSOLA_G",
+    "GEODUDE",
+    "CORSOLA",
     "KRABBY",
-    "KINGLER_GIGA"
+    "KINGLER"
    ]
   }
  },
@@ -634,7 +634,7 @@
     "SAWK"
    ],
    "Special Encounter": [
-    "COPPERAJAH_GIGA",
+    "COPPERAJAH",
     "FALINKS"
    ]
   },
@@ -654,7 +654,7 @@
   "Good Rod": {
    "": [
     "REMORAID",
-    "CORSOLA_G",
+    "CORSOLA",
     "HORSEA"
    ]
   },
@@ -662,14 +662,14 @@
    "": [
     "OCTILLERY",
     "SEADRA",
-    "CORSOLA_G",
+    "CORSOLA",
     "Underwater",
     "CLAMPERL",
     "REMORAID",
     "OCTILLERY",
     "CHINCHOU",
     "LANTURN",
-    "CORSOLA_G"
+    "CORSOLA"
    ],
    "Special Encounter": [
     "CURSOLA"
@@ -678,10 +678,10 @@
   "Rock Smash": {
    "": [
     "BINACLE",
-    "GEODUDE_A",
-    "CORSOLA_G",
+    "GEODUDE",
+    "CORSOLA",
     "KRABBY",
-    "KINGLER_GIGA"
+    "KINGLER"
    ]
   }
  },
@@ -722,7 +722,7 @@
   "Good Rod": {
    "": [
     "REMORAID",
-    "CORSOLA_G",
+    "CORSOLA",
     "HORSEA"
    ]
   },
@@ -730,34 +730,34 @@
    "": [
     "OCTILLERY",
     "SEADRA",
-    "CORSOLA_G",
-    "LAPRAS_GIGA",
+    "CORSOLA",
+    "LAPRAS",
     "Underwater",
     "CLAMPERL",
     "CARVANHA",
     "SHARPEDO",
     "CHINCHOU",
     "LANTURN",
-    "CORSOLA_G"
+    "CORSOLA"
    ]
   },
   "Rock Smash": {
    "": [
     "BINACLE",
-    "GEODUDE_A",
-    "CORSOLA_G",
+    "GEODUDE",
+    "CORSOLA",
     "KRABBY",
-    "KINGLER_GIGA"
+    "KINGLER"
    ]
   }
  },
  "Route 18": {
   "land": {
    "": [
-    "FARFETCHD_G",
+    "FARFETCHD",
     "NOCTOWL",
     "SKUNTANK",
-    "PERSIAN_A",
+    "PERSIAN",
     "BOUFFALANT",
     "SUDOWOODO",
     "HAPPINY"
@@ -785,7 +785,7 @@
   "Good Rod": {
    "": [
     "REMORAID",
-    "CORSOLA_G",
+    "CORSOLA",
     "HORSEA"
    ]
   },
@@ -793,17 +793,17 @@
    "": [
     "OCTILLERY",
     "SEADRA",
-    "CORSOLA_G",
+    "CORSOLA",
     "GYARADOS"
    ]
   },
   "Rock Smash": {
    "": [
     "BINACLE",
-    "GEODUDE_A",
-    "CORSOLA_G",
+    "GEODUDE",
+    "CORSOLA",
     "KRABBY",
-    "KINGLER_GIGA"
+    "KINGLER"
    ]
   }
  },
@@ -814,12 +814,12 @@
     "HARIYAMA",
     "SEALEO",
     "JYNX",
-    "AVALUGG_H",
+    "AVALUGG",
     "BOLDORE",
     "PILOSWINE"
    ],
    "Special Encounter": [
-    "EISCUE_NOICE",
+    "EISCUE",
     "REGIELEKI",
     "REGIDRAGO"
    ]
@@ -842,7 +842,7 @@
     "ROGGENROLA",
     "MAKUHITA",
     "DRILBUR",
-    "MAWILE_MEGA"
+    "MAWILE"
    ],
    "4F (Outside)": [
     "SANDSHREW_A"
@@ -852,7 +852,7 @@
     "HARIYAMA",
     "SEALEO",
     "JYNX",
-    "AVALUGG_H",
+    "AVALUGG",
     "BOLDORE",
     "PILOSWINE"
    ]
@@ -863,7 +863,7 @@
     "SPHEAL",
     "DEWGONG",
     "SEALEO",
-    "LAPRAS_GIGA"
+    "LAPRAS"
    ]
   },
   "Old Rod": {
@@ -889,7 +889,7 @@
     "ROGGENROLA",
     "BERGMITE",
     "BOLDORE",
-    "AVALUGG_H",
+    "AVALUGG",
     "SHUCKLE"
    ]
   }
@@ -898,43 +898,43 @@
   "land": {
    "": [],
    "Yellow Flowers": [
-    "FLABEBE_YELLOW",
+    "Flabebe",
     "CUTIEFLY",
-    "ORICORIO_S",
+    "ORICORIO",
     "COMBEE"
    ],
    "Pink Flowers": [
-    "FLABEBE_YELLOW",
+    "Flabebe",
     "CUTIEFLY",
-    "ORICORIO_S",
+    "ORICORIO",
     "COMFEY",
     "PANSAGE",
     "COMBEE"
    ],
    "Blue Flowers": [
-    "FLABEBE_YELLOW",
+    "Flabebe",
     "CUTIEFLY",
     "PANPOUR",
     "COMBEE"
    ],
    "Red Flowers": [
-    "FLABEBE_YELLOW",
+    "Flabebe",
     "CUTIEFLY",
-    "ORICORIO_S",
+    "ORICORIO",
     "COMFEY",
     "PANSEAR",
     "COMBEE"
    ],
    "Blue-Yellow Flowers": [
-    "FLABEBE_YELLOW",
+    "Flabebe",
     "CUTIEFLY",
-    "ORICORIO_S",
+    "ORICORIO",
     "COMBEE"
    ],
    "Pink-Purple Flowers": [
-    "FLABEBE_YELLOW",
+    "Flabebe",
     "CUTIEFLY",
-    "ORICORIO_S",
+    "ORICORIO",
     "COMFEY",
     "COMBEE"
    ]
@@ -946,7 +946,7 @@
     "CATERPIE",
     "WEEDLE",
     "SEEDOT",
-    "PUMPKABOO_M",
+    "Pumpkaboo",
     "GASTLY",
     "SHUPPET",
     "DUSKULL",
@@ -990,7 +990,7 @@
     "SLUGMA",
     "SALANDIT",
     "NUMEL",
-    "GEODUDE_A",
+    "GEODUDE",
     "DRILBUR",
     "TORKOAL",
     "MAGBY"
@@ -999,14 +999,14 @@
     "WOOBAT",
     "SLUGMA",
     "SALANDIT",
-    "CAMERUPT_MEGA",
-    "GRAVELER_A",
+    "CAMERUPT",
+    "GRAVELER",
     "EXCADRILL",
     "HEATMOR",
     "MAGMAR"
    ],
    "Swarm": [
-    "VULPIX_A"
+    "VULPIX"
    ],
    "Special Encounter": [
     "ROLYCOLY",
@@ -1024,8 +1024,8 @@
   "Super Rod": {},
   "Rock Smash": {
    "": [
-    "GEODUDE_A",
-    "GRAVELER_A",
+    "GEODUDE",
+    "GRAVELER",
     "SHUCKLE",
     "SLUGMA",
     "MAGCARGO"
@@ -1085,7 +1085,7 @@
   },
   "Rock Smash": {
    "": [
-    "GEODUDE_A",
+    "GEODUDE",
     "NOSEPASS"
    ]
   }
@@ -1101,7 +1101,7 @@
     "MAKUHITA",
     "ARON",
     "NOSEPASS",
-    "GEODUDE_A",
+    "GEODUDE",
     "NOIBAT"
    ],
    "\"Dehara, Gurun, Antisis, \"": [
@@ -1111,7 +1111,7 @@
     "HARIYAMA",
     "LAIRON",
     "NOSEPASS",
-    "GRAVELER_A",
+    "GRAVELER",
     "NOIBAT"
    ]
   },
@@ -1121,7 +1121,7 @@
   "Super Rod": {},
   "Rock Smash": {
    "": [
-    "GEODUDE_A",
+    "GEODUDE",
     "NOSEPASS"
    ]
   }
@@ -1134,7 +1134,7 @@
     "ARON",
     "BRONZOR",
     "NOSEPASS",
-    "SNEASEL_H",
+    "SNEASEL",
     "ONIX",
     "CRYOGONAL"
    ]
@@ -1145,7 +1145,7 @@
     "SPHEAL",
     "DEWGONG",
     "SEALEO",
-    "LAPRAS_GIGA"
+    "LAPRAS"
    ]
   },
   "Old Rod": {
@@ -1173,7 +1173,7 @@
     "LOTAD",
     "TYMPOLE",
     "MARILL",
-    "LINOONE_G",
+    "LINOONE",
     "LOMBRE",
     "PALPITOAD",
     "GOOMY",
@@ -1188,7 +1188,7 @@
     "MASQUERAIN"
    ],
    "Special Encounter": [
-    "CRAMORANT_GORGING"
+    "CRAMORANT"
    ]
   },
   "Old Rod": {
@@ -1216,7 +1216,7 @@
    "": [
     "SNOVER",
     "CUBCHOO",
-    "SNEASEL_H"
+    "SNEASEL"
    ],
    "Special Encounter": [
     "SNOM"
@@ -1226,11 +1226,11 @@
  "Lost Tunnel": {
   "land": {
    "": [
-    "GRAVELER_A",
+    "GRAVELER",
     "WOOBAT",
     "LAIRON",
-    "DIGLETT_A",
-    "DUGTRIO_A"
+    "DIGLETT",
+    "DUGTRIO"
    ]
   },
   "surf": {},
@@ -1239,8 +1239,8 @@
   "Super Rod": {},
   "Rock Smash": {
    "": [
-    "GEODUDE_A",
-    "GRAVELER_A"
+    "GEODUDE",
+    "GRAVELER"
    ]
   }
  },
@@ -1294,7 +1294,7 @@
   },
   "surf": {
    "": [
-    "STUNFISK_G",
+    "STUNFISK",
     "CHINCHOU",
     "TYNAMO",
     "LANTURN",
@@ -1326,9 +1326,9 @@
    "Outside": [
     "BINACLE",
     "GEODUDE_A",
-    "CORSOLA_G",
+    "CORSOLA",
     "KRABBY",
-    "KINGLER_GIGA"
+    "KINGLER"
    ]
   }
  },
@@ -1344,7 +1344,7 @@
     "QUAGSIRE",
     "GRAVELER_A",
     "MACHOKE",
-    "STEELIX_MEGA"
+    "STEELIX"
    ]
   }
  },
@@ -1353,9 +1353,9 @@
    "": [],
    "B3F - B1F": [
     "BALTOY",
-    "YAMASK_G",
+    "YAMASK",
     "DUSKULL",
-    "SABLEYE_MEGA",
+    "SABLEYE",
     "BRONZONG",
     "DUSCLOPS",
     "LUNATONE",
@@ -1367,7 +1367,7 @@
     "CLAYDOL",
     "COFAGRIGUS",
     "DUSCLOPS",
-    "SABLEYE_MEGA",
+    "SABLEYE",
     "BRONZONG",
     "LUNATONE",
     "SOLROCK",
@@ -1416,7 +1416,7 @@
   },
   "Rock Smash": {
    "": [
-    "GEODUDE_A",
+    "GEODUDE",
     "BALTOY"
    ]
   }
@@ -1443,7 +1443,7 @@
     "CHIMECHO"
    ],
    "Special Encounter": [
-    "SINISTEA_CHIPPED"
+    "SINISTEA"
    ]
   }
  },
@@ -1454,7 +1454,7 @@
     "DWEBBLE",
     "KROKOROK",
     "CACNEA",
-    "DARUMAKA_G",
+    "DARUMAKA",
     "HIPPOWDON",
     "VIBRAVA",
     "MARACTUS"
@@ -1471,7 +1471,7 @@
    "": [
     "BINACLE",
     "DWEBBLE",
-    "GEODUDE_A",
+    "GEODUDE",
     "Armor Fossil",
     "Claw Fossil",
     "Cover Fossil",
@@ -1489,12 +1489,12 @@
  "Antisis Sewers": {
   "land": {
    "": [
-    "GRIMER_A",
-    "RATICATE_A",
+    "GRIMER",
+    "RATICATE",
     "GOLBAT",
-    "KOFFING_G",
-    "CALYREX_ICE_RIDER",
-    "WEEZING_G"
+    "KOFFING",
+    "MUK",
+    "WEEZING"
    ],
    "Swarm": [
     "WHIRLIPEDE"
@@ -1505,24 +1505,24 @@
   },
   "surf": {
    "": [
-    "GRIMER_A",
+    "GRIMER",
     "GOLBAT",
-    "CALYREX_ICE_RIDER"
+    "MUK"
    ]
   },
   "Old Rod": {
    "": [
-    "GRIMER_A"
+    "GRIMER"
    ]
   },
   "Good Rod": {
    "": [
-    "GRIMER_A"
+    "GRIMER"
    ]
   },
   "Super Rod": {
    "": [
-    "CALYREX_ICE_RIDER"
+    "MUK"
    ]
   }
  },
@@ -1531,7 +1531,7 @@
    "": [],
    "1F": [
     "UNOWN",
-    "UNOWN_Z",
+    "UNOWN",
     "UNOWN",
     "UNOWN",
     "UNOWN",
@@ -1571,8 +1571,8 @@
    ],
    "1F (Main Room)": [
     "UNOWN",
-    "UNOWN_QUESTION",
-    "UNOWN_EXCLAMATION"
+    "UNOWN",
+    "UNOWN"
    ]
   },
   "surf": {},
@@ -1581,7 +1581,7 @@
   "Super Rod": {},
   "Rock Smash": {
    "": [
-    "GRAVELER_A",
+    "GRAVELER",
     "SHUCKLE"
    ]
   }
@@ -1603,7 +1603,7 @@
     "CASCOON"
    ],
    "Swarm": [
-    "PIKACHU_GIGA"
+    "PIKACHU"
    ],
    "Special Encounter": [
     "HATTREM",
@@ -1641,7 +1641,7 @@
    "": [
     "CROAGUNK",
     "QUAGSIRE",
-    "SLIGGOO_H",
+    "SLIGGOO",
     "DRAPION",
     "CARNIVINE",
     "WEEPINBELL",
@@ -1658,9 +1658,9 @@
   "surf": {
    "": [
     "QUAGSIRE",
-    "STUNFISK_G",
-    "GASTRODON_EAST",
-    "SLIGGOO_H"
+    "STUNFISK",
+    "GASTRODON",
+    "SLIGGOO"
    ]
   },
   "Old Rod": {
@@ -1755,7 +1755,7 @@
     "ONIX",
     "NOIBAT",
     "ZWEILOUS",
-    "STEELIX_MEGA",
+    "STEELIX",
     "SKARMORY"
    ],
    "1F": [
@@ -1764,24 +1764,24 @@
     "ONIX",
     "NOIVERN",
     "ZWEILOUS",
-    "STEELIX_MEGA",
+    "STEELIX",
     "SKARMORY"
    ],
    "Outside": [
     "DRIFBLIM",
     "RUFFLET",
     "VULLABY",
-    "ABSOL_MEGA"
+    "ABSOL"
    ],
    "Special Encounter": [
-    "DURALUDON_GIGA",
+    "DURALUDON",
     "DRACOZOLT",
     "ARCTOZOLT"
    ]
   },
   "surf": {
    "": [
-    "GASTRODON_EAST",
+    "GASTRODON",
     "GOLDUCK",
     "DRAGONAIR"
    ]
@@ -1801,12 +1801,12 @@
    "": [
     "GOLDUCK",
     "LUMINEON",
-    "QWILFISH_H"
+    "QWILFISH"
    ]
   },
   "Rock Smash": {
    "": [
-    "GRAVELER_A",
+    "GRAVELER",
     "ONIX"
    ]
   }
@@ -1816,7 +1816,7 @@
    "": [
     "NOCTOWL",
     "TRANQUILL",
-    "FURFROU_DEBUTANTE",
+    "FURFROU",
     "MUDSDALE",
     "GOGOAT",
     "MILTANK",
@@ -1831,13 +1831,13 @@
   },
   "surf": {
    "": [
-    "FRILLISH_F",
+    "FRILLISH",
     "PELIPPER",
-    "JELLICENT_F",
-    "JELLICENT_F"
+    "JELLICENT",
+    "JELLICENT"
    ],
    "Special Encounter": [
-    "ENAMORUS_THERIAN"
+    "ENAMORUS"
    ]
   },
   "Old Rod": {
@@ -1855,7 +1855,7 @@
    "": [
     "GYARADOS",
     "WAILORD",
-    "QWILFISH_H"
+    "QWILFISH"
    ]
   }
  },
@@ -1875,7 +1875,7 @@
     "AIPOM",
     "PINECO",
     "SCYTHER",
-    "PINSIR_MEGA",
+    "PINSIR",
     "HERACROSS"
    ],
    "Swarm": [
@@ -1925,8 +1925,8 @@
     "WOOBAT",
     "MAGCARGO",
     "SALAZZLE",
-    "CAMERUPT_MEGA",
-    "GRAVELER_A",
+    "CAMERUPT",
+    "GRAVELER",
     "EXCADRILL",
     "HEATMOR",
     "MAGMAR"
@@ -1951,22 +1951,22 @@
     "DURANT",
     "TURTONATOR",
     "DRAMPA",
-    "Hakamo-o"
+    "HAKAMO_O"
    ],
    "Snowy Area": [
-    "ABOMASNOW_MEGA",
-    "GLALIE_MEGA",
+    "ABOMASNOW",
+    "GLALIE",
     "VANILLISH",
     "BEARTIC",
-    "MINIOR_VIOLET"
+    "MINIOR"
    ],
    "4F + Kyurem's Cave": [
     "GOLBAT",
     "HARIYAMA",
     "SEALEO",
     "JYNX",
-    "AVALUGG_H",
-    "GLALIE_MEGA",
+    "AVALUGG",
+    "GLALIE",
     "PILOSWINE"
    ]
   },
@@ -1988,12 +1988,12 @@
    ],
    "Maze Area": [
     "FLOATZEL",
-    "BASCULIN_H"
+    "BASCULIN"
    ],
    "Kyurem's Cave": [
     "DEWGONG",
     "SEALEO",
-    "LAPRAS_GIGA"
+    "LAPRAS"
    ]
   },
   "Fishing": {},

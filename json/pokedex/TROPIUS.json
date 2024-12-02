@@ -1,5 +1,6 @@
 {
     "TROPIUS": {
+        "name": "Tropius",
         "baseHP": 99,
         "baseAttack": 68,
         "baseDefense": 83,

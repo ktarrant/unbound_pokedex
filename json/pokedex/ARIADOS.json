@@ -1,5 +1,6 @@
 {
     "ARIADOS": {
+        "name": "Ariados",
         "baseHP": 70,
         "baseAttack": 90,
         "baseDefense": 70,

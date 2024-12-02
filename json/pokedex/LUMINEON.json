@@ -1,5 +1,6 @@
 {
     "LUMINEON": {
+        "name": "Lumineon",
         "blurb": "Lumineon swimming in the darkness of the deep sea look like stars shining in the night sky.",
         "baseHP": 69,
         "baseAttack": 69,

@@ -1,5 +1,6 @@
 {
     "SLOWKING": {
+        "name": "Slowking",
         "baseHP": 95,
         "baseAttack": 75,
         "baseDefense": 80,
@@ -214,6 +215,7 @@
         ]
     },
     "SLOWKING_G": {
+        "name": "Slowking",
         "blurb": "While chanting strange spells, Slowking combines its internal toxins with what it's eaten, creating strange potions.",
         "baseHP": 95,
         "baseAttack": 65,

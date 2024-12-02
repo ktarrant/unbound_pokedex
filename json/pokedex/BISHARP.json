@@ -1,5 +1,6 @@
 {
     "BISHARP": {
+        "name": "Bisharp",
         "blurb": "Bisharp pursues prey in the company of a large group of Pawniard. Then Bisharp finishes off the prey.",
         "baseHP": 65,
         "baseAttack": 125,

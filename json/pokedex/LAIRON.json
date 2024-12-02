@@ -1,5 +1,6 @@
 {
     "LAIRON": {
+        "name": "Lairon",
         "baseHP": 60,
         "baseAttack": 90,
         "baseDefense": 140,

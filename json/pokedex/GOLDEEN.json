@@ -1,5 +1,6 @@
 {
     "GOLDEEN": {
+        "name": "Goldeen",
         "baseHP": 45,
         "baseAttack": 67,
         "baseDefense": 60,

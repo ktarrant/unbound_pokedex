@@ -1,5 +1,6 @@
 {
     "CACTURNE": {
+        "name": "Cacturne",
         "baseHP": 70,
         "baseAttack": 115,
         "baseDefense": 60,

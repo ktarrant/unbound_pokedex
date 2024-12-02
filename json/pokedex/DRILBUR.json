@@ -1,5 +1,6 @@
 {
     "DRILBUR": {
+        "name": "Drilbur",
         "blurb": "By spinning its body, it can dig straight through the ground at a speed of 30 mph.",
         "baseHP": 60,
         "baseAttack": 85,

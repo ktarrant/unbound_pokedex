@@ -1,5 +1,6 @@
 {
     "MANECTRIC": {
+        "name": "Manectric",
         "baseHP": 70,
         "baseAttack": 75,
         "baseDefense": 60,
@@ -100,6 +101,7 @@
         ]
     },
     "MANECTRIC_MEGA": {
+        "name": "Manectric",
         "baseHP": 70,
         "baseAttack": 75,
         "baseDefense": 80,

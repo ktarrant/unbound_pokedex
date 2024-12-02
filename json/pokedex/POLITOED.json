@@ -1,5 +1,6 @@
 {
     "POLITOED": {
+        "name": "Politoed",
         "baseHP": 90,
         "baseAttack": 75,
         "baseDefense": 75,

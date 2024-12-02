@@ -1,5 +1,6 @@
 {
     "MEDITITE": {
+        "name": "Meditite",
         "baseHP": 30,
         "baseAttack": 40,
         "baseDefense": 55,

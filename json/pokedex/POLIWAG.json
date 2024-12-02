@@ -1,5 +1,6 @@
 {
     "POLIWAG": {
+        "name": "Poliwag",
         "baseHP": 40,
         "baseAttack": 50,
         "baseDefense": 40,

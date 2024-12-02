@@ -1,5 +1,6 @@
 {
     "BELDUM": {
+        "name": "Beldum",
         "baseHP": 40,
         "baseAttack": 55,
         "baseDefense": 80,

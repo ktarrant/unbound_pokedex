@@ -1,5 +1,6 @@
 {
     "NIDORINA": {
+        "name": "Nidorina",
         "baseHP": 70,
         "baseAttack": 62,
         "baseDefense": 67,

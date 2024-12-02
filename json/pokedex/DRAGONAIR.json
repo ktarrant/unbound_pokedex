@@ -1,5 +1,6 @@
 {
     "DRAGONAIR": {
+        "name": "Dragonair",
         "baseHP": 61,
         "baseAttack": 84,
         "baseDefense": 65,

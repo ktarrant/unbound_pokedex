@@ -1,5 +1,6 @@
 {
     "SPEAROW": {
+        "name": "Spearow",
         "baseHP": 40,
         "baseAttack": 60,
         "baseDefense": 30,

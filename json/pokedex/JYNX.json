@@ -1,5 +1,6 @@
 {
     "JYNX": {
+        "name": "Jynx",
         "baseHP": 65,
         "baseAttack": 50,
         "baseDefense": 35,

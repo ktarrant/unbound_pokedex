@@ -1,5 +1,6 @@
 {
     "ORANGURU": {
+        "name": "Oranguru",
         "blurb": "Known for its extreme intelligence, it will look down on inexperienced Trainers.",
         "baseHP": 90,
         "baseAttack": 60,

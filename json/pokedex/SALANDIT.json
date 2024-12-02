@@ -1,5 +1,6 @@
 {
     "SALANDIT": {
+        "name": "Salandit",
         "blurb": "It burns its bodily fluids to create a poisonous gas. It weakens enemies and sends them reeling with it.",
         "baseHP": 48,
         "baseAttack": 44,

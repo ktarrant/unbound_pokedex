@@ -1,5 +1,6 @@
 {
     "REGIGIGAS": {
+        "name": "Regigigas",
         "blurb": "There is an enduring legend that states this Pok\\emon towed continents with ropes.",
         "baseHP": 110,
         "baseAttack": 160,

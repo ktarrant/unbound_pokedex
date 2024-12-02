@@ -1,5 +1,6 @@
 {
     "COMBEE": {
+        "name": "Combee",
         "blurb": "A Pok\\emon formed by three others. It busily carries sweet floral honey to Vespiquen.",
         "baseHP": 30,
         "baseAttack": 30,

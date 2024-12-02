@@ -1,5 +1,6 @@
 {
     "TOGETIC": {
+        "name": "Togetic",
         "baseHP": 55,
         "baseAttack": 40,
         "baseDefense": 85,

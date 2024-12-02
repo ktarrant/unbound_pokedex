@@ -1,5 +1,6 @@
 {
     "CRESSELIA": {
+        "name": "Cresselia",
         "blurb": "On nights around the quarter moon, the aurora from its tail extends and undulates beautifully.",
         "baseHP": 120,
         "baseAttack": 70,

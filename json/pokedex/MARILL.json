@@ -1,5 +1,6 @@
 {
     "MARILL": {
+        "name": "Marill",
         "baseHP": 70,
         "baseAttack": 20,
         "baseDefense": 50,

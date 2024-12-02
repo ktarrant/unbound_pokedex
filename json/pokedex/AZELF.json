@@ -1,5 +1,6 @@
 {
     "AZELF": {
+        "name": "Azelf",
         "blurb": "Known as \"The Being of Willpower.\\\" It sleeps at the bottom of a lake to keep the world in balance.",
         "baseHP": 75,
         "baseAttack": 125,

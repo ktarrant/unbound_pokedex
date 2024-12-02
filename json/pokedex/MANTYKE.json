@@ -1,5 +1,6 @@
 {
     "MANTYKE": {
+        "name": "Mantyke",
         "blurb": "Scientists discovered that the distinctive patterns on its back differ by region.",
         "baseHP": 45,
         "baseAttack": 20,

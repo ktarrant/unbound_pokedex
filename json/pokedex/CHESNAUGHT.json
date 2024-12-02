@@ -1,5 +1,6 @@
 {
     "CHESNAUGHT": {
+        "name": "Chesnaught",
         "blurb": "When it takes a defensive posture with its fists guarding its face, it could withstand a bomb blast.",
         "baseHP": 88,
         "baseAttack": 107,

@@ -1,5 +1,6 @@
 {
     "DRACOVISH": {
+        "name": "Dracovish",
         "blurb": "Its mighty legs are capable of running at speeds exceeding 40 mph, but it can't breathe unless it's underwater.",
         "baseHP": 90,
         "baseAttack": 90,

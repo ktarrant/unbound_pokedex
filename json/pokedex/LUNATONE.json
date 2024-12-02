@@ -1,5 +1,6 @@
 {
     "LUNATONE": {
+        "name": "Lunatone",
         "baseHP": 90,
         "baseAttack": 55,
         "baseDefense": 65,

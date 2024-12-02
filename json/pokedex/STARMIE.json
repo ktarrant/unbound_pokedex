@@ -1,5 +1,6 @@
 {
     "STARMIE": {
+        "name": "Starmie",
         "baseHP": 60,
         "baseAttack": 75,
         "baseDefense": 85,

@@ -1,5 +1,6 @@
 {
     "CENTISKORCH": {
+        "name": "Centskorch",
         "blurb": "This excessively hostile Pok\\emon has large and very sharp fangs in addition to its dangerous burning body. ",
         "baseHP": 100,
         "baseAttack": 115,
@@ -101,6 +102,7 @@
         ]
     },
     "CENTISKORCH_GIGA": {
+        "name": "Centskorch",
         "baseHP": 100,
         "baseAttack": 115,
         "baseDefense": 65,

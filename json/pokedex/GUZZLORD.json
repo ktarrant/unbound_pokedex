@@ -1,5 +1,6 @@
 {
     "GUZZLORD": {
+        "name": "Guzzlord",
         "blurb": "An unknown life-form called a UB. It may be constantly hungry-it is certainly always devouring something.",
         "baseHP": 223,
         "baseAttack": 101,

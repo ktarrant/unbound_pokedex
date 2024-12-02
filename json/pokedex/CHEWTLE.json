@@ -1,5 +1,6 @@
 {
     "CHEWTLE": {
+        "name": "Chewtle",
         "blurb": "Apparently the itch of its teething impels it to snap its jaws at anything in front of it.",
         "baseHP": 50,
         "baseAttack": 64,

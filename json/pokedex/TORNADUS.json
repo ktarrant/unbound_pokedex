@@ -1,5 +1,6 @@
 {
     "TORNADUS": {
+        "name": "Tornadus",
         "blurb": "In every direction it flies, creating winds so powerful, they blow everything away.",
         "baseHP": 79,
         "baseAttack": 115,

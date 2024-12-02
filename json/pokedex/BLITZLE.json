@@ -1,5 +1,6 @@
 {
     "BLITZLE": {
+        "name": "Blitzle",
         "blurb": "Its mane shines when discharging electricity. It uses flashing manes to communicate with others.",
         "baseHP": 45,
         "baseAttack": 60,

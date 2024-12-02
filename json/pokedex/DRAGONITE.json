@@ -1,5 +1,6 @@
 {
     "DRAGONITE": {
+        "name": "Dragonite",
         "baseHP": 91,
         "baseAttack": 134,
         "baseDefense": 95,

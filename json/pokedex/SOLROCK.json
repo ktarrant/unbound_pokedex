@@ -1,5 +1,6 @@
 {
     "SOLROCK": {
+        "name": "Solrock",
         "baseHP": 90,
         "baseAttack": 95,
         "baseDefense": 85,

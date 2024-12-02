@@ -1,5 +1,6 @@
 {
     "CLEFFA": {
+        "name": "Cleffa",
         "baseHP": 50,
         "baseAttack": 25,
         "baseDefense": 28,

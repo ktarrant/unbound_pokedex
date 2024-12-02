@@ -1,5 +1,6 @@
 {
     "JELLICENT": {
+        "name": "Jellicent",
         "blurb": "Jellicent is always hanging around fancy cruise ships and tankers, hoping to drag away its prey.",
         "baseHP": 100,
         "baseAttack": 60,
@@ -95,6 +96,7 @@
         ]
     },
     "JELLICENT_F": {
+        "name": "Jellicent",
         "baseHP": 100,
         "baseAttack": 60,
         "baseDefense": 70,

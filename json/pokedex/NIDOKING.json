@@ -1,5 +1,6 @@
 {
     "NIDOKING": {
+        "name": "Nidoking",
         "baseHP": 81,
         "baseAttack": 102,
         "baseDefense": 77,

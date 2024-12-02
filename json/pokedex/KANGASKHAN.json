@@ -1,5 +1,6 @@
 {
     "KANGASKHAN": {
+        "name": "Kangaskhan",
         "baseHP": 105,
         "baseAttack": 95,
         "baseDefense": 80,

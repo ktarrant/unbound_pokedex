@@ -1,5 +1,6 @@
 {
     "DUGTRIO": {
+        "name": "Dugtrio",
         "baseHP": 35,
         "baseAttack": 100,
         "baseDefense": 50,
@@ -169,6 +170,7 @@
         ]
     },
     "DUGTRIO_A": {
+        "name": "Dugtrio",
         "blurb": "Its metallic whiskers are heavy, so it's not very fast, but it has the power to dig through bedrock.",
         "baseHP": 35,
         "baseAttack": 100,

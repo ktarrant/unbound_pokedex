@@ -1,5 +1,6 @@
 {
     "TOGEKISS": {
+        "name": "Togekiss",
         "blurb": "It will never appear where there is strife. Its sightings have become rare recently.",
         "baseHP": 85,
         "baseAttack": 50,

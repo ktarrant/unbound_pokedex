@@ -1,5 +1,6 @@
 {
     "DARMANITAN": {
+        "name": "Darmanitan",
         "blurb": "When weakened in battle, it transforms into a stone statue then sharpens its mind and fights mentally.",
         "baseHP": 105,
         "baseAttack": 140,
@@ -239,6 +240,7 @@
         ]
     },
     "DARMANITAN_G": {
+        "name": "Darmanitan",
         "blurb": "Though it has a gentle disposition, it's also very strong. It stashes food in the snowball on its head.",
         "baseHP": 105,
         "baseAttack": 140,
@@ -358,6 +360,7 @@
         ]
     },
     "DARMANITAN_G_ZEN": {
+        "name": "Darmanitan",
         "blurb": "Anger has reignited its atrophied flame sac. This Pok\\emon spews fire all over as it rampages indiscriminately.",
         "baseHP": 105,
         "baseAttack": 160,

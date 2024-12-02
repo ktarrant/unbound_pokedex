@@ -1,5 +1,6 @@
 {
     "CHINGLING": {
+        "name": "Chingling",
         "blurb": "It emits cries by agitating an orb at the back of its throat. It moves with flouncing hops.",
         "baseHP": 45,
         "baseAttack": 30,

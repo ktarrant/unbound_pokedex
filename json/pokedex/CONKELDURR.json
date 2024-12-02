@@ -1,5 +1,6 @@
 {
     "CONKELDURR": {
+        "name": "Conkeldurr",
         "blurb": "It is thought that Conkeldurr taught humans how to make concrete more than 2,000 years ago.",
         "baseHP": 105,
         "baseAttack": 140,

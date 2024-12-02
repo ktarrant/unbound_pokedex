@@ -1,5 +1,6 @@
 {
     "SERVINE": {
+        "name": "Servine",
         "blurb": "When it gets dirty, its leaves can't be used in photosynthesis, so it always keeps itself clean.",
         "baseHP": 60,
         "baseAttack": 60,

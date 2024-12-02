@@ -1,5 +1,6 @@
 {
     "PINSIR": {
+        "name": "Pinsir",
         "baseHP": 65,
         "baseAttack": 125,
         "baseDefense": 100,
@@ -113,6 +114,7 @@
         ]
     },
     "PINSIR_MEGA": {
+        "name": "Pinsir",
         "baseHP": 65,
         "baseAttack": 155,
         "baseDefense": 120,

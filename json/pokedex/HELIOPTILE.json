@@ -1,5 +1,6 @@
 {
     "HELIOPTILE": {
+        "name": "Helioptile",
         "blurb": "The frills on either side of its head have cells that generate electricity when exposed to sunlight.",
         "baseHP": 44,
         "baseAttack": 38,

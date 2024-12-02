@@ -1,5 +1,6 @@
 {
     "SCIZOR": {
+        "name": "Scizor",
         "baseHP": 70,
         "baseAttack": 130,
         "baseDefense": 100,
@@ -110,6 +111,7 @@
         ]
     },
     "SCIZOR_MEGA": {
+        "name": "Scizor",
         "baseHP": 70,
         "baseAttack": 150,
         "baseDefense": 140,

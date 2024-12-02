@@ -1,5 +1,6 @@
 {
     "EMPOLEON": {
+        "name": "Empoleon",
         "blurb": "It avoids unnecessary disputes, but it will decimate anything that threatens its pride.",
         "baseHP": 84,
         "baseAttack": 86,

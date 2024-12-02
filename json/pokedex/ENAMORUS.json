@@ -1,5 +1,6 @@
 {
     "ENAMORUS": {
+        "name": "Enamorus",
         "blurb": "According to legend, this Pok\\emon's love gives rise to the budding of fresh life across the land.",
         "baseHP": 74,
         "baseAttack": 115,
@@ -89,6 +90,7 @@
         ]
     },
     "ENAMORUS_THERIAN": {
+        "name": "Enamorus",
         "baseHP": 74,
         "baseAttack": 115,
         "baseDefense": 110,

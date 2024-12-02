@@ -1,5 +1,6 @@
 {
     "ORICORIO": {
+        "name": "Oricorio",
         "blurb": "This Oricorio has sipped red nectar. Its passionate dance moves cause its enemies to combust in both body and mind.",
         "baseHP": 75,
         "baseAttack": 70,
@@ -86,6 +87,7 @@
         ]
     },
     "ORICORIO_Y": {
+        "name": "Oricorio",
         "blurb": "This Oricorio has sipped bright yellow nectar. Its bright, cheerful dance melts the hearts of its enemies.",
         "baseHP": 75,
         "baseAttack": 70,
@@ -172,6 +174,7 @@
         ]
     },
     "ORICORIO_P": {
+        "name": "Oricorio",
         "blurb": "This Oricorio has sipped pink nectar. Its enemies' hearts melt at the sight of its gently swaying hips.",
         "baseHP": 75,
         "baseAttack": 70,
@@ -258,6 +261,7 @@
         ]
     },
     "ORICORIO_S": {
+        "name": "Oricorio",
         "blurb": "This Oricorio has sipped purple nectar. Some dancers use its graceful, elegant dancing as inspiration.",
         "baseHP": 75,
         "baseAttack": 70,

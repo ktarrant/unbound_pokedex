@@ -1,5 +1,6 @@
 {
     "OCTILLERY": {
+        "name": "Octillery",
         "baseHP": 75,
         "baseAttack": 105,
         "baseDefense": 75,

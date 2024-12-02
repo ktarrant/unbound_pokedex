@@ -1,5 +1,6 @@
 {
     "NINCADA": {
+        "name": "Nincada",
         "baseHP": 31,
         "baseAttack": 45,
         "baseDefense": 90,

@@ -4,16 +4,22 @@ from convert.error import report_error
 def merge_species_data(pokedex, data, key=None, extra_mapper=None):
     for dex in pokedex:
         for species, species_entry in pokedex[dex].items():
-            if species in data:
+            if extra_mapper:
+                mapped_dex = extra_mapper(dex)
+                mapped_species = extra_mapper(species)
+            else:
+                mapped_dex = dex
+                mapped_species = species
+            if mapped_species in data:
                 if key:
-                    species_entry[key] = data.pop(species)
+                    species_entry[key] = data.pop(mapped_species)
                 else:
-                    species_entry.update(data.pop(species))
-            elif dex in data:
+                    species_entry.update(data.pop(mapped_species))
+            elif mapped_dex in data:
                 if key:
-                    species_entry[key] = data.pop(dex)
+                    species_entry[key] = data.pop(mapped_dex)
                 else:
-                    species_entry.update(data.pop(dex))
+                    species_entry.update(data.pop(mapped_dex))
 
     if data:
         report_error("merge_species_data", f"Unmatched data for {key} left over: {data}")

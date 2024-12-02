@@ -1,5 +1,6 @@
 {
     "LEDYBA": {
+        "name": "Ledyba",
         "baseHP": 40,
         "baseAttack": 20,
         "baseDefense": 30,

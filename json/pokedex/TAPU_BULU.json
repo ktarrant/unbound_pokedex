@@ -1,5 +1,6 @@
 {
     "TAPU_BULU": {
+        "name": "Tapu Bulu",
         "blurb": "The guardian deity of Ula'ula is a lazy Pok\\emon. It commands plants to immobilize its foes.",
         "baseHP": 70,
         "baseAttack": 130,

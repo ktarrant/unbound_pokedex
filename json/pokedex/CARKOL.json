@@ -1,5 +1,6 @@
 {
     "CARKOL": {
+        "name": "Carkol",
         "blurb": "By rapidly rolling its legs, it can easily travel at over 18 mph. It forms coal inside its body.",
         "baseHP": 80,
         "baseAttack": 60,

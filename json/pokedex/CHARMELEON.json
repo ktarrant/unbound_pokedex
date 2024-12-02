@@ -1,5 +1,6 @@
 {
     "CHARMELEON": {
+        "name": "Charmeleon",
         "baseHP": 58,
         "baseAttack": 64,
         "baseDefense": 58,

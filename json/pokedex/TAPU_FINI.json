@@ -1,5 +1,6 @@
 {
     "TAPU_FINI": {
+        "name": "Tapu Fini",
         "blurb": "The guardian deity of Poni can control water. It can create pure water that will wash away any impurity.",
         "baseHP": 70,
         "baseAttack": 75,

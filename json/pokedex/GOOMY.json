@@ -1,5 +1,6 @@
 {
     "GOOMY": {
+        "name": "Goomy",
         "blurb": "It's covered in a slimy membrane that makes any punches or kicks slide off it harmlessly.",
         "baseHP": 45,
         "baseAttack": 50,

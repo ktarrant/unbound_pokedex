@@ -1,5 +1,6 @@
 {
     "ARCTOZOLT": {
+        "name": "Arctozolt",
         "blurb": "The shaking of its freezing upper half is what generates its electricity. It has a hard time walking around.",
         "baseHP": 90,
         "baseAttack": 100,

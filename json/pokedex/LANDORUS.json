@@ -1,5 +1,6 @@
 {
     "LANDORUS": {
+        "name": "Landorus",
         "blurb": "Lands visited by Landorus grant bountiful crops. It has been hailed as \"The Guardian of the Fields.\\\"",
         "baseHP": 89,
         "baseAttack": 125,

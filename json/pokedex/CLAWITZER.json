@@ -1,5 +1,6 @@
 {
     "CLAWITZER": {
+        "name": "Clawitzer",
         "blurb": "Their enormous claws launch cannonballs of water powerful enough to pierce tanker hulls.",
         "baseHP": 71,
         "baseAttack": 73,

@@ -1,5 +1,6 @@
 {
     "GOODRA": {
+        "name": "Goodra",
         "blurb": "An amazingly friendly Pok\\emon, but if left to itself, loneliness overcomes it, and it oozes gooey tears.",
         "baseHP": 90,
         "baseAttack": 100,

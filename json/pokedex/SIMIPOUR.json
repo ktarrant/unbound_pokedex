@@ -1,5 +1,6 @@
 {
     "SIMIPOUR": {
+        "name": "Simipour",
         "blurb": "The high-pressure water expelled from its tail is so powerful, it can destroy a concrete wall.",
         "baseHP": 75,
         "baseAttack": 98,

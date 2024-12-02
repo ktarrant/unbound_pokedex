@@ -1,5 +1,6 @@
 {
     "LIEPARD": {
+        "name": "Liepard",
         "blurb": "Their beautiful form comes from the muscles they have developed. They run silently in the night.",
         "baseHP": 64,
         "baseAttack": 88,

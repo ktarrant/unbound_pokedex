@@ -1,5 +1,6 @@
 {
     "HONCHKROW": {
+        "name": "Honchkrow",
         "blurb": "Becoming active at night, it is known to swarm with numerous Murkrow in tow.",
         "baseHP": 100,
         "baseAttack": 125,

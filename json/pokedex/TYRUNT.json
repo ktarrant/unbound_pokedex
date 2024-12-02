@@ -1,5 +1,6 @@
 {
     "TYRUNT": {
+        "name": "Tyrunt",
         "blurb": "Its immense jaws have enough destructive force to chew up an automobile. It lived 100 million years ago.",
         "baseHP": 58,
         "baseAttack": 89,

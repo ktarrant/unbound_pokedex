@@ -1,5 +1,6 @@
 {
     "ETERNATUS": {
+        "name": "Eternatus",
         "blurb": "It was inside a meteorite that fell 20,000 years ago. The energy that its core absorbs allows it to live.",
         "baseHP": 140,
         "baseAttack": 85,
@@ -91,6 +92,7 @@
         ]
     },
     "ETERNATUS_ETERNAMAX": {
+        "name": "Eternatus",
         "blurb": "Infinite amounts of energy pour from this Pok\\emon's enlarged core, warping the surrounding space-time.",
         "baseHP": 255,
         "baseAttack": 115,

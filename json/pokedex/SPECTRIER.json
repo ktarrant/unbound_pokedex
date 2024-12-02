@@ -1,5 +1,6 @@
 {
     "SPECTRIER": {
+        "name": "Spectrier",
         "blurb": "As it dashes through the night, it absorbs the life energy of sleeping Pok\\emon. It craves silence and solitude.",
         "baseHP": 100,
         "baseAttack": 65,

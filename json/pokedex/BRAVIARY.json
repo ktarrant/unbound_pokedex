@@ -1,5 +1,6 @@
 {
     "BRAVIARY": {
+        "name": "Braviary",
         "blurb": "The more scars they have, the more respect these brave soldiers of the sky get from their peers.",
         "baseHP": 100,
         "baseAttack": 123,

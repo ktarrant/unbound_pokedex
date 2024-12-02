@@ -1,5 +1,6 @@
 {
     "MILOTIC": {
+        "name": "Milotic",
         "baseHP": 95,
         "baseAttack": 60,
         "baseDefense": 79,

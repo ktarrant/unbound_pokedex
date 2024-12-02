@@ -1,5 +1,6 @@
 {
     "TRANQUILL": {
+        "name": "Tranquill",
         "blurb": "It can return to its Trainer's location regardless of the distance separating them.",
         "baseHP": 62,
         "baseAttack": 77,

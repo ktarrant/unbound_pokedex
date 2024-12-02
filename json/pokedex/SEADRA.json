@@ -1,5 +1,6 @@
 {
     "SEADRA": {
+        "name": "Seadra",
         "baseHP": 55,
         "baseAttack": 65,
         "baseDefense": 95,

@@ -1,5 +1,6 @@
 {
     "GARDEVOIR": {
+        "name": "Gardevoir",
         "baseHP": 68,
         "baseAttack": 65,
         "baseDefense": 65,
@@ -124,6 +125,7 @@
         ]
     },
     "GARDEVOIR_MEGA": {
+        "name": "Gardevoir",
         "baseHP": 68,
         "baseAttack": 85,
         "baseDefense": 65,

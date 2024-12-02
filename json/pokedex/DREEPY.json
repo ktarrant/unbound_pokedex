@@ -1,5 +1,6 @@
 {
     "DREEPY": {
+        "name": "Dreepy",
         "blurb": "After being reborn as a ghost, Dreepy wanders the areas it used to inhabit back when it was alive in prehistoric seas.",
         "baseHP": 28,
         "baseAttack": 60,

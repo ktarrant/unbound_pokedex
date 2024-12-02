@@ -1,5 +1,6 @@
 {
     "FROGADIER": {
+        "name": "Frogadier",
         "blurb": "Its swiftness is unparalleled. It can scale a tower of more than 2,000 feet in a minute's time.",
         "baseHP": 54,
         "baseAttack": 63,

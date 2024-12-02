@@ -1,5 +1,6 @@
 {
     "BUTTERFREE": {
+        "name": "Butterfree",
         "baseHP": 60,
         "baseAttack": 45,
         "baseDefense": 50,
@@ -101,6 +102,7 @@
         ]
     },
     "BUTTERFREE_GIGA": {
+        "name": "Butterfree",
         "baseHP": 60,
         "baseAttack": 45,
         "baseDefense": 50,

@@ -1,5 +1,6 @@
 {
     "WURMPLE": {
+        "name": "Wurmple",
         "baseHP": 45,
         "baseAttack": 45,
         "baseDefense": 35,

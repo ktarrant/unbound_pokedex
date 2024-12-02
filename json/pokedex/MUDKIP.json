@@ -1,5 +1,6 @@
 {
     "MUDKIP": {
+        "name": "Mudkip",
         "baseHP": 50,
         "baseAttack": 70,
         "baseDefense": 50,

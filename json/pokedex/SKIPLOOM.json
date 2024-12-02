@@ -1,5 +1,6 @@
 {
     "SKIPLOOM": {
+        "name": "Skiploom",
         "baseHP": 55,
         "baseAttack": 45,
         "baseDefense": 50,

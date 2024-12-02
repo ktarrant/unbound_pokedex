@@ -1,5 +1,6 @@
 {
     "SCOLIPEDE": {
+        "name": "Scolipede",
         "blurb": "Highly aggressive, it uses the claws near its neck to dig into its opponents and poison them.",
         "baseHP": 60,
         "baseAttack": 100,

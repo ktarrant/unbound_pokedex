@@ -1,5 +1,6 @@
 {
     "DRAMPA": {
+        "name": "Drampa",
         "blurb": "It appears in towns and plays with the children. Drampa will protect kids when they're in danger.",
         "baseHP": 78,
         "baseAttack": 60,

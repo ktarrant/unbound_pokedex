@@ -1,5 +1,6 @@
 {
     "MEGANIUM": {
+        "name": "Meganium",
         "baseHP": 80,
         "baseAttack": 82,
         "baseDefense": 100,

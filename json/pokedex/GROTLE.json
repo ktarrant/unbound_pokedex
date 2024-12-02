@@ -1,5 +1,6 @@
 {
     "GROTLE": {
+        "name": "Grotle",
         "blurb": "A Grotle that lives in the forest is said to have its own secret springwater.",
         "baseHP": 75,
         "baseAttack": 89,

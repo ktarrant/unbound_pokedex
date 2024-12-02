@@ -1,5 +1,6 @@
 {
     "EELEKTRIK": {
+        "name": "Eelektrik",
         "blurb": "This Pok\\emon has a big appetite. When it spots its prey, it attacks it and paralyzes it with electricity.",
         "baseHP": 65,
         "baseAttack": 85,

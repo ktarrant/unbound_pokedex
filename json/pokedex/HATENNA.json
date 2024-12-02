@@ -1,5 +1,6 @@
 {
     "HATENNA": {
+        "name": "Hatenna",
         "blurb": "Via the protrusion on its head, it senses other creatures' emotions. It prefers areas without people.",
         "baseHP": 42,
         "baseAttack": 30,

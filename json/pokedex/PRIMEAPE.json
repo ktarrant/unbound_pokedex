@@ -1,5 +1,6 @@
 {
     "PRIMEAPE": {
+        "name": "Primeape",
         "baseHP": 65,
         "baseAttack": 105,
         "baseDefense": 60,

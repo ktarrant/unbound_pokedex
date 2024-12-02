@@ -1,5 +1,6 @@
 {
     "MAGCARGO": {
+        "name": "Magcargo",
         "baseHP": 60,
         "baseAttack": 50,
         "baseDefense": 120,

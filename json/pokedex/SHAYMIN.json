@@ -1,5 +1,6 @@
 {
     "SHAYMIN": {
+        "name": "Shaymin",
         "blurb": "The flowers all over its body burst into bloom if it is lovingly hugged and senses gratitude.",
         "baseHP": 100,
         "baseAttack": 100,
@@ -142,6 +143,7 @@
         ]
     },
     "SHAYMIN_SKY": {
+        "name": "Shaymin",
         "baseHP": 100,
         "baseAttack": 103,
         "baseDefense": 75,

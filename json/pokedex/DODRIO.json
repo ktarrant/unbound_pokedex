@@ -1,5 +1,6 @@
 {
     "DODRIO": {
+        "name": "Dodrio",
         "baseHP": 60,
         "baseAttack": 110,
         "baseDefense": 70,

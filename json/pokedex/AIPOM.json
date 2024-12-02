@@ -1,5 +1,6 @@
 {
     "AIPOM": {
+        "name": "Aipom",
         "baseHP": 55,
         "baseAttack": 70,
         "baseDefense": 55,

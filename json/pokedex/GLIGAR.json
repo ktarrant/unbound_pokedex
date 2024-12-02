@@ -1,5 +1,6 @@
 {
     "GLIGAR": {
+        "name": "Gligar",
         "baseHP": 65,
         "baseAttack": 75,
         "baseDefense": 105,

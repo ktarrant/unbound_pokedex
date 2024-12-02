@@ -1,5 +1,6 @@
 {
     "CHINCHOU": {
+        "name": "Chinchou",
         "baseHP": 75,
         "baseAttack": 38,
         "baseDefense": 38,

@@ -1,5 +1,6 @@
 {
     "MUNCHLAX": {
+        "name": "Munchlax",
         "blurb": "It hides food under its long body hair. However, it forgets it has hidden the food.",
         "baseHP": 135,
         "baseAttack": 85,

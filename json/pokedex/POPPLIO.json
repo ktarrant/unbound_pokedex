@@ -1,5 +1,6 @@
 {
     "POPPLIO": {
+        "name": "Popplio",
         "blurb": "The balloons it inflates with its nose grow larger and larger as it practices day by day.",
         "baseHP": 50,
         "baseAttack": 54,

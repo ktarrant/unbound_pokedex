@@ -1,5 +1,6 @@
 {
     "SWAMPERT": {
+        "name": "Swampert",
         "baseHP": 100,
         "baseAttack": 110,
         "baseDefense": 90,
@@ -120,6 +121,7 @@
         ]
     },
     "SWAMPERT_MEGA": {
+        "name": "Swampert",
         "baseHP": 100,
         "baseAttack": 150,
         "baseDefense": 110,

@@ -1,5 +1,6 @@
 {
     "SMOOCHUM": {
+        "name": "Smoochum",
         "baseHP": 45,
         "baseAttack": 30,
         "baseDefense": 15,

@@ -1,5 +1,6 @@
 {
     "BRAIXEN": {
+        "name": "Braixen",
         "blurb": "With friction from its tail fur, it sets the twig on its tail on fire and launches into battle.",
         "baseHP": 59,
         "baseAttack": 59,

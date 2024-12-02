@@ -1,5 +1,6 @@
 {
     "SIZZLIPEDE": {
+        "name": "Sizzlipede",
         "blurb": "It stores flammable gas in its body and uses it to generate heat. It then coils around its prey and cooks it.",
         "baseHP": 50,
         "baseAttack": 65,

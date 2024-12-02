@@ -1,5 +1,6 @@
 {
     "CHIMCHAR": {
+        "name": "Chimchar",
         "blurb": "Its fiery rear end is fueled by gas made in its belly. Even rain can't extinguish the fire.",
         "baseHP": 44,
         "baseAttack": 58,

@@ -1,5 +1,6 @@
 {
     "EELEKTROSS": {
+        "name": "Eelektross",
         "blurb": "With its sucker mouth, it sucks in prey. Then it uses its fangs to shock the prey with electricity.",
         "baseHP": 85,
         "baseAttack": 115,

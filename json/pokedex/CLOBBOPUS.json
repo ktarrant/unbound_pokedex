@@ -1,5 +1,6 @@
 {
     "CLOBBOPUS": {
+        "name": "Clobbopus",
         "blurb": "It's very curious, but its means of investigating things is to try to punch them with its tentacles.",
         "baseHP": 50,
         "baseAttack": 68,

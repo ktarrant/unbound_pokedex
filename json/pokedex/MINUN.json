@@ -1,5 +1,6 @@
 {
     "MINUN": {
+        "name": "Minun",
         "baseHP": 60,
         "baseAttack": 40,
         "baseDefense": 50,

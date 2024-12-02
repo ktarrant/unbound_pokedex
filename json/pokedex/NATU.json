@@ -1,5 +1,6 @@
 {
     "NATU": {
+        "name": "Natu",
         "baseHP": 40,
         "baseAttack": 50,
         "baseDefense": 45,

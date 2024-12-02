@@ -1,5 +1,6 @@
 {
     "RILLABOOM": {
+        "name": "Rillaboom",
         "blurb": "By drumming, it taps into the power of its special tree stump. The roots of the stump follow its direction in battle.",
         "baseHP": 100,
         "baseAttack": 125,
@@ -121,6 +122,7 @@
         ]
     },
     "RILLABOOM_GIGA": {
+        "name": "Rillaboom",
         "baseHP": 100,
         "baseAttack": 125,
         "baseDefense": 90,

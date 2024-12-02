@@ -1,5 +1,6 @@
 {
     "SALAZZLE": {
+        "name": "Salazzle",
         "blurb": "It punishes Salandit that couldn't bring it food with a fierce slap of its flame-spewing palm.",
         "baseHP": 68,
         "baseAttack": 64,

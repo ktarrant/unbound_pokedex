@@ -1,5 +1,6 @@
 {
     "MASQUERAIN": {
+        "name": "Masquerain",
         "baseHP": 70,
         "baseAttack": 60,
         "baseDefense": 62,

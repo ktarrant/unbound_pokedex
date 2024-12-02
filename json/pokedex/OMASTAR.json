@@ -1,5 +1,6 @@
 {
     "OMASTAR": {
+        "name": "Omastar",
         "baseHP": 70,
         "baseAttack": 60,
         "baseDefense": 125,

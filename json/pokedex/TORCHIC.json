@@ -1,5 +1,6 @@
 {
     "TORCHIC": {
+        "name": "Torchic",
         "baseHP": 45,
         "baseAttack": 60,
         "baseDefense": 40,

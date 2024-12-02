@@ -1,5 +1,6 @@
 {
     "EMOLGA": {
+        "name": "Emolga",
         "blurb": "They live on treetops and glide using the inside of a cape-like membrane while discharging electricity.",
         "baseHP": 55,
         "baseAttack": 75,

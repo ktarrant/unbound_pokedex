@@ -1,5 +1,6 @@
 {
     "SPEWPA": {
+        "name": "Spewpa",
         "blurb": "The beaks of birds can't begin to scratch its stalwart body. To defend itself, it spews powder.",
         "baseHP": 45,
         "baseAttack": 22,

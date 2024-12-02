@@ -1,5 +1,6 @@
 {
     "ANORITH": {
+        "name": "Anorith",
         "baseHP": 45,
         "baseAttack": 95,
         "baseDefense": 50,

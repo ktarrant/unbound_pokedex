@@ -1,5 +1,6 @@
 {
     "SHIFTRY": {
+        "name": "Shiftry",
         "baseHP": 90,
         "baseAttack": 100,
         "baseDefense": 60,

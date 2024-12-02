@@ -1,5 +1,6 @@
 {
     "MIME_JR": {
+        "name": "Mime Jr.",
         "blurb": "It habitually mimics foes. Once mimicked, the foe cannot take its eyes off this Pok\\emon.",
         "baseHP": 20,
         "baseAttack": 25,
@@ -127,6 +128,7 @@
         ]
     },
     "MIME_JR_G": {
+        "name": "Mime Jr.",
         "baseHP": 20,
         "baseAttack": 25,
         "baseDefense": 45,

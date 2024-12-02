@@ -1,5 +1,6 @@
 {
     "GOSSIFLEUR": {
+        "name": "Gossifleur",
         "blurb": "It anchors itself in the ground and basks in the sun. After absorbing enough sunlight, it blooms vividly.",
         "baseHP": 40,
         "baseAttack": 40,

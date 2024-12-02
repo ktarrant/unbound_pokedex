@@ -1,5 +1,6 @@
 {
     "DITTO": {
+        "name": "Ditto",
         "baseHP": 48,
         "baseAttack": 48,
         "baseDefense": 48,

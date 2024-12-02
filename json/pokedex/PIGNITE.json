@@ -1,5 +1,6 @@
 {
     "PIGNITE": {
+        "name": "Pignite",
         "blurb": "When its internal fire flares up, its movements grow sharper and faster. When in trouble, it emits smoke.",
         "baseHP": 90,
         "baseAttack": 93,

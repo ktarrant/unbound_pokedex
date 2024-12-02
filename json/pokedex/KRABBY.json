@@ -1,5 +1,6 @@
 {
     "KRABBY": {
+        "name": "Krabby",
         "baseHP": 30,
         "baseAttack": 105,
         "baseDefense": 90,

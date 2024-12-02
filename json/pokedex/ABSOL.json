@@ -1,5 +1,6 @@
 {
     "ABSOL": {
+        "name": "Absol",
         "baseHP": 65,
         "baseAttack": 130,
         "baseDefense": 60,
@@ -144,6 +145,7 @@
         ]
     },
     "ABSOL_MEGA": {
+        "name": "Absol",
         "baseHP": 65,
         "baseAttack": 150,
         "baseDefense": 60,

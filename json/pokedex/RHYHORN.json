@@ -1,5 +1,6 @@
 {
     "RHYHORN": {
+        "name": "Rhyhorn",
         "baseHP": 80,
         "baseAttack": 85,
         "baseDefense": 95,

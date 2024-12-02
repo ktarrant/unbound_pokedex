@@ -1,5 +1,6 @@
 {
     "HAPPINY": {
+        "name": "Happiny",
         "blurb": "It loves round white things. It carries an egg-shaped rock in imitation of Chansey.",
         "baseHP": 100,
         "baseAttack": 5,

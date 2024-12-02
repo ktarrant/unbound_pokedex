@@ -1,5 +1,6 @@
 {
     "ARBOK": {
+        "name": "Arbok",
         "baseHP": 60,
         "baseAttack": 95,
         "baseDefense": 69,

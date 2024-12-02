@@ -1,5 +1,6 @@
 {
     "VENUSAUR": {
+        "name": "Venusaur",
         "baseHP": 80,
         "baseAttack": 82,
         "baseDefense": 83,
@@ -102,6 +103,7 @@
         ]
     },
     "VENUSAUR_MEGA": {
+        "name": "Venusaur",
         "baseHP": 80,
         "baseAttack": 100,
         "baseDefense": 123,
@@ -142,6 +144,7 @@
         "evolve_from": []
     },
     "VENUSAUR_GIGA": {
+        "name": "Venusaur",
         "baseHP": 80,
         "baseAttack": 82,
         "baseDefense": 83,

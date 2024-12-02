@@ -1,5 +1,6 @@
 {
     "LICKILICKY": {
+        "name": "Lickilicky",
         "blurb": "The long tongue is always soggy with slobber. The saliva contains a solvent that causes numbness.",
         "baseHP": 110,
         "baseAttack": 85,

@@ -1,5 +1,6 @@
 {
     "DIALGA": {
+        "name": "Dialga",
         "blurb": "A legendary Pok\\emon of Sinnoh. It is said that time flows when Dialga's heart beats.",
         "baseHP": 100,
         "baseAttack": 120,

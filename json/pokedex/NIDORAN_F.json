@@ -1,5 +1,6 @@
 {
     "NIDORAN_F": {
+        "name": "Nidoran[B6]",
         "baseHP": 55,
         "baseAttack": 47,
         "baseDefense": 52,

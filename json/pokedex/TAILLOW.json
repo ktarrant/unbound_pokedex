@@ -1,5 +1,6 @@
 {
     "TAILLOW": {
+        "name": "Taillow",
         "baseHP": 40,
         "baseAttack": 55,
         "baseDefense": 30,

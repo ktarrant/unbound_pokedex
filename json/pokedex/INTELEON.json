@@ -1,5 +1,6 @@
 {
     "INTELEON": {
+        "name": "Inteleon",
         "blurb": "It picks out foes' weak points so it can precisely blast them with water that shoots from its fingertips.",
         "baseHP": 70,
         "baseAttack": 85,
@@ -110,6 +111,7 @@
         ]
     },
     "INTELEON_GIGA": {
+        "name": "Inteleon",
         "baseHP": 70,
         "baseAttack": 85,
         "baseDefense": 65,

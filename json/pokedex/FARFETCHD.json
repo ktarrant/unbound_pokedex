@@ -1,5 +1,6 @@
 {
     "FARFETCHD": {
+        "name": "Farfetch'd",
         "baseHP": 52,
         "baseAttack": 90,
         "baseDefense": 55,
@@ -192,6 +193,7 @@
         ]
     },
     "FARFETCHD_G": {
+        "name": "Farfetch'd",
         "blurb": "It uses the stalks of leeks that are larger and thicker than usual, which made them to adapt to a unique form.",
         "baseHP": 52,
         "baseAttack": 95,

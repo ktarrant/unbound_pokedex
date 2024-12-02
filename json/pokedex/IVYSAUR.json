@@ -1,5 +1,6 @@
 {
     "IVYSAUR": {
+        "name": "Ivysaur",
         "baseHP": 60,
         "baseAttack": 62,
         "baseDefense": 63,

@@ -1,5 +1,6 @@
 {
     "TYROGUE": {
+        "name": "Tyrogue",
         "baseHP": 35,
         "baseAttack": 35,
         "baseDefense": 35,

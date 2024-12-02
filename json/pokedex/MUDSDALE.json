@@ -1,5 +1,6 @@
 {
     "MUDSDALE": {
+        "name": "Mudsdale",
         "blurb": "It can trudge mountain roads without rest for three days, all the while dragging a 10-ton load.",
         "baseHP": 100,
         "baseAttack": 125,

@@ -1,5 +1,6 @@
 {
     "COALOSSAL": {
+        "name": "Coalossal",
         "blurb": "While engaged in battle, its mountain of coal will burn bright red, scorching the surrounding area with sparks.",
         "baseHP": 110,
         "baseAttack": 80,
@@ -113,6 +114,7 @@
         ]
     },
     "COALOSSAL_GIGA": {
+        "name": "Coalossal",
         "baseHP": 110,
         "baseAttack": 80,
         "baseDefense": 120,

@@ -1,5 +1,6 @@
 {
     "DURANT": {
+        "name": "Durant",
         "blurb": "Durant dig nests in mountains. They build their complicated, interconnected tunnels in mazes.",
         "baseHP": 58,
         "baseAttack": 109,

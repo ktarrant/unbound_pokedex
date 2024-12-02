@@ -1,5 +1,6 @@
 {
     "STARAPTOR": {
+        "name": "Staraptor",
         "blurb": "It has a savage nature. It will courageously challenge foes that are much larger.",
         "baseHP": 85,
         "baseAttack": 120,

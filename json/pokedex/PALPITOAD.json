@@ -1,5 +1,6 @@
 {
     "PALPITOAD": {
+        "name": "Palpitoad",
         "blurb": "It lives in the water and on land. It uses its long, sticky tongue to capture prey.",
         "baseHP": 75,
         "baseAttack": 65,

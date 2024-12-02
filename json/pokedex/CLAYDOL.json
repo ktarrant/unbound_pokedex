@@ -1,5 +1,6 @@
 {
     "CLAYDOL": {
+        "name": "Claydol",
         "baseHP": 60,
         "baseAttack": 70,
         "baseDefense": 105,

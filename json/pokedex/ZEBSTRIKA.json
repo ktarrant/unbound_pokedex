@@ -1,5 +1,6 @@
 {
     "ZEBSTRIKA": {
+        "name": "Zebstrika",
         "blurb": "When this ill-tempered Pok\\emon runs wild, it shoots lightning from its mane in all directions.",
         "baseHP": 75,
         "baseAttack": 100,

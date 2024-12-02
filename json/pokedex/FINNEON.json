@@ -1,5 +1,6 @@
 {
     "FINNEON": {
+        "name": "Finneon",
         "blurb": "The line running down its side can store sunlight. It shines vividly at night.",
         "baseHP": 49,
         "baseAttack": 49,

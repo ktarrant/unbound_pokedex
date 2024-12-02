@@ -1,5 +1,6 @@
 {
     "ELECTIVIRE": {
+        "name": "Electivire",
         "blurb": "As its electric charge amplifies, blue sparks begin to crackle between its horns.",
         "baseHP": 75,
         "baseAttack": 123,

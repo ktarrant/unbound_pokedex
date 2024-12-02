@@ -1,5 +1,6 @@
 {
     "MESPRIT": {
+        "name": "Mesprit",
         "blurb": "Known as \"The Being of Emotion.\\\" It taught humans the nobility of sorrow, pain, and joy.",
         "baseHP": 80,
         "baseAttack": 105,

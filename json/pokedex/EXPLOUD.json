@@ -1,5 +1,6 @@
 {
     "EXPLOUD": {
+        "name": "Exploud",
         "baseHP": 104,
         "baseAttack": 91,
         "baseDefense": 63,

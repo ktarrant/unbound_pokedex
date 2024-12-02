@@ -1,5 +1,6 @@
 {
     "RHYDON": {
+        "name": "Rhydon",
         "baseHP": 105,
         "baseAttack": 130,
         "baseDefense": 120,

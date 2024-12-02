@@ -1,5 +1,6 @@
 {
     "GARBODOR": {
+        "name": "Garbodor",
         "blurb": "Consuming garbage makes new kinds of poison gases and liquids inside their bodies.",
         "baseHP": 80,
         "baseAttack": 95,
@@ -102,6 +103,7 @@
         ]
     },
     "GARBODOR_GIGA": {
+        "name": "Garbodor",
         "baseHP": 80,
         "baseAttack": 95,
         "baseDefense": 82,

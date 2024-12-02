@@ -1,5 +1,6 @@
 {
     "WHIMSICOTT": {
+        "name": "Whimsicott",
         "blurb": "Like the wind, it can slip through any gap, no matter how small. It leaves balls of white fluff behind.",
         "baseHP": 60,
         "baseAttack": 67,

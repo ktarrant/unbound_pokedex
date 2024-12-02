@@ -1,5 +1,6 @@
 {
     "SERPERIOR": {
+        "name": "Serperior",
         "blurb": "It can stop its opponents' movements with just a glare. It takes in solar energy and boosts it.",
         "baseHP": 75,
         "baseAttack": 75,

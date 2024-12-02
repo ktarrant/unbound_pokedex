@@ -1,5 +1,6 @@
 {
     "LUXRAY": {
+        "name": "Luxray",
         "blurb": "It can see clearly through walls to track down its prey and seek its lost young.",
         "baseHP": 80,
         "baseAttack": 120,

@@ -1,5 +1,6 @@
 {
     "REGICE": {
+        "name": "Regice",
         "baseHP": 80,
         "baseAttack": 50,
         "baseDefense": 100,

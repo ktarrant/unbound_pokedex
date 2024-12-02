@@ -1,5 +1,6 @@
 {
     "METANG": {
+        "name": "Metang",
         "baseHP": 60,
         "baseAttack": 75,
         "baseDefense": 100,

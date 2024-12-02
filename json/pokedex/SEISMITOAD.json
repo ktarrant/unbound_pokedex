@@ -1,5 +1,6 @@
 {
     "SEISMITOAD": {
+        "name": "Seismitoad",
         "blurb": "By putting power into its bumps, it creates vibrations and increases the power of its punches.",
         "baseHP": 105,
         "baseAttack": 95,

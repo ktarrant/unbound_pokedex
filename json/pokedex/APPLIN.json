@@ -1,5 +1,6 @@
 {
     "APPLIN": {
+        "name": "Applin",
         "blurb": "As soon as it's born, it burrows into an apple. the flavor of the apple is what determines its evolution.",
         "baseHP": 40,
         "baseAttack": 40,

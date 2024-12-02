@@ -1,5 +1,6 @@
 {
     "MACHOP": {
+        "name": "Machop",
         "baseHP": 70,
         "baseAttack": 80,
         "baseDefense": 50,

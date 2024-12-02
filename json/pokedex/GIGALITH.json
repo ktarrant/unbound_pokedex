@@ -1,5 +1,6 @@
 {
     "GIGALITH": {
+        "name": "Gigalith",
         "blurb": "The solar rays it absorbs are processed in its energy core and fired as a ball of light.",
         "baseHP": 85,
         "baseAttack": 135,

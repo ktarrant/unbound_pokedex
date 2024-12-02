@@ -1,5 +1,6 @@
 {
     "MORELULL": {
+        "name": "Morelull",
         "blurb": "It scatters spores that flicker and glow. Anyone seeing these lights falls into a deep slumber.",
         "baseHP": 40,
         "baseAttack": 35,

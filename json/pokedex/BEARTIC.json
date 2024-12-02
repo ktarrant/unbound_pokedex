@@ -1,5 +1,6 @@
 {
     "BEARTIC": {
+        "name": "Beartic",
         "blurb": "It freezes its breath to create fangs and claws of ice. Cold northern areas are its habitat.",
         "baseHP": 95,
         "baseAttack": 130,

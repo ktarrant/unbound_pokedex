@@ -1,5 +1,6 @@
 {
     "KABUTOPS": {
+        "name": "Kabutops",
         "baseHP": 60,
         "baseAttack": 115,
         "baseDefense": 105,

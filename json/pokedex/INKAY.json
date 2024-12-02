@@ -1,5 +1,6 @@
 {
     "INKAY": {
+        "name": "Inkay",
         "blurb": "It draws prey near with its blinking lights and then wraps them up in its long tentacles.",
         "baseHP": 53,
         "baseAttack": 54,

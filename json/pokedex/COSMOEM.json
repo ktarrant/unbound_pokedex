@@ -1,5 +1,6 @@
 {
     "COSMOEM": {
+        "name": "Cosmoem",
         "blurb": "As it absorbs light, Cosmoem continues to grow. Its golden shell is surprisingly solid.",
         "baseHP": 43,
         "baseAttack": 29,

@@ -1,5 +1,6 @@
 {
     "CASCOON": {
+        "name": "Cascoon",
         "baseHP": 50,
         "baseAttack": 35,
         "baseDefense": 55,

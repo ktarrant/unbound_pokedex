@@ -1,5 +1,6 @@
 {
     "VOLBEAT": {
+        "name": "Volbeat",
         "baseHP": 65,
         "baseAttack": 73,
         "baseDefense": 75,

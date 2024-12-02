@@ -1,5 +1,6 @@
 {
     "KAKUNA": {
+        "name": "Kakuna",
         "baseHP": 45,
         "baseAttack": 25,
         "baseDefense": 50,

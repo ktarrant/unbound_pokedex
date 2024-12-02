@@ -1,5 +1,6 @@
 {
     "CRAMORANT": {
+        "name": "Cramorant",
         "blurb": "This hungry Pok\\emon swallows Arrokuda whole. Occasionally, it makes a mistake and tries to swallow other Pok\\emon.",
         "baseHP": 70,
         "baseAttack": 85,
@@ -95,6 +96,7 @@
         ]
     },
     "CRAMORANT_GULPING": {
+        "name": "Cramorant",
         "blurb": "The slightest shock is sometimes enough to get this Pok\\emon to spit out the Arrokuda lodged in its throat.",
         "baseHP": 70,
         "baseAttack": 85,
@@ -128,6 +130,7 @@
         "evolve_from": []
     },
     "CRAMORANT_GORGING": {
+        "name": "Cramorant",
         "blurb": "This Cramorant has accidentally gotten a Pikachu lodged in its gullet. While it seems to be choking, it isn't bothered.",
         "baseHP": 70,
         "baseAttack": 85,

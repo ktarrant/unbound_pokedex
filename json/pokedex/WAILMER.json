@@ -1,5 +1,6 @@
 {
     "WAILMER": {
+        "name": "Wailmer",
         "baseHP": 130,
         "baseAttack": 70,
         "baseDefense": 35,

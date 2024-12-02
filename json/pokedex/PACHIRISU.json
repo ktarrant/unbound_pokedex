@@ -1,5 +1,6 @@
 {
     "PACHIRISU": {
+        "name": "Pachirisu",
         "blurb": "It's one of the kinds of Pok\\emon with electric cheek pouches. It shoots charges from its tail.",
         "baseHP": 60,
         "baseAttack": 45,

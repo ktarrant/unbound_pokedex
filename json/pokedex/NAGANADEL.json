@@ -1,5 +1,6 @@
 {
     "NAGANADEL": {
+        "name": "Naganadel",
         "blurb": "It stores hundreds of liters of poisonous liquid in its body. It is one of the organisms known as UBs.",
         "baseHP": 73,
         "baseAttack": 73,

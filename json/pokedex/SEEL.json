@@ -1,5 +1,6 @@
 {
     "SEEL": {
+        "name": "Seel",
         "baseHP": 65,
         "baseAttack": 45,
         "baseDefense": 55,

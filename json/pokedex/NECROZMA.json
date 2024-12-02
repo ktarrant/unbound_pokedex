@@ -1,5 +1,6 @@
 {
     "NECROZMA": {
+        "name": "Necrozma",
         "blurb": "Light is the source of its energy. If it isn't devouring light, impurities build up in it.",
         "baseHP": 97,
         "baseAttack": 107,

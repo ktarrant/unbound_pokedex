@@ -1,5 +1,6 @@
 {
     "ZAMAZENTA": {
+        "name": "Zamazenta",
         "blurb": "It slept for aeons while in the form of a statue. It was asleep for so long, people forgot that it ever existed.",
         "baseHP": 92,
         "baseAttack": 130,
@@ -92,6 +93,7 @@
         ]
     },
     "ZAMAZENTA_CROWNED": {
+        "name": "Zamazenta",
         "blurb": "Now that it has equipped its shield, it can shrug off impressive blows, even from Dynamaxed foes.",
         "baseHP": 92,
         "baseAttack": 130,

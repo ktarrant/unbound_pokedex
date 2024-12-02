@@ -1,5 +1,6 @@
 {
     "AZURILL": {
+        "name": "Azurill",
         "baseHP": 50,
         "baseAttack": 20,
         "baseDefense": 40,

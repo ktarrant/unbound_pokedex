@@ -1,5 +1,6 @@
 {
     "SNIVY": {
+        "name": "Snivy",
         "blurb": "It is very intelligent and calm. Being exposed to lots of sunlight makes its movements swifter.",
         "baseHP": 45,
         "baseAttack": 45,

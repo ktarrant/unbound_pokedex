@@ -1,5 +1,6 @@
 {
     "ACCELGOR": {
+        "name": "Accelgor",
         "blurb": "Having removed its heavy shell, it becomes very light and can fight with ninja-like movements.",
         "baseHP": 80,
         "baseAttack": 70,

@@ -1,5 +1,6 @@
 {
     "YUNGOOS": {
+        "name": "Yungoos",
         "blurb": "It prefers to eat fresh living things so it marches down streets in search of prey.",
         "baseHP": 48,
         "baseAttack": 70,

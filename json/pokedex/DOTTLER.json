@@ -1,5 +1,6 @@
 {
     "DOTTLER": {
+        "name": "Dottler",
         "blurb": "As it grows inside its shell, it uses its psychic abilities to monitor its surroundings and wait for evolution.",
         "baseHP": 50,
         "baseAttack": 35,

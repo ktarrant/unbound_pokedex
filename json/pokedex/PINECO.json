@@ -1,5 +1,6 @@
 {
     "PINECO": {
+        "name": "Pineco",
         "baseHP": 50,
         "baseAttack": 65,
         "baseDefense": 90,

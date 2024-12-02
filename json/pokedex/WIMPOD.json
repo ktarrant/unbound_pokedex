@@ -1,5 +1,6 @@
 {
     "WIMPOD": {
+        "name": "Wimpod",
         "blurb": "An astonishingly cowardly Pok\\emon, it whirs its legs at high speed to run away if anything comes near it.",
         "baseHP": 25,
         "baseAttack": 35,

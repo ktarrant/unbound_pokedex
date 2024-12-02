@@ -1,5 +1,6 @@
 {
     "BUNEARY": {
+        "name": "Buneary",
         "blurb": "Its ears are always rolled up. They can be forcefully extended to shatter even a large boulder.",
         "baseHP": 55,
         "baseAttack": 66,

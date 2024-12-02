@@ -1,5 +1,6 @@
 {
     "WHISMUR": {
+        "name": "Whismur",
         "baseHP": 64,
         "baseAttack": 51,
         "baseDefense": 23,

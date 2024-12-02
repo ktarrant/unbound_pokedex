@@ -1,5 +1,6 @@
 {
     "SEVIPER": {
+        "name": "Seviper",
         "baseHP": 73,
         "baseAttack": 100,
         "baseDefense": 60,

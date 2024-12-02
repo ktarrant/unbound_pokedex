@@ -1,5 +1,6 @@
 {
     "HAWLUCHA": {
+        "name": "Hawlucha",
         "blurb": "Although its body is small, its proficient fighting skills enable it to keep up with big bruisers.",
         "baseHP": 78,
         "baseAttack": 92,

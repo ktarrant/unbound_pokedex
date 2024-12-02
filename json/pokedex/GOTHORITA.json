@@ -1,5 +1,6 @@
 {
     "GOTHORITA": {
+        "name": "Gothorita",
         "blurb": "According to old tales, it creates friends for itself by controlling sleeping children on starry nights.",
         "baseHP": 60,
         "baseAttack": 45,

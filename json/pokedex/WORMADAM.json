@@ -164,6 +164,7 @@
         ]
     },
     "WORMADAM_SANDY": {
+        "name": "Wormadam",
         "baseHP": 60,
         "baseAttack": 79,
         "baseDefense": 105,
@@ -326,6 +327,7 @@
         ]
     },
     "WORMADAM_TRASH": {
+        "name": "Wormadam",
         "baseHP": 60,
         "baseAttack": 69,
         "baseDefense": 95,

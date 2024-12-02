@@ -1,5 +1,6 @@
 {
     "TOXEL": {
+        "name": "Toxel",
         "blurb": "It manipulates the chemical makeup of its poison to produce electricity. Despite a weak voltage, it can cause paralysis.",
         "baseHP": 40,
         "baseAttack": 38,

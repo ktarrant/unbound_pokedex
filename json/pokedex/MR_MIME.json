@@ -1,5 +1,6 @@
 {
     "MR_MIME": {
+        "name": "Mr. Mime",
         "baseHP": 40,
         "baseAttack": 45,
         "baseDefense": 65,
@@ -263,6 +264,7 @@
         ]
     },
     "MR_MIME_G": {
+        "name": "Mr. Mime",
         "blurb": "It can radiate chilliness from the bottoms of its feet. It'll spend its day tap dancing on a frozen floor.",
         "baseHP": 50,
         "baseAttack": 65,

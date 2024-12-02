@@ -1,5 +1,6 @@
 {
     "PALOSSAND": {
+        "name": "Palossand",
         "blurb": "Buried beneath the castle are masses of dried-up bones from those whose vitality it has drained.",
         "baseHP": 85,
         "baseAttack": 75,

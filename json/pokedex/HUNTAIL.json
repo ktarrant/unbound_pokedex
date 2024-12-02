@@ -1,5 +1,6 @@
 {
     "HUNTAIL": {
+        "name": "Huntail",
         "baseHP": 55,
         "baseAttack": 104,
         "baseDefense": 105,

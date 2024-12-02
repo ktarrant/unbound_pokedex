@@ -1,5 +1,6 @@
 {
     "FEEBAS": {
+        "name": "Feebas",
         "baseHP": 20,
         "baseAttack": 15,
         "baseDefense": 20,

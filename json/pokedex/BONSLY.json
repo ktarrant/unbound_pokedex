@@ -1,5 +1,6 @@
 {
     "BONSLY": {
+        "name": "Bonsly",
         "blurb": "It prefers arid environments. It leaks water from its eyes to adjust its body's fluid levels.",
         "baseHP": 50,
         "baseAttack": 80,

@@ -1,5 +1,6 @@
 {
     "MINIOR_SHIELD": {
+        "name": "Minior",
         "blurb": "It eats dust in the atmosphere. The composition of the dust determines the color of its core.",
         "baseHP": 60,
         "baseAttack": 60,

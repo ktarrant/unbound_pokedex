@@ -1,5 +1,6 @@
 {
     "PATRAT": {
+        "name": "Patrat",
         "blurb": "Extremely cautious, one of them is always on a lookout, but it won't notice a foe coming from behind.",
         "baseHP": 45,
         "baseAttack": 55,

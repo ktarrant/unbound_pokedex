@@ -1,5 +1,6 @@
 {
     "FOMANTIS": {
+        "name": "Fomantis",
         "blurb": "It loves the sunshine. When it basks in the sunlight regularly, it grows up with vivid coloration.",
         "baseHP": 40,
         "baseAttack": 55,

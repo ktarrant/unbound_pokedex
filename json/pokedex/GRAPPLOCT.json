@@ -1,5 +1,6 @@
 {
     "GRAPPLOCT": {
+        "name": "Grapploct",
         "blurb": "Searching for an opponent to test its skills against, it emerges onto land. Once the battle is over, it returns to the sea.",
         "baseHP": 80,
         "baseAttack": 118,

@@ -1,5 +1,6 @@
 {
     "YAMASK": {
+        "name": "Yamask",
         "blurb": "Each of them carries a mask that used to be its face when it was human.",
         "baseHP": 38,
         "baseAttack": 30,
@@ -174,6 +175,7 @@
         ]
     },
     "YAMASK_G": {
+        "name": "Yamask",
         "blurb": "It's said that this Pok\\emon was formed when an ancient clay tablet was drawn to a vengeful spirit.",
         "baseHP": 38,
         "baseAttack": 55,

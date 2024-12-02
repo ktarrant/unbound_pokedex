@@ -1,5 +1,6 @@
 {
     "FROSLASS": {
+        "name": "Froslass",
         "blurb": "Legends in snowy regions say that a woman who was lost on an icy mountain was reborn as Froslass.",
         "baseHP": 70,
         "baseAttack": 80,

@@ -1,5 +1,6 @@
 {
     "ZOROARK": {
+        "name": "Zoroark",
         "blurb": "Stories say those who tried to catch Zoroark were trapped in an illusion and punished.",
         "baseHP": 60,
         "baseAttack": 105,

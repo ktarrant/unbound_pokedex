@@ -1,5 +1,6 @@
 {
     "BINACLE": {
+        "name": "Binacle",
         "blurb": "Two Binacle live together on one rock. When they fight, one of them will move to a different rock.",
         "baseHP": 42,
         "baseAttack": 52,

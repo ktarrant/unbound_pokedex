@@ -1,5 +1,6 @@
 {
     "GRANBULL": {
+        "name": "Granbull",
         "baseHP": 90,
         "baseAttack": 120,
         "baseDefense": 75,

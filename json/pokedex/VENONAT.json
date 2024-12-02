@@ -1,5 +1,6 @@
 {
     "VENONAT": {
+        "name": "Venonat",
         "baseHP": 60,
         "baseAttack": 55,
         "baseDefense": 50,

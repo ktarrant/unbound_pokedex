@@ -1,5 +1,6 @@
 {
     "SILCOON": {
+        "name": "Silcoon",
         "baseHP": 50,
         "baseAttack": 35,
         "baseDefense": 55,

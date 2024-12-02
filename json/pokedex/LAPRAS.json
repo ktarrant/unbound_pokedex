@@ -1,5 +1,6 @@
 {
     "LAPRAS": {
+        "name": "Lapras",
         "baseHP": 130,
         "baseAttack": 85,
         "baseDefense": 80,
@@ -128,6 +129,7 @@
         ]
     },
     "LAPRAS_GIGA": {
+        "name": "Lapras",
         "baseHP": 130,
         "baseAttack": 85,
         "baseDefense": 80,

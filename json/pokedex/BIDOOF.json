@@ -1,5 +1,6 @@
 {
     "BIDOOF": {
+        "name": "Bidoof",
         "blurb": "With nerves of steel, nothing can perturb it. It is more agile and active than it appears.",
         "baseHP": 59,
         "baseAttack": 45,

@@ -1,5 +1,6 @@
 {
     "NIHILEGO": {
+        "name": "Nihilego",
         "blurb": "A life-form from another world, it was dubbed a UB and is thought to produce a strong neurotoxin.",
         "baseHP": 109,
         "baseAttack": 53,

@@ -1,5 +1,6 @@
 {
     "SCORBUNNY": {
+        "name": "Scorbunny",
         "blurb": "It has special pads on the backs of its feet, and one on its nose. Its pads radiate tremendous heat.",
         "baseHP": 50,
         "baseAttack": 71,

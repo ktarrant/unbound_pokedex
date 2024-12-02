@@ -1,5 +1,6 @@
 {
     "WEEZING": {
+        "name": "Weezing",
         "baseHP": 65,
         "baseAttack": 90,
         "baseDefense": 120,
@@ -178,6 +179,7 @@
         ]
     },
     "WEEZING_G": {
+        "name": "Weezing",
         "blurb": "This Pok\\emon consumes particles that contaminate the air. Instead of leaving droppings, it expels clean air.",
         "baseHP": 65,
         "baseAttack": 90,

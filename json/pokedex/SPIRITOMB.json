@@ -1,5 +1,6 @@
 {
     "SPIRITOMB": {
+        "name": "Spiritomb",
         "blurb": "A Pok\\emon that was formed by 108 spirits. It is bound to a fissure in an Odd Keystone.",
         "baseHP": 50,
         "baseAttack": 92,

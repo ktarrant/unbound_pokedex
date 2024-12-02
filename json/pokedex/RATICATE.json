@@ -1,5 +1,6 @@
 {
     "RATICATE": {
+        "name": "Raticate",
         "baseHP": 55,
         "baseAttack": 81,
         "baseDefense": 60,
@@ -174,6 +175,7 @@
         ]
     },
     "RATICATE_A": {
+        "name": "Raticate",
         "blurb": "It makes its Rattata underlings gather food for it, dining solely on the most nutritious and delicious fare.",
         "baseHP": 75,
         "baseAttack": 71,

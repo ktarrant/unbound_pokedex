@@ -1,5 +1,6 @@
 {
     "RAMPARDOS": {
+        "name": "Rampardos",
         "blurb": "Its powerful headbutt has enough power to shatter even the most durable things upon impact.",
         "baseHP": 97,
         "baseAttack": 165,

@@ -1,5 +1,6 @@
 {
     "PIDOVE": {
+        "name": "Pidove",
         "blurb": "These Pok\\emon live in cities. They are accustomed to people. Flocks often gather in parks and plazas.",
         "baseHP": 50,
         "baseAttack": 55,

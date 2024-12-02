@@ -1,5 +1,6 @@
 {
     "ESPURR": {
+        "name": "Espurr",
         "blurb": "The organ that emits its intense psychic power is sheltered by its ears to keep power from leaking out.",
         "baseHP": 62,
         "baseAttack": 48,

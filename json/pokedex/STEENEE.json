@@ -1,5 +1,6 @@
 {
     "STEENEE": {
+        "name": "Steenee",
         "blurb": "It bounces around, swinging the sepals on its head with abandon. It's quite painful when it smacks you!",
         "baseHP": 52,
         "baseAttack": 40,

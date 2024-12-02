@@ -1,5 +1,6 @@
 {
     "HAXORUS": {
+        "name": "Haxorus",
         "blurb": "Their sturdy tusks will stay sharp even if used to cut steel beams. They are covered in hard armor.",
         "baseHP": 76,
         "baseAttack": 147,
